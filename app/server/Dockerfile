@@ -23,4 +23,5 @@ RUN python3 -m spacy download en_core_web_sm
 
 EXPOSE 8080
 
+# gunicorn -w 1 -b 0.0.0.0:8080 --log-file server.log --capture-output --timeout 3600 --pid pid.log server:app --daemon
 ENTRYPOINT ["flask", "run", "-h", "0.0.0.0", "-p", "8080"]

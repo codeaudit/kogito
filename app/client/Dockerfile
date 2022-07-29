@@ -2,7 +2,7 @@ FROM node:18.5
 
 ENV HOME=/root
 ENV APP_DIR=${HOME}/kogito-client
-ENV REACT_APP_SERVER_URL=http://127.0.0.1:5000
+ENV REACT_APP_SERVER_URL=http://76.50.42.128:49780
 
 # Set default shell to /bin/bash
 SHELL ["/bin/bash", "-cu"]
@@ -23,4 +23,4 @@ RUN npm run build
 
 EXPOSE 3000
 
-ENTRYPOINT ["serve", "-s", "build"]
+CMD ["serve", "-s", "build"]

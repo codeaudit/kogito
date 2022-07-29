@@ -1,7 +1,7 @@
 {
   "name": "kogito",
   "version": "0.1.0",
-  "homepage": "https://epflnlp.github.io/kogito",
+  "homepage": "https://epfl-nlp.github.io/kogito",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",
