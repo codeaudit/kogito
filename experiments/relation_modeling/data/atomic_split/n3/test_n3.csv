@@ -1,0 +1,1072 @@
+,text,label,label_0,label_1,label_2
+0,PersonX absorbs every ___,"[0, 1, 1]",0,1,1
+1,PersonX acknowledges gratefully the ___,"[0, 1, 1]",0,1,1
+2,PersonX admits ___ into the union,"[0, 0, 1]",0,0,1
+3,PersonX allocates ___ efficiently,"[0, 1, 1]",0,1,1
+4,PersonX also made,"[0, 1, 1]",0,1,1
+5,PersonX also made ___,"[0, 1, 1]",0,1,1
+6,PersonX also put ___,"[0, 1, 1]",0,1,1
+7,PersonX always admired,"[0, 1, 1]",0,1,1
+8,PersonX always admired ___,"[0, 0, 1]",0,0,1
+9,PersonX always bragged,"[0, 1, 1]",0,1,1
+10,PersonX always get,"[0, 1, 1]",0,1,1
+11,PersonX always get ___,"[0, 1, 1]",0,1,1
+12,PersonX always put ___,"[0, 1, 1]",0,1,1
+13,PersonX always teased,"[0, 1, 1]",0,1,1
+14,PersonX always used,"[0, 0, 1]",0,0,1
+15,PersonX always used ___,"[0, 1, 1]",0,1,1
+16,PersonX animates every ___,"[0, 1, 1]",0,1,1
+17,PersonX anticipates every ___,"[0, 0, 1]",0,0,1
+18,PersonX appoints another ___,"[0, 1, 1]",0,1,1
+19,PersonX arranges another ___,"[0, 1, 1]",0,1,1
+20,PersonX associates with PersonY's name,"[0, 0, 1]",0,0,1
+21,PersonX assures PersonY would be,"[0, 1, 1]",0,1,1
+22,PersonX becomes PersonY advocate,"[0, 1, 1]",0,1,1
+23,PersonX becomes PersonY architect,"[0, 1, 1]",0,1,1
+24,PersonX becomes PersonY element,"[0, 1, 1]",0,1,1
+25,PersonX becomes PersonY obsession,"[0, 1, 1]",0,1,1
+26,PersonX becomes ___ ever,"[0, 0, 1]",0,0,1
+27,PersonX becomes ___ without PersonX's signature,"[0, 0, 1]",0,0,1
+28,PersonX becomes ___ without PersonY's signature,"[0, 0, 1]",0,0,1
+29,PersonX becomes a vegan,"[0, 1, 1]",0,1,1
+30,PersonX becomes a vegetarian,"[0, 1, 1]",0,1,1
+31,PersonX becomes annoyed,"[0, 1, 1]",0,1,1
+32,PersonX becomes anxious,"[0, 1, 1]",0,1,1
+33,PersonX becomes aware,"[0, 1, 1]",0,1,1
+34,PersonX becomes concerned,"[0, 1, 1]",0,1,1
+35,PersonX becomes effective on PersonY,"[0, 1, 1]",0,1,1
+36,PersonX becomes frightened,"[0, 1, 1]",0,1,1
+37,PersonX becomes furious,"[0, 1, 1]",0,1,1
+38,PersonX becomes infected,"[0, 1, 1]",0,1,1
+39,PersonX becomes terrified,"[0, 1, 1]",0,1,1
+40,PersonX becomes too much,"[0, 1, 1]",0,1,1
+41,PersonX becomes very interested,"[0, 1, 1]",0,1,1
+42,PersonX braves every ___,"[0, 1, 1]",0,1,1
+43,PersonX bruises the serpent 's ___,"[0, 1, 1]",0,1,1
+44,PersonX buries the lede,"[0, 1, 1]",0,1,1
+45,PersonX bursts upon PersonY,"[0, 1, 1]",0,1,1
+46,PersonX can get one,"[0, 0, 1]",0,0,1
+47,PersonX can it,"[0, 0, 1]",0,0,1
+48,PersonX can n't see anything,"[0, 1, 1]",0,1,1
+49,PersonX cites another ___,"[0, 0, 1]",0,0,1
+50,PersonX claps PersonY on the back,"[0, 1, 1]",0,1,1
+51,PersonX cleanses PersonY from all unrighteousness,"[0, 1, 1]",0,1,1
+52,PersonX collapses on top of PersonY,"[0, 1, 1]",0,1,1
+53,PersonX compares and contrast ___,"[0, 1, 1]",0,1,1
+54,PersonX comprehends every ___,"[0, 1, 1]",0,1,1
+55,PersonX confers ___ upon PersonY,"[0, 0, 1]",0,0,1
+56,PersonX confers upon PersonY,"[0, 1, 1]",0,1,1
+57,PersonX confers upon PersonY the ___,"[0, 0, 1]",0,0,1
+58,PersonX constitutes PersonY part,"[0, 1, 1]",0,1,1
+59,PersonX constructs another ___,"[0, 1, 1]",0,1,1
+60,PersonX defeats every ___,"[0, 0, 1]",0,0,1
+61,PersonX defies ___ from annoyance,"[0, 0, 1]",0,0,1
+62,PersonX defies every ___,"[0, 0, 1]",0,0,1
+63,PersonX delegates ___ to others,"[0, 0, 1]",0,0,1
+64,PersonX descends upon PersonY,"[0, 1, 1]",0,1,1
+65,PersonX devolves upon PersonY,"[0, 0, 1]",0,0,1
+66,PersonX devours every ___,"[0, 1, 1]",0,1,1
+67,PersonX differentiates ___ from another,"[0, 1, 1]",0,1,1
+68,PersonX does PersonX's damnedest,"[0, 1, 1]",0,1,1
+69,PersonX does PersonX's utmost,"[0, 1, 1]",0,1,1
+70,PersonX does a bunk,"[0, 1, 1]",0,1,1
+71,PersonX does everything together,"[0, 1, 1]",0,1,1
+72,PersonX does n't go well,"[0, 1, 1]",0,1,1
+73,PersonX does n't say anything,"[0, 1, 1]",0,1,1
+74,PersonX does n't see anything,"[0, 1, 1]",0,1,1
+75,PersonX does not go well,"[0, 1, 1]",0,1,1
+76,PersonX does really well,"[0, 1, 1]",0,1,1
+77,PersonX does something else,"[0, 1, 1]",0,1,1
+78,PersonX does something exciting,"[0, 1, 1]",0,1,1
+79,PersonX does the honours,"[0, 1, 1]",0,1,1
+80,PersonX dominates every ___,"[0, 1, 1]",0,1,1
+81,PersonX dwells together in PersonY,"[0, 1, 1]",0,1,1
+82,PersonX eliminates every ___,"[0, 1, 1]",0,1,1
+83,PersonX embraces every ___,"[0, 1, 1]",0,1,1
+84,PersonX encounters every ___,"[0, 1, 1]",0,1,1
+85,PersonX enlighteneth every ___,"[0, 1, 1]",0,1,1
+86,PersonX erects within the jurisdiction,"[0, 0, 1]",0,0,1
+87,PersonX exalts PersonY's ___ together,"[0, 0, 1]",0,0,1
+88,PersonX exploits every ___,"[0, 0, 1]",0,0,1
+89,PersonX extracts the urine,"[0, 1, 1]",0,1,1
+90,PersonX founded upon PersonY,"[0, 0, 1]",0,0,1
+91,PersonX gimmes a five,"[0, 0, 1]",0,0,1
+92,PersonX gnaws PersonY's vitals,"[0, 1, 1]",0,1,1
+93,PersonX governs another ___,"[0, 1, 1]",0,1,1
+94,PersonX governs every ___,"[0, 0, 1]",0,0,1
+95,PersonX gratifies every ___,"[0, 0, 1]",0,0,1
+96,PersonX hacks it,"[0, 1, 1]",0,1,1
+97,PersonX has PersonX's wits about PersonX,"[0, 1, 1]",0,1,1
+98,PersonX has PersonY's back,"[0, 1, 1]",0,1,1
+99,PersonX has a fable for ___,"[0, 1, 1]",0,1,1
+100,PersonX has a snootful,"[0, 1, 1]",0,1,1
+101,PersonX has another one,"[0, 1, 1]",0,1,1
+102,PersonX has ever done,"[0, 1, 1]",0,1,1
+103,PersonX has had it,"[0, 1, 1]",0,1,1
+104,PersonX has mercy upon PersonY,"[0, 1, 1]",0,1,1
+105,PersonX has never done it before,"[0, 1, 1]",0,1,1
+106,PersonX has nothing else to do,"[0, 1, 1]",0,1,1
+107,PersonX has to call someone,"[0, 1, 1]",0,1,1
+108,PersonX has to get another one,"[0, 1, 1]",0,1,1
+109,PersonX has to go back,"[0, 1, 1]",0,1,1
+110,PersonX hath ___ with unrighteousness,"[0, 0, 1]",0,0,1
+111,PersonX hoofs it,"[0, 1, 1]",0,1,1
+112,PersonX hums and haw,"[0, 0, 1]",0,0,1
+113,PersonX imagines ___ without PersonY,"[0, 1, 1]",0,1,1
+114,PersonX inflicts ___ upon PersonY,"[0, 0, 1]",0,0,1
+115,PersonX inflicts upon PersonY,"[0, 1, 1]",0,1,1
+116,PersonX inhibits ___ in vitro,"[0, 0, 1]",0,0,1
+117,PersonX inhuman or degrading ___,"[0, 0, 1]",0,0,1
+118,PersonX inspects every ___,"[0, 1, 1]",0,1,1
+119,PersonX investigates every ___,"[0, 1, 1]",0,1,1
+120,PersonX involves every ___,"[0, 1, 1]",0,1,1
+121,PersonX is ___ before could get,"[0, 0, 1]",0,0,1
+122,PersonX is ___ ever since,"[0, 0, 1]",0,0,1
+123,PersonX is an avid golfer,"[0, 1, 1]",0,1,1
+124,PersonX is ashamed of what PersonY had done,"[0, 1, 1]",0,1,1
+125,PersonX is doing really well,"[0, 1, 1]",0,1,1
+126,PersonX is hesitant at first,"[0, 1, 1]",0,1,1
+127,PersonX is in and out,"[0, 1, 1]",0,1,1
+128,PersonX is lactose intolerant,"[0, 1, 1]",0,1,1
+129,PersonX is merely another ___,"[0, 0, 1]",0,0,1
+130,PersonX is really embarrassed,"[0, 0, 1]",0,0,1
+131,PersonX is really full,"[0, 1, 1]",0,1,1
+132,PersonX is really impressed,"[0, 1, 1]",0,1,1
+133,PersonX is really shy,"[0, 1, 1]",0,1,1
+134,PersonX is really ugly,"[0, 1, 1]",0,1,1
+135,PersonX is simply another ___,"[0, 0, 1]",0,0,1
+136,PersonX is still alone,"[0, 1, 1]",0,1,1
+137,PersonX is still another ___,"[0, 0, 1]",0,0,1
+138,PersonX is still in PersonX's infancy,"[0, 1, 1]",0,1,1
+139,PersonX is still relevant ___,"[0, 0, 1]",0,0,1
+140,PersonX is still valid ___,"[0, 0, 1]",0,0,1
+141,PersonX is the first one,"[0, 1, 1]",0,1,1
+142,PersonX is the last one,"[0, 1, 1]",0,1,1
+143,PersonX is yet another ___,"[0, 0, 1]",0,0,1
+144,PersonX justifies every ___,"[0, 0, 1]",0,0,1
+145,PersonX lavishes upon PersonY,"[0, 1, 1]",0,1,1
+146,PersonX lone it it,"[0, 0, 1]",0,0,1
+147,PersonX loveth well ___,"[0, 0, 1]",0,0,1
+148,PersonX masses every ___,"[0, 1, 1]",0,1,1
+149,PersonX may never,"[0, 0, 1]",0,0,1
+150,PersonX mentions PersonY name,"[0, 1, 1]",0,1,1
+151,PersonX mentions PersonY's name,"[0, 1, 1]",0,1,1
+152,PersonX moans PersonY's name,"[0, 1, 1]",0,1,1
+153,PersonX never get ___,"[0, 0, 1]",0,0,1
+154,PersonX never go,"[0, 1, 1]",0,1,1
+155,PersonX never go ___,"[0, 1, 1]",0,1,1
+156,PersonX never go back,"[0, 1, 1]",0,1,1
+157,PersonX never made ___,"[0, 0, 1]",0,0,1
+158,PersonX never see PersonY,"[0, 1, 1]",0,1,1
+159,PersonX never used ___,"[0, 1, 1]",0,1,1
+160,PersonX obliterates every ___,"[0, 1, 1]",0,1,1
+161,PersonX often made ___,"[0, 1, 1]",0,1,1
+162,PersonX outlives PersonX's usefulness,"[0, 1, 1]",0,1,1
+163,PersonX outlives PersonY's usefulness,"[0, 1, 1]",0,1,1
+164,PersonX outpope the pope the pope,"[0, 0, 1]",0,0,1
+165,PersonX outweighs the ___ to the fetus,"[0, 1, 1]",0,1,1
+166,PersonX permeates every ___,"[0, 1, 1]",0,1,1
+167,PersonX plies PersonY's trade,"[0, 1, 1]",0,1,1
+168,PersonX poses PersonY threat,"[0, 1, 1]",0,1,1
+169,PersonX possesses every ___,"[0, 1, 1]",0,1,1
+170,PersonX practises every ___,"[0, 1, 1]",0,1,1
+171,PersonX preaches the gospel to every creature,"[0, 1, 1]",0,1,1
+172,PersonX prevails among PersonY,"[0, 1, 1]",0,1,1
+173,PersonX proclaims ___ to the captives,"[0, 0, 1]",0,0,1
+174,PersonX punishes every ___,"[0, 1, 1]",0,1,1
+175,PersonX putts PersonY together,"[0, 0, 1]",0,0,1
+176,PersonX quenches PersonX's thirst,"[0, 1, 1]",0,1,1
+177,PersonX reaps the harvest,"[0, 1, 1]",0,1,1
+178,PersonX reaps the whirlwind,"[0, 1, 1]",0,1,1
+179,PersonX recurs every ___,"[0, 0, 1]",0,0,1
+180,PersonX reigns ___ in jerusalem,"[0, 0, 1]",0,0,1
+181,PersonX rejects every ___,"[0, 1, 1]",0,1,1
+182,PersonX resists ___ by minorities,"[0, 1, 1]",0,1,1
+183,PersonX resists every ___,"[0, 1, 1]",0,1,1
+184,PersonX responds back,"[0, 1, 1]",0,1,1
+185,PersonX savors every ___,"[0, 0, 1]",0,0,1
+186,PersonX scrapes together ___,"[0, 1, 1]",0,1,1
+187,PersonX scrapes together a ___,"[0, 1, 1]",0,1,1
+188,PersonX seems friendly,"[0, 1, 1]",0,1,1
+189,PersonX seems interesting,"[0, 1, 1]",0,1,1
+190,PersonX seems to PersonY would be,"[0, 0, 1]",0,0,1
+191,PersonX shoulds always,"[0, 0, 1]",0,0,1
+192,PersonX sniffs around,"[0, 1, 1]",0,1,1
+193,PersonX splices the mainbrace,"[0, 1, 1]",0,1,1
+194,PersonX strains every ___,"[0, 1, 1]",0,1,1
+195,PersonX suggests another ___,"[0, 1, 1]",0,1,1
+196,PersonX summons another ___,"[0, 1, 1]",0,1,1
+197,PersonX suppresses every ___,"[0, 1, 1]",0,1,1
+198,PersonX swirls around PersonY,"[0, 1, 1]",0,1,1
+199,PersonX syphons the python,"[0, 1, 1]",0,1,1
+200,PersonX thrusts upon PersonY,"[0, 1, 1]",0,1,1
+201,PersonX twirls around,"[0, 1, 1]",0,1,1
+202,PersonX undergoes another ___,"[0, 1, 1]",0,1,1
+203,PersonX undertakes another ___,"[0, 0, 1]",0,0,1
+204,PersonX up the ante,"[0, 1, 1]",0,1,1
+205,PersonX updates every ___,"[0, 1, 1]",0,1,1
+206,PersonX utilizes every ___,"[0, 1, 1]",0,1,1
+207,PersonX utters PersonY exclamation,"[0, 0, 1]",0,0,1
+208,PersonX violates every ___,"[0, 0, 1]",0,0,1
+209,PersonX weighs every ___,"[0, 1, 1]",0,1,1
+210,PersonX will never see PersonY again,"[0, 1, 1]",0,1,1
+211,PersonX woe betides,"[0, 0, 1]",0,0,1
+212,PersonX would always,"[0, 0, 1]",0,0,1
+213,PersonX would ever,"[0, 0, 1]",0,0,1
+214,PersonX would go,"[0, 1, 1]",0,1,1
+215,PersonX would go well,"[0, 0, 1]",0,0,1
+216,PersonX would make it,"[0, 1, 1]",0,1,1
+217,PersonX would mock PersonY,"[0, 1, 1]",0,1,1
+218,PersonX would n't even,"[0, 0, 1]",0,0,1
+219,PersonX would rather,"[0, 0, 1]",0,0,1
+220,PersonX would see PersonY,"[0, 1, 1]",0,1,1
+221,PersonX would take PersonY,"[0, 1, 1]",0,1,1
+222,PersonX wreaks havoc,"[0, 1, 1]",0,1,1
+223,PersonX zig when PersonX shoulds zag,"[0, 1, 1]",0,1,1
+224,accordion,"[1, 0, 0]",1,0,0
+225,acorn,"[1, 0, 0]",1,0,0
+226,agenda,"[1, 0, 0]",1,0,0
+227,alchohol,"[1, 0, 0]",1,0,0
+228,algae,"[1, 0, 0]",1,0,0
+229,ammonia,"[1, 0, 0]",1,0,0
+230,antenna,"[1, 0, 0]",1,0,0
+231,antihistamine,"[1, 0, 0]",1,0,0
+232,aqua,"[1, 0, 0]",1,0,0
+233,arena,"[1, 0, 0]",1,0,0
+234,armchair,"[1, 0, 0]",1,0,0
+235,armoire,"[1, 0, 0]",1,0,0
+236,armrest,"[1, 0, 0]",1,0,0
+237,aspirin,"[1, 0, 0]",1,0,0
+238,avenue,"[1, 0, 0]",1,0,0
+239,ax,"[1, 0, 0]",1,0,0
+240,backdrop,"[1, 0, 0]",1,0,0
+241,ballroom,"[1, 0, 0]",1,0,0
+242,barricade,"[1, 0, 0]",1,0,0
+243,bartender,"[1, 0, 0]",1,0,0
+244,bathtub,"[1, 0, 0]",1,0,0
+245,beachball,"[1, 0, 0]",1,0,0
+246,beehive,"[1, 0, 0]",1,0,0
+247,billfold,"[1, 0, 0]",1,0,0
+248,birdbath,"[1, 0, 0]",1,0,0
+249,blowdryer,"[1, 0, 0]",1,0,0
+250,bong,"[1, 0, 0]",1,0,0
+251,bookcase,"[1, 0, 0]",1,0,0
+252,bookstore,"[1, 0, 0]",1,0,0
+253,brandy,"[1, 0, 0]",1,0,0
+254,broccoli,"[1, 0, 0]",1,0,0
+255,burglar,"[1, 0, 0]",1,0,0
+256,cactus,"[1, 0, 0]",1,0,0
+257,cafe,"[1, 0, 0]",1,0,0
+258,caffeine,"[1, 0, 0]",1,0,0
+259,calender,"[1, 0, 0]",1,0,0
+260,call,"[1, 1, 0]",1,1,0
+261,can,"[1, 0, 0]",1,0,0
+262,cannabis,"[1, 0, 0]",1,0,0
+263,cannonball,"[1, 0, 0]",1,0,0
+264,canopy,"[1, 0, 0]",1,0,0
+265,carousel,"[1, 0, 0]",1,0,0
+266,carrott,"[1, 0, 0]",1,0,0
+267,catwalk,"[1, 0, 0]",1,0,0
+268,celery,"[1, 0, 0]",1,0,0
+269,cello,"[1, 0, 0]",1,0,0
+270,ceo,"[1, 0, 0]",1,0,0
+271,chalkboard,"[1, 0, 0]",1,0,0
+272,chapel,"[1, 0, 0]",1,0,0
+273,chlorine,"[1, 0, 0]",1,0,0
+274,cinnamon,"[1, 0, 0]",1,0,0
+275,clam,"[1, 0, 0]",1,0,0
+276,cleanliness,"[1, 0, 0]",1,0,0
+277,cobweb,"[1, 0, 0]",1,0,0
+278,cockpit,"[1, 0, 0]",1,0,0
+279,coffeemaker,"[1, 0, 0]",1,0,0
+280,compass,"[1, 0, 0]",1,0,0
+281,compassion,"[1, 0, 0]",1,0,0
+282,concierge,"[1, 0, 0]",1,0,0
+283,condo,"[1, 0, 0]",1,0,0
+284,condominium,"[1, 0, 0]",1,0,0
+285,confetti,"[1, 0, 0]",1,0,0
+286,corpse,"[1, 0, 0]",1,0,0
+287,cot,"[1, 0, 0]",1,0,0
+288,courtroom,"[1, 0, 0]",1,0,0
+289,crayfish,"[1, 0, 0]",1,0,0
+290,creek,"[1, 0, 0]",1,0,0
+291,crockery,"[1, 0, 0]",1,0,0
+292,crowbar,"[1, 0, 0]",1,0,0
+293,cubicle,"[1, 0, 0]",1,0,0
+294,curb,"[1, 0, 0]",1,0,0
+295,custard,"[1, 0, 0]",1,0,0
+296,dashboard,"[1, 0, 0]",1,0,0
+297,decanter,"[1, 0, 0]",1,0,0
+298,diner,"[1, 0, 0]",1,0,0
+299,dinnerware,"[1, 0, 0]",1,0,0
+300,doorknob,"[1, 0, 0]",1,0,0
+301,doormat,"[1, 0, 0]",1,0,0
+302,doorway,"[1, 0, 0]",1,0,0
+303,edger,"[1, 0, 0]",1,0,0
+304,electricity,"[1, 1, 0]",1,1,0
+305,encyclopedia,"[1, 0, 0]",1,0,0
+306,entre,"[1, 0, 0]",1,0,0
+307,entree,"[1, 0, 0]",1,0,0
+308,eyeliner,"[1, 0, 0]",1,0,0
+309,ferret,"[1, 0, 0]",1,0,0
+310,firefly,"[1, 0, 0]",1,0,0
+311,firetruck,"[1, 0, 0]",1,0,0
+312,first,"[1, 0, 0]",1,0,0
+313,floss,"[1, 0, 1]",1,0,1
+314,flowerpot,"[1, 0, 0]",1,0,0
+315,footstool,"[1, 0, 0]",1,0,0
+316,freon,"[1, 0, 0]",1,0,0
+317,froth,"[1, 0, 0]",1,0,0
+318,fur,"[1, 0, 0]",1,0,0
+319,gauze,"[1, 0, 0]",1,0,0
+320,gavel,"[1, 0, 0]",1,0,0
+321,germ,"[1, 1, 0]",1,1,0
+322,gin,"[1, 0, 0]",1,0,0
+323,giraffe,"[1, 0, 0]",1,0,0
+324,glassware,"[1, 0, 0]",1,0,0
+325,gopher,"[1, 0, 0]",1,0,0
+326,granite,"[1, 0, 0]",1,0,0
+327,gravel,"[1, 0, 0]",1,0,0
+328,grime,"[1, 0, 0]",1,0,0
+329,groom,"[1, 1, 1]",1,1,1
+330,gurney,"[1, 0, 0]",1,0,0
+331,hairbrush,"[1, 0, 0]",1,0,0
+332,hairdryer,"[1, 0, 0]",1,0,0
+333,hairspray,"[1, 0, 0]",1,0,0
+334,hallway,"[1, 0, 0]",1,0,0
+335,hammock,"[1, 0, 0]",1,0,0
+336,hamster,"[1, 0, 0]",1,0,0
+337,handbag,"[1, 0, 0]",1,0,0
+338,handgun,"[1, 0, 0]",1,0,0
+339,hangar,"[1, 0, 0]",1,0,0
+340,happiness,"[1, 1, 0]",1,1,0
+341,helicopter,"[1, 0, 0]",1,0,0
+342,hymnal,"[1, 0, 0]",1,0,0
+343,ibuprofen,"[1, 0, 0]",1,0,0
+344,icebox,"[1, 0, 0]",1,0,0
+345,incense,"[1, 0, 0]",1,0,0
+346,insulation,"[1, 0, 0]",1,0,0
+347,insulin,"[1, 0, 0]",1,0,0
+348,iodine,"[1, 0, 0]",1,0,0
+349,ipod,"[1, 0, 0]",1,0,0
+350,irs,"[1, 1, 0]",1,1,0
+351,isle,"[1, 0, 0]",1,0,0
+352,jukebox,"[1, 0, 0]",1,0,0
+353,kava,"[1, 0, 0]",1,0,0
+354,kiwi,"[1, 0, 0]",1,0,0
+355,koolaid,"[1, 0, 0]",1,0,0
+356,koran,"[1, 0, 0]",1,0,0
+357,ladle,"[1, 0, 0]",1,0,0
+358,lantern,"[1, 0, 0]",1,0,0
+359,legend,"[1, 0, 0]",1,0,0
+360,licorice,"[1, 0, 0]",1,0,0
+361,lightning,"[1, 1, 0]",1,1,0
+362,lightswitch,"[1, 0, 0]",1,0,0
+363,liniment,"[1, 0, 0]",1,0,0
+364,liver,"[1, 0, 0]",1,0,0
+365,lumber,"[1, 0, 0]",1,0,0
+366,lupine,"[1, 0, 0]",1,0,0
+367,mantle,"[1, 0, 0]",1,0,0
+368,marijuana,"[1, 1, 0]",1,1,0
+369,matress,"[1, 0, 0]",1,0,0
+370,mayo,"[1, 0, 0]",1,0,0
+371,mayonaise,"[1, 0, 0]",1,0,0
+372,mayonnaise,"[1, 0, 0]",1,0,0
+373,meatloaf,"[1, 0, 0]",1,0,0
+374,median,"[1, 0, 0]",1,0,0
+375,melody,"[1, 0, 0]",1,0,0
+376,metronome,"[1, 0, 0]",1,0,0
+377,milkshake,"[1, 0, 0]",1,0,0
+378,minister,"[1, 0, 0]",1,0,0
+379,moisture,"[1, 1, 0]",1,1,0
+380,morphine,"[1, 0, 0]",1,0,0
+381,mri,"[1, 0, 0]",1,0,0
+382,mugger,"[1, 0, 0]",1,0,0
+383,name,"[1, 0, 0]",1,0,0
+384,niece,"[1, 0, 0]",1,0,0
+385,nightstand,"[1, 0, 0]",1,0,0
+386,nostril,"[1, 0, 0]",1,0,0
+387,nutcracker,"[1, 0, 0]",1,0,0
+388,obituary,"[1, 0, 0]",1,0,0
+389,one,"[1, 0, 0]",1,0,0
+390,oregano,"[1, 0, 0]",1,0,0
+391,ottoman,"[1, 0, 0]",1,0,0
+392,pamplets,"[1, 0, 0]",1,0,0
+393,paperclip,"[1, 0, 0]",1,0,0
+394,paperweight,"[1, 0, 0]",1,0,0
+395,parcel,"[1, 0, 0]",1,0,0
+396,pattern,"[1, 0, 0]",1,0,0
+397,pepperoni,"[1, 0, 0]",1,0,0
+398,pepsi,"[1, 0, 0]",1,0,0
+399,photographer,"[1, 0, 0]",1,0,0
+400,pillowcase,"[1, 0, 0]",1,0,0
+401,pimple,"[1, 0, 0]",1,0,0
+402,pinata,"[1, 0, 0]",1,0,0
+403,playground,"[1, 0, 0]",1,0,0
+404,podium,"[1, 0, 0]",1,0,0
+405,population,"[1, 0, 0]",1,0,0
+406,pornography,"[1, 0, 0]",1,0,0
+407,postman,"[1, 0, 0]",1,0,0
+408,pothole,"[1, 0, 0]",1,0,0
+409,presenter,"[1, 0, 0]",1,0,0
+410,priest,"[1, 0, 0]",1,0,0
+411,pudding,"[1, 0, 0]",1,0,0
+412,pulpit,"[1, 0, 0]",1,0,0
+413,rabbi,"[1, 0, 0]",1,0,0
+414,racecars,"[1, 0, 0]",1,0,0
+415,ravine,"[1, 0, 0]",1,0,0
+416,relaxation,"[1, 0, 0]",1,0,0
+417,resin,"[1, 0, 0]",1,0,0
+418,revolver,"[1, 0, 0]",1,0,0
+419,robot,"[1, 0, 0]",1,0,0
+420,rocker,"[1, 0, 0]",1,0,0
+421,rubbish,"[1, 0, 0]",1,0,0
+422,runway,"[1, 0, 0]",1,0,0
+423,saliva,"[1, 0, 0]",1,0,0
+424,sandbox,"[1, 0, 0]",1,0,0
+425,saucepan,"[1, 0, 0]",1,0,0
+426,sauna,"[1, 0, 0]",1,0,0
+427,schoolwork,"[1, 0, 0]",1,0,0
+428,seashell,"[1, 0, 0]",1,0,0
+429,seaweed,"[1, 0, 0]",1,0,0
+430,sedative,"[1, 0, 0]",1,0,0
+431,sermon,"[1, 0, 0]",1,0,0
+432,sewage,"[1, 0, 0]",1,0,0
+433,shit,"[1, 1, 0]",1,1,0
+434,show,"[1, 1, 0]",1,1,0
+435,shrimp,"[1, 0, 0]",1,0,0
+436,solace,"[1, 0, 0]",1,0,0
+437,souviners,"[1, 0, 0]",1,0,0
+438,spaceship,"[1, 0, 0]",1,0,0
+439,spackle,"[1, 0, 0]",1,0,0
+440,spam,"[1, 0, 0]",1,0,0
+441,spleen,"[1, 0, 0]",1,0,0
+442,spotlight,"[1, 0, 0]",1,0,0
+443,staircase,"[1, 0, 0]",1,0,0
+444,stairmaster,"[1, 0, 0]",1,0,0
+445,stemware,"[1, 0, 0]",1,0,0
+446,stepladder,"[1, 0, 0]",1,0,0
+447,stethoscope,"[1, 0, 0]",1,0,0
+448,stylus,"[1, 0, 0]",1,0,0
+449,sunlight,"[1, 1, 0]",1,1,0
+450,sunrise,"[1, 0, 0]",1,0,0
+451,swingset,"[1, 0, 0]",1,0,0
+452,tablespoon,"[1, 0, 0]",1,0,0
+453,teakettle,"[1, 0, 0]",1,0,0
+454,teaspoon,"[1, 0, 0]",1,0,0
+455,tequila,"[1, 1, 0]",1,1,0
+456,thermostat,"[1, 0, 0]",1,0,0
+457,thesaurus,"[1, 0, 0]",1,0,0
+458,timetable,"[1, 0, 0]",1,0,0
+459,toffee,"[1, 0, 0]",1,0,0
+460,toliet,"[1, 0, 0]",1,0,0
+461,toner,"[1, 0, 0]",1,0,0
+462,toolbox,"[1, 0, 0]",1,0,0
+463,tourniquet,"[1, 0, 0]",1,0,0
+464,trampoline,"[1, 0, 0]",1,0,0
+465,transmission,"[1, 0, 0]",1,0,0
+466,treadmill,"[1, 0, 0]",1,0,0
+467,tuba,"[1, 0, 0]",1,0,0
+468,urinal,"[1, 0, 0]",1,0,0
+469,vaccuum,"[1, 0, 0]",1,0,0
+470,varnish,"[1, 0, 0]",1,0,0
+471,vaseline,"[1, 0, 0]",1,0,0
+472,vault,"[1, 0, 0]",1,0,0
+473,vegatables,"[1, 0, 0]",1,0,0
+474,velvet,"[1, 0, 0]",1,0,0
+475,vermouth,"[1, 0, 0]",1,0,0
+476,vessel,"[1, 0, 0]",1,0,0
+477,victim,"[1, 0, 0]",1,0,0
+478,vinyl,"[1, 0, 0]",1,0,0
+479,viola,"[1, 0, 0]",1,0,0
+480,virus,"[1, 1, 0]",1,1,0
+481,wallpaper,"[1, 0, 0]",1,0,0
+482,washcloth,"[1, 0, 0]",1,0,0
+483,wastebasket,"[1, 0, 0]",1,0,0
+484,welder,"[1, 0, 0]",1,0,0
+485,well,"[1, 0, 0]",1,0,0
+486,wheelchair,"[1, 0, 0]",1,0,0
+487,whey,"[1, 0, 0]",1,0,0
+488,whisk,"[1, 0, 0]",1,0,0
+489,whiteboard,"[1, 0, 0]",1,0,0
+490,wildlife,"[1, 0, 0]",1,0,0
+491,workbench,"[1, 0, 0]",1,0,0
+492,wreath,"[1, 0, 0]",1,0,0
+493,wristwatch,"[1, 0, 0]",1,0,0
+494,xylophone,"[1, 0, 0]",1,0,0
+495,yearbook,"[1, 0, 0]",1,0,0
+496,yoyo,"[1, 0, 0]",1,0,0
+497,zebra,"[1, 0, 0]",1,0,0
+498,zucchini,"[1, 0, 0]",1,0,0
+499,abyss,"[1, 0, 0]",1,0,0
+500,acar,"[1, 0, 0]",1,0,0
+501,accomadations,"[1, 0, 0]",1,0,0
+502,accommodation,"[1, 0, 0]",1,0,0
+503,accomodation,"[1, 0, 0]",1,0,0
+504,acetaminophen,"[1, 0, 0]",1,0,0
+505,acit,"[1, 0, 0]",1,0,0
+506,adjenda,"[1, 0, 0]",1,0,0
+507,adultery,"[1, 1, 0]",1,1,0
+508,advertisments,"[1, 0, 0]",1,0,0
+509,aetna,"[1, 0, 0]",1,0,0
+510,aggravation,"[1, 0, 0]",1,0,0
+511,aiplane,"[1, 0, 0]",1,0,0
+512,airlock,"[1, 0, 0]",1,0,0
+513,al gore,"[1, 0, 0]",1,0,0
+514,alice in wonderland,"[1, 0, 0]",1,0,0
+515,amager,"[1, 0, 0]",1,0,0
+516,amharic,"[1, 0, 0]",1,0,0
+517,amnesia,"[1, 0, 0]",1,0,0
+518,amonia,"[1, 0, 0]",1,0,0
+519,amoxicillin,"[1, 0, 0]",1,0,0
+520,ampicillin,"[1, 0, 0]",1,0,0
+521,amunition,"[1, 0, 0]",1,0,0
+522,amway,"[1, 0, 0]",1,0,0
+523,analgesic,"[1, 0, 0]",1,0,0
+524,anarchy,"[1, 0, 0]",1,0,0
+525,ancient greek,"[1, 0, 0]",1,0,0
+526,anecdote,"[1, 0, 0]",1,0,0
+527,anime,"[1, 0, 0]",1,0,0
+528,announcer,"[1, 0, 0]",1,0,0
+529,anodyne,"[1, 0, 0]",1,0,0
+530,anshor,"[1, 0, 0]",1,0,0
+531,antarctica,"[1, 0, 0]",1,0,0
+532,anthrax,"[1, 0, 0]",1,0,0
+533,antidote,"[1, 0, 0]",1,0,0
+534,antifreeze,"[1, 0, 0]",1,0,0
+535,antipruritic,"[1, 0, 0]",1,0,0
+536,antipyretic,"[1, 0, 0]",1,0,0
+537,antispasmodic,"[1, 0, 0]",1,0,0
+538,antitussive,"[1, 0, 0]",1,0,0
+539,antivenin,"[1, 0, 0]",1,0,0
+540,anus,"[1, 0, 0]",1,0,0
+541,anything,"[1, 0, 0]",1,0,0
+542,aphrodisiac,"[1, 0, 0]",1,0,0
+543,arabic,"[1, 0, 0]",1,0,0
+544,archboard,"[1, 0, 0]",1,0,0
+545,archway,"[1, 0, 0]",1,0,0
+546,arial,"[1, 0, 0]",1,0,0
+547,armory,"[1, 0, 0]",1,0,0
+548,arnold,"[1, 0, 0]",1,0,0
+549,artefact,"[1, 0, 0]",1,0,0
+550,artpiece,"[1, 0, 0]",1,0,0
+551,asphalt,"[1, 0, 0]",1,0,0
+552,asphault,"[1, 0, 0]",1,0,0
+553,asteroid,"[1, 0, 0]",1,0,0
+554,astranauts,"[1, 0, 0]",1,0,0
+555,astringent,"[1, 0, 0]",1,0,0
+556,astronaughts,"[1, 0, 0]",1,0,0
+557,astronots,"[1, 0, 0]",1,0,0
+558,at bottom,"[1, 0, 0]",1,0,0
+559,attendee,"[1, 0, 0]",1,0,0
+560,attraction,"[1, 0, 0]",1,0,0
+561,attribute,"[1, 0, 0]",1,0,0
+562,aurora,"[1, 0, 0]",1,0,0
+563,bactericide,"[1, 0, 0]",1,0,0
+564,bacteriostat,"[1, 0, 0]",1,0,0
+565,badger,"[1, 0, 0]",1,0,0
+566,bagger,"[1, 0, 0]",1,0,0
+567,bai,"[1, 0, 0]",1,0,0
+568,balalaika,"[1, 0, 0]",1,0,0
+569,ballgown,"[1, 0, 0]",1,0,0
+570,balnkets,"[1, 0, 0]",1,0,0
+571,balustrade,"[1, 0, 0]",1,0,0
+572,bandaides,"[1, 0, 0]",1,0,0
+573,barbiturate,"[1, 0, 0]",1,0,0
+574,barnard,"[1, 0, 0]",1,0,0
+575,barraks,"[1, 0, 0]",1,0,0
+576,bassoon,"[1, 0, 0]",1,0,0
+577,battelfield,"[1, 0, 0]",1,0,0
+578,baywatch,"[1, 0, 0]",1,0,0
+579,bedpan,"[1, 0, 0]",1,0,0
+580,bedstand,"[1, 0, 0]",1,0,0
+581,beefburger,"[1, 0, 0]",1,0,0
+582,beggar,"[1, 0, 0]",1,0,0
+583,beggers,"[1, 0, 0]",1,0,0
+584,belief,"[1, 1, 0]",1,1,0
+585,believer,"[1, 0, 0]",1,0,0
+586,bellboy,"[1, 0, 0]",1,0,0
+587,bellhop,"[1, 0, 0]",1,0,0
+588,benck,"[1, 0, 0]",1,0,0
+589,benzocaine,"[1, 0, 0]",1,0,0
+590,bias,"[1, 0, 0]",1,0,0
+591,bibliophile,"[1, 0, 0]",1,0,0
+592,bidet,"[1, 0, 0]",1,0,0
+593,bladder,"[1, 0, 0]",1,0,0
+594,blister,"[1, 0, 0]",1,0,0
+595,blowfish,"[1, 0, 0]",1,0,0
+596,bluebird,"[1, 0, 0]",1,0,0
+597,bmw,"[1, 0, 0]",1,0,0
+598,boater,"[1, 0, 0]",1,0,0
+599,bogey mand,"[1, 0, 0]",1,0,0
+600,bogeyman,"[1, 0, 0]",1,0,0
+601,booger,"[1, 0, 0]",1,0,0
+602,bookend,"[1, 0, 0]",1,0,0
+603,bottom,"[1, 0, 0]",1,0,0
+604,botttles,"[1, 0, 0]",1,0,0
+605,boulevard,"[1, 0, 0]",1,0,0
+606,bouncer,"[1, 0, 0]",1,0,0
+607,boundary,"[1, 0, 0]",1,0,0
+608,bribery,"[1, 1, 0]",1,1,0
+609,bridesmaid,"[1, 0, 0]",1,0,0
+610,bromine,"[1, 0, 0]",1,0,0
+611,brook,"[1, 0, 0]",1,0,0
+612,brotherhood,"[1, 0, 0]",1,0,0
+613,bubblegum,"[1, 0, 0]",1,0,0
+614,bugle,"[1, 0, 0]",1,0,0
+615,buliten,"[1, 0, 0]",1,0,0
+616,bullseyes,"[1, 0, 0]",1,0,0
+617,bullshit,"[1, 0, 0]",1,0,0
+618,bungalow,"[1, 0, 0]",1,0,0
+619,bureaucracy,"[1, 0, 0]",1,0,0
+620,busboy,"[1, 0, 0]",1,0,0
+621,buttercup,"[1, 0, 0]",1,0,0
+622,cabriolet,"[1, 0, 0]",1,0,0
+623,campground,"[1, 0, 0]",1,0,0
+624,canal,"[1, 0, 0]",1,0,0
+625,candelabera,"[1, 0, 0]",1,0,0
+626,candlestick,"[1, 0, 0]",1,0,0
+627,cannolli,"[1, 0, 0]",1,0,0
+628,canoe,"[1, 0, 0]",1,0,0
+629,cantonese,"[1, 0, 0]",1,0,0
+630,capri,"[1, 0, 0]",1,0,0
+631,capsicum,"[1, 0, 0]",1,0,0
+632,carburators,"[1, 0, 0]",1,0,0
+633,carburettor,"[1, 0, 0]",1,0,0
+634,carneys,"[1, 0, 0]",1,0,0
+635,carnies,"[1, 0, 0]",1,0,0
+636,castanets,"[1, 0, 0]",1,0,0
+637,catfish,"[1, 0, 0]",1,0,0
+638,cathartic,"[1, 0, 0]",1,0,0
+639,catherine havasi,"[1, 1, 0]",1,1,0
+640,cavity,"[1, 0, 0]",1,0,0
+641,cemetery,"[1, 0, 0]",1,0,0
+642,ceral,"[1, 0, 0]",1,0,0
+643,chamois,"[1, 0, 0]",1,0,0
+644,characteristic,"[1, 0, 0]",1,0,0
+645,charcole,"[1, 0, 0]",1,0,0
+646,cheesebuger,"[1, 0, 0]",1,0,0
+647,chemist,"[1, 0, 0]",1,0,0
+648,chesspiece,"[1, 0, 0]",1,0,0
+649,chesterfield,"[1, 0, 0]",1,0,0
+650,childseat,"[1, 0, 0]",1,0,0
+651,chimeny,"[1, 0, 0]",1,0,0
+652,chimpanzee,"[1, 0, 0]",1,0,0
+653,chinchilla,"[1, 0, 0]",1,0,0
+654,chipmunk,"[1, 0, 0]",1,0,0
+655,chlamydia,"[1, 0, 0]",1,0,0
+656,choker,"[1, 0, 0]",1,0,0
+657,chopper,"[1, 0, 0]",1,0,0
+658,churchyard,"[1, 0, 0]",1,0,0
+659,cinderella,"[1, 0, 0]",1,0,0
+660,cineastes,"[1, 0, 0]",1,0,0
+661,clavichord,"[1, 0, 0]",1,0,0
+662,coathanger,"[1, 0, 0]",1,0,0
+663,cobbler,"[1, 0, 0]",1,0,0
+664,cobblestone,"[1, 0, 0]",1,0,0
+665,codeine,"[1, 0, 0]",1,0,0
+666,cofee,"[1, 0, 0]",1,0,0
+667,column,"[1, 0, 0]",1,0,0
+668,comet,"[1, 0, 0]",1,0,0
+669,commerical,"[1, 0, 0]",1,0,0
+670,commonsense,"[1, 0, 0]",1,0,0
+671,communism,"[1, 0, 0]",1,0,0
+672,commuter,"[1, 0, 0]",1,0,0
+673,companionship,"[1, 0, 0]",1,0,0
+674,compas,"[1, 0, 0]",1,0,0
+675,compases,"[1, 0, 0]",1,0,0
+676,compote,"[1, 0, 0]",1,0,0
+677,comuters,"[1, 0, 0]",1,0,0
+678,conch,"[1, 0, 0]",1,0,0
+679,conche,"[1, 0, 0]",1,0,0
+680,condimemts,"[1, 0, 0]",1,0,0
+681,conducter,"[1, 0, 0]",1,0,0
+682,confessor,"[1, 0, 0]",1,0,0
+683,conspicuous consumption,"[1, 0, 0]",1,0,0
+684,contentment,"[1, 0, 0]",1,0,0
+685,contralto,"[1, 0, 0]",1,0,0
+686,cornet,"[1, 0, 0]",1,0,0
+687,cornmeal,"[1, 0, 0]",1,0,0
+688,correspondence,"[1, 0, 0]",1,0,0
+689,cortisone,"[1, 0, 0]",1,0,0
+690,cottonballs,"[1, 0, 0]",1,0,0
+691,courthouse,"[1, 0, 0]",1,0,0
+692,cowpats,"[1, 0, 0]",1,0,0
+693,crater,"[1, 0, 0]",1,0,0
+694,crawlspace,"[1, 0, 0]",1,0,0
+695,creationists,"[1, 0, 0]",1,0,0
+696,crepe suzettes,"[1, 0, 0]",1,0,0
+697,crinoline,"[1, 0, 0]",1,0,0
+698,croupie,"[1, 0, 0]",1,0,0
+699,crow,"[1, 0, 0]",1,0,0
+700,crt,"[1, 0, 0]",1,0,0
+701,crucible,"[1, 0, 0]",1,0,0
+702,cruelty,"[1, 0, 0]",1,0,0
+703,crustacean,"[1, 0, 0]",1,0,0
+704,cultural diversity,"[1, 0, 0]",1,0,0
+705,culture,"[1, 0, 0]",1,0,0
+706,cyclone,"[1, 0, 0]",1,0,0
+707,dacha,"[1, 0, 0]",1,0,0
+708,daddy,"[1, 0, 0]",1,0,0
+709,dampness,"[1, 0, 0]",1,0,0
+710,dange,"[1, 0, 0]",1,0,0
+711,daydream,"[1, 0, 0]",1,0,0
+712,daypack,"[1, 0, 0]",1,0,0
+713,dean,"[1, 0, 0]",1,0,0
+714,decongestant,"[1, 0, 0]",1,0,0
+715,demonstraters,"[1, 0, 0]",1,0,0
+716,denim,"[1, 0, 0]",1,0,0
+717,dennis menace,"[1, 0, 0]",1,0,0
+718,desklamp,"[1, 0, 0]",1,0,0
+719,desperation,"[1, 0, 0]",1,0,0
+720,destruction,"[1, 0, 0]",1,0,0
+721,detritis,"[1, 0, 0]",1,0,0
+722,detritus,"[1, 0, 0]",1,0,0
+723,dick tracy,"[1, 0, 0]",1,0,0
+724,digitalis,"[1, 0, 0]",1,0,0
+725,dirst,"[1, 0, 0]",1,0,0
+726,disco,"[1, 0, 0]",1,0,0
+727,discomfort,"[1, 0, 0]",1,0,0
+728,discothque,"[1, 0, 0]",1,0,0
+729,disinformation,"[1, 0, 0]",1,0,0
+730,diswasher,"[1, 0, 0]",1,0,0
+731,diuretic,"[1, 0, 0]",1,0,0
+732,diva,"[1, 0, 0]",1,0,0
+733,explosion,"[1, 1, 0]",1,1,0
+734,faith,"[1, 1, 0]",1,1,0
+735,hatred,"[1, 0, 1]",1,0,1
+736,hurricane,"[1, 1, 0]",1,1,0
+737,ignorance,"[1, 1, 0]",1,1,0
+738,insult,"[1, 1, 0]",1,1,0
+739,intimacy,"[1, 1, 0]",1,1,0
+740,laughter,"[1, 1, 0]",1,1,0
+741,make out,"[1, 1, 0]",1,1,0
+742,mine,"[1, 1, 0]",1,1,0
+743,overpopulation,"[1, 1, 0]",1,1,0
+744,violence,"[1, 1, 0]",1,1,0
+745,zombie,"[1, 1, 0]",1,1,0
+746,democracy,"[1, 1, 0]",1,1,0
+747,perfection,"[1, 1, 0]",1,1,0
+748,hail,"[1, 1, 0]",1,1,0
+749,lawsuit,"[1, 1, 0]",1,1,0
+750,meditation,"[1, 1, 0]",1,1,0
+751,spark,"[1, 1, 0]",1,1,0
+752,crutch,"[1, 1, 0]",1,1,0
+753,religion,"[1, 1, 0]",1,1,0
+754,sneeze,"[1, 1, 0]",1,1,0
+755,yawn,"[1, 1, 0]",1,1,0
+756,terrorism,"[1, 1, 0]",1,1,0
+757,arson,"[1, 1, 0]",1,1,0
+758,thirst,"[1, 1, 0]",1,1,0
+759,anxiety,"[1, 1, 0]",1,1,0
+760,censorship,"[1, 1, 0]",1,1,0
+761,depression,"[1, 1, 0]",1,1,0
+762,irc,"[1, 1, 0]",1,1,0
+763,creativity,"[1, 1, 0]",1,1,0
+764,bigotry,"[1, 1, 0]",1,1,0
+765,patent,"[1, 1, 0]",1,1,0
+766,heroin,"[1, 1, 0]",1,1,0
+767,season,"[1, 1, 0]",1,1,0
+768,arousal,"[0, 1, 0]",0,1,0
+769,caffiene,"[1, 1, 0]",1,1,0
+770,carelessness,"[0, 1, 0]",0,1,0
+771,coccidiosis,"[0, 1, 0]",0,1,0
+772,collaboration,"[0, 1, 0]",0,1,0
+773,conceit,"[0, 1, 0]",0,1,0
+774,corruption,"[0, 1, 0]",0,1,0
+775,crisis,"[0, 1, 0]",0,1,0
+776,crown,"[1, 1, 0]",1,1,0
+777,dehydration,"[0, 1, 0]",0,1,0
+778,drought,"[0, 1, 0]",0,1,0
+779,earthquake,"[0, 1, 0]",0,1,0
+780,embarrassment,"[0, 1, 0]",0,1,0
+781,excercising,"[0, 1, 0]",0,1,0
+782,excessive sunshine,"[0, 1, 0]",0,1,0
+783,exercize,"[0, 1, 0]",0,1,0
+784,famine,"[0, 1, 0]",0,1,0
+785,fatigue,"[0, 1, 0]",0,1,0
+786,flatulence,"[0, 1, 0]",0,1,0
+787,flling,"[0, 1, 0]",0,1,0
+788,flood,"[0, 1, 0]",0,1,0
+789,friction,"[0, 1, 0]",0,1,0
+790,funeral,"[1, 1, 0]",1,1,0
+791,give,"[0, 1, 0]",0,1,0
+792,impatience,"[0, 1, 0]",0,1,0
+793,infidelity,"[0, 1, 0]",0,1,0
+794,insomnia,"[0, 1, 0]",0,1,0
+795,intercorse,"[0, 1, 0]",0,1,0
+796,intoxication,"[0, 1, 0]",0,1,0
+797,jealousy,"[0, 1, 0]",0,1,0
+798,jesse,"[0, 1, 0]",0,1,0
+799,kising,"[0, 1, 0]",0,1,0
+800,kkk,"[0, 1, 0]",0,1,0
+801,laziness,"[0, 1, 0]",0,1,0
+802,loneliness,"[1, 1, 0]",1,1,0
+803,please,"[0, 1, 0]",0,1,0
+804,puberty,"[0, 1, 0]",0,1,0
+805,purity,"[0, 1, 0]",0,1,0
+806,resuscitation,"[0, 1, 0]",0,1,0
+807,robbery,"[0, 1, 0]",0,1,0
+808,schizophrenia,"[0, 1, 0]",0,1,0
+809,snowstorm,"[0, 1, 0]",0,1,0
+810,starvation,"[0, 1, 0]",0,1,0
+811,stigma,"[1, 1, 0]",1,1,0
+812,unemployment,"[0, 1, 0]",0,1,0
+813,vampire,"[0, 1, 0]",0,1,0
+814,bathe,"[0, 1, 1]",0,1,1
+815,cogitate,"[0, 1, 1]",0,1,1
+816,compete,"[0, 1, 1]",0,1,1
+817,contemplate,"[0, 1, 1]",0,1,1
+818,copulate,"[0, 1, 1]",0,1,1
+819,do housework,"[0, 1, 1]",0,1,1
+820,entertain,"[0, 1, 1]",0,1,1
+821,flirt,"[1, 1, 1]",1,1,1
+822,go into coma,"[0, 1, 1]",0,1,1
+823,go into trance,"[0, 1, 1]",0,1,1
+824,go to hairdresser,"[0, 1, 1]",0,1,1
+825,go to laundromat,"[0, 1, 1]",0,1,1
+826,go to pub,"[0, 1, 1]",0,1,1
+827,procreate,"[0, 1, 1]",0,1,1
+828,sate hunger,"[0, 1, 1]",0,1,1
+829,socialize,"[0, 1, 1]",0,1,1
+830,sue,"[0, 1, 1]",0,1,1
+831,take midterm,"[0, 1, 1]",0,1,1
+832,take oath,"[0, 1, 1]",0,1,1
+833,urinate,"[0, 1, 1]",0,1,1
+834,belch,"[0, 1, 0]",0,1,0
+835,dine out,"[0, 1, 0]",0,1,0
+836,make jello,"[0, 1, 0]",0,1,0
+837,become christian,"[0, 1, 0]",0,1,0
+838,breating,"[0, 1, 0]",0,1,0
+839,cavort in nude,"[0, 1, 0]",0,1,0
+840,disagree,"[0, 1, 0]",0,1,0
+841,disrobe,"[0, 1, 0]",0,1,0
+842,do mathematics,"[0, 1, 0]",0,1,0
+843,do philosophy,"[0, 1, 0]",0,1,0
+844,drown,"[0, 1, 0]",0,1,0
+845,encounter taboo,"[0, 1, 0]",0,1,0
+846,go to brothel,"[0, 1, 0]",0,1,0
+847,go to cinema,"[0, 1, 0]",0,1,0
+848,go to nightclub,"[0, 1, 0]",0,1,0
+849,goling,"[0, 1, 0]",0,1,0
+850,have concussion,"[0, 1, 0]",0,1,0
+851,have lyme disease,"[0, 1, 0]",0,1,0
+852,have seizure,"[0, 1, 0]",0,1,0
+853,mature,"[0, 1, 0]",0,1,0
+854,menstruate,"[0, 1, 0]",0,1,0
+855,misbehave,"[0, 1, 0]",0,1,0
+856,nauseous,"[0, 1, 0]",0,1,0
+857,philosophisize,"[0, 1, 0]",0,1,0
+858,wallking,"[0, 1, 0]",0,1,0
+859,yiffing,"[0, 1, 0]",0,1,0
+860,fart,"[0, 1, 1]",0,1,1
+861,get,"[0, 1, 1]",0,1,1
+862,get up,"[0, 1, 0]",0,1,0
+863,go somewhere,"[0, 1, 1]",0,1,1
+864,snore,"[0, 1, 1]",0,1,1
+865,call 911,"[0, 1, 0]",0,1,0
+866,masturbate,"[0, 1, 0]",0,1,0
+867,skydive,"[0, 1, 0]",0,1,0
+868,splurge,"[0, 0, 1]",0,0,1
+869,decluttering,"[0, 0, 1]",0,0,1
+870,defecate,"[0, 0, 1]",0,0,1
+871,fuck,"[0, 0, 1]",0,0,1
+872,get riche,"[0, 0, 1]",0,0,1
+873,go nude,"[0, 0, 1]",0,0,1
+874,go scubadiving,"[0, 0, 1]",0,0,1
+875,have erection,"[0, 0, 1]",0,0,1
+876,have penis,"[0, 0, 1]",0,0,1
+877,make omelet,"[0, 0, 1]",0,0,1
+878,melt,"[0, 0, 1]",0,0,1
+879,take spacewalk,"[0, 0, 1]",0,0,1
+880,unhealthy,"[0, 0, 1]",0,0,1
+881,boared,"[0, 0, 1]",0,0,1
+882,housewarming,"[0, 0, 1]",0,0,1
+883,sting,"[0, 0, 1]",0,0,1
+884,thanksgiving,"[0, 0, 1]",0,0,1
+885,wiehging too much,"[0, 0, 1]",0,0,1
+886,wtinessing poverty,"[0, 0, 1]",0,0,1
+887,PersonX attaches to PersonY,"[0, 0, 1]",0,0,1
+888,PersonX dislikes PersonY,"[0, 0, 1]",0,0,1
+889,PersonX energizes PersonY,"[0, 0, 1]",0,0,1
+890,PersonX has to put PersonY down,"[0, 0, 1]",0,0,1
+891,PersonX insults PersonY,"[0, 0, 1]",0,0,1
+892,PersonX retrieves PersonY,"[0, 0, 1]",0,0,1
+893,PersonX shocks PersonY,"[0, 0, 1]",0,0,1
+894,PersonX smacks PersonX,"[0, 0, 1]",0,0,1
+895,PersonX abuses PersonY,"[0, 0, 1]",0,0,1
+896,PersonX accompanies PersonY,"[0, 0, 1]",0,0,1
+897,PersonX accuses PersonY,"[0, 0, 1]",0,0,1
+898,PersonX adores PersonX,"[0, 0, 1]",0,0,1
+899,PersonX annoys PersonY,"[0, 0, 1]",0,0,1
+900,PersonX appeals to PersonY,"[0, 0, 1]",0,0,1
+901,PersonX beckons PersonY,"[0, 0, 1]",0,0,1
+902,PersonX berates PersonY,"[0, 0, 1]",0,0,1
+903,PersonX can see PersonY,"[0, 0, 1]",0,0,1
+904,PersonX chats with PersonY,"[0, 0, 1]",0,0,1
+905,PersonX claps for PersonY,"[0, 0, 1]",0,0,1
+906,PersonX confesses to PersonY,"[0, 0, 1]",0,0,1
+907,PersonX confuses PersonY,"[0, 0, 1]",0,0,1
+908,PersonX curses at PersonY,"[0, 0, 1]",0,0,1
+909,PersonX disciplines PersonY,"[0, 0, 1]",0,0,1
+910,PersonX discourages PersonX,"[0, 0, 1]",0,0,1
+911,PersonX discourages PersonY,"[0, 0, 1]",0,0,1
+912,PersonX dismisses PersonY,"[0, 0, 1]",0,0,1
+913,PersonX disqualifies PersonY,"[0, 0, 1]",0,0,1
+914,PersonX embarrasses PersonX,"[0, 0, 1]",0,0,1
+915,PersonX enrolls PersonY,"[0, 0, 1]",0,0,1
+916,PersonX escorts PersonY,"[0, 0, 1]",0,0,1
+917,PersonX escorts PersonY out,"[0, 0, 1]",0,0,1
+918,PersonX flirts with PersonY,"[0, 0, 1]",0,0,1
+919,PersonX forbids PersonY,"[0, 0, 1]",0,0,1
+920,PersonX frightens PersonY,"[0, 0, 1]",0,0,1
+921,PersonX fusses at PersonY,"[0, 0, 1]",0,0,1
+922,PersonX gobbles PersonY up,"[0, 0, 1]",0,0,1
+923,PersonX harasses PersonY,"[0, 0, 1]",0,0,1
+924,PersonX haunts PersonY,"[0, 0, 1]",0,0,1
+925,PersonX hisses at PersonY,"[0, 0, 1]",0,0,1
+926,PersonX inspects PersonX,"[0, 0, 1]",0,0,1
+927,PersonX inspects PersonY,"[0, 0, 1]",0,0,1
+928,PersonX inspires PersonY,"[0, 0, 1]",0,0,1
+929,PersonX instructs PersonY,"[0, 0, 1]",0,0,1
+930,PersonX irritates PersonY,"[0, 0, 1]",0,0,1
+931,PersonX is PersonY's passion,"[0, 0, 1]",0,0,1
+932,PersonX is around PersonY,"[0, 0, 1]",0,0,1
+933,PersonX is behind PersonY,"[0, 0, 1]",0,0,1
+934,PersonX is very rude to PersonY,"[0, 0, 1]",0,0,1
+935,PersonX meows at PersonY,"[0, 0, 1]",0,0,1
+936,PersonX mocks PersonY,"[0, 0, 1]",0,0,1
+937,PersonX motivates PersonY,"[0, 0, 1]",0,0,1
+938,PersonX overwhelms PersonY,"[0, 0, 1]",0,0,1
+939,PersonX punishes PersonY,"[0, 0, 1]",0,0,1
+940,PersonX recognizes PersonX,"[0, 0, 1]",0,0,1
+941,PersonX recommends PersonX,"[0, 0, 1]",0,0,1
+942,PersonX recommends PersonY,"[0, 0, 1]",0,0,1
+943,PersonX recruits PersonY,"[0, 0, 1]",0,0,1
+944,PersonX reprimands PersonX,"[0, 0, 1]",0,0,1
+945,PersonX reprimands PersonY,"[0, 0, 1]",0,0,1
+946,PersonX resents PersonY,"[0, 0, 1]",0,0,1
+947,PersonX ridicules PersonY,"[0, 0, 1]",0,0,1
+948,PersonX rinses PersonY,"[0, 0, 1]",0,0,1
+949,PersonX rude to PersonY,"[0, 0, 1]",0,0,1
+950,PersonX shouts at PersonY,"[0, 0, 1]",0,0,1
+951,PersonX snuggles PersonY,"[0, 0, 1]",0,0,1
+952,PersonX spanks PersonY,"[0, 0, 1]",0,0,1
+953,PersonX spies on PersonY,"[0, 0, 1]",0,0,1
+954,PersonX spoils PersonY,"[0, 0, 1]",0,0,1
+955,PersonX stalks PersonY,"[0, 0, 1]",0,0,1
+956,PersonX surrounds PersonY,"[0, 0, 1]",0,0,1
+957,PersonX swarms PersonY,"[0, 0, 1]",0,0,1
+958,PersonX taunts PersonY,"[0, 0, 1]",0,0,1
+959,PersonX teases PersonY,"[0, 0, 1]",0,0,1
+960,PersonX terrifies PersonY,"[0, 0, 1]",0,0,1
+961,PersonX tucks PersonX in,"[0, 0, 1]",0,0,1
+962,PersonX tucks PersonY in,"[0, 0, 1]",0,0,1
+963,PersonX assembles PersonY,"[0, 0, 1]",0,0,1
+964,PersonX babysits PersonY,"[0, 0, 1]",0,0,1
+965,PersonX bails PersonY out,"[0, 0, 1]",0,0,1
+966,PersonX befriends PersonY,"[0, 0, 1]",0,0,1
+967,PersonX criticizes PersonY,"[0, 0, 1]",0,0,1
+968,PersonX exposes PersonX,"[0, 0, 1]",0,0,1
+969,PersonX glares at PersonY,"[0, 0, 1]",0,0,1
+970,PersonX is n't interested in PersonY,"[0, 0, 1]",0,0,1
+971,PersonX is too much for PersonY,"[0, 0, 1]",0,0,1
+972,PersonX notifies PersonY,"[0, 0, 1]",0,0,1
+973,PersonX reassures PersonY,"[0, 0, 1]",0,0,1
+974,PersonX never used shaver,"[0, 1, 0]",0,1,0
+975,PersonX never used a snowblower,"[0, 1, 0]",0,1,0
+976,PersonX always made,"[0, 0, 1]",0,0,1
+977,PersonX always made ___,"[0, 1, 1]",0,1,1
+978,PersonX becomes another ___,"[0, 0, 1]",0,0,1
+979,PersonX becomes intolerable,"[0, 1, 1]",0,1,1
+980,PersonX becomes very frustrated,"[0, 1, 1]",0,1,1
+981,PersonX bestows ___ upon PersonY,"[0, 1, 1]",0,1,1
+982,PersonX bestows upon PersonY,"[0, 1, 1]",0,1,1
+983,PersonX bestows upon PersonY the ___,"[0, 1, 1]",0,1,1
+984,PersonX compares ___ with another,"[0, 1, 1]",0,1,1
+985,PersonX dawns upon PersonY,"[0, 1, 1]",0,1,1
+986,PersonX does n't get along,"[0, 1, 1]",0,1,1
+987,PersonX doeth all ___ well,"[0, 1, 1]",0,1,1
+988,PersonX employs another ___,"[0, 1, 1]",0,1,1
+989,PersonX escorts PersonY back,"[0, 1, 1]",0,1,1
+990,PersonX has a say,"[0, 1, 1]",0,1,1
+991,PersonX has never been on one before,"[0, 1, 1]",0,1,1
+992,PersonX hightails it,"[0, 1, 1]",0,1,1
+993,PersonX huddles together,"[0, 1, 1]",0,1,1
+994,PersonX inflicts ___ on others,"[0, 0, 1]",0,0,1
+995,PersonX is someone else 's ___,"[0, 0, 1]",0,0,1
+996,PersonX mentions another ___,"[0, 0, 1]",0,0,1
+997,PersonX never been on one,"[0, 1, 1]",0,1,1
+998,PersonX never been on one before,"[0, 1, 1]",0,1,1
+999,PersonX never been to one,"[0, 0, 1]",0,0,1
+1000,PersonX never been to one before,"[0, 1, 1]",0,1,1
+1001,PersonX never occurred to PersonY,"[0, 1, 1]",0,1,1
+1002,PersonX not does PersonY any favours,"[0, 1, 1]",0,1,1
+1003,PersonX opposes every ___,"[0, 1, 1]",0,1,1
+1004,PersonX passionately rucked PersonY,"[0, 1, 1]",0,1,1
+1005,PersonX revises every ___,"[0, 1, 1]",0,1,1
+1006,PersonX shouts PersonY's name,"[0, 1, 1]",0,1,1
+1007,PersonX sifts out ___,"[0, 1, 1]",0,1,1
+1008,PersonX surmounts every ___,"[0, 1, 1]",0,1,1
+1009,bacteria,"[1, 1, 0]",1,1,0
+1010,cabbage,"[1, 1, 0]",1,1,0
+1011,darkness,"[1, 1, 0]",1,1,0
+1012,debate,"[1, 1, 1]",1,1,1
+1013,marble,"[1, 1, 0]",1,1,0
+1014,avalanche,"[1, 1, 0]",1,1,0
+1015,friendship,"[1, 0, 1]",1,0,1
+1016,archaeology,"[1, 1, 0]",1,1,0
+1017,masturbation,"[1, 1, 0]",1,1,0
+1018,triage,"[1, 0, 1]",1,0,1
+1019,survival,"[1, 0, 1]",1,0,1
+1020,alcoholism,"[0, 1, 0]",0,1,0
+1021,cancerous tumor,"[0, 1, 0]",0,1,0
+1022,rudeness,"[0, 1, 0]",0,1,0
+1023,sickness,"[0, 1, 0]",0,1,0
+1024,thunderstorm,"[0, 1, 0]",0,1,0
+1025,howl with laughter,"[0, 1, 1]",0,1,1
+1026,meditate,"[0, 1, 0]",0,1,0
+1027,sprint,"[0, 1, 0]",0,1,0
+1028,wrestle,"[0, 1, 1]",0,1,1
+1029,excrete,"[0, 1, 0]",0,1,0
+1030,gargle,"[0, 1, 0]",0,1,0
+1031,interfere,"[0, 1, 0]",0,1,0
+1032,butch,"[0, 0, 1]",0,0,1
+1033,have extreme enthusiasm,"[0, 0, 1]",0,0,1
+1034,brainstorm,"[0, 0, 1]",0,0,1
+1035,spraypainting,"[0, 0, 1]",0,0,1
+1036,PersonX apprehends PersonY,"[0, 0, 1]",0,0,1
+1037,PersonX interrupts PersonY,"[0, 0, 1]",0,0,1
+1038,PersonX adores PersonY,"[0, 0, 1]",0,0,1
+1039,PersonX bans PersonY,"[0, 0, 1]",0,0,1
+1040,PersonX can take PersonY,"[0, 0, 1]",0,0,1
+1041,PersonX congratulates PersonY,"[0, 0, 1]",0,0,1
+1042,PersonX is interested in PersonY,"[0, 0, 1]",0,0,1
+1043,PersonX rejects PersonY,"[0, 0, 1]",0,0,1
+1044,PersonX scolds PersonY,"[0, 0, 1]",0,0,1
+1045,PersonX smacks PersonY,"[0, 0, 1]",0,0,1
+1046,PersonX soothes PersonY,"[0, 0, 1]",0,0,1
+1047,PersonX unbeknownst to PersonY,"[0, 0, 1]",0,0,1
+1048,PersonX recognizes PersonY,"[0, 0, 1]",0,0,1
+1049,PersonX is highschool sweethearts,"[0, 1, 0]",0,1,0
+1050,PersonX becomes a lifeguard,"[0, 1, 1]",0,1,1
+1051,PersonX becomes a millionaire,"[0, 1, 1]",0,1,1
+1052,PersonX becomes suspicious,"[0, 1, 1]",0,1,1
+1053,PersonX bleaches ___ first,"[0, 1, 1]",0,1,1
+1054,PersonX captures every ___,"[0, 1, 1]",0,1,1
+1055,PersonX disposes towards PersonY,"[0, 1, 1]",0,1,1
+1056,PersonX does PersonX's darnedest,"[0, 1, 1]",0,1,1
+1057,PersonX does ___ without consulting,"[0, 1, 1]",0,1,1
+1058,PersonX enlightens every ___,"[0, 1, 1]",0,1,1
+1059,PersonX has had it up to here,"[0, 1, 1]",0,1,1
+1060,PersonX impedes PersonY's progress,"[0, 1, 1]",0,1,1
+1061,PersonX is almost done,"[0, 1, 1]",0,1,1
+1062,PersonX is quite pleased,"[0, 1, 1]",0,1,1
+1063,PersonX is to the rodeo,"[0, 1, 1]",0,1,1
+1064,PersonX never used,"[0, 1, 1]",0,1,1
+1065,PersonX observes every ___,"[0, 1, 1]",0,1,1
+1066,PersonX resigns PersonY's commission,"[0, 1, 1]",0,1,1
+1067,PersonX revolves around PersonY,"[0, 1, 1]",0,1,1
+1068,PersonX survives another ___,"[0, 1, 1]",0,1,1
+1069,PersonX swallows the leek,"[0, 1, 1]",0,1,1
+1070,coffin,"[1, 1, 0]",1,1,0
