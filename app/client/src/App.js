@@ -87,6 +87,7 @@ function App() {
   const [relProcs, setRelProcs] = useState(['simple_relation_matcher'])
   const [activeHead, setActiveHead] = useState(null)
   const [copiedResults, setCopiedResults] = useState(false)
+  const [showNote, setShowNote] = useState(false)
 
   let resultMap = {}
 
@@ -99,6 +100,15 @@ function App() {
 
   const generate = () => {
     setGenerating(true)
+    setShowError(false)
+    setShowNote(false)
+
+    if (_.includes(model, "gpt2")) {
+      setTimeout(() => {
+        setShowNote(true)
+      }, 1000)
+    }
+
     api.inference
     .generate({text: text,
                model: model,
@@ -112,11 +122,13 @@ function App() {
     .then(response => {
       setResults(response.data)
       setGenerating(false)
+      setShowNote(false)
     })
     .catch(error => {
       setGenerating(false)
       setErrorMsg(error.response.data)
       setShowError(true)
+      setShowNote(false)
     })
   }
 
@@ -402,25 +414,36 @@ function App() {
           <Tab menu={{ secondary: true }} panes={resultPanes}/>
         </Container>
         {showError ? 
-              <Container>
-                <Message
-                  negative
-                  header='Error'
-                  content={errorMsg}
-                  onDismiss={() => setShowError(false)}
-                />
-              </Container> : null
-              }
-              <Container className='cntr'>
-                <Button
-                  onClick={generate}
-                  className='kbtn'
-                  loading={generating}
-                  disabled={generating || (_.isEmpty(text) && (_.isEmpty(heads) || _.every(heads, _.isEmpty)))}
-                >
-                  Generate
-                </Button>
-              </Container>
+          <Container>
+            <Message
+              negative
+              header='Error'
+              content={errorMsg}
+              onDismiss={() => setShowError(false)}
+            />
+          </Container> : null
+        }
+        {showNote ?
+          <Container>
+            <Message
+              info
+              header='Note'
+              content="Inference with GPT-2 models might take longer due to the size of the model and limited capacity of our resources deployed for this demo."
+              onDismiss={() => setShowNote(false)}
+            />
+          </Container> : null
+
+        }
+        <Container className='cntr'>
+          <Button
+            onClick={generate}
+            className='kbtn'
+            loading={generating}
+            disabled={generating || (_.isEmpty(text) && (_.isEmpty(heads) || _.every(heads, _.isEmpty)))}
+          >
+            Generate
+          </Button>
+        </Container>
       </Grid.Column>
 
     </Grid>

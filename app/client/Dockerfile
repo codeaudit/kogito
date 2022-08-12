@@ -2,7 +2,7 @@ FROM node:18.5
 
 ENV HOME=/root
 ENV APP_DIR=${HOME}/kogito-client
-ENV REACT_APP_SERVER_URL=http://76.50.42.128:49780
+ENV REACT_APP_SERVER_URL=http://localhost:8080
 
 # Set default shell to /bin/bash
 SHELL ["/bin/bash", "-cu"]
