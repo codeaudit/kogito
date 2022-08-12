@@ -134,11 +134,11 @@ class COMETGPT2(KnowledgeModel):
         in_len: int = 16,
         out_len: int = 34,
         top_k: int = 1,
-        temperature: float = 1.0,
+        temperature: float = 0.7,
         top_p: float = 0.9,
-        repetition_penalty: float = 1.0,
-        num_beams: int = 10,
-        num_return_sequences: int = 10,
+        repetition_penalty: float = 1.2,
+        num_beams: int = 1,
+        num_return_sequences: int = 1,
     ) -> KnowledgeGraph:
         """Generate inferences from knowledge model
 
@@ -148,11 +148,11 @@ class COMETGPT2(KnowledgeModel):
             in_len (int, optional): Input length. Defaults to 16.
             out_len (int, optional): Output length. Defaults to 34.
             top_k (int, optional): Top k inferences to consider. Defaults to 1.
-            temperature (float, optional): GPT-2 temperature parameter. Defaults to 1.0.
+            temperature (float, optional): GPT-2 temperature parameter. Defaults to 0.7.
             top_p (float, optional): GPT-2 top_p parameter. Defaults to 0.9.
-            repetition_penalty (float, optional): GPT-2 repetition_penalty parameter. Defaults to 1.0.
-            num_beams (int, optional): GPT-2 num_beams parameter. Defaults to 10.
-            num_return_sequences (int, optional): GPT-2 num_return_sequences parameter. Defaults to 10.
+            repetition_penalty (float, optional): GPT-2 repetition_penalty parameter. Defaults to 1.2.
+            num_beams (int, optional): GPT-2 num_beams parameter. Defaults to 1.
+            num_return_sequences (int, optional): GPT-2 num_return_sequences parameter. Defaults to 1.
 
         Returns:
             KnowledgeGraph: Completed knowledge graph
@@ -185,7 +185,7 @@ class COMETGPT2(KnowledgeModel):
                     top_p=top_p,
                     top_k=top_k,
                     repetition_penalty=repetition_penalty,
-                    num_return_sequences=num_return_sequences if top_k > 1 else 1,
+                    num_return_sequences=num_return_sequences,
                     num_beams=num_beams,
                 )
 
@@ -194,7 +194,10 @@ class COMETGPT2(KnowledgeModel):
                     for g in generated_ids
                 ]
 
-                generations = [g[g.find(GEN_TOKEN)+len(GEN_TOKEN):g.find(EOS_TOKEN)].strip() for g in generations]
+                generations = [
+                    g[g.find(GEN_TOKEN) + len(GEN_TOKEN) : g.find(EOS_TOKEN)].strip()
+                    for g in generations
+                ]
 
                 output_kg = input_kg.copy()
                 output_kg.tails = generations

@@ -129,7 +129,7 @@ class COMETBART(KnowledgeModel):
             self.model.config.test_checkpoint = checkpoints[-1]
             trainer.resume_from_checkpoint = checkpoints[-1]
         trainer.logger.log_hyperparams(asdict(self.model.config))
-        
+
         if test_graph:
             trainer.test(self.model)
 
