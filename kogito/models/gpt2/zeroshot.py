@@ -42,9 +42,9 @@ class GPT2Zeroshot(KnowledgeModel):
         top_p: float = 0.9,
         num_sequences: int = 3,
         num_beams: int = 3,
-        stop_token: str = ".",
         temperature: float = 0.7,
         repetition_penalty: float = 1.2,
+        max_length: int = 32
     ) -> KnowledgeGraph:
         """Generate inferences from GPT2 model
 
@@ -55,9 +55,9 @@ class GPT2Zeroshot(KnowledgeModel):
             top_p (float, optional): GPT-2 top p parameter. Defaults to 0.9.
             num_sequences (int, optional): GPT-2 num_return_sequences parameter. Defaults to 3.
             num_beams (int, optional): GPT-2 num_beams parameter. Defaults to 3.
-            stop_token (str, optional): Stop token. Defaults to ".".
             temperature (float, optional): GPT-2 temperature parameter. Defaults to 0.7.
             repetition_penalty (float, optional): GPT-2 repetition_penalty parameter. Defaults to 1.2.
+            max_length (int, optional): Max length of generated tokens. Defaults to 32.
 
         Returns:
             KnowledgeGraph: Completed knowledge graph
@@ -72,12 +72,14 @@ class GPT2Zeroshot(KnowledgeModel):
             input_ids = self.tokenizer.encode(
                 prompt, add_special_tokens=False, return_tensors="pt"
             )
+            input_length = input_ids.size(1)
             generations = self.model.generate(
                 input_ids=input_ids.to(device),
-                max_length=input_ids.size(1) + 10,
+                max_length=input_length + max_length,
                 temperature=temperature,
                 top_k=top_k,
                 top_p=top_p,
+                eos_token_id=198,
                 repetition_penalty=repetition_penalty,
                 do_sample=True,
                 num_return_sequences=num_sequences,
@@ -90,13 +92,8 @@ class GPT2Zeroshot(KnowledgeModel):
             text_generations = []
             for gen in generations:
                 gen = gen.tolist()
-                text = self.tokenizer.decode(gen, clean_up_tokenization_spaces=True)
-                text = (
-                    text[: find_nth(text, stop_token, 1)]
-                    if stop_token not in prompt
-                    else text[: find_nth(text, stop_token, 2)]
-                )
-                text_generations.append(text)
+                text = self.tokenizer.decode(gen[input_length:], clean_up_tokenization_spaces=True)
+                text_generations.append(text.strip())
 
             output_kg = input_kg.copy()
             output_kg.tails = text_generations
