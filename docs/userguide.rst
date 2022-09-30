@@ -240,7 +240,7 @@ These matchers can simply be added to the inference module as below:
 
    from kogito.core.processors.relation import SWEMRelationMatcher
 
-   csi.add_processor(SWEMRelationMatcher())
+   csi.add_processor(SWEMRelationMatcher(name="swem_matcher"))
 
 Similar to head extraction, relation matching methods can also be optionally removed:
 
