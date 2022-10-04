@@ -189,6 +189,15 @@ class HeuristicClassifier:
         
         return preds
 
+class BaseClassifier:
+    def predict(self, data):
+        preds = []
+
+        for _ in tqdm(data.text):
+            preds.append([1, 1, 1])
+        
+        return preds
+
 def report_metrics(preds, y):
     accuracy = torchmetrics.Accuracy()
     precision = torchmetrics.Precision(num_classes=3, average="weighted")

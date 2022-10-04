@@ -27,7 +27,7 @@ RUN echo "export LANG=en_US.UTF-8" >> ~/.bashrc
 # Setup kogito env
 RUN ${CONDA} create --name kogito -y python=3.8
 RUN ${CONDA} run -n kogito curl -sSL https://install.python-poetry.org | python3 -
-RUN ${CONDA} install -n kogito pytorch cudatoolkit=11.3 -c pytorch
+RUN ${CONDA} install -n kogito -y pytorch cudatoolkit=11.5 -c pytorch
 
 ARG GITHUB_PERSONAL_TOKEN
 
