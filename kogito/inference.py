@@ -20,6 +20,7 @@ from kogito.core.processors.relation import (
     SimpleRelationMatcher,
 )
 from kogito.core.model import KnowledgeModel
+from kogito.core.linker import KnowledgeLinker
 from kogito.models.gpt3.zeroshot import GPT3Zeroshot
 
 
@@ -76,6 +77,9 @@ class CommonsenseInference:
         relations: Optional[List[KnowledgeRelation]] = None,
         dry_run: bool = False,
         sample_graph: Optional[KnowledgeGraph] = None,
+        context: Optional[Union[List[str], str]] = None,
+        linker: Optional[KnowledgeLinker] = None,
+        threshold: float = 0.5,
     ) -> KnowledgeGraph:
         """Make commonsense inferences.
 
@@ -121,7 +125,7 @@ class CommonsenseInference:
 
         if extract_heads:
             if text:
-                print("Extracting heads...")
+                print("Extracting knowledge heads...")
                 for head_proc in self._head_processors.values():
                     extracted_heads = head_proc.extract(text)
                     for head in extracted_heads:
@@ -136,7 +140,7 @@ class CommonsenseInference:
                 kg_heads.append(KnowledgeHead(text=text))
 
         if match_relations:
-            print("Matching relations...")
+            print("Matching knowledge heads with relations...")
             for relation_proc in self._relation_processors.values():
                 head_relations = head_relations.union(
                     set(
@@ -170,14 +174,21 @@ class CommonsenseInference:
         else:
             if isinstance(model, GPT3Zeroshot):
                 warnings.warn(
-                    "Sample graph is recommended for good performance with GPT-3 based inference"
+                    "Sample graph not found, but recommended for good performance with GPT-3 based inference."
                 )
 
         if dry_run or not model:
             return input_graph
 
-        print("Generating commonsense graph...")
+        print("Generating knowledge graph...")
         output_graph = model.generate(input_graph, **model_args)
+
+        if context:
+            if not linker:
+                warnings.warn("No knowledge linker is provided, skipping linking and filtering step.")
+            else:
+                print("Filtering knowledge graph based on the context...")
+                output_graph = linker.filter(output_graph, context, threshold=threshold)
 
         return output_graph
 

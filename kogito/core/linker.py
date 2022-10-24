@@ -4,6 +4,8 @@ from abc import ABC, abstractmethod, abstractclassmethod
 from kogito.core.knowledge import KnowledgeGraph
 
 class KnowledgeLinker(ABC):
+    """Base Knowledge Linker"""
+
     @abstractmethod
     def save_pretrained(self, save_path: str) -> None:
         """Save linker as a pretrained model

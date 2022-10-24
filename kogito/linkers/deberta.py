@@ -63,9 +63,12 @@ class DebertaLinker(KnowledgeLinker):
         input_ids = []
     
         for kg in input_graph:
-            head = str(kg.head).lower()
-            relation = RELATION_TO_NL[str(kg.relation)].lower()
-            tail = str(kg.tails[0]).lower()
+            head = str(kg.head).strip().lower()
+            relation = str(kg.relation).strip()
+            if relation not in RELATION_TO_NL:
+                raise ValueError(f"Invalid relation found: {relation}")
+            relation = RELATION_TO_NL[relation].lower()
+            tail = str(kg.tails[0]).strip().lower()
             fact = [head, relation, tail]
             fact_ids = [self.tokenizer.convert_tokens_to_ids(self.tokenizer.tokenize(f)) for f in fact]
             truncated_context_ids = _truncate_context(context_ids, fact_ids, self.max_input_tokens)
@@ -75,7 +78,7 @@ class DebertaLinker(KnowledgeLinker):
         
         input_ids = torch.tensor(pad_ids(input_ids, self.pad_token_id))
 
-        with torch.no_grad:
+        with torch.no_grad():
             output = self.model(input_ids.to(device))
             probs = torch.softmax(output.logits, dim=1)[:, 1]
         

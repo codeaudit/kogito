@@ -166,6 +166,9 @@ class KnowledgeGraph:
     def __sub__(self, other):
         return self.difference(other)
 
+    def __repr__(self) -> str:
+        return "\n".join([str(kg) for kg in self.graph])
+
     @classmethod
     def from_jsonl(
         cls,
@@ -206,7 +209,7 @@ class KnowledgeGraph:
     def from_csv(
         cls,
         filepath: str,
-        header: bool = True,
+        header: Optional[Union[int, List[int], str]] = "infer",
         head_col: str = "head",
         relation_col: str = "relation",
         tails_col: str = "tails",
@@ -217,7 +220,7 @@ class KnowledgeGraph:
 
         Args:
             filepath (str): Path to the graph file.
-            header (bool, optional): Whether to look for header. Defaults to True.
+            header (Union[int, List[int], str], optional): Whether to look for header. Defaults to "infer".
             head_col (str, optional): Head column name. Defaults to "head".
             relation_col (str, optional): Relation column name. Defaults to "relation".
             tails_col (str, optional): Tails column name. Defaults to "tails".
@@ -234,8 +237,8 @@ class KnowledgeGraph:
         )
 
         for _, row in graph_df.iterrows():
-            head = row[head_col]
-            relation = KnowledgeRelation.from_text(row[relation_col], relation_type)
+            head = row[head_col].strip()
+            relation = KnowledgeRelation.from_text(row[relation_col].strip(), relation_type)
             tails = row[tails_col]
             kg_list.append(Knowledge(head=head, relation=relation, tails=tails))
 
