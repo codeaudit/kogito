@@ -564,3 +564,42 @@ CONCEPTNET_TO_ATOMIC_MAP = {
 def register_relation(relation: KnowledgeRelation):
     if relation not in KG_RELATIONS:
         KG_RELATIONS.append(relation)
+
+
+RELATION_TO_NL = {
+    "AtLocation": "located or found at/in/on",
+    "CapableOf": "is/are capable of",
+    "Causes": "causes",
+    "CausesDesire": "makes someone want",
+    "CreatedBy": "is created by",
+    "Desires": "desires",
+    "HasA": "has, possesses or contains",
+    "HasFirstSubevent": "begins with the event/action",
+    "HasLastSubevent": "ends with the event/action",
+    "HasPrerequisite": "to do this, one requires",
+    "HasProperty": "can be characterized by being/having",
+    "HasSubEvent": "includes the event/action",
+    "HinderedBy": "can be hindered by",
+    "InstanceOf": "is an example/instance of",
+    "isAfter": "happens after",
+    "isBefore": "happens before",
+    "isFilledBy": "___ can be filled by",
+    "MadeOf": "is made of",
+    "MadeUpOf": "made (up) of",
+    "MotivatedByGoal": "is a step towards accomplishing the goal",
+    "NotDesires": "do(es) not desire",
+    "ObjectUse": "used for",
+    "UsedFor": "used for",
+    "oEffect": "as a result, PersonY or others will",
+    "oReact": "as a result, PersonY or others feels",
+    "oWant": "as a result, PersonY or others wants",
+    "PartOf": "is a part of",
+    "ReceivesAction": "can receive or be affected by the action",
+    "xAttr": "PersonX is seen as",
+    "xEffect": "as a result, PersonX will",
+    "xIntent": "because PersonX wants",
+    "xNeed": "but before, PersonX needs",
+    "xReact": "as a result, PersonX feels",
+    "xReason": "because",
+    "xWant": "as a result, PersonX wants"
+}

@@ -5,6 +5,7 @@ import json
 import pickle
 from typing import Callable, Dict, Iterable, List
 import uuid
+import math
 
 import numpy as np
 from rouge_score import rouge_scorer, scoring
@@ -207,3 +208,35 @@ def get_uuid(length=8):
     if length is not None:
         u = u[:length]
     return u
+
+def truncate_sequences_dual(sequences, max_length):
+    words_to_cut = sum(list(map(len, sequences))) - max_length
+    if words_to_cut <= 0:
+        return sequences
+
+    words_to_cut_before = math.ceil(words_to_cut / 2.0)
+    words_to_cut_after = words_to_cut // 2
+
+    while words_to_cut_before > len(sequences[0]):
+        words_to_cut_before -= len(sequences[0])
+        sequences = sequences[1:]
+    sequences[0] = sequences[0][words_to_cut_before:]
+
+    while words_to_cut_after > len(sequences[-1]):
+        words_to_cut_after -= len(sequences[-1])
+        sequences = sequences[:-1]
+    last = len(sequences[-1]) - words_to_cut_after
+    sequences[-1] = sequences[-1][:last]
+
+    return sequences
+
+def pad_ids(arrays, padding, max_length=-1):
+    if max_length < 0:
+        max_length = max(list(map(len, arrays)))
+    
+    arrays = [
+        array + [padding] * (max_length - len(array))
+        for array in arrays
+    ]
+
+    return arrays
