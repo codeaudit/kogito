@@ -15,7 +15,7 @@ FACT_SEP_TOKEN = "<f_sep>"
 device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 
 class DebertaLinker(KnowledgeLinker):
-    def __init__(self, model_name_or_path: str, language: str = "en_core_web_sm") -> None:
+    def __init__(self, model_name_or_path: str = "mismayil/comfact-deberta-v2", language: str = "en_core_web_sm") -> None:
         super().__init__()
         self.tokenizer = DebertaV2Tokenizer.from_pretrained(model_name_or_path)
         self.model = DebertaV2ForSequenceClassification.from_pretrained(model_name_or_path)
