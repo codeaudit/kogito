@@ -39,9 +39,38 @@ class KnowledgeLinker(ABC):
     
     @abstractmethod
     def link(self, input_graph: KnowledgeGraph, context: Union[List[str], str]) -> List[float]:
+        """Link given knowledge graph with the context. 
+        This method computes a relevance probability for each knowledge in the graph
+        with respect to the given context and returns these probabilities in a list
+        in the same order as the knowledge tuples are in the given graph.
+
+        Args:
+            input_graph (KnowledgeGraph): Input graph to link.
+            context (Union[List[str], str]): Context text. Can be either given as a list of
+                                            sentences or as a string, in which case, it will be
+                                            split into sentences using spacy engine.
+
+        Returns:
+            List[float]: List of relevance probabilities
+        """
         raise NotImplementedError
     
     def filter(self, input_graph: KnowledgeGraph, context: Union[List[str], str], threshold: float = 0.5) -> KnowledgeGraph:
+        """Filter given graph based on context relevancy. 
+        This method under the hood links the graph to the context and then filters knowledge tuples from the graph
+        which have a relevance probability lower than the given threshold. Filtered knowledge tuples
+        are returned as a new knowledge graph.
+
+        Args:
+            input_graph (KnowledgeGraph): Input graph to filter.
+            context (Union[List[str], str]): Context text. Can be either given as a list of
+                                            sentences or as a string, in which case, it will be
+                                            split into sentences using spacy engine.
+            threshold (float, optional): Relevance probability used for filtering. Defaults to 0.5.
+
+        Returns:
+            KnowledgeGraph: Filtered knowledge graph based on the relevancy scores.
+        """
         probs = self.link(input_graph, context)
         filtered_kgs = []
 
