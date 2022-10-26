@@ -216,11 +216,11 @@ class COMETGPT2(KnowledgeModel):
             self.tokenizer.save_pretrained(save_path)
 
     @classmethod
-    def from_pretrained(cls, model_name_or_path: str) -> KnowledgeModel:
+    def from_pretrained(cls, model_name_or_path: str = "mismayil/comet-gpt2-ai2") -> KnowledgeModel:
         """Load pretrained model
 
         Args:
-            model_name_or_path (str): HuggingFace model name or local model path
+            model_name_or_path (str, optional): HuggingFace model name or local model path. Defaults to "mismayil/comet-gpt2-ai2".
 
         Returns:
             KnowledgeModel: Loaded knowledge model

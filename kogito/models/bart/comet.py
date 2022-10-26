@@ -195,12 +195,12 @@ class COMETBART(KnowledgeModel):
 
     @classmethod
     def from_pretrained(
-        cls, model_name_or_path: str, task: str = "summarization"
+        cls, model_name_or_path: str = "mismayil/comet-bart-ai2", task: str = "summarization"
     ) -> KnowledgeModel:
         """Load pretrained model
 
         Args:
-            model_name_or_path (str): HuggingFace model name or local model path
+            model_name_or_path (str, optional): HuggingFace model name or local model path. Defaults to "mismayil/comet-bart-ai2".
             task (str, optional): Task used in training. Defaults to "summarization".
 
         Returns:

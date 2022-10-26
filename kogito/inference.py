@@ -22,7 +22,7 @@ from kogito.core.processors.relation import (
 from kogito.core.model import KnowledgeModel
 from kogito.core.linker import KnowledgeLinker
 from kogito.models.gpt3.zeroshot import GPT3Zeroshot
-
+from kogito.linkers.deberta import DebertaLinker
 
 class CommonsenseInference:
     """Main interface for commonsense inference"""
@@ -185,10 +185,11 @@ class CommonsenseInference:
 
         if context:
             if not linker:
-                warnings.warn("No knowledge linker is provided, skipping linking and filtering step.")
-            else:
-                print("Filtering knowledge graph based on the context...")
-                output_graph = linker.filter(output_graph, context, threshold=threshold)
+                print("Loading default Deberta linker for filtering...")
+                linker = DebertaLinker()
+
+            print("Filtering knowledge graph based on the context...")
+            output_graph = linker.filter(output_graph, context, threshold=threshold)
 
         return output_graph
 
