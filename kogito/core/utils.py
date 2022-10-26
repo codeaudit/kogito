@@ -240,3 +240,6 @@ def pad_ids(arrays, padding, max_length=-1):
     ]
 
     return arrays
+
+def text_to_list(text):
+    return [t.strip().strip("'") for t in text.strip("]").strip("[").split(",")]

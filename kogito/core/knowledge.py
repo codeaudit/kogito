@@ -4,6 +4,7 @@ import json
 
 from kogito.core.relation import KnowledgeRelation, KnowledgeRelationType
 from kogito.core.head import KnowledgeHead
+from kogito.core.utils import text_to_list
 
 EOS_TOKEN = "[EOS]"
 GEN_TOKEN = "[GEN]"
@@ -39,7 +40,14 @@ class Knowledge:
         )
         self.tails = tails or []
         if not isinstance(self.tails, (list, tuple)):
-            self.tails = [str(self.tails)]
+            tails = str(self.tails).strip()
+            if tails.startswith("[") and tails.endswith("]"):
+                tails = text_to_list(tails)
+                self.tails = tails
+            else:
+                self.tails = [tails]
+        else:
+            self.tails = list(self.tails)
 
     def __repr__(self) -> str:
         return f'Knowledge(head="{str(self.head)}", relation="{str(self.relation)}", tails={self.tails})'
