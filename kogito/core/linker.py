@@ -38,11 +38,13 @@ class KnowledgeLinker(ABC):
         raise NotImplementedError
     
     @abstractmethod
-    def link(self, input_graph: KnowledgeGraph, context: Union[List[str], str]) -> List[float]:
+    def link(self, input_graph: KnowledgeGraph, context: Union[List[str], str]) -> List[List[float]]:
         """Link given knowledge graph with the context. 
         This method computes a relevance probability for each knowledge in the graph
         with respect to the given context and returns these probabilities in a list
-        in the same order as the knowledge tuples are in the given graph.
+        in the same order as the knowledge tuples are in the given graph. Note that returned object
+        is a list of list of numbers because a knowledge tuple might have multiple tails and the probability
+        is calculated for each combination.
 
         Args:
             input_graph (KnowledgeGraph): Input graph to link.
@@ -51,7 +53,7 @@ class KnowledgeLinker(ABC):
                                             split into sentences using spacy engine.
 
         Returns:
-            List[float]: List of relevance probabilities
+            List[List[float]]: List of relevance probabilities for each tail
         """
         raise NotImplementedError
     
@@ -59,7 +61,8 @@ class KnowledgeLinker(ABC):
         """Filter given graph based on context relevancy. 
         This method under the hood links the graph to the context and then filters knowledge tuples from the graph
         which have a relevance probability lower than the given threshold. Filtered knowledge tuples
-        are returned as a new knowledge graph.
+        are returned as a new knowledge graph. If there are multiple tails for a given knowledge, these tails will be
+        filtered as well.
 
         Args:
             input_graph (KnowledgeGraph): Input graph to filter.
@@ -74,8 +77,15 @@ class KnowledgeLinker(ABC):
         probs = self.link(input_graph, context)
         filtered_kgs = []
 
-        for kg, prob in zip(input_graph, probs):
-            if prob >= threshold:
+        for kg, tail_probs in zip(input_graph, probs):
+            filtered_tails = []
+
+            for i, prob in enumerate(tail_probs):
+                if prob >= threshold:
+                    filtered_tails.append(kg.tails[i])
+
+            if filtered_tails:
+                kg.tails = filtered_tails
                 filtered_kgs.append(kg)
         
         return KnowledgeGraph(filtered_kgs)

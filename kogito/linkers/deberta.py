@@ -65,24 +65,39 @@ class DebertaLinker(KnowledgeLinker):
         for kg in input_graph:
             head = str(kg.head).strip().lower()
             relation = str(kg.relation).strip()
+
             if relation not in RELATION_TO_NL:
                 raise ValueError(f"Invalid relation found: {relation}")
+            
             relation = RELATION_TO_NL[relation].lower()
-            tail = str(kg.tails[0]).strip().lower()
-            fact = [head, relation, tail]
-            fact_ids = [self.tokenizer.convert_tokens_to_ids(self.tokenizer.tokenize(f)) for f in fact]
-            truncated_context_ids = _truncate_context(context_ids, fact_ids, self.max_input_tokens)
-            context_ids_with_sep = list(itertools.chain(*[ids+[self.narrative_sep_id] for ids in truncated_context_ids[:-1]], truncated_context_ids[-1]))
-            fact_ids_with_sep = list(itertools.chain(*[ids+[self.fact_sep_id] for ids in fact_ids[:-1]], fact_ids[-1]))
-            input_ids.append(self.tokenizer.build_inputs_with_special_tokens(context_ids_with_sep, fact_ids_with_sep))
+            
+            head_ids = self.tokenizer.convert_tokens_to_ids(self.tokenizer.tokenize(head))
+            relation_ids = self.tokenizer.convert_tokens_to_ids(self.tokenizer.tokenize(relation))
+
+            for tail in kg.tails:
+                tail = str(tail).strip().lower()
+                tail_ids = self.tokenizer.convert_tokens_to_ids(self.tokenizer.tokenize(tail))
+                fact_ids = [head_ids, relation_ids, tail_ids]
+                truncated_context_ids = _truncate_context(context_ids, fact_ids, self.max_input_tokens)
+                context_ids_with_sep = list(itertools.chain(*[ids+[self.narrative_sep_id] for ids in truncated_context_ids[:-1]], truncated_context_ids[-1]))
+                fact_ids_with_sep = list(itertools.chain(*[ids+[self.fact_sep_id] for ids in fact_ids[:-1]], fact_ids[-1]))
+                input_ids.append(self.tokenizer.build_inputs_with_special_tokens(context_ids_with_sep, fact_ids_with_sep))
         
         input_ids = torch.tensor(pad_ids(input_ids, self.pad_token_id))
 
         with torch.no_grad():
             output = self.model(input_ids.to(device))
-            probs = torch.softmax(output.logits, dim=1)[:, 1]
+            unstacked_probs = torch.softmax(output.logits, dim=1)[:, 1].tolist()
         
-        return probs.tolist()
+        stacked_probs = []
+
+        for kg in input_graph:
+            probs = []
+            for _ in range(len(kg.tails)):
+                probs.append(unstacked_probs.pop(0))
+            stacked_probs.append(probs)
+
+        return stacked_probs
 
 def _truncate_context(context_ids: List[List[int]], fact_ids: List[List[int]], max_tokens: int) -> List[List[int]]:
     num_keep_tokens = 1 + len(context_ids) + len(fact_ids)  # [CLS], [SEP], <d_sep> and <s_sep>
