@@ -63,3 +63,14 @@ Processors
 .. automodule:: kogito.core.processors.relation
     :members:
     :special-members: __init__
+
+Linkers
+=======
+
+.. automodule:: kogito.core.linker
+    :members:
+    :special-members: __init__
+
+.. automodule:: kogito.linkers.deberta
+    :members:
+    :special-members: __init__

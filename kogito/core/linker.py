@@ -1,4 +1,4 @@
-from typing import List, Union, Tuple
+from typing import List, Union, Tuple, Union
 from abc import ABC, abstractmethod, abstractclassmethod
 
 from kogito.core.knowledge import KnowledgeGraph
@@ -57,7 +57,7 @@ class KnowledgeLinker(ABC):
         """
         raise NotImplementedError
     
-    def filter(self, input_graph: KnowledgeGraph, context: Union[List[str], str], threshold: float = 0.5) -> KnowledgeGraph:
+    def filter(self, input_graph: KnowledgeGraph, context: Union[List[str], str], threshold: float = 0.5, return_probs: bool = False) -> Union[KnowledgeGraph, Tuple[KnowledgeGraph, List[List[float]]]]:
         """Filter given graph based on context relevancy. 
         This method under the hood links the graph to the context and then filters knowledge tuples from the graph
         which have a relevance probability lower than the given threshold. Filtered knowledge tuples
@@ -70,9 +70,11 @@ class KnowledgeLinker(ABC):
                                             sentences or as a string, in which case, it will be
                                             split into sentences using spacy engine.
             threshold (float, optional): Relevance probability used for filtering. Defaults to 0.5.
-
+            return_probs (bool, optional): Whether to return all the relevancy probs for the input graph.
+                                            Defaults to False.
         Returns:
-            KnowledgeGraph: Filtered knowledge graph based on the relevancy scores.
+            Union[KnowledgeGraph, Tuple[KnowledgeGraph, List[List[float]]]]: Filtered knowledge graph based on the relevancy scores
+                                                                                and optionally, the relevancy scores.
         """
         probs = self.link(input_graph, context)
         filtered_kgs = []
@@ -88,5 +90,10 @@ class KnowledgeLinker(ABC):
                 kg.tails = filtered_tails
                 filtered_kgs.append(kg)
         
-        return KnowledgeGraph(filtered_kgs)
+        output_graph = KnowledgeGraph(filtered_kgs)
+
+        if return_probs:
+            return output_graph, probs
+ 
+        return output_graph
     

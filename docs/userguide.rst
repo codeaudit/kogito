@@ -127,6 +127,41 @@ Here is an example of loading a pre-trained model from `HuggingFace <https://hug
     model = COMETBART.from_pretrained("mismayil/comet-bart-ai2")
 
 
+Knowledge Linker
+****************
+In addition to knowledge models, **kogito** also offers a functionality called *commonsense fact (a.k.a knowledge) linking* (`Gao et al. 2022 <https://arxiv.org/abs/2210.12678>`_) which aims to identify situationally-relevant knowledge instances given a context.
+This concept is represented by the :class:`kogito.core.linker.KnowledgeLinker` class in **kogito** which essentially provides 2 methods to perform this task:
+
+- ``link`` (:meth:`kogito.core.linker.KnowledgeLinker.link`) method takes an instance of a ``KnowledgeGraph``, and a context (as a text or a list of texts) and outputs list of relevancy scores for each knowledge instance (more specifically, for each combination of ``head``, ``relation`` and ``tail`` tuples if there are multiple tails) in the given graph with respect to the given graph.
+
+- ``filter`` (:meth:`kogito.core.linker.KnowledgeLinker.link`) method which acts as more of a convenience method over the ``link`` method. It also takes a knowledge graph and a context, but also additionally a threshold value (by default set to 0.5) for the relevancy score and then computes the relevancy scores and outputs a new graph where all the knowledge tuples that have lower relevancy score than the given threshold have been filtered out. It can also be configured to return all the scores alongside with the filtered graph.
+
+Similar to ``KnowledgeModel``, this class is rather an abstract interface that should be subclassed by specific implementations. As one example, **kogito** currently comes with a builtin Deberta-based implementation of this functionality.
+Here is a sample code on how to use this module:
+
+.. code-block:: python
+
+   from kogito.linkers.deberta import DebertaLinker
+   from kogito.core.knowledge import KnowledgeGraph
+
+   linker = DebertaLinker()
+   context = [
+         "joey was pretending to drive his wife to work .",
+         "the truth was that he was taking her on a trip .",
+         "when they passed the road for her workplace , she asked what was up .",
+         "that 's when he announced the trip detour plans .",
+         "his wife was so thrilled and they really enjoyed their trip together ."
+      ]
+   input_graph = KnowledgeGraph.from_csv("sample_linking_graph.csv", sep="|", header=None)
+   relevance_probs = linker.link(input_graph, context)
+
+   print(relevance_probs)
+
+   filtered_graph = linker.filter(input_graph, context, threshold=0.6)
+
+   print(filtered_graph)
+
+
 Inference
 =========
 **kogito** offers a simple, yet powerful commonsense inference module called :class:`kogito.inference.CommonsenseInference`. It is initialized with a (`spacy <https://spacy.io>`_) language of choice (by default, ``en_core_web_sm``).
@@ -331,6 +366,35 @@ which will output an incomplete knowledge graph (i.e. without tails) like below:
    {"head": "player", "relation": "CapableOf", "tails": []}
    {"head": "great basketball player", "relation": "HasProperty", "tails": []}
    {"head": "become player", "relation": "isAfter", "tails": []}
+
+Inference Filtering
+*******************
+By default, commonsense inference module outputs all the generated tails without any filtering. However, typically we would like to generate knowledge for a certain context, so some sort of filtering mechanism would be desired.
+**kogito** offers this functionality through ``KnowledgeLinker`` interface which can be easily integrated with the commonsense inference module. All you need to do is to provide a context to the inference module and it takes care of the rest.
+By default, it will use the builtin commonsense fact linking model ``DebertaLinker`` to link the generated knowledge instances to the given context to compute the relevancy scores and filter out the ones that dont meet the supplied threshold value (by default 0.5).
+Here is a sample code for this functionality:
+
+.. code-block:: python
+
+   from kogito.models.bart.comet import COMETBART
+   from kogito.linkers.deberta import DebertaLinker
+   from kogito.inference import CommonsenseInference
+
+   model = COMETBART.from_pretrained()
+   csi = CommonsenseInference()
+
+   text = "PersonX wraps gifts"
+   context = ['hank had to wrap a lot of gifts for his family .', 
+            'he ran out of wrapping paper with 4 gifts to go .',
+            'he went to the kitchen and found shopping bags .', 
+            'he cut up the bags to make sheets of paper .', 
+            'he used the paper to wrap the last of the gifts .']
+   
+   kgraph = csi.infer(text, model, context=context)
+
+   # You can also configure the linker and the threshold
+   kgraph2 = csi.infer(text, model, context=context, linker=DebertaLinker(), threshold=0.6)
+
 
 Custom Relations
 ****************
