@@ -1,0 +1,10 @@
+{"head": "PersonX accepts PersonY appointment", "relation": "xNeed", "tails": ["to clear spot in schedule"]}
+{"head": "PersonX accepts PersonY thanks", "relation": "xNeed", "tails": ["to says thanks to Y"]}
+{"head": "PersonX abandons ___ altogether", "relation": "xNeed", "tails": ["Plows the field."]}
+{"head": "PersonX accompanies PersonY far", "relation": "xNeed", "tails": ["to walk with PersonY"]}
+{"head": "PersonX always drank", "relation": "xNeed", "tails": ["to get a drink"]}
+{"head": "PersonX about to get married", "relation": "xNeed", "tails": ["meet someone"]}
+{"head": "PersonX accidentally fell", "relation": "xNeed", "tails": ["to walk too fast"]}
+{"head": "PersonX accidentally bumped", "relation": "xNeed", "tails": ["run or drive fast"]}
+{"head": "PersonX accepts PersonY's proposal", "relation": "xNeed", "tails": ["to date"]}
+{"head": "PersonX accomplishes PersonX's goal", "relation": "xNeed", "tails": ["to make a goal"]}

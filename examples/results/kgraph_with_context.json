@@ -1,0 +1,33 @@
+{"head": "PersonX wraps gifts", "relation": "oReact", "tails": [" happy", " grateful"]}
+{"head": "gifts", "relation": "AtLocation", "tails": [" store", " gift box"]}
+{"head": "gifts", "relation": "MadeUpOf", "tails": [" give as a gift", " gift", " give as gift"]}
+{"head": "PersonX wraps gifts", "relation": "HasSubEvent", "tails": [" PersonX receives a gift", " PersonX receives a gift."]}
+{"head": "PersonX wraps gifts", "relation": "xIntent", "tails": [" to be nice", " to give a gift", " to be generous"]}
+{"head": "PersonX wraps gifts", "relation": "xNeed", "tails": [" to buy wrapping paper", " to buy the wrapping paper", " to buy wrapping paper."]}
+{"head": "PersonX wraps gifts", "relation": "xEffect", "tails": [" PersonX receives a gift in return.", " PersonX receives a gift.", " PersonX receives a gift in return"]}
+{"head": "PersonX wraps gifts", "relation": "isAfter", "tails": [" PersonX buys a gift", " PersonX buys a gift for PersonY"]}
+{"head": "wraps gifts", "relation": "Desires", "tails": [" wrap presents", " wrap gift", " give to person"]}
+{"head": "wraps gifts", "relation": "HasProperty", "tails": [" wrapping paper", " wrapped", " wrapped paper"]}
+{"head": "wraps", "relation": "Desires", "tails": [" wrap gift", " wrap presents", " wrap presents in"]}
+{"head": "PersonX wraps gifts", "relation": "oEffect", "tails": [" PersonY opens the gift.", " PersonY opens the gift"]}
+{"head": "wraps gifts", "relation": "ObjectUse", "tails": [" wrap presents", " wrap presents in", " give to person Y"]}
+{"head": "wraps", "relation": "HasProperty", "tails": [" wrapping paper", " wrapped", " wrapped in paper"]}
+{"head": "PersonX wraps gifts", "relation": "oWant", "tails": [" to thank PersonX", " to open the gift"]}
+{"head": "wraps", "relation": "ObjectUse", "tails": [" wrap the gift in", " wrap a gift in", " wrap a present in"]}
+{"head": "gifts", "relation": "Desires", "tails": [" give as a gift", " give to someone", " give to person"]}
+{"head": "PersonX wraps gifts", "relation": "xWant", "tails": [" to give the gifts to the person", " to give the gift to the person", " to give the gifts to their friends"]}
+{"head": "wraps gifts", "relation": "CapableOf", "tails": [" wrap gift", " wrap presents", " wrap"]}
+{"head": "PersonX wraps gifts", "relation": "HinderedBy", "tails": [" PersonX doesn't have any wrapping paper.", " PersonX has no wrapping paper.", " PersonX doesn't know how to wrap."]}
+{"head": "gifts", "relation": "HasProperty", "tails": [" given as gifts", " gifts", " give to person"]}
+{"head": "PersonX wraps gifts", "relation": "xAttr", "tails": [" thoughtful", " generous", " giving"]}
+{"head": "wraps", "relation": "CapableOf", "tails": [" wrap gift", " wrap gift in", " wrap presents in"]}
+{"head": "gifts", "relation": "ObjectUse", "tails": [" give as a gift", " give as a birthday gift", " give to someone"]}
+{"head": "wraps gifts", "relation": "MadeUpOf", "tails": [" wrapping paper", " wrap paper", " wrap"]}
+{"head": "wraps gifts", "relation": "AtLocation", "tails": [" box"]}
+{"head": "PersonX wraps gifts", "relation": "Causes", "tails": [" PersonX wants to be nice.", " PersonX wants to be generous.", " PersonX wants to be nice"]}
+{"head": "PersonX wraps gifts", "relation": "isFilledBy", "tails": [" gift bag", " presents", " gifts"]}
+{"head": "PersonX wraps gifts", "relation": "xReact", "tails": [" happy"]}
+{"head": "wraps", "relation": "MadeUpOf", "tails": [" wrapping paper", " wrap"]}
+{"head": "gifts", "relation": "CapableOf", "tails": [" give to person", " give to people", " give to persony"]}
+{"head": "PersonX wraps gifts", "relation": "xReason", "tails": [" PersonX buys a gift", " PersonX buys a gift for PersonY"]}
+{"head": "PersonX wraps gifts", "relation": "isBefore", "tails": [" PersonX puts the gifts under the tree", " PersonX puts the gifts in the gift bag", " PersonX gives the gifts to the kids"]}
