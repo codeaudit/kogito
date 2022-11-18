@@ -1,5 +1,7 @@
 # kogito
-A Python NLP Knowledge Inference Tool
+A Python NLP Commonsense Knowledge Inference Tool
+
+System Description available here: https://arxiv.org/abs/2211.08451
 
 ## Installation
 
@@ -94,6 +96,17 @@ wget https://ai2-atomic.s3-us-west-2.amazonaws.com/data/atomic2020_data-feb2021.
 ```
 
 ## Paper
-If you want to learn more about the library design, models and data used for this toolkit, check out our [paper](https://arxiv.org/abs/2211.08451).
+If you want to learn more about the library design, models and data used for this toolkit, check out our [paper](https://arxiv.org/abs/2211.08451). The paper can be cited as:
+
+```
+@article{Ismayilzada2022kogito,
+  title={kogito: A Commonsense Knowledge Inference Toolkit},
+  author={Mete Ismayilzada and Antoine Bosselut},
+  journal={ArXiv},
+  volume={abs/2211.08451},
+  year={2022}
+}
+```
+
 ## Acknowledgements
 Significant portion of the model training and evaluation code has been adapted from the original [codebase](https://github.com/allenai/comet-atomic-2020) for the paper [(Comet-) Atomic 2020: On Symbolic and Neural Commonsense Knowledge Graphs.](https://www.semanticscholar.org/paper/COMET-ATOMIC-2020%3A-On-Symbolic-and-Neural-Knowledge-Hwang-Bhagavatula/e39503e01ebb108c6773948a24ca798cd444eb62)
