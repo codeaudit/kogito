@@ -13,7 +13,7 @@ RUN apt-get update && apt-get install -y --allow-downgrades --allow-change-held-
 RUN mkdir ${APP_DIR}
 WORKDIR ${APP_DIR}
 
-# Copy server files
+# Copy client files
 COPY . .
 
 # Setup app dependencies

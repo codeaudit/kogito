@@ -107,6 +107,12 @@ class CommonsenseInference:
                 It can be used to provide examples for GPT-3 inference. If omitted and GPT-3 model is used,
                 warning will be raised.
                 Defaults to None.
+            context (Optional[Union[List[str], str]], optional): Context text. Can be either given as a list of
+                                            sentences or as a string, in which case, it will be
+                                            split into sentences using spacy engine. Defaults to None.
+            threshold (float, optional): Relevance probability used for filtering. Defaults to 0.5.
+            linker (Optional[KnowledgeLinker], optional): Knowledge linker model used for linking to given context.
+                                                            Defaults to Deberta-based linker.
 
         Raises:
             ValueError: if relations argument is not of type list

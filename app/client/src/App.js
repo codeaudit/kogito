@@ -5,6 +5,7 @@ import RELATIONS from './relations'
 import _ from 'lodash'
 import {CopyToClipboard} from 'react-copy-to-clipboard'
 import {saveAs} from 'file-saver'
+import NumberInput from 'semantic-ui-react-numberinput';
 
 import './App.css'
 
@@ -88,6 +89,8 @@ function App() {
   const [activeHead, setActiveHead] = useState(null)
   const [copiedResults, setCopiedResults] = useState(false)
   const [showNote, setShowNote] = useState(false)
+  const [context, setContext] = useState('')
+  const [threshold, setThreshold] = useState(0.5)
 
   let resultMap = {}
 
@@ -97,6 +100,8 @@ function App() {
     }
     resultMap[res['head']].push({relation: res['relation'], tails: res['tails']})
   }
+
+  resultMap = _.sortBy(_.toPairs(resultMap), [o => _.toLower(o[0]), o => _.size(o[0])])
 
   const generate = () => {
     setGenerating(true)
@@ -118,7 +123,9 @@ function App() {
                matchRelations: matchRelations,
                dryRun: dryRun,
                headProcs: headProcs,
-               relProcs: relProcs})
+               relProcs: relProcs,
+               context: context,
+               threshold: threshold})
     .then(response => {
       setResults(response.data)
       setGenerating(false)
@@ -222,7 +229,9 @@ function App() {
   }
 
   const resultTablePane = () => {
-    return _.map(resultMap, (headResults, head) => {
+    return _.map(resultMap, result => {
+      let head = result[0]
+      let headResults = result[1]
       return (
         <Grid key={head}>
           <Grid.Row>
@@ -270,7 +279,7 @@ function App() {
   }
 
   const resultPanes = [
-    {menuItem: 'Raw JSON', render: () => resultJSONPane},
+    {menuItem: 'JSON', render: () => resultJSONPane},
     {menuItem: 'Table', render: () => resultTablePane()},
   ]
 
@@ -312,6 +321,37 @@ function App() {
                     rows={2}
                   />
                 </Form>
+              </div>
+              <div className='cntr'>
+                <Grid columns={2}>
+                  <Grid.Column largeScreen={10} computer={8} mobile={16}>
+                    <Form>
+                      <div className='cntr-label'>
+                        <Popup content='Context to use for filtering out irrelevant knowledge generations' trigger={<Label color='teal'>Context</Label>}/>
+                      </div>
+                      <TextArea 
+                        placeholder=''
+                        onChange={e => setContext(e.target.value)}
+                        value={context}
+                        label='Context'
+                        rows={2}
+                      />
+                    </Form>
+                  </Grid.Column>
+                  <Grid.Column largeScreen={6} computer={8} mobile={16}>
+                    <div className='cntr-label'>
+                      <Popup content='Threshold value used for filtering out irrelevant knowledge generations' trigger={<Label color='teal'>Relevancy threshold</Label>}/>
+                    </div>
+                    <NumberInput
+                      value={threshold.toString()}
+                      minValue={0}
+                      maxValue={1}
+                      stepAmount={0.1}
+                      valueType="decimal"
+                      onChange={setThreshold}
+                    />
+                  </Grid.Column>
+                </Grid>
               </div>
               <div className='cntr'>
                 <Grid columns={4}>

@@ -4,11 +4,16 @@ from kogito.models.gpt2.zeroshot import GPT2Zeroshot
 from kogito.inference import CommonsenseInference
 from kogito.core.relation import KnowledgeRelation
 from kogito.core.processors.relation import SWEMRelationMatcher, DistilBERTRelationMatcher, BERTRelationMatcher
+from kogito.linkers.deberta import DebertaLinker
 
 MODEL_MAP = {
     "comet-bart": COMETBART.from_pretrained("mismayil/comet-bart-ai2"),
     "comet-gpt2": COMETGPT2.from_pretrained("mismayil/comet-gpt2-ai2"),
     "gpt2": GPT2Zeroshot()
+}
+
+LINKER_MAP = {
+    "deberta": DebertaLinker()
 }
 
 PROCESSOR_MAP = {
@@ -27,6 +32,8 @@ def infer(data):
     dry_run = data.get("dryRun", False)
     head_procs = data.get("headProcs", [])
     rel_procs = data.get("relProcs", [])
+    context = data.get("context", "").strip()
+    threshold = data.get("threshold", 0.5)
 
     csi = CommonsenseInference(language="en_core_web_sm")
     csi_head_procs = csi.processors["head"]
@@ -48,12 +55,17 @@ def infer(data):
         for i in range(len(relations)):
             relations[i] = KnowledgeRelation.from_text(relations[i])
 
+    linker = LINKER_MAP["deberta"]
+
     output_graph = csi.infer(text=text,
                              model=model,
                              heads=heads,
                              relations=relations,
                              extract_heads=extract_heads,
                              match_relations=match_relations,
-                             dry_run=dry_run)
+                             dry_run=dry_run,
+                             context=context,
+                             threshold=threshold,
+                             linker=linker)
 
     return [kg.to_json() for kg in output_graph]
