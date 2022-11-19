@@ -2,11 +2,9 @@ import numpy as np
 import torch
 from torch import cuda
 from transformers import GPT2Tokenizer, GPT2LMHeadModel
-from tqdm import tqdm
 
 from kogito.core.model import KnowledgeModel
 from kogito.core.knowledge import KnowledgeGraph
-from kogito.core.utils import chunks, trim_batch
 
 device = "cuda" if cuda.is_available() else "cpu"
 
@@ -16,15 +14,12 @@ class GPT2Zeroshot(KnowledgeModel):
 
     def __init__(self, gpt2_model: str = "gpt2") -> None:
         """Initialize GPT-2 model
-
         Args:
             gpt2_model (str, optional): HuggingFace model name for gpt2. Defaults to "gpt2".
         """
         self.tokenizer = GPT2Tokenizer.from_pretrained(gpt2_model)
         self.model = GPT2LMHeadModel.from_pretrained(gpt2_model)
         self.model.to(device)
-        self.tokenizer.add_special_tokens({'pad_token': '[PAD]'})
-        self.model.resize_token_embeddings(len(self.tokenizer))
 
     def train(self):
         raise ValueError("GPT-2 Zeroshot model is not trainable")
@@ -47,11 +42,9 @@ class GPT2Zeroshot(KnowledgeModel):
         num_beams: int = 3,
         temperature: float = 0.7,
         repetition_penalty: float = 1.2,
-        max_length: int = 32,
-        batch_size: int = 4
+        max_length: int = 32
     ) -> KnowledgeGraph:
         """Generate inferences from GPT2 model
-
         Args:
             input_graph (KnowledgeGraph): Input dataset
             seed (int, optional): Random seed. Defaults to 42.
@@ -62,8 +55,6 @@ class GPT2Zeroshot(KnowledgeModel):
             temperature (float, optional): GPT-2 temperature parameter. Defaults to 0.7.
             repetition_penalty (float, optional): GPT-2 repetition_penalty parameter. Defaults to 1.2.
             max_length (int, optional): Max length of generated tokens. Defaults to 32.
-            batch_size (int, optional): Batch size to use. Defaults to 64.
-
         Returns:
             KnowledgeGraph: Completed knowledge graph
         """
@@ -72,46 +63,36 @@ class GPT2Zeroshot(KnowledgeModel):
         torch.backends.cudnn.deterministic = True
 
         outputs = []
-        for kg_batch in list(chunks(input_graph, batch_size)):
-            prompts = []
-
-            for input_kg in kg_batch:
-                prompts.append(input_kg.to_prompt())
-            
-            tokenized_batch = self.tokenizer(
-                prompts, truncation=True, padding="longest", return_tensors="pt"
+        for input_kg in input_graph:
+            prompt = input_kg.to_prompt()
+            input_ids = self.tokenizer.encode(
+                prompt, add_special_tokens=False, return_tensors="pt"
             )
-
-            input_ids, attention_mask = trim_batch(
-                **tokenized_batch, pad_token_id=self.tokenizer.pad_token_id
-            )
-
+            input_length = input_ids.size(1)
             generations = self.model.generate(
                 input_ids=input_ids.to(device),
-                attention_mask=attention_mask.to(device),
-                max_new_tokens=max_length,
+                max_length=input_length + max_length,
                 temperature=temperature,
                 top_k=top_k,
                 top_p=top_p,
                 eos_token_id=198,
-                pad_token_id=self.tokenizer.pad_token_id,
                 repetition_penalty=repetition_penalty,
                 do_sample=True,
                 num_return_sequences=num_sequences,
                 num_beams=num_beams,
             )
 
-            output = self.tokenizer.batch_decode(
-                generations,
-                skip_special_tokens=True,
-                clean_up_tokenization_spaces=False,
-            )
+            if len(generations.shape) > 2:
+                generations.squeeze_()
 
-            for input_kg, generations in zip(
-                kg_batch, list(chunks(output, num_sequences))
-            ):
-                output_kg = input_kg.copy()
-                output_kg.tails = generations
-                outputs.append(output_kg)
+            text_generations = []
+            for gen in generations:
+                gen = gen.tolist()
+                text = self.tokenizer.decode(gen[input_length:], clean_up_tokenization_spaces=True)
+                text_generations.append(text.strip())
+
+            output_kg = input_kg.copy()
+            output_kg.tails = text_generations
+            outputs.append(output_kg)
 
         return KnowledgeGraph(outputs)
