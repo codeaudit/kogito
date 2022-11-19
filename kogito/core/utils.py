@@ -209,6 +209,7 @@ def get_uuid(length=8):
         u = u[:length]
     return u
 
+
 def truncate_sequences_dual(sequences, max_length):
     words_to_cut = sum(list(map(len, sequences))) - max_length
     if words_to_cut <= 0:
@@ -230,16 +231,15 @@ def truncate_sequences_dual(sequences, max_length):
 
     return sequences
 
+
 def pad_ids(arrays, padding, max_length=-1):
     if max_length < 0:
         max_length = max(list(map(len, arrays)))
-    
-    arrays = [
-        array + [padding] * (max_length - len(array))
-        for array in arrays
-    ]
+
+    arrays = [array + [padding] * (max_length - len(array)) for array in arrays]
 
     return arrays
+
 
 def text_to_list(text):
     return [t.strip().strip("'") for t in text.strip("]").strip("[").split(",")]

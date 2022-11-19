@@ -511,15 +511,7 @@ PHYSICAL_RELATIONS = [
 ]
 
 #: ATOMIC 2020 Event relations
-EVENT_RELATIONS = [
-    CAUSES,
-    HINDERED_BY,
-    X_REASON,
-    IS_AFTER,
-    IS_BEFORE,
-    HAS_SUB_EVENT,
-    IS_FILLED_BY,
-]
+EVENT_RELATIONS = [CAUSES, HINDERED_BY, X_REASON, IS_AFTER, IS_BEFORE, HAS_SUB_EVENT]
 
 #: ATOMIC 2020 Social relations
 SOCIAL_RELATIONS = [
@@ -601,5 +593,31 @@ RELATION_TO_NL = {
     "xNeed": "but before, PersonX needs",
     "xReact": "as a result, PersonX feels",
     "xReason": "because",
-    "xWant": "as a result, PersonX wants"
+    "xWant": "as a result, PersonX wants",
+}
+
+RELATION_SIZE = {
+    "ObjectUse": 165590,
+    "AtLocation": 20221,
+    "MadeUpOf": 3345,
+    "HasProperty": 5617,
+    "CapableOf": 7968,
+    "Desires": 2737,
+    "NotDesires": 2838,
+    "isAfter": 22453,
+    "HasSubEvent": 12845,
+    "isBefore": 23208,
+    "HinderedBy": 106658,
+    "Causes": 376,
+    "xReason": 334,
+    "isFilledBy": 33266,
+    "xNeed": 128955,
+    "xAttr": 148194,
+    "xEffect": 115124,
+    "xReact": 81397,
+    "xWant": 135360,
+    "xIntent": 72677,
+    "oEffect": 80166,
+    "oReact": 67236,
+    "oWant": 94548,
 }

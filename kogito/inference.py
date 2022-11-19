@@ -6,7 +6,7 @@ import spacy
 
 from kogito.core.knowledge import Knowledge, KnowledgeGraph
 from kogito.core.head import KnowledgeHead
-from kogito.core.relation import KG_RELATIONS
+from kogito.core.relation import PHYSICAL_RELATIONS, SOCIAL_RELATIONS, EVENT_RELATIONS
 from kogito.core.processors.head import (
     KnowledgeHeadExtractor,
     SentenceHeadExtractor,
@@ -23,6 +23,7 @@ from kogito.core.model import KnowledgeModel
 from kogito.core.linker import KnowledgeLinker
 from kogito.models.gpt3.zeroshot import GPT3Zeroshot
 from kogito.linkers.deberta import DebertaLinker
+
 
 class CommonsenseInference:
     """Main interface for commonsense inference"""
@@ -158,7 +159,14 @@ class CommonsenseInference:
             )
         else:
             head_relations = head_relations.union(
-                set(list(product(kg_heads, KG_RELATIONS)))
+                set(
+                    list(
+                        product(
+                            kg_heads,
+                            PHYSICAL_RELATIONS + SOCIAL_RELATIONS + EVENT_RELATIONS,
+                        )
+                    )
+                )
             )
 
         kg_list = []
@@ -178,7 +186,7 @@ class CommonsenseInference:
                 )
 
         if dry_run or not model:
-            return input_graph
+            return input_graph.sort()
 
         print("Generating knowledge graph...")
         output_graph = model.generate(input_graph, **model_args)
@@ -190,6 +198,8 @@ class CommonsenseInference:
 
             print("Filtering knowledge graph based on the context...")
             output_graph = linker.filter(output_graph, context, threshold=threshold)
+
+        output_graph.sort()
 
         return output_graph
 

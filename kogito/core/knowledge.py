@@ -2,7 +2,7 @@ from typing import List, Union, Optional
 import pandas as pd
 import json
 
-from kogito.core.relation import KnowledgeRelation, KnowledgeRelationType
+from kogito.core.relation import KnowledgeRelation, KnowledgeRelationType, RELATION_SIZE
 from kogito.core.head import KnowledgeHead
 from kogito.core.utils import text_to_list
 
@@ -246,7 +246,9 @@ class KnowledgeGraph:
 
         for _, row in graph_df.iterrows():
             head = row[head_col].strip()
-            relation = KnowledgeRelation.from_text(row[relation_col].strip(), relation_type)
+            relation = KnowledgeRelation.from_text(
+                row[relation_col].strip(), relation_type
+            )
             tails = row[tails_col]
             kg_list.append(Knowledge(head=head, relation=relation, tails=tails))
 
@@ -304,3 +306,16 @@ class KnowledgeGraph:
             KnowledgeGraph: Difference of two graphs
         """
         return KnowledgeGraph(set(self.graph).difference(set(other.graph)))
+
+    def sort(self) -> "KnowledgeGraph":
+        """Sort graph based on head text and
+        relation distribution in ATOMIC.
+
+        Returns:
+            KnowledgeGraph: Sorted graph.
+        """
+        self.graph.sort(
+            key=lambda kg: (kg.head.text, RELATION_SIZE.get(kg.relation.text, 0)),
+            reverse=True,
+        )
+        return self

@@ -70,30 +70,26 @@ class NounPhraseHeadExtractor(KnowledgeHeadExtractor):
             doc = self.lang(text)
 
         heads = []
-        clean_text = []
 
         for token in doc:
             if (
-                token.text not in STOP_WORDS.union(IGNORE_WORDS)
-                and token.pos_ != "PROPN"
+                token.text.strip().lower() not in STOP_WORDS.union(IGNORE_WORDS)
+                and token.pos_ == "NOUN"
             ):
-                clean_text.append(token.text)
-
-                if token.pos_ == "NOUN":
-                    heads.append(
-                        KnowledgeHead(
-                            text=token.text,
-                            type=KnowledgeHeadType.NOUN_PHRASE,
-                            entity=token,
-                        )
+                heads.append(
+                    KnowledgeHead(
+                        text=token.text,
+                        type=KnowledgeHeadType.NOUN_PHRASE,
+                        entity=token,
                     )
+                )
 
         for phrase in doc.noun_chunks:
             clean_phrase = []
             phrase_doc = self.lang(phrase.text)
 
             for token in phrase_doc:
-                if token.text not in STOP_WORDS.union(IGNORE_WORDS):
+                if token.text.strip().lower() not in STOP_WORDS.union(IGNORE_WORDS):
                     clean_phrase.append(token.text)
 
             clean_text = " ".join(clean_phrase).strip()

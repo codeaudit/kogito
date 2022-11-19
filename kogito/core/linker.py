@@ -1,7 +1,8 @@
-from typing import List, Union, Tuple, Union
+from typing import List, Union, Tuple
 from abc import ABC, abstractmethod, abstractclassmethod
 
 from kogito.core.knowledge import KnowledgeGraph
+
 
 class KnowledgeLinker(ABC):
     """Base Knowledge Linker"""
@@ -36,10 +37,12 @@ class KnowledgeLinker(ABC):
             KnowledgeLinker: Loaded knowledge linker.
         """
         raise NotImplementedError
-    
+
     @abstractmethod
-    def link(self, input_graph: KnowledgeGraph, context: Union[List[str], str]) -> List[List[float]]:
-        """Link given knowledge graph with the context. 
+    def link(
+        self, input_graph: KnowledgeGraph, context: Union[List[str], str]
+    ) -> List[List[float]]:
+        """Link given knowledge graph with the context.
         This method computes a relevance probability for each knowledge in the graph
         with respect to the given context and returns these probabilities in a list
         in the same order as the knowledge tuples are in the given graph. Note that returned object
@@ -56,9 +59,15 @@ class KnowledgeLinker(ABC):
             List[List[float]]: List of relevance probabilities for each tail
         """
         raise NotImplementedError
-    
-    def filter(self, input_graph: KnowledgeGraph, context: Union[List[str], str], threshold: float = 0.5, return_probs: bool = False) -> Union[KnowledgeGraph, Tuple[KnowledgeGraph, List[List[float]]]]:
-        """Filter given graph based on context relevancy. 
+
+    def filter(
+        self,
+        input_graph: KnowledgeGraph,
+        context: Union[List[str], str],
+        threshold: float = 0.5,
+        return_probs: bool = False,
+    ) -> Union[KnowledgeGraph, Tuple[KnowledgeGraph, List[List[float]]]]:
+        """Filter given graph based on context relevancy.
         This method under the hood links the graph to the context and then filters knowledge tuples from the graph
         which have a relevance probability lower than the given threshold. Filtered knowledge tuples
         are returned as a new knowledge graph. If there are multiple tails for a given knowledge, these tails will be
@@ -73,8 +82,8 @@ class KnowledgeLinker(ABC):
             return_probs (bool, optional): Whether to return all the relevancy probs for the input graph.
                                             Defaults to False.
         Returns:
-            Union[KnowledgeGraph, Tuple[KnowledgeGraph, List[List[float]]]]: Filtered knowledge graph based on the relevancy scores
-                                                                                and optionally, the relevancy scores.
+            Union[KnowledgeGraph, Tuple[KnowledgeGraph, List[List[float]]]]:
+            Filtered knowledge graph based on the relevancy scores and optionally, the relevancy scores.
         """
         probs = self.link(input_graph, context)
         filtered_kgs = []
@@ -89,11 +98,10 @@ class KnowledgeLinker(ABC):
             if filtered_tails:
                 kg.tails = filtered_tails
                 filtered_kgs.append(kg)
-        
+
         output_graph = KnowledgeGraph(filtered_kgs)
 
         if return_probs:
             return output_graph, probs
- 
+
         return output_graph
-    

@@ -34,7 +34,7 @@ class KnowledgeHead:
             verbalizer (Optional[Callable], optional): Function to convert knowledge head to natural text.
                                                       Defaults to None.
         """
-        self.text = text
+        self.text = text.strip()
         self.type = type
         self.entity = entity
         self.verbalizer = verbalizer
