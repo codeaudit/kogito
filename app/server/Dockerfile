@@ -1,7 +1,7 @@
 FROM python:3.8
 
 ENV HOME=/root
-ENV APP_DIR=${HOME}/kogito-server
+ENV APP_DIR=${HOME}/kogito/app/server
 ENV FLASK_APP=server
 
 # Set default shell to /bin/bash
@@ -10,11 +10,13 @@ SHELL ["/bin/bash", "-cu"]
 # Install dependencies
 RUN apt-get update && apt-get install -y --allow-downgrades --allow-change-held-packages --no-install-recommends vim wget unzip
 
-RUN mkdir ${APP_DIR}
-WORKDIR ${APP_DIR}
+WORKDIR ${HOME}
+ARG GITHUB_PERSONAL_TOKEN
 
-# Copy server files
-COPY . .
+# Clone kogito
+RUN git clone https://${GITHUB_PERSONAL_TOKEN}@github.com/epfl-nlp/kogito.git
+
+WORKDIR ${APP_DIR}
 
 # Setup app dependencies
 RUN pip3 install -r requirements.txt

@@ -33,7 +33,7 @@ def infer(data):
     head_procs = data.get("headProcs", [])
     rel_procs = data.get("relProcs", [])
     context = data.get("context", "").strip()
-    threshold = data.get("threshold", 0.5)
+    threshold = float(data.get("threshold", 0.5))
 
     csi = CommonsenseInference(language="en_core_web_sm")
     csi_head_procs = csi.processors["head"]
