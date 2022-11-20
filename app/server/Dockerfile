@@ -19,7 +19,7 @@ RUN git clone https://${GITHUB_PERSONAL_TOKEN}@github.com/epfl-nlp/kogito.git
 WORKDIR ${APP_DIR}
 
 # Setup app dependencies
-RUN pip3 install -r requirements.txt
+RUN pip3 install -r requirements.txt --extra-index-url https://download.pytorch.org/whl/cu114
 RUN python3 -c "import nltk;nltk.download('punkt');nltk.download('wordnet');nltk.download('omw-1.4')"
 RUN python3 -m spacy download en_core_web_sm
 

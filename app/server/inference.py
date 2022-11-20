@@ -9,7 +9,7 @@ from kogito.linkers.deberta import DebertaLinker
 MODEL_MAP = {
     "comet-bart": COMETBART.from_pretrained("mismayil/comet-bart-ai2"),
     # "comet-gpt2": COMETGPT2.from_pretrained("mismayil/comet-gpt2-ai2"),
-    "gpt2": GPT2Zeroshot("gpt2-xl")
+    # "gpt2": GPT2Zeroshot("gpt2-xl")
 }
 
 LINKER_MAP = {

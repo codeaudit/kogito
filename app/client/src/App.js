@@ -21,11 +21,11 @@ function App() {
       text: 'COMET-BART',
       value: 'comet-bart'
     },
-    {
-      key: 'gpt2',
-      text: 'GPT-2',
-      value: 'gpt2'
-    }
+    // {
+    //   key: 'gpt2',
+    //   text: 'GPT-2',
+    //   value: 'gpt2'
+    // }
   ]
 
   const relationOptions = _.map(RELATIONS, rel => {
