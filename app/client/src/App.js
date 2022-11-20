@@ -297,7 +297,7 @@ function App() {
           <Grid.Row>
             <Grid.Column>
               <Message color='grey'>
-                <Message.Header>Knowledge Inference Tool</Message.Header>
+                <Message.Header>A Commonsense Knowledge Inference Toolkit</Message.Header>
                 <p className='description'>This is an interactive playground for <b>kogito</b>, the Python library that provides an intuitive interface to generate knowledge from text. 
                 This app is meant to be used for demo purposes and does not support all available features of the library.
                 Please, refer to <a href='https://kogito.readthedocs.io/'>kogito docs</a> for more information on how to use the library. Code for the tool and the library can be found <a href='https://github.com/epfl-nlp/kogito'>here</a>
@@ -324,7 +324,7 @@ function App() {
               </div>
               <div className='cntr'>
                 <Grid columns={2}>
-                  <Grid.Column largeScreen={10} computer={8} mobile={16}>
+                  <Grid.Column largeScreen={12} computer={10} mobile={16}>
                     <Form>
                       <div className='cntr-label'>
                         <Popup content='Context to use for filtering out irrelevant knowledge generations' trigger={<Label color='teal'>Context</Label>}/>
@@ -334,16 +334,17 @@ function App() {
                         onChange={e => setContext(e.target.value)}
                         value={context}
                         label='Context'
-                        rows={2}
+                        rows={3}
                       />
                     </Form>
                   </Grid.Column>
-                  <Grid.Column largeScreen={6} computer={8} mobile={16}>
+                  <Grid.Column largeScreen={4} computer={6} mobile={16}>
                     <div className='cntr-label'>
                       <Popup content='Threshold value used for filtering out irrelevant knowledge generations' trigger={<Label color='teal'>Relevancy threshold</Label>}/>
                     </div>
                     <NumberInput
                       value={threshold.toString()}
+                      buttonPlacement="right"
                       minValue={0}
                       maxValue={1}
                       stepAmount={0.1}
