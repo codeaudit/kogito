@@ -101,7 +101,7 @@ function App() {
     resultMap[res['head']].push({relation: res['relation'], tails: res['tails']})
   }
 
-  resultMap = _.sortBy(_.toPairs(resultMap), [o => _.toLower(o[0]), o => _.size(o[0])])
+  resultMap = _.sortBy(_.toPairs(resultMap), [o => _.size(o[0]), o => _.toLower(o[0])])
 
   const generate = () => {
     setGenerating(true)
