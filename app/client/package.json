@@ -1,7 +1,7 @@
 {
   "name": "kogito",
   "version": "0.1.0",
-  "homepage": "http://www.kogito.live",
+  "homepage": "https://kogito.live",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",
