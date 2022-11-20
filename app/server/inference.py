@@ -22,6 +22,8 @@ PROCESSOR_MAP = {
     "bert_relation_matcher": BERTRelationMatcher("bert_relation_matcher"),
 }
 
+print("Ready for inference.")
+
 def infer(data):
     text = data.get("text")
     model = MODEL_MAP.get(data.get("model"))
