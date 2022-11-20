@@ -11,11 +11,11 @@ import './App.css'
 
 function App() {
   const modelOptions = [
-    {
-      key: 'comet-gpt2',
-      text: 'COMET-GPT2',
-      value: 'comet-gpt2'
-    },
+    // {
+    //   key: 'comet-gpt2',
+    //   text: 'COMET-GPT2',
+    //   value: 'comet-gpt2'
+    // },
     {
       key: 'comet-bart',
       text: 'COMET-BART',
