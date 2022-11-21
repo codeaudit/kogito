@@ -15,7 +15,7 @@ from torch.utils.data import Sampler
 
 from transformers import BartTokenizer
 
-IGNORE_WORDS = set(["PersonX", "PersonY", "PersonZ", "_", "'", "-"])
+IGNORE_WORDS = set(["personx", "persony", "personz", "_", "'", "-"])
 ROUGE_KEYS = ["rouge1", "rouge2", "rougeL"]
 
 
