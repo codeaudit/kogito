@@ -91,6 +91,7 @@ function App() {
   const [showNote, setShowNote] = useState(false)
   const [context, setContext] = useState('')
   const [threshold, setThreshold] = useState(0.5)
+  const [textWords, setTextWords] = useState([])
 
   let resultMap = {}
 
@@ -101,7 +102,24 @@ function App() {
     resultMap[res['head']].push({relation: res['relation'], tails: res['tails']})
   }
 
-  resultMap = _.sortBy(_.toPairs(resultMap), [o => _.size(_.split(o[0], " ")), o => _.toLower(o[0])])
+  const orderByFirstWord = o => {
+    let words = _.split(o[0], " ")
+
+    if (!_.isEmpty(textWords)) {
+      let indices = []
+
+      for (let word in words) {
+        let index = _.indexOf(textWords, _.toLower(word))
+        if (index != -1) indices.push(index)
+      }
+
+      if (!_.isEmpty(indices)) return _.min(indices)
+    }
+
+    return -1
+  }
+
+  resultMap = _.sortBy(_.toPairs(resultMap), [orderByFirstWord, o => -_.size(_.split(o[0], " ")), o => _.toLower(o[0])])
 
   const generate = () => {
     setGenerating(true)
@@ -127,7 +145,8 @@ function App() {
                context: context,
                threshold: threshold})
     .then(response => {
-      setResults(response.data)
+      setResults(response.data.graph)
+      setTextWords(response.data.text)
       setGenerating(false)
       setShowNote(false)
     })
@@ -164,7 +183,7 @@ function App() {
       const resultsFile = new Blob([JSON.stringify(results, null, 4)], {type: "text/json;charset=utf-8"})
       saveAs(
         resultsFile,
-        "results.json"
+        "kogito-results.json"
       )
     }
   }
