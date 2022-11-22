@@ -1,0 +1,245 @@
+{"head": "voices", "relation": "ObjectUse", "tails": [" sing along with", " sing along to", " make music"]}
+{"head": "voices", "relation": "AtLocation", "tails": [" music store", " opera", " music"]}
+{"head": "voices", "relation": "CapableOf", "tails": [" listen to", " sing", " listen to music"]}
+{"head": "voices", "relation": "HasProperty", "tails": [" heard by many people", " heard by others", " heard by many"]}
+{"head": "voices", "relation": "MadeUpOf", "tails": [" voice", " sound waves", " sound"]}
+{"head": "voices", "relation": "NotDesires", "tails": [" listen to", " listen to music", " hear music"]}
+{"head": "voices", "relation": "Desires", "tails": [" listen to", " listen to music", " hear music"]}
+{"head": "to wait", "relation": "HinderedBy", "tails": [" to wait", " to wait ", " to wait  to wait"]}
+{"head": "to wait", "relation": "isBefore", "tails": [" to wait", " have to wait", " to wait for something"]}
+{"head": "to wait", "relation": "isAfter", "tails": [" have to wait", " to be patient", " to wait"]}
+{"head": "to wait", "relation": "HasSubEvent", "tails": [" to wait", " have to wait", " to wait "]}
+{"head": "to wait", "relation": "Causes", "tails": [" have to wait", " to wait", " have to wait for"]}
+{"head": "to wait", "relation": "xReason", "tails": [" have to wait", " to wait", " have to wait for"]}
+{"head": "to offer", "relation": "HinderedBy", "tails": [" to offer", " to offer ", " to offer  to offer "]}
+{"head": "to offer", "relation": "isBefore", "tails": [" to offer", " to offer ", " to offer something"]}
+{"head": "to offer", "relation": "isAfter", "tails": [" to make a good offer", " to make a deal", " to offer"]}
+{"head": "to offer", "relation": "HasSubEvent", "tails": [" to offer  offer  offer  offer  offer  offer  offer  offer  offer  offer  offer", " to offer", " to offer  offer  offer  offer  offer  offer  offer  offer  offer  offer"]}
+{"head": "to offer", "relation": "Causes", "tails": [" have something to offer", " to offer", " have to offer"]}
+{"head": "to offer", "relation": "xReason", "tails": [" have something to offer", " to offer", " have to offer"]}
+{"head": "to love", "relation": "HinderedBy", "tails": [" to love", " to love ", " to love someone"]}
+{"head": "to love", "relation": "isBefore", "tails": [" to love", " to be loved", " to love someone"]}
+{"head": "to love", "relation": "isAfter", "tails": [" to be loved", " to love", " to be happy"]}
+{"head": "to love", "relation": "HasSubEvent", "tails": [" to love", " to love others", " to love someone"]}
+{"head": "to love", "relation": "Causes", "tails": [" to love", " to be loved", " to love someone"]}
+{"head": "to love", "relation": "xReason", "tails": [" to love", " to be loved", " to love someone"]}
+{"head": "to implant", "relation": "HinderedBy", "tails": [" to implant", " to implant ", " to implant  in person"]}
+{"head": "to implant", "relation": "isBefore", "tails": [" to implant", " to implant ", " to implant in person"]}
+{"head": "to implant", "relation": "isAfter", "tails": [" to implant", " to implant in person", " implantation device"]}
+{"head": "to implant", "relation": "HasSubEvent", "tails": [" to implant", " to implant ", " make sure it works"]}
+{"head": "to implant", "relation": "Causes", "tails": [" to implant", " implantable device", " to implant "]}
+{"head": "to implant", "relation": "xReason", "tails": [" to implant", " to implant  into  body", " to implant  in person"]}
+{"head": "to hope", "relation": "HinderedBy", "tails": [" to hope", " to hope for the best", " to hope for the future"]}
+{"head": "to hope", "relation": "isBefore", "tails": [" to hope for the best", " hope for the best", " to hope"]}
+{"head": "to hope", "relation": "isAfter", "tails": [" to hope for the best", " to be hopeful", " hope for the best"]}
+{"head": "to hope", "relation": "HasSubEvent", "tails": [" to hope for the best", " hope for the best", " to hope"]}
+{"head": "to hope", "relation": "Causes", "tails": [" to hope for the best", " to hope", " hope for the best"]}
+{"head": "to hope", "relation": "xReason", "tails": [" to hope for the best", " hope for the best", " to hope"]}
+{"head": "to hear", "relation": "HinderedBy", "tails": [" to hear", " to hear ", " to hear something"]}
+{"head": "to hear", "relation": "isBefore", "tails": [" to hear", " listen to", " to hear "]}
+{"head": "to hear", "relation": "isAfter", "tails": [" to hear what they are saying", " to hear what is being said", " to hear"]}
+{"head": "to hear", "relation": "HasSubEvent", "tails": [" to hear", " listen to", " listen to music"]}
+{"head": "to hear", "relation": "Causes", "tails": [" listen to", " listen to music", " hear"]}
+{"head": "to hear", "relation": "xReason", "tails": [" listen to", " listen to music", " hear music"]}
+{"head": "to have", "relation": "HinderedBy", "tails": [" to have", " to have ", " to have  to have"]}
+{"head": "to have", "relation": "isBefore", "tails": [" to have", " to have ", " to have  a good time"]}
+{"head": "to have", "relation": "isAfter", "tails": [" to have something to eat", " to have", " to have something to drink"]}
+{"head": "to have", "relation": "HasSubEvent", "tails": [" to have", " to have ", " to have  have"]}
+{"head": "to have", "relation": "Causes", "tails": [" to have", " to have ", " to have  "]}
+{"head": "to have", "relation": "xReason", "tails": [" to have", " to have something to eat", " to have "]}
+{"head": "to become", "relation": "HinderedBy", "tails": [" to become", " to become ", " to become a doctor"]}
+{"head": "to become", "relation": "isBefore", "tails": [" to become a doctor", " to become a lawyer", " to become a teacher"]}
+{"head": "to become", "relation": "isAfter", "tails": [" get a job", " to become a doctor", " to become a lawyer"]}
+{"head": "to become", "relation": "HasSubEvent", "tails": [" to become", " get a job", " to become "]}
+{"head": "to become", "relation": "Causes", "tails": [" to become", " become famous", " to become "]}
+{"head": "to become", "relation": "xReason", "tails": [" to become", " become famous", " to become famous"]}
+{"head": "super powered hearing aid", "relation": "ObjectUse", "tails": [" hear better", " listen to music", " listen to the radio"]}
+{"head": "super powered hearing aid", "relation": "AtLocation", "tails": [" hearing aid", " hearing aids", " ear"]}
+{"head": "super powered hearing aid", "relation": "CapableOf", "tails": [" hear better", " listen to music", " wear on head"]}
+{"head": "super powered hearing aid", "relation": "HasProperty", "tails": [" worn on head", " worn on ears", " heard better than others"]}
+{"head": "super powered hearing aid", "relation": "MadeUpOf", "tails": [" hearing aid", " hearing aids", " earring"]}
+{"head": "super powered hearing aid", "relation": "NotDesires", "tails": [" hear better", " hearing aid", " hearing aids"]}
+{"head": "super powered hearing aid", "relation": "Desires", "tails": [" hear better", " hearing aid", " to hear better"]}
+{"head": "sounds", "relation": "ObjectUse", "tails": [" listen to", " make a noise", " make noise"]}
+{"head": "sounds", "relation": "AtLocation", "tails": [" music store", " sound system", " music"]}
+{"head": "sounds", "relation": "CapableOf", "tails": [" make noise", " listen to", " listen for"]}
+{"head": "sounds", "relation": "HasProperty", "tails": [" sound waves", " loud", " heard by others"]}
+{"head": "sounds", "relation": "MadeUpOf", "tails": [" sound waves", " sound wave", " music"]}
+{"head": "sounds", "relation": "NotDesires", "tails": [" make noise", " hear", " hear in house"]}
+{"head": "sounds", "relation": "Desires", "tails": [" make noise", " hear", " sound good"]}
+{"head": "sound", "relation": "ObjectUse", "tails": [" sound effects", " make noise", " make a noise"]}
+{"head": "sound", "relation": "AtLocation", "tails": [" sound system", " music store", " music"]}
+{"head": "sound", "relation": "CapableOf", "tails": [" make noise", " hear", " sound like thunder"]}
+{"head": "sound", "relation": "HasProperty", "tails": [" sound waves", " sound", " heard by many"]}
+{"head": "sound", "relation": "MadeUpOf", "tails": [" sound wave", " sound waves", " sound"]}
+{"head": "sound", "relation": "NotDesires", "tails": [" sound waves", " sound", " sound effects"]}
+{"head": "sound", "relation": "Desires", "tails": [" sound", " sound effects", " sound waves"]}
+{"head": "offer kind", "relation": "HinderedBy", "tails": [" kind", " offer to help", " offer to be kind"]}
+{"head": "offer kind", "relation": "isBefore", "tails": [" offer to help", " kind", " offer to help others"]}
+{"head": "offer kind", "relation": "isAfter", "tails": [" offer to help", " kind", " offer to help others"]}
+{"head": "offer kind", "relation": "HasSubEvent", "tails": [" offer to help", " offer to help others", " offer to do something nice"]}
+{"head": "offer kind", "relation": "Causes", "tails": [" kind", " offer to help", " kindness"]}
+{"head": "offer kind", "relation": "xReason", "tails": [" kind", " offer to help", " kind to others"]}
+{"head": "new kind", "relation": "ObjectUse", "tails": [" use as a weapon", " use as a prop in a play", " use as a prop in a movie"]}
+{"head": "new kind", "relation": "AtLocation", "tails": [" medicine chest", " new kind of food", " medicine cabinet"]}
+{"head": "new kind", "relation": "CapableOf", "tails": [" use as a weapon", " make new kind of food", " make new kind of things"]}
+{"head": "new kind", "relation": "HasProperty", "tails": [" new", " new and different", " found in new places"]}
+{"head": "new kind", "relation": "MadeUpOf", "tails": [" new kind", " new color", " new kind of"]}
+{"head": "new kind", "relation": "NotDesires", "tails": [" new food", " new flavor", " have to buy"]}
+{"head": "new kind", "relation": "Desires", "tails": [" new food", " new foods", " new flavor"]}
+{"head": "musician", "relation": "ObjectUse", "tails": [" play music", " perform at concert", " perform at concerts"]}
+{"head": "musician", "relation": "AtLocation", "tails": [" concert hall", " music store", " music hall"]}
+{"head": "musician", "relation": "CapableOf", "tails": [" play guitar", " play music", " play piano"]}
+{"head": "musician", "relation": "HasProperty", "tails": [" music", " musical instrument", " musical talent"]}
+{"head": "musician", "relation": "MadeUpOf", "tails": [" musical instrument", " music", " music teacher"]}
+{"head": "musician", "relation": "NotDesires", "tails": [" music", " hear music", " musical instrument"]}
+{"head": "musician", "relation": "Desires", "tails": [" music", " hear music", " musical talent"]}
+{"head": "music", "relation": "ObjectUse", "tails": [" listen to", " listen to while driving", " play on the radio"]}
+{"head": "music", "relation": "AtLocation", "tails": [" music store", " music hall", " music room"]}
+{"head": "music", "relation": "CapableOf", "tails": [" listen to", " play on piano", " play guitar"]}
+{"head": "music", "relation": "HasProperty", "tails": [" played in orchestra", " played on piano", " music"]}
+{"head": "music", "relation": "MadeUpOf", "tails": [" music", " music box", " musical instrument"]}
+{"head": "music", "relation": "NotDesires", "tails": [" listen to", " listen to music", " listen to while driving"]}
+{"head": "music", "relation": "Desires", "tails": [" listen to", " music", " listen to music"]}
+{"head": "love sounds", "relation": "HinderedBy", "tails": [" love", " love sounds", " love sound"]}
+{"head": "love sounds", "relation": "isBefore", "tails": [" love", " kiss", " feel good"]}
+{"head": "love sounds", "relation": "isAfter", "tails": [" love", " music", " kiss"]}
+{"head": "love sounds", "relation": "HasSubEvent", "tails": [" listen to", " listen to music", " love"]}
+{"head": "love sounds", "relation": "Causes", "tails": [" love", " music", " sound"]}
+{"head": "love sounds", "relation": "xReason", "tails": [" love", " loved", " sound"]}
+{"head": "life", "relation": "ObjectUse", "tails": [" live a good life", " live a full life", " have a good time"]}
+{"head": "life", "relation": "AtLocation", "tails": [" life", " death", " living"]}
+{"head": "life", "relation": "CapableOf", "tails": [" live life to fullest", " live long and happy life", " live long and happy"]}
+{"head": "life", "relation": "HasProperty", "tails": [" life", " death", " very important"]}
+{"head": "life", "relation": "MadeUpOf", "tails": [" life", " life force", " life cycle"]}
+{"head": "life", "relation": "NotDesires", "tails": [" life", " death", " life to end"]}
+{"head": "life", "relation": "Desires", "tails": [" life", " have fun", " life to last"]}
+{"head": "kind", "relation": "ObjectUse", "tails": [" kind", " kind words", " give to others"]}
+{"head": "kind", "relation": "AtLocation", "tails": [" kind", " kind of people", " kind heart"]}
+{"head": "kind", "relation": "CapableOf", "tails": [" kind to others", " kind to one another", " kind to other people"]}
+{"head": "kind", "relation": "HasProperty", "tails": [" kind", " good", " kind heart"]}
+{"head": "kind", "relation": "MadeUpOf", "tails": [" kind", " kind heart", " kindness"]}
+{"head": "kind", "relation": "NotDesires", "tails": [" kind", " kindness", " kind of people"]}
+{"head": "kind", "relation": "Desires", "tails": [" kind", " kindness", " kind heart"]}
+{"head": "hundreds", "relation": "ObjectUse", "tails": [" pay for a car", " pay for the service", " pay for things"]}
+{"head": "hundreds", "relation": "AtLocation", "tails": [" house", " car", " school"]}
+{"head": "hundreds", "relation": "CapableOf", "tails": [" pay taxes", " pay rent", " pay for things"]}
+{"head": "hundreds", "relation": "HasProperty", "tails": [" hundreds of thousands of people", " hundreds of thousands of dollars", " hundreds of thousands"]}
+{"head": "hundreds", "relation": "MadeUpOf", "tails": [" one hundred and fifty thousand", " one hundred and fifty", " number of people"]}
+{"head": "hundreds", "relation": "NotDesires", "tails": [" have to go to the doctor", " have to go to the bathroom", " have to pay for"]}
+{"head": "hundreds", "relation": "Desires", "tails": [" have a lot of money", " have a lot of friends", " have a lot of fun"]}
+{"head": "hearing", "relation": "ObjectUse", "tails": [" listen to", " listen to music", " listen to the music"]}
+{"head": "hearing", "relation": "AtLocation", "tails": [" hearing", " listening to music", " hear music"]}
+{"head": "hearing", "relation": "CapableOf", "tails": [" hear sound", " listen to music", " hear noise"]}
+{"head": "hearing", "relation": "HasProperty", "tails": [" heard", " hearing", " hearing aids"]}
+{"head": "hearing", "relation": "MadeUpOf", "tails": [" hearing aids", " hearing aid", " hearing"]}
+{"head": "hearing", "relation": "NotDesires", "tails": [" hear sound", " hearing", " hear noise"]}
+{"head": "hearing", "relation": "Desires", "tails": [" hearing", " listen to", " hear"]}
+{"head": "hear hundreds", "relation": "HinderedBy", "tails": [" listen to", " listen to music", " hear one thing"]}
+{"head": "hear hundreds", "relation": "isBefore", "tails": [" listen to", " listen to music", " hear music"]}
+{"head": "hear hundreds", "relation": "isAfter", "tails": [" listen to music", " listen to", " hear music"]}
+{"head": "hear hundreds", "relation": "HasSubEvent", "tails": [" listen to", " listen to music", " listen to others"]}
+{"head": "hear hundreds", "relation": "Causes", "tails": [" listen to", " listen to music", " hear music"]}
+{"head": "hear hundreds", "relation": "xReason", "tails": [" listen to", " listen to music", " hear music"]}
+{"head": "doctor", "relation": "ObjectUse", "tails": [" see patients", " diagnose a patient", " help with a problem"]}
+{"head": "doctor", "relation": "AtLocation", "tails": [" doctor's office", " medicine chest", " doctor's house"]}
+{"head": "doctor", "relation": "CapableOf", "tails": [" doctor patient", " see patient", " see patients"]}
+{"head": "doctor", "relation": "HasProperty", "tails": [" doctorate", " doctor", " medical school"]}
+{"head": "doctor", "relation": "MadeUpOf", "tails": [" medicine chest", " doctor's office", " doctor's hands"]}
+{"head": "doctor", "relation": "NotDesires", "tails": [" doctor's office", " medicine", " doctor to prescribe medicine"]}
+{"head": "doctor", "relation": "Desires", "tails": [" medicine", " doctorate", " doctor's office"]}
+{"head": "become musician", "relation": "HinderedBy", "tails": [" learn how to play", " learn how to play guitar", " learn how to play music"]}
+{"head": "become musician", "relation": "isBefore", "tails": [" learn how to play guitar", " learn how to play", " learn to play guitar"]}
+{"head": "become musician", "relation": "isAfter", "tails": [" learn to play guitar", " make music", " learn to play music"]}
+{"head": "become musician", "relation": "HasSubEvent", "tails": [" learn to play", " learn to play music", " learn to play guitar"]}
+{"head": "become musician", "relation": "Causes", "tails": [" learn how to play", " learn how to play guitar", " learn how to play music"]}
+{"head": "become musician", "relation": "xReason", "tails": [" learn how to play", " learn how to play guitar", " learn how to play music"]}
+{"head": "aid", "relation": "ObjectUse", "tails": [" help with pain", " give to the patient", " give to the dog"]}
+{"head": "aid", "relation": "AtLocation", "tails": [" medicine chest", " hospital", " medicine cabinet"]}
+{"head": "aid", "relation": "CapableOf", "tails": [" help with pain", " help with injury", " help person"]}
+{"head": "aid", "relation": "HasProperty", "tails": [" used in emergency room", " used in hospital", " used in emergency situations"]}
+{"head": "aid", "relation": "MadeUpOf", "tails": [" medicine chest", " aid", " aid in wound"]}
+{"head": "aid", "relation": "NotDesires", "tails": [" help with pain", " aid in pain", " aid in dying"]}
+{"head": "aid", "relation": "Desires", "tails": [" help with pain", " feel better", " help with illness"]}
+{"head": "Ty had been deaf all her life, but now she was hoping to hear.", "relation": "xAttr", "tails": [" deaf", " deafened", " blind"]}
+{"head": "Ty had been deaf all her life, but now she was hoping to hear.", "relation": "xWant", "tails": [" to get a hearing aid", " to go to the doctor", " to get a hearing aid."]}
+{"head": "Ty had been deaf all her life, but now she was hoping to hear.", "relation": "xNeed", "tails": [" none", " to learn how to hear", " to learn how to hear."]}
+{"head": "Ty had been deaf all her life, but now she was hoping to hear.", "relation": "xEffect", "tails": [" none", " gets a hearing aid", " hears better"]}
+{"head": "Ty had been deaf all her life, but now she was hoping to hear.", "relation": "HinderedBy", "tails": [" She is deaf.", " they have to learn how to hear", " they have to learn how to speak"]}
+{"head": "Ty had been deaf all her life, but now she was hoping to hear.", "relation": "oWant", "tails": [" none", " to listen to them", " to listen to the music"]}
+{"head": "Ty had been deaf all her life, but now she was hoping to hear.", "relation": "xReact", "tails": [" deaf", " deafened", " happy"]}
+{"head": "Ty had been deaf all her life, but now she was hoping to hear.", "relation": "oEffect", "tails": [" none", " hear better", " hearing loss"]}
+{"head": "Ty had been deaf all her life, but now she was hoping to hear.", "relation": "xIntent", "tails": [" none", " to be able to hear", " to be able to hear."]}
+{"head": "Ty had been deaf all her life, but now she was hoping to hear.", "relation": "oReact", "tails": [" none", " deaf", " deafened"]}
+{"head": "Ty had been deaf all her life, but now she was hoping to hear.", "relation": "isBefore", "tails": [" she goes to the doctor", " they go to the doctor", " none"]}
+{"head": "Ty had been deaf all her life, but now she was hoping to hear.", "relation": "isAfter", "tails": [" none", " hearing aids", " hearing loss"]}
+{"head": "Ty had been deaf all her life, but now she was hoping to hear.", "relation": "HasSubEvent", "tails": [" get a hearing aid", " listen to music", " get a hearing aid."]}
+{"head": "Ty had been deaf all her life, but now she was hoping to hear.", "relation": "Causes", "tails": [" deaf", " deafened", " blind"]}
+{"head": "Ty had been deaf all her life, but now she was hoping to hear.", "relation": "xReason", "tails": [" they go to the doctor", " she goes to the doctor", " none"]}
+{"head": "Ty", "relation": "ObjectUse", "tails": [" get a new job", " to be a good friend", " get a job"]}
+{"head": "Ty", "relation": "AtLocation", "tails": [" car", " house", " school"]}
+{"head": "Ty", "relation": "CapableOf", "tails": [" get in car", " get into argument", " get into fight"]}
+{"head": "Ty", "relation": "HasProperty", "tails": [" none", " one of the two", " one of the three"]}
+{"head": "Ty", "relation": "MadeUpOf", "tails": ["              ", "             ", "               "]}
+{"head": "Ty", "relation": "NotDesires", "tails": [" get in car accident", " get in trouble", " none"]}
+{"head": "Ty", "relation": "Desires", "tails": [" have a good time", " to be a good person", " to be a good friend"]}
+{"head": "She loved those sounds so much that she became a musician.", "relation": "xAttr", "tails": [" talented", " musical", " creative"]}
+{"head": "She loved those sounds so much that she became a musician.", "relation": "xWant", "tails": [" to make music", " to be a musician", " to play music"]}
+{"head": "She loved those sounds so much that she became a musician.", "relation": "xNeed", "tails": [" to learn how to play music", " to listen to music", " to learn how to play"]}
+{"head": "She loved those sounds so much that she became a musician.", "relation": "xEffect", "tails": [" She plays music.", " she plays music", " she plays the piano"]}
+{"head": "She loved those sounds so much that she became a musician.", "relation": "HinderedBy", "tails": [" She plays the piano.", " She plays the guitar.", " she plays the piano."]}
+{"head": "She loved those sounds so much that she became a musician.", "relation": "oWant", "tails": [" none", " to listen to the music", " to listen to her music"]}
+{"head": "She loved those sounds so much that she became a musician.", "relation": "xReact", "tails": [" happy", " happy.", " talented"]}
+{"head": "She loved those sounds so much that she became a musician.", "relation": "oEffect", "tails": [" none", " they get a job as a musician", " she sings in a band"]}
+{"head": "She loved those sounds so much that she became a musician.", "relation": "xIntent", "tails": [" to be a musician", " to make music", " to play music"]}
+{"head": "She loved those sounds so much that she became a musician.", "relation": "oReact", "tails": [" none", " happy", " happy."]}
+{"head": "She loved those sounds so much that she became a musician.", "relation": "isBefore", "tails": [" she sings in a band", " she sings in the band", " she plays the piano"]}
+{"head": "She loved those sounds so much that she became a musician.", "relation": "isAfter", "tails": [" she learned to play the guitar", " she learned to play the piano", " music was her favorite subject."]}
+{"head": "She loved those sounds so much that she became a musician.", "relation": "HasSubEvent", "tails": [" get a job as a musician", " get a job as a musician.", " get a job in music"]}
+{"head": "She loved those sounds so much that she became a musician.", "relation": "Causes", "tails": [" she sings in a band", " she sings in the band", " music"]}
+{"head": "She loved those sounds so much that she became a musician.", "relation": "xReason", "tails": [" she learned how to play the guitar", " she learned how to play the piano", " she learned how to play music"]}
+{"head": "She had it implanted and then waited eagerly for her first sound.", "relation": "xAttr", "tails": [" nervous", " excited", " patient"]}
+{"head": "She had it implanted and then waited eagerly for her first sound.", "relation": "xWant", "tails": [" to wait for it to happen", " to wait for the sound", " to wait for the first sound"]}
+{"head": "She had it implanted and then waited eagerly for her first sound.", "relation": "xNeed", "tails": [" to go to the doctor", " to go to the hospital", " to go to the hospital."]}
+{"head": "She had it implanted and then waited eagerly for her first sound.", "relation": "xEffect", "tails": [" gets excited", " gets nervous", " she gets excited"]}
+{"head": "She had it implanted and then waited eagerly for her first sound.", "relation": "HinderedBy", "tails": [" she was told it would be a long time before she could hear it.", " she was told it would be a long time before she could hear it", " she was told it would be a long time before she could hear."]}
+{"head": "She had it implanted and then waited eagerly for her first sound.", "relation": "oWant", "tails": [" to wait for it to happen", " to wait for the sound", " none"]}
+{"head": "She had it implanted and then waited eagerly for her first sound.", "relation": "xReact", "tails": [" excited", " nervous", " happy"]}
+{"head": "She had it implanted and then waited eagerly for her first sound.", "relation": "oEffect", "tails": [" none", " they get to hear what it sounds like", " they get to hear the sound"]}
+{"head": "She had it implanted and then waited eagerly for her first sound.", "relation": "xIntent", "tails": [" to hear the sound", " to be able to hear the sound", " to be able to hear the sound."]}
+{"head": "She had it implanted and then waited eagerly for her first sound.", "relation": "oReact", "tails": [" none", " happy", " excited"]}
+{"head": "She had it implanted and then waited eagerly for her first sound.", "relation": "isBefore", "tails": [" she goes to the doctor", " she goes to the doctor to have it removed", " she goes to the doctor to see if it works"]}
+{"head": "She had it implanted and then waited eagerly for her first sound.", "relation": "isAfter", "tails": [" she gets a new job", " she got a new job", " she gets a new job."]}
+{"head": "She had it implanted and then waited eagerly for her first sound.", "relation": "HasSubEvent", "tails": [" get a new one", " get a bandaid", " get a new job"]}
+{"head": "She had it implanted and then waited eagerly for her first sound.", "relation": "Causes", "tails": [" nervousness", " nervous", " she is happy"]}
+{"head": "She had it implanted and then waited eagerly for her first sound.", "relation": "xReason", "tails": [" she gets excited to hear the sound", " she gets excited to hear the sound.", " she gets excited to hear the first sound"]}
+{"head": "Her doctor had offered her a new kind of super-powered hearing aid.", "relation": "xAttr", "tails": [" helpful", " smart", " brave"]}
+{"head": "Her doctor had offered her a new kind of super-powered hearing aid.", "relation": "xWant", "tails": [" to go to the doctor", " to buy a new one", " to get a new hearing aid"]}
+{"head": "Her doctor had offered her a new kind of super-powered hearing aid.", "relation": "xNeed", "tails": [" to go to the doctor", " to go to the doctor's office", " to go to the doctor."]}
+{"head": "Her doctor had offered her a new kind of super-powered hearing aid.", "relation": "xEffect", "tails": [" get a new hearing aid", " get a new job", " her hearing aids are worn out"]}
+{"head": "Her doctor had offered her a new kind of super-powered hearing aid.", "relation": "HinderedBy", "tails": [" her hearing is bad", " her hearing is bad.", " her hearing was bad."]}
+{"head": "Her doctor had offered her a new kind of super-powered hearing aid.", "relation": "oWant", "tails": [" to see if they like it", " to see if it works", " to see if they can use it"]}
+{"head": "Her doctor had offered her a new kind of super-powered hearing aid.", "relation": "xReact", "tails": [" happy to have a new hearing aid.", " happy to have a new hearing aid", " happy to be able to hear better"]}
+{"head": "Her doctor had offered her a new kind of super-powered hearing aid.", "relation": "oEffect", "tails": [" none", " get a new hearing aid", " get a new job"]}
+{"head": "Her doctor had offered her a new kind of super-powered hearing aid.", "relation": "xIntent", "tails": [" her hearing to be better", " to be able to hear better", " to be able to hear"]}
+{"head": "Her doctor had offered her a new kind of super-powered hearing aid.", "relation": "oReact", "tails": [" none", " happy", " grateful"]}
+{"head": "Her doctor had offered her a new kind of super-powered hearing aid.", "relation": "isBefore", "tails": [" her hearing aids are broken", " her hearing aids were broken", " her hearing aids were broken."]}
+{"head": "Her doctor had offered her a new kind of super-powered hearing aid.", "relation": "isAfter", "tails": [" hearing loss", " her hearing aid was broken", " her hearing aid was broken."]}
+{"head": "Her doctor had offered her a new kind of super-powered hearing aid.", "relation": "HasSubEvent", "tails": [" get a new hearing aid", " get a hearing aid", " hear better"]}
+{"head": "Her doctor had offered her a new kind of super-powered hearing aid.", "relation": "Causes", "tails": [" her hearing to be better", " her hearing to be restored", " her hearing to be better."]}
+{"head": "Her doctor had offered her a new kind of super-powered hearing aid.", "relation": "xReason", "tails": [" her hearing was damaged", " her eyesight is bad", " her hearing was damaged."]}
+{"head": "And she heard hundreds, voices and music and more!", "relation": "xAttr", "tails": [" curious", " loud", " attentive"]}
+{"head": "And she heard hundreds, voices and music and more!", "relation": "xWant", "tails": [" to listen to the music", " to listen to music", " to enjoy the music"]}
+{"head": "And she heard hundreds, voices and music and more!", "relation": "xNeed", "tails": [" none", " listen to music", " to listen to music"]}
+{"head": "And she heard hundreds, voices and music and more!", "relation": "xEffect", "tails": [" none", " she hears a lot of music", " she hears a lot of noise"]}
+{"head": "And she heard hundreds, voices and music and more!", "relation": "HinderedBy", "tails": [" She is deaf.", " She was in the middle of a concert.", " She was in the middle of a meeting."]}
+{"head": "And she heard hundreds, voices and music and more!", "relation": "oWant", "tails": [" none", " to listen to the music", " to listen to music"]}
+{"head": "And she heard hundreds, voices and music and more!", "relation": "xReact", "tails": [" happy", " happy.", " excited"]}
+{"head": "And she heard hundreds, voices and music and more!", "relation": "oEffect", "tails": [" none", " listen to music", " listen to the music"]}
+{"head": "And she heard hundreds, voices and music and more!", "relation": "xIntent", "tails": [" none", " to be entertained", " listen to music"]}
+{"head": "And she heard hundreds, voices and music and more!", "relation": "oReact", "tails": [" none", " happy", " happy."]}
+{"head": "And she heard hundreds, voices and music and more!", "relation": "isBefore", "tails": [" She went to the concert.", " She went to a concert.", " She went to the concert hall."]}
+{"head": "And she heard hundreds, voices and music and more!", "relation": "isAfter", "tails": [" she went to the concert", " music", " she went to a concert"]}
+{"head": "And she heard hundreds, voices and music and more!", "relation": "HasSubEvent", "tails": [" listen to music", " listen to the music", " none"]}
+{"head": "And she heard hundreds, voices and music and more!", "relation": "Causes", "tails": [" She was listening to the radio.", " She was listening to music.", " She was listening to the music."]}
+{"head": "And she heard hundreds, voices and music and more!", "relation": "xReason", "tails": [" She went to the concert.", " She went to the music store.", " She went to the opera."]}

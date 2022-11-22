@@ -1,0 +1,175 @@
+{"head": "want copies", "relation": "HinderedBy", "tails": [" make copies", " want to keep", " make copies of"]}
+{"head": "want copies", "relation": "isBefore", "tails": [" make copies", " make copies of", " make copies of yourself"]}
+{"head": "want copies", "relation": "isAfter", "tails": [" want to use it", " want to use them", " want to read"]}
+{"head": "want copies", "relation": "HasSubEvent", "tails": [" make copies", " want to make copies", " make copies of yourself"]}
+{"head": "want copies", "relation": "Causes", "tails": [" make copies", " make copies of", " make copies of yourself"]}
+{"head": "want copies", "relation": "xReason", "tails": [" make copies", " want to read", " make copies of yourself"]}
+{"head": "tomorrow", "relation": "ObjectUse", "tails": [" have a good time", " have a party", " sleep in"]}
+{"head": "tomorrow", "relation": "AtLocation", "tails": [" bed and breakfast", " house", " bed"]}
+{"head": "tomorrow", "relation": "CapableOf", "tails": [" go to sleep", " go to bed", " go to work"]}
+{"head": "tomorrow", "relation": "HasProperty", "tails": [" one day a week", " one day a month", " one day a year"]}
+{"head": "tomorrow", "relation": "MadeUpOf", "tails": [" day", " clock", " bed"]}
+{"head": "tomorrow", "relation": "NotDesires", "tails": [" have to go to work", " have to go to school", " sleep"]}
+{"head": "tomorrow", "relation": "Desires", "tails": [" have a good time", " have a good day", " sleep"]}
+{"head": "to want", "relation": "HinderedBy", "tails": [" to want", " to want something", " to want "]}
+{"head": "to want", "relation": "isBefore", "tails": [" to want", " to want something", " to want to want"]}
+{"head": "to want", "relation": "isAfter", "tails": [" to want", " to want something", " to want to want"]}
+{"head": "to want", "relation": "HasSubEvent", "tails": [" to want", " to want something", " to want to want"]}
+{"head": "to want", "relation": "Causes", "tails": [" to want", " to want something", " to want to want"]}
+{"head": "to want", "relation": "xReason", "tails": [" to want", " to want something", " to want to want"]}
+{"head": "to have", "relation": "HinderedBy", "tails": [" to have", " to have ", " to have  to have"]}
+{"head": "to have", "relation": "isBefore", "tails": [" to have", " to have ", " to have  a good time"]}
+{"head": "to have", "relation": "isAfter", "tails": [" to have something to eat", " to have", " to have something to drink"]}
+{"head": "to have", "relation": "HasSubEvent", "tails": [" to have", " to have ", " to have  have"]}
+{"head": "to have", "relation": "Causes", "tails": [" to have", " to have ", " to have  "]}
+{"head": "to have", "relation": "xReason", "tails": [" to have", " to have something to eat", " to have "]}
+{"head": "to get", "relation": "HinderedBy", "tails": [" to get ", " to get", " to get  to get "]}
+{"head": "to get", "relation": "isBefore", "tails": [" to get", " to get ", " to get  to get "]}
+{"head": "to get", "relation": "isAfter", "tails": [" to get", " to get something", " to get "]}
+{"head": "to get", "relation": "HasSubEvent", "tails": [" to get", " to get ", " to get  to get"]}
+{"head": "to get", "relation": "Causes", "tails": [" to get", " to get  to get ", " to get "]}
+{"head": "to get", "relation": "xReason", "tails": [" to get", " to get something", " to get "]}
+{"head": "to develop", "relation": "HinderedBy", "tails": [" to develop", " to develop ", " to develop  to develop "]}
+{"head": "to develop", "relation": "isBefore", "tails": [" to develop", " to develop a new product", " to develop something new"]}
+{"head": "to develop", "relation": "isAfter", "tails": [" to develop a new product", " to develop", " to develop a product"]}
+{"head": "to develop", "relation": "HasSubEvent", "tails": [" to develop", " to develop ", " learn new skills"]}
+{"head": "to develop", "relation": "Causes", "tails": [" to develop", " to develop something new", " to develop "]}
+{"head": "to develop", "relation": "xReason", "tails": [" to develop", " to develop something new", " to develop something"]}
+{"head": "roll", "relation": "ObjectUse", "tails": [" roll into a ball", " use as a paperweight", " use as a paper weight"]}
+{"head": "roll", "relation": "AtLocation", "tails": [" rollerskate", " rollerskates", " rollerskating"]}
+{"head": "roll", "relation": "CapableOf", "tails": [" roll into ball", " roll up paper", " roll up and down"]}
+{"head": "roll", "relation": "HasProperty", "tails": [" rollerskate", " rollerskates", " rollerskating"]}
+{"head": "roll", "relation": "MadeUpOf", "tails": [" rollerskate", " rollerskates", " rollerskating"]}
+{"head": "roll", "relation": "NotDesires", "tails": [" roll over", " roll on floor", " roll up"]}
+{"head": "roll", "relation": "Desires", "tails": [" roll up paper", " roll up", " roll over"]}
+{"head": "pictures", "relation": "ObjectUse", "tails": [" use as a paperweight", " show off to friends", " show off"]}
+{"head": "pictures", "relation": "AtLocation", "tails": [" photo album", " photograph album", " pictures album"]}
+{"head": "pictures", "relation": "CapableOf", "tails": [" send to friends", " send to personY", " take pictures of the event"]}
+{"head": "pictures", "relation": "HasProperty", "tails": [" taken from camera", " taken by camera", " taken by person"]}
+{"head": "pictures", "relation": "MadeUpOf", "tails": [" picture frame", " pictures", " pictures of people"]}
+{"head": "pictures", "relation": "NotDesires", "tails": [" see what they did", " take pictures", " take pictures of"]}
+{"head": "pictures", "relation": "Desires", "tails": [" take pictures of", " show off", " take pictures"]}
+{"head": "photos", "relation": "ObjectUse", "tails": [" use as a scrapbook", " take pictures of the event", " use as a scrapbook page"]}
+{"head": "photos", "relation": "AtLocation", "tails": [" photo album", " photos album", " photograph album"]}
+{"head": "photos", "relation": "CapableOf", "tails": [" use as paperweight", " use as paper weight", " take pictures"]}
+{"head": "photos", "relation": "HasProperty", "tails": [" taken from camera", " taken from a camera", " photos"]}
+{"head": "photos", "relation": "MadeUpOf", "tails": [" photo album", " photo frame", " photos"]}
+{"head": "photos", "relation": "NotDesires", "tails": [" see what they look like", " take pictures of", " see what they did"]}
+{"head": "photos", "relation": "Desires", "tails": [" use as a scrapbook", " take pictures of", " use as scrapbook paper"]}
+{"head": "get pictures", "relation": "HinderedBy", "tails": [" take pictures", " take pictures of the event", " take pictures of event"]}
+{"head": "get pictures", "relation": "isBefore", "tails": [" take pictures", " take a picture", " take pictures of people"]}
+{"head": "get pictures", "relation": "isAfter", "tails": [" get out camera", " take pictures", " take pictures of event"]}
+{"head": "get pictures", "relation": "HasSubEvent", "tails": [" take pictures", " take picture", " get camera ready"]}
+{"head": "get pictures", "relation": "Causes", "tails": [" take pictures", " take picture", " use camera"]}
+{"head": "get pictures", "relation": "xReason", "tails": [" take pictures", " take picture", " take pictures of"]}
+{"head": "film", "relation": "ObjectUse", "tails": [" make a collage", " film a movie", " make a movie"]}
+{"head": "film", "relation": "AtLocation", "tails": [" movie theater", " movie theatre", " movie"]}
+{"head": "film", "relation": "CapableOf", "tails": [" watch movie", " film movie", " see movie"]}
+{"head": "film", "relation": "HasProperty", "tails": [" found in movie theater", " found in museum", " found in movie"]}
+{"head": "film", "relation": "MadeUpOf", "tails": [" film", " filmstrip", " film projector"]}
+{"head": "film", "relation": "NotDesires", "tails": [" make into movie", " film", " make movie"]}
+{"head": "film", "relation": "Desires", "tails": [" watch on tv", " watch movie", " film"]}
+{"head": "course", "relation": "ObjectUse", "tails": [" learn new things", " learn new skills", " get a degree"]}
+{"head": "course", "relation": "AtLocation", "tails": [" classroom", " school", " college"]}
+{"head": "course", "relation": "CapableOf", "tails": [" learn new things", " learn new skills", " learn new skill"]}
+{"head": "course", "relation": "HasProperty", "tails": [" taught by instructor", " taught by teacher", " taught by professor"]}
+{"head": "course", "relation": "MadeUpOf", "tails": [" course", " course material", " classroom"]}
+{"head": "course", "relation": "NotDesires", "tails": [" learn new things", " learn something new", " learning new things"]}
+{"head": "course", "relation": "Desires", "tails": [" learn new things", " learn new skills", " learn new skill"]}
+{"head": "copies", "relation": "ObjectUse", "tails": [" use as a paperweight", " make a paper airplane", " use as a bookmark"]}
+{"head": "copies", "relation": "AtLocation", "tails": [" book store", " file folder", " store"]}
+{"head": "copies", "relation": "CapableOf", "tails": [" use as paperweight", " make copies of", " make copies"]}
+{"head": "copies", "relation": "HasProperty", "tails": [" printed on paper", " made from paper", " printed on"]}
+{"head": "copies", "relation": "MadeUpOf", "tails": [" photocopies", " photocopier", " photocopied"]}
+{"head": "copies", "relation": "NotDesires", "tails": [" make copies of yourself", " make copies of", " make a paper airplane"]}
+{"head": "copies", "relation": "Desires", "tails": [" make a paper airplane", " make copies of", " make copies of the book"]}
+{"head": "Surely of course .", "relation": "xAttr", "tails": [" sure of themselves", " sure", " sure of themselves."]}
+{"head": "Surely of course .", "relation": "xWant", "tails": [" to make sure they are right", " to be sure", " to be sure of it"]}
+{"head": "Surely of course .", "relation": "xNeed", "tails": [" none", " sure", " sure of"]}
+{"head": "Surely of course .", "relation": "xEffect", "tails": [" none", " sure of themselves", " sure"]}
+{"head": "Surely of course .", "relation": "HinderedBy", "tails": [" sure", " sure of course", " sure of themselves"]}
+{"head": "Surely of course .", "relation": "oWant", "tails": [" none", " to have a good time", " to have a good life"]}
+{"head": "Surely of course .", "relation": "xReact", "tails": [" sure of themselves", " sure", " sure of themselves."]}
+{"head": "Surely of course .", "relation": "oEffect", "tails": [" none", " sure of themselves", " sure of course"]}
+{"head": "Surely of course .", "relation": "xIntent", "tails": [" none", " sure of themselves", " to be sure"]}
+{"head": "Surely of course .", "relation": "oReact", "tails": [" none", " happy", " happy."]}
+{"head": "Surely of course .", "relation": "isBefore", "tails": [" sure", " none", " sure of"]}
+{"head": "Surely of course .", "relation": "isAfter", "tails": [" none", " sure", " sure of"]}
+{"head": "Surely of course .", "relation": "HasSubEvent", "tails": [" none", " sure", " sure of"]}
+{"head": "Surely of course .", "relation": "Causes", "tails": [" sure", " sure of themselves", " sure of course"]}
+{"head": "Surely of course .", "relation": "xReason", "tails": [" sure", " sure of themselves", " none"]}
+{"head": "Sure .", "relation": "xAttr", "tails": [" sure", " sure of themselves", " sure of themselves."]}
+{"head": "Sure .", "relation": "xWant", "tails": [" to go to the movies", " to go to the store", " to go to the party"]}
+{"head": "Sure .", "relation": "xNeed", "tails": [" none", " sure", " sure of"]}
+{"head": "Sure .", "relation": "xEffect", "tails": [" none", " sure", " sure of"]}
+{"head": "Sure .", "relation": "HinderedBy", "tails": [" sure", " none", " sure of"]}
+{"head": "Sure .", "relation": "oWant", "tails": [" none", " answer questions", " to have fun"]}
+{"head": "Sure .", "relation": "xReact", "tails": [" happy", " satisfied", " sure"]}
+{"head": "Sure .", "relation": "oEffect", "tails": [" none", " sure", " have fun"]}
+{"head": "Sure .", "relation": "xIntent", "tails": [" none", " to be able to do something", " to be able to do it"]}
+{"head": "Sure .", "relation": "oReact", "tails": [" none", " happy", " sure"]}
+{"head": "Sure .", "relation": "isBefore", "tails": [" sure", " none", " good"]}
+{"head": "Sure .", "relation": "isAfter", "tails": [" sure", " none", " good"]}
+{"head": "Sure .", "relation": "HasSubEvent", "tails": [" sure", " none", " answer question"]}
+{"head": "Sure .", "relation": "Causes", "tails": [" sure", " none", " sure of"]}
+{"head": "Sure .", "relation": "xReason", "tails": [" sure", " none", " sure of"]}
+{"head": "Here is the film .", "relation": "xAttr", "tails": [" entertaining", " interested", " entertained"]}
+{"head": "Here is the film .", "relation": "xWant", "tails": [" to watch it again", " to watch the film again", " to watch the film"]}
+{"head": "Here is the film .", "relation": "xNeed", "tails": [" to watch the film", " to buy the film", " to buy a ticket"]}
+{"head": "Here is the film .", "relation": "xEffect", "tails": [" watch the film", " watch the movie", " none"]}
+{"head": "Here is the film .", "relation": "HinderedBy", "tails": [" here is the film", " here is the film.", " The film is too expensive."]}
+{"head": "Here is the film .", "relation": "oWant", "tails": [" to watch the film", " none", " to watch it again"]}
+{"head": "Here is the film .", "relation": "xReact", "tails": [" happy", " entertained", " satisfied"]}
+{"head": "Here is the film .", "relation": "oEffect", "tails": [" none", " watch the film", " watch the movie"]}
+{"head": "Here is the film .", "relation": "xIntent", "tails": [" to be entertained", " to watch a movie", " to see a movie"]}
+{"head": "Here is the film .", "relation": "oReact", "tails": [" none", " happy", " entertained"]}
+{"head": "Here is the film .", "relation": "isBefore", "tails": [" watch the film", " here is the film", " watch the movie"]}
+{"head": "Here is the film .", "relation": "isAfter", "tails": [" watch the film", " here is the film", " watch the movie"]}
+{"head": "Here is the film .", "relation": "HasSubEvent", "tails": [" watch the film", " watch the movie", " watch the film again"]}
+{"head": "Here is the film .", "relation": "Causes", "tails": [" here is the film", " watch the film", " here is the film."]}
+{"head": "Here is the film .", "relation": "xReason", "tails": [" watch the film", " here is the film", " watch the movie"]}
+{"head": "Can I have the roll of film developed here ?", "relation": "xAttr", "tails": [" curious", " creative", " capable"]}
+{"head": "Can I have the roll of film developed here ?", "relation": "xWant", "tails": [" to buy a new roll of film", " to buy a new roll of film.", " to buy a new camera"]}
+{"head": "Can I have the roll of film developed here ?", "relation": "xNeed", "tails": [" to go to the store", " to go to the camera shop", " to go to the camera store"]}
+{"head": "Can I have the roll of film developed here ?", "relation": "xEffect", "tails": [" can't find the roll of film", " can't find the roll of film.", " get a receipt"]}
+{"head": "Can I have the roll of film developed here ?", "relation": "HinderedBy", "tails": [" can't afford to pay for it", " can't afford it", " can't afford to go to the store"]}
+{"head": "Can I have the roll of film developed here ?", "relation": "oWant", "tails": [" none", " to help me", " to take the film"]}
+{"head": "Can I have the roll of film developed here ?", "relation": "xReact", "tails": [" satisfied", " happy", " satisfied."]}
+{"head": "Can I have the roll of film developed here ?", "relation": "oEffect", "tails": [" none", " can't find the roll of film", " can't find the roll of film."]}
+{"head": "Can I have the roll of film developed here ?", "relation": "xIntent", "tails": [" to get a good picture", " to take pictures", " to get a good shot"]}
+{"head": "Can I have the roll of film developed here ?", "relation": "oReact", "tails": [" none", " happy to help", " happy to help."]}
+{"head": "Can I have the roll of film developed here ?", "relation": "isBefore", "tails": [" can't find the roll of film", " can't afford to pay for it", " Can't afford to pay for it."]}
+{"head": "Can I have the roll of film developed here ?", "relation": "isAfter", "tails": [" can't find the roll of film", " can't afford to pay for it", " can't afford it"]}
+{"head": "Can I have the roll of film developed here ?", "relation": "HasSubEvent", "tails": [" get the film developed", " get a new roll of film developed", " get a new roll of film"]}
+{"head": "Can I have the roll of film developed here ?", "relation": "Causes", "tails": [" can't afford to pay for it", " can't afford it", " can't afford the cost"]}
+{"head": "Can I have the roll of film developed here ?", "relation": "xReason", "tails": [" can't afford to pay for it", " can't find the roll of film", " can't afford it"]}
+{"head": "Can I get my pictures tomorrow ?", "relation": "xAttr", "tails": [" creative", " curious", " artistic"]}
+{"head": "Can I get my pictures tomorrow ?", "relation": "xWant", "tails": [" to send the pictures to the photographer", " to take pictures", " to send them to the photographer"]}
+{"head": "Can I get my pictures tomorrow ?", "relation": "xNeed", "tails": [" to ask for the pictures", " to have a camera", " to ask for a date"]}
+{"head": "Can I get my pictures tomorrow ?", "relation": "xEffect", "tails": [" can't wait to see what they look like", " can't wait to see the pictures", " can't afford to pay for it"]}
+{"head": "Can I get my pictures tomorrow ?", "relation": "HinderedBy", "tails": [" can't afford to pay for it", " can't afford to pay for the pictures", " can't afford it"]}
+{"head": "Can I get my pictures tomorrow ?", "relation": "oWant", "tails": [" none", " to see the pictures", " to take the pictures"]}
+{"head": "Can I get my pictures tomorrow ?", "relation": "xReact", "tails": [" happy", " satisfied", " happy."]}
+{"head": "Can I get my pictures tomorrow ?", "relation": "oEffect", "tails": [" none", " can't afford to pay for the pictures", " can't afford to pay for it"]}
+{"head": "Can I get my pictures tomorrow ?", "relation": "xIntent", "tails": [" to show off their work", " to show their work", " none"]}
+{"head": "Can I get my pictures tomorrow ?", "relation": "oReact", "tails": [" none", " happy", " happy."]}
+{"head": "Can I get my pictures tomorrow ?", "relation": "isBefore", "tails": [" can't wait to see what they look like", " can't wait to see what the pictures look like", " can't wait to see the pictures"]}
+{"head": "Can I get my pictures tomorrow ?", "relation": "isAfter", "tails": [" can't wait to see what they look like", " can't wait to see what the pictures look like", " can't wait to see the pictures"]}
+{"head": "Can I get my pictures tomorrow ?", "relation": "HasSubEvent", "tails": [" can't wait to see what they look like", " can't wait to see what the pictures look like", " can't wait to see the pictures"]}
+{"head": "Can I get my pictures tomorrow ?", "relation": "Causes", "tails": [" can't afford to pay for it", " can't afford to pay for the pictures", " can't afford it"]}
+{"head": "Can I get my pictures tomorrow ?", "relation": "xReason", "tails": [" can't wait to see what they look like", " can't wait to see what the pictures look like", " can't wait to see the pictures"]}
+{"head": "Besides I want two copies of all the photos .", "relation": "xAttr", "tails": [" organized", " creative", " careful"]}
+{"head": "Besides I want two copies of all the photos .", "relation": "xWant", "tails": [" to make copies of all the photos", " to make copies of the photos", " to save the photos"]}
+{"head": "Besides I want two copies of all the photos .", "relation": "xNeed", "tails": [" none", " to have a camera", " to take pictures"]}
+{"head": "Besides I want two copies of all the photos .", "relation": "xEffect", "tails": [" get a copy of the photos", " get a copy of the photo", " get a copy of the photos."]}
+{"head": "Besides I want two copies of all the photos .", "relation": "HinderedBy", "tails": [" I don't have the money to pay for it.", " I don't have the money to buy more copies.", " I don't have the time to make copies."]}
+{"head": "Besides I want two copies of all the photos .", "relation": "oWant", "tails": [" none", " to make copies of all the photos", " to make copies of the photos"]}
+{"head": "Besides I want two copies of all the photos .", "relation": "xReact", "tails": [" happy", " satisfied", " happy."]}
+{"head": "Besides I want two copies of all the photos .", "relation": "oEffect", "tails": [" none", " get a copy of the photos", " they get a copy of the photos"]}
+{"head": "Besides I want two copies of all the photos .", "relation": "xIntent", "tails": [" to have a record of the event", " to have a record of the event.", " to have a record of their life"]}
+{"head": "Besides I want two copies of all the photos .", "relation": "oReact", "tails": [" none", " happy", " happy."]}
+{"head": "Besides I want two copies of all the photos .", "relation": "isBefore", "tails": [" get a copy of the photos", " get a copy of the photo", " I want to keep the photos safe"]}
+{"head": "Besides I want two copies of all the photos .", "relation": "isAfter", "tails": [" PersonY gives me a copy of all the photos.", " PersonY gives me a copy of the photos.", " PersonY gives me a copy of all the photos"]}
+{"head": "Besides I want two copies of all the photos .", "relation": "HasSubEvent", "tails": [" get a copy of the photos", " get a copy of the photo", " get a new one"]}
+{"head": "Besides I want two copies of all the photos .", "relation": "Causes", "tails": [" I don't want to lose the photos.", " I don't have the time to make copies.", " I don't want to lose them."]}
+{"head": "Besides I want two copies of all the photos .", "relation": "xReason", "tails": [" I want to keep the photos for myself.", " I want to keep the photos safe.", " I want to keep the photos for myself"]}

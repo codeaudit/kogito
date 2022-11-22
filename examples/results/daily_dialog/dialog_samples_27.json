@@ -1,0 +1,331 @@
+{"head": "year", "relation": "ObjectUse", "tails": [" have a birthday", " get a promotion", " have a good time"]}
+{"head": "year", "relation": "AtLocation", "tails": [" year", " office building", " school"]}
+{"head": "year", "relation": "CapableOf", "tails": [" pay bills on time", " pay rent", " pay taxes"]}
+{"head": "year", "relation": "HasProperty", "tails": [" year", " one year", " many years"]}
+{"head": "year", "relation": "MadeUpOf", "tails": [" year", " number of years", " number of days"]}
+{"head": "year", "relation": "NotDesires", "tails": [" year", " year to end", " have to pay bills"]}
+{"head": "year", "relation": "Desires", "tails": [" year", " year of life", " year to live"]}
+{"head": "workweek", "relation": "ObjectUse", "tails": [" get paid for", " get paid", " get a raise"]}
+{"head": "workweek", "relation": "AtLocation", "tails": [" work", " office", " office building"]}
+{"head": "workweek", "relation": "CapableOf", "tails": [" work long hours", " get paid", " have to do"]}
+{"head": "workweek", "relation": "HasProperty", "tails": [" work week", " hard work", " work"]}
+{"head": "workweek", "relation": "MadeUpOf", "tails": [" work week", " workweek", " work day"]}
+{"head": "workweek", "relation": "NotDesires", "tails": [" have to go to work", " have to go to office", " have to work"]}
+{"head": "workweek", "relation": "Desires", "tails": [" work more hours", " get paid", " get paid for work"]}
+{"head": "work", "relation": "ObjectUse", "tails": [" get paid", " get a raise", " get paid for"]}
+{"head": "work", "relation": "AtLocation", "tails": [" office building", " office", " house"]}
+{"head": "work", "relation": "CapableOf", "tails": [" get job done", " get paid", " get paid for work"]}
+{"head": "work", "relation": "HasProperty", "tails": [" found in office", " hard work", " found in workplace"]}
+{"head": "work", "relation": "MadeUpOf", "tails": [" work", " get paid", " work hard"]}
+{"head": "work", "relation": "NotDesires", "tails": [" get fired", " have to pay bills", " have to do"]}
+{"head": "work", "relation": "Desires", "tails": [" get paid", " work hard", " get a raise"]}
+{"head": "week paid vacation", "relation": "ObjectUse", "tails": [" take a vacation", " get a promotion", " get a raise"]}
+{"head": "week paid vacation", "relation": "AtLocation", "tails": [" vacation home", " vacation", " vacation house"]}
+{"head": "week paid vacation", "relation": "CapableOf", "tails": [" take vacation day off work", " take vacation days off of work", " take vacation days off work"]}
+{"head": "week paid vacation", "relation": "HasProperty", "tails": [" paid for by employer", " paid for", " paid for by the employer"]}
+{"head": "week paid vacation", "relation": "MadeUpOf", "tails": [" vacation time", " vacation days", " vacation"]}
+{"head": "week paid vacation", "relation": "NotDesires", "tails": [" have more free time", " have more free time to do other things", " have more free time to spend with family"]}
+{"head": "week paid vacation", "relation": "Desires", "tails": [" have more free time", " have more time to do other things", " have more free time to do other things"]}
+{"head": "week", "relation": "ObjectUse", "tails": [" go on vacation", " go to the beach", " go to the doctor"]}
+{"head": "week", "relation": "AtLocation", "tails": [" week", " house", " vacation"]}
+{"head": "week", "relation": "CapableOf", "tails": [" go on vacation", " go to doctor", " go to work"]}
+{"head": "week", "relation": "HasProperty", "tails": [" one day a week", " one day per week", " two weeks"]}
+{"head": "week", "relation": "MadeUpOf", "tails": [" week", " weekdays", " week of work"]}
+{"head": "week", "relation": "NotDesires", "tails": [" get sick", " have to work", " week"]}
+{"head": "week", "relation": "Desires", "tails": [" have fun with friends", " have fun", " week of work"]}
+{"head": "vacation", "relation": "ObjectUse", "tails": [" have fun", " go on vacation", " go to the beach"]}
+{"head": "vacation", "relation": "AtLocation", "tails": [" vacation", " vacation home", " beach"]}
+{"head": "vacation", "relation": "CapableOf", "tails": [" go on vacation", " have fun", " go to beach"]}
+{"head": "vacation", "relation": "HasProperty", "tails": [" vacation", " fun", " vacation time"]}
+{"head": "vacation", "relation": "MadeUpOf", "tails": [" vacation", " vacation time", " vacation package"]}
+{"head": "vacation", "relation": "NotDesires", "tails": [" have fun", " have a good time", " have fun with friends"]}
+{"head": "vacation", "relation": "Desires", "tails": [" have fun", " have a good time", " enjoy yourself"]}
+{"head": "to wonder", "relation": "HinderedBy", "tails": [" to wonder", " to wonder about something", " to wonder "]}
+{"head": "to wonder", "relation": "isBefore", "tails": [" to wonder", " to wonder what is going on", " to wonder what to do next"]}
+{"head": "to wonder", "relation": "isAfter", "tails": [" to be curious", " to wonder", " to think"]}
+{"head": "to wonder", "relation": "HasSubEvent", "tails": [" to wonder", " ask questions", " to wonder "]}
+{"head": "to wonder", "relation": "Causes", "tails": [" to wonder", " to wonder about", " to wonder about something"]}
+{"head": "to wonder", "relation": "xReason", "tails": [" to wonder", " to be curious", " to wonder about something"]}
+{"head": "to want", "relation": "HinderedBy", "tails": [" to want", " to want something", " to want "]}
+{"head": "to want", "relation": "isBefore", "tails": [" to want", " to want something", " to want to want"]}
+{"head": "to want", "relation": "isAfter", "tails": [" to want", " to want something", " to want to want"]}
+{"head": "to want", "relation": "HasSubEvent", "tails": [" to want", " to want something", " to want to want"]}
+{"head": "to want", "relation": "Causes", "tails": [" to want", " to want something", " to want to want"]}
+{"head": "to want", "relation": "xReason", "tails": [" to want", " to want something", " to want to want"]}
+{"head": "to thank", "relation": "HinderedBy", "tails": [" to thank", " to thank ", " to thank someone"]}
+{"head": "to thank", "relation": "isBefore", "tails": [" to say thank you", " to thank", " to thank them for it"]}
+{"head": "to thank", "relation": "isAfter", "tails": [" to show appreciation", " to show gratitude", " to be thanked"]}
+{"head": "to thank", "relation": "HasSubEvent", "tails": [" to thank", " to say thank you", " to say thank you."]}
+{"head": "to thank", "relation": "Causes", "tails": [" to thank", " none", " to be thanked"]}
+{"head": "to thank", "relation": "xReason", "tails": [" none", " to be thanked", " to thank"]}
+{"head": "to talk", "relation": "HinderedBy", "tails": [" to talk", " to talk to someone", " to talk to people"]}
+{"head": "to talk", "relation": "isBefore", "tails": [" to talk", " listen to", " to talk to"]}
+{"head": "to talk", "relation": "isAfter", "tails": [" listen to", " to talk to someone", " listen to person"]}
+{"head": "to talk", "relation": "HasSubEvent", "tails": [" to talk", " listen to", " talk to someone"]}
+{"head": "to talk", "relation": "Causes", "tails": [" to talk", " listen to", " to talk to"]}
+{"head": "to talk", "relation": "xReason", "tails": [" listen to", " to talk", " listen to person"]}
+{"head": "to pay", "relation": "HinderedBy", "tails": [" to pay", " to pay ", " to pay  to pay "]}
+{"head": "to pay", "relation": "isBefore", "tails": [" to pay", " to pay for the food", " to pay the bill"]}
+{"head": "to pay", "relation": "isAfter", "tails": [" pay for the item", " to pay for the food", " to pay for the item"]}
+{"head": "to pay", "relation": "HasSubEvent", "tails": [" to pay", " pay for the item", " to pay for the item"]}
+{"head": "to pay", "relation": "Causes", "tails": [" to pay", " to pay for something", " to pay for the food"]}
+{"head": "to pay", "relation": "xReason", "tails": [" to pay", " to pay for something", " to pay for the food"]}
+{"head": "to link", "relation": "HinderedBy", "tails": [" to link", " to link ", " to link  to"]}
+{"head": "to link", "relation": "isBefore", "tails": [" to link", " to link two things together", " to link two things"]}
+{"head": "to link", "relation": "isAfter", "tails": [" to link to website", " to link to a website", " link to website"]}
+{"head": "to link", "relation": "HasSubEvent", "tails": [" to link", " to link ", " to link  to"]}
+{"head": "to link", "relation": "Causes", "tails": [" to link two things together", " to link", " to link two things"]}
+{"head": "to link", "relation": "xReason", "tails": [" to link two things together", " to link", " to link two things"]}
+{"head": "to issue", "relation": "HinderedBy", "tails": [" to issue", " to issue ", " to issue  to issue "]}
+{"head": "to issue", "relation": "isBefore", "tails": [" to issue", " to issue ", " to issue a letter"]}
+{"head": "to issue", "relation": "isAfter", "tails": [" press release", " to issue", " to issue "]}
+{"head": "to issue", "relation": "HasSubEvent", "tails": [" to issue", " to issue ", " to issue  issue"]}
+{"head": "to issue", "relation": "Causes", "tails": [" to issue", " have authority to do so", " have authority to issue"]}
+{"head": "to issue", "relation": "xReason", "tails": [" have authority to do so", " to issue", " have authority to issue"]}
+{"head": "to invite", "relation": "HinderedBy", "tails": [" to invite", " to invite ", " to invite  to a party"]}
+{"head": "to invite", "relation": "isBefore", "tails": [" to invite", " to invite ", " to invite others"]}
+{"head": "to invite", "relation": "isAfter", "tails": [" to have a party", " to invite people to a party", " to invite people to the party"]}
+{"head": "to invite", "relation": "HasSubEvent", "tails": [" to invite", " to invite ", " to invite  people"]}
+{"head": "to invite", "relation": "Causes", "tails": [" invite someone to a party", " to invite people to a party", " to invite"]}
+{"head": "to invite", "relation": "xReason", "tails": [" to invite", " have a party", " to invite people"]}
+{"head": "to enjoy", "relation": "HinderedBy", "tails": [" to enjoy", " to enjoy ", " to enjoy something"]}
+{"head": "to enjoy", "relation": "isBefore", "tails": [" to enjoy", " have fun", " to enjoy life"]}
+{"head": "to enjoy", "relation": "isAfter", "tails": [" have fun", " to be happy", " to be entertained"]}
+{"head": "to enjoy", "relation": "HasSubEvent", "tails": [" to enjoy", " have fun", " enjoy yourself"]}
+{"head": "to enjoy", "relation": "Causes", "tails": [" to enjoy", " have fun", " have good time"]}
+{"head": "to enjoy", "relation": "xReason", "tails": [" to enjoy", " have fun", " have good time"]}
+{"head": "thank you", "relation": "HinderedBy", "tails": [" thank you", " thank them for it", " thank you for the gift"]}
+{"head": "thank you", "relation": "isBefore", "tails": [" thank you", " thank them for it", " thank you for the gift"]}
+{"head": "thank you", "relation": "isAfter", "tails": [" thank you", " thank them for it", " thank you for the gift"]}
+{"head": "thank you", "relation": "HasSubEvent", "tails": [" say thank you", " thank them for it", " thank them"]}
+{"head": "thank you", "relation": "Causes", "tails": [" thank you", " thank you for the gift", " feel good about yourself"]}
+{"head": "thank you", "relation": "xReason", "tails": [" thank you", " thank them for it", " thank you for the gift"]}
+{"head": "talk you", "relation": "HinderedBy", "tails": [" talk to someone", " listen to", " talk to"]}
+{"head": "talk you", "relation": "isBefore", "tails": [" listen to", " talk to", " talk to person"]}
+{"head": "talk you", "relation": "isAfter", "tails": [" listen to", " talk to", " talk to person"]}
+{"head": "talk you", "relation": "HasSubEvent", "tails": [" listen to", " talk to person", " talk to"]}
+{"head": "talk you", "relation": "Causes", "tails": [" listen to", " talk to", " talk to person"]}
+{"head": "talk you", "relation": "xReason", "tails": [" listen to", " talk to", " talk to person"]}
+{"head": "policy", "relation": "ObjectUse", "tails": [" make sure everyone is following", " make sure everyone is safe", " make sure people are following"]}
+{"head": "policy", "relation": "AtLocation", "tails": [" office building", " government", " policy book"]}
+{"head": "policy", "relation": "CapableOf", "tails": [" make rules", " rule of law", " rule of land"]}
+{"head": "policy", "relation": "HasProperty", "tails": [" made up of many parts", " made up of laws", " made up of many different parts"]}
+{"head": "policy", "relation": "MadeUpOf", "tails": [" policy", " policy statement", " policy paper"]}
+{"head": "policy", "relation": "NotDesires", "tails": [" have to follow", " policy to be broken", " policy to be followed"]}
+{"head": "policy", "relation": "Desires", "tails": [" make sure people are safe", " make sure people are happy", " make sure everyone is safe"]}
+{"head": "life insurance", "relation": "ObjectUse", "tails": [" pay for a funeral", " pay for the funeral", " pay for funeral"]}
+{"head": "life insurance", "relation": "AtLocation", "tails": [" insurance company", " life insurance policy", " life insurance"]}
+{"head": "life insurance", "relation": "CapableOf", "tails": [" pay for funeral", " pay for funeral expenses", " pay for burial"]}
+{"head": "life insurance", "relation": "HasProperty", "tails": [" life insurance", " expensive", " paid for"]}
+{"head": "life insurance", "relation": "MadeUpOf", "tails": [" life insurance", " insurance policy", " life"]}
+{"head": "life insurance", "relation": "NotDesires", "tails": [" pay for life insurance", " pay for funeral", " have to pay for"]}
+{"head": "life insurance", "relation": "Desires", "tails": [" pay for funeral", " pay for medical bills", " pay for funeral expenses"]}
+{"head": "life", "relation": "ObjectUse", "tails": [" live a good life", " live a full life", " have a good time"]}
+{"head": "life", "relation": "AtLocation", "tails": [" life", " death", " living"]}
+{"head": "life", "relation": "CapableOf", "tails": [" live life to fullest", " live long and happy life", " live long and happy"]}
+{"head": "life", "relation": "HasProperty", "tails": [" life", " death", " very important"]}
+{"head": "life", "relation": "MadeUpOf", "tails": [" life", " life force", " life cycle"]}
+{"head": "life", "relation": "NotDesires", "tails": [" life", " death", " life to end"]}
+{"head": "life", "relation": "Desires", "tails": [" life", " have fun", " life to last"]}
+{"head": "issue policy", "relation": "HinderedBy", "tails": [" issue policy", " issue rules", " have a policy"]}
+{"head": "issue policy", "relation": "isBefore", "tails": [" have rules to follow", " make rules", " have rules of conduct"]}
+{"head": "issue policy", "relation": "isAfter", "tails": [" make rules", " issue letter", " document"]}
+{"head": "issue policy", "relation": "HasSubEvent", "tails": [" make rules", " make sure everyone understands", " make sure people understand"]}
+{"head": "issue policy", "relation": "Causes", "tails": [" make rules", " make law", " have authority"]}
+{"head": "issue policy", "relation": "xReason", "tails": [" make rules", " make law", " have rules"]}
+{"head": "invite you", "relation": "HinderedBy", "tails": [" invite someone to a party", " invite someone else", " invite someone else to a party"]}
+{"head": "invite you", "relation": "isBefore", "tails": [" invite someone else", " invite others to party", " invite someone to party"]}
+{"head": "invite you", "relation": "isAfter", "tails": [" invite someone to a party", " invite someone else", " invite someone to dinner"]}
+{"head": "invite you", "relation": "HasSubEvent", "tails": [" invite someone else", " invite someone", " invite someone to party"]}
+{"head": "invite you", "relation": "Causes", "tails": [" invite someone to a party", " invite someone to do something", " invite someone to something"]}
+{"head": "invite you", "relation": "xReason", "tails": [" invite someone to a party", " invite someone to something", " invite someone to party"]}
+{"head": "insurance policy", "relation": "ObjectUse", "tails": [" pay for a car", " pay for medical bills", " pay for the car"]}
+{"head": "insurance policy", "relation": "AtLocation", "tails": [" insurance company", " insurance policy", " insurance agent"]}
+{"head": "insurance policy", "relation": "CapableOf", "tails": [" pay for insurance", " pay for the insurance", " pay for"]}
+{"head": "insurance policy", "relation": "HasProperty", "tails": [" covered by law", " insurance policy", " covered by insurance company"]}
+{"head": "insurance policy", "relation": "MadeUpOf", "tails": [" insurance policy", " insurance", " insurances"]}
+{"head": "insurance policy", "relation": "NotDesires", "tails": [" have to pay for it", " have to pay for", " have to pay"]}
+{"head": "insurance policy", "relation": "Desires", "tails": [" have a place to live", " have a place to stay", " have a place to sleep"]}
+{"head": "insurance", "relation": "ObjectUse", "tails": [" pay for the car", " pay for a car", " pay for the service"]}
+{"head": "insurance", "relation": "AtLocation", "tails": [" insurance company", " insurance policy", " insurance"]}
+{"head": "insurance", "relation": "CapableOf", "tails": [" pay for insurance", " pay for", " pay for it"]}
+{"head": "insurance", "relation": "HasProperty", "tails": [" insurances", " insurance", " insurance policy"]}
+{"head": "insurance", "relation": "MadeUpOf", "tails": [" insurance policy", " insurance", " insurances"]}
+{"head": "insurance", "relation": "NotDesires", "tails": [" have to pay", " have to pay for", " have to pay for it"]}
+{"head": "insurance", "relation": "Desires", "tails": [" pay for medical bills", " cover medical expenses", " pay for medical expenses"]}
+{"head": "health insurance", "relation": "ObjectUse", "tails": [" pay for medical care", " cover the cost of the surgery", " cover the cost of the procedure"]}
+{"head": "health insurance", "relation": "AtLocation", "tails": [" insurance company", " hospital", " health insurance plan"]}
+{"head": "health insurance", "relation": "CapableOf", "tails": [" pay for treatment", " pay for medical care", " pay for"]}
+{"head": "health insurance", "relation": "HasProperty", "tails": [" paid for by employer", " covered by insurance company", " paid for by employers"]}
+{"head": "health insurance", "relation": "MadeUpOf", "tails": [" insurance card", " health insurance", " health insurance card"]}
+{"head": "health insurance", "relation": "NotDesires", "tails": [" have to pay for", " have to pay", " pay for health care"]}
+{"head": "health insurance", "relation": "Desires", "tails": [" pay for medical care", " pay for doctor visits", " pay for medical bills"]}
+{"head": "health", "relation": "ObjectUse", "tails": [" eat healthy", " eat healthy foods", " eat healthy food"]}
+{"head": "health", "relation": "AtLocation", "tails": [" medicine chest", " doctor's office", " medicine cabinet"]}
+{"head": "health", "relation": "CapableOf", "tails": [" eat healthy foods", " eat healthy", " eat healthy food"]}
+{"head": "health", "relation": "HasProperty", "tails": [" healthy", " healthy body", " good for health"]}
+{"head": "health", "relation": "MadeUpOf", "tails": [" health", " medicine", " medicine chest"]}
+{"head": "health", "relation": "NotDesires", "tails": [" lose weight", " health problems", " health issues"]}
+{"head": "health", "relation": "Desires", "tails": [" eat healthy", " feel better", " feel good"]}
+{"head": "enjoy insurance", "relation": "HinderedBy", "tails": [" pay for insurance", " pay for coverage", " pay for the insurance"]}
+{"head": "enjoy insurance", "relation": "isBefore", "tails": [" pay for insurance", " pay for coverage", " pay for the insurance"]}
+{"head": "enjoy insurance", "relation": "isAfter", "tails": [" pay for insurance", " pay for coverage", " pay for the service"]}
+{"head": "enjoy insurance", "relation": "HasSubEvent", "tails": [" pay for insurance", " pay for coverage", " pay for the coverage"]}
+{"head": "enjoy insurance", "relation": "Causes", "tails": [" pay for insurance", " pay for coverage", " pay for the insurance"]}
+{"head": "enjoy insurance", "relation": "xReason", "tails": [" pay for insurance", " pay for coverage", " pay for the insurance"]}
+{"head": "day workweek", "relation": "ObjectUse", "tails": [" get a raise", " get paid", " get paid for"]}
+{"head": "day workweek", "relation": "AtLocation", "tails": [" office building", " work", " office"]}
+{"head": "day workweek", "relation": "CapableOf", "tails": [" work 8 hours a day", " work 8 hours per day", " work long hours"]}
+{"head": "day workweek", "relation": "HasProperty", "tails": [" one day a week", " one day per week", " required to pay bills"]}
+{"head": "day workweek", "relation": "MadeUpOf", "tails": [" work week", " workweek", " work day"]}
+{"head": "day workweek", "relation": "NotDesires", "tails": [" have to go to work", " have to go to office", " have to work every day"]}
+{"head": "day workweek", "relation": "Desires", "tails": [" get paid", " get paid for work", " get paid for work done"]}
+{"head": "day", "relation": "ObjectUse", "tails": [" have a good time", " have a good day", " have a party"]}
+{"head": "day", "relation": "AtLocation", "tails": [" day", " office building", " day at work"]}
+{"head": "day", "relation": "CapableOf", "tails": [" sleep all day", " sleep all night", " sleep all day long"]}
+{"head": "day", "relation": "HasProperty", "tails": [" one day a week", " one day a year", " day"]}
+{"head": "day", "relation": "MadeUpOf", "tails": [" day", " day and night", " day of the week"]}
+{"head": "day", "relation": "NotDesires", "tails": [" have to go to work", " have to go to doctor", " have to go to school"]}
+{"head": "day", "relation": "Desires", "tails": [" have fun", " have good time", " have fun with friends"]}
+{"head": "Yes , all the insurance will be linked with your work .", "relation": "xAttr", "tails": [" responsible", " insured", " safe"]}
+{"head": "Yes , all the insurance will be linked with your work .", "relation": "xWant", "tails": [" to pay for the insurance", " to pay for it", " to get a job"]}
+{"head": "Yes , all the insurance will be linked with your work .", "relation": "xNeed", "tails": [" none", " get a job", " to have insurance"]}
+{"head": "Yes , all the insurance will be linked with your work .", "relation": "xEffect", "tails": [" none", " get a new job", " get a new car"]}
+{"head": "Yes , all the insurance will be linked with your work .", "relation": "HinderedBy", "tails": [" insurance will be linked with your work.", " insurance will be linked to your work.", " insurance will be linked with your work"]}
+{"head": "Yes , all the insurance will be linked with your work .", "relation": "oWant", "tails": [" none", " to make sure they are covered", " to pay for the insurance"]}
+{"head": "Yes , all the insurance will be linked with your work .", "relation": "xReact", "tails": [" happy", " safe", " good"]}
+{"head": "Yes , all the insurance will be linked with your work .", "relation": "oEffect", "tails": [" none", " pay for the insurance", " get a new job"]}
+{"head": "Yes , all the insurance will be linked with your work .", "relation": "xIntent", "tails": [" none", " to be safe", " to be insured"]}
+{"head": "Yes , all the insurance will be linked with your work .", "relation": "oReact", "tails": [" none", " happy", " insured"]}
+{"head": "Yes , all the insurance will be linked with your work .", "relation": "isBefore", "tails": [" none", " pay for the insurance", " get a new job"]}
+{"head": "Yes , all the insurance will be linked with your work .", "relation": "isAfter", "tails": [" none", " pay for the insurance", " pay for insurance"]}
+{"head": "Yes , all the insurance will be linked with your work .", "relation": "HasSubEvent", "tails": [" none", " get a new job", " pay for the insurance"]}
+{"head": "Yes , all the insurance will be linked with your work .", "relation": "Causes", "tails": [" none", " yes", " insurance coverage"]}
+{"head": "Yes , all the insurance will be linked with your work .", "relation": "xReason", "tails": [" none", " yes", " have insurance"]}
+{"head": "We will issue an insurance policy .", "relation": "xAttr", "tails": [" insured", " responsible", " insurance agent"]}
+{"head": "We will issue an insurance policy .", "relation": "xWant", "tails": [" to make sure they are covered", " to make sure the policy is covered", " to pay for the insurance"]}
+{"head": "We will issue an insurance policy .", "relation": "xNeed", "tails": [" to get a lawyer", " to get a quote", " to have insurance"]}
+{"head": "We will issue an insurance policy .", "relation": "xEffect", "tails": [" none", " gets sued", " gets paid"]}
+{"head": "We will issue an insurance policy .", "relation": "HinderedBy", "tails": [" we don't have the money to pay for it", " we don't have the money", " we don't have the money to pay for the policy"]}
+{"head": "We will issue an insurance policy .", "relation": "oWant", "tails": [" to pay for the insurance", " to pay for the policy", " to pay the insurance company"]}
+{"head": "We will issue an insurance policy .", "relation": "xReact", "tails": [" insured", " responsible", " good"]}
+{"head": "We will issue an insurance policy .", "relation": "oEffect", "tails": [" none", " pay for the policy", " pay for the insurance"]}
+{"head": "We will issue an insurance policy .", "relation": "xIntent", "tails": [" to cover the cost of the accident", " to cover the costs of the accident", " to cover the cost of the accident."]}
+{"head": "We will issue an insurance policy .", "relation": "oReact", "tails": [" none", " insured", " happy"]}
+{"head": "We will issue an insurance policy .", "relation": "isBefore", "tails": [" insurance company", " PersonX gets injured.", " PersonX gets injured"]}
+{"head": "We will issue an insurance policy .", "relation": "isAfter", "tails": [" insurance company", " PersonX gets injured.", " PersonX gets hurt."]}
+{"head": "We will issue an insurance policy .", "relation": "HasSubEvent", "tails": [" pay for the policy", " pay for the insurance", " pay for insurance"]}
+{"head": "We will issue an insurance policy .", "relation": "Causes", "tails": [" insurance company", " we will help you", " we will pay for it"]}
+{"head": "We will issue an insurance policy .", "relation": "xReason", "tails": [" insurance company", " we will help you", " we will pay for it"]}
+{"head": "Today I want to invite you to talk about insurance you \u2019 re interested in .", "relation": "xAttr", "tails": [" talkative", " interested", " knowledgeable"]}
+{"head": "Today I want to invite you to talk about insurance you \u2019 re interested in .", "relation": "xWant", "tails": [" to talk to you about insurance", " to talk about insurance with you", " to talk about insurance"]}
+{"head": "Today I want to invite you to talk about insurance you \u2019 re interested in .", "relation": "xNeed", "tails": [" talk to someone about insurance", " talk to insurance company", " to have a meeting with you"]}
+{"head": "Today I want to invite you to talk about insurance you \u2019 re interested in .", "relation": "xEffect", "tails": [" gets asked questions", " none", " get a new job"]}
+{"head": "Today I want to invite you to talk about insurance you \u2019 re interested in .", "relation": "HinderedBy", "tails": [" today is insurance day.", " today is insurance day", " today is the first day of school"]}
+{"head": "Today I want to invite you to talk about insurance you \u2019 re interested in .", "relation": "oWant", "tails": [" to talk about insurance", " to have a conversation", " to have a discussion"]}
+{"head": "Today I want to invite you to talk about insurance you \u2019 re interested in .", "relation": "xReact", "tails": [" interested", " happy", " good"]}
+{"head": "Today I want to invite you to talk about insurance you \u2019 re interested in .", "relation": "oEffect", "tails": [" none", " talk about insurance", " talk about insurance policies"]}
+{"head": "Today I want to invite you to talk about insurance you \u2019 re interested in .", "relation": "xIntent", "tails": [" talk about insurance", " to be helpful", " talk about insurance."]}
+{"head": "Today I want to invite you to talk about insurance you \u2019 re interested in .", "relation": "oReact", "tails": [" none", " interested", " happy"]}
+{"head": "Today I want to invite you to talk about insurance you \u2019 re interested in .", "relation": "isBefore", "tails": [" PersonY asks PersonY what they want to talk about.", " PersonY asks PersonY what they want to talk about", " PersonY asks PersonY if they want to talk about insurance."]}
+{"head": "Today I want to invite you to talk about insurance you \u2019 re interested in .", "relation": "isAfter", "tails": [" talk about insurance", " talk to insurance company", " talk about insurance policies"]}
+{"head": "Today I want to invite you to talk about insurance you \u2019 re interested in .", "relation": "HasSubEvent", "tails": [" talk about insurance", " learn about insurance", " talk to insurance company"]}
+{"head": "Today I want to invite you to talk about insurance you \u2019 re interested in .", "relation": "Causes", "tails": [" interested", " helpful", " informative"]}
+{"head": "Today I want to invite you to talk about insurance you \u2019 re interested in .", "relation": "xReason", "tails": [" talk about insurance", " talk to insurance company", " talk about the insurance"]}
+{"head": "Today", "relation": "ObjectUse", "tails": [" have a good day", " have a good time", " have a nice day"]}
+{"head": "Today", "relation": "AtLocation", "tails": [" school", " house", " home"]}
+{"head": "Today", "relation": "CapableOf", "tails": [" get out of bed", " go to work", " go to the store"]}
+{"head": "Today", "relation": "HasProperty", "tails": [" none", " found in garden", " found in church"]}
+{"head": "Today", "relation": "MadeUpOf", "tails": [" day", " food", " today"]}
+{"head": "Today", "relation": "NotDesires", "tails": [" have to go to work", " have to go to the bathroom", " have to go to the store"]}
+{"head": "Today", "relation": "Desires", "tails": [" have a good day", " have a good time", " have a nice day"]}
+{"head": "Thank you .", "relation": "xAttr", "tails": [" thankful", " grateful", " kind"]}
+{"head": "Thank you .", "relation": "xWant", "tails": [" to thank them for it", " to show appreciation", " to be thanked"]}
+{"head": "Thank you .", "relation": "xNeed", "tails": [" none", " thank them for it", " thank them"]}
+{"head": "Thank you .", "relation": "xEffect", "tails": [" none", " thank you", " thank them"]}
+{"head": "Thank you .", "relation": "HinderedBy", "tails": [" Thank you.", " thank you", " Thank you"]}
+{"head": "Thank you .", "relation": "oWant", "tails": [" none", " to thank them for it", " thank them for it"]}
+{"head": "Thank you .", "relation": "xReact", "tails": [" happy", " good", " satisfied"]}
+{"head": "Thank you .", "relation": "oEffect", "tails": [" none", " thank them", " thank you"]}
+{"head": "Thank you .", "relation": "xIntent", "tails": [" to show appreciation", " to be thanked", " none"]}
+{"head": "Thank you .", "relation": "oReact", "tails": [" none", " grateful", " happy"]}
+{"head": "Thank you .", "relation": "isBefore", "tails": [" thank you", " Thank you", " thank them"]}
+{"head": "Thank you .", "relation": "isAfter", "tails": [" thank you", " Thank you", " thank them"]}
+{"head": "Thank you .", "relation": "HasSubEvent", "tails": [" thank them for it", " thank them", " thank them for the service"]}
+{"head": "Thank you .", "relation": "Causes", "tails": [" thank you", " Thank you.", " Thank you"]}
+{"head": "Thank you .", "relation": "xReason", "tails": [" thank you", " Thank you.", " Thank you"]}
+{"head": "Of course .", "relation": "xAttr", "tails": [" understanding", " responsible", " smart"]}
+{"head": "Of course .", "relation": "xWant", "tails": [" to make sure everything is okay", " to make sure everything is ok", " to make sure it's ok"]}
+{"head": "Of course .", "relation": "xNeed", "tails": [" none", " of course", " to have a job"]}
+{"head": "Of course .", "relation": "xEffect", "tails": [" none", " of course", " is asked questions"]}
+{"head": "Of course .", "relation": "HinderedBy", "tails": [" of course", " of course.", " none"]}
+{"head": "Of course .", "relation": "oWant", "tails": [" none", " to have a good time", " to have a good time."]}
+{"head": "Of course .", "relation": "xReact", "tails": [" happy", " good", " satisfied"]}
+{"head": "Of course .", "relation": "oEffect", "tails": [" none", " have a good time", " have a good day"]}
+{"head": "Of course .", "relation": "xIntent", "tails": [" none", " to be able to do something", " to be a good person"]}
+{"head": "Of course .", "relation": "oReact", "tails": [" none", " happy", " happy."]}
+{"head": "Of course .", "relation": "isBefore", "tails": [" of course", " none", " have a good time"]}
+{"head": "Of course .", "relation": "isAfter", "tails": [" of course", " none", " have a good time"]}
+{"head": "Of course .", "relation": "HasSubEvent", "tails": [" none", " have a good time", " of course"]}
+{"head": "Of course .", "relation": "Causes", "tails": [" of course", " none", " of course."]}
+{"head": "Of course .", "relation": "xReason", "tails": [" none", " of course", " of course."]}
+{"head": "I wonder whether I can enjoy the life insurance and health insurance .", "relation": "xAttr", "tails": [" uncertain", " worried", " hopeful"]}
+{"head": "I wonder whether I can enjoy the life insurance and health insurance .", "relation": "xWant", "tails": [" to save for the future", " to save money", " to save for retirement"]}
+{"head": "I wonder whether I can enjoy the life insurance and health insurance .", "relation": "xNeed", "tails": [" none", " to have a job", " to get a job"]}
+{"head": "I wonder whether I can enjoy the life insurance and health insurance .", "relation": "xEffect", "tails": [" I have a lot of money in my bank account.", " I have a lot of money in the bank.", " I have a lot of money in my bank account"]}
+{"head": "I wonder whether I can enjoy the life insurance and health insurance .", "relation": "HinderedBy", "tails": [" I don't have a job.", " I don't have the money to pay for it.", " I don't have the money to buy insurance."]}
+{"head": "I wonder whether I can enjoy the life insurance and health insurance .", "relation": "oWant", "tails": [" none", " to make sure they have enough money", " to make sure they are protected"]}
+{"head": "I wonder whether I can enjoy the life insurance and health insurance .", "relation": "xReact", "tails": [" worried", " happy", " sad"]}
+{"head": "I wonder whether I can enjoy the life insurance and health insurance .", "relation": "oEffect", "tails": [" none", " get a new car", " get a new job"]}
+{"head": "I wonder whether I can enjoy the life insurance and health insurance .", "relation": "xIntent", "tails": [" none", " to save money", " to be protected"]}
+{"head": "I wonder whether I can enjoy the life insurance and health insurance .", "relation": "oReact", "tails": [" none", " happy", " sad"]}
+{"head": "I wonder whether I can enjoy the life insurance and health insurance .", "relation": "isBefore", "tails": [" I have a lot of money in my bank account.", " I have a lot of money in my bank account", " I have a lot of money in the bank."]}
+{"head": "I wonder whether I can enjoy the life insurance and health insurance .", "relation": "isAfter", "tails": [" I have a lot of money in my bank account.", " I have a lot of money in my bank account", " I have a lot of money in the bank."]}
+{"head": "I wonder whether I can enjoy the life insurance and health insurance .", "relation": "HasSubEvent", "tails": [" get a new job", " none", " get a new car"]}
+{"head": "I wonder whether I can enjoy the life insurance and health insurance .", "relation": "Causes", "tails": [" I have a lot of money.", " I have no money.", " I have a lot of health insurance."]}
+{"head": "I wonder whether I can enjoy the life insurance and health insurance .", "relation": "xReason", "tails": [" I have a lot of money in my bank account.", " I have a lot of money in the bank.", " I have a lot of money in my bank account"]}
+{"head": "Good .", "relation": "xAttr", "tails": [" good", " good about themselves", " happy"]}
+{"head": "Good .", "relation": "xWant", "tails": [" to be happy", " to be good", " good"]}
+{"head": "Good .", "relation": "xNeed", "tails": [" none", " good", " good things"]}
+{"head": "Good .", "relation": "xEffect", "tails": [" none", " good", " good things"]}
+{"head": "Good .", "relation": "HinderedBy", "tails": [" good", " good and bad", " good and bad."]}
+{"head": "Good .", "relation": "oWant", "tails": [" none", " good", " good things"]}
+{"head": "Good .", "relation": "xReact", "tails": [" good", " happy", " satisfied"]}
+{"head": "Good .", "relation": "oEffect", "tails": [" none", " good", " good things"]}
+{"head": "Good .", "relation": "xIntent", "tails": [" good", " none", " good things"]}
+{"head": "Good .", "relation": "oReact", "tails": [" none", " good", " happy"]}
+{"head": "Good .", "relation": "isBefore", "tails": [" good", " good for good for good", " good things to happen"]}
+{"head": "Good .", "relation": "isAfter", "tails": [" good", " good for good for good", " good things to happen"]}
+{"head": "Good .", "relation": "HasSubEvent", "tails": [" feel good about yourself", " good", " feel good"]}
+{"head": "Good .", "relation": "Causes", "tails": [" good", " good things", " good news"]}
+{"head": "Good .", "relation": "xReason", "tails": [" good", " good things to happen", " good and bad"]}
+{"head": "Anything else ?", "relation": "xAttr", "tails": [" curious", " thoughtful", " creative"]}
+{"head": "Anything else ?", "relation": "xWant", "tails": [" to go to the movies", " to go to the store", " to go home"]}
+{"head": "Anything else ?", "relation": "xNeed", "tails": [" anything else", " none", " anything else."]}
+{"head": "Anything else ?", "relation": "xEffect", "tails": [" anything else", " none", " get a job"]}
+{"head": "Anything else ?", "relation": "HinderedBy", "tails": [" anything else", " anything else.", " anything else ?"]}
+{"head": "Anything else ?", "relation": "oWant", "tails": [" none", " anything else", " to be happy"]}
+{"head": "Anything else ?", "relation": "xReact", "tails": [" happy", " good", " satisfied"]}
+{"head": "Anything else ?", "relation": "oEffect", "tails": [" none", " get a new job", " they get a new job"]}
+{"head": "Anything else ?", "relation": "xIntent", "tails": [" anything else", " none", " anything else."]}
+{"head": "Anything else ?", "relation": "oReact", "tails": [" none", " happy", " happy."]}
+{"head": "Anything else ?", "relation": "isBefore", "tails": [" anything else", " anything else ?", " anything else to do"]}
+{"head": "Anything else ?", "relation": "isAfter", "tails": [" anything else", " anything else ?", " anything else to do"]}
+{"head": "Anything else ?", "relation": "HasSubEvent", "tails": [" anything else", " get out of the car", " get out of bed"]}
+{"head": "Anything else ?", "relation": "Causes", "tails": [" anything else", " anything at all", " anything"]}
+{"head": "Anything else ?", "relation": "xReason", "tails": [" anything else", " anything else ?", " anything else."]}
+{"head": "A two-week paid vacation a year , a five-day workweek .", "relation": "xAttr", "tails": [" a good employee", " responsible", " a good worker"]}
+{"head": "A two-week paid vacation a year , a five-day workweek .", "relation": "xWant", "tails": [" to go on vacation", " to take a vacation", " to go on vacation."]}
+{"head": "A two-week paid vacation a year , a five-day workweek .", "relation": "xNeed", "tails": [" to have a job", " to have a good job", " have a job"]}
+{"head": "A two-week paid vacation a year , a five-day workweek .", "relation": "xEffect", "tails": [" gets a raise", " get paid for it", " get a raise"]}
+{"head": "A two-week paid vacation a year , a five-day workweek .", "relation": "HinderedBy", "tails": [" a two-week paid vacation a year", " a two week paid vacation a year", " a two-week vacation a year"]}
+{"head": "A two-week paid vacation a year , a five-day workweek .", "relation": "oWant", "tails": [" to get a raise", " to have a good job", " to have a good life"]}
+{"head": "A two-week paid vacation a year , a five-day workweek .", "relation": "xReact", "tails": [" good about themselves", " happy", " satisfied"]}
+{"head": "A two-week paid vacation a year , a five-day workweek .", "relation": "oEffect", "tails": [" have more free time", " have more time to do other things", " have more time to do what they want"]}
+{"head": "A two-week paid vacation a year , a five-day workweek .", "relation": "xIntent", "tails": [" to be able to take time off", " to be able to relax", " to be able to take a vacation"]}
+{"head": "A two-week paid vacation a year , a five-day workweek .", "relation": "oReact", "tails": [" none", " happy", " a better job"]}
+{"head": "A two-week paid vacation a year , a five-day workweek .", "relation": "isBefore", "tails": [" a vacation from work", " a good job", " a vacation"]}
+{"head": "A two-week paid vacation a year , a five-day workweek .", "relation": "isAfter", "tails": [" a vacation", " a paycheck", " a vacation day"]}
+{"head": "A two-week paid vacation a year , a five-day workweek .", "relation": "HasSubEvent", "tails": [" get paid for it", " get a raise", " get paid for vacation"]}
+{"head": "A two-week paid vacation a year , a five-day workweek .", "relation": "Causes", "tails": [" a good job", " a better job", " a good life"]}
+{"head": "A two-week paid vacation a year , a five-day workweek .", "relation": "xReason", "tails": [" a good job", " a vacation", " a job"]}

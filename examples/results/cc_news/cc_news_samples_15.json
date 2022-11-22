@@ -1,0 +1,142 @@
+{"head": "to tell", "relation": "HinderedBy", "tails": [" to tell", " to tell ", " to tell  to tell "]}
+{"head": "to tell", "relation": "isBefore", "tails": [" to tell", " to tell the truth", " to tell "]}
+{"head": "to tell", "relation": "isAfter", "tails": [" to tell the truth", " to tell", " to be heard"]}
+{"head": "to tell", "relation": "HasSubEvent", "tails": [" to tell", " to tell ", " to tell  tell "]}
+{"head": "to tell", "relation": "Causes", "tails": [" to tell", " to tell  to  tell ", " to tell  to  tell  "]}
+{"head": "to tell", "relation": "xReason", "tails": [" to tell", " to be honest", " none"]}
+{"head": "to order", "relation": "HinderedBy", "tails": [" to order", " to order  to order ", " to order "]}
+{"head": "to order", "relation": "isBefore", "tails": [" to order food", " order food", " to order"]}
+{"head": "to order", "relation": "isAfter", "tails": [" order food", " to order food", " order food online"]}
+{"head": "to order", "relation": "HasSubEvent", "tails": [" order food", " to order", " to order food"]}
+{"head": "to order", "relation": "Causes", "tails": [" order food", " order from internet", " have to pay for"]}
+{"head": "to order", "relation": "xReason", "tails": [" order food", " to order", " order from internet"]}
+{"head": "to leave", "relation": "HinderedBy", "tails": [" to leave", " to leave ", " to leave  to leave "]}
+{"head": "to leave", "relation": "isBefore", "tails": [" get in car", " to go home", " to leave"]}
+{"head": "to leave", "relation": "isAfter", "tails": [" get in car", " to go home", " to go to work"]}
+{"head": "to leave", "relation": "HasSubEvent", "tails": [" get in car", " to leave", " get ready to leave"]}
+{"head": "to leave", "relation": "Causes", "tails": [" get in car", " to leave", " to go home"]}
+{"head": "to leave", "relation": "xReason", "tails": [" get in car", " to leave", " to go somewhere else"]}
+{"head": "tell NBC", "relation": "HinderedBy", "tails": [" tell the truth", " tell others", " tell others about it"]}
+{"head": "tell NBC", "relation": "isBefore", "tails": [" tell others to do the same", " tell others to do it too", " tell the truth"]}
+{"head": "tell NBC", "relation": "isAfter", "tails": [" get on air", " get on tv", " tell the truth"]}
+{"head": "tell NBC", "relation": "HasSubEvent", "tails": [" tell the truth", " get fired", " tell them what happened"]}
+{"head": "tell NBC", "relation": "Causes", "tails": [" tell others to do the same", " tell the truth", " tell others to tell others to tell"]}
+{"head": "tell NBC", "relation": "xReason", "tails": [" tell the truth", " get fired from job", " get fired"]}
+{"head": "retaliation", "relation": "ObjectUse", "tails": [" get back at someone", " get back at the other person", " retaliate"]}
+{"head": "retaliation", "relation": "AtLocation", "tails": [" revenge", " war", " retaliation"]}
+{"head": "retaliation", "relation": "CapableOf", "tails": [" fight back", " get back at someone", " get back at person"]}
+{"head": "retaliation", "relation": "HasProperty", "tails": [" hurtful", " retaliation", " hurt feelings"]}
+{"head": "retaliation", "relation": "MadeUpOf", "tails": [" retaliation", " revenge", " anger"]}
+{"head": "retaliation", "relation": "NotDesires", "tails": [" retaliation", " revenge", " retaliate"]}
+{"head": "retaliation", "relation": "Desires", "tails": [" retaliation", " revenge", " retaliate"]}
+{"head": "order whom", "relation": "HinderedBy", "tails": [" order from", " order what", " order something"]}
+{"head": "order whom", "relation": "isBefore", "tails": [" order food", " order what", " order from"]}
+{"head": "order whom", "relation": "isAfter", "tails": [" order food", " order from", " order what"]}
+{"head": "order whom", "relation": "HasSubEvent", "tails": [" know what to order", " know what to do", " order what you want"]}
+{"head": "order whom", "relation": "Causes", "tails": [" order from", " have to pay for", " have to pay"]}
+{"head": "order whom", "relation": "xReason", "tails": [" order from", " have to pay for", " have to pay"]}
+{"head": "official", "relation": "ObjectUse", "tails": [" get a promotion", " get a job", " make a decision"]}
+{"head": "official", "relation": "AtLocation", "tails": [" office building", " government building", " office"]}
+{"head": "official", "relation": "CapableOf", "tails": [" govern country", " rule country", " govern nation"]}
+{"head": "official", "relation": "HasProperty", "tails": [" official", " important to society", " very important"]}
+{"head": "official", "relation": "MadeUpOf", "tails": [" official handbook", " official seal", " official name"]}
+{"head": "official", "relation": "NotDesires", "tails": [" official", " official position", " bad news"]}
+{"head": "official", "relation": "Desires", "tails": [" know what's going on", " know what to do", " know what to say"]}
+{"head": "leave country", "relation": "HinderedBy", "tails": [" get out of country", " leave country", " get out of the country"]}
+{"head": "leave country", "relation": "isBefore", "tails": [" go to new country", " go to another country", " go to other country"]}
+{"head": "leave country", "relation": "isAfter", "tails": [" go to new country", " go to another country", " get passport"]}
+{"head": "leave country", "relation": "HasSubEvent", "tails": [" get in car", " go to new country", " get passport"]}
+{"head": "leave country", "relation": "Causes", "tails": [" get out of country", " have to go back to", " leave country"]}
+{"head": "leave country", "relation": "xReason", "tails": [" get out of country", " have to go back to", " leave country"]}
+{"head": "hacking", "relation": "ObjectUse", "tails": [" hack into a computer", " hack into a website", " hack a computer"]}
+{"head": "hacking", "relation": "AtLocation", "tails": [" computer", " hacktivists", " hacktivist's house"]}
+{"head": "hacking", "relation": "CapableOf", "tails": [" hack into computer", " hack into computers", " hack computer"]}
+{"head": "hacking", "relation": "HasProperty", "tails": [" found in computer", " found in computers", " found on computer"]}
+{"head": "hacking", "relation": "MadeUpOf", "tails": [" hacktivism", " hacktivists", " hacktivist"]}
+{"head": "hacking", "relation": "NotDesires", "tails": [" hack into computer", " hack a computer", " hack into computers"]}
+{"head": "hacking", "relation": "Desires", "tails": [" hack into computer", " hack a computer", " hack into computers"]}
+{"head": "election", "relation": "ObjectUse", "tails": [" vote in", " win election", " vote for"]}
+{"head": "election", "relation": "AtLocation", "tails": [" election", " political party", " election day"]}
+{"head": "election", "relation": "CapableOf", "tails": [" run for office", " vote for candidate", " vote in"]}
+{"head": "election", "relation": "HasProperty", "tails": [" election", " important to society", " important to democracy"]}
+{"head": "election", "relation": "MadeUpOf", "tails": [" election", " vote", " election day"]}
+{"head": "election", "relation": "NotDesires", "tails": [" win or lose", " win or lose election", " vote for candidate"]}
+{"head": "election", "relation": "Desires", "tails": [" win election", " vote for candidate", " vote for president"]}
+{"head": "diplomats", "relation": "ObjectUse", "tails": [" travel to other countries", " travel to different countries", " get a job"]}
+{"head": "diplomats", "relation": "AtLocation", "tails": [" office building", " foreign office", " office"]}
+{"head": "diplomats", "relation": "CapableOf", "tails": [" travel to other countries", " travel to different countries", " travel to foreign countries"]}
+{"head": "diplomats", "relation": "HasProperty", "tails": [" diplomatic corps", " foreign affairs", " foreign policy"]}
+{"head": "diplomats", "relation": "MadeUpOf", "tails": [" diplomatic post", " diplomatic corps", " foreign affairs"]}
+{"head": "diplomats", "relation": "NotDesires", "tails": [" travel to other countries", " travel to foreign countries", " travel around world"]}
+{"head": "diplomats", "relation": "Desires", "tails": [" have a good reputation", " to be a diplomat", " have a job"]}
+{"head": "country", "relation": "ObjectUse", "tails": [" living in", " country", " travel to"]}
+{"head": "country", "relation": "AtLocation", "tails": [" country", " america", " countryside"]}
+{"head": "country", "relation": "CapableOf", "tails": [" travel to far away places", " travel to other countries", " travel to faraway places"]}
+{"head": "country", "relation": "HasProperty", "tails": [" one of world's most beautiful places", " country", " one of world's great countries"]}
+{"head": "country", "relation": "MadeUpOf", "tails": [" country", " country name", " border"]}
+{"head": "country", "relation": "NotDesires", "tails": [" country", " war", " land"]}
+{"head": "country", "relation": "Desires", "tails": [" live in", " country", " people to live in"]}
+{"head": "alleged hacking", "relation": "ObjectUse", "tails": [" make money off of", " make money", " make money off of."]}
+{"head": "alleged hacking", "relation": "AtLocation", "tails": [" computer", " computer system", " internet"]}
+{"head": "alleged hacking", "relation": "CapableOf", "tails": [" hack into computer", " use computer to hack", " use computer"]}
+{"head": "alleged hacking", "relation": "HasProperty", "tails": [" found on computer", " found in computer", " found on internet"]}
+{"head": "alleged hacking", "relation": "MadeUpOf", "tails": [" computer", " computer virus", " blackmail"]}
+{"head": "alleged hacking", "relation": "NotDesires", "tails": [" blackmail", " get hacked", " get caught"]}
+{"head": "alleged hacking", "relation": "Desires", "tails": [" have access to computer", " have access to information", " none"]}
+{"head": "administration", "relation": "ObjectUse", "tails": [" administer the country", " work in", " administer the government"]}
+{"head": "administration", "relation": "AtLocation", "tails": [" office building", " office", " government building"]}
+{"head": "administration", "relation": "CapableOf", "tails": [" work in office", " govern country", " work in"]}
+{"head": "administration", "relation": "HasProperty", "tails": [" important to society", " administrative functions", " administration"]}
+{"head": "administration", "relation": "MadeUpOf", "tails": [" office", " administration", " office building"]}
+{"head": "administration", "relation": "NotDesires", "tails": [" run out of money", " run out of time", " run out of resources"]}
+{"head": "administration", "relation": "Desires", "tails": [" work for people", " work with people", " work with others"]}
+{"head": "U.S. presidential election", "relation": "ObjectUse", "tails": [" vote in", " vote for", " win election"]}
+{"head": "U.S. presidential election", "relation": "AtLocation", "tails": [" election", " election day", " vote"]}
+{"head": "U.S. presidential election", "relation": "CapableOf", "tails": [" win election", " vote", " vote in"]}
+{"head": "U.S. presidential election", "relation": "HasProperty", "tails": [" voted for", " voted on", " voting"]}
+{"head": "U.S. presidential election", "relation": "MadeUpOf", "tails": [" election", " vote", " voting"]}
+{"head": "U.S. presidential election", "relation": "NotDesires", "tails": [" win or lose", " win or lose the election", " win or lose election"]}
+{"head": "U.S. presidential election", "relation": "Desires", "tails": [" win the election", " win election", " vote for"]}
+{"head": "The 35 Russian diplomats whom the Obama administration ordered out of the country in retaliation for alleged hacking of the U.S. presidential election have left the country, a State Department official told NBC...", "relation": "xAttr", "tails": [" angry", " hostile", " scared"]}
+{"head": "The 35 Russian diplomats whom the Obama administration ordered out of the country in retaliation for alleged hacking of the U.S. presidential election have left the country, a State Department official told NBC...", "relation": "xWant", "tails": [" to go home", " to go back home", " to go back to their country"]}
+{"head": "The 35 Russian diplomats whom the Obama administration ordered out of the country in retaliation for alleged hacking of the U.S. presidential election have left the country, a State Department official told NBC...", "relation": "xNeed", "tails": [" the person to leave the country", " to have a meeting with the Russian ambassador", " to have a meeting with the president"]}
+{"head": "The 35 Russian diplomats whom the Obama administration ordered out of the country in retaliation for alleged hacking of the U.S. presidential election have left the country, a State Department official told NBC...", "relation": "xEffect", "tails": [" the diplomats to leave the country", " get a new job", " get a new job in another country"]}
+{"head": "The 35 Russian diplomats whom the Obama administration ordered out of the country in retaliation for alleged hacking of the U.S. presidential election have left the country, a State Department official told NBC...", "relation": "HinderedBy", "tails": [" the 35 people who were ordered out of the country", " the 35 people who were ordered to leave the country", " the 35 people who were ordered out of the country have left"]}
+{"head": "The 35 Russian diplomats whom the Obama administration ordered out of the country in retaliation for alleged hacking of the U.S. presidential election have left the country, a State Department official told NBC...", "relation": "oWant", "tails": [" to go back to where they came from", " to go home", " to go back to their country"]}
+{"head": "The 35 Russian diplomats whom the Obama administration ordered out of the country in retaliation for alleged hacking of the U.S. presidential election have left the country, a State Department official told NBC...", "relation": "xReact", "tails": [" angry", " scared", " happy"]}
+{"head": "The 35 Russian diplomats whom the Obama administration ordered out of the country in retaliation for alleged hacking of the U.S. presidential election have left the country, a State Department official told NBC...", "relation": "oEffect", "tails": [" the Russians are no longer in the country", " the Russians are no longer in the United States", " the Russians are no longer in the country."]}
+{"head": "The 35 Russian diplomats whom the Obama administration ordered out of the country in retaliation for alleged hacking of the U.S. presidential election have left the country, a State Department official told NBC...", "relation": "xIntent", "tails": [" get out of the country", " to get away from the situation", " get away from the country"]}
+{"head": "The 35 Russian diplomats whom the Obama administration ordered out of the country in retaliation for alleged hacking of the U.S. presidential election have left the country, a State Department official told NBC...", "relation": "oReact", "tails": [" none", " get out of the country", " get out of country"]}
+{"head": "The 35 Russian diplomats whom the Obama administration ordered out of the country in retaliation for alleged hacking of the U.S. presidential election have left the country, a State Department official told NBC...", "relation": "isBefore", "tails": [" the 35 people who were ordered out of the country", " the 35 people who were ordered to leave the country", " the 35 people who were ordered out of the country have left"]}
+{"head": "The 35 Russian diplomats whom the Obama administration ordered out of the country in retaliation for alleged hacking of the U.S. presidential election have left the country, a State Department official told NBC...", "relation": "isAfter", "tails": [" the 35 people who were ordered out of the country", " the 35 people who were ordered to leave the country", " the 35 people who were ordered out of the country by the president"]}
+{"head": "The 35 Russian diplomats whom the Obama administration ordered out of the country in retaliation for alleged hacking of the U.S. presidential election have left the country, a State Department official told NBC...", "relation": "HasSubEvent", "tails": [" get out of the country", " get out of country", " get a new job"]}
+{"head": "The 35 Russian diplomats whom the Obama administration ordered out of the country in retaliation for alleged hacking of the U.S. presidential election have left the country, a State Department official told NBC...", "relation": "Causes", "tails": [" the Russians are no longer in the country", " the 35 Russians are no longer in the country", " the Russians are no longer in the United States"]}
+{"head": "The 35 Russian diplomats whom the Obama administration ordered out of the country in retaliation for alleged hacking of the U.S. presidential election have left the country, a State Department official told NBC...", "relation": "xReason", "tails": [" the Russians are no longer in the country", " the 35 people who were ordered out of the country", " the 35 people who were ordered to leave the country"]}
+{"head": "State Department official", "relation": "ObjectUse", "tails": [" talk to", " talk to people", " get a job"]}
+{"head": "State Department official", "relation": "AtLocation", "tails": [" state department", " government building", " state department office"]}
+{"head": "State Department official", "relation": "CapableOf", "tails": [" travel to foreign countries", " travel to different countries", " travel to foreign country"]}
+{"head": "State Department official", "relation": "HasProperty", "tails": [" foreign policy", " foreign affairs", " diplomatic post"]}
+{"head": "State Department official", "relation": "MadeUpOf", "tails": [" diplomatic post", " state department", " diplomatic passport"]}
+{"head": "State Department official", "relation": "NotDesires", "tails": [" state department official", " foreign policy", " state department"]}
+{"head": "State Department official", "relation": "Desires", "tails": [" to be a diplomat", " to be in charge", " none"]}
+{"head": "Obama administration", "relation": "ObjectUse", "tails": [" get things done", " get elected", " get elected president"]}
+{"head": "Obama administration", "relation": "AtLocation", "tails": [" office building", " government building", " office"]}
+{"head": "Obama administration", "relation": "CapableOf", "tails": [" run for office", " run for president", " rule country"]}
+{"head": "Obama administration", "relation": "HasProperty", "tails": [" one of the most powerful presidents in the world", " one of the most powerful presidents in world history", " one of the longest terms in history"]}
+{"head": "Obama administration", "relation": "MadeUpOf", "tails": [" election", " government", " president"]}
+{"head": "Obama administration", "relation": "NotDesires", "tails": [" run out of money", " run out of time", " run out of ideas"]}
+{"head": "Obama administration", "relation": "Desires", "tails": [" get things done", " get elected", " get things done quickly"]}
+{"head": "NBC", "relation": "ObjectUse", "tails": [" watch the news", " broadcast the news", " watch the show"]}
+{"head": "NBC", "relation": "AtLocation", "tails": [" television", " tv show", " tv"]}
+{"head": "NBC", "relation": "CapableOf", "tails": [" watch newscasts", " watch newscast", " watch news"]}
+{"head": "NBC", "relation": "HasProperty", "tails": [" found on television", " found on tv", " found on TV"]}
+{"head": "NBC", "relation": "MadeUpOf", "tails": [" television", " TV", " TV screen"]}
+{"head": "NBC", "relation": "NotDesires", "tails": [" get fired", " get fired from job", " get fired from the job"]}
+{"head": "NBC", "relation": "Desires", "tails": [" broadcast news", " watch news", " watch tv"]}
+{"head": "35 Russian diplomats", "relation": "ObjectUse", "tails": [" get rid of", " have a meeting with", " have a conversation with"]}
+{"head": "35 Russian diplomats", "relation": "AtLocation", "tails": [" office building", " hotel room", " hotel"]}
+{"head": "35 Russian diplomats", "relation": "CapableOf", "tails": [" go on vacation", " go to hotel", " go to jail"]}
+{"head": "35 Russian diplomats", "relation": "HasProperty", "tails": [" 35", " 35 countries", " 35 people"]}
+{"head": "35 Russian diplomats", "relation": "MadeUpOf", "tails": [" 35 countries", " 35 people", " 35"]}
+{"head": "35 Russian diplomats", "relation": "NotDesires", "tails": [" have to leave the country", " have to leave", " have to leave their home"]}
+{"head": "35 Russian diplomats", "relation": "Desires", "tails": [" none", " have a good relationship with the other country", " have a relationship with the other country"]}

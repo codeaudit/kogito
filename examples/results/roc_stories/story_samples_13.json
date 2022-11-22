@@ -1,0 +1,199 @@
+{"head": "to want", "relation": "HinderedBy", "tails": [" to want", " to want something", " to want "]}
+{"head": "to want", "relation": "isBefore", "tails": [" to want", " to want something", " to want to want"]}
+{"head": "to want", "relation": "isAfter", "tails": [" to want", " to want something", " to want to want"]}
+{"head": "to want", "relation": "HasSubEvent", "tails": [" to want", " to want something", " to want to want"]}
+{"head": "to want", "relation": "Causes", "tails": [" to want", " to want something", " to want to want"]}
+{"head": "to want", "relation": "xReason", "tails": [" to want", " to want something", " to want to want"]}
+{"head": "to walk", "relation": "HinderedBy", "tails": [" to walk", " to walk ", " to walk  to work"]}
+{"head": "to walk", "relation": "isBefore", "tails": [" to walk", " to get somewhere", " to get to destination"]}
+{"head": "to walk", "relation": "isAfter", "tails": [" to get somewhere", " to get to destination", " get up"]}
+{"head": "to walk", "relation": "HasSubEvent", "tails": [" to walk", " get up", " get out of car"]}
+{"head": "to walk", "relation": "Causes", "tails": [" to walk", " get exercise", " to walk "]}
+{"head": "to walk", "relation": "xReason", "tails": [" to walk", " get exercise", " to walk somewhere"]}
+{"head": "to think", "relation": "HinderedBy", "tails": [" to think", " to think ", " to think about something"]}
+{"head": "to think", "relation": "isBefore", "tails": [" to think", " to think about something", " to think about things"]}
+{"head": "to think", "relation": "isAfter", "tails": [" take a break", " to think", " to think about something"]}
+{"head": "to think", "relation": "HasSubEvent", "tails": [" to think", " stop thinking", " think about things"]}
+{"head": "to think", "relation": "Causes", "tails": [" to think", " to think about", " to think about things"]}
+{"head": "to think", "relation": "xReason", "tails": [" to think", " to think about things", " to think about something"]}
+{"head": "to tell", "relation": "HinderedBy", "tails": [" to tell", " to tell ", " to tell  to tell "]}
+{"head": "to tell", "relation": "isBefore", "tails": [" to tell", " to tell the truth", " to tell "]}
+{"head": "to tell", "relation": "isAfter", "tails": [" to tell the truth", " to tell", " to be heard"]}
+{"head": "to tell", "relation": "HasSubEvent", "tails": [" to tell", " to tell ", " to tell  tell "]}
+{"head": "to tell", "relation": "Causes", "tails": [" to tell", " to tell  to  tell ", " to tell  to  tell  "]}
+{"head": "to tell", "relation": "xReason", "tails": [" to tell", " to be honest", " none"]}
+{"head": "to talk", "relation": "HinderedBy", "tails": [" to talk", " to talk to someone", " to talk to people"]}
+{"head": "to talk", "relation": "isBefore", "tails": [" to talk", " listen to", " to talk to"]}
+{"head": "to talk", "relation": "isAfter", "tails": [" listen to", " to talk to someone", " listen to person"]}
+{"head": "to talk", "relation": "HasSubEvent", "tails": [" to talk", " listen to", " talk to someone"]}
+{"head": "to talk", "relation": "Causes", "tails": [" to talk", " listen to", " to talk to"]}
+{"head": "to talk", "relation": "xReason", "tails": [" listen to", " to talk", " listen to person"]}
+{"head": "to propose", "relation": "HinderedBy", "tails": [" to propose", " to propose ", " to propose to someone"]}
+{"head": "to propose", "relation": "isBefore", "tails": [" to propose", " to propose to someone", " to propose to her"]}
+{"head": "to propose", "relation": "isAfter", "tails": [" get a ring", " to propose to the other person", " to propose to someone"]}
+{"head": "to propose", "relation": "HasSubEvent", "tails": [" to propose", " to propose to someone", " to propose  to someone"]}
+{"head": "to propose", "relation": "Causes", "tails": [" to propose", " get married", " have a partner"]}
+{"head": "to propose", "relation": "xReason", "tails": [" to propose", " get married", " have a partner"]}
+{"head": "to need", "relation": "HinderedBy", "tails": [" to need", " to need  to need ", " to need  to need"]}
+{"head": "to need", "relation": "isBefore", "tails": [" to need", " to need something", " to need to need"]}
+{"head": "to need", "relation": "isAfter", "tails": [" to have", " to need", " to have money"]}
+{"head": "to need", "relation": "HasSubEvent", "tails": [" to need", " to need to need", " to need something"]}
+{"head": "to need", "relation": "Causes", "tails": [" to need", " to have", " need to buy"]}
+{"head": "to need", "relation": "xReason", "tails": [" to need", " to have", " need to buy"]}
+{"head": "to break", "relation": "HinderedBy", "tails": [" to break", " to break ", " to break  to break "]}
+{"head": "to break", "relation": "isBefore", "tails": [" to break", " to break something", " to break "]}
+{"head": "to break", "relation": "isAfter", "tails": [" to break", " to break something", " to break the glass"]}
+{"head": "to break", "relation": "HasSubEvent", "tails": [" to break", " to break  break ", " to break "]}
+{"head": "to break", "relation": "Causes", "tails": [" to break", " to break ", " to break  to break"]}
+{"head": "to break", "relation": "xReason", "tails": [" to break", " to break something", " to break "]}
+{"head": "tell Brenda", "relation": "HinderedBy", "tails": [" talk to someone", " tell someone else", " talk to"]}
+{"head": "tell Brenda", "relation": "isBefore", "tails": [" listen to", " talk to", " talk to person"]}
+{"head": "tell Brenda", "relation": "isAfter", "tails": [" talk to", " talk to someone", " talk to person"]}
+{"head": "tell Brenda", "relation": "HasSubEvent", "tails": [" talk to someone", " talk to person", " talk to"]}
+{"head": "tell Brenda", "relation": "Causes", "tails": [" talk to someone", " talk to person", " talk to"]}
+{"head": "tell Brenda", "relation": "xReason", "tails": [" have a conversation with someone", " have a conversation with", " have a conversation"]}
+{"head": "successful artist", "relation": "ObjectUse", "tails": [" make money", " create art", " show off"]}
+{"head": "successful artist", "relation": "AtLocation", "tails": [" art gallery", " art show", " artist's studio"]}
+{"head": "successful artist", "relation": "CapableOf", "tails": [" create art", " make art", " make money"]}
+{"head": "successful artist", "relation": "HasProperty", "tails": [" successful business", " successful in business", " successful"]}
+{"head": "successful artist", "relation": "MadeUpOf", "tails": [" art", " successful business", " artistic talent"]}
+{"head": "successful artist", "relation": "NotDesires", "tails": [" make money", " have to pay bills", " have to pay rent"]}
+{"head": "successful artist", "relation": "Desires", "tails": [" have a lot of money", " have a lot of free time", " make money"]}
+{"head": "saddest girl", "relation": "ObjectUse", "tails": [" cry in front of", " cry", " cry in front of people"]}
+{"head": "saddest girl", "relation": "AtLocation", "tails": [" heartbroken", " heartbreak", " heartache"]}
+{"head": "saddest girl", "relation": "CapableOf", "tails": [" cry", " cry all day", " cry all night"]}
+{"head": "saddest girl", "relation": "HasProperty", "tails": [" sad", " sorrowful", " none"]}
+{"head": "saddest girl", "relation": "MadeUpOf", "tails": [" heartbreak", " sad", " sadness"]}
+{"head": "saddest girl", "relation": "NotDesires", "tails": [" sad", " none", " cry"]}
+{"head": "saddest girl", "relation": "Desires", "tails": [" none", " sad", " cry"]}
+{"head": "promising future", "relation": "ObjectUse", "tails": [" have a good life", " have a better life", " have a good job"]}
+{"head": "promising future", "relation": "AtLocation", "tails": [" school", " good job", " dream home"]}
+{"head": "promising future", "relation": "CapableOf", "tails": [" have a good life", " promise to do good things", " have a good job"]}
+{"head": "promising future", "relation": "HasProperty", "tails": [" happy", " good job", " good health"]}
+{"head": "promising future", "relation": "MadeUpOf", "tails": [" promise", " hope", " good job"]}
+{"head": "promising future", "relation": "NotDesires", "tails": [" hope for the best", " promise to come true", " have a good life"]}
+{"head": "promising future", "relation": "Desires", "tails": [" have a good life", " hope for the future", " hope for the best"]}
+{"head": "love", "relation": "ObjectUse", "tails": [" love", " love someone", " love someone back"]}
+{"head": "love", "relation": "AtLocation", "tails": [" love", " heart", " love letter"]}
+{"head": "love", "relation": "CapableOf", "tails": [" feel good about yourself", " love", " love someone back"]}
+{"head": "love", "relation": "HasProperty", "tails": [" loved", " love", " good"]}
+{"head": "love", "relation": "MadeUpOf", "tails": [" love", " heart", " love heart"]}
+{"head": "love", "relation": "NotDesires", "tails": [" love", " feel good", " love to die"]}
+{"head": "love", "relation": "Desires", "tails": [" love", " feel good about yourself", " feel good"]}
+{"head": "girl", "relation": "ObjectUse", "tails": [" have sex with", " have sex", " have a baby"]}
+{"head": "girl", "relation": "AtLocation", "tails": [" girl's house", " girl's purse", " girl's room"]}
+{"head": "girl", "relation": "CapableOf", "tails": [" girl to marry", " girl to kiss", " girl to marry boy"]}
+{"head": "girl", "relation": "HasProperty", "tails": [" girl", " found on beach", " found in house"]}
+{"head": "girl", "relation": "MadeUpOf", "tails": [" girl", " girl's hair", " girl's hand"]}
+{"head": "girl", "relation": "NotDesires", "tails": [" have sex with", " girl to marry", " have sex with girl"]}
+{"head": "girl", "relation": "Desires", "tails": [" girl to marry", " girl to love", " girl to kiss"]}
+{"head": "future", "relation": "ObjectUse", "tails": [" plan for the future", " make a plan for the future", " plan for"]}
+{"head": "future", "relation": "AtLocation", "tails": [" future", " science fiction novel", " science fiction book"]}
+{"head": "future", "relation": "CapableOf", "tails": [" plan for future", " think about", " plan for"]}
+{"head": "future", "relation": "HasProperty", "tails": [" one day in the future", " future", " one day in the future."]}
+{"head": "future", "relation": "MadeUpOf", "tails": [" future", " time machine", " time"]}
+{"head": "future", "relation": "NotDesires", "tails": [" future", " bad news", " have to do"]}
+{"head": "future", "relation": "Desires", "tails": [" hope for the best", " hope for", " have a good life"]}
+{"head": "boyfriend", "relation": "ObjectUse", "tails": [" have sex with", " have a relationship with", " get married to"]}
+{"head": "boyfriend", "relation": "AtLocation", "tails": [" friend's house", " boyfriend's house", " boyfriends house"]}
+{"head": "boyfriend", "relation": "CapableOf", "tails": [" marry", " kiss", " have sex"]}
+{"head": "boyfriend", "relation": "HasProperty", "tails": [" boyfriend", " romantic interest", " love"]}
+{"head": "boyfriend", "relation": "MadeUpOf", "tails": [" boyfriend", " boy", " girlfriend"]}
+{"head": "boyfriend", "relation": "NotDesires", "tails": [" have sex with", " boyfriend to cheat on", " boyfriend to leave"]}
+{"head": "boyfriend", "relation": "Desires", "tails": [" love", " boyfriend", " boyfriends"]}
+{"head": "artist", "relation": "ObjectUse", "tails": [" create art", " painting", " create artwork"]}
+{"head": "artist", "relation": "AtLocation", "tails": [" art gallery", " artist's studio", " art show"]}
+{"head": "artist", "relation": "CapableOf", "tails": [" paint picture", " draw picture", " paint portrait"]}
+{"head": "artist", "relation": "HasProperty", "tails": [" art", " painting", " artistic"]}
+{"head": "artist", "relation": "MadeUpOf", "tails": [" painting", " artist's pencil", " art"]}
+{"head": "artist", "relation": "NotDesires", "tails": [" paint on canvas", " painting", " paint on wall"]}
+{"head": "artist", "relation": "Desires", "tails": [" art", " painting", " paint picture"]}
+{"head": "She thought he'd propose but he wanted to break up.", "relation": "xAttr", "tails": [" sad", " upset", " nervous"]}
+{"head": "She thought he'd propose but he wanted to break up.", "relation": "xWant", "tails": [" to break up", " break up", " to get a divorce"]}
+{"head": "She thought he'd propose but he wanted to break up.", "relation": "xNeed", "tails": [" none", " to be in a relationship", " to have a relationship with him"]}
+{"head": "She thought he'd propose but he wanted to break up.", "relation": "xEffect", "tails": [" She cries.", " she cries", " gets rejected"]}
+{"head": "She thought he'd propose but he wanted to break up.", "relation": "HinderedBy", "tails": [" She is in love with him.", " she is in love with him", " She is in love."]}
+{"head": "She thought he'd propose but he wanted to break up.", "relation": "oWant", "tails": [" to break up", " to get back together", " to break up with him"]}
+{"head": "She thought he'd propose but he wanted to break up.", "relation": "xReact", "tails": [" sad", " upset", " sad."]}
+{"head": "She thought he'd propose but he wanted to break up.", "relation": "oEffect", "tails": [" none", " they break up", " She cries."]}
+{"head": "She thought he'd propose but he wanted to break up.", "relation": "xIntent", "tails": [" none", " to break up", " to be alone"]}
+{"head": "She thought he'd propose but he wanted to break up.", "relation": "oReact", "tails": [" none", " sad", " upset"]}
+{"head": "She thought he'd propose but he wanted to break up.", "relation": "isBefore", "tails": [" she broke up with him", " she broke up with her boyfriend", " she broke up with her husband"]}
+{"head": "She thought he'd propose but he wanted to break up.", "relation": "isAfter", "tails": [" she broke up with him", " she broke up with her boyfriend", " she broke up with her husband"]}
+{"head": "She thought he'd propose but he wanted to break up.", "relation": "HasSubEvent", "tails": [" get a divorce", " get a restraining order", " get married"]}
+{"head": "She thought he'd propose but he wanted to break up.", "relation": "Causes", "tails": [" she is heartbroken", " she is in love", " she is in a relationship"]}
+{"head": "She thought he'd propose but he wanted to break up.", "relation": "xReason", "tails": [" she broke up with him", " she broke up with her boyfriend", " she broke up with him."]}
+{"head": "Maxwell told Brenda he needed to talk to her.", "relation": "xAttr", "tails": [" talkative", " nervous", " talkative."]}
+{"head": "Maxwell told Brenda he needed to talk to her.", "relation": "xWant", "tails": [" to talk to her", " to tell her something", " to talk to someone"]}
+{"head": "Maxwell told Brenda he needed to talk to her.", "relation": "xNeed", "tails": [" to call her", " talk to someone", " none"]}
+{"head": "Maxwell told Brenda he needed to talk to her.", "relation": "xEffect", "tails": [" none", " talk to person", " talk to her"]}
+{"head": "Maxwell told Brenda he needed to talk to her.", "relation": "HinderedBy", "tails": [" They are too far away from each other.", " They are too far away from each other to talk to each other.", " They are too far away from each other to talk to them."]}
+{"head": "Maxwell told Brenda he needed to talk to her.", "relation": "oWant", "tails": [" to listen to what he has to say", " to listen to what they have to say", " to listen to what PersonX has to say"]}
+{"head": "Maxwell told Brenda he needed to talk to her.", "relation": "xReact", "tails": [" nervous", " happy", " relieved"]}
+{"head": "Maxwell told Brenda he needed to talk to her.", "relation": "oEffect", "tails": [" none", " talk to person", " talk to someone"]}
+{"head": "Maxwell told Brenda he needed to talk to her.", "relation": "xIntent", "tails": [" to talk to her", " to talk to someone", " to tell her something"]}
+{"head": "Maxwell told Brenda he needed to talk to her.", "relation": "oReact", "tails": [" none", " nervous", " happy"]}
+{"head": "Maxwell told Brenda he needed to talk to her.", "relation": "isBefore", "tails": [" PersonX asks PersonX why they need to talk to PersonX.", " PersonX asks PersonX why they need to talk to them.", " PersonX asks PersonX why they need to talk to PersonX"]}
+{"head": "Maxwell told Brenda he needed to talk to her.", "relation": "isAfter", "tails": [" PersonX calls PersonX to see if PersonX needs anything else.", " PersonX calls PersonX to see if PersonX needs anything.", " PersonX calls PersonX"]}
+{"head": "Maxwell told Brenda he needed to talk to her.", "relation": "HasSubEvent", "tails": [" talk to person", " talk to her", " talk to someone"]}
+{"head": "Maxwell told Brenda he needed to talk to her.", "relation": "Causes", "tails": [" he needs to talk to her", " he needs to talk to her about something", " he needs to talk to her."]}
+{"head": "Maxwell told Brenda he needed to talk to her.", "relation": "xReason", "tails": [" none", " they get into a fight", " they get into an argument"]}
+{"head": "Maxwell", "relation": "ObjectUse", "tails": [" get a new job", " get a job", " have fun with friends"]}
+{"head": "Maxwell", "relation": "AtLocation", "tails": [" house", " school", " room"]}
+{"head": "Maxwell", "relation": "CapableOf", "tails": [" learn to play the piano", " learn to play piano", " learn to play guitar"]}
+{"head": "Maxwell", "relation": "HasProperty", "tails": [" one of the main characters in the movie", " one of the main characters in the film", " one of the main characters in the play"]}
+{"head": "Maxwell", "relation": "MadeUpOf", "tails": ["                 ", "                ", "                  "]}
+{"head": "Maxwell", "relation": "NotDesires", "tails": [" none", " have to go to the bathroom", " have to go to work"]}
+{"head": "Maxwell", "relation": "Desires", "tails": [" none", " have a good time", " have a good life"]}
+{"head": "He was a successful artist with a promising future.", "relation": "xAttr", "tails": [" talented", " creative", " successful"]}
+{"head": "He was a successful artist with a promising future.", "relation": "xWant", "tails": [" to make a lot of money", " to get a good job", " to make a lot of money."]}
+{"head": "He was a successful artist with a promising future.", "relation": "xNeed", "tails": [" to have a good career", " have a good career", " have a good job"]}
+{"head": "He was a successful artist with a promising future.", "relation": "xEffect", "tails": [" he gets a lot of money", " he gets a lot of attention", " get a new job"]}
+{"head": "He was a successful artist with a promising future.", "relation": "HinderedBy", "tails": [" he has a lot of work to do", " he has a lot of work to do.", " he has a lot of money"]}
+{"head": "He was a successful artist with a promising future.", "relation": "oWant", "tails": [" none", " to get a good job", " to get a job"]}
+{"head": "He was a successful artist with a promising future.", "relation": "xReact", "tails": [" happy", " successful", " proud"]}
+{"head": "He was a successful artist with a promising future.", "relation": "oEffect", "tails": [" none", " he gets a lot of money", " he gets a lot of attention"]}
+{"head": "He was a successful artist with a promising future.", "relation": "xIntent", "tails": [" none", " to be successful", " to make money"]}
+{"head": "He was a successful artist with a promising future.", "relation": "oReact", "tails": [" none", " happy", " proud"]}
+{"head": "He was a successful artist with a promising future.", "relation": "isBefore", "tails": [" he got a lot of money", " he got a new job", " he got a lot of attention"]}
+{"head": "He was a successful artist with a promising future.", "relation": "isAfter", "tails": [" he got a lot of money", " he got a job at a restaurant", " he got a lot of money for it"]}
+{"head": "He was a successful artist with a promising future.", "relation": "HasSubEvent", "tails": [" get a new job", " get a job", " he gets a lot of money"]}
+{"head": "He was a successful artist with a promising future.", "relation": "Causes", "tails": [" he has a lot of work to do", " he has a lot of money", " he has a lot of work to do."]}
+{"head": "He was a successful artist with a promising future.", "relation": "xReason", "tails": [" he had a lot of money", " he got a lot of money", " he had a lot of success"]}
+{"head": "Brenda was in love with her boyfriend Maxwell.", "relation": "xAttr", "tails": [" loving", " romantic", " affectionate"]}
+{"head": "Brenda was in love with her boyfriend Maxwell.", "relation": "xWant", "tails": [" to get married", " to marry him", " to have a relationship"]}
+{"head": "Brenda was in love with her boyfriend Maxwell.", "relation": "xNeed", "tails": [" none", " to have a boyfriend", " have a relationship with someone"]}
+{"head": "Brenda was in love with her boyfriend Maxwell.", "relation": "xEffect", "tails": [" none", " gets married", " gets rejected"]}
+{"head": "Brenda was in love with her boyfriend Maxwell.", "relation": "HinderedBy", "tails": [" They are too far away from each other.", " They are too far apart.", " They are too far away from one another."]}
+{"head": "Brenda was in love with her boyfriend Maxwell.", "relation": "oWant", "tails": [" to get married", " to have a relationship", " none"]}
+{"head": "Brenda was in love with her boyfriend Maxwell.", "relation": "xReact", "tails": [" loved", " happy", " romantic"]}
+{"head": "Brenda was in love with her boyfriend Maxwell.", "relation": "oEffect", "tails": [" none", " they fall in love", " they fall in love again"]}
+{"head": "Brenda was in love with her boyfriend Maxwell.", "relation": "xIntent", "tails": [" none", " to be loved", " to have a relationship"]}
+{"head": "Brenda was in love with her boyfriend Maxwell.", "relation": "oReact", "tails": [" none", " loved", " happy"]}
+{"head": "Brenda was in love with her boyfriend Maxwell.", "relation": "isBefore", "tails": [" PersonX is in love with PersonX.", " PersonX gets married to PersonX.", " PersonX is in love with PersonX"]}
+{"head": "Brenda was in love with her boyfriend Maxwell.", "relation": "isAfter", "tails": [" PersonX is in love with PersonX.", " PersonX is in love with PersonX's girlfriend.", " PersonX is in love with PersonX's boyfriend."]}
+{"head": "Brenda was in love with her boyfriend Maxwell.", "relation": "HasSubEvent", "tails": [" get married", " none", " get a divorce"]}
+{"head": "Brenda was in love with her boyfriend Maxwell.", "relation": "Causes", "tails": [" they fall in love with each other", " they fall in love", " they fall in love with the same person"]}
+{"head": "Brenda was in love with her boyfriend Maxwell.", "relation": "xReason", "tails": [" none", " love", " they got married"]}
+{"head": "Brenda walked away and now she is the saddest girl out of everyone.", "relation": "xAttr", "tails": [" sad", " upset", " depressed"]}
+{"head": "Brenda walked away and now she is the saddest girl out of everyone.", "relation": "xWant", "tails": [" to cry", " to go home", " to be alone"]}
+{"head": "Brenda walked away and now she is the saddest girl out of everyone.", "relation": "xNeed", "tails": [" none", " to be sad", " to have a fight"]}
+{"head": "Brenda walked away and now she is the saddest girl out of everyone.", "relation": "xEffect", "tails": [" none", " gets yelled at", " gets yelled at by others"]}
+{"head": "Brenda walked away and now she is the saddest girl out of everyone.", "relation": "HinderedBy", "tails": [" none", " they have to go back to school", " they have to go back to work"]}
+{"head": "Brenda walked away and now she is the saddest girl out of everyone.", "relation": "oWant", "tails": [" none", " to cry", " to be alone"]}
+{"head": "Brenda walked away and now she is the saddest girl out of everyone.", "relation": "xReact", "tails": [" sad", " sad.", " sad and lonely"]}
+{"head": "Brenda walked away and now she is the saddest girl out of everyone.", "relation": "oEffect", "tails": [" none", " they are sad", " they cry"]}
+{"head": "Brenda walked away and now she is the saddest girl out of everyone.", "relation": "xIntent", "tails": [" none", " to be alone", " to be alone."]}
+{"head": "Brenda walked away and now she is the saddest girl out of everyone.", "relation": "oReact", "tails": [" none", " sad", " sad."]}
+{"head": "Brenda walked away and now she is the saddest girl out of everyone.", "relation": "isBefore", "tails": [" none", " PersonX tells PersonX to go away.", " PersonX tells PersonX to leave."]}
+{"head": "Brenda walked away and now she is the saddest girl out of everyone.", "relation": "isAfter", "tails": [" none", " PersonX tells PersonX to leave.", " PersonX tells PersonX they are sad."]}
+{"head": "Brenda walked away and now she is the saddest girl out of everyone.", "relation": "HasSubEvent", "tails": [" none", " get a new job", " get a new friend"]}
+{"head": "Brenda walked away and now she is the saddest girl out of everyone.", "relation": "Causes", "tails": [" sad", " none", " sad."]}
+{"head": "Brenda walked away and now she is the saddest girl out of everyone.", "relation": "xReason", "tails": [" none", " sad", " they cry"]}
+{"head": "Brenda", "relation": "ObjectUse", "tails": [" have a good time", " have a good time with", " have a good time with friends"]}
+{"head": "Brenda", "relation": "AtLocation", "tails": [" house", " home", " car"]}
+{"head": "Brenda", "relation": "CapableOf", "tails": [" get a new job", " get a drink of water", " take shower"]}
+{"head": "Brenda", "relation": "HasProperty", "tails": [" none", " one of three children", " one of two sisters"]}
+{"head": "Brenda", "relation": "MadeUpOf", "tails": ["              ", "             ", "               "]}
+{"head": "Brenda", "relation": "NotDesires", "tails": [" have to go to the bathroom", " have to go to work", " have to go to the doctor"]}
+{"head": "Brenda", "relation": "Desires", "tails": [" have a good time", " have fun", " have fun with friends"]}

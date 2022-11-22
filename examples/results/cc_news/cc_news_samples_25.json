@@ -1,0 +1,178 @@
+{"head": "year", "relation": "ObjectUse", "tails": [" have a birthday", " get a promotion", " have a good time"]}
+{"head": "year", "relation": "AtLocation", "tails": [" year", " office building", " school"]}
+{"head": "year", "relation": "CapableOf", "tails": [" pay bills on time", " pay rent", " pay taxes"]}
+{"head": "year", "relation": "HasProperty", "tails": [" year", " one year", " many years"]}
+{"head": "year", "relation": "MadeUpOf", "tails": [" year", " number of years", " number of days"]}
+{"head": "year", "relation": "NotDesires", "tails": [" year", " year to end", " have to pay bills"]}
+{"head": "year", "relation": "Desires", "tails": [" year", " year of life", " year to live"]}
+{"head": "wide receiver Terrell Owens", "relation": "ObjectUse", "tails": [" catch a touchdown pass", " play football", " catch the ball"]}
+{"head": "wide receiver Terrell Owens", "relation": "AtLocation", "tails": [" football game", " football field", " wide receiver"]}
+{"head": "wide receiver Terrell Owens", "relation": "CapableOf", "tails": [" catch the ball", " catch the football", " catch a pass"]}
+{"head": "wide receiver Terrell Owens", "relation": "HasProperty", "tails": [" wide receiver", " none", " good at football"]}
+{"head": "wide receiver Terrell Owens", "relation": "MadeUpOf", "tails": [" wide receiver", " football", " receiver's helmet"]}
+{"head": "wide receiver Terrell Owens", "relation": "NotDesires", "tails": [" wide receiver", " catch the ball", " catch the football"]}
+{"head": "wide receiver Terrell Owens", "relation": "Desires", "tails": [" none", " to be the best", " to be a star"]}
+{"head": "wide receiver Randy Moss", "relation": "ObjectUse", "tails": [" catch the ball", " catch a touchdown pass", " catch a pass"]}
+{"head": "wide receiver Randy Moss", "relation": "AtLocation", "tails": [" football game", " football field", " wide receiver"]}
+{"head": "wide receiver Randy Moss", "relation": "CapableOf", "tails": [" catch the ball", " catch a pass", " catch a touchdown pass"]}
+{"head": "wide receiver Randy Moss", "relation": "HasProperty", "tails": [" wide receiver", " none", " wide receivers"]}
+{"head": "wide receiver Randy Moss", "relation": "MadeUpOf", "tails": [" wide receiver", " wide receiver's hands", " wide receiver position"]}
+{"head": "wide receiver Randy Moss", "relation": "NotDesires", "tails": [" wide receiver", " catch the ball", " catch a touchdown pass"]}
+{"head": "wide receiver Randy Moss", "relation": "Desires", "tails": [" to catch the ball", " none", " to catch the football"]}
+{"head": "to head", "relation": "HinderedBy", "tails": [" to head", " to head ", " to head  to head"]}
+{"head": "to head", "relation": "isBefore", "tails": [" to head", " to head to destination", " to head back home"]}
+{"head": "to head", "relation": "isAfter", "tails": [" to head", " head", " head to head"]}
+{"head": "to head", "relation": "HasSubEvent", "tails": [" get out of car", " get in car", " to head"]}
+{"head": "to head", "relation": "Causes", "tails": [" to head", " get out of car", " to head  to head"]}
+{"head": "to head", "relation": "xReason", "tails": [" to head", " to head  to head", " to head  to head "]}
+{"head": "to have", "relation": "HinderedBy", "tails": [" to have", " to have ", " to have  to have"]}
+{"head": "to have", "relation": "isBefore", "tails": [" to have", " to have ", " to have  a good time"]}
+{"head": "to have", "relation": "isAfter", "tails": [" to have something to eat", " to have", " to have something to drink"]}
+{"head": "to have", "relation": "HasSubEvent", "tails": [" to have", " to have ", " to have  have"]}
+{"head": "to have", "relation": "Causes", "tails": [" to have", " to have ", " to have  "]}
+{"head": "to have", "relation": "xReason", "tails": [" to have", " to have something to eat", " to have "]}
+{"head": "safety Brian Dawkins", "relation": "ObjectUse", "tails": [" safety equipment", " safety", " play football with"]}
+{"head": "safety Brian Dawkins", "relation": "AtLocation", "tails": [" science fiction book", " science fiction novel", " church"]}
+{"head": "safety Brian Dawkins", "relation": "CapableOf", "tails": [" play football", " play football with", " safety equipment"]}
+{"head": "safety Brian Dawkins", "relation": "HasProperty", "tails": [" safety", " safe", " safety equipment"]}
+{"head": "safety Brian Dawkins", "relation": "MadeUpOf", "tails": [" safety belt", " safety gear", " safety equipment"]}
+{"head": "safety Brian Dawkins", "relation": "NotDesires", "tails": [" safety", " safety equipment", " none"]}
+{"head": "safety Brian Dawkins", "relation": "Desires", "tails": [" safety", " none", " safe"]}
+{"head": "safety", "relation": "ObjectUse", "tails": [" use as a weapon", " use as a prop in a play", " use as a prop in a movie"]}
+{"head": "safety", "relation": "AtLocation", "tails": [" safety belt", " car", " airplane"]}
+{"head": "safety", "relation": "CapableOf", "tails": [" keep from falling", " keep from getting hurt", " keep from falling down"]}
+{"head": "safety", "relation": "HasProperty", "tails": [" safe to use", " safe place to live", " safe"]}
+{"head": "safety", "relation": "MadeUpOf", "tails": [" safety belt", " safety device", " safety system"]}
+{"head": "safety", "relation": "NotDesires", "tails": [" safety", " safety equipment", " safety gear"]}
+{"head": "safety", "relation": "Desires", "tails": [" safety", " safety equipment", " safety gear"]}
+{"head": "receiver", "relation": "ObjectUse", "tails": [" catch the ball", " catch a ball", " throw the ball to"]}
+{"head": "receiver", "relation": "AtLocation", "tails": [" football field", " football game", " receiver"]}
+{"head": "receiver", "relation": "CapableOf", "tails": [" catch pass", " catch ball", " catch football"]}
+{"head": "receiver", "relation": "HasProperty", "tails": [" receiver", " one of two receivers", " caught by receiver"]}
+{"head": "receiver", "relation": "MadeUpOf", "tails": [" receiver", " receiver's hand", " receiver's hands"]}
+{"head": "receiver", "relation": "NotDesires", "tails": [" catch pass", " catch ball", " catch football"]}
+{"head": "receiver", "relation": "Desires", "tails": [" catch ball", " catch pass", " catch football"]}
+{"head": "linebacker Robert Brazile", "relation": "ObjectUse", "tails": [" play football", " play in the NFL", " play in a football game"]}
+{"head": "linebacker Robert Brazile", "relation": "AtLocation", "tails": [" football game", " football field", " football team"]}
+{"head": "linebacker Robert Brazile", "relation": "CapableOf", "tails": [" play football", " play defense", " play football game"]}
+{"head": "linebacker Robert Brazile", "relation": "HasProperty", "tails": [" defensive end", " defensive player", " played by"]}
+{"head": "linebacker Robert Brazile", "relation": "MadeUpOf", "tails": [" football", " line of scrimmage", " playmaker"]}
+{"head": "linebacker Robert Brazile", "relation": "NotDesires", "tails": [" play football", " play defense", " line up with"]}
+{"head": "linebacker Robert Brazile", "relation": "Desires", "tails": [" to win the game", " to be a good player", " play football"]}
+{"head": "linebacker Ray Lewis", "relation": "ObjectUse", "tails": [" play football", " make a tackle", " play football with"]}
+{"head": "linebacker Ray Lewis", "relation": "AtLocation", "tails": [" football game", " football field", " team"]}
+{"head": "linebacker Ray Lewis", "relation": "CapableOf", "tails": [" play football", " play defense", " pass the ball"]}
+{"head": "linebacker Ray Lewis", "relation": "HasProperty", "tails": [" defensive end", " defensive player", " good at football"]}
+{"head": "linebacker Ray Lewis", "relation": "MadeUpOf", "tails": [" defensive end", " defensive line", " defensive tackle"]}
+{"head": "linebacker Ray Lewis", "relation": "NotDesires", "tails": [" play football", " make a tackle", " play defense"]}
+{"head": "linebacker Ray Lewis", "relation": "Desires", "tails": [" to win the game", " to win a game", " to win a championship"]}
+{"head": "linebacker Brian Urlacher", "relation": "ObjectUse", "tails": [" play football", " play in the NFL", " make a tackle"]}
+{"head": "linebacker Brian Urlacher", "relation": "AtLocation", "tails": [" football game", " football field", " team"]}
+{"head": "linebacker Brian Urlacher", "relation": "CapableOf", "tails": [" play football", " play defense", " play in NFL"]}
+{"head": "linebacker Brian Urlacher", "relation": "HasProperty", "tails": [" defensive end", " played by", " defensive player"]}
+{"head": "linebacker Brian Urlacher", "relation": "MadeUpOf", "tails": [" defensive end", " defensive line", " football"]}
+{"head": "linebacker Brian Urlacher", "relation": "NotDesires", "tails": [" play football", " play in the NFL", " play in NFL"]}
+{"head": "linebacker Brian Urlacher", "relation": "Desires", "tails": [" to win the game", " to win a game", " to be a good player"]}
+{"head": "linebacker", "relation": "ObjectUse", "tails": [" play defense", " play football", " play in NFL"]}
+{"head": "linebacker", "relation": "AtLocation", "tails": [" football game", " football field", " football stadium"]}
+{"head": "linebacker", "relation": "CapableOf", "tails": [" play defense", " play football", " line up"]}
+{"head": "linebacker", "relation": "HasProperty", "tails": [" defensive end", " defensive line", " defense"]}
+{"head": "linebacker", "relation": "MadeUpOf", "tails": [" defensive end", " line of scrimmage", " defensive line"]}
+{"head": "linebacker", "relation": "NotDesires", "tails": [" play defense", " play football", " line of defense"]}
+{"head": "linebacker", "relation": "Desires", "tails": [" play defense", " play football", " play in NFL"]}
+{"head": "large contingent", "relation": "ObjectUse", "tails": [" have a party", " make a statement", " make a speech"]}
+{"head": "large contingent", "relation": "AtLocation", "tails": [" military base", " army base", " military bases"]}
+{"head": "large contingent", "relation": "CapableOf", "tails": [" march in parade", " join army", " fight war"]}
+{"head": "large contingent", "relation": "HasProperty", "tails": [" large numbers of people", " large numbers of soldiers", " large numbers of troops"]}
+{"head": "large contingent", "relation": "MadeUpOf", "tails": [" large numbers of people", " large group of people", " large numbers of soldiers"]}
+{"head": "large contingent", "relation": "NotDesires", "tails": [" large numbers of people", " large group of people", " large numbers of people in one place"]}
+{"head": "large contingent", "relation": "Desires", "tails": [" have a good time", " make a good impression", " have a good time with"]}
+{"head": "have contingent", "relation": "HinderedBy", "tails": [" have a good time", " have a team", " have to do"]}
+{"head": "have contingent", "relation": "isBefore", "tails": [" have to do", " have to do list", " have to do with"]}
+{"head": "have contingent", "relation": "isAfter", "tails": [" have to go to war", " have to do", " have to do with"]}
+{"head": "have contingent", "relation": "HasSubEvent", "tails": [" have to do", " have to do with", " have to fight"]}
+{"head": "have contingent", "relation": "Causes", "tails": [" have to do", " join army", " have to do with"]}
+{"head": "have contingent", "relation": "xReason", "tails": [" have to do", " join army", " have to do with"]}
+{"head": "have an", "relation": "HinderedBy", "tails": [" have a job", " have sex", " have a good job"]}
+{"head": "have an", "relation": "isBefore", "tails": [" have a good time", " have a good life", " have sex"]}
+{"head": "have an", "relation": "isAfter", "tails": [" have a good time", " have a job", " have a good job"]}
+{"head": "have an", "relation": "HasSubEvent", "tails": [" have a good time", " have a good time with friends", " have a conversation with someone"]}
+{"head": "have an", "relation": "Causes", "tails": [" have a good time", " have a job", " have a good life"]}
+{"head": "have an", "relation": "xReason", "tails": [" have a good time", " have a job", " have sex"]}
+{"head": "have Owens", "relation": "HinderedBy", "tails": [" have a job", " have a good time", " have to do"]}
+{"head": "have Owens", "relation": "isBefore", "tails": [" watch football game", " have a good time", " have to do"]}
+{"head": "have Owens", "relation": "isAfter", "tails": [" have to do", " wear shoes", " have to pay for"]}
+{"head": "have Owens", "relation": "HasSubEvent", "tails": [" have to do", " have to pay for", " have to pay for it"]}
+{"head": "have Owens", "relation": "Causes", "tails": [" have to do", " have to pay for", " have to pay for it"]}
+{"head": "have Owens", "relation": "xReason", "tails": [" have to do", " have to pay for", " have to do with others"]}
+{"head": "guard Jerry Kramer", "relation": "ObjectUse", "tails": [" guard the court", " protect the team", " guard the team"]}
+{"head": "guard Jerry Kramer", "relation": "AtLocation", "tails": [" prison", " jail", " jail cell"]}
+{"head": "guard Jerry Kramer", "relation": "CapableOf", "tails": [" guard the court", " guard court", " guard the team"]}
+{"head": "guard Jerry Kramer", "relation": "HasProperty", "tails": [" protected", " protective", " protected by"]}
+{"head": "guard Jerry Kramer", "relation": "MadeUpOf", "tails": [" guard's hand", " guard's belt", " guard"]}
+{"head": "guard Jerry Kramer", "relation": "NotDesires", "tails": [" guard", " guard team", " protect the team"]}
+{"head": "guard Jerry Kramer", "relation": "Desires", "tails": [" to be a good guard", " to be a good guard.", " to be a good person"]}
+{"head": "contingent", "relation": "ObjectUse", "tails": [" keep in case of emergency", " keep in a safe place", " keep in case of emergencies"]}
+{"head": "contingent", "relation": "AtLocation", "tails": [" storage unit", " store", " suitcase"]}
+{"head": "contingent", "relation": "CapableOf", "tails": [" keep in case of emergency", " use as a weapon", " keep in case of emergencies"]}
+{"head": "contingent", "relation": "HasProperty", "tails": [" contained in one place", " one of many", " important"]}
+{"head": "contingent", "relation": "MadeUpOf", "tails": [" contingent", " contigent", " contigency"]}
+{"head": "contingent", "relation": "NotDesires", "tails": [" keep in case of emergency", " have to pay for", " have to pay for it"]}
+{"head": "contingent", "relation": "Desires", "tails": [" keep in case of emergency", " make sure they are safe", " keep in case of emergency."]}
+{"head": "Pro Football Hall", "relation": "ObjectUse", "tails": [" Pro Football Hall of Fame", " Pro Football Hall of Fame.", " Pro Football Hall of Famer"]}
+{"head": "Pro Football Hall", "relation": "AtLocation", "tails": [" football stadium", " museum", " sports museum"]}
+{"head": "Pro Football Hall", "relation": "CapableOf", "tails": [" get into hallowed ground", " get into hall of fame", " collect trophies"]}
+{"head": "Pro Football Hall", "relation": "HasProperty", "tails": [" Pro Football Hall of Fame", " Pro Football Hall of Fame.", " Pro Football Hall of Famer"]}
+{"head": "Pro Football Hall", "relation": "MadeUpOf", "tails": [" Pro Football Hall of Fame", " Pro Football Hall of Fame.", " Pro Football Hall of Fame plaque"]}
+{"head": "Pro Football Hall", "relation": "NotDesires", "tails": [" Pro Football Hall of Fame", " Pro Football Hall of Fame.", " Pro Football Hall of Famer"]}
+{"head": "Pro Football Hall", "relation": "Desires", "tails": [" to be remembered", " to be recognized", " to be in"]}
+{"head": "Ohio", "relation": "ObjectUse", "tails": [" travel to", " state of Ohio", " travel to and from"]}
+{"head": "Ohio", "relation": "AtLocation", "tails": [" state", " rural areas", " rural area"]}
+{"head": "Ohio", "relation": "CapableOf", "tails": [" travel to many places", " travel to different places", " travel to"]}
+{"head": "Ohio", "relation": "HasProperty", "tails": [" found in many places", " found in many states", " found in"]}
+{"head": "Ohio", "relation": "MadeUpOf", "tails": [" water", " car", " state"]}
+{"head": "Ohio", "relation": "NotDesires", "tails": [" people to die", " state of Ohio", " people to die in"]}
+{"head": "Ohio", "relation": "Desires", "tails": [" state of Ohio", " state", " state of"]}
+{"head": "Minn. ( CNN", "relation": "ObjectUse", "tails": [" make a movie about it", " make a movie about", " make a documentary about it"]}
+{"head": "Minn. ( CNN", "relation": "AtLocation", "tails": [" television", " tv station", " tv show"]}
+{"head": "Minn. ( CNN", "relation": "CapableOf", "tails": [" watch news", " watch news program", " watch news report"]}
+{"head": "Minn. ( CNN", "relation": "HasProperty", "tails": [" news", " none", " live coverage"]}
+{"head": "Minn. ( CNN", "relation": "MadeUpOf", "tails": [" news", " television", " TV"]}
+{"head": "Minn. ( CNN", "relation": "NotDesires", "tails": [" live news coverage", " watch news", " watch news program"]}
+{"head": "Minn. ( CNN", "relation": "Desires", "tails": [" to be informed", " live news coverage", " watch news"]}
+{"head": "Fame", "relation": "ObjectUse", "tails": [" make a lot of money", " make money", " make a lot of money."]}
+{"head": "Fame", "relation": "AtLocation", "tails": [" fame", " movie", " film"]}
+{"head": "Fame", "relation": "CapableOf", "tails": [" make money", " get famous", " make millions"]}
+{"head": "Fame", "relation": "HasProperty", "tails": [" found in movies", " found in tabloids", " fame"]}
+{"head": "Fame", "relation": "MadeUpOf", "tails": [" fame", " fame and fortune", " fame and fortune."]}
+{"head": "Fame", "relation": "NotDesires", "tails": [" fame", " fame and fortune", " become famous"]}
+{"head": "Fame", "relation": "Desires", "tails": [" fame", " make money", " get famous"]}
+{"head": "Canton", "relation": "ObjectUse", "tails": [" live in", " living in", " live in."]}
+{"head": "Canton", "relation": "AtLocation", "tails": [" city", " town", " cities"]}
+{"head": "Canton", "relation": "CapableOf", "tails": [" live in", " go to church", " live in city"]}
+{"head": "Canton", "relation": "HasProperty", "tails": [" found in Canton, Ohio", " found in Canton, New York", " found in Canton"]}
+{"head": "Canton", "relation": "MadeUpOf", "tails": [" cemetary", " cemeteries", " city"]}
+{"head": "Canton", "relation": "NotDesires", "tails": [" live in", " city", " live in city"]}
+{"head": "Canton", "relation": "Desires", "tails": [" live in", " living in", " live in."]}
+{"head": "BLOOMINGTON, Minn. (CNN) -- The Pro Football Hall of Fame has a large contingent heading to Canton, Ohio, later this year, as wide receiver Randy Moss, wide receiver Terrell Owens, linebacker Brian Urlacher, safety Brian Dawkins, linebacker Ray Lewis, guard Jerry Kramer, linebacker Robert Brazile an...", "relation": "xAttr", "tails": [" a leader", " happy", " strong"]}
+{"head": "BLOOMINGTON, Minn. (CNN) -- The Pro Football Hall of Fame has a large contingent heading to Canton, Ohio, later this year, as wide receiver Randy Moss, wide receiver Terrell Owens, linebacker Brian Urlacher, safety Brian Dawkins, linebacker Ray Lewis, guard Jerry Kramer, linebacker Robert Brazile an...", "relation": "xWant", "tails": [" to celebrate their accomplishments", " to celebrate their achievements", " to be recognized"]}
+{"head": "BLOOMINGTON, Minn. (CNN) -- The Pro Football Hall of Fame has a large contingent heading to Canton, Ohio, later this year, as wide receiver Randy Moss, wide receiver Terrell Owens, linebacker Brian Urlacher, safety Brian Dawkins, linebacker Ray Lewis, guard Jerry Kramer, linebacker Robert Brazile an...", "relation": "xNeed", "tails": [" to be a member of the team", " to be a member of the football team", " to have played in the NFL"]}
+{"head": "BLOOMINGTON, Minn. (CNN) -- The Pro Football Hall of Fame has a large contingent heading to Canton, Ohio, later this year, as wide receiver Randy Moss, wide receiver Terrell Owens, linebacker Brian Urlacher, safety Brian Dawkins, linebacker Ray Lewis, guard Jerry Kramer, linebacker Robert Brazile an...", "relation": "xEffect", "tails": [" none", " get a trophy", " get into the hall"]}
+{"head": "BLOOMINGTON, Minn. (CNN) -- The Pro Football Hall of Fame has a large contingent heading to Canton, Ohio, later this year, as wide receiver Randy Moss, wide receiver Terrell Owens, linebacker Brian Urlacher, safety Brian Dawkins, linebacker Ray Lewis, guard Jerry Kramer, linebacker Robert Brazile an...", "relation": "HinderedBy", "tails": [" BLOOMINGTON, MINN.", " BLOOMINGTON, MICHIGAN", " BLOOMINGTON, MINN"]}
+{"head": "BLOOMINGTON, Minn. (CNN) -- The Pro Football Hall of Fame has a large contingent heading to Canton, Ohio, later this year, as wide receiver Randy Moss, wide receiver Terrell Owens, linebacker Brian Urlacher, safety Brian Dawkins, linebacker Ray Lewis, guard Jerry Kramer, linebacker Robert Brazile an...", "relation": "oWant", "tails": [" to celebrate their accomplishments", " to celebrate their achievements", " to be recognized"]}
+{"head": "BLOOMINGTON, Minn. (CNN) -- The Pro Football Hall of Fame has a large contingent heading to Canton, Ohio, later this year, as wide receiver Randy Moss, wide receiver Terrell Owens, linebacker Brian Urlacher, safety Brian Dawkins, linebacker Ray Lewis, guard Jerry Kramer, linebacker Robert Brazile an...", "relation": "xReact", "tails": [" happy", " proud", " excited"]}
+{"head": "BLOOMINGTON, Minn. (CNN) -- The Pro Football Hall of Fame has a large contingent heading to Canton, Ohio, later this year, as wide receiver Randy Moss, wide receiver Terrell Owens, linebacker Brian Urlacher, safety Brian Dawkins, linebacker Ray Lewis, guard Jerry Kramer, linebacker Robert Brazile an...", "relation": "oEffect", "tails": [" none", " make a speech", " get a trophy"]}
+{"head": "BLOOMINGTON, Minn. (CNN) -- The Pro Football Hall of Fame has a large contingent heading to Canton, Ohio, later this year, as wide receiver Randy Moss, wide receiver Terrell Owens, linebacker Brian Urlacher, safety Brian Dawkins, linebacker Ray Lewis, guard Jerry Kramer, linebacker Robert Brazile an...", "relation": "xIntent", "tails": [" to be a part of the history of the sport", " to be a part of history", " to be a part of the history of the game"]}
+{"head": "BLOOMINGTON, Minn. (CNN) -- The Pro Football Hall of Fame has a large contingent heading to Canton, Ohio, later this year, as wide receiver Randy Moss, wide receiver Terrell Owens, linebacker Brian Urlacher, safety Brian Dawkins, linebacker Ray Lewis, guard Jerry Kramer, linebacker Robert Brazile an...", "relation": "oReact", "tails": [" none", " they get a chance to be in the hall of fame", " they get a chance to be in the hall of fame."]}
+{"head": "BLOOMINGTON, Minn. (CNN) -- The Pro Football Hall of Fame has a large contingent heading to Canton, Ohio, later this year, as wide receiver Randy Moss, wide receiver Terrell Owens, linebacker Brian Urlacher, safety Brian Dawkins, linebacker Ray Lewis, guard Jerry Kramer, linebacker Robert Brazile an...", "relation": "isBefore", "tails": [" none", " they get a trophy", " they get a plaque"]}
+{"head": "BLOOMINGTON, Minn. (CNN) -- The Pro Football Hall of Fame has a large contingent heading to Canton, Ohio, later this year, as wide receiver Randy Moss, wide receiver Terrell Owens, linebacker Brian Urlacher, safety Brian Dawkins, linebacker Ray Lewis, guard Jerry Kramer, linebacker Robert Brazile an...", "relation": "isAfter", "tails": [" the hall of fame", " the hall of fame ceremony", " the hall of famer"]}
+{"head": "BLOOMINGTON, Minn. (CNN) -- The Pro Football Hall of Fame has a large contingent heading to Canton, Ohio, later this year, as wide receiver Randy Moss, wide receiver Terrell Owens, linebacker Brian Urlacher, safety Brian Dawkins, linebacker Ray Lewis, guard Jerry Kramer, linebacker Robert Brazile an...", "relation": "HasSubEvent", "tails": [" make a speech", " get a trophy", " none"]}
+{"head": "BLOOMINGTON, Minn. (CNN) -- The Pro Football Hall of Fame has a large contingent heading to Canton, Ohio, later this year, as wide receiver Randy Moss, wide receiver Terrell Owens, linebacker Brian Urlacher, safety Brian Dawkins, linebacker Ray Lewis, guard Jerry Kramer, linebacker Robert Brazile an...", "relation": "Causes", "tails": [" football players", " football player", " football fans"]}
+{"head": "BLOOMINGTON, Minn. (CNN) -- The Pro Football Hall of Fame has a large contingent heading to Canton, Ohio, later this year, as wide receiver Randy Moss, wide receiver Terrell Owens, linebacker Brian Urlacher, safety Brian Dawkins, linebacker Ray Lewis, guard Jerry Kramer, linebacker Robert Brazile an...", "relation": "xReason", "tails": [" none", " football players", " get a trophy"]}
+{"head": "BLOOMINGTON", "relation": "ObjectUse", "tails": [" BLOOMINGTON", " BLOOMINGTON ", " BLOOMING"]}
+{"head": "BLOOMINGTON", "relation": "AtLocation", "tails": [" town", " city", " apartment building"]}
+{"head": "BLOOMINGTON", "relation": "CapableOf", "tails": [" go to the movies", " go to the store", " go to church"]}
+{"head": "BLOOMINGTON", "relation": "HasProperty", "tails": [" BLOOMINGTON", " BLOOMINGTON ", " BLOOMINGTON  "]}
+{"head": "BLOOMINGTON", "relation": "MadeUpOf", "tails": [" BLOOMINGTON", " BLOOMINGTON ", " BLOOMINGTON  "]}
+{"head": "BLOOMINGTON", "relation": "NotDesires", "tails": [" BLOOMINGTON", " BLOOMINGTON ", " BLOOMINGTON  "]}
+{"head": "BLOOMINGTON", "relation": "Desires", "tails": [" to have a nice place to live", " to have a place to live", " to have a nice place to live."]}

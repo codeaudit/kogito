@@ -1,0 +1,76 @@
+{"head": "to hold", "relation": "HinderedBy", "tails": [" to hold", " to hold ", " to hold something"]}
+{"head": "to hold", "relation": "isBefore", "tails": [" to hold", " to hold hands", " to hold hands with"]}
+{"head": "to hold", "relation": "isAfter", "tails": [" to hold", " to hold hands with", " to hold hands"]}
+{"head": "to hold", "relation": "HasSubEvent", "tails": [" to hold", " to hold ", " hold on to"]}
+{"head": "to hold", "relation": "Causes", "tails": [" to hold", " to hold hands", " to hold something"]}
+{"head": "to hold", "relation": "xReason", "tails": [" to hold", " to hold hands", " to hold something"]}
+{"head": "to break", "relation": "HinderedBy", "tails": [" to break", " to break ", " to break  to break "]}
+{"head": "to break", "relation": "isBefore", "tails": [" to break", " to break something", " to break "]}
+{"head": "to break", "relation": "isAfter", "tails": [" to break", " to break something", " to break the glass"]}
+{"head": "to break", "relation": "HasSubEvent", "tails": [" to break", " to break  break ", " to break "]}
+{"head": "to break", "relation": "Causes", "tails": [" to break", " to break ", " to break  to break"]}
+{"head": "to break", "relation": "xReason", "tails": [" to break", " to break something", " to break "]}
+{"head": "hostages", "relation": "ObjectUse", "tails": [" hold people hostage", " hold hostage", " hold a hostage"]}
+{"head": "hostages", "relation": "AtLocation", "tails": [" hostage situation", " prison", " jail"]}
+{"head": "hostages", "relation": "CapableOf", "tails": [" hold hostage", " hold people hostage", " hold hostage for ransom"]}
+{"head": "hostages", "relation": "HasProperty", "tails": [" held hostage", " hostage situation", " held in prison"]}
+{"head": "hostages", "relation": "MadeUpOf", "tails": [" hostage", " hostage situation", " hostage taker"]}
+{"head": "hostages", "relation": "NotDesires", "tails": [" hold hostage", " hostage situation", " have to pay ransom"]}
+{"head": "hostages", "relation": "Desires", "tails": [" hold hostage", " hold people hostage", " hold people captive"]}
+{"head": "gunmen", "relation": "ObjectUse", "tails": [" kill people", " shoot at people", " shoot people"]}
+{"head": "gunmen", "relation": "AtLocation", "tails": [" gunfight", " gunpoint", " gun show"]}
+{"head": "gunmen", "relation": "CapableOf", "tails": [" shoot at target", " shoot at people", " shoot people"]}
+{"head": "gunmen", "relation": "HasProperty", "tails": [" gunpowder", " deadly", " dangerous"]}
+{"head": "gunmen", "relation": "MadeUpOf", "tails": [" gunpowder", " arm", " gun"]}
+{"head": "gunmen", "relation": "NotDesires", "tails": [" kill people", " murder", " shoot people"]}
+{"head": "gunmen", "relation": "Desires", "tails": [" kill people", " shoot people", " shoot at people"]}
+{"head": "commandos", "relation": "ObjectUse", "tails": [" fight a war", " hide in the woods", " hide from the enemy"]}
+{"head": "commandos", "relation": "AtLocation", "tails": [" military base", " army", " air force"]}
+{"head": "commandos", "relation": "CapableOf", "tails": [" command army", " fight enemy", " lead army"]}
+{"head": "commandos", "relation": "HasProperty", "tails": [" commandos", " commando", " commando unit"]}
+{"head": "commandos", "relation": "MadeUpOf", "tails": [" commandos", " commando unit", " commando"]}
+{"head": "commandos", "relation": "NotDesires", "tails": [" commandos", " commando team", " commando unit"]}
+{"head": "commandos", "relation": "Desires", "tails": [" commandos", " command troops", " commando unit"]}
+{"head": "building", "relation": "ObjectUse", "tails": [" build a house", " build a house in", " building"]}
+{"head": "building", "relation": "AtLocation", "tails": [" building", " apartment building", " city"]}
+{"head": "building", "relation": "CapableOf", "tails": [" build house", " build house in", " build house on land"]}
+{"head": "building", "relation": "HasProperty", "tails": [" building", " building materials", " found in city"]}
+{"head": "building", "relation": "MadeUpOf", "tails": [" building", " building materials", " building material"]}
+{"head": "building", "relation": "NotDesires", "tails": [" building", " build house", " build in"]}
+{"head": "building", "relation": "Desires", "tails": [" building", " build house", " building things"]}
+{"head": "SAS Sergeant Bob Curry was one of the first commandos to break into the London building where 26 hostages were being held by gunmen in 1980", "relation": "xAttr", "tails": [" brave", " heroic", " strong"]}
+{"head": "SAS Sergeant Bob Curry was one of the first commandos to break into the London building where 26 hostages were being held by gunmen in 1980", "relation": "xWant", "tails": [" to get the hostages out of the building", " to save the lives of the hostages", " to save the hostages"]}
+{"head": "SAS Sergeant Bob Curry was one of the first commandos to break into the London building where 26 hostages were being held by gunmen in 1980", "relation": "xNeed", "tails": [" to be in the right place at the right time", " to be in the right place at the right time.", " to be a member of the force"]}
+{"head": "SAS Sergeant Bob Curry was one of the first commandos to break into the London building where 26 hostages were being held by gunmen in 1980", "relation": "xEffect", "tails": [" gets a medal", " gets a medal for bravery", " gets a medal for valor"]}
+{"head": "SAS Sergeant Bob Curry was one of the first commandos to break into the London building where 26 hostages were being held by gunmen in 1980", "relation": "HinderedBy", "tails": [" The hostages are still being held.", " The hostages are all dead.", " The hostages are being held by the terrorists."]}
+{"head": "SAS Sergeant Bob Curry was one of the first commandos to break into the London building where 26 hostages were being held by gunmen in 1980", "relation": "oWant", "tails": [" to save the lives of the hostages", " to save the hostages", " to be a hero"]}
+{"head": "SAS Sergeant Bob Curry was one of the first commandos to break into the London building where 26 hostages were being held by gunmen in 1980", "relation": "xReact", "tails": [" brave", " heroic", " proud"]}
+{"head": "SAS Sergeant Bob Curry was one of the first commandos to break into the London building where 26 hostages were being held by gunmen in 1980", "relation": "oEffect", "tails": [" none", " get shot", " get shot at"]}
+{"head": "SAS Sergeant Bob Curry was one of the first commandos to break into the London building where 26 hostages were being held by gunmen in 1980", "relation": "xIntent", "tails": [" to save lives", " to save people", " to save the hostages"]}
+{"head": "SAS Sergeant Bob Curry was one of the first commandos to break into the London building where 26 hostages were being held by gunmen in 1980", "relation": "oReact", "tails": [" none", " proud", " happy"]}
+{"head": "SAS Sergeant Bob Curry was one of the first commandos to break into the London building where 26 hostages were being held by gunmen in 1980", "relation": "isBefore", "tails": [" PersonX asks PersonY if they are a hostage taker.", " PersonX asks PersonY if they are a hostage taker", " PersonX is killed by the hostage taker"]}
+{"head": "SAS Sergeant Bob Curry was one of the first commandos to break into the London building where 26 hostages were being held by gunmen in 1980", "relation": "isAfter", "tails": [" Sargent Bob Curry was the first commandos to break into the building.", " Sargent Bob Curry was the first commando to break into the building.", " Sargent Bob Curry was the first commandos to break into the building"]}
+{"head": "SAS Sergeant Bob Curry was one of the first commandos to break into the London building where 26 hostages were being held by gunmen in 1980", "relation": "HasSubEvent", "tails": [" to break into the building", " get shot at", " to break into the building."]}
+{"head": "SAS Sergeant Bob Curry was one of the first commandos to break into the London building where 26 hostages were being held by gunmen in 1980", "relation": "Causes", "tails": [" brave", " heroic", " strong"]}
+{"head": "SAS Sergeant Bob Curry was one of the first commandos to break into the London building where 26 hostages were being held by gunmen in 1980", "relation": "xReason", "tails": [" Saves the lives of the hostages.", " Saves the lives of the hostages", " Saves the lives of people."]}
+{"head": "SAS Sergeant Bob Curry", "relation": "ObjectUse", "tails": [" to be a police officer", " get a promotion", " to be a police officer."]}
+{"head": "SAS Sergeant Bob Curry", "relation": "AtLocation", "tails": [" police station", " police car", " Police station"]}
+{"head": "SAS Sergeant Bob Curry", "relation": "CapableOf", "tails": [" to be a police officer", " get a promotion", " to be a police officer."]}
+{"head": "SAS Sergeant Bob Curry", "relation": "HasProperty", "tails": [" none", " one of the best soldiers in the army", " one of the best soldiers in the world"]}
+{"head": "SAS Sergeant Bob Curry", "relation": "MadeUpOf", "tails": [" patrol car", " police uniform", " police car"]}
+{"head": "SAS Sergeant Bob Curry", "relation": "NotDesires", "tails": [" none", " get a promotion", " get arrested"]}
+{"head": "SAS Sergeant Bob Curry", "relation": "Desires", "tails": [" none", " to be a police officer", " to be a good soldier"]}
+{"head": "London building", "relation": "ObjectUse", "tails": [" building skyscrapers", " building", " London's tallest building"]}
+{"head": "London building", "relation": "AtLocation", "tails": [" city", " building", " apartment building"]}
+{"head": "London building", "relation": "CapableOf", "tails": [" build skyscrapers", " build skyscraper", " walk up to"]}
+{"head": "London building", "relation": "HasProperty", "tails": [" skyscraper", " building", " skyscrapers"]}
+{"head": "London building", "relation": "MadeUpOf", "tails": [" skyscraper", " building", " skyscrapers"]}
+{"head": "London building", "relation": "NotDesires", "tails": [" buildings to fall down", " buildings to be destroyed", " building"]}
+{"head": "London building", "relation": "Desires", "tails": [" building", " London", " London's skyline"]}
+{"head": "26 hostages", "relation": "ObjectUse", "tails": [" hold a hostage", " hold hostage", " hold down people"]}
+{"head": "26 hostages", "relation": "AtLocation", "tails": [" hostage situation", " prison", " jail"]}
+{"head": "26 hostages", "relation": "CapableOf", "tails": [" hold hostage", " hold hostage for ransom", " hold ransom"]}
+{"head": "26 hostages", "relation": "HasProperty", "tails": [" none", " held hostage", " held in prison"]}
+{"head": "26 hostages", "relation": "MadeUpOf", "tails": [" hostage taker", " hostage", " hostage takers"]}
+{"head": "26 hostages", "relation": "NotDesires", "tails": [" hold hostage", " hold hostage for ransom", " hold people hostage"]}
+{"head": "26 hostages", "relation": "Desires", "tails": [" none", " hold people hostage", " hold hostage"]}

@@ -1,0 +1,105 @@
+{"head": "unfounded rumour", "relation": "ObjectUse", "tails": [" make fun of someone", " make fun of people", " make fun of"]}
+{"head": "unfounded rumour", "relation": "AtLocation", "tails": [" gossip column", " unconfirmed rumor", " unconfirmed"]}
+{"head": "unfounded rumour", "relation": "CapableOf", "tails": [" make up stories", " make up story", " make up a story"]}
+{"head": "unfounded rumour", "relation": "HasProperty", "tails": [" unconfirmed", " unverified", " unproven"]}
+{"head": "unfounded rumour", "relation": "MadeUpOf", "tails": [" rumour", " unconfirmed", " unverified"]}
+{"head": "unfounded rumour", "relation": "NotDesires", "tails": [" unconfirmed", " unverified", " unproven"]}
+{"head": "unfounded rumour", "relation": "Desires", "tails": [" none", " unconfirmed", " unverified"]}
+{"head": "to say", "relation": "HinderedBy", "tails": [" to say", " to say ", " to say something"]}
+{"head": "to say", "relation": "isBefore", "tails": [" to say", " to say something", " to say "]}
+{"head": "to say", "relation": "isAfter", "tails": [" to be heard", " to say", " to say something"]}
+{"head": "to say", "relation": "HasSubEvent", "tails": [" to say", " to say ", " to say  something"]}
+{"head": "to say", "relation": "Causes", "tails": [" to say", " have to say", " to say something"]}
+{"head": "to say", "relation": "xReason", "tails": [" to say", " have to say", " to say something"]}
+{"head": "rumour", "relation": "ObjectUse", "tails": [" gossip", " make fun of someone", " make fun of people"]}
+{"head": "rumour", "relation": "AtLocation", "tails": [" rumor mill", " gossip", " news"]}
+{"head": "rumour", "relation": "CapableOf", "tails": [" gossip", " make up stories", " gossip about"]}
+{"head": "rumour", "relation": "HasProperty", "tails": [" rumour", " gossip", " rumor"]}
+{"head": "rumour", "relation": "MadeUpOf", "tails": [" rumour", " rumor", " gossip"]}
+{"head": "rumour", "relation": "NotDesires", "tails": [" gossip", " rumour", " rumor"]}
+{"head": "rumour", "relation": "Desires", "tails": [" gossip", " rumor", " hear about"]}
+{"head": "reporter comment", "relation": "ObjectUse", "tails": [" make a point", " make a point about something", " make a point to the audience"]}
+{"head": "reporter comment", "relation": "AtLocation", "tails": [" newspaper", " news conference", " newsroom"]}
+{"head": "reporter comment", "relation": "CapableOf", "tails": [" ask question", " write story", " write down"]}
+{"head": "reporter comment", "relation": "HasProperty", "tails": [" news", " made up", " made in newspaper"]}
+{"head": "reporter comment", "relation": "MadeUpOf", "tails": [" reporter's mouth", " press release", " reporter's voice"]}
+{"head": "reporter comment", "relation": "NotDesires", "tails": [" make a point", " make a point about something", " hear from other person"]}
+{"head": "reporter comment", "relation": "Desires", "tails": [" make a point", " none", " to be heard"]}
+{"head": "reporter", "relation": "ObjectUse", "tails": [" write a story", " report on the event", " report on the news"]}
+{"head": "reporter", "relation": "AtLocation", "tails": [" newsroom", " newspaper", " reporter's office"]}
+{"head": "reporter", "relation": "CapableOf", "tails": [" write story", " report news", " report on event"]}
+{"head": "reporter", "relation": "HasProperty", "tails": [" newsgazette", " newsgathering", " newsman"]}
+{"head": "reporter", "relation": "MadeUpOf", "tails": [" newsroom", " reporter's hat", " reporter's desk"]}
+{"head": "reporter", "relation": "NotDesires", "tails": [" report news", " report on event", " press conference"]}
+{"head": "reporter", "relation": "Desires", "tails": [" report news", " report on event", " report on events"]}
+{"head": "private conversation", "relation": "ObjectUse", "tails": [" talk to someone", " have a conversation with someone", " have a private conversation with someone"]}
+{"head": "private conversation", "relation": "AtLocation", "tails": [" private room", " private place", " private meeting room"]}
+{"head": "private conversation", "relation": "CapableOf", "tails": [" talk to another person", " talk to someone", " talk to person"]}
+{"head": "private conversation", "relation": "HasProperty", "tails": [" heard by others", " heard by other people", " heard by friends and family"]}
+{"head": "private conversation", "relation": "MadeUpOf", "tails": [" private place", " private room", " private space"]}
+{"head": "private conversation", "relation": "NotDesires", "tails": [" talk to another person", " have to talk to someone", " have to talk to another person"]}
+{"head": "private conversation", "relation": "Desires", "tails": [" listen to", " talk to someone", " have a private conversation"]}
+{"head": "party", "relation": "ObjectUse", "tails": [" have a good time", " get drunk at", " have a good time at"]}
+{"head": "party", "relation": "AtLocation", "tails": [" party", " party room", " party hall"]}
+{"head": "party", "relation": "CapableOf", "tails": [" have fun", " party with friends", " drink beer"]}
+{"head": "party", "relation": "HasProperty", "tails": [" socializing", " fun", " social events"]}
+{"head": "party", "relation": "MadeUpOf", "tails": [" party", " party popper", " party favors"]}
+{"head": "party", "relation": "NotDesires", "tails": [" get drunk", " have fun", " get drunk at"]}
+{"head": "party", "relation": "Desires", "tails": [" have fun", " have good time", " get drunk"]}
+{"head": "lady Melania Trump", "relation": "ObjectUse", "tails": [" have a good time", " have a good time with", " have a nice dinner"]}
+{"head": "lady Melania Trump", "relation": "AtLocation", "tails": [" house", " hotel room", " home"]}
+{"head": "lady Melania Trump", "relation": "CapableOf", "tails": [" have a good time", " get married", " have a baby"]}
+{"head": "lady Melania Trump", "relation": "HasProperty", "tails": [" good looking", " none", " a wife"]}
+{"head": "lady Melania Trump", "relation": "MadeUpOf", "tails": [" wife", " a dress", " london"]}
+{"head": "lady Melania Trump", "relation": "NotDesires", "tails": [" none", " have a good time", " have a baby"]}
+{"head": "lady Melania Trump", "relation": "Desires", "tails": [" to be a role model", " to be a good wife", " to be nice"]}
+{"head": "lady", "relation": "ObjectUse", "tails": [" have sex with", " have a good time with", " have a good time"]}
+{"head": "lady", "relation": "AtLocation", "tails": [" house", " kitchen", " apartment building"]}
+{"head": "lady", "relation": "CapableOf", "tails": [" clean up mess", " cook dinner", " clean up messes"]}
+{"head": "lady", "relation": "HasProperty", "tails": [" librarian", " one of two sexes", " one of many women"]}
+{"head": "lady", "relation": "MadeUpOf", "tails": [" librarian", " lady's lap", " lady's hair"]}
+{"head": "lady", "relation": "NotDesires", "tails": [" have to clean up after", " have sex with", " have to clean up mess"]}
+{"head": "lady", "relation": "Desires", "tails": [" have a good time", " have a good time with", " have a nice home"]}
+{"head": "conversation", "relation": "ObjectUse", "tails": [" have a conversation with someone", " have a good time", " talk to someone"]}
+{"head": "conversation", "relation": "AtLocation", "tails": [" conversation", " classroom", " talk"]}
+{"head": "conversation", "relation": "CapableOf", "tails": [" talk to another person", " talk to someone", " talk to person"]}
+{"head": "conversation", "relation": "HasProperty", "tails": [" conversational", " understood by others", " understood"]}
+{"head": "conversation", "relation": "MadeUpOf", "tails": [" talkative", " conversational language", " conversational"]}
+{"head": "conversation", "relation": "NotDesires", "tails": [" listen to", " listen to person", " talk to someone"]}
+{"head": "conversation", "relation": "Desires", "tails": [" listen to", " talk to someone", " have fun"]}
+{"head": "comment", "relation": "ObjectUse", "tails": [" add to the conversation", " leave a comment", " make a point"]}
+{"head": "comment", "relation": "AtLocation", "tails": [" newspaper", " computer", " internet"]}
+{"head": "comment", "relation": "CapableOf", "tails": [" add to list", " write down", " leave comment"]}
+{"head": "comment", "relation": "HasProperty", "tails": [" found in newspaper", " found on internet", " found on website"]}
+{"head": "comment", "relation": "MadeUpOf", "tails": [" comment box", " comment", " word"]}
+{"head": "comment", "relation": "NotDesires", "tails": [" have no one to talk to", " have no one to listen to", " have no one to listen to them"]}
+{"head": "comment", "relation": "Desires", "tails": [" have something to say", " comment on other comment", " comment on other person"]}
+{"head": "actress", "relation": "ObjectUse", "tails": [" act in movie", " act in a movie", " act in a play"]}
+{"head": "actress", "relation": "AtLocation", "tails": [" movie", " film", " theatre"]}
+{"head": "actress", "relation": "CapableOf", "tails": [" act in movie", " act in play", " act in film"]}
+{"head": "actress", "relation": "HasProperty", "tails": [" act in movie", " act in play", " acting role"]}
+{"head": "actress", "relation": "MadeUpOf", "tails": [" act", " film", " play"]}
+{"head": "actress", "relation": "NotDesires", "tails": [" act in movie", " act in play", " act on stage"]}
+{"head": "actress", "relation": "Desires", "tails": [" act in movie", " act in play", " act in movies"]}
+{"head": "The New York Times says a reporter\u2019s comment about an unfounded rumour about first lady Melania Trump in a private conversation with an actress at a party was \u201ccompletely inappropriate.\u201d", "relation": "xAttr", "tails": [" gossipy", " rude", " gossipmonger"]}
+{"head": "The New York Times says a reporter\u2019s comment about an unfounded rumour about first lady Melania Trump in a private conversation with an actress at a party was \u201ccompletely inappropriate.\u201d", "relation": "xWant", "tails": [" to apologize to the actress", " to get a restraining order against the reporter", " to get a restraining order against the reporter."]}
+{"head": "The New York Times says a reporter\u2019s comment about an unfounded rumour about first lady Melania Trump in a private conversation with an actress at a party was \u201ccompletely inappropriate.\u201d", "relation": "xNeed", "tails": [" to talk to the actress", " to talk to someone", " to be talking to an actress"]}
+{"head": "The New York Times says a reporter\u2019s comment about an unfounded rumour about first lady Melania Trump in a private conversation with an actress at a party was \u201ccompletely inappropriate.\u201d", "relation": "xEffect", "tails": [" the reporter is fired", " none", " the first lady to apologize"]}
+{"head": "The New York Times says a reporter\u2019s comment about an unfounded rumour about first lady Melania Trump in a private conversation with an actress at a party was \u201ccompletely inappropriate.\u201d", "relation": "HinderedBy", "tails": [" The actress is a friend of the first lady.", " The actress is a friend of the president.", " The actress is a friend of the first lady"]}
+{"head": "The New York Times says a reporter\u2019s comment about an unfounded rumour about first lady Melania Trump in a private conversation with an actress at a party was \u201ccompletely inappropriate.\u201d", "relation": "oWant", "tails": [" to ask the reporter why they made the comment", " to ask the reporter why they made the comment.", " to ask the reporter why they made the remark"]}
+{"head": "The New York Times says a reporter\u2019s comment about an unfounded rumour about first lady Melania Trump in a private conversation with an actress at a party was \u201ccompletely inappropriate.\u201d", "relation": "xReact", "tails": [" gossipy", " gossip", " angry"]}
+{"head": "The New York Times says a reporter\u2019s comment about an unfounded rumour about first lady Melania Trump in a private conversation with an actress at a party was \u201ccompletely inappropriate.\u201d", "relation": "oEffect", "tails": [" none", " the reporter is fired", " the first lady is upset"]}
+{"head": "The New York Times says a reporter\u2019s comment about an unfounded rumour about first lady Melania Trump in a private conversation with an actress at a party was \u201ccompletely inappropriate.\u201d", "relation": "xIntent", "tails": [" none", " gossip", " to be heard"]}
+{"head": "The New York Times says a reporter\u2019s comment about an unfounded rumour about first lady Melania Trump in a private conversation with an actress at a party was \u201ccompletely inappropriate.\u201d", "relation": "oReact", "tails": [" none", " gossip", " gossiping"]}
+{"head": "The New York Times says a reporter\u2019s comment about an unfounded rumour about first lady Melania Trump in a private conversation with an actress at a party was \u201ccompletely inappropriate.\u201d", "relation": "isBefore", "tails": [" the first lady to apologize to the actress", " the first lady to apologize to the actress.", " the first lady is not happy about it"]}
+{"head": "The New York Times says a reporter\u2019s comment about an unfounded rumour about first lady Melania Trump in a private conversation with an actress at a party was \u201ccompletely inappropriate.\u201d", "relation": "isAfter", "tails": [" the first lady to apologize to the actress", " the first lady to apologize to the actress.", " the first lady is not happy about it"]}
+{"head": "The New York Times says a reporter\u2019s comment about an unfounded rumour about first lady Melania Trump in a private conversation with an actress at a party was \u201ccompletely inappropriate.\u201d", "relation": "HasSubEvent", "tails": [" the first lady to apologize to the actress", " the first lady to apologize to the actress.", " the first lady to apologize to the actress for the comment"]}
+{"head": "The New York Times says a reporter\u2019s comment about an unfounded rumour about first lady Melania Trump in a private conversation with an actress at a party was \u201ccompletely inappropriate.\u201d", "relation": "Causes", "tails": [" gossipy", " gossip", " gossipmonger"]}
+{"head": "The New York Times says a reporter\u2019s comment about an unfounded rumour about first lady Melania Trump in a private conversation with an actress at a party was \u201ccompletely inappropriate.\u201d", "relation": "xReason", "tails": [" the first lady will not talk to the press", " the first lady will not talk to the press about it", " the first lady will not talk to the press."]}
+{"head": "New York Times", "relation": "ObjectUse", "tails": [" read in the morning", " New York", " read in the evening"]}
+{"head": "New York Times", "relation": "AtLocation", "tails": [" newspaper rack", " newspaper", " newsstand"]}
+{"head": "New York Times", "relation": "CapableOf", "tails": [" read newspaper", " read news stories", " write about it"]}
+{"head": "New York Times", "relation": "HasProperty", "tails": [" New York", " printed in newspaper", " printed on paper"]}
+{"head": "New York Times", "relation": "MadeUpOf", "tails": [" newspaper", " newspaper", " newsprint"]}
+{"head": "New York Times", "relation": "NotDesires", "tails": [" New York", " news", " New York."]}
+{"head": "New York Times", "relation": "Desires", "tails": [" news", " read", " to read"]}

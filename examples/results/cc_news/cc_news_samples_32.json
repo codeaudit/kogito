@@ -1,0 +1,69 @@
+{"head": "to swell", "relation": "HinderedBy", "tails": [" to swell", " to swell ", " to swell up"]}
+{"head": "to swell", "relation": "isBefore", "tails": [" to swell", " to swell up", " to swell "]}
+{"head": "to swell", "relation": "isAfter", "tails": [" to swell", " to swell up", " to swell "]}
+{"head": "to swell", "relation": "HasSubEvent", "tails": [" to swell", " to swell ", " to swell up"]}
+{"head": "to swell", "relation": "Causes", "tails": [" to swell", " to swell up", " to swell "]}
+{"head": "to swell", "relation": "xReason", "tails": [" to swell", " to swell up", " to swell "]}
+{"head": "to make", "relation": "HinderedBy", "tails": [" to make ", " to make", " to make  to make "]}
+{"head": "to make", "relation": "isBefore", "tails": [" to make", " to make a cake", " to make something"]}
+{"head": "to make", "relation": "isAfter", "tails": [" to make a cake", " to make", " to make something"]}
+{"head": "to make", "relation": "HasSubEvent", "tails": [" to make", " to make ", " to make something"]}
+{"head": "to make", "relation": "Causes", "tails": [" to make", " to make ", " to make something"]}
+{"head": "to make", "relation": "xReason", "tails": [" to make", " to make something", " to make  food"]}
+{"head": "pride", "relation": "ObjectUse", "tails": [" feel good about yourself", " feel good about themselves", " feel good about oneself"]}
+{"head": "pride", "relation": "AtLocation", "tails": [" pride", " pride of america", " pride of country"]}
+{"head": "pride", "relation": "CapableOf", "tails": [" feel good about yourself", " feel good about oneself", " feel good about self"]}
+{"head": "pride", "relation": "HasProperty", "tails": [" proud", " pride", " good"]}
+{"head": "pride", "relation": "MadeUpOf", "tails": [" one of the four letters of the alphabet", " one of the four letters of the English alphabet", " one of the four letters of the English language"]}
+{"head": "pride", "relation": "NotDesires", "tails": [" feel good about themselves", " feel good about yourself", " feel good about oneself"]}
+{"head": "pride", "relation": "Desires", "tails": [" feel good about yourself", " feel good about themselves", " feel good about oneself"]}
+{"head": "patriotic pride", "relation": "ObjectUse", "tails": [" show patriotism", " feel patriotic", " feel proud"]}
+{"head": "patriotic pride", "relation": "AtLocation", "tails": [" american flag", " patriotism", " patriotic song"]}
+{"head": "patriotic pride", "relation": "CapableOf", "tails": [" feel patriotic", " wear uniform", " feel proud"]}
+{"head": "patriotic pride", "relation": "HasProperty", "tails": [" patriotic", " patriotism", " patriotic feelings"]}
+{"head": "patriotic pride", "relation": "MadeUpOf", "tails": [" patriotism", " patriotic", " patriotic feeling"]}
+{"head": "patriotic pride", "relation": "NotDesires", "tails": [" patriotism", " proud of their country", " proud of country"]}
+{"head": "patriotic pride", "relation": "Desires", "tails": [" patriotism", " patriotic", " proud"]}
+{"head": "heart", "relation": "ObjectUse", "tails": [" heartbeats", " heartburn", " heart beat"]}
+{"head": "heart", "relation": "AtLocation", "tails": [" medicine chest", " heartbeats", " body"]}
+{"head": "heart", "relation": "CapableOf", "tails": [" feel pain", " heart beats", " heart beats fast"]}
+{"head": "heart", "relation": "HasProperty", "tails": [" found in human body", " found in body", " found in heart"]}
+{"head": "heart", "relation": "MadeUpOf", "tails": [" heart valve", " heart muscle", " heart"]}
+{"head": "heart", "relation": "NotDesires", "tails": [" heart attack", " heartburn", " feel pain"]}
+{"head": "heart", "relation": "Desires", "tails": [" heart beat", " heart beats", " heartburn"]}
+{"head": "babies", "relation": "ObjectUse", "tails": [" play with", " have sex with", " have a baby shower"]}
+{"head": "babies", "relation": "AtLocation", "tails": [" bed", " babies", " baby shower"]}
+{"head": "babies", "relation": "CapableOf", "tails": [" sleep all day", " make noise", " sleep all night"]}
+{"head": "babies", "relation": "HasProperty", "tails": [" babies", " two arms", " two parents"]}
+{"head": "babies", "relation": "MadeUpOf", "tails": [" babies", " baby teeth", " baby's head"]}
+{"head": "babies", "relation": "NotDesires", "tails": [" have to feed", " babies to die", " babies to cry"]}
+{"head": "babies", "relation": "Desires", "tails": [" have fun", " have a family", " have fun with"]}
+{"head": "July", "relation": "ObjectUse", "tails": [" July", " have a party", " have a good time"]}
+{"head": "July", "relation": "AtLocation", "tails": [" summer", " summer solstice", " summertime"]}
+{"head": "July", "relation": "CapableOf", "tails": [" go on vacation", " go to the beach", " go to beach"]}
+{"head": "July", "relation": "HasProperty", "tails": [" July", " summer", " July "]}
+{"head": "July", "relation": "MadeUpOf", "tails": [" July", " summer", " water"]}
+{"head": "July", "relation": "NotDesires", "tails": [" July", " summer", " July "]}
+{"head": "July", "relation": "Desires", "tails": [" July", " summer", " have fun"]}
+{"head": "ILLINOIS - These babies in their Fourth of July best will make your heart swell with patriotic pride.", "relation": "xAttr", "tails": [" patriotic", " proud", " happy"]}
+{"head": "ILLINOIS - These babies in their Fourth of July best will make your heart swell with patriotic pride.", "relation": "xWant", "tails": [" to show off to their friends", " to show off to their friends and family", " to show off to their friends and family."]}
+{"head": "ILLINOIS - These babies in their Fourth of July best will make your heart swell with patriotic pride.", "relation": "xNeed", "tails": [" have a birthday party", " have a party", " have a baby"]}
+{"head": "ILLINOIS - These babies in their Fourth of July best will make your heart swell with patriotic pride.", "relation": "xEffect", "tails": [" have a good time", " have fun with their friends", " have a good time with friends"]}
+{"head": "ILLINOIS - These babies in their Fourth of July best will make your heart swell with patriotic pride.", "relation": "HinderedBy", "tails": [" have a good time", " have a good time at the party", " have a good time at the parade"]}
+{"head": "ILLINOIS - These babies in their Fourth of July best will make your heart swell with patriotic pride.", "relation": "oWant", "tails": [" have a good time", " have fun with their friends", " have a party"]}
+{"head": "ILLINOIS - These babies in their Fourth of July best will make your heart swell with patriotic pride.", "relation": "xReact", "tails": [" happy", " proud", " happy."]}
+{"head": "ILLINOIS - These babies in their Fourth of July best will make your heart swell with patriotic pride.", "relation": "oEffect", "tails": [" have a good time", " have fun with their friends", " have a good time with friends"]}
+{"head": "ILLINOIS - These babies in their Fourth of July best will make your heart swell with patriotic pride.", "relation": "xIntent", "tails": [" to be patriotic", " to show their patriotism", " to show off their patriotism"]}
+{"head": "ILLINOIS - These babies in their Fourth of July best will make your heart swell with patriotic pride.", "relation": "oReact", "tails": [" none", " happy", " proud"]}
+{"head": "ILLINOIS - These babies in their Fourth of July best will make your heart swell with patriotic pride.", "relation": "isBefore", "tails": [" have a good time", " have fun with their friends", " have a good time with friends"]}
+{"head": "ILLINOIS - These babies in their Fourth of July best will make your heart swell with patriotic pride.", "relation": "isAfter", "tails": [" have a good time", " have a good time at the party", " have a good time at the parade"]}
+{"head": "ILLINOIS - These babies in their Fourth of July best will make your heart swell with patriotic pride.", "relation": "HasSubEvent", "tails": [" have a good time", " have a good time at the party", " have a good time at the parade"]}
+{"head": "ILLINOIS - These babies in their Fourth of July best will make your heart swell with patriotic pride.", "relation": "Causes", "tails": [" happy", " proud", " patriotic"]}
+{"head": "ILLINOIS - These babies in their Fourth of July best will make your heart swell with patriotic pride.", "relation": "xReason", "tails": [" have a good time", " have fun with their friends", " have a good time with friends"]}
+{"head": "Fourth", "relation": "ObjectUse", "tails": [" have a good time", " have a party", " fourth place"]}
+{"head": "Fourth", "relation": "AtLocation", "tails": [" school", " second floor", " classroom"]}
+{"head": "Fourth", "relation": "CapableOf", "tails": [" pass test", " take test", " play game"]}
+{"head": "Fourth", "relation": "HasProperty", "tails": [" fourth place", " second place", " third place"]}
+{"head": "Fourth", "relation": "MadeUpOf", "tails": [" fourth quarter", " fourth row", " fourth"]}
+{"head": "Fourth", "relation": "NotDesires", "tails": [" fourth place", " second place", " third place"]}
+{"head": "Fourth", "relation": "Desires", "tails": [" fourth place", " second place", " third place"]}

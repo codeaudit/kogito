@@ -1,0 +1,56 @@
+{"head": "to rename", "relation": "HinderedBy", "tails": [" to rename ", " to rename", " to change the name"]}
+{"head": "to rename", "relation": "isBefore", "tails": [" to change name", " change name", " to change the name"]}
+{"head": "to rename", "relation": "isAfter", "tails": [" change name", " to change name", " name change"]}
+{"head": "to rename", "relation": "HasSubEvent", "tails": [" change name", " to change name", " to change the name"]}
+{"head": "to rename", "relation": "Causes", "tails": [" change name", " name change", " to change name"]}
+{"head": "to rename", "relation": "xReason", "tails": [" change name", " to change name", " name change"]}
+{"head": "point", "relation": "ObjectUse", "tails": [" use as a weapon", " point at something", " point to something"]}
+{"head": "point", "relation": "AtLocation", "tails": [" point", " desk", " table"]}
+{"head": "point", "relation": "CapableOf", "tails": [" point at object", " point to object", " point at something"]}
+{"head": "point", "relation": "HasProperty", "tails": [" found in computer", " found in book", " found in microscope"]}
+{"head": "point", "relation": "MadeUpOf", "tails": [" point", " pointy", " point of view"]}
+{"head": "point", "relation": "NotDesires", "tails": [" point to object", " point to other point", " point"]}
+{"head": "point", "relation": "Desires", "tails": [" point to object", " point to other point", " point out"]}
+{"head": "new console", "relation": "ObjectUse", "tails": [" play video games", " play games", " play video games on"]}
+{"head": "new console", "relation": "AtLocation", "tails": [" video game store", " video game console", " console game"]}
+{"head": "new console", "relation": "CapableOf", "tails": [" play video games", " play games", " play video game"]}
+{"head": "new console", "relation": "HasProperty", "tails": [" new console", " new game console", " found in store"]}
+{"head": "new console", "relation": "MadeUpOf", "tails": [" console", " new console", " game console"]}
+{"head": "new console", "relation": "NotDesires", "tails": [" play video games", " play games", " play video game"]}
+{"head": "new console", "relation": "Desires", "tails": [" play video games", " play games", " buy new console"]}
+{"head": "console", "relation": "ObjectUse", "tails": [" play video games on", " play games on", " play video games"]}
+{"head": "console", "relation": "AtLocation", "tails": [" console game", " console", " game console"]}
+{"head": "console", "relation": "CapableOf", "tails": [" play video games", " play game", " play games"]}
+{"head": "console", "relation": "HasProperty", "tails": [" found in computer", " found in home theater", " found in home office"]}
+{"head": "console", "relation": "MadeUpOf", "tails": [" console", " game console", " computer"]}
+{"head": "console", "relation": "NotDesires", "tails": [" play video games", " console", " play video games on"]}
+{"head": "console", "relation": "Desires", "tails": [" play video games", " play video games on", " console"]}
+{"head": "The Ataribox has been renamed the Atari VCS, but I'm still not sure what the point of this new console is.", "relation": "xAttr", "tails": [" curious", " confused", " bored"]}
+{"head": "The Ataribox has been renamed the Atari VCS, but I'm still not sure what the point of this new console is.", "relation": "xWant", "tails": [" to buy a new one", " to buy a new console", " to play the game"]}
+{"head": "The Ataribox has been renamed the Atari VCS, but I'm still not sure what the point of this new console is.", "relation": "xNeed", "tails": [" to buy a new console", " to buy the new console", " to buy a new console."]}
+{"head": "The Ataribox has been renamed the Atari VCS, but I'm still not sure what the point of this new console is.", "relation": "xEffect", "tails": [" the new console is not as good as the old one", " the new console is not as good as the old one.", " the console is no longer the Atari VCS"]}
+{"head": "The Ataribox has been renamed the Atari VCS, but I'm still not sure what the point of this new console is.", "relation": "HinderedBy", "tails": [" the Atari VCS is no longer the Atari VCS", " the Atari VCS is no longer called the Atari VCS", " the Atari VCS is no longer called the Atari VCS."]}
+{"head": "The Ataribox has been renamed the Atari VCS, but I'm still not sure what the point of this new console is.", "relation": "oWant", "tails": [" to buy a new console", " to buy a new one", " to play the game"]}
+{"head": "The Ataribox has been renamed the Atari VCS, but I'm still not sure what the point of this new console is.", "relation": "xReact", "tails": [" confused", " curious", " confused."]}
+{"head": "The Ataribox has been renamed the Atari VCS, but I'm still not sure what the point of this new console is.", "relation": "oEffect", "tails": [" none", " the game to be played", " the game to be played."]}
+{"head": "The Ataribox has been renamed the Atari VCS, but I'm still not sure what the point of this new console is.", "relation": "xIntent", "tails": [" the new console to be better than the old one", " the new console to be better than the old one.", " the new console to be better than the old"]}
+{"head": "The Ataribox has been renamed the Atari VCS, but I'm still not sure what the point of this new console is.", "relation": "oReact", "tails": [" none", " the new console is not as good as the old one", " the new console is not as good as the old one."]}
+{"head": "The Ataribox has been renamed the Atari VCS, but I'm still not sure what the point of this new console is.", "relation": "isBefore", "tails": [" the new console is not as good as the old one", " the new console to be called the Atari VCS", " the new console is not as good as the old one."]}
+{"head": "The Ataribox has been renamed the Atari VCS, but I'm still not sure what the point of this new console is.", "relation": "isAfter", "tails": [" the Atari VCS is no longer the Atari VCS", " the Atari VCS is no longer the Atari VCS.", " the Atari VCS is no longer a VCS"]}
+{"head": "The Ataribox has been renamed the Atari VCS, but I'm still not sure what the point of this new console is.", "relation": "HasSubEvent", "tails": [" get a new console", " the game to be played", " get a new one"]}
+{"head": "The Ataribox has been renamed the Atari VCS, but I'm still not sure what the point of this new console is.", "relation": "Causes", "tails": [" confused", " curious", " the new console"]}
+{"head": "The Ataribox has been renamed the Atari VCS, but I'm still not sure what the point of this new console is.", "relation": "xReason", "tails": [" the new console is not as good as the old one", " the new console to be called the Atari VCS", " the new console is not as interesting as the old one"]}
+{"head": "Ataribox", "relation": "ObjectUse", "tails": [" ataribox", " use as a paperweight", " use as a weapon"]}
+{"head": "Ataribox", "relation": "AtLocation", "tails": [" ataribox", " ataribox store", " ataribox shop"]}
+{"head": "Ataribox", "relation": "CapableOf", "tails": [" use as a paperweight", " use as a weapon", " use as a coaster"]}
+{"head": "Ataribox", "relation": "HasProperty", "tails": [" ataribox", " ataribox store", " ataribox stores"]}
+{"head": "Ataribox", "relation": "MadeUpOf", "tails": [" ataribox", " atlas", " ataribox box"]}
+{"head": "Ataribox", "relation": "NotDesires", "tails": [" ataribox", " ataribox store", " ataribox's house"]}
+{"head": "Ataribox", "relation": "Desires", "tails": [" ataribox", " ataribox store", " use as a weapon"]}
+{"head": "Atari VCS", "relation": "ObjectUse", "tails": [" play video games", " play games", " play video games on"]}
+{"head": "Atari VCS", "relation": "AtLocation", "tails": [" video game", " video game console", " game console"]}
+{"head": "Atari VCS", "relation": "CapableOf", "tails": [" play video games", " play games", " play game"]}
+{"head": "Atari VCS", "relation": "HasProperty", "tails": [" at least a year old", " found in game store", " found in game stores"]}
+{"head": "Atari VCS", "relation": "MadeUpOf", "tails": [" atlas", " atlantic", " game console"]}
+{"head": "Atari VCS", "relation": "NotDesires", "tails": [" play video games", " play games", " at home"]}
+{"head": "Atari VCS", "relation": "Desires", "tails": [" to play video games", " play video games", " to play games"]}

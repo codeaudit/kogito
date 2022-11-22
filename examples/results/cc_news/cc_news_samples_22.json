@@ -1,0 +1,143 @@
+{"head": "users", "relation": "ObjectUse", "tails": [" use the internet", " use the computer", " have a good time"]}
+{"head": "users", "relation": "AtLocation", "tails": [" computer", " internet cafe", " computers"]}
+{"head": "users", "relation": "CapableOf", "tails": [" use computer", " use internet", " use computers"]}
+{"head": "users", "relation": "HasProperty", "tails": [" users", " users of computer", " one of many users"]}
+{"head": "users", "relation": "MadeUpOf", "tails": [" computer", " users", " users name"]}
+{"head": "users", "relation": "NotDesires", "tails": [" have to pay bills", " have to pay for internet service", " have to pay for internet connection"]}
+{"head": "users", "relation": "Desires", "tails": [" have fun with friends", " use computer to do work", " use computer"]}
+{"head": "to work", "relation": "HinderedBy", "tails": [" to work", " to work ", " to work  to work"]}
+{"head": "to work", "relation": "isBefore", "tails": [" go to office", " go to work", " to work"]}
+{"head": "to work", "relation": "isAfter", "tails": [" go to office", " go to work", " drive to work"]}
+{"head": "to work", "relation": "HasSubEvent", "tails": [" go to office", " go to work", " to work"]}
+{"head": "to work", "relation": "Causes", "tails": [" get paid", " get paid for work", " have to do"]}
+{"head": "to work", "relation": "xReason", "tails": [" get paid", " get paid for work", " have to do"]}
+{"head": "to report", "relation": "HinderedBy", "tails": [" to report", " to report ", " to report something"]}
+{"head": "to report", "relation": "isBefore", "tails": [" to report to the police", " to report", " to report to police"]}
+{"head": "to report", "relation": "isAfter", "tails": [" report to police", " to report", " report"]}
+{"head": "to report", "relation": "HasSubEvent", "tails": [" to report", " report to police", " to report to police"]}
+{"head": "to report", "relation": "Causes", "tails": [" to report", " report to police", " to report to police"]}
+{"head": "to report", "relation": "xReason", "tails": [" to report", " report to police", " to report to police"]}
+{"head": "to gain", "relation": "HinderedBy", "tails": [" to gain", " to gain ", " to gain  to gain "]}
+{"head": "to gain", "relation": "isBefore", "tails": [" to gain", " to gain something", " to gain money"]}
+{"head": "to gain", "relation": "isAfter", "tails": [" to gain", " to gain something", " to gain money"]}
+{"head": "to gain", "relation": "HasSubEvent", "tails": [" to gain", " to gain  gain  gain  gain  gain  gain  gain  gain  gain  gain  gain", " to gain  gain  gain  gain  gain  gain  gain  gain  gain  gain"]}
+{"head": "to gain", "relation": "Causes", "tails": [" to gain  gain  gain  gain  gain  gain  gain  gain  gain  gain  gain", " to gain", " to gain  gain  gain  gain  gain  gain  gain  gain  gain  gain"]}
+{"head": "to gain", "relation": "xReason", "tails": [" to gain", " to gain something", " to gain  power"]}
+{"head": "to fall", "relation": "HinderedBy", "tails": [" to fall", " to fall ", " to fall  down"]}
+{"head": "to fall", "relation": "isBefore", "tails": [" to fall", " to fall down", " fall down stairs"]}
+{"head": "to fall", "relation": "isAfter", "tails": [" fall down stairs", " to fall", " fall off of cliff"]}
+{"head": "to fall", "relation": "HasSubEvent", "tails": [" to fall", " get hurt", " fall down"]}
+{"head": "to fall", "relation": "Causes", "tails": [" to fall", " to fall down", " fall off of cliff"]}
+{"head": "to fall", "relation": "xReason", "tails": [" to fall", " fall off of cliff", " to fall down"]}
+{"head": "shares", "relation": "ObjectUse", "tails": [" give to a friend", " give to someone", " share with someone"]}
+{"head": "shares", "relation": "AtLocation", "tails": [" stock market", " stock exchange", " share of food"]}
+{"head": "shares", "relation": "CapableOf", "tails": [" give to others", " share with others", " give to someone else"]}
+{"head": "shares", "relation": "HasProperty", "tails": [" one person", " shares", " share of wealth"]}
+{"head": "shares", "relation": "MadeUpOf", "tails": [" share", " share price", " share of money"]}
+{"head": "shares", "relation": "NotDesires", "tails": [" have to share", " share with someone", " share with others"]}
+{"head": "shares", "relation": "Desires", "tails": [" have a good time", " share with others", " share wealth"]}
+{"head": "premarket", "relation": "ObjectUse", "tails": [" buy things", " buy things at", " get a new car"]}
+{"head": "premarket", "relation": "AtLocation", "tails": [" shopping mall", " shopping center", " store"]}
+{"head": "premarket", "relation": "CapableOf", "tails": [" buy things", " buy food", " buy goods"]}
+{"head": "premarket", "relation": "HasProperty", "tails": [" bought and sold", " found in many cities", " found in many places"]}
+{"head": "premarket", "relation": "MadeUpOf", "tails": [" shopping mall", " shopping center", " shopping cart"]}
+{"head": "premarket", "relation": "NotDesires", "tails": [" shopping mall", " buy things", " buy things online"]}
+{"head": "premarket", "relation": "Desires", "tails": [" have a place to shop", " have a place to live", " have a place to buy things"]}
+{"head": "millionFacebook", "relation": "ObjectUse", "tails": [" have a social media account", " make money", " have a social media presence"]}
+{"head": "millionFacebook", "relation": "AtLocation", "tails": [" social media", " social media sites", " internet"]}
+{"head": "millionFacebook", "relation": "CapableOf", "tails": [" post pictures", " share photos", " post pictures on"]}
+{"head": "millionFacebook", "relation": "HasProperty", "tails": [" millions of people", " millions of users", " millions of followers"]}
+{"head": "millionFacebook", "relation": "MadeUpOf", "tails": [" money", " million people", " million users"]}
+{"head": "millionFacebook", "relation": "NotDesires", "tails": [" have a lot of friends", " have a lot of followers", " have a lot of friends on"]}
+{"head": "millionFacebook", "relation": "Desires", "tails": [" have a lot of friends", " have a lot of followers", " have a lot of likes"]}
+{"head": "media", "relation": "ObjectUse", "tails": [" share with friends", " share with others", " get information from"]}
+{"head": "media", "relation": "AtLocation", "tails": [" newspaper", " television", " media center"]}
+{"head": "media", "relation": "CapableOf", "tails": [" read news stories", " press button", " read news articles"]}
+{"head": "media", "relation": "HasProperty", "tails": [" media", " news", " found in"]}
+{"head": "media", "relation": "MadeUpOf", "tails": [" media", " media center", " media outlet"]}
+{"head": "media", "relation": "NotDesires", "tails": [" news", " media coverage", " media"]}
+{"head": "media", "relation": "Desires", "tails": [" read news stories", " news", " read news"]}
+{"head": "inappropriate access", "relation": "ObjectUse", "tails": [" get into a building", " get into a house", " have access to something"]}
+{"head": "inappropriate access", "relation": "AtLocation", "tails": [" office building", " computer", " jail"]}
+{"head": "inappropriate access", "relation": "CapableOf", "tails": [" have access to things", " have access to something", " get into a building"]}
+{"head": "inappropriate access", "relation": "HasProperty", "tails": [" violated", " bad", " violated by"]}
+{"head": "inappropriate access", "relation": "MadeUpOf", "tails": [" access to computer", " access code", " access to computers"]}
+{"head": "inappropriate access", "relation": "NotDesires", "tails": [" have to pay for", " have to pay for it", " get caught"]}
+{"head": "inappropriate access", "relation": "Desires", "tails": [" have access to something", " have access to things", " get into a building"]}
+{"head": "gain access", "relation": "HinderedBy", "tails": [" gain access", " gain access to something", " gain access to the building"]}
+{"head": "gain access", "relation": "isBefore", "tails": [" gain access", " gain access to something", " gain access to building"]}
+{"head": "gain access", "relation": "isAfter", "tails": [" gain access", " gain access to something", " gain access to building"]}
+{"head": "gain access", "relation": "HasSubEvent", "tails": [" gain access", " open door", " gain access to something"]}
+{"head": "gain access", "relation": "Causes", "tails": [" gain access", " gain access to something", " gain access to things"]}
+{"head": "gain access", "relation": "xReason", "tails": [" gain access", " gain access to something", " gain access to things"]}
+{"head": "data", "relation": "ObjectUse", "tails": [" use as a paperweight", " use as a password", " use as a paper weight"]}
+{"head": "data", "relation": "AtLocation", "tails": [" computer", " data center", " file system"]}
+{"head": "data", "relation": "CapableOf", "tails": [" write down information", " write down", " log in"]}
+{"head": "data", "relation": "HasProperty", "tails": [" found in computer", " found in computers", " found in data center"]}
+{"head": "data", "relation": "MadeUpOf", "tails": [" data", " data structure", " computer"]}
+{"head": "data", "relation": "NotDesires", "tails": [" loss of data", " loss of privacy", " loss of information"]}
+{"head": "data", "relation": "Desires", "tails": [" know what's going on", " know what is going on", " know what to do with"]}
+{"head": "consultancy", "relation": "ObjectUse", "tails": [" get a job", " get a good job", " get a job done"]}
+{"head": "consultancy", "relation": "AtLocation", "tails": [" office building", " business school", " consulting firm"]}
+{"head": "consultancy", "relation": "CapableOf", "tails": [" consult with", " consult with clients", " consult with client"]}
+{"head": "consultancy", "relation": "HasProperty", "tails": [" consultative", " good for business", " consultative services"]}
+{"head": "consultancy", "relation": "MadeUpOf", "tails": [" consultative services", " consultative", " consulting services"]}
+{"head": "consultancy", "relation": "NotDesires", "tails": [" consultative services", " get a job", " get a job done"]}
+{"head": "consultancy", "relation": "Desires", "tails": [" consultative services", " have a good job", " have a good time"]}
+{"head": "apolitical consultancy", "relation": "ObjectUse", "tails": [" work for a political party", " make money", " make a political statement"]}
+{"head": "apolitical consultancy", "relation": "AtLocation", "tails": [" political consulting firm", " office building", " political science"]}
+{"head": "apolitical consultancy", "relation": "CapableOf", "tails": [" work on political issues", " work on political campaigns", " work for government"]}
+{"head": "apolitical consultancy", "relation": "HasProperty", "tails": [" political consulting", " political science", " political consulting firm"]}
+{"head": "apolitical consultancy", "relation": "MadeUpOf", "tails": [" political consulting", " political consulting firm", " political research"]}
+{"head": "apolitical consultancy", "relation": "NotDesires", "tails": [" work for political parties", " work for political party", " work for government"]}
+{"head": "apolitical consultancy", "relation": "Desires", "tails": [" make money", " research", " political consulting"]}
+{"head": "access", "relation": "ObjectUse", "tails": [" get into the building", " get into a building", " access to the computer"]}
+{"head": "access", "relation": "AtLocation", "tails": [" computer", " internet cafe", " access to computer"]}
+{"head": "access", "relation": "CapableOf", "tails": [" get into building", " open door", " access computer"]}
+{"head": "access", "relation": "HasProperty", "tails": [" access to computer", " found in computer", " access to computers"]}
+{"head": "access", "relation": "MadeUpOf", "tails": [" access code", " access to computer", " access point"]}
+{"head": "access", "relation": "NotDesires", "tails": [" access to computer", " have to pay for", " access to information"]}
+{"head": "access", "relation": "Desires", "tails": [" access to computer", " access to information", " have access to things"]}
+{"head": "President Donald", "relation": "ObjectUse", "tails": [" President", " to be president", " President Trump"]}
+{"head": "President Donald", "relation": "AtLocation", "tails": [" president's office", " president's mansion", " president's residence"]}
+{"head": "President Donald", "relation": "CapableOf", "tails": [" take oath of office", " talk to people", " talk to others"]}
+{"head": "President Donald", "relation": "HasProperty", "tails": [" President of the United States", " President of the United States of America", " President of the United States of America."]}
+{"head": "President Donald", "relation": "MadeUpOf", "tails": [" president", " President", " President Trump"]}
+{"head": "President Donald", "relation": "NotDesires", "tails": [" President of the United States", " President of the United States of America", " President of the United States of America."]}
+{"head": "President Donald", "relation": "Desires", "tails": [" President of the United States", " President of the United States of America", " President of the United States of America."]}
+{"head": "Monday", "relation": "ObjectUse", "tails": [" have a good day", " have a good time", " have a party"]}
+{"head": "Monday", "relation": "AtLocation", "tails": [" office", " office building", " school"]}
+{"head": "Monday", "relation": "CapableOf", "tails": [" get out of bed", " go to work", " go to office"]}
+{"head": "Monday", "relation": "HasProperty", "tails": [" made up of many days", " made up of many different days", " made up of different days"]}
+{"head": "Monday", "relation": "MadeUpOf", "tails": [" day of work", " day off", " day"]}
+{"head": "Monday", "relation": "NotDesires", "tails": [" have to go to work", " have to go to office", " have to work"]}
+{"head": "Monday", "relation": "Desires", "tails": [" have a good day", " have a good time", " get out of bed"]}
+{"head": "Facebook Inc's shares fell 4percent in premarket on Monday after media reports that apolitical consultancy that worked on President Donald Trump'scampaign gained inappropriate access to data on 50 millionFacebook users.", "relation": "xAttr", "tails": [" social media", " social", " political"]}
+{"head": "Facebook Inc's shares fell 4percent in premarket on Monday after media reports that apolitical consultancy that worked on President Donald Trump'scampaign gained inappropriate access to data on 50 millionFacebook users.", "relation": "xWant", "tails": [" to file a police report", " to file a complaint with the police", " to fix the problem"]}
+{"head": "Facebook Inc's shares fell 4percent in premarket on Monday after media reports that apolitical consultancy that worked on President Donald Trump'scampaign gained inappropriate access to data on 50 millionFacebook users.", "relation": "xNeed", "tails": [" buy a Facebook account", " buy a Facebook stock", " to have access to data"]}
+{"head": "Facebook Inc's shares fell 4percent in premarket on Monday after media reports that apolitical consultancy that worked on President Donald Trump'scampaign gained inappropriate access to data on 50 millionFacebook users.", "relation": "xEffect", "tails": [" Facebook's stock price falls", " Facebook shares are down", " Facebook's stock price falls."]}
+{"head": "Facebook Inc's shares fell 4percent in premarket on Monday after media reports that apolitical consultancy that worked on President Donald Trump'scampaign gained inappropriate access to data on 50 millionFacebook users.", "relation": "HinderedBy", "tails": [" Facebook shares are down.", " Facebook shares are down", " Facebook's stock is down."]}
+{"head": "Facebook Inc's shares fell 4percent in premarket on Monday after media reports that apolitical consultancy that worked on President Donald Trump'scampaign gained inappropriate access to data on 50 millionFacebook users.", "relation": "oWant", "tails": [" get a restraining order against the company", " get a restraining order against them", " get a restraining order"]}
+{"head": "Facebook Inc's shares fell 4percent in premarket on Monday after media reports that apolitical consultancy that worked on President Donald Trump'scampaign gained inappropriate access to data on 50 millionFacebook users.", "relation": "xReact", "tails": [" angry", " social media", " bad for business"]}
+{"head": "Facebook Inc's shares fell 4percent in premarket on Monday after media reports that apolitical consultancy that worked on President Donald Trump'scampaign gained inappropriate access to data on 50 millionFacebook users.", "relation": "oEffect", "tails": [" Facebook's stock price falls", " Facebook shares are down", " Facebook shares fall"]}
+{"head": "Facebook Inc's shares fell 4percent in premarket on Monday after media reports that apolitical consultancy that worked on President Donald Trump'scampaign gained inappropriate access to data on 50 millionFacebook users.", "relation": "xIntent", "tails": [" none", " Facebook shares are down.", " Facebook shares are down"]}
+{"head": "Facebook Inc's shares fell 4percent in premarket on Monday after media reports that apolitical consultancy that worked on President Donald Trump'scampaign gained inappropriate access to data on 50 millionFacebook users.", "relation": "oReact", "tails": [" none", " Facebook's stock price falls", " Facebook shares are down"]}
+{"head": "Facebook Inc's shares fell 4percent in premarket on Monday after media reports that apolitical consultancy that worked on President Donald Trump'scampaign gained inappropriate access to data on 50 millionFacebook users.", "relation": "isBefore", "tails": [" Facebook shares are down", " Facebook shares fall", " Facebook's stock price falls"]}
+{"head": "Facebook Inc's shares fell 4percent in premarket on Monday after media reports that apolitical consultancy that worked on President Donald Trump'scampaign gained inappropriate access to data on 50 millionFacebook users.", "relation": "isAfter", "tails": [" Facebook shares fall", " Facebook shares are down", " Facebook's stock price falls"]}
+{"head": "Facebook Inc's shares fell 4percent in premarket on Monday after media reports that apolitical consultancy that worked on President Donald Trump'scampaign gained inappropriate access to data on 50 millionFacebook users.", "relation": "HasSubEvent", "tails": [" share price falls", " Facebook shares fall", " Facebook's stock falls"]}
+{"head": "Facebook Inc's shares fell 4percent in premarket on Monday after media reports that apolitical consultancy that worked on President Donald Trump'scampaign gained inappropriate access to data on 50 millionFacebook users.", "relation": "Causes", "tails": [" Facebook shares fall", " share price falls", " Facebook's stock price falls"]}
+{"head": "Facebook Inc's shares fell 4percent in premarket on Monday after media reports that apolitical consultancy that worked on President Donald Trump'scampaign gained inappropriate access to data on 50 millionFacebook users.", "relation": "xReason", "tails": [" Facebook shares are down", " Facebook shares fall", " Facebook's stock price falls"]}
+{"head": "Facebook Inc shares", "relation": "ObjectUse", "tails": [" buy shares", " buy stock", " sell to investors"]}
+{"head": "Facebook Inc shares", "relation": "AtLocation", "tails": [" stock market", " facebook.com", " facebook"]}
+{"head": "Facebook Inc shares", "relation": "CapableOf", "tails": [" buy shares", " buy stock", " sell shares"]}
+{"head": "Facebook Inc shares", "relation": "HasProperty", "tails": [" shares of other companies", " shares of company", " social media"]}
+{"head": "Facebook Inc shares", "relation": "MadeUpOf", "tails": [" shares", " stock market", " Facebook shares"]}
+{"head": "Facebook Inc shares", "relation": "NotDesires", "tails": [" share with friends and family", " share with others", " share with friends"]}
+{"head": "Facebook Inc shares", "relation": "Desires", "tails": [" to make money", " buy shares", " to make money."]}
+{"head": "50 millionFacebook users", "relation": "ObjectUse", "tails": [" have a lot of friends", " have a social media account", " have a social network account"]}
+{"head": "50 millionFacebook users", "relation": "AtLocation", "tails": [" facebook.com", " social media", " facebook"]}
+{"head": "50 millionFacebook users", "relation": "CapableOf", "tails": [" connect with friends", " connect with others", " connect with people"]}
+{"head": "50 millionFacebook users", "relation": "HasProperty", "tails": [" social media", " 50 million people", " more than 100 million"]}
+{"head": "50 millionFacebook users", "relation": "MadeUpOf", "tails": [" social media", " social network", " 50 million people"]}
+{"head": "50 millionFacebook users", "relation": "NotDesires", "tails": [" have a lot of friends", " have friends on the same page", " have a lot of friends on Facebook"]}
+{"head": "50 millionFacebook users", "relation": "Desires", "tails": [" have a lot of friends", " have a social media account", " have a social network"]}

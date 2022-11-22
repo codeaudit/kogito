@@ -1,0 +1,170 @@
+{"head": "to step", "relation": "HinderedBy", "tails": [" to step", " to step ", " to step  to step "]}
+{"head": "to step", "relation": "isBefore", "tails": [" to step", " to step on", " to step up"]}
+{"head": "to step", "relation": "isAfter", "tails": [" to walk", " to step", " to step on"]}
+{"head": "to step", "relation": "HasSubEvent", "tails": [" to step", " get up", " to step "]}
+{"head": "to step", "relation": "Causes", "tails": [" to step", " to step on", " to step "]}
+{"head": "to step", "relation": "xReason", "tails": [" to step", " to step on", " to step forward"]}
+{"head": "to realize", "relation": "HinderedBy", "tails": [" to realize", " to realize ", " to realize something"]}
+{"head": "to realize", "relation": "isBefore", "tails": [" to realize", " to realize what is going on", " to realize what they are doing"]}
+{"head": "to realize", "relation": "isAfter", "tails": [" to understand the situation", " to be aware", " to be aware of reality"]}
+{"head": "to realize", "relation": "HasSubEvent", "tails": [" to realize", " to realize ", " to realize  realization"]}
+{"head": "to realize", "relation": "Causes", "tails": [" to realize", " none", " to realize "]}
+{"head": "to realize", "relation": "xReason", "tails": [" to realize", " none", " to realize something"]}
+{"head": "to head", "relation": "HinderedBy", "tails": [" to head", " to head ", " to head  to head"]}
+{"head": "to head", "relation": "isBefore", "tails": [" to head", " to head to destination", " to head back home"]}
+{"head": "to head", "relation": "isAfter", "tails": [" to head", " head", " head to head"]}
+{"head": "to head", "relation": "HasSubEvent", "tails": [" get out of car", " get in car", " to head"]}
+{"head": "to head", "relation": "Causes", "tails": [" to head", " get out of car", " to head  to head"]}
+{"head": "to head", "relation": "xReason", "tails": [" to head", " to head  to head", " to head  to head "]}
+{"head": "to go", "relation": "HinderedBy", "tails": [" to go", " to go ", " to go  to"]}
+{"head": "to go", "relation": "isBefore", "tails": [" to go", " get in car", " to go somewhere"]}
+{"head": "to go", "relation": "isAfter", "tails": [" get in the car", " get in car", " to go to the bathroom"]}
+{"head": "to go", "relation": "HasSubEvent", "tails": [" get in car", " to go", " to go  home"]}
+{"head": "to go", "relation": "Causes", "tails": [" to go", " get in car", " to go  home"]}
+{"head": "to go", "relation": "xReason", "tails": [" to go", " get in car", " to go somewhere"]}
+{"head": "to get", "relation": "HinderedBy", "tails": [" to get ", " to get", " to get  to get "]}
+{"head": "to get", "relation": "isBefore", "tails": [" to get", " to get ", " to get  to get "]}
+{"head": "to get", "relation": "isAfter", "tails": [" to get", " to get something", " to get "]}
+{"head": "to get", "relation": "HasSubEvent", "tails": [" to get", " to get ", " to get  to get"]}
+{"head": "to get", "relation": "Causes", "tails": [" to get", " to get  to get ", " to get "]}
+{"head": "to get", "relation": "xReason", "tails": [" to get", " to get something", " to get "]}
+{"head": "to forget", "relation": "HinderedBy", "tails": [" to forget", " to forget something", " forget"]}
+{"head": "to forget", "relation": "isBefore", "tails": [" to forget", " to forget something", " forget"]}
+{"head": "to forget", "relation": "isAfter", "tails": [" forget", " to forget", " forget to do"]}
+{"head": "to forget", "relation": "HasSubEvent", "tails": [" to forget", " forget", " forget to do"]}
+{"head": "to forget", "relation": "Causes", "tails": [" to forget", " forget", " forget to do"]}
+{"head": "to forget", "relation": "xReason", "tails": [" forget", " to forget", " forget to do"]}
+{"head": "to find", "relation": "HinderedBy", "tails": [" to find ", " to find", " to find  to find "]}
+{"head": "to find", "relation": "isBefore", "tails": [" to find", " to find something", " to find "]}
+{"head": "to find", "relation": "isAfter", "tails": [" to find something", " to find something to eat", " to find"]}
+{"head": "to find", "relation": "HasSubEvent", "tails": [" to find", " to find ", " to look for it"]}
+{"head": "to find", "relation": "Causes", "tails": [" to find", " to find ", " to find something"]}
+{"head": "to find", "relation": "xReason", "tails": [" to find", " to find something", " to find "]}
+{"head": "sunglasses", "relation": "ObjectUse", "tails": [" see the road better", " wear while walking", " see the road"]}
+{"head": "sunglasses", "relation": "AtLocation", "tails": [" sunglasses", " glasses case", " purse"]}
+{"head": "sunglasses", "relation": "CapableOf", "tails": [" wear on head", " wear on face", " wear in the sun"]}
+{"head": "sunglasses", "relation": "HasProperty", "tails": [" worn on head", " worn on face", " worn on the head"]}
+{"head": "sunglasses", "relation": "MadeUpOf", "tails": [" sunglasses", " eye", " eye patch"]}
+{"head": "sunglasses", "relation": "NotDesires", "tails": [" see better", " see better in the dark", " wear in the sun"]}
+{"head": "sunglasses", "relation": "Desires", "tails": [" wear in the sun", " wear on head", " wear in the rain"]}
+{"head": "mall", "relation": "ObjectUse", "tails": [" shopping", " shopping mall", " shopping center"]}
+{"head": "mall", "relation": "AtLocation", "tails": [" mall", " shopping mall", " shopping center"]}
+{"head": "mall", "relation": "CapableOf", "tails": [" walk around", " buy things", " shopping"]}
+{"head": "mall", "relation": "HasProperty", "tails": [" shopping mall", " shopping center", " shopping"]}
+{"head": "mall", "relation": "MadeUpOf", "tails": [" shopping mall", " shopping center", " mall"]}
+{"head": "mall", "relation": "NotDesires", "tails": [" shopping mall", " shopping", " shopping center"]}
+{"head": "mall", "relation": "Desires", "tails": [" shopping", " shopping mall", " shopping center"]}
+{"head": "forget sunglasses", "relation": "HinderedBy", "tails": [" for the sun to shine through", " wear sunglasses", " see better in the dark"]}
+{"head": "forget sunglasses", "relation": "isBefore", "tails": [" see better", " wear sunglasses", " look at sun"]}
+{"head": "forget sunglasses", "relation": "isAfter", "tails": [" see better", " wear sunglasses", " look at sun"]}
+{"head": "forget sunglasses", "relation": "HasSubEvent", "tails": [" see better", " wear sunglasses", " look at sun"]}
+{"head": "forget sunglasses", "relation": "Causes", "tails": [" forget to put on", " forget to put them on", " see better"]}
+{"head": "forget sunglasses", "relation": "xReason", "tails": [" see better", " see better in the sun", " see better in the dark"]}
+{"head": "forget something", "relation": "HinderedBy", "tails": [" forget something", " forget where to put it", " forget where to put something"]}
+{"head": "forget something", "relation": "isBefore", "tails": [" forget where to put it", " forget where to put something", " forget something"]}
+{"head": "forget something", "relation": "isAfter", "tails": [" forget where to put it", " forget where to put something", " forget something"]}
+{"head": "forget something", "relation": "HasSubEvent", "tails": [" forget something", " forget", " forget to buy"]}
+{"head": "forget something", "relation": "Causes", "tails": [" forget something", " forget", " forget to bring"]}
+{"head": "forget something", "relation": "xReason", "tails": [" forget something", " forget where to put it", " forget where to put something"]}
+{"head": "find sunglasses", "relation": "HinderedBy", "tails": [" find sunglasses", " find a pair of sunglasses", " look for sunglasses"]}
+{"head": "find sunglasses", "relation": "isBefore", "tails": [" look in mirror", " look in the mirror", " see better"]}
+{"head": "find sunglasses", "relation": "isAfter", "tails": [" look in mirror", " find sunglasses", " look for sunglasses"]}
+{"head": "find sunglasses", "relation": "HasSubEvent", "tails": [" look in mirror", " look for sunglasses", " see better"]}
+{"head": "find sunglasses", "relation": "Causes", "tails": [" see better", " find sunglasses", " look for sunglasses"]}
+{"head": "find sunglasses", "relation": "xReason", "tails": [" see better", " find sunglasses", " look for sunglasses"]}
+{"head": "car", "relation": "ObjectUse", "tails": [" drive to the store", " get to the store", " drive to work"]}
+{"head": "car", "relation": "AtLocation", "tails": [" car show", " car wash", " car dealership"]}
+{"head": "car", "relation": "CapableOf", "tails": [" drive to destination", " drive to store", " drive to place"]}
+{"head": "car", "relation": "HasProperty", "tails": [" found in car showrooms", " found in car showroom", " found in car dealership"]}
+{"head": "car", "relation": "MadeUpOf", "tails": [" engine", " drivetrain", " car engine"]}
+{"head": "car", "relation": "NotDesires", "tails": [" get into accident", " drive to work", " drive to store"]}
+{"head": "car", "relation": "Desires", "tails": [" drive to work", " get to destination", " get to work"]}
+{"head": "beach", "relation": "ObjectUse", "tails": [" have a picnic", " have fun on", " have a picnic on"]}
+{"head": "beach", "relation": "AtLocation", "tails": [" beach", " beach house", " ocean"]}
+{"head": "beach", "relation": "CapableOf", "tails": [" walk on sand", " swim in ocean", " walk on"]}
+{"head": "beach", "relation": "HasProperty", "tails": [" beach", " water", " found on"]}
+{"head": "beach", "relation": "MadeUpOf", "tails": [" beach", " water", " beach towel"]}
+{"head": "beach", "relation": "NotDesires", "tails": [" have fun", " beach", " have fun on"]}
+{"head": "beach", "relation": "Desires", "tails": [" have fun", " have fun with friends", " have fun on"]}
+{"head": "Sunny got back into her car and heading towards the mall.", "relation": "xAttr", "tails": [" happy", " excited", " shopping"]}
+{"head": "Sunny got back into her car and heading towards the mall.", "relation": "xWant", "tails": [" to go to the mall", " to go shopping", " to go to the mall."]}
+{"head": "Sunny got back into her car and heading towards the mall.", "relation": "xNeed", "tails": [" to get in the car", " to get into the car", " get in the car"]}
+{"head": "Sunny got back into her car and heading towards the mall.", "relation": "xEffect", "tails": [" gets into a car accident", " gets in a car accident", " gets into a fight"]}
+{"head": "Sunny got back into her car and heading towards the mall.", "relation": "HinderedBy", "tails": [" The mall is closed.", " The mall is closed for the day.", " The mall is too far away."]}
+{"head": "Sunny got back into her car and heading towards the mall.", "relation": "oWant", "tails": [" to go to the mall", " to go shopping", " to go to the mall."]}
+{"head": "Sunny got back into her car and heading towards the mall.", "relation": "xReact", "tails": [" happy", " excited", " satisfied"]}
+{"head": "Sunny got back into her car and heading towards the mall.", "relation": "oEffect", "tails": [" none", " get out of the car", " get out of car"]}
+{"head": "Sunny got back into her car and heading towards the mall.", "relation": "xIntent", "tails": [" to go to the mall", " to go shopping", " to go to the mall."]}
+{"head": "Sunny got back into her car and heading towards the mall.", "relation": "oReact", "tails": [" none", " happy", " happy."]}
+{"head": "Sunny got back into her car and heading towards the mall.", "relation": "isBefore", "tails": [" PersonX gets in the car and drives to the mall.", " PersonX gets in the car and drives away.", " PersonX drives to the mall."]}
+{"head": "Sunny got back into her car and heading towards the mall.", "relation": "isAfter", "tails": [" get out of the car", " get out of car", " get out of their car"]}
+{"head": "Sunny got back into her car and heading towards the mall.", "relation": "HasSubEvent", "tails": [" get out of car", " get out of the car", " get in the car"]}
+{"head": "Sunny got back into her car and heading towards the mall.", "relation": "Causes", "tails": [" get out of the car", " sunburned", " get out of car"]}
+{"head": "Sunny got back into her car and heading towards the mall.", "relation": "xReason", "tails": [" get out of car", " get out of the car", " get in the car"]}
+{"head": "Sunny found some sunglasses and headed back to the beach.", "relation": "xAttr", "tails": [" sunburned", " sunburnt", " happy"]}
+{"head": "Sunny found some sunglasses and headed back to the beach.", "relation": "xWant", "tails": [" to go to the beach", " to go back to the beach", " to take a shower"]}
+{"head": "Sunny found some sunglasses and headed back to the beach.", "relation": "xNeed", "tails": [" to go to the beach", " to go to the store", " to go to the beach."]}
+{"head": "Sunny found some sunglasses and headed back to the beach.", "relation": "xEffect", "tails": [" gets sunburned", " sunburned", " gets sunburn"]}
+{"head": "Sunny found some sunglasses and headed back to the beach.", "relation": "HinderedBy", "tails": [" The sun is too bright.", " The sun is too hot.", " The beach is closed."]}
+{"head": "Sunny found some sunglasses and headed back to the beach.", "relation": "oWant", "tails": [" none", " to go to the beach", " to go to the beach."]}
+{"head": "Sunny found some sunglasses and headed back to the beach.", "relation": "xReact", "tails": [" sunburned", " happy", " sunburned."]}
+{"head": "Sunny found some sunglasses and headed back to the beach.", "relation": "oEffect", "tails": [" none", " get sunburned", " sunburned"]}
+{"head": "Sunny found some sunglasses and headed back to the beach.", "relation": "xIntent", "tails": [" to go to the beach", " to go to the beach.", " to get some sun"]}
+{"head": "Sunny found some sunglasses and headed back to the beach.", "relation": "oReact", "tails": [" none", " sunburned", " sunburnt"]}
+{"head": "Sunny found some sunglasses and headed back to the beach.", "relation": "isBefore", "tails": [" sunburned", " sunburn", " sunbathing"]}
+{"head": "Sunny found some sunglasses and headed back to the beach.", "relation": "isAfter", "tails": [" sunburn", " sunburned", " sunbathing"]}
+{"head": "Sunny found some sunglasses and headed back to the beach.", "relation": "HasSubEvent", "tails": [" sunburned", " get sunburned", " sunbathing"]}
+{"head": "Sunny found some sunglasses and headed back to the beach.", "relation": "Causes", "tails": [" sunburned", " sunburnt", " sunburn"]}
+{"head": "Sunny found some sunglasses and headed back to the beach.", "relation": "xReason", "tails": [" sunburned", " sunburn", " sunburnt"]}
+{"head": "Sunny enjoyed going to the beach.", "relation": "xAttr", "tails": [" happy", " relaxed", " fun"]}
+{"head": "Sunny enjoyed going to the beach.", "relation": "xWant", "tails": [" to take a shower", " to take a nap", " to go swimming"]}
+{"head": "Sunny enjoyed going to the beach.", "relation": "xNeed", "tails": [" to go to the beach", " go to the beach", " to go to the beach."]}
+{"head": "Sunny enjoyed going to the beach.", "relation": "xEffect", "tails": [" gets sunburned", " sunburned", " gets sunburn"]}
+{"head": "Sunny enjoyed going to the beach.", "relation": "HinderedBy", "tails": [" sunburned", " The beach is too crowded.", " The weather is too bad."]}
+{"head": "Sunny enjoyed going to the beach.", "relation": "oWant", "tails": [" none", " to have a good time", " to have fun"]}
+{"head": "Sunny enjoyed going to the beach.", "relation": "xReact", "tails": [" sunburned", " happy", " relaxed"]}
+{"head": "Sunny enjoyed going to the beach.", "relation": "oEffect", "tails": [" none", " get sunburned", " sunburned"]}
+{"head": "Sunny enjoyed going to the beach.", "relation": "xIntent", "tails": [" to have fun", " none", " to relax"]}
+{"head": "Sunny enjoyed going to the beach.", "relation": "oReact", "tails": [" none", " sunburned", " sunburnt"]}
+{"head": "Sunny enjoyed going to the beach.", "relation": "isBefore", "tails": [" sunburned", " sunbathing", " sunburn"]}
+{"head": "Sunny enjoyed going to the beach.", "relation": "isAfter", "tails": [" sunburned", " sunbathing", " sunburn"]}
+{"head": "Sunny enjoyed going to the beach.", "relation": "HasSubEvent", "tails": [" get sunburned", " sunburned", " sunbathing"]}
+{"head": "Sunny enjoyed going to the beach.", "relation": "Causes", "tails": [" sunburned", " sunburnt", " sunbathing"]}
+{"head": "Sunny enjoyed going to the beach.", "relation": "xReason", "tails": [" sunburned", " sunbathing", " sunburn"]}
+{"head": "Sunny", "relation": "ObjectUse", "tails": [" sunburned skin", " cool off", " warm"]}
+{"head": "Sunny", "relation": "AtLocation", "tails": [" sun", " beach", " air conditioning"]}
+{"head": "Sunny", "relation": "CapableOf", "tails": [" get sunburned", " get sunburnt", " get sunburn"]}
+{"head": "Sunny", "relation": "HasProperty", "tails": [" warm", " sun", " cool"]}
+{"head": "Sunny", "relation": "MadeUpOf", "tails": [" sun", " sunshine", " air"]}
+{"head": "Sunny", "relation": "NotDesires", "tails": [" sunburned skin", " sunburned", " sunburn"]}
+{"head": "Sunny", "relation": "Desires", "tails": [" sun", " warm", " cool breeze"]}
+{"head": "It was quite sunny and she forgot her sunglasses.", "relation": "xAttr", "tails": [" forgetful", " careless", " absentminded"]}
+{"head": "It was quite sunny and she forgot her sunglasses.", "relation": "xWant", "tails": [" to go to the beach", " to go to the park", " to go to the store"]}
+{"head": "It was quite sunny and she forgot her sunglasses.", "relation": "xNeed", "tails": [" to have gone to the store", " none", " to be in the sun"]}
+{"head": "It was quite sunny and she forgot her sunglasses.", "relation": "xEffect", "tails": [" gets sunburned", " get sunburned", " gets sunburn"]}
+{"head": "It was quite sunny and she forgot her sunglasses.", "relation": "HinderedBy", "tails": [" it is raining outside", " it's too hot outside", " it is too hot"]}
+{"head": "It was quite sunny and she forgot her sunglasses.", "relation": "oWant", "tails": [" none", " to go to the beach", " to go to the store"]}
+{"head": "It was quite sunny and she forgot her sunglasses.", "relation": "xReact", "tails": [" forgetful", " it's too hot to wear sunglasses", " it is too hot to wear sunglasses"]}
+{"head": "It was quite sunny and she forgot her sunglasses.", "relation": "oEffect", "tails": [" none", " get sunburned", " they get sunburned"]}
+{"head": "It was quite sunny and she forgot her sunglasses.", "relation": "xIntent", "tails": [" none", " it's too hot to wear sunglasses", " it is too hot to wear sunglasses"]}
+{"head": "It was quite sunny and she forgot her sunglasses.", "relation": "oReact", "tails": [" none", " sunburned", " sunburned."]}
+{"head": "It was quite sunny and she forgot her sunglasses.", "relation": "isBefore", "tails": [" it's too hot to wear sunglasses", " it is too hot to wear sunglasses", " it's too hot to go outside"]}
+{"head": "It was quite sunny and she forgot her sunglasses.", "relation": "isAfter", "tails": [" PersonX goes to the beach.", " sunburned", " PersonX goes to the park."]}
+{"head": "It was quite sunny and she forgot her sunglasses.", "relation": "HasSubEvent", "tails": [" get sunburned", " get sunburnt", " get sunburn"]}
+{"head": "It was quite sunny and she forgot her sunglasses.", "relation": "Causes", "tails": [" it's too hot to wear sunglasses", " it is too hot to wear sunglasses", " it's too hot to wear them"]}
+{"head": "It was quite sunny and she forgot her sunglasses.", "relation": "xReason", "tails": [" it's too hot to wear sunglasses", " it is too hot to wear sunglasses", " it's too hot to wear them"]}
+{"head": "As she stepped out of her car, she realized she forgot something.", "relation": "xAttr", "tails": [" forgetful", " absentminded", " nervous"]}
+{"head": "As she stepped out of her car, she realized she forgot something.", "relation": "xWant", "tails": [" to go to the store", " to go to the store.", " to go to the bathroom"]}
+{"head": "As she stepped out of her car, she realized she forgot something.", "relation": "xNeed", "tails": [" get out of car", " get out of the car", " to open the door"]}
+{"head": "As she stepped out of her car, she realized she forgot something.", "relation": "xEffect", "tails": [" get out of car", " get out of the car", " gets yelled at"]}
+{"head": "As she stepped out of her car, she realized she forgot something.", "relation": "HinderedBy", "tails": [" as she got out of the car", " as she got out of the car.", " as she got out of her car"]}
+{"head": "As she stepped out of her car, she realized she forgot something.", "relation": "oWant", "tails": [" none", " to go to the store", " to go to the store."]}
+{"head": "As she stepped out of her car, she realized she forgot something.", "relation": "xReact", "tails": [" forgetful", " nervous", " forgetful."]}
+{"head": "As she stepped out of her car, she realized she forgot something.", "relation": "oEffect", "tails": [" none", " get out of car", " get out of the car"]}
+{"head": "As she stepped out of her car, she realized she forgot something.", "relation": "xIntent", "tails": [" none", " as a reminder", " as a reminder."]}
+{"head": "As she stepped out of her car, she realized she forgot something.", "relation": "oReact", "tails": [" none", " sad", " annoyed"]}
+{"head": "As she stepped out of her car, she realized she forgot something.", "relation": "isBefore", "tails": [" as she got out of the car", " as she got out of her car", " as she got out of the car."]}
+{"head": "As she stepped out of her car, she realized she forgot something.", "relation": "isAfter", "tails": [" as she got out of the car", " as she got out of the car.", " as she got out of her car"]}
+{"head": "As she stepped out of her car, she realized she forgot something.", "relation": "HasSubEvent", "tails": [" get out of car", " get out of the car", " as she gets out of the car"]}
+{"head": "As she stepped out of her car, she realized she forgot something.", "relation": "Causes", "tails": [" Asks for it.", " as a reminder", " Asks for the item."]}
+{"head": "As she stepped out of her car, she realized she forgot something.", "relation": "xReason", "tails": [" Asks for it.", " Asks for the item.", " Asks for it"]}

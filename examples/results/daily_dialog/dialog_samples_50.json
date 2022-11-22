@@ -1,0 +1,152 @@
+{"head": "want kind", "relation": "HinderedBy", "tails": [" want to be kind", " want to be nice", " want to be like others"]}
+{"head": "want kind", "relation": "isBefore", "tails": [" want to be kind", " want to be nice", " want to be liked"]}
+{"head": "want kind", "relation": "isAfter", "tails": [" want to be kind", " want to be nice", " want to be liked"]}
+{"head": "want kind", "relation": "HasSubEvent", "tails": [" want to be kind", " want to be nice", " want to be liked"]}
+{"head": "want kind", "relation": "Causes", "tails": [" want to be kind", " want to be nice", " want to be liked"]}
+{"head": "want kind", "relation": "xReason", "tails": [" want to be kind", " want to be nice", " want to be liked"]}
+{"head": "to want", "relation": "HinderedBy", "tails": [" to want", " to want something", " to want "]}
+{"head": "to want", "relation": "isBefore", "tails": [" to want", " to want something", " to want to want"]}
+{"head": "to want", "relation": "isAfter", "tails": [" to want", " to want something", " to want to want"]}
+{"head": "to want", "relation": "HasSubEvent", "tails": [" to want", " to want something", " to want to want"]}
+{"head": "to want", "relation": "Causes", "tails": [" to want", " to want something", " to want to want"]}
+{"head": "to want", "relation": "xReason", "tails": [" to want", " to want something", " to want to want"]}
+{"head": "to help", "relation": "HinderedBy", "tails": [" to help", " to help ", " to help  to help"]}
+{"head": "to help", "relation": "isBefore", "tails": [" to help", " to help others", " to help them"]}
+{"head": "to help", "relation": "isAfter", "tails": [" to help", " to be helpful", " to help others"]}
+{"head": "to help", "relation": "HasSubEvent", "tails": [" to help", " to help  help", " to help "]}
+{"head": "to help", "relation": "Causes", "tails": [" to help", " to help others", " to help  to help"]}
+{"head": "to help", "relation": "xReason", "tails": [" to help", " to help others", " to be helpful"]}
+{"head": "to fill", "relation": "HinderedBy", "tails": [" to fill", " to fill ", " to fill  with"]}
+{"head": "to fill", "relation": "isBefore", "tails": [" to fill", " to fill with water", " to fill up the container"]}
+{"head": "to fill", "relation": "isAfter", "tails": [" to fill with water", " to fill", " to fill up the container"]}
+{"head": "to fill", "relation": "HasSubEvent", "tails": [" to fill", " to fill ", " fill with water"]}
+{"head": "to fill", "relation": "Causes", "tails": [" to fill", " to fill with water", " to fill  with water"]}
+{"head": "to fill", "relation": "xReason", "tails": [" to fill", " to fill with water", " to fill up"]}
+{"head": "to excuse", "relation": "HinderedBy", "tails": [" to excuse", " to excuse  excuse  excuse  excuse  excuse  excuse  excuse  excuse  excuse  excuse  excuse", " to excuse  excuse  excuse  excuse  excuse  excuse  excuse  excuse  excuse  excuse"]}
+{"head": "to excuse", "relation": "isBefore", "tails": [" to excuse", " get out of trouble", " to excuse  excuse  excuse"]}
+{"head": "to excuse", "relation": "isAfter", "tails": [" get out of trouble", " get out of a bad situation", " get out of something"]}
+{"head": "to excuse", "relation": "HasSubEvent", "tails": [" to excuse  excuse  excuse  excuse  excuse  excuse  excuse  excuse  excuse", " to excuse  excuse  excuse  excuse  excuse  excuse  excuse  excuse", " to excuse  excuse  excuse  excuse  excuse  excuse  excuse"]}
+{"head": "to excuse", "relation": "Causes", "tails": [" to excuse  excuse  excuse  excuse  excuse  excuse  excuse  excuse  excuse  excuse  excuse", " to excuse  excuse  excuse  excuse  excuse  excuse  excuse  excuse  excuse  excuse", " to excuse  excuse  excuse  excuse  excuse  excuse  excuse  excuse  excuse"]}
+{"head": "to excuse", "relation": "xReason", "tails": [" get out of trouble", " to excuse", " get out of something"]}
+{"head": "kind", "relation": "ObjectUse", "tails": [" kind", " kind words", " give to others"]}
+{"head": "kind", "relation": "AtLocation", "tails": [" kind", " kind of people", " kind heart"]}
+{"head": "kind", "relation": "CapableOf", "tails": [" kind to others", " kind to one another", " kind to other people"]}
+{"head": "kind", "relation": "HasProperty", "tails": [" kind", " good", " kind heart"]}
+{"head": "kind", "relation": "MadeUpOf", "tails": [" kind", " kind heart", " kindness"]}
+{"head": "kind", "relation": "NotDesires", "tails": [" kind", " kindness", " kind of people"]}
+{"head": "kind", "relation": "Desires", "tails": [" kind", " kindness", " kind heart"]}
+{"head": "help you", "relation": "HinderedBy", "tails": [" help you", " help them", " help"]}
+{"head": "help you", "relation": "isBefore", "tails": [" help you", " help them", " help"]}
+{"head": "help you", "relation": "isAfter", "tails": [" help you", " help them", " help you with"]}
+{"head": "help you", "relation": "HasSubEvent", "tails": [" help you", " help others", " help"]}
+{"head": "help you", "relation": "Causes", "tails": [" help others", " help you", " help"]}
+{"head": "help you", "relation": "xReason", "tails": [" help you", " help others", " help"]}
+{"head": "gas", "relation": "ObjectUse", "tails": [" fuel the vehicle", " fuel the car", " power the car"]}
+{"head": "gas", "relation": "AtLocation", "tails": [" gas station", " gas tank", " gasoline engine"]}
+{"head": "gas", "relation": "CapableOf", "tails": [" fill up tank", " fill tank", " fill tank with"]}
+{"head": "gas", "relation": "HasProperty", "tails": [" gasoline", " found in car", " found in cars"]}
+{"head": "gas", "relation": "MadeUpOf", "tails": [" gasoline", " fuel", " gas turbine"]}
+{"head": "gas", "relation": "NotDesires", "tails": [" gasoline", " power plant", " gas tank"]}
+{"head": "gas", "relation": "Desires", "tails": [" gasoline", " fuel", " power vehicle"]}
+{"head": "fill gas", "relation": "HinderedBy", "tails": [" fill up tank", " fill tank with gas", " fill up tank with gas"]}
+{"head": "fill gas", "relation": "isBefore", "tails": [" drive to gas station", " fill tank with gas", " fill up tank with gas"]}
+{"head": "fill gas", "relation": "isAfter", "tails": [" drive to gas station", " gas tank", " gas station"]}
+{"head": "fill gas", "relation": "HasSubEvent", "tails": [" fill tank with gas", " fill up tank", " fill up tank with gas"]}
+{"head": "fill gas", "relation": "Causes", "tails": [" fill up tank with gas", " fill up tank", " fill tank with gas"]}
+{"head": "fill gas", "relation": "xReason", "tails": [" fill up tank with gas", " fill up tank", " fill tank with gas"]}
+{"head": "excuse me", "relation": "HinderedBy", "tails": [" excuse me", " excused me", " excuse me"]}
+{"head": "excuse me", "relation": "isBefore", "tails": [" excuse me", " excused me", " excused"]}
+{"head": "excuse me", "relation": "isAfter", "tails": [" excuse me", " excuse yourself", " hear a noise"]}
+{"head": "excuse me", "relation": "HasSubEvent", "tails": [" get out of the way", " get out of the car", " say excuse me"]}
+{"head": "excuse me", "relation": "Causes", "tails": [" excuse me", " excused", " sorry"]}
+{"head": "excuse me", "relation": "xReason", "tails": [" excuse me", " excused", " excused me"]}
+{"head": "Would you please fill some gas for me ?", "relation": "xAttr", "tails": [" helpful", " generous", " kind"]}
+{"head": "Would you please fill some gas for me ?", "relation": "xWant", "tails": [" to go to the gas station", " to go to the store", " to get gas for their car"]}
+{"head": "Would you please fill some gas for me ?", "relation": "xNeed", "tails": [" to get in the car", " to have gas in the car", " to have gas in their car"]}
+{"head": "Would you please fill some gas for me ?", "relation": "xEffect", "tails": [" gets a receipt", " gets a flat tire", " gets a thank you"]}
+{"head": "Would you please fill some gas for me ?", "relation": "HinderedBy", "tails": [" would like to pay for the gas", " would like to pay for gas", " would like to pay for it"]}
+{"head": "Would you please fill some gas for me ?", "relation": "oWant", "tails": [" to pay for the gas", " to get paid for their work", " to pay for the gas."]}
+{"head": "Would you please fill some gas for me ?", "relation": "xReact", "tails": [" helpful", " grateful", " thankful"]}
+{"head": "Would you please fill some gas for me ?", "relation": "oEffect", "tails": [" none", " get a receipt", " gets thanked"]}
+{"head": "Would you please fill some gas for me ?", "relation": "xIntent", "tails": [" to be helpful", " to help someone", " to be helpful."]}
+{"head": "Would you please fill some gas for me ?", "relation": "oReact", "tails": [" grateful", " none", " thankful"]}
+{"head": "Would you please fill some gas for me ?", "relation": "isBefore", "tails": [" would like to pay for the gas", " would like to pay for gas", " would like to pay for it"]}
+{"head": "Would you please fill some gas for me ?", "relation": "isAfter", "tails": [" would like to pay for the gas", " would like to pay for gas", " would like to pay for it"]}
+{"head": "Would you please fill some gas for me ?", "relation": "HasSubEvent", "tails": [" get a receipt", " get gas", " would like to pay"]}
+{"head": "Would you please fill some gas for me ?", "relation": "Causes", "tails": [" would like to pay for the gas", " would like to pay for gas", " would like to pay for it"]}
+{"head": "Would you please fill some gas for me ?", "relation": "xReason", "tails": [" would like to pay for the gas", " would like to pay for gas", " would like to pay for it"]}
+{"head": "Which kind of gas do you want ?", "relation": "xAttr", "tails": [" helpful", " careful", " capable"]}
+{"head": "Which kind of gas do you want ?", "relation": "xWant", "tails": [" to fill up the car with gas", " to fill up the car", " to fill up the tank"]}
+{"head": "Which kind of gas do you want ?", "relation": "xNeed", "tails": [" buy gas", " to buy the gas", " get gas from the store"]}
+{"head": "Which kind of gas do you want ?", "relation": "xEffect", "tails": [" none", " get gas", " gets a flat"]}
+{"head": "Which kind of gas do you want ?", "relation": "HinderedBy", "tails": [" which kind of gas do you want", " which kind of gas do you want.", " which kind of gas to buy"]}
+{"head": "Which kind of gas do you want ?", "relation": "oWant", "tails": [" none", " to fill up the car", " to fill up the tank"]}
+{"head": "Which kind of gas do you want ?", "relation": "xReact", "tails": [" happy", " satisfied", " good"]}
+{"head": "Which kind of gas do you want ?", "relation": "oEffect", "tails": [" none", " get gas for the car", " get a new car"]}
+{"head": "Which kind of gas do you want ?", "relation": "xIntent", "tails": [" none", " buy gas", " to get gas"]}
+{"head": "Which kind of gas do you want ?", "relation": "oReact", "tails": [" none", " happy", " happy."]}
+{"head": "Which kind of gas do you want ?", "relation": "isBefore", "tails": [" which kind of gas do you want", " which kind of gas to buy", " which kind of gas to use"]}
+{"head": "Which kind of gas do you want ?", "relation": "isAfter", "tails": [" gas station", " gas pump", " gasoline"]}
+{"head": "Which kind of gas do you want ?", "relation": "HasSubEvent", "tails": [" buy gas", " get gas", " get gas from the pump"]}
+{"head": "Which kind of gas do you want ?", "relation": "Causes", "tails": [" which kind of gas do you want", " which kind of gas to buy", " which kind of gas do you want."]}
+{"head": "Which kind of gas do you want ?", "relation": "xReason", "tails": [" which kind of gas do you want", " which kind of gas to buy", " which kind of gas do you want."]}
+{"head": "Unleaded , please .", "relation": "xAttr", "tails": [" unadulterated", " unadulterated.", " unadulterated alcohol"]}
+{"head": "Unleaded , please .", "relation": "xWant", "tails": [" to get a drink", " to get drunk", " to drink"]}
+{"head": "Unleaded , please .", "relation": "xNeed", "tails": [" get a drink", " to have a drink", " to buy a bottle"]}
+{"head": "Unleaded , please .", "relation": "xEffect", "tails": [" get a drink", " get drunk", " get a drink."]}
+{"head": "Unleaded , please .", "relation": "HinderedBy", "tails": [" unleaded", " Unleaded", " Unleaded."]}
+{"head": "Unleaded , please .", "relation": "oWant", "tails": [" none", " to get a drink", " to drink it"]}
+{"head": "Unleaded , please .", "relation": "xReact", "tails": [" happy", " satisfied", " good"]}
+{"head": "Unleaded , please .", "relation": "oEffect", "tails": [" none", " get a drink", " get drunk"]}
+{"head": "Unleaded , please .", "relation": "xIntent", "tails": [" to be able to drink", " to have a good time", " to be able to drink alcohol"]}
+{"head": "Unleaded , please .", "relation": "oReact", "tails": [" none", " happy", " happy."]}
+{"head": "Unleaded , please .", "relation": "isBefore", "tails": [" Unleaded", " unleaded", " unopened"]}
+{"head": "Unleaded , please .", "relation": "isAfter", "tails": [" unadulterated", " unadulterated beer", " unadulterated alcohol"]}
+{"head": "Unleaded , please .", "relation": "HasSubEvent", "tails": [" get a drink", " get drunk", " get a beer"]}
+{"head": "Unleaded , please .", "relation": "Causes", "tails": [" unleaded", " Unleaded", " Unleaded."]}
+{"head": "Unleaded , please .", "relation": "xReason", "tails": [" unleaded", " Unleaded", " unopened"]}
+{"head": "Sure .", "relation": "xAttr", "tails": [" sure", " sure of themselves", " sure of themselves."]}
+{"head": "Sure .", "relation": "xWant", "tails": [" to go to the movies", " to go to the store", " to go to the party"]}
+{"head": "Sure .", "relation": "xNeed", "tails": [" none", " sure", " sure of"]}
+{"head": "Sure .", "relation": "xEffect", "tails": [" none", " sure", " sure of"]}
+{"head": "Sure .", "relation": "HinderedBy", "tails": [" sure", " none", " sure of"]}
+{"head": "Sure .", "relation": "oWant", "tails": [" none", " answer questions", " to have fun"]}
+{"head": "Sure .", "relation": "xReact", "tails": [" happy", " satisfied", " sure"]}
+{"head": "Sure .", "relation": "oEffect", "tails": [" none", " sure", " have fun"]}
+{"head": "Sure .", "relation": "xIntent", "tails": [" none", " to be able to do something", " to be able to do it"]}
+{"head": "Sure .", "relation": "oReact", "tails": [" none", " happy", " sure"]}
+{"head": "Sure .", "relation": "isBefore", "tails": [" sure", " none", " good"]}
+{"head": "Sure .", "relation": "isAfter", "tails": [" sure", " none", " good"]}
+{"head": "Sure .", "relation": "HasSubEvent", "tails": [" sure", " none", " answer question"]}
+{"head": "Sure .", "relation": "Causes", "tails": [" sure", " none", " sure of"]}
+{"head": "Sure .", "relation": "xReason", "tails": [" sure", " none", " sure of"]}
+{"head": "OK .", "relation": "xAttr", "tails": [" smart", " competent", " careful"]}
+{"head": "OK .", "relation": "xWant", "tails": [" to go home", " to go to the bathroom", " to go to sleep"]}
+{"head": "OK .", "relation": "xNeed", "tails": [" none", " to be in a position to do so", " to be in a position of power"]}
+{"head": "OK .", "relation": "xEffect", "tails": [" none", " gets yelled at", " get out of bed"]}
+{"head": "OK .", "relation": "HinderedBy", "tails": [" OK", " I don't know how to do it.", " I don't know what to say."]}
+{"head": "OK .", "relation": "oWant", "tails": [" none", " to go home", " to go to sleep"]}
+{"head": "OK .", "relation": "xReact", "tails": [" happy", " good", " satisfied"]}
+{"head": "OK .", "relation": "oEffect", "tails": [" none", " get a new job", " have a good time"]}
+{"head": "OK .", "relation": "xIntent", "tails": [" none", " to be a good person", " to be able to do something"]}
+{"head": "OK .", "relation": "oReact", "tails": [" none", " happy", " good"]}
+{"head": "OK .", "relation": "isBefore", "tails": [" OK", " ok", " none"]}
+{"head": "OK .", "relation": "isAfter", "tails": [" OK", " ok", " none"]}
+{"head": "OK .", "relation": "HasSubEvent", "tails": [" get out of the car", " get out of car", " get out of the way"]}
+{"head": "OK .", "relation": "Causes", "tails": [" OK", " none", " ok"]}
+{"head": "OK .", "relation": "xReason", "tails": [" none", " OK", " get a job"]}
+{"head": "Excuse me , may I help you ?", "relation": "xAttr", "tails": [" helpful", " polite", " Helpful"]}
+{"head": "Excuse me , may I help you ?", "relation": "xWant", "tails": [" to help you", " to help them", " to help someone else"]}
+{"head": "Excuse me , may I help you ?", "relation": "xNeed", "tails": [" to approach the person", " none", " to be in a meeting"]}
+{"head": "Excuse me , may I help you ?", "relation": "xEffect", "tails": [" gets yelled at", " gets asked for help", " none"]}
+{"head": "Excuse me , may I help you ?", "relation": "HinderedBy", "tails": [" Excuse me", " Excuse me , may I help you ?", " Excuse me , may I help you."]}
+{"head": "Excuse me , may I help you ?", "relation": "oWant", "tails": [" to be helped", " to ask for help", " to ask for more information"]}
+{"head": "Excuse me , may I help you ?", "relation": "xReact", "tails": [" helpful", " happy to help", " happy to help."]}
+{"head": "Excuse me , may I help you ?", "relation": "oEffect", "tails": [" none", " get help", " get help from person"]}
+{"head": "Excuse me , may I help you ?", "relation": "xIntent", "tails": [" to be helpful", " to help someone", " to help"]}
+{"head": "Excuse me , may I help you ?", "relation": "oReact", "tails": [" none", " grateful", " helpful"]}
+{"head": "Excuse me , may I help you ?", "relation": "isBefore", "tails": [" Excuse me , may I help you ?", " Excuse me , may I help you", " Excuse me"]}
+{"head": "Excuse me , may I help you ?", "relation": "isAfter", "tails": [" Excuse me , may I help you ?", " Excuse me , may I help you", " Excuse me , may I help you ? "]}
+{"head": "Excuse me , may I help you ?", "relation": "HasSubEvent", "tails": [" ask for help", " ask for a favor", " get help from someone else"]}
+{"head": "Excuse me , may I help you ?", "relation": "Causes", "tails": [" Excuse me", " Excuse me.", " Excuse me to help you"]}
+{"head": "Excuse me , may I help you ?", "relation": "xReason", "tails": [" Excuse me , may I help you ?", " Excuse me", " Excuse me , may I help you"]}

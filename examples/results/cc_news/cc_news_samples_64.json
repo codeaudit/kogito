@@ -1,0 +1,217 @@
+{"head": "utilisation", "relation": "ObjectUse", "tails": [" make money", " get a better job", " get a better deal"]}
+{"head": "utilisation", "relation": "AtLocation", "tails": [" store", " office building", " office supply store"]}
+{"head": "utilisation", "relation": "CapableOf", "tails": [" make money", " get a job", " get a job done"]}
+{"head": "utilisation", "relation": "HasProperty", "tails": [" good for the environment", " useful for many things", " useful"]}
+{"head": "utilisation", "relation": "MadeUpOf", "tails": [" utilisation", " use of resources", " use of energy"]}
+{"head": "utilisation", "relation": "NotDesires", "tails": [" waste of resources", " waste of time", " waste of money"]}
+{"head": "utilisation", "relation": "Desires", "tails": [" make money", " use of resources", " make a difference"]}
+{"head": "to say", "relation": "HinderedBy", "tails": [" to say", " to say ", " to say something"]}
+{"head": "to say", "relation": "isBefore", "tails": [" to say", " to say something", " to say "]}
+{"head": "to say", "relation": "isAfter", "tails": [" to be heard", " to say", " to say something"]}
+{"head": "to say", "relation": "HasSubEvent", "tails": [" to say", " to say ", " to say  something"]}
+{"head": "to say", "relation": "Causes", "tails": [" to say", " have to say", " to say something"]}
+{"head": "to say", "relation": "xReason", "tails": [" to say", " have to say", " to say something"]}
+{"head": "to reduce", "relation": "HinderedBy", "tails": [" to reduce", " to reduce  to reduce ", " to reduce "]}
+{"head": "to reduce", "relation": "isBefore", "tails": [" to reduce carbon dioxide", " to reduce waste", " to reduce carbon emissions"]}
+{"head": "to reduce", "relation": "isAfter", "tails": [" to reduce carbon dioxide in air", " to reduce carbon dioxide", " to reduce the number of calories"]}
+{"head": "to reduce", "relation": "HasSubEvent", "tails": [" to reduce", " to reduce energy use", " to reduce energy consumption"]}
+{"head": "to reduce", "relation": "Causes", "tails": [" to reduce", " to reduce carbon dioxide", " to reduce carbon emissions"]}
+{"head": "to reduce", "relation": "xReason", "tails": [" to reduce carbon dioxide", " to reduce waste", " to reduce carbon emissions"]}
+{"head": "to provide", "relation": "HinderedBy", "tails": [" to provide", " to provide ", " to provide  to"]}
+{"head": "to provide", "relation": "isBefore", "tails": [" to provide", " to provide for others", " to provide "]}
+{"head": "to provide", "relation": "isAfter", "tails": [" to be able to provide", " to provide for others", " to provide"]}
+{"head": "to provide", "relation": "HasSubEvent", "tails": [" to provide", " to provide ", " to provide  provide"]}
+{"head": "to provide", "relation": "Causes", "tails": [" to provide", " to provide for others", " to provide "]}
+{"head": "to provide", "relation": "xReason", "tails": [" to provide", " to provide for others", " to provide for people"]}
+{"head": "to power", "relation": "HinderedBy", "tails": [" to power", " power", " to power "]}
+{"head": "to power", "relation": "isBefore", "tails": [" power plant", " to power", " power generator"]}
+{"head": "to power", "relation": "isAfter", "tails": [" power", " to power", " electricity"]}
+{"head": "to power", "relation": "HasSubEvent", "tails": [" to power", " power plant", " power generator"]}
+{"head": "to power", "relation": "Causes", "tails": [" power", " power plant", " power source"]}
+{"head": "to power", "relation": "xReason", "tails": [" power", " power plant", " to power"]}
+{"head": "to announce", "relation": "HinderedBy", "tails": [" to announce", " to announce ", " to announce something"]}
+{"head": "to announce", "relation": "isBefore", "tails": [" to announce", " to announce something", " to announce the news"]}
+{"head": "to announce", "relation": "isAfter", "tails": [" announcement", " announce something", " to announce something"]}
+{"head": "to announce", "relation": "HasSubEvent", "tails": [" to announce", " make announcement", " to announce something"]}
+{"head": "to announce", "relation": "Causes", "tails": [" to announce", " to announce something", " announce something"]}
+{"head": "to announce", "relation": "xReason", "tails": [" announce something", " to announce something", " to announce"]}
+{"head": "technology", "relation": "ObjectUse", "tails": [" use as a weapon", " use in a business", " use as a tool"]}
+{"head": "technology", "relation": "AtLocation", "tails": [" computer", " internet", " computer system"]}
+{"head": "technology", "relation": "CapableOf", "tails": [" learn new things", " use computer", " learn new skills"]}
+{"head": "technology", "relation": "HasProperty", "tails": [" found in computer", " found in computers", " found in science fiction"]}
+{"head": "technology", "relation": "MadeUpOf", "tails": [" technology", " computer", " software"]}
+{"head": "technology", "relation": "NotDesires", "tails": [" learn new things", " learn new skills", " technology"]}
+{"head": "technology", "relation": "Desires", "tails": [" learn new things", " learn new skills", " technology"]}
+{"head": "solar energy", "relation": "ObjectUse", "tails": [" power a home", " power the home", " use as a flashlight"]}
+{"head": "solar energy", "relation": "AtLocation", "tails": [" solar panels", " solar panel", " solar cells"]}
+{"head": "solar energy", "relation": "CapableOf", "tails": [" power home", " power solar panels", " use as fuel"]}
+{"head": "solar energy", "relation": "HasProperty", "tails": [" solar power", " solar cells", " energy"]}
+{"head": "solar energy", "relation": "MadeUpOf", "tails": [" solar cells", " power", " solar panels"]}
+{"head": "solar energy", "relation": "NotDesires", "tails": [" solar power", " solar cells", " power the home"]}
+{"head": "solar energy", "relation": "Desires", "tails": [" solar power", " power the home", " power a home"]}
+{"head": "services", "relation": "ObjectUse", "tails": [" provide to the public", " provide to customers", " provide to the customer"]}
+{"head": "services", "relation": "AtLocation", "tails": [" office building", " office supply store", " office"]}
+{"head": "services", "relation": "CapableOf", "tails": [" pay for", " pay bills", " provide to customers"]}
+{"head": "services", "relation": "HasProperty", "tails": [" provided by government", " provided by government agencies", " provided to customers"]}
+{"head": "services", "relation": "MadeUpOf", "tails": [" services", " service", " service area"]}
+{"head": "services", "relation": "NotDesires", "tails": [" have to pay for", " have to pay", " have to do"]}
+{"head": "services", "relation": "Desires", "tails": [" have a good time", " provide to the public", " provide to customers"]}
+{"head": "reduce costs", "relation": "HinderedBy", "tails": [" save money", " make more money", " save money on things"]}
+{"head": "reduce costs", "relation": "isBefore", "tails": [" save money", " buy less expensive things", " save money on things"]}
+{"head": "reduce costs", "relation": "isAfter", "tails": [" save money", " buy less expensive things", " save money on things"]}
+{"head": "reduce costs", "relation": "HasSubEvent", "tails": [" save money", " buy less things", " buy cheaper things"]}
+{"head": "reduce costs", "relation": "Causes", "tails": [" save money", " reduce expenses", " reduce costs"]}
+{"head": "reduce costs", "relation": "xReason", "tails": [" save money", " make more money", " save money on things"]}
+{"head": "public Internet technology services islandwide", "relation": "ObjectUse", "tails": [" access the internet", " connect to the internet", " connect to the world wide web"]}
+{"head": "public Internet technology services islandwide", "relation": "AtLocation", "tails": [" internet", " internet service", " internet service provider"]}
+{"head": "public Internet technology services islandwide", "relation": "CapableOf", "tails": [" connect to internet", " connect to the internet", " access the internet"]}
+{"head": "public Internet technology services islandwide", "relation": "HasProperty", "tails": [" connected to the internet", " connected to internet", " public internet service"]}
+{"head": "public Internet technology services islandwide", "relation": "MadeUpOf", "tails": [" access to internet", " access to the internet", " internet service"]}
+{"head": "public Internet technology services islandwide", "relation": "NotDesires", "tails": [" access to the internet", " access to internet", " access to internet service"]}
+{"head": "public Internet technology services islandwide", "relation": "Desires", "tails": [" access to the internet", " access the internet", " access to internet"]}
+{"head": "provide islandwide", "relation": "HinderedBy", "tails": [" provide services to islanders", " provide for the island", " provide to islanders"]}
+{"head": "provide islandwide", "relation": "isBefore", "tails": [" provide services to islanders", " provide service to people", " provide services to people"]}
+{"head": "provide islandwide", "relation": "isAfter", "tails": [" provide service to people", " provide service to islanders", " provide for people"]}
+{"head": "provide islandwide", "relation": "HasSubEvent", "tails": [" get paid for it", " make sure everyone is safe", " make sure everyone is ok"]}
+{"head": "provide islandwide", "relation": "Causes", "tails": [" provide services to islanders", " provide services to people", " provide for people"]}
+{"head": "provide islandwide", "relation": "xReason", "tails": [" provide services to islanders", " provide services to people", " provide for people"]}
+{"head": "power points", "relation": "HinderedBy", "tails": [" power points", " power point", " powerpoint"]}
+{"head": "power points", "relation": "isBefore", "tails": [" power point slides", " powerpoint presentation", " power point slide show"]}
+{"head": "power points", "relation": "isAfter", "tails": [" computer", " presentation", " powerpoint"]}
+{"head": "power points", "relation": "HasSubEvent", "tails": [" use as a paperweight", " use as paperweight", " make presentation"]}
+{"head": "power points", "relation": "Causes", "tails": [" power point calculator", " power point slides", " power point slide show"]}
+{"head": "power points", "relation": "xReason", "tails": [" power point slides", " power point slide show", " powerpoint presentation"]}
+{"head": "points", "relation": "ObjectUse", "tails": [" get into a good school", " get into the game", " get into a good college"]}
+{"head": "points", "relation": "AtLocation", "tails": [" points", " computer", " table"]}
+{"head": "points", "relation": "CapableOf", "tails": [" point at something", " point at object", " point to something"]}
+{"head": "points", "relation": "HasProperty", "tails": [" scored on a scale", " scored on a test", " scored on the test"]}
+{"head": "points", "relation": "MadeUpOf", "tails": [" points", " point", " pointy"]}
+{"head": "points", "relation": "NotDesires", "tails": [" points", " pointy", " pointy things"]}
+{"head": "points", "relation": "Desires", "tails": [" get a promotion", " get a job", " give to others"]}
+{"head": "plans", "relation": "ObjectUse", "tails": [" make a plan", " plan a vacation", " plan a trip"]}
+{"head": "plans", "relation": "AtLocation", "tails": [" planter", " office building", " office"]}
+{"head": "plans", "relation": "CapableOf", "tails": [" plan for the future", " make plans", " plan for future events"]}
+{"head": "plans", "relation": "HasProperty", "tails": [" made up of", " made up of many parts", " made up of ideas"]}
+{"head": "plans", "relation": "MadeUpOf", "tails": [" plan", " make a plan", " planner"]}
+{"head": "plans", "relation": "NotDesires", "tails": [" make a plan", " have to do", " make plans"]}
+{"head": "plans", "relation": "Desires", "tails": [" make a plan", " have a plan", " have a good time"]}
+{"head": "order", "relation": "ObjectUse", "tails": [" order food", " order from the internet", " order food online"]}
+{"head": "order", "relation": "AtLocation", "tails": [" grocery store", " restaurant", " store"]}
+{"head": "order", "relation": "CapableOf", "tails": [" order food", " order pizza", " pay for item"]}
+{"head": "order", "relation": "HasProperty", "tails": [" ordered online", " ordered by person", " ordered from website"]}
+{"head": "order", "relation": "MadeUpOf", "tails": [" order form", " order", " order number"]}
+{"head": "order", "relation": "NotDesires", "tails": [" order food", " have to wait for", " have to wait"]}
+{"head": "order", "relation": "Desires", "tails": [" order food", " order pizza", " order from internet"]}
+{"head": "islandwide", "relation": "ObjectUse", "tails": [" have a parade", " travel to the island", " get a job"]}
+{"head": "islandwide", "relation": "AtLocation", "tails": [" island", " beach", " ocean"]}
+{"head": "islandwide", "relation": "CapableOf", "tails": [" travel to other islands", " travel to different places", " travel to island"]}
+{"head": "islandwide", "relation": "HasProperty", "tails": [" one of many islands in the world", " one of many islands on the planet", " one of many islands in the world."]}
+{"head": "islandwide", "relation": "MadeUpOf", "tails": [" island", " island", " islands"]}
+{"head": "islandwide", "relation": "NotDesires", "tails": [" have to go to the bathroom", " have to go to the store", " have to go to the doctor"]}
+{"head": "islandwide", "relation": "Desires", "tails": [" have a place to live", " have a place to sleep", " have a place to stay"]}
+{"head": "high costs", "relation": "ObjectUse", "tails": [" get a new car", " pay for a car", " get a new house"]}
+{"head": "high costs", "relation": "AtLocation", "tails": [" cost of goods", " cost of living", " high prices"]}
+{"head": "high costs", "relation": "CapableOf", "tails": [" spend too much money", " spend too much", " pay for things"]}
+{"head": "high costs", "relation": "HasProperty", "tails": [" expensive", " high prices", " cheap"]}
+{"head": "high costs", "relation": "MadeUpOf", "tails": [" cost of goods", " high prices", " cost of living"]}
+{"head": "high costs", "relation": "NotDesires", "tails": [" high prices", " cost of goods", " cost of living"]}
+{"head": "high costs", "relation": "Desires", "tails": [" high prices", " have to pay for", " have to pay"]}
+{"head": "energy", "relation": "ObjectUse", "tails": [" power the machine", " power a car", " power the car"]}
+{"head": "energy", "relation": "AtLocation", "tails": [" power plant", " electricity", " energy source"]}
+{"head": "energy", "relation": "CapableOf", "tails": [" heat up food", " power machine", " heat up water"]}
+{"head": "energy", "relation": "HasProperty", "tails": [" energy", " found in nature", " found in plants"]}
+{"head": "energy", "relation": "MadeUpOf", "tails": [" energy", " energy source", " power"]}
+{"head": "energy", "relation": "NotDesires", "tails": [" energy", " power", " heat"]}
+{"head": "energy", "relation": "Desires", "tails": [" energy", " feel good", " power"]}
+{"head": "costs", "relation": "ObjectUse", "tails": [" pay for the service", " pay for the item", " pay for things"]}
+{"head": "costs", "relation": "AtLocation", "tails": [" cost of goods", " store", " cost of things"]}
+{"head": "costs", "relation": "CapableOf", "tails": [" pay for things", " pay for it", " pay for the item"]}
+{"head": "costs", "relation": "HasProperty", "tails": [" cost of goods and services", " cost of goods", " cost of goods or services"]}
+{"head": "costs", "relation": "MadeUpOf", "tails": [" cost of goods", " cost", " cost of item"]}
+{"head": "costs", "relation": "NotDesires", "tails": [" pay for it", " pay for things", " pay for the service"]}
+{"head": "costs", "relation": "Desires", "tails": [" pay for things", " pay for it", " pay for the service"]}
+{"head": "community", "relation": "ObjectUse", "tails": [" live in", " live together in", " socialize"]}
+{"head": "community", "relation": "AtLocation", "tails": [" city", " town", " community"]}
+{"head": "community", "relation": "CapableOf", "tails": [" live in", " live together", " live in community"]}
+{"head": "community", "relation": "HasProperty", "tails": [" found in many places around the world", " found in many places", " found in many places around the world."]}
+{"head": "community", "relation": "MadeUpOf", "tails": [" community", " community building", " community center"]}
+{"head": "community", "relation": "NotDesires", "tails": [" live in", " people to live with", " people to live in"]}
+{"head": "community", "relation": "Desires", "tails": [" live in", " live together", " feel safe"]}
+{"head": "announce plans", "relation": "HinderedBy", "tails": [" announce plans", " make announcement", " make a plan"]}
+{"head": "announce plans", "relation": "isBefore", "tails": [" announce plans", " make announcement", " announce plan"]}
+{"head": "announce plans", "relation": "isAfter", "tails": [" make announcement", " announce plans", " announce event"]}
+{"head": "announce plans", "relation": "HasSubEvent", "tails": [" make announcement", " announce plans", " make plans"]}
+{"head": "announce plans", "relation": "Causes", "tails": [" announce plans", " have a plan", " make plans"]}
+{"head": "announce plans", "relation": "xReason", "tails": [" make announcement", " announce plans", " make plans"]}
+{"head": "access", "relation": "ObjectUse", "tails": [" get into the building", " get into a building", " access to the computer"]}
+{"head": "access", "relation": "AtLocation", "tails": [" computer", " internet cafe", " access to computer"]}
+{"head": "access", "relation": "CapableOf", "tails": [" get into building", " open door", " access computer"]}
+{"head": "access", "relation": "HasProperty", "tails": [" access to computer", " found in computer", " access to computers"]}
+{"head": "access", "relation": "MadeUpOf", "tails": [" access code", " access to computer", " access point"]}
+{"head": "access", "relation": "NotDesires", "tails": [" access to computer", " have to pay for", " access to information"]}
+{"head": "access", "relation": "Desires", "tails": [" access to computer", " access to information", " have access to things"]}
+{"head": "This, he said, is in order to reduce the high costs...", "relation": "xAttr", "tails": [" efficient", " careful", " economical"]}
+{"head": "This, he said, is in order to reduce the high costs...", "relation": "xWant", "tails": [" to save money", " to reduce costs", " to reduce the costs"]}
+{"head": "This, he said, is in order to reduce the high costs...", "relation": "xNeed", "tails": [" to make a plan", " none", " to have a plan"]}
+{"head": "This, he said, is in order to reduce the high costs...", "relation": "xEffect", "tails": [" is asked to reduce the costs", " none", " is asked to reduce costs"]}
+{"head": "This, he said, is in order to reduce the high costs...", "relation": "HinderedBy", "tails": [" this is in order to reduce the high costs", " this is in order to reduce costs", " this is in order to reduce the high costs."]}
+{"head": "This, he said, is in order to reduce the high costs...", "relation": "oWant", "tails": [" to get rid of the high costs", " to get rid of the old ones", " to get rid of the high costs."]}
+{"head": "This, he said, is in order to reduce the high costs...", "relation": "xReact", "tails": [" happy", " good", " satisfied"]}
+{"head": "This, he said, is in order to reduce the high costs...", "relation": "oEffect", "tails": [" none", " get a new job", " get a better deal"]}
+{"head": "This, he said, is in order to reduce the high costs...", "relation": "xIntent", "tails": [" to save money", " to save money.", " to reduce costs"]}
+{"head": "This, he said, is in order to reduce the high costs...", "relation": "oReact", "tails": [" none", " happy", " happy."]}
+{"head": "This, he said, is in order to reduce the high costs...", "relation": "isBefore", "tails": [" this is in order to reduce the high costs", " this is in order to save money", " this is in order to reduce costs"]}
+{"head": "This, he said, is in order to reduce the high costs...", "relation": "isAfter", "tails": [" this is in order to save money", " this is in order to reduce costs", " this is in order to reduce the costs"]}
+{"head": "This, he said, is in order to reduce the high costs...", "relation": "HasSubEvent", "tails": [" to reduce the cost of things", " to reduce the cost of the product", " get rid of the old ones"]}
+{"head": "This, he said, is in order to reduce the high costs...", "relation": "Causes", "tails": [" this is to be done in order to save money", " this is to be done in order to reduce costs", " this is to be done in order to reduce the costs"]}
+{"head": "This, he said, is in order to reduce the high costs...", "relation": "xReason", "tails": [" this is in order to save money", " this is in order to reduce the high costs", " this is in order to reduce costs"]}
+{"head": "Science , Energy and Technology Minister Dr Andrew Wheatley has announced plans for the utilisation of solar energy to power the more than 250 community access points (CAPs) providing public Internet and technology services islandwide.", "relation": "xAttr", "tails": [" smart", " capable", " power"]}
+{"head": "Science , Energy and Technology Minister Dr Andrew Wheatley has announced plans for the utilisation of solar energy to power the more than 250 community access points (CAPs) providing public Internet and technology services islandwide.", "relation": "xWant", "tails": [" to make sure the electricity is available for the community", " to make sure the electricity is available to the public", " to make sure the electricity is available to the people"]}
+{"head": "Science , Energy and Technology Minister Dr Andrew Wheatley has announced plans for the utilisation of solar energy to power the more than 250 community access points (CAPs) providing public Internet and technology services islandwide.", "relation": "xNeed", "tails": [" learn about solar energy", " learn about solar power", " to have a plan"]}
+{"head": "Science , Energy and Technology Minister Dr Andrew Wheatley has announced plans for the utilisation of solar energy to power the more than 250 community access points (CAPs) providing public Internet and technology services islandwide.", "relation": "xEffect", "tails": [" power the internet", " get a job", " get a job done"]}
+{"head": "Science , Energy and Technology Minister Dr Andrew Wheatley has announced plans for the utilisation of solar energy to power the more than 250 community access points (CAPs) providing public Internet and technology services islandwide.", "relation": "HinderedBy", "tails": [" electricity is not available in the island.", " science and technology", " electricity is not available in the area."]}
+{"head": "Science , Energy and Technology Minister Dr Andrew Wheatley has announced plans for the utilisation of solar energy to power the more than 250 community access points (CAPs) providing public Internet and technology services islandwide.", "relation": "oWant", "tails": [" to make sure the electricity is available", " to make sure that the electricity is available", " to make sure the electricity is available to everyone"]}
+{"head": "Science , Energy and Technology Minister Dr Andrew Wheatley has announced plans for the utilisation of solar energy to power the more than 250 community access points (CAPs) providing public Internet and technology services islandwide.", "relation": "xReact", "tails": [" happy", " power", " good"]}
+{"head": "Science , Energy and Technology Minister Dr Andrew Wheatley has announced plans for the utilisation of solar energy to power the more than 250 community access points (CAPs) providing public Internet and technology services islandwide.", "relation": "oEffect", "tails": [" get a better job", " power the internet", " none"]}
+{"head": "Science , Energy and Technology Minister Dr Andrew Wheatley has announced plans for the utilisation of solar energy to power the more than 250 community access points (CAPs) providing public Internet and technology services islandwide.", "relation": "xIntent", "tails": [" to provide electricity to the community", " to provide electricity to the people", " to be a leader in the field"]}
+{"head": "Science , Energy and Technology Minister Dr Andrew Wheatley has announced plans for the utilisation of solar energy to power the more than 250 community access points (CAPs) providing public Internet and technology services islandwide.", "relation": "oReact", "tails": [" none", " power", " electricity"]}
+{"head": "Science , Energy and Technology Minister Dr Andrew Wheatley has announced plans for the utilisation of solar energy to power the more than 250 community access points (CAPs) providing public Internet and technology services islandwide.", "relation": "isBefore", "tails": [" power the internet", " power the computers", " electricity is not available"]}
+{"head": "Science , Energy and Technology Minister Dr Andrew Wheatley has announced plans for the utilisation of solar energy to power the more than 250 community access points (CAPs) providing public Internet and technology services islandwide.", "relation": "isAfter", "tails": [" science and technology", " power the internet", " science and technology minister"]}
+{"head": "Science , Energy and Technology Minister Dr Andrew Wheatley has announced plans for the utilisation of solar energy to power the more than 250 community access points (CAPs) providing public Internet and technology services islandwide.", "relation": "HasSubEvent", "tails": [" learn about solar energy", " learn about solar power", " learn about the technology"]}
+{"head": "Science , Energy and Technology Minister Dr Andrew Wheatley has announced plans for the utilisation of solar energy to power the more than 250 community access points (CAPs) providing public Internet and technology services islandwide.", "relation": "Causes", "tails": [" science and technology", " power the internet", " science and technology minister"]}
+{"head": "Science , Energy and Technology Minister Dr Andrew Wheatley has announced plans for the utilisation of solar energy to power the more than 250 community access points (CAPs) providing public Internet and technology services islandwide.", "relation": "xReason", "tails": [" power the internet", " get a job", " power the computers"]}
+{"head": "Science , Energy Technology Minister Dr Andrew Wheatley", "relation": "ObjectUse", "tails": [" science and technology", " learn new things", " learn about the subject"]}
+{"head": "Science , Energy Technology Minister Dr Andrew Wheatley", "relation": "AtLocation", "tails": [" science lab", " science fair", " science department"]}
+{"head": "Science , Energy Technology Minister Dr Andrew Wheatley", "relation": "CapableOf", "tails": [" learn new things", " learn about the subject", " learn about energy technology"]}
+{"head": "Science , Energy Technology Minister Dr Andrew Wheatley", "relation": "HasProperty", "tails": [" science", " science and technology", " science and engineering"]}
+{"head": "Science , Energy Technology Minister Dr Andrew Wheatley", "relation": "MadeUpOf", "tails": [" science", " electricity", " energy"]}
+{"head": "Science , Energy Technology Minister Dr Andrew Wheatley", "relation": "NotDesires", "tails": [" science and technology", " science", " learn new things"]}
+{"head": "Science , Energy Technology Minister Dr Andrew Wheatley", "relation": "Desires", "tails": [" to be a leader", " to make sure the country is safe", " to be in charge"]}
+{"head": "Science", "relation": "ObjectUse", "tails": [" learn about the universe", " learn new things", " learn about the world"]}
+{"head": "Science", "relation": "AtLocation", "tails": [" science fair", " science lab", " science fiction book"]}
+{"head": "Science", "relation": "CapableOf", "tails": [" learn new things", " learn about universe", " learn about nature"]}
+{"head": "Science", "relation": "HasProperty", "tails": [" found in science books", " science", " found in science fiction movies"]}
+{"head": "Science", "relation": "MadeUpOf", "tails": [" science", " science fair", " scientific method"]}
+{"head": "Science", "relation": "NotDesires", "tails": [" learn new things", " science fiction", " learn new information"]}
+{"head": "Science", "relation": "Desires", "tails": [" learn new things", " science", " learn about nature"]}
+{"head": "Internet", "relation": "ObjectUse", "tails": [" access the internet", " connect to the internet", " search for information"]}
+{"head": "Internet", "relation": "AtLocation", "tails": [" internet cafe", " computer", " internet connection"]}
+{"head": "Internet", "relation": "CapableOf", "tails": [" search for information", " connect to internet", " search for things online"]}
+{"head": "Internet", "relation": "HasProperty", "tails": [" found in many places", " found on internet", " found on computer"]}
+{"head": "Internet", "relation": "MadeUpOf", "tails": [" internet connection", " computer", " Internet connection"]}
+{"head": "Internet", "relation": "NotDesires", "tails": [" access to internet", " search for information", " access to information"]}
+{"head": "Internet", "relation": "Desires", "tails": [" access to world wide web", " search for information", " access to internet"]}
+{"head": "CAPs", "relation": "ObjectUse", "tails": [" use as a paperweight", " use as a weapon", " use as a paper weight"]}
+{"head": "CAPs", "relation": "AtLocation", "tails": [" office supply store", " mail box", " office building"]}
+{"head": "CAPs", "relation": "CapableOf", "tails": [" use as paperweight", " use as a weapon", " use as a bookmark"]}
+{"head": "CAPs", "relation": "HasProperty", "tails": [" printed on paper", " made of metal", " printed on"]}
+{"head": "CAPs", "relation": "MadeUpOf", "tails": [" capillaries", " cap", " capillary system"]}
+{"head": "CAPs", "relation": "NotDesires", "tails": [" use as a weapon", " use as a paperweight", " use as a paper weight"]}
+{"head": "CAPs", "relation": "Desires", "tails": [" use as a weapon", " use as a paperweight", " use as a bookmark"]}
+{"head": "250 community access points", "relation": "ObjectUse", "tails": [" access the internet", " access to the internet", " access to the community"]}
+{"head": "250 community access points", "relation": "AtLocation", "tails": [" community", " community center", " computer network"]}
+{"head": "250 community access points", "relation": "CapableOf", "tails": [" have access to the internet", " have access to community", " have access to the community"]}
+{"head": "250 community access points", "relation": "HasProperty", "tails": [" found in many places", " found in many cities", " found in many countries"]}
+{"head": "250 community access points", "relation": "MadeUpOf", "tails": [" access points", " access to internet", " access to the internet"]}
+{"head": "250 community access points", "relation": "NotDesires", "tails": [" have access to the internet", " have access to community", " have access to the community"]}
+{"head": "250 community access points", "relation": "Desires", "tails": [" to be able to access the internet", " to be able to get in and out", " to be able to get in and out of buildings"]}

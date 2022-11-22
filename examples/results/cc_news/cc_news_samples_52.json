@@ -1,0 +1,135 @@
+{"head": "winning start", "relation": "ObjectUse", "tails": [" win the race", " win a race", " start a race"]}
+{"head": "winning start", "relation": "AtLocation", "tails": [" race track", " race", " racecourse"]}
+{"head": "winning start", "relation": "CapableOf", "tails": [" win race", " win the race", " start race"]}
+{"head": "winning start", "relation": "HasProperty", "tails": [" win the race", " winning race", " win race"]}
+{"head": "winning start", "relation": "MadeUpOf", "tails": [" race", " win", " start line"]}
+{"head": "winning start", "relation": "NotDesires", "tails": [" win the race", " win race", " win a race"]}
+{"head": "winning start", "relation": "Desires", "tails": [" win the race", " win a race", " win race"]}
+{"head": "weekend", "relation": "ObjectUse", "tails": [" spend time with family", " spend time with friends", " have a good time"]}
+{"head": "weekend", "relation": "AtLocation", "tails": [" vacation", " weekend", " beach"]}
+{"head": "weekend", "relation": "CapableOf", "tails": [" spend time with family", " spend time with friends", " spend time with loved ones"]}
+{"head": "weekend", "relation": "HasProperty", "tails": [" weekend", " vacation", " weekend"]}
+{"head": "weekend", "relation": "MadeUpOf", "tails": [" weekend", " vacation", " weekend"]}
+{"head": "weekend", "relation": "NotDesires", "tails": [" have fun", " weekend", " have to do"]}
+{"head": "weekend", "relation": "Desires", "tails": [" have fun", " have a good time", " have fun with friends"]}
+{"head": "to win", "relation": "HinderedBy", "tails": [" to win", " to win ", " to win the game"]}
+{"head": "to win", "relation": "isBefore", "tails": [" to win", " to win the game", " win the game"]}
+{"head": "to win", "relation": "isAfter", "tails": [" to win", " to win the game", " win the game"]}
+{"head": "to win", "relation": "HasSubEvent", "tails": [" to win", " win the game", " win"]}
+{"head": "to win", "relation": "Causes", "tails": [" to win", " win or lose", " win the game"]}
+{"head": "to win", "relation": "xReason", "tails": [" to win", " win or lose", " to win the game"]}
+{"head": "to smash", "relation": "HinderedBy", "tails": [" to smash", " to smash ", " to smash  to smash"]}
+{"head": "to smash", "relation": "isBefore", "tails": [" to smash", " to smash something", " to smash the glass"]}
+{"head": "to smash", "relation": "isAfter", "tails": [" to smash", " to break something", " to break glass"]}
+{"head": "to smash", "relation": "HasSubEvent", "tails": [" to smash", " to smash  smash  smash  smash  smash", " to smash  smash  smash  smash"]}
+{"head": "to smash", "relation": "Causes", "tails": [" to smash", " to smash  to smash", " to smash  smash  smash"]}
+{"head": "to smash", "relation": "xReason", "tails": [" to smash", " to smash something", " use as weapon"]}
+{"head": "to make", "relation": "HinderedBy", "tails": [" to make ", " to make", " to make  to make "]}
+{"head": "to make", "relation": "isBefore", "tails": [" to make", " to make a cake", " to make something"]}
+{"head": "to make", "relation": "isAfter", "tails": [" to make a cake", " to make", " to make something"]}
+{"head": "to make", "relation": "HasSubEvent", "tails": [" to make", " to make ", " to make something"]}
+{"head": "to make", "relation": "Causes", "tails": [" to make", " to make ", " to make something"]}
+{"head": "to make", "relation": "xReason", "tails": [" to make", " to make something", " to make  food"]}
+{"head": "to get", "relation": "HinderedBy", "tails": [" to get ", " to get", " to get  to get "]}
+{"head": "to get", "relation": "isBefore", "tails": [" to get", " to get ", " to get  to get "]}
+{"head": "to get", "relation": "isAfter", "tails": [" to get", " to get something", " to get "]}
+{"head": "to get", "relation": "HasSubEvent", "tails": [" to get", " to get ", " to get  to get"]}
+{"head": "to get", "relation": "Causes", "tails": [" to get", " to get  to get ", " to get "]}
+{"head": "to get", "relation": "xReason", "tails": [" to get", " to get something", " to get "]}
+{"head": "start", "relation": "ObjectUse", "tails": [" start a fire", " start the car", " start a new project"]}
+{"head": "start", "relation": "AtLocation", "tails": [" car", " start car", " start to finish"]}
+{"head": "start", "relation": "CapableOf", "tails": [" get out of car", " get out of bed", " get out of way"]}
+{"head": "start", "relation": "HasProperty", "tails": [" found in car", " start to finish", " start to stop"]}
+{"head": "start", "relation": "MadeUpOf", "tails": [" start", " start clock", " start of engine"]}
+{"head": "start", "relation": "NotDesires", "tails": [" start to stop", " start to finish", " start running"]}
+{"head": "start", "relation": "Desires", "tails": [" get started", " get going", " start to finish"]}
+{"head": "smash goals", "relation": "HinderedBy", "tails": [" use as a weapon", " play soccer", " use as a weapon."]}
+{"head": "smash goals", "relation": "isBefore", "tails": [" play soccer", " win game", " score goals"]}
+{"head": "smash goals", "relation": "isAfter", "tails": [" play soccer", " score goal", " play football"]}
+{"head": "smash goals", "relation": "HasSubEvent", "tails": [" score goal", " score goals", " hit ball"]}
+{"head": "smash goals", "relation": "Causes", "tails": [" play soccer", " play football", " make a goal"]}
+{"head": "smash goals", "relation": "xReason", "tails": [" play soccer", " score goals", " play football"]}
+{"head": "opening weekend", "relation": "ObjectUse", "tails": [" have a good time", " have a party", " have a good time at"]}
+{"head": "opening weekend", "relation": "AtLocation", "tails": [" theater", " movie", " movie theater"]}
+{"head": "opening weekend", "relation": "CapableOf", "tails": [" open to the public", " open to public", " open new store"]}
+{"head": "opening weekend", "relation": "HasProperty", "tails": [" opening night", " opening day", " opening weekend"]}
+{"head": "opening weekend", "relation": "MadeUpOf", "tails": [" opening night", " opening weekend", " opening day"]}
+{"head": "opening weekend", "relation": "NotDesires", "tails": [" opening night", " opening day", " opening weekend"]}
+{"head": "opening weekend", "relation": "Desires", "tails": [" have a good time", " have fun with friends", " opening night"]}
+{"head": "opening", "relation": "ObjectUse", "tails": [" open a door", " make a hole in the wall", " open the door"]}
+{"head": "opening", "relation": "AtLocation", "tails": [" house", " door", " store"]}
+{"head": "opening", "relation": "CapableOf", "tails": [" open door", " open box", " close door"]}
+{"head": "opening", "relation": "HasProperty", "tails": [" found in house", " found in door", " found on door"]}
+{"head": "opening", "relation": "MadeUpOf", "tails": [" opening mechanism", " opening", " door"]}
+{"head": "opening", "relation": "NotDesires", "tails": [" open door", " opening door", " opening of door"]}
+{"head": "opening", "relation": "Desires", "tails": [" open door", " opening door", " opening of door"]}
+{"head": "make Team", "relation": "HinderedBy", "tails": [" make sure everyone is on the same team", " make sure everyone is on the team", " make a team"]}
+{"head": "make Team", "relation": "isBefore", "tails": [" make sure everyone is on the same team", " make sure everyone is on the team", " make sure everyone on team is on the team"]}
+{"head": "make Team", "relation": "isAfter", "tails": [" make sure everyone is on the same team", " make sure everyone is on the team", " make sure everyone on team is on the team"]}
+{"head": "make Team", "relation": "HasSubEvent", "tails": [" make sure everyone is on the same team", " make sure everyone is on the team", " make sure everyone is on the same page"]}
+{"head": "make Team", "relation": "Causes", "tails": [" make a team", " make a good team", " make a plan"]}
+{"head": "make Team", "relation": "xReason", "tails": [" make a team", " make team", " make a plan"]}
+{"head": "goals", "relation": "ObjectUse", "tails": [" set goals for yourself", " make a goal", " set for yourself"]}
+{"head": "goals", "relation": "AtLocation", "tails": [" soccer game", " goal posts", " goal"]}
+{"head": "goals", "relation": "CapableOf", "tails": [" set goals", " score goals", " score points"]}
+{"head": "goals", "relation": "HasProperty", "tails": [" goals", " set by person", " set by personx"]}
+{"head": "goals", "relation": "MadeUpOf", "tails": [" goalposts", " goal", " goalpost"]}
+{"head": "goals", "relation": "NotDesires", "tails": [" have to work hard to achieve", " make a goal", " have to work hard to reach"]}
+{"head": "goals", "relation": "Desires", "tails": [" have a good time", " have fun", " have a goal"]}
+{"head": "West Ham United", "relation": "ObjectUse", "tails": [" play in the stadium", " play in a stadium", " play football"]}
+{"head": "West Ham United", "relation": "AtLocation", "tails": [" soccer stadium", " football stadium", " stadium"]}
+{"head": "West Ham United", "relation": "CapableOf", "tails": [" play in stadium", " play football", " play at home"]}
+{"head": "West Ham United", "relation": "HasProperty", "tails": [" one of the top clubs in the country", " one of the best teams in the country", " one of the top teams in the country"]}
+{"head": "West Ham United", "relation": "MadeUpOf", "tails": [" football team", " soccer ball", " club name"]}
+{"head": "West Ham United", "relation": "NotDesires", "tails": [" play in the stadium", " play in stadium", " have to play at home"]}
+{"head": "West Ham United", "relation": "Desires", "tails": [" have a good team", " to win the game", " play football"]}
+{"head": "Week", "relation": "ObjectUse", "tails": [" have a good time", " have fun with friends", " have a good time at"]}
+{"head": "Week", "relation": "AtLocation", "tails": [" house", " week", " home"]}
+{"head": "Week", "relation": "CapableOf", "tails": [" take shower", " have fun", " take rest"]}
+{"head": "Week", "relation": "HasProperty", "tails": [" one day a week", " one week a month", " one week per month"]}
+{"head": "Week", "relation": "MadeUpOf", "tails": [" week", " week of work", " weekly"]}
+{"head": "Week", "relation": "NotDesires", "tails": [" have to go to work", " have to go to the bathroom", " have to go to the doctor"]}
+{"head": "Week", "relation": "Desires", "tails": [" have a good time", " have fun", " have fun with friends"]}
+{"head": "Team", "relation": "ObjectUse", "tails": [" win the game", " win a game", " team up with"]}
+{"head": "Team", "relation": "AtLocation", "tails": [" team", " team room", " soccer game"]}
+{"head": "Team", "relation": "CapableOf", "tails": [" win the game", " win game", " team up with"]}
+{"head": "Team", "relation": "HasProperty", "tails": [" one of many teams", " played on team", " one of the teams"]}
+{"head": "Team", "relation": "MadeUpOf", "tails": [" team name", " team", " team jersey"]}
+{"head": "Team", "relation": "NotDesires", "tails": [" win the game", " team to lose", " team to win"]}
+{"head": "Team", "relation": "Desires", "tails": [" win the game", " team spirit", " win a game"]}
+{"head": "Premier League", "relation": "ObjectUse", "tails": [" play in", " play football", " win the league"]}
+{"head": "Premier League", "relation": "AtLocation", "tails": [" soccer game", " soccer", " soccer stadium"]}
+{"head": "Premier League", "relation": "CapableOf", "tails": [" play in", " play football", " play soccer"]}
+{"head": "Premier League", "relation": "HasProperty", "tails": [" played in English league", " played in English football league", " played in England"]}
+{"head": "Premier League", "relation": "MadeUpOf", "tails": [" soccer", " football", " soccer ball"]}
+{"head": "Premier League", "relation": "NotDesires", "tails": [" play football", " play in", " play soccer"]}
+{"head": "Premier League", "relation": "Desires", "tails": [" play football", " win the league", " play in"]}
+{"head": "MANCHESTER UNITED smashed four goals past West Ham United while Arsenal also got off to a winning start on the opening weekend of the Premier League, but who makes our Team of the Week?", "relation": "xAttr", "tails": [" proud", " happy", " talented"]}
+{"head": "MANCHESTER UNITED smashed four goals past West Ham United while Arsenal also got off to a winning start on the opening weekend of the Premier League, but who makes our Team of the Week?", "relation": "xWant", "tails": [" to win the game", " to win the league", " to win the match"]}
+{"head": "MANCHESTER UNITED smashed four goals past West Ham United while Arsenal also got off to a winning start on the opening weekend of the Premier League, but who makes our Team of the Week?", "relation": "xNeed", "tails": [" to win the game", " to win the match", " to win the game."]}
+{"head": "MANCHESTER UNITED smashed four goals past West Ham United while Arsenal also got off to a winning start on the opening weekend of the Premier League, but who makes our Team of the Week?", "relation": "xEffect", "tails": [" gets a medal", " none", " get a medal"]}
+{"head": "MANCHESTER UNITED smashed four goals past West Ham United while Arsenal also got off to a winning start on the opening weekend of the Premier League, but who makes our Team of the Week?", "relation": "HinderedBy", "tails": [" MANCHESTER", " MANCHESTER UNITED HAVE BEEN HAPPY", " MANCHESTER UNITED HAVE BEEN HAPPY."]}
+{"head": "MANCHESTER UNITED smashed four goals past West Ham United while Arsenal also got off to a winning start on the opening weekend of the Premier League, but who makes our Team of the Week?", "relation": "oWant", "tails": [" to win the game", " none", " to win the league"]}
+{"head": "MANCHESTER UNITED smashed four goals past West Ham United while Arsenal also got off to a winning start on the opening weekend of the Premier League, but who makes our Team of the Week?", "relation": "xReact", "tails": [" happy", " proud", " happy."]}
+{"head": "MANCHESTER UNITED smashed four goals past West Ham United while Arsenal also got off to a winning start on the opening weekend of the Premier League, but who makes our Team of the Week?", "relation": "oEffect", "tails": [" none", " they get a trophy", " get a medal"]}
+{"head": "MANCHESTER UNITED smashed four goals past West Ham United while Arsenal also got off to a winning start on the opening weekend of the Premier League, but who makes our Team of the Week?", "relation": "xIntent", "tails": [" to win the game", " to win the game.", " to win the league"]}
+{"head": "MANCHESTER UNITED smashed four goals past West Ham United while Arsenal also got off to a winning start on the opening weekend of the Premier League, but who makes our Team of the Week?", "relation": "oReact", "tails": [" none", " happy", " they got a win"]}
+{"head": "MANCHESTER UNITED smashed four goals past West Ham United while Arsenal also got off to a winning start on the opening weekend of the Premier League, but who makes our Team of the Week?", "relation": "isBefore", "tails": [" MANCHESTER UNITED", " MANCHESTER UNITED WALES", " MANCHESTER"]}
+{"head": "MANCHESTER UNITED smashed four goals past West Ham United while Arsenal also got off to a winning start on the opening weekend of the Premier League, but who makes our Team of the Week?", "relation": "isAfter", "tails": [" MANCHESTER UNITED", " MANCHESTER", " MANCHESTER STADIUM"]}
+{"head": "MANCHESTER UNITED smashed four goals past West Ham United while Arsenal also got off to a winning start on the opening weekend of the Premier League, but who makes our Team of the Week?", "relation": "HasSubEvent", "tails": [" win the game", " win the league", " win the match"]}
+{"head": "MANCHESTER UNITED smashed four goals past West Ham United while Arsenal also got off to a winning start on the opening weekend of the Premier League, but who makes our Team of the Week?", "relation": "Causes", "tails": [" MANCHESTER UNITED", " MANCHESTER", " MANCHESTER UNION"]}
+{"head": "MANCHESTER UNITED smashed four goals past West Ham United while Arsenal also got off to a winning start on the opening weekend of the Premier League, but who makes our Team of the Week?", "relation": "xReason", "tails": [" MANCHESTER UNITED", " MANCHESTER UNITED WALES", " MANCHESTER"]}
+{"head": "MANCHESTER UNITED", "relation": "ObjectUse", "tails": [" MANCHESTER UNITED", " MANCHESTER", " MANCHESTER UNION"]}
+{"head": "MANCHESTER UNITED", "relation": "AtLocation", "tails": [" MANCHESTER", " MANCHESTER CITY", " MANCHESTER UNITED"]}
+{"head": "MANCHESTER UNITED", "relation": "CapableOf", "tails": [" play football", " win the game", " play in the stadium"]}
+{"head": "MANCHESTER UNITED", "relation": "HasProperty", "tails": [" MANCHESTER", " MANCHESTER UNITED", " MANCHESTER UNION"]}
+{"head": "MANCHESTER UNITED", "relation": "MadeUpOf", "tails": [" MANCHESTER UNITED", " MANCHESTER", " MANCHESTER UNION"]}
+{"head": "MANCHESTER UNITED", "relation": "NotDesires", "tails": [" MANCHESTER UNITED", " MANCHESTER", " MANCHESTER UNION"]}
+{"head": "MANCHESTER UNITED", "relation": "Desires", "tails": [" to win the game", " to win a trophy", " to win the trophy"]}
+{"head": "Arsenal", "relation": "ObjectUse", "tails": [" play football", " playing football", " play in"]}
+{"head": "Arsenal", "relation": "AtLocation", "tails": [" football stadium", " soccer stadium", " football team"]}
+{"head": "Arsenal", "relation": "CapableOf", "tails": [" play football", " play in stadium", " play football game"]}
+{"head": "Arsenal", "relation": "HasProperty", "tails": [" one of the best teams in the world", " one of the best teams in world", " one of the best clubs in the world"]}
+{"head": "Arsenal", "relation": "MadeUpOf", "tails": [" arse", " football team", " soccer ball"]}
+{"head": "Arsenal", "relation": "NotDesires", "tails": [" play football", " have to defend themselves", " have to play with others"]}
+{"head": "Arsenal", "relation": "Desires", "tails": [" win the game", " play football", " win the cup"]}

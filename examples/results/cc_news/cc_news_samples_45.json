@@ -1,0 +1,148 @@
+{"head": "to speak", "relation": "HinderedBy", "tails": [" to speak", " to speak in public", " to speak to the people"]}
+{"head": "to speak", "relation": "isBefore", "tails": [" to speak", " to be heard", " listen to"]}
+{"head": "to speak", "relation": "isAfter", "tails": [" to be heard", " hear voice", " to speak"]}
+{"head": "to speak", "relation": "HasSubEvent", "tails": [" to speak", " to speak to others", " to speak in public"]}
+{"head": "to speak", "relation": "Causes", "tails": [" to speak", " to be heard", " to speak in public"]}
+{"head": "to speak", "relation": "xReason", "tails": [" to be heard", " to speak", " hear voice"]}
+{"head": "to please", "relation": "HinderedBy", "tails": [" to please", " to please others", " to be liked"]}
+{"head": "to please", "relation": "isBefore", "tails": [" to be liked", " to be nice", " to please"]}
+{"head": "to please", "relation": "isAfter", "tails": [" to be liked", " to be nice", " to be happy"]}
+{"head": "to please", "relation": "HasSubEvent", "tails": [" to please", " feel good about yourself", " to please others"]}
+{"head": "to please", "relation": "Causes", "tails": [" feel good about yourself", " to be liked", " to please"]}
+{"head": "to please", "relation": "xReason", "tails": [" to be liked", " feel good about yourself", " feel good about oneself"]}
+{"head": "to heartbreak", "relation": "HinderedBy", "tails": [" to heartbreak", " to heartbreak ", " to heartbreak  to heartbreak "]}
+{"head": "to heartbreak", "relation": "isBefore", "tails": [" to heartbreak", " to heartbreak ", " fall in love"]}
+{"head": "to heartbreak", "relation": "isAfter", "tails": [" to heartbreak", " to heartbreak ", " to heartbreak  to heartbreak "]}
+{"head": "to heartbreak", "relation": "HasSubEvent", "tails": [" to heartbreak", " to heartbreak ", " to heartbreak  to heartbreak"]}
+{"head": "to heartbreak", "relation": "Causes", "tails": [" to heartbreak", " to heartbreak ", " to heartbreak  to heartbreak "]}
+{"head": "to heartbreak", "relation": "xReason", "tails": [" to heartbreak", " to heartbreak ", " to heartbreak  to heartbreak "]}
+{"head": "to extinguish", "relation": "HinderedBy", "tails": [" to extinguish", " to extinguish the fire", " to extinguish fire"]}
+{"head": "to extinguish", "relation": "isBefore", "tails": [" to extinguish", " to extinguish fire", " to extinguish the fire"]}
+{"head": "to extinguish", "relation": "isAfter", "tails": [" to extinguish", " to extinguish fire", " to extinguish the fire"]}
+{"head": "to extinguish", "relation": "HasSubEvent", "tails": [" to extinguish", " to extinguish the fire", " to extinguish fire"]}
+{"head": "to extinguish", "relation": "Causes", "tails": [" to extinguish", " to extinguish the fire", " to extinguish fire"]}
+{"head": "to extinguish", "relation": "xReason", "tails": [" to extinguish", " to extinguish fire", " to extinguish the fire"]}
+{"head": "to do", "relation": "HinderedBy", "tails": [" to do", " to do ", " to do  to do "]}
+{"head": "to do", "relation": "isBefore", "tails": [" to do", " have to do", " to do "]}
+{"head": "to do", "relation": "isAfter", "tails": [" to do", " have to do", " to do something"]}
+{"head": "to do", "relation": "HasSubEvent", "tails": [" to do", " to do ", " get out of bed"]}
+{"head": "to do", "relation": "Causes", "tails": [" to do", " have to do", " to do "]}
+{"head": "to do", "relation": "xReason", "tails": [" to do", " have to do", " to do "]}
+{"head": "shrieks", "relation": "ObjectUse", "tails": [" make a noise", " make noise", " get attention"]}
+{"head": "shrieks", "relation": "AtLocation", "tails": [" dog", " dog's mouth", " dog's mouth open"]}
+{"head": "shrieks", "relation": "CapableOf", "tails": [" scream", " cry", " get scared"]}
+{"head": "shrieks", "relation": "HasProperty", "tails": [" none", " heard by others", " heard by many people"]}
+{"head": "shrieks", "relation": "MadeUpOf", "tails": [" shivers", " shiver", " animal"]}
+{"head": "shrieks", "relation": "NotDesires", "tails": [" none", " hear a loud noise", " hear a noise"]}
+{"head": "shrieks", "relation": "Desires", "tails": [" none", " make noise", " make a noise"]}
+{"head": "please them", "relation": "HinderedBy", "tails": [" please them", " please others", " please someone"]}
+{"head": "please them", "relation": "isBefore", "tails": [" thank them", " feel good about yourself", " thank them for coming"]}
+{"head": "please them", "relation": "isAfter", "tails": [" feel good about yourself", " thank them for coming", " thank them"]}
+{"head": "please them", "relation": "HasSubEvent", "tails": [" feel good about yourself", " ask for a favor", " feel good about self"]}
+{"head": "please them", "relation": "Causes", "tails": [" have a good time", " feel good about yourself", " feel good about themselves"]}
+{"head": "please them", "relation": "xReason", "tails": [" have a good time", " feel good about yourself", " feel good about themselves"]}
+{"head": "miseries", "relation": "ObjectUse", "tails": [" have to live with", " have to pay for", " make money"]}
+{"head": "miseries", "relation": "AtLocation", "tails": [" michigan", " michigan state", " michigan's economy"]}
+{"head": "miseries", "relation": "CapableOf", "tails": [" have to live with", " have to pay for", " get sick"]}
+{"head": "miseries", "relation": "HasProperty", "tails": [" hurtful", " bad luck", " bad things"]}
+{"head": "miseries", "relation": "MadeUpOf", "tails": [" michigan", " miseries", " moneys"]}
+{"head": "miseries", "relation": "NotDesires", "tails": [" have no money", " have to live with", " have to pay for it"]}
+{"head": "miseries", "relation": "Desires", "tails": [" have to live with", " have to pay for", " none"]}
+{"head": "love", "relation": "ObjectUse", "tails": [" love", " love someone", " love someone back"]}
+{"head": "love", "relation": "AtLocation", "tails": [" love", " heart", " love letter"]}
+{"head": "love", "relation": "CapableOf", "tails": [" feel good about yourself", " love", " love someone back"]}
+{"head": "love", "relation": "HasProperty", "tails": [" loved", " love", " good"]}
+{"head": "love", "relation": "MadeUpOf", "tails": [" love", " heart", " love heart"]}
+{"head": "love", "relation": "NotDesires", "tails": [" love", " feel good", " love to die"]}
+{"head": "love", "relation": "Desires", "tails": [" love", " feel good about yourself", " feel good"]}
+{"head": "look", "relation": "ObjectUse", "tails": [" look at", " look at something", " look away from"]}
+{"head": "look", "relation": "AtLocation", "tails": [" look at", " look at person", " look away from"]}
+{"head": "look", "relation": "CapableOf", "tails": [" look at", " open eyes", " look away"]}
+{"head": "look", "relation": "HasProperty", "tails": [" looked at", " look at", " look at person"]}
+{"head": "look", "relation": "MadeUpOf", "tails": [" look at", " look at person", " look at face"]}
+{"head": "look", "relation": "NotDesires", "tails": [" look away", " look at", " look at something"]}
+{"head": "look", "relation": "Desires", "tails": [" look at", " look at person", " look at something"]}
+{"head": "heartbreak shrieks", "relation": "HinderedBy", "tails": [" heartache", " heartbreak shrieks", " heartbreak"]}
+{"head": "heartbreak shrieks", "relation": "isBefore", "tails": [" heart breaks", " heartbreak", " heartache"]}
+{"head": "heartbreak shrieks", "relation": "isAfter", "tails": [" heart breaks", " heartbreak", " heartache"]}
+{"head": "heartbreak shrieks", "relation": "HasSubEvent", "tails": [" heart aches", " cry", " heart breaks"]}
+{"head": "heartbreak shrieks", "relation": "Causes", "tails": [" heartbroken", " heartbreak", " heartache"]}
+{"head": "heartbreak shrieks", "relation": "xReason", "tails": [" heartbreak", " heartache", " heart breaks"]}
+{"head": "flames", "relation": "ObjectUse", "tails": [" heat up food", " burn down a house", " make a fire"]}
+{"head": "flames", "relation": "AtLocation", "tails": [" hot air", " fire", " heat"]}
+{"head": "flames", "relation": "CapableOf", "tails": [" burn clothes", " burn clothing", " heat up"]}
+{"head": "flames", "relation": "HasProperty", "tails": [" burned", " hot", " heat"]}
+{"head": "flames", "relation": "MadeUpOf", "tails": [" heat", " hot air", " flame retardant"]}
+{"head": "flames", "relation": "NotDesires", "tails": [" heat", " smoke", " burn clothes"]}
+{"head": "flames", "relation": "Desires", "tails": [" heat", " burn", " smoke"]}
+{"head": "extinguish flames", "relation": "HinderedBy", "tails": [" fire extinguisher", " burn down house", " heat up"]}
+{"head": "extinguish flames", "relation": "isBefore", "tails": [" extinguish fire", " extinguish flames", " extinguish"]}
+{"head": "extinguish flames", "relation": "isAfter", "tails": [" extinguish fire", " extinguish", " extinguish flames"]}
+{"head": "extinguish flames", "relation": "HasSubEvent", "tails": [" make sure no one is hurt", " extinguish fire", " make sure no one is injured"]}
+{"head": "extinguish flames", "relation": "Causes", "tails": [" fire extinguisher", " heat up", " burn down house"]}
+{"head": "extinguish flames", "relation": "xReason", "tails": [" extinguish fire", " extinguish the fire", " extinguish flames"]}
+{"head": "do it", "relation": "HinderedBy", "tails": [" do it", " do something", " do it well"]}
+{"head": "do it", "relation": "isBefore", "tails": [" get it done", " get it over with", " have fun"]}
+{"head": "do it", "relation": "isAfter", "tails": [" get it done", " get it over with", " do it"]}
+{"head": "do it", "relation": "HasSubEvent", "tails": [" get it done", " get it over with", " do well"]}
+{"head": "do it", "relation": "Causes", "tails": [" get it done", " get it over with", " do something"]}
+{"head": "do it", "relation": "xReason", "tails": [" get it done", " get it over with", " have to do"]}
+{"head": "couple", "relation": "ObjectUse", "tails": [" have sex", " make love", " marry"]}
+{"head": "couple", "relation": "AtLocation", "tails": [" marriage", " wedding", " marriage ceremony"]}
+{"head": "couple", "relation": "CapableOf", "tails": [" marry", " get married", " marry other person"]}
+{"head": "couple", "relation": "HasProperty", "tails": [" married", " love", " one person"]}
+{"head": "couple", "relation": "MadeUpOf", "tails": [" cuckoo clock", " cuckoo's nest", " cuddle"]}
+{"head": "couple", "relation": "NotDesires", "tails": [" get married", " have sex", " marry"]}
+{"head": "couple", "relation": "Desires", "tails": [" marry", " have sex", " have fun"]}
+{"head": "bitter look", "relation": "ObjectUse", "tails": [" make fun of someone", " make fun of", " make fun of others"]}
+{"head": "bitter look", "relation": "AtLocation", "tails": [" body language", " mouth agape", " mouth"]}
+{"head": "bitter look", "relation": "CapableOf", "tails": [" look away from person", " look at someone", " look at person"]}
+{"head": "bitter look", "relation": "HasProperty", "tails": [" hurtful", " hurt feelings", " angry"]}
+{"head": "bitter look", "relation": "MadeUpOf", "tails": [" laryngitis", " laryngoscope", " laryngitis."]}
+{"head": "bitter look", "relation": "NotDesires", "tails": [" feel bad", " get angry", " make a face"]}
+{"head": "bitter look", "relation": "Desires", "tails": [" none", " get attention", " make a point"]}
+{"head": "Yet each couple extinguishes the flames of their love, as it pleases them.", "relation": "xAttr", "tails": [" romantic", " loving", " happy"]}
+{"head": "Yet each couple extinguishes the flames of their love, as it pleases them.", "relation": "xWant", "tails": [" to get married", " to be together forever", " to be happy"]}
+{"head": "Yet each couple extinguishes the flames of their love, as it pleases them.", "relation": "xNeed", "tails": [" none", " to be in love", " to be in a relationship"]}
+{"head": "Yet each couple extinguishes the flames of their love, as it pleases them.", "relation": "xEffect", "tails": [" none", " get married", " get a divorce"]}
+{"head": "Yet each couple extinguishes the flames of their love, as it pleases them.", "relation": "HinderedBy", "tails": [" none", " they are in love", " they are in a relationship"]}
+{"head": "Yet each couple extinguishes the flames of their love, as it pleases them.", "relation": "oWant", "tails": [" none", " to get married", " to be happy"]}
+{"head": "Yet each couple extinguishes the flames of their love, as it pleases them.", "relation": "xReact", "tails": [" happy", " loving", " romantic"]}
+{"head": "Yet each couple extinguishes the flames of their love, as it pleases them.", "relation": "oEffect", "tails": [" none", " get married", " get a divorce"]}
+{"head": "Yet each couple extinguishes the flames of their love, as it pleases them.", "relation": "xIntent", "tails": [" none", " to be loved", " to be with someone"]}
+{"head": "Yet each couple extinguishes the flames of their love, as it pleases them.", "relation": "oReact", "tails": [" none", " happy", " loved"]}
+{"head": "Yet each couple extinguishes the flames of their love, as it pleases them.", "relation": "isBefore", "tails": [" none", " they get married", " they get a divorce"]}
+{"head": "Yet each couple extinguishes the flames of their love, as it pleases them.", "relation": "isAfter", "tails": [" none", " love", " they get married"]}
+{"head": "Yet each couple extinguishes the flames of their love, as it pleases them.", "relation": "HasSubEvent", "tails": [" none", " get married", " get a divorce"]}
+{"head": "Yet each couple extinguishes the flames of their love, as it pleases them.", "relation": "Causes", "tails": [" happy", " romantic", " love"]}
+{"head": "Yet each couple extinguishes the flames of their love, as it pleases them.", "relation": "xReason", "tails": [" none", " they get a divorce", " they get married"]}
+{"head": "Some do it with a bitter look,", "relation": "xAttr", "tails": [" angry", " bitter", " mean"]}
+{"head": "Some do it with a bitter look,", "relation": "xWant", "tails": [" to get away from the situation", " to get away with it", " to get away from the other person"]}
+{"head": "Some do it with a bitter look,", "relation": "xNeed", "tails": [" none", " to be angry", " to get angry"]}
+{"head": "Some do it with a bitter look,", "relation": "xEffect", "tails": [" none", " get angry", " get angry at"]}
+{"head": "Some do it with a bitter look,", "relation": "HinderedBy", "tails": [" some do it with a smile", " some do it with a smile.", " some do it with a smile on their face"]}
+{"head": "Some do it with a bitter look,", "relation": "oWant", "tails": [" none", " to get away from the situation", " to get away from him"]}
+{"head": "Some do it with a bitter look,", "relation": "xReact", "tails": [" angry", " sad", " hurtful"]}
+{"head": "Some do it with a bitter look,", "relation": "oEffect", "tails": [" none", " get angry", " get angry at"]}
+{"head": "Some do it with a bitter look,", "relation": "xIntent", "tails": [" none", " to be mean", " to show anger"]}
+{"head": "Some do it with a bitter look,", "relation": "oReact", "tails": [" none", " angry", " hurt"]}
+{"head": "Some do it with a bitter look,", "relation": "isBefore", "tails": [" none", " some do it with a smile", " some do it with a smile."]}
+{"head": "Some do it with a bitter look,", "relation": "isAfter", "tails": [" none", " some do it with a smile", " some do it with a smile."]}
+{"head": "Some do it with a bitter look,", "relation": "HasSubEvent", "tails": [" none", " get angry", " get angry at"]}
+{"head": "Some do it with a bitter look,", "relation": "Causes", "tails": [" some do it with a smile", " none", " some do it with a smile."]}
+{"head": "Some do it with a bitter look,", "relation": "xReason", "tails": [" none", " some do it with a smile", " some do it with a smile."]}
+{"head": "Other miseries only speak but heartbreak shrieks out.", "relation": "xAttr", "tails": [" sad", " emotional", " broken"]}
+{"head": "Other miseries only speak but heartbreak shrieks out.", "relation": "xWant", "tails": [" to cry", " cry", " to be alone"]}
+{"head": "Other miseries only speak but heartbreak shrieks out.", "relation": "xNeed", "tails": [" none", " to be in pain", " to be sad"]}
+{"head": "Other miseries only speak but heartbreak shrieks out.", "relation": "xEffect", "tails": [" none", " heart breaks", " cries"]}
+{"head": "Other miseries only speak but heartbreak shrieks out.", "relation": "HinderedBy", "tails": [" Other miseries don't speak.", " Other miseries don't speak to them.", " Other miseries are silent."]}
+{"head": "Other miseries only speak but heartbreak shrieks out.", "relation": "oWant", "tails": [" none", " to get away from it", " to get away from the pain"]}
+{"head": "Other miseries only speak but heartbreak shrieks out.", "relation": "xReact", "tails": [" sad", " sorrowful", " none"]}
+{"head": "Other miseries only speak but heartbreak shrieks out.", "relation": "oEffect", "tails": [" none", " other miseries do not speak.", " other miseries do not speak to them"]}
+{"head": "Other miseries only speak but heartbreak shrieks out.", "relation": "xIntent", "tails": [" none", " other miseries to speak.", " other miseries to speak"]}
+{"head": "Other miseries only speak but heartbreak shrieks out.", "relation": "oReact", "tails": [" none", " sad", " hurt"]}
+{"head": "Other miseries only speak but heartbreak shrieks out.", "relation": "isBefore", "tails": [" none", " other miseries don't speak", " other miseries don't speak."]}
+{"head": "Other miseries only speak but heartbreak shrieks out.", "relation": "isAfter", "tails": [" none", " other miseries do not speak", " other miseries don't speak"]}
+{"head": "Other miseries only speak but heartbreak shrieks out.", "relation": "HasSubEvent", "tails": [" none", " other miseries do not speak", " other miseries don't speak"]}
+{"head": "Other miseries only speak but heartbreak shrieks out.", "relation": "Causes", "tails": [" other miseries do not speak", " other miseries don't speak", " other miseries do not speak."]}
+{"head": "Other miseries only speak but heartbreak shrieks out.", "relation": "xReason", "tails": [" none", " other miseries don't speak", " other miseries don't speak."]}

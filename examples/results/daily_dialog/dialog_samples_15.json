@@ -1,0 +1,129 @@
+{"head": "to have", "relation": "HinderedBy", "tails": [" to have", " to have ", " to have  to have"]}
+{"head": "to have", "relation": "isBefore", "tails": [" to have", " to have ", " to have  a good time"]}
+{"head": "to have", "relation": "isAfter", "tails": [" to have something to eat", " to have", " to have something to drink"]}
+{"head": "to have", "relation": "HasSubEvent", "tails": [" to have", " to have ", " to have  have"]}
+{"head": "to have", "relation": "Causes", "tails": [" to have", " to have ", " to have  "]}
+{"head": "to have", "relation": "xReason", "tails": [" to have", " to have something to eat", " to have "]}
+{"head": "maps", "relation": "ObjectUse", "tails": [" get to the location", " find the way to the restaurant", " find the way to the store"]}
+{"head": "maps", "relation": "AtLocation", "tails": [" mapquest", " mapquestions", " map book"]}
+{"head": "maps", "relation": "CapableOf", "tails": [" find way home", " find way to destination", " find way to place"]}
+{"head": "maps", "relation": "HasProperty", "tails": [" found on map", " found on mapquest", " found on maps"]}
+{"head": "maps", "relation": "MadeUpOf", "tails": [" map", " map of country", " map of world"]}
+{"head": "maps", "relation": "NotDesires", "tails": [" get lost", " get lost on the way", " find way to destination"]}
+{"head": "maps", "relation": "Desires", "tails": [" find way to destination", " find way home", " find way to place"]}
+{"head": "have maps", "relation": "HinderedBy", "tails": [" know where to go", " have a map", " have a map book"]}
+{"head": "have maps", "relation": "isBefore", "tails": [" know where to go", " find way to destination", " find way home"]}
+{"head": "have maps", "relation": "isAfter", "tails": [" know where to go", " find way to destination", " find way to place"]}
+{"head": "have maps", "relation": "HasSubEvent", "tails": [" know where to go", " find way to destination", " find way"]}
+{"head": "have maps", "relation": "Causes", "tails": [" know where to go", " know how to get there", " know how to get to destination"]}
+{"head": "have maps", "relation": "xReason", "tails": [" know where to go", " know how to get there", " know how to get to destination"]}
+{"head": "downtown area", "relation": "ObjectUse", "tails": [" downtown", " downtown area", " walk around"]}
+{"head": "downtown area", "relation": "AtLocation", "tails": [" city", " downtown", " town"]}
+{"head": "downtown area", "relation": "CapableOf", "tails": [" walk around", " walk down street", " walk down main street"]}
+{"head": "downtown area", "relation": "HasProperty", "tails": [" downtown", " downtown area", " found in cities"]}
+{"head": "downtown area", "relation": "MadeUpOf", "tails": [" downtown", " downtown area", " city"]}
+{"head": "downtown area", "relation": "NotDesires", "tails": [" downtown", " downtown area", " city"]}
+{"head": "downtown area", "relation": "Desires", "tails": [" have a place to live", " downtown", " have a nice place to live"]}
+{"head": "downtown", "relation": "ObjectUse", "tails": [" downtown", " walk around", " downtown area"]}
+{"head": "downtown", "relation": "AtLocation", "tails": [" city", " downtown", " town"]}
+{"head": "downtown", "relation": "CapableOf", "tails": [" walk down street", " walk down main street", " walk around"]}
+{"head": "downtown", "relation": "HasProperty", "tails": [" downtown", " city", " downtown area"]}
+{"head": "downtown", "relation": "MadeUpOf", "tails": [" downtown", " city", " downtown area"]}
+{"head": "downtown", "relation": "NotDesires", "tails": [" downtown", " city", " downtown "]}
+{"head": "downtown", "relation": "Desires", "tails": [" downtown", " downtown area", " city"]}
+{"head": "charge", "relation": "ObjectUse", "tails": [" pay for the service", " charge for service", " pay for the ticket"]}
+{"head": "charge", "relation": "AtLocation", "tails": [" charge card", " bank account", " car"]}
+{"head": "charge", "relation": "CapableOf", "tails": [" charge for service", " pay for service", " pay for ticket"]}
+{"head": "charge", "relation": "HasProperty", "tails": [" charge for service", " charged to customer", " charged to person"]}
+{"head": "charge", "relation": "MadeUpOf", "tails": [" charge", " charge card", " charge to car"]}
+{"head": "charge", "relation": "NotDesires", "tails": [" charge for service", " pay for service", " pay for the service"]}
+{"head": "charge", "relation": "Desires", "tails": [" charge for service", " pay for service", " pay for the service"]}
+{"head": "area", "relation": "ObjectUse", "tails": [" have a place to sleep", " have a place to live", " have a place to sit"]}
+{"head": "area", "relation": "AtLocation", "tails": [" city", " town", " area"]}
+{"head": "area", "relation": "CapableOf", "tails": [" find place to sleep", " find place to live", " find place to sit"]}
+{"head": "area", "relation": "HasProperty", "tails": [" found in many places", " found in", " found in many countries"]}
+{"head": "area", "relation": "MadeUpOf", "tails": [" surface of earth", " area", " surface of body"]}
+{"head": "area", "relation": "NotDesires", "tails": [" have to clean up", " have to clean up after", " have to clean up after themselves"]}
+{"head": "area", "relation": "Desires", "tails": [" live in", " living in", " area of interest"]}
+{"head": "Yes , here you are .", "relation": "xAttr", "tails": [" happy", " aware", " good"]}
+{"head": "Yes , here you are .", "relation": "xWant", "tails": [" to go home", " to go to the party", " to go to the bathroom"]}
+{"head": "Yes , here you are .", "relation": "xNeed", "tails": [" none", " find out what is going on", " find out where you are"]}
+{"head": "Yes , here you are .", "relation": "xEffect", "tails": [" none", " get out of the car", " get out of the way"]}
+{"head": "Yes , here you are .", "relation": "HinderedBy", "tails": [" none", " yes", " yes you are"]}
+{"head": "Yes , here you are .", "relation": "oWant", "tails": [" none", " to greet you", " to be with you"]}
+{"head": "Yes , here you are .", "relation": "xReact", "tails": [" happy", " happy.", " good"]}
+{"head": "Yes , here you are .", "relation": "oEffect", "tails": [" none", " they get a hug from him", " they get to know them better"]}
+{"head": "Yes , here you are .", "relation": "xIntent", "tails": [" none", " to be with someone", " to be with them"]}
+{"head": "Yes , here you are .", "relation": "oReact", "tails": [" none", " happy", " happy."]}
+{"head": "Yes , here you are .", "relation": "isBefore", "tails": [" none", " yes", " have fun"]}
+{"head": "Yes , here you are .", "relation": "isAfter", "tails": [" none", " yes", " have fun"]}
+{"head": "Yes , here you are .", "relation": "HasSubEvent", "tails": [" none", " get out of the car", " get out of car"]}
+{"head": "Yes , here you are .", "relation": "Causes", "tails": [" none", " yes", " yes you are"]}
+{"head": "Yes , here you are .", "relation": "xReason", "tails": [" none", " yes", " have fun"]}
+{"head": "Thanks so much .", "relation": "xAttr", "tails": [" grateful", " thankful", " generous"]}
+{"head": "Thanks so much .", "relation": "xWant", "tails": [" to thank them for it", " to thank them", " to thank them for their service"]}
+{"head": "Thanks so much .", "relation": "xNeed", "tails": [" thank them for it", " none", " to have received a gift"]}
+{"head": "Thanks so much .", "relation": "xEffect", "tails": [" none", " thank you", " thank them"]}
+{"head": "Thanks so much .", "relation": "HinderedBy", "tails": [" Thank you.", " Thank you", " thank you"]}
+{"head": "Thanks so much .", "relation": "oWant", "tails": [" to thank them for it", " to thank them", " to thank them for their service"]}
+{"head": "Thanks so much .", "relation": "xReact", "tails": [" happy", " grateful", " thankful"]}
+{"head": "Thanks so much .", "relation": "oEffect", "tails": [" none", " thank them", " thanks them"]}
+{"head": "Thanks so much .", "relation": "xIntent", "tails": [" to be helpful", " to show appreciation", " to be thanked"]}
+{"head": "Thanks so much .", "relation": "oReact", "tails": [" none", " grateful", " thankful"]}
+{"head": "Thanks so much .", "relation": "isBefore", "tails": [" thank you", " Thank you", " Thank you."]}
+{"head": "Thanks so much .", "relation": "isAfter", "tails": [" PersonY gives PersonY a gift.", " PersonY gives PersonY a hug.", " thank you"]}
+{"head": "Thanks so much .", "relation": "HasSubEvent", "tails": [" thank them for it", " thank them", " thank them for the help"]}
+{"head": "Thanks so much .", "relation": "Causes", "tails": [" Thank you.", " thank you", " Thank you"]}
+{"head": "Thanks so much .", "relation": "xReason", "tails": [" Thank you.", " thank you", " Thank you"]}
+{"head": "Thanks", "relation": "ObjectUse", "tails": [" thank them for it", " give a gift", " give a hug"]}
+{"head": "Thanks", "relation": "AtLocation", "tails": [" mail box", " house", " store"]}
+{"head": "Thanks", "relation": "CapableOf", "tails": [" say thank you", " give thanks", " thank for the help"]}
+{"head": "Thanks", "relation": "HasProperty", "tails": [" appreciated", " thanks", " good"]}
+{"head": "Thanks", "relation": "MadeUpOf", "tails": [" thank you", " thanks", " thank you."]}
+{"head": "Thanks", "relation": "NotDesires", "tails": [" thank you", " give thanks", " thank them"]}
+{"head": "Thanks", "relation": "Desires", "tails": [" feel good about yourself", " thank them for it", " thank you"]}
+{"head": "It's free of charge .", "relation": "xAttr", "tails": [" free", " generous", " giving"]}
+{"head": "It's free of charge .", "relation": "xWant", "tails": [" to give it to someone else", " to give it to someone", " to use it"]}
+{"head": "It's free of charge .", "relation": "xNeed", "tails": [" to have a car", " to buy something", " to get a job"]}
+{"head": "It's free of charge .", "relation": "xEffect", "tails": [" it's free of charge", " it's free of cost", " it's free of charge."]}
+{"head": "It's free of charge .", "relation": "HinderedBy", "tails": [" it's free of charge", " it's not free of charge", " it's free of cost"]}
+{"head": "It's free of charge .", "relation": "oWant", "tails": [" none", " to use it", " to give it to them"]}
+{"head": "It's free of charge .", "relation": "xReact", "tails": [" free", " happy", " good"]}
+{"head": "It's free of charge .", "relation": "oEffect", "tails": [" none", " get a new car", " they get a new car"]}
+{"head": "It's free of charge .", "relation": "xIntent", "tails": [" none", " to help others", " to be free"]}
+{"head": "It's free of charge .", "relation": "oReact", "tails": [" none", " happy", " grateful"]}
+{"head": "It's free of charge .", "relation": "isBefore", "tails": [" it's free of charge", " pay for it", " it's free of cost"]}
+{"head": "It's free of charge .", "relation": "isAfter", "tails": [" it's free of charge", " pay for it", " it's free of cost"]}
+{"head": "It's free of charge .", "relation": "HasSubEvent", "tails": [" pay for it", " pay for the service", " pay for the item"]}
+{"head": "It's free of charge .", "relation": "Causes", "tails": [" it's free of charge", " it's free of cost", " it's free"]}
+{"head": "It's free of charge .", "relation": "xReason", "tails": [" it's free of charge", " it's free of cost", " it's free"]}
+{"head": "How much is it ?", "relation": "xAttr", "tails": [" rich", " cheap", " curious"]}
+{"head": "How much is it ?", "relation": "xWant", "tails": [" to pay for it", " to buy it", " to buy something"]}
+{"head": "How much is it ?", "relation": "xNeed", "tails": [" none", " to buy something", " buy something"]}
+{"head": "How much is it ?", "relation": "xEffect", "tails": [" none", " buys something", " buys a car"]}
+{"head": "How much is it ?", "relation": "HinderedBy", "tails": [" how much is it", " how much", " how much it is"]}
+{"head": "How much is it ?", "relation": "oWant", "tails": [" none", " to pay for it", " to buy it"]}
+{"head": "How much is it ?", "relation": "xReact", "tails": [" happy", " good", " happy."]}
+{"head": "How much is it ?", "relation": "oEffect", "tails": [" none", " they get a receipt", " they buy it"]}
+{"head": "How much is it ?", "relation": "xIntent", "tails": [" none", " to buy something", " to buy a car"]}
+{"head": "How much is it ?", "relation": "oReact", "tails": [" none", " happy", " happy."]}
+{"head": "How much is it ?", "relation": "isBefore", "tails": [" how much is it", " how much", " how much it is"]}
+{"head": "How much is it ?", "relation": "isAfter", "tails": [" how much is it", " how much it is", " how much"]}
+{"head": "How much is it ?", "relation": "HasSubEvent", "tails": [" pay for it", " pay for the item", " buy something"]}
+{"head": "How much is it ?", "relation": "Causes", "tails": [" how much is it", " how much", " how much it is"]}
+{"head": "How much is it ?", "relation": "xReason", "tails": [" how much is it", " how much", " how much it is"]}
+{"head": "Do you have maps of downtown area ?", "relation": "xAttr", "tails": [" helpful", " curious", " knowledgeable"]}
+{"head": "Do you have maps of downtown area ?", "relation": "xWant", "tails": [" to look at the map", " to get directions", " to find a map"]}
+{"head": "Do you have maps of downtown area ?", "relation": "xNeed", "tails": [" find out where to go", " to have a map", " find a map"]}
+{"head": "Do you have maps of downtown area ?", "relation": "xEffect", "tails": [" get lost", " get lost on the way", " get lost in the city"]}
+{"head": "Do you have maps of downtown area ?", "relation": "HinderedBy", "tails": [" do not have a map", " do not know where to go", " do not want to get lost"]}
+{"head": "Do you have maps of downtown area ?", "relation": "oWant", "tails": [" to ask for directions", " none", " to ask for a map"]}
+{"head": "Do you have maps of downtown area ?", "relation": "xReact", "tails": [" know what to look for", " know where to go", " know how to get there"]}
+{"head": "Do you have maps of downtown area ?", "relation": "oEffect", "tails": [" none", " get lost", " find way around"]}
+{"head": "Do you have maps of downtown area ?", "relation": "xIntent", "tails": [" to know where to go", " none", " to know where to go."]}
+{"head": "Do you have maps of downtown area ?", "relation": "oReact", "tails": [" none", " informed", " happy"]}
+{"head": "Do you have maps of downtown area ?", "relation": "isBefore", "tails": [" do a good job", " do research on the area", " do a good job of it"]}
+{"head": "Do you have maps of downtown area ?", "relation": "isAfter", "tails": [" do not know where to go", " do a good job", " do not know where to start"]}
+{"head": "Do you have maps of downtown area ?", "relation": "HasSubEvent", "tails": [" get lost", " look at map", " look at the map"]}
+{"head": "Do you have maps of downtown area ?", "relation": "Causes", "tails": [" do not know where to go", " do not want to get lost", " do not have a map"]}
+{"head": "Do you have maps of downtown area ?", "relation": "xReason", "tails": [" do not know where to go", " do not want to get lost", " do not have a map"]}

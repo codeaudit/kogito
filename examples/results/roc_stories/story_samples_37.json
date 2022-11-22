@@ -1,0 +1,225 @@
+{"head": "week", "relation": "ObjectUse", "tails": [" go on vacation", " go to the beach", " go to the doctor"]}
+{"head": "week", "relation": "AtLocation", "tails": [" week", " house", " vacation"]}
+{"head": "week", "relation": "CapableOf", "tails": [" go on vacation", " go to doctor", " go to work"]}
+{"head": "week", "relation": "HasProperty", "tails": [" one day a week", " one day per week", " two weeks"]}
+{"head": "week", "relation": "MadeUpOf", "tails": [" week", " weekdays", " week of work"]}
+{"head": "week", "relation": "NotDesires", "tails": [" get sick", " have to work", " week"]}
+{"head": "week", "relation": "Desires", "tails": [" have fun with friends", " have fun", " week of work"]}
+{"head": "to reverse", "relation": "HinderedBy", "tails": [" to reverse", " to reverse ", " to reverse the car"]}
+{"head": "to reverse", "relation": "isBefore", "tails": [" to reverse the car", " to reverse", " to reverse car"]}
+{"head": "to reverse", "relation": "isAfter", "tails": [" to turn the car", " to turn on the engine", " to turn on the car"]}
+{"head": "to reverse", "relation": "HasSubEvent", "tails": [" to reverse  reverse  reverse  reverse  reverse  reverse  reverse  reverse  reverse  reverse  reverse", " to reverse  reverse  reverse  reverse  reverse  reverse  reverse  reverse  reverse  reverse", " to reverse  reverse  reverse  reverse  reverse  reverse  reverse  reverse  reverse"]}
+{"head": "to reverse", "relation": "Causes", "tails": [" to reverse", " change direction", " to reverse "]}
+{"head": "to reverse", "relation": "xReason", "tails": [" to reverse", " to reverse the car", " to reverse  to reverse "]}
+{"head": "to refuse", "relation": "HinderedBy", "tails": [" to refuse", " to refuse ", " to refuse  to refuse "]}
+{"head": "to refuse", "relation": "isBefore", "tails": [" to refuse", " to refuse something", " to refuse to accept"]}
+{"head": "to refuse", "relation": "isAfter", "tails": [" to refuse", " refuse to eat", " to refuse to accept"]}
+{"head": "to refuse", "relation": "HasSubEvent", "tails": [" to refuse", " to refuse  refuse  refuse  refuse  refuse", " to refuse  refuse  refuse  refuse"]}
+{"head": "to refuse", "relation": "Causes", "tails": [" refuse to do something", " to refuse", " refuse to do"]}
+{"head": "to refuse", "relation": "xReason", "tails": [" refuse to do something", " to refuse", " to refuse to do something"]}
+{"head": "to overdrafte", "relation": "HinderedBy", "tails": [" to overdrafte", " to overdrafte ", " to overdraft"]}
+{"head": "to overdrafte", "relation": "isBefore", "tails": [" to overdrafte", " to overdrafte ", " to overdraft"]}
+{"head": "to overdrafte", "relation": "isAfter", "tails": [" to overdrafte", " to overdraft", " to overdrafte "]}
+{"head": "to overdrafte", "relation": "HasSubEvent", "tails": [" to overdrafte", " to overdrafte ", " to overdrafte something"]}
+{"head": "to overdrafte", "relation": "Causes", "tails": [" to overdrafte", " to overdraft", " to overdrafte something"]}
+{"head": "to overdrafte", "relation": "xReason", "tails": [" to overdrafte", " to overdrafte ", " to overdrafte something"]}
+{"head": "to make", "relation": "HinderedBy", "tails": [" to make ", " to make", " to make  to make "]}
+{"head": "to make", "relation": "isBefore", "tails": [" to make", " to make a cake", " to make something"]}
+{"head": "to make", "relation": "isAfter", "tails": [" to make a cake", " to make", " to make something"]}
+{"head": "to make", "relation": "HasSubEvent", "tails": [" to make", " to make ", " to make something"]}
+{"head": "to make", "relation": "Causes", "tails": [" to make", " to make ", " to make something"]}
+{"head": "to make", "relation": "xReason", "tails": [" to make", " to make something", " to make  food"]}
+{"head": "to have", "relation": "HinderedBy", "tails": [" to have", " to have ", " to have  to have"]}
+{"head": "to have", "relation": "isBefore", "tails": [" to have", " to have ", " to have  a good time"]}
+{"head": "to have", "relation": "isAfter", "tails": [" to have something to eat", " to have", " to have something to drink"]}
+{"head": "to have", "relation": "HasSubEvent", "tails": [" to have", " to have ", " to have  have"]}
+{"head": "to have", "relation": "Causes", "tails": [" to have", " to have ", " to have  "]}
+{"head": "to have", "relation": "xReason", "tails": [" to have", " to have something to eat", " to have "]}
+{"head": "to charge", "relation": "HinderedBy", "tails": [" to charge", " to charge ", " to charge  to charge "]}
+{"head": "to charge", "relation": "isBefore", "tails": [" to charge", " to charge the phone", " to charge phone"]}
+{"head": "to charge", "relation": "isAfter", "tails": [" pay for the service", " to charge", " pay for the item"]}
+{"head": "to charge", "relation": "HasSubEvent", "tails": [" to charge", " to charge ", " get money from bank"]}
+{"head": "to charge", "relation": "Causes", "tails": [" to charge", " to charge ", " to charge the phone"]}
+{"head": "to charge", "relation": "xReason", "tails": [" to charge", " power", " to charge "]}
+{"head": "reverse half", "relation": "HinderedBy", "tails": [" reverse half", " reverse the other half", " reverse reverse half"]}
+{"head": "reverse half", "relation": "isBefore", "tails": [" reverse half", " reverse reverse half", " reverse the other half"]}
+{"head": "reverse half", "relation": "isAfter", "tails": [" reverse half", " reverse reverse half", " reverse half of half"]}
+{"head": "reverse half", "relation": "HasSubEvent", "tails": [" cut in half", " reverse half", " reverse the reverse half"]}
+{"head": "reverse half", "relation": "Causes", "tails": [" reverse half", " reverse the other half", " reverse reverse half"]}
+{"head": "reverse half", "relation": "xReason", "tails": [" reverse half", " reverse reverse half", " reverse reverse"]}
+{"head": "restaurant", "relation": "ObjectUse", "tails": [" eating", " eating food", " serving food"]}
+{"head": "restaurant", "relation": "AtLocation", "tails": [" restaurant", " city", " town"]}
+{"head": "restaurant", "relation": "CapableOf", "tails": [" order food", " eat food", " eat dinner"]}
+{"head": "restaurant", "relation": "HasProperty", "tails": [" found in many cities", " found in", " found in many places"]}
+{"head": "restaurant", "relation": "MadeUpOf", "tails": [" restaurant", " food", " eating"]}
+{"head": "restaurant", "relation": "NotDesires", "tails": [" eating food", " eat food", " eating"]}
+{"head": "restaurant", "relation": "Desires", "tails": [" eating food", " eat food", " eating"]}
+{"head": "purchases", "relation": "ObjectUse", "tails": [" make a purchase", " make money", " get a new car"]}
+{"head": "purchases", "relation": "AtLocation", "tails": [" store", " wallet", " shop"]}
+{"head": "purchases", "relation": "CapableOf", "tails": [" pay cashier", " pay for item", " pay for goods"]}
+{"head": "purchases", "relation": "HasProperty", "tails": [" made with cash", " bought with money", " made with money"]}
+{"head": "purchases", "relation": "MadeUpOf", "tails": [" paypal", " purchase receipt", " purchase card"]}
+{"head": "purchases", "relation": "NotDesires", "tails": [" have less money", " have to pay for", " have less money than before"]}
+{"head": "purchases", "relation": "Desires", "tails": [" make money", " make a purchase", " make a good impression"]}
+{"head": "overdrafte account", "relation": "HinderedBy", "tails": [" overdrafte account", " overspend", " overdrafte accounts"]}
+{"head": "overdrafte account", "relation": "isBefore", "tails": [" overspend", " overspend money", " get a new job"]}
+{"head": "overdrafte account", "relation": "isAfter", "tails": [" overspend", " overspend money", " money in bank account"]}
+{"head": "overdrafte account", "relation": "HasSubEvent", "tails": [" get a new account", " get a loan", " get a new job"]}
+{"head": "overdrafte account", "relation": "Causes", "tails": [" overspend", " overspend money", " overspend account"]}
+{"head": "overdrafte account", "relation": "xReason", "tails": [" overspend", " overspend money", " overspend account"]}
+{"head": "overdraft fees", "relation": "ObjectUse", "tails": [" pay for a new car", " pay for a car", " get a loan"]}
+{"head": "overdraft fees", "relation": "AtLocation", "tails": [" bank", " bank account", " debit card"]}
+{"head": "overdraft fees", "relation": "CapableOf", "tails": [" pay for a new car", " pay for the service", " pay for a car"]}
+{"head": "overdraft fees", "relation": "HasProperty", "tails": [" charged to bank account", " charged to account", " expensive to pay for"]}
+{"head": "overdraft fees", "relation": "MadeUpOf", "tails": [" overdraft", " debit card", " money"]}
+{"head": "overdraft fees", "relation": "NotDesires", "tails": [" have to pay", " have to pay back", " have to pay for"]}
+{"head": "overdraft fees", "relation": "Desires", "tails": [" have less money", " have to pay", " pay for the service"]}
+{"head": "overdraft", "relation": "ObjectUse", "tails": [" get drunk at a party", " get drunk at a bar", " get drunk"]}
+{"head": "overdraft", "relation": "AtLocation", "tails": [" medicine chest", " gas station", " water"]}
+{"head": "overdraft", "relation": "CapableOf", "tails": [" drink too much", " drink too much coffee", " drink too much alcohol"]}
+{"head": "overdraft", "relation": "HasProperty", "tails": [" bad for your health", " overdrawnness", " bad for health"]}
+{"head": "overdraft", "relation": "MadeUpOf", "tails": [" overdraft", " water", " overdraft"]}
+{"head": "overdraft", "relation": "NotDesires", "tails": [" bad breath", " feel sick", " overwork"]}
+{"head": "overdraft", "relation": "Desires", "tails": [" have to go to the bathroom", " have to go to hospital", " have to go to the doctor"]}
+{"head": "mistake", "relation": "ObjectUse", "tails": [" make a mistake", " make a mistake again", " make a bad decision"]}
+{"head": "mistake", "relation": "AtLocation", "tails": [" mistake", " school", " office building"]}
+{"head": "mistake", "relation": "CapableOf", "tails": [" make mistake", " make mistake again", " make wrong decision"]}
+{"head": "mistake", "relation": "HasProperty", "tails": [" mistake", " bad idea", " bad decision"]}
+{"head": "mistake", "relation": "MadeUpOf", "tails": [" mistake", " error", " mistake in making"]}
+{"head": "mistake", "relation": "NotDesires", "tails": [" mistake", " make mistake", " make mistake again"]}
+{"head": "mistake", "relation": "Desires", "tails": [" mistake", " make mistake", " make mistake again"]}
+{"head": "make purchases", "relation": "HinderedBy", "tails": [" have money", " make money", " buy things"]}
+{"head": "make purchases", "relation": "isBefore", "tails": [" pay cashier", " pay for items", " pay for goods"]}
+{"head": "make purchases", "relation": "isAfter", "tails": [" pay cashier", " pay for items", " pay for goods"]}
+{"head": "make purchases", "relation": "HasSubEvent", "tails": [" pay cashier", " pay for items", " pay for item"]}
+{"head": "make purchases", "relation": "Causes", "tails": [" have money", " make money", " buy things"]}
+{"head": "make purchases", "relation": "xReason", "tails": [" have money", " have money to spend", " have money in bank account"]}
+{"head": "hundreds", "relation": "ObjectUse", "tails": [" pay for a car", " pay for the service", " pay for things"]}
+{"head": "hundreds", "relation": "AtLocation", "tails": [" house", " car", " school"]}
+{"head": "hundreds", "relation": "CapableOf", "tails": [" pay taxes", " pay rent", " pay for things"]}
+{"head": "hundreds", "relation": "HasProperty", "tails": [" hundreds of thousands of people", " hundreds of thousands of dollars", " hundreds of thousands"]}
+{"head": "hundreds", "relation": "MadeUpOf", "tails": [" one hundred and fifty thousand", " one hundred and fifty", " number of people"]}
+{"head": "hundreds", "relation": "NotDesires", "tails": [" have to go to the doctor", " have to go to the bathroom", " have to pay for"]}
+{"head": "hundreds", "relation": "Desires", "tails": [" have a lot of money", " have a lot of friends", " have a lot of fun"]}
+{"head": "have hundreds", "relation": "HinderedBy", "tails": [" have a lot of money", " have no money", " have a lot of them"]}
+{"head": "have hundreds", "relation": "isBefore", "tails": [" have a lot of money", " have lots of money", " have a lot of friends"]}
+{"head": "have hundreds", "relation": "isAfter", "tails": [" have a lot of money", " have lots of money", " have a lot of friends"]}
+{"head": "have hundreds", "relation": "HasSubEvent", "tails": [" have a lot of money", " have lots of money", " have lots of friends"]}
+{"head": "have hundreds", "relation": "Causes", "tails": [" have a lot of money", " have lots of money", " have a lot of friends"]}
+{"head": "have hundreds", "relation": "xReason", "tails": [" have a lot of money", " have lots of money", " have a lot of friends"]}
+{"head": "half", "relation": "ObjectUse", "tails": [" cut into pieces", " cut into slices", " make a pie"]}
+{"head": "half", "relation": "AtLocation", "tails": [" cupboard", " plate", " half of apple"]}
+{"head": "half", "relation": "CapableOf", "tails": [" cut in half", " cut into pieces", " cut into slices"]}
+{"head": "half", "relation": "HasProperty", "tails": [" half and half", " half of something", " half and half."]}
+{"head": "half", "relation": "MadeUpOf", "tails": [" half and half", " half", " two halves"]}
+{"head": "half", "relation": "NotDesires", "tails": [" half and half", " cut into pieces", " half of something"]}
+{"head": "half", "relation": "Desires", "tails": [" half and half", " half and half and half", " half and half and half and half"]}
+{"head": "fees", "relation": "ObjectUse", "tails": [" pay for the service", " pay for the item", " pay for the event"]}
+{"head": "fees", "relation": "AtLocation", "tails": [" school", " paypal", " payphone"]}
+{"head": "fees", "relation": "CapableOf", "tails": [" pay for service", " pay for the service", " pay for things"]}
+{"head": "fees", "relation": "HasProperty", "tails": [" paid by customers", " paid by person", " pay for the service"]}
+{"head": "fees", "relation": "MadeUpOf", "tails": [" pay for service", " paypal", " pay for the service"]}
+{"head": "fees", "relation": "NotDesires", "tails": [" have to pay", " have to pay for", " pay for service"]}
+{"head": "fees", "relation": "Desires", "tails": [" pay for service", " pay for the service", " have to pay"]}
+{"head": "dollars", "relation": "ObjectUse", "tails": [" pay for the item", " pay for the ticket", " pay for the car"]}
+{"head": "dollars", "relation": "AtLocation", "tails": [" dollar store", " store", " dollar bill"]}
+{"head": "dollars", "relation": "CapableOf", "tails": [" pay for the item", " pay for the ticket", " pay for item"]}
+{"head": "dollars", "relation": "HasProperty", "tails": [" bought with", " paid in", " dollars"]}
+{"head": "dollars", "relation": "MadeUpOf", "tails": [" dollars", " money", " dollar"]}
+{"head": "dollars", "relation": "NotDesires", "tails": [" pay for the item", " pay for the service", " pay for something"]}
+{"head": "dollars", "relation": "Desires", "tails": [" pay for things", " pay for the item", " pay for the service"]}
+{"head": "charge me", "relation": "HinderedBy", "tails": [" charge me", " pay for the service", " charge me for something"]}
+{"head": "charge me", "relation": "isBefore", "tails": [" pay for the service", " pay the bill", " pay for the item"]}
+{"head": "charge me", "relation": "isAfter", "tails": [" pay for the service", " pay for the item", " pay the bill"]}
+{"head": "charge me", "relation": "HasSubEvent", "tails": [" pay for the item", " pay for the service", " pay the bill"]}
+{"head": "charge me", "relation": "Causes", "tails": [" pay for the service", " charge for service", " pay for the item"]}
+{"head": "charge me", "relation": "xReason", "tails": [" pay for the service", " pay for the item", " pay for it"]}
+{"head": "bank", "relation": "ObjectUse", "tails": [" deposit money", " deposit money in", " deposit the money"]}
+{"head": "bank", "relation": "AtLocation", "tails": [" bank", " bank vault", " bank building"]}
+{"head": "bank", "relation": "CapableOf", "tails": [" deposit money", " deposit money in", " hold money"]}
+{"head": "bank", "relation": "HasProperty", "tails": [" found in many countries", " found in many places", " found in bank"]}
+{"head": "bank", "relation": "MadeUpOf", "tails": [" banknote", " banknotes", " bank vault"]}
+{"head": "bank", "relation": "NotDesires", "tails": [" deposit money", " deposit money in", " bank robbery"]}
+{"head": "bank", "relation": "Desires", "tails": [" deposit money", " deposit money in", " money"]}
+{"head": "account", "relation": "ObjectUse", "tails": [" deposit money into", " pay for the food", " pay for the meal"]}
+{"head": "account", "relation": "AtLocation", "tails": [" bank account", " bank", " account"]}
+{"head": "account", "relation": "CapableOf", "tails": [" open bank account", " pay bills", " pay bills on time"]}
+{"head": "account", "relation": "HasProperty", "tails": [" account number", " accounts", " money"]}
+{"head": "account", "relation": "MadeUpOf", "tails": [" account number", " bank account", " account balance"]}
+{"head": "account", "relation": "NotDesires", "tails": [" pay bills", " pay bills on time", " pay bills on"]}
+{"head": "account", "relation": "Desires", "tails": [" pay bills on time", " pay bills", " have money in"]}
+{"head": "My bank refused to reverse more than half.", "relation": "xAttr", "tails": [" greedy", " broke", " angry"]}
+{"head": "My bank refused to reverse more than half.", "relation": "xWant", "tails": [" to get their money back", " to get out of debt", " to get their money back."]}
+{"head": "My bank refused to reverse more than half.", "relation": "xNeed", "tails": [" get a loan", " to get a loan", " get a loan from bank"]}
+{"head": "My bank refused to reverse more than half.", "relation": "xEffect", "tails": [" my bank account is frozen", " my bank account is frozen.", " my bank account was frozen"]}
+{"head": "My bank refused to reverse more than half.", "relation": "HinderedBy", "tails": [" my bank won't give me a loan", " my bank won't give me the money", " my bank won't give me the money."]}
+{"head": "My bank refused to reverse more than half.", "relation": "oWant", "tails": [" to get their money back", " none", " to tell me what to do"]}
+{"head": "My bank refused to reverse more than half.", "relation": "xReact", "tails": [" my money is gone", " my money is not being used", " my money was stolen."]}
+{"head": "My bank refused to reverse more than half.", "relation": "oEffect", "tails": [" none", " my credit card was declined", " my bank account is frozen"]}
+{"head": "My bank refused to reverse more than half.", "relation": "xIntent", "tails": [" my money back", " my money to be safe", " my money back."]}
+{"head": "My bank refused to reverse more than half.", "relation": "oReact", "tails": [" none", " angry", " upset"]}
+{"head": "My bank refused to reverse more than half.", "relation": "isBefore", "tails": [" my credit card was declined", " my credit card was stolen", " my money was stolen"]}
+{"head": "My bank refused to reverse more than half.", "relation": "isAfter", "tails": [" my car broke down", " my credit card was declined", " my credit card was stolen"]}
+{"head": "My bank refused to reverse more than half.", "relation": "HasSubEvent", "tails": [" my bank account is frozen", " my bank account was frozen", " get a refund"]}
+{"head": "My bank refused to reverse more than half.", "relation": "Causes", "tails": [" my bank won't give me the money", " my bank won't give me a loan", " my bank won't give me the money."]}
+{"head": "My bank refused to reverse more than half.", "relation": "xReason", "tails": [" my credit card was declined", " my credit card was stolen", " my credit card was declined."]}
+{"head": "Last week I accidentally overdrafted my account.", "relation": "xAttr", "tails": [" careless", " irresponsible", " reckless"]}
+{"head": "Last week I accidentally overdrafted my account.", "relation": "xWant", "tails": [" to get a new account", " to pay the bill", " to get a new bank account"]}
+{"head": "Last week I accidentally overdrafted my account.", "relation": "xNeed", "tails": [" make a mistake", " get a loan", " get a job"]}
+{"head": "Last week I accidentally overdrafted my account.", "relation": "xEffect", "tails": [" get a new account", " get a refund", " loses money"]}
+{"head": "Last week I accidentally overdrafted my account.", "relation": "HinderedBy", "tails": [" last week", " last week.", " last week was a good week"]}
+{"head": "Last week I accidentally overdrafted my account.", "relation": "oWant", "tails": [" none", " to tell me what happened", " to help me pay for it"]}
+{"head": "Last week I accidentally overdrafted my account.", "relation": "xReact", "tails": [" sad", " bad", " upset"]}
+{"head": "Last week I accidentally overdrafted my account.", "relation": "oEffect", "tails": [" none", " lose money", " get a refund"]}
+{"head": "Last week I accidentally overdrafted my account.", "relation": "xIntent", "tails": [" none", " get out of debt", " get out of debt."]}
+{"head": "Last week I accidentally overdrafted my account.", "relation": "oReact", "tails": [" none", " sad", " angry"]}
+{"head": "Last week I accidentally overdrafted my account.", "relation": "isBefore", "tails": [" get a new account", " last week", " get a new one"]}
+{"head": "Last week I accidentally overdrafted my account.", "relation": "isAfter", "tails": [" get a new account", " last week", " get a refund"]}
+{"head": "Last week I accidentally overdrafted my account.", "relation": "HasSubEvent", "tails": [" get a new account", " get a refund", " lose money"]}
+{"head": "Last week I accidentally overdrafted my account.", "relation": "Causes", "tails": [" I have no money.", " last week", " I have no money to pay."]}
+{"head": "Last week I accidentally overdrafted my account.", "relation": "xReason", "tails": [" have to pay back the money", " have to pay for the overdraft", " have to pay for it"]}
+{"head": "I had hundreds of dollars in overdraft fees.", "relation": "xAttr", "tails": [" irresponsible", " broke", " careless"]}
+{"head": "I had hundreds of dollars in overdraft fees.", "relation": "xWant", "tails": [" to get a new bank account", " to get a loan", " to get a new job"]}
+{"head": "I had hundreds of dollars in overdraft fees.", "relation": "xNeed", "tails": [" get a loan", " to have a bank account", " to have a bad credit score"]}
+{"head": "I had hundreds of dollars in overdraft fees.", "relation": "xEffect", "tails": [" get a loan", " get a new job", " get a new one"]}
+{"head": "I had hundreds of dollars in overdraft fees.", "relation": "HinderedBy", "tails": [" I have no money.", " I can't afford the fees.", " I can't afford to pay them."]}
+{"head": "I had hundreds of dollars in overdraft fees.", "relation": "oWant", "tails": [" none", " to help me", " to make me pay"]}
+{"head": "I had hundreds of dollars in overdraft fees.", "relation": "xReact", "tails": [" broke", " sad", " bad"]}
+{"head": "I had hundreds of dollars in overdraft fees.", "relation": "oEffect", "tails": [" none", " lose money", " get a loan"]}
+{"head": "I had hundreds of dollars in overdraft fees.", "relation": "xIntent", "tails": [" none", " to pay the bills", " to pay the bill"]}
+{"head": "I had hundreds of dollars in overdraft fees.", "relation": "oReact", "tails": [" none", " angry", " sad"]}
+{"head": "I had hundreds of dollars in overdraft fees.", "relation": "isBefore", "tails": [" I had to go to the bank.", " I had to go to the bank", " I had to go to the ATM."]}
+{"head": "I had hundreds of dollars in overdraft fees.", "relation": "isAfter", "tails": [" I lost my job.", " I lost my job", " I had to pay for it"]}
+{"head": "I had hundreds of dollars in overdraft fees.", "relation": "HasSubEvent", "tails": [" get a loan", " get a new bank account", " get a new job"]}
+{"head": "I had hundreds of dollars in overdraft fees.", "relation": "Causes", "tails": [" I can't afford to pay the bills.", " I can't afford to pay the fees.", " I have no money."]}
+{"head": "I had hundreds of dollars in overdraft fees.", "relation": "xReason", "tails": [" I lost my job.", " I had no money.", " I lost my job"]}
+{"head": "Afterward I made five more purchases.", "relation": "xAttr", "tails": [" happy", " rich", " greedy"]}
+{"head": "Afterward I made five more purchases.", "relation": "xWant", "tails": [" to buy more things", " to go home", " to buy more"]}
+{"head": "Afterward I made five more purchases.", "relation": "xNeed", "tails": [" to go to the store", " to go to the store.", " to go to the mall"]}
+{"head": "Afterward I made five more purchases.", "relation": "xEffect", "tails": [" buys more things", " buys a new car", " get a receipt"]}
+{"head": "Afterward I made five more purchases.", "relation": "HinderedBy", "tails": [" I have no money.", " I have no money to buy more.", " I have no money to buy more things."]}
+{"head": "Afterward I made five more purchases.", "relation": "oWant", "tails": [" none", " to thank me for it", " to buy more things"]}
+{"head": "Afterward I made five more purchases.", "relation": "xReact", "tails": [" happy", " satisfied", " happy."]}
+{"head": "Afterward I made five more purchases.", "relation": "oEffect", "tails": [" none", " they get a receipt", " get a receipt"]}
+{"head": "Afterward I made five more purchases.", "relation": "xIntent", "tails": [" to buy more things", " to buy more things.", " to have more things"]}
+{"head": "Afterward I made five more purchases.", "relation": "oReact", "tails": [" none", " happy", " happy."]}
+{"head": "Afterward I made five more purchases.", "relation": "isBefore", "tails": [" purchase more items", " purchase more things", " after shopping"]}
+{"head": "Afterward I made five more purchases.", "relation": "isAfter", "tails": [" PersonX buys a lot of things.", " PersonX buys a new car.", " PersonX buys a lot of things"]}
+{"head": "Afterward I made five more purchases.", "relation": "HasSubEvent", "tails": [" buy more things", " get a receipt", " purchase more items"]}
+{"head": "Afterward I made five more purchases.", "relation": "Causes", "tails": [" after the first purchase", " after paying the bill", " after paying for the purchase"]}
+{"head": "Afterward I made five more purchases.", "relation": "xReason", "tails": [" after paying for the purchase", " after the first purchase", " after paying the bill"]}
+{"head": "A restaurant charged me too much by mistake.", "relation": "xAttr", "tails": [" careless", " rude", " angry"]}
+{"head": "A restaurant charged me too much by mistake.", "relation": "xWant", "tails": [" to get a refund", " to pay the bill", " get a refund"]}
+{"head": "A restaurant charged me too much by mistake.", "relation": "xNeed", "tails": [" to go to the restaurant", " to go to a restaurant", " to have gone to the restaurant"]}
+{"head": "A restaurant charged me too much by mistake.", "relation": "xEffect", "tails": [" gets yelled at", " get a refund", " get a receipt"]}
+{"head": "A restaurant charged me too much by mistake.", "relation": "HinderedBy", "tails": [" A friend of mine told me that the restaurant was too expensive.", " A friend of mine told me about it.", " A friend of mine told me that the restaurant is too expensive."]}
+{"head": "A restaurant charged me too much by mistake.", "relation": "oWant", "tails": [" to make amends", " none", " to pay the bill"]}
+{"head": "A restaurant charged me too much by mistake.", "relation": "xReact", "tails": [" upset", " angry", " bad"]}
+{"head": "A restaurant charged me too much by mistake.", "relation": "oEffect", "tails": [" none", " get a refund", " get angry at them"]}
+{"head": "A restaurant charged me too much by mistake.", "relation": "xIntent", "tails": [" none", " a good meal", " a bad meal"]}
+{"head": "A restaurant charged me too much by mistake.", "relation": "oReact", "tails": [" none", " angry", " upset"]}
+{"head": "A restaurant charged me too much by mistake.", "relation": "isBefore", "tails": [" a receipt", " a bill", " a refund"]}
+{"head": "A restaurant charged me too much by mistake.", "relation": "isAfter", "tails": [" PersonX gets mad at PersonY for charging too much.", " PersonX gets mad at PersonX for charging too much.", " PersonX gets mad at PersonY for charging them too much."]}
+{"head": "A restaurant charged me too much by mistake.", "relation": "HasSubEvent", "tails": [" get a refund", " get a receipt", " get angry"]}
+{"head": "A restaurant charged me too much by mistake.", "relation": "Causes", "tails": [" a bill", " a bad experience", " a receipt"]}
+{"head": "A restaurant charged me too much by mistake.", "relation": "xReason", "tails": [" a bill", " a receipt", " a bad meal"]}

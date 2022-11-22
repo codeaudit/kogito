@@ -1,0 +1,197 @@
+{"head": "win money", "relation": "HinderedBy", "tails": [" buy lottery ticket", " win money", " win lottery"]}
+{"head": "win money", "relation": "isBefore", "tails": [" buy lottery ticket", " win lottery", " buy lottery tickets"]}
+{"head": "win money", "relation": "isAfter", "tails": [" buy lottery ticket", " win lottery", " buy lottery tickets"]}
+{"head": "win money", "relation": "HasSubEvent", "tails": [" buy lottery ticket", " win lottery", " buy lottery tickets"]}
+{"head": "win money", "relation": "Causes", "tails": [" buy lottery ticket", " win lottery", " buy lottery tickets"]}
+{"head": "win money", "relation": "xReason", "tails": [" buy lottery ticket", " win lottery", " buy lottery tickets"]}
+{"head": "to win", "relation": "HinderedBy", "tails": [" to win", " to win ", " to win the game"]}
+{"head": "to win", "relation": "isBefore", "tails": [" to win", " to win the game", " win the game"]}
+{"head": "to win", "relation": "isAfter", "tails": [" to win", " to win the game", " win the game"]}
+{"head": "to win", "relation": "HasSubEvent", "tails": [" to win", " win the game", " win"]}
+{"head": "to win", "relation": "Causes", "tails": [" to win", " win or lose", " win the game"]}
+{"head": "to win", "relation": "xReason", "tails": [" to win", " win or lose", " to win the game"]}
+{"head": "to want", "relation": "HinderedBy", "tails": [" to want", " to want something", " to want "]}
+{"head": "to want", "relation": "isBefore", "tails": [" to want", " to want something", " to want to want"]}
+{"head": "to want", "relation": "isAfter", "tails": [" to want", " to want something", " to want to want"]}
+{"head": "to want", "relation": "HasSubEvent", "tails": [" to want", " to want something", " to want to want"]}
+{"head": "to want", "relation": "Causes", "tails": [" to want", " to want something", " to want to want"]}
+{"head": "to want", "relation": "xReason", "tails": [" to want", " to want something", " to want to want"]}
+{"head": "to scratch", "relation": "HinderedBy", "tails": [" to scratch", " to scratch the itch", " to scratch something"]}
+{"head": "to scratch", "relation": "isBefore", "tails": [" to scratch", " to scratch back", " to scratch something"]}
+{"head": "to scratch", "relation": "isAfter", "tails": [" scratch", " scratch back", " to scratch"]}
+{"head": "to scratch", "relation": "HasSubEvent", "tails": [" to scratch", " scratch back", " scratch itch"]}
+{"head": "to scratch", "relation": "Causes", "tails": [" scratch", " to scratch", " scratchy skin"]}
+{"head": "to scratch", "relation": "xReason", "tails": [" to scratch", " scratch", " scratch back"]}
+{"head": "to pay", "relation": "HinderedBy", "tails": [" to pay", " to pay ", " to pay  to pay "]}
+{"head": "to pay", "relation": "isBefore", "tails": [" to pay", " to pay for the food", " to pay the bill"]}
+{"head": "to pay", "relation": "isAfter", "tails": [" pay for the item", " to pay for the food", " to pay for the item"]}
+{"head": "to pay", "relation": "HasSubEvent", "tails": [" to pay", " pay for the item", " to pay for the item"]}
+{"head": "to pay", "relation": "Causes", "tails": [" to pay", " to pay for something", " to pay for the food"]}
+{"head": "to pay", "relation": "xReason", "tails": [" to pay", " to pay for something", " to pay for the food"]}
+{"head": "to move", "relation": "HinderedBy", "tails": [" to move", " to move to a new place", " to move  to a new place"]}
+{"head": "to move", "relation": "isBefore", "tails": [" to move to a new place", " to move to new place", " to move"]}
+{"head": "to move", "relation": "isAfter", "tails": [" to move to new place", " move to new place", " to get a new job"]}
+{"head": "to move", "relation": "HasSubEvent", "tails": [" to move", " move furniture", " move to new place"]}
+{"head": "to move", "relation": "Causes", "tails": [" to move", " to move to new place", " move to new place"]}
+{"head": "to move", "relation": "xReason", "tails": [" to move to new place", " to move", " move to new place"]}
+{"head": "to have", "relation": "HinderedBy", "tails": [" to have", " to have ", " to have  to have"]}
+{"head": "to have", "relation": "isBefore", "tails": [" to have", " to have ", " to have  a good time"]}
+{"head": "to have", "relation": "isAfter", "tails": [" to have something to eat", " to have", " to have something to drink"]}
+{"head": "to have", "relation": "HasSubEvent", "tails": [" to have", " to have ", " to have  have"]}
+{"head": "to have", "relation": "Causes", "tails": [" to have", " to have ", " to have  "]}
+{"head": "to have", "relation": "xReason", "tails": [" to have", " to have something to eat", " to have "]}
+{"head": "to end", "relation": "HinderedBy", "tails": [" to end", " to end the story", " to end "]}
+{"head": "to end", "relation": "isBefore", "tails": [" to end", " to end the story", " end of story"]}
+{"head": "to end", "relation": "isAfter", "tails": [" end of story", " to end", " to end the story"]}
+{"head": "to end", "relation": "HasSubEvent", "tails": [" to end", " get out of the way", " to end the story"]}
+{"head": "to end", "relation": "Causes", "tails": [" to end", " end of story", " to end the story"]}
+{"head": "to end", "relation": "xReason", "tails": [" to end", " end of story", " to end the story"]}
+{"head": "to buy", "relation": "HinderedBy", "tails": [" to buy", " to buy ", " to buy  to buy"]}
+{"head": "to buy", "relation": "isBefore", "tails": [" to buy", " to buy something", " to buy "]}
+{"head": "to buy", "relation": "isAfter", "tails": [" to go to the store", " to go to the grocery store", " to go to the store to buy"]}
+{"head": "to buy", "relation": "HasSubEvent", "tails": [" to buy", " to buy ", " get money from bank"]}
+{"head": "to buy", "relation": "Causes", "tails": [" to buy", " to buy ", " to buy something"]}
+{"head": "to buy", "relation": "xReason", "tails": [" to buy", " to buy something", " have money"]}
+{"head": "ticket", "relation": "ObjectUse", "tails": [" get into the event", " get into the show", " get in to the event"]}
+{"head": "ticket", "relation": "AtLocation", "tails": [" ticket booth", " ticket machine", " ticket office"]}
+{"head": "ticket", "relation": "CapableOf", "tails": [" get into event", " board plane", " get in the door"]}
+{"head": "ticket", "relation": "HasProperty", "tails": [" bought at ticket counter", " bought at ticket booth", " bought at ticket machine"]}
+{"head": "ticket", "relation": "MadeUpOf", "tails": [" ticket stub", " ticket holder", " ticket booth"]}
+{"head": "ticket", "relation": "NotDesires", "tails": [" ticket stub", " get in line", " get in the car"]}
+{"head": "ticket", "relation": "Desires", "tails": [" get into event", " get into the event", " get into the show"]}
+{"head": "scratching ticket", "relation": "ObjectUse", "tails": [" get into a movie", " get into a bar", " get a ride"]}
+{"head": "scratching ticket", "relation": "AtLocation", "tails": [" ticket booth", " ticket machine", " bus stop"]}
+{"head": "scratching ticket", "relation": "CapableOf", "tails": [" get out of line", " get out of car", " get out of ticket"]}
+{"head": "scratching ticket", "relation": "HasProperty", "tails": [" used in ticket vending machine", " used in ticket vending machines", " used in ticket machine"]}
+{"head": "scratching ticket", "relation": "MadeUpOf", "tails": [" ticket", " ticket stub", " ticket holder"]}
+{"head": "scratching ticket", "relation": "NotDesires", "tails": [" get in trouble", " get ticketed", " scratch ticket"]}
+{"head": "scratching ticket", "relation": "Desires", "tails": [" get out of a ticket", " get out of the line", " get out of the car"]}
+{"head": "payment", "relation": "ObjectUse", "tails": [" pay for the item", " pay for the service", " pay for the meal"]}
+{"head": "payment", "relation": "AtLocation", "tails": [" bank account", " wallet", " money"]}
+{"head": "payment", "relation": "CapableOf", "tails": [" pay for goods and services", " pay for item", " pay for goods"]}
+{"head": "payment", "relation": "HasProperty", "tails": [" paid in cash", " paid for goods and services", " paid in cash or check"]}
+{"head": "payment", "relation": "MadeUpOf", "tails": [" payment card", " payment slip", " paypal"]}
+{"head": "payment", "relation": "NotDesires", "tails": [" pay for goods and services", " pay for service", " pay for goods"]}
+{"head": "payment", "relation": "Desires", "tails": [" pay for goods and services", " pay for service", " pay for the service"]}
+{"head": "new house", "relation": "ObjectUse", "tails": [" have a place to live", " have a new place to live", " move into"]}
+{"head": "new house", "relation": "AtLocation", "tails": [" new city", " new town", " house"]}
+{"head": "new house", "relation": "CapableOf", "tails": [" move into", " move in", " buy house"]}
+{"head": "new house", "relation": "HasProperty", "tails": [" new house", " new home", " found in suburbs"]}
+{"head": "new house", "relation": "MadeUpOf", "tails": [" new roof", " house", " new house"]}
+{"head": "new house", "relation": "NotDesires", "tails": [" new house", " new job", " have to move"]}
+{"head": "new house", "relation": "Desires", "tails": [" have a new place to live", " have a place to live", " have new place to live"]}
+{"head": "money", "relation": "ObjectUse", "tails": [" pay for the food", " pay for the item", " pay for the ticket"]}
+{"head": "money", "relation": "AtLocation", "tails": [" money bag", " wallet", " bank"]}
+{"head": "money", "relation": "CapableOf", "tails": [" pay for things", " pay for items", " buy things"]}
+{"head": "money", "relation": "HasProperty", "tails": [" bought with", " money", " bought with."]}
+{"head": "money", "relation": "MadeUpOf", "tails": [" money bag", " money", " money order"]}
+{"head": "money", "relation": "NotDesires", "tails": [" pay for things", " money to buy things", " pay bills"]}
+{"head": "money", "relation": "Desires", "tails": [" money to buy things", " money", " pay for things"]}
+{"head": "house", "relation": "ObjectUse", "tails": [" live in", " living in", " house"]}
+{"head": "house", "relation": "AtLocation", "tails": [" house", " apartment building", " home"]}
+{"head": "house", "relation": "CapableOf", "tails": [" live in", " house", " house family"]}
+{"head": "house", "relation": "HasProperty", "tails": [" found in", " house", " built on land"]}
+{"head": "house", "relation": "MadeUpOf", "tails": [" house", " housewares", " house roof"]}
+{"head": "house", "relation": "NotDesires", "tails": [" house fire", " live in", " house to burn"]}
+{"head": "house", "relation": "Desires", "tails": [" live in", " house", " living in"]}
+{"head": "have money", "relation": "HinderedBy", "tails": [" have no money", " pay bills", " pay for things"]}
+{"head": "have money", "relation": "isBefore", "tails": [" pay bills", " buy things", " pay for things"]}
+{"head": "have money", "relation": "isAfter", "tails": [" pay bills", " pay for things", " buy things"]}
+{"head": "have money", "relation": "HasSubEvent", "tails": [" pay bills", " buy things", " pay for things"]}
+{"head": "have money", "relation": "Causes", "tails": [" pay bills", " buy things", " pay for things"]}
+{"head": "have money", "relation": "xReason", "tails": [" buy things", " pay bills", " pay for things"]}
+{"head": "day", "relation": "ObjectUse", "tails": [" have a good time", " have a good day", " have a party"]}
+{"head": "day", "relation": "AtLocation", "tails": [" day", " office building", " day at work"]}
+{"head": "day", "relation": "CapableOf", "tails": [" sleep all day", " sleep all night", " sleep all day long"]}
+{"head": "day", "relation": "HasProperty", "tails": [" one day a week", " one day a year", " day"]}
+{"head": "day", "relation": "MadeUpOf", "tails": [" day", " day and night", " day of the week"]}
+{"head": "day", "relation": "NotDesires", "tails": [" have to go to work", " have to go to doctor", " have to go to school"]}
+{"head": "day", "relation": "Desires", "tails": [" have fun", " have good time", " have fun with friends"]}
+{"head": "buy ticket", "relation": "HinderedBy", "tails": [" have money to pay for ticket", " have money to buy ticket", " have money to pay for it"]}
+{"head": "buy ticket", "relation": "isBefore", "tails": [" go to concert", " go to show", " get in line"]}
+{"head": "buy ticket", "relation": "isAfter", "tails": [" get in line", " buy ticket", " ticket booth"]}
+{"head": "buy ticket", "relation": "HasSubEvent", "tails": [" go to theater", " go to show", " go to concert"]}
+{"head": "buy ticket", "relation": "Causes", "tails": [" have money to pay for ticket", " have money to buy ticket", " get in line"]}
+{"head": "buy ticket", "relation": "xReason", "tails": [" have money to pay for ticket", " have money to buy ticket", " get in line"]}
+{"head": "One day he bought a scratching ticket.", "relation": "xAttr", "tails": [" lucky", " unlucky", " hopeful"]}
+{"head": "One day he bought a scratching ticket.", "relation": "xWant", "tails": [" to buy a lottery ticket", " to win the lottery", " to win money"]}
+{"head": "One day he bought a scratching ticket.", "relation": "xNeed", "tails": [" to go to the store", " buy a ticket", " buy lottery ticket"]}
+{"head": "One day he bought a scratching ticket.", "relation": "xEffect", "tails": [" wins money", " win money", " gets a receipt"]}
+{"head": "One day he bought a scratching ticket.", "relation": "HinderedBy", "tails": [" one of his friends bought a lottery ticket.", " one of his friends won the lottery.", " one of his friends won the lottery"]}
+{"head": "One day he bought a scratching ticket.", "relation": "oWant", "tails": [" none", " to buy a lottery ticket", " to win the lottery"]}
+{"head": "One day he bought a scratching ticket.", "relation": "xReact", "tails": [" lucky", " happy", " excited"]}
+{"head": "One day he bought a scratching ticket.", "relation": "oEffect", "tails": [" none", " win money", " they win money"]}
+{"head": "One day he bought a scratching ticket.", "relation": "xIntent", "tails": [" to win money", " none", " to win money."]}
+{"head": "One day he bought a scratching ticket.", "relation": "oReact", "tails": [" none", " lucky", " happy"]}
+{"head": "One day he bought a scratching ticket.", "relation": "isBefore", "tails": [" PersonX wins a lot of money.", " PersonX wins a lot of money", " one of his friends won the lottery"]}
+{"head": "One day he bought a scratching ticket.", "relation": "isAfter", "tails": [" one of his friends won a lot of money", " one of his friends won a lot of money.", " one of his friends won the lottery"]}
+{"head": "One day he bought a scratching ticket.", "relation": "HasSubEvent", "tails": [" buy lottery ticket", " buy a lottery ticket", " win money"]}
+{"head": "One day he bought a scratching ticket.", "relation": "Causes", "tails": [" one of his friends won a lot of money", " one of his friends won the lottery", " one of his friends won a lot of money."]}
+{"head": "One day he bought a scratching ticket.", "relation": "xReason", "tails": [" one of his friends won a lot of money", " one of his friends won a lot of money.", " one of his friends won the lottery"]}
+{"head": "Jeff wanted to move out of his house.", "relation": "xAttr", "tails": [" restless", " nervous", " tired"]}
+{"head": "Jeff wanted to move out of his house.", "relation": "xWant", "tails": [" to find a new place to live", " to find a new place to live.", " to find a new home"]}
+{"head": "Jeff wanted to move out of his house.", "relation": "xNeed", "tails": [" to find a new place to live", " to find a new place to live.", " to find a new house to live in"]}
+{"head": "Jeff wanted to move out of his house.", "relation": "xEffect", "tails": [" get a new place to live", " get a new job", " gets evicted"]}
+{"head": "Jeff wanted to move out of his house.", "relation": "HinderedBy", "tails": [" Jeff's parents won't let him move out of the house.", " Jeff's parents won't let him move out of their house.", " Jeff's parents won't let him move out."]}
+{"head": "Jeff wanted to move out of his house.", "relation": "oWant", "tails": [" none", " to move in with them", " to move in with him"]}
+{"head": "Jeff wanted to move out of his house.", "relation": "xReact", "tails": [" happy", " relieved", " sad"]}
+{"head": "Jeff wanted to move out of his house.", "relation": "oEffect", "tails": [" none", " get a new place to live", " get a new place to live."]}
+{"head": "Jeff wanted to move out of his house.", "relation": "xIntent", "tails": [" to get a new place to live", " to be independent", " to get a new place"]}
+{"head": "Jeff wanted to move out of his house.", "relation": "oReact", "tails": [" none", " sad", " unhappy"]}
+{"head": "Jeff wanted to move out of his house.", "relation": "isBefore", "tails": [" PersonX moves in with PersonX.", " PersonX moves in with PersonX", " PersonX buys a new house."]}
+{"head": "Jeff wanted to move out of his house.", "relation": "isAfter", "tails": [" PersonX is in a relationship with PersonY.", " PersonX is in a relationship with PersonX's wife.", " PersonX is in a relationship with PersonX."]}
+{"head": "Jeff wanted to move out of his house.", "relation": "HasSubEvent", "tails": [" get a new place to live", " get a new job", " get a new place"]}
+{"head": "Jeff wanted to move out of his house.", "relation": "Causes", "tails": [" they have no place to live", " they are tired of living there", " he is tired of living there"]}
+{"head": "Jeff wanted to move out of his house.", "relation": "xReason", "tails": [" they have no place else to live", " they have no place to live", " they have no place else to go"]}
+{"head": "Jeff ended up moving to a new house.", "relation": "xAttr", "tails": [" moving", " new", " excited"]}
+{"head": "Jeff ended up moving to a new house.", "relation": "xWant", "tails": [" to move into the new house", " to get a new job", " to move into the new house."]}
+{"head": "Jeff ended up moving to a new house.", "relation": "xNeed", "tails": [" to find a place to live", " to find a new house", " to find a house to buy"]}
+{"head": "Jeff ended up moving to a new house.", "relation": "xEffect", "tails": [" gets a new job", " gets a new house", " gets a new home"]}
+{"head": "Jeff ended up moving to a new house.", "relation": "HinderedBy", "tails": [" Jeff has to pay for the new house.", " Jeff has to move to a new city.", " Jeff has to move to a new town."]}
+{"head": "Jeff ended up moving to a new house.", "relation": "oWant", "tails": [" none", " to see the new house", " to see the new place"]}
+{"head": "Jeff ended up moving to a new house.", "relation": "xReact", "tails": [" happy", " excited", " happy."]}
+{"head": "Jeff ended up moving to a new house.", "relation": "oEffect", "tails": [" none", " they have a new place to live", " they have a new home to live in"]}
+{"head": "Jeff ended up moving to a new house.", "relation": "xIntent", "tails": [" to have a new place to live", " to have a new place to live.", " to be closer to his family"]}
+{"head": "Jeff ended up moving to a new house.", "relation": "oReact", "tails": [" none", " happy", " happy."]}
+{"head": "Jeff ended up moving to a new house.", "relation": "isBefore", "tails": [" PersonX moves into the new house with PersonX.", " PersonX moves into the new house with PersonX", " PersonX moves in with PersonX."]}
+{"head": "Jeff ended up moving to a new house.", "relation": "isAfter", "tails": [" PersonX moves into the new house.", " PersonX moves into a new house.", " PersonX moves to a new house."]}
+{"head": "Jeff ended up moving to a new house.", "relation": "HasSubEvent", "tails": [" have a new place to live", " get a new job", " have a new home to live in"]}
+{"head": "Jeff ended up moving to a new house.", "relation": "Causes", "tails": [" they have to find a new place to live", " they have a new place to live", " they have to find a new place to live."]}
+{"head": "Jeff ended up moving to a new house.", "relation": "xReason", "tails": [" have a new place to live", " have a new home to live in", " have a new house to live in"]}
+{"head": "Jeff", "relation": "ObjectUse", "tails": [" get a new job", " get a job", " Jeff's wife is pregnant"]}
+{"head": "Jeff", "relation": "AtLocation", "tails": [" house", " home", " apartment"]}
+{"head": "Jeff", "relation": "CapableOf", "tails": [" take shower", " get into argument", " get a job"]}
+{"head": "Jeff", "relation": "HasProperty", "tails": [" Jeff", " Jeffery", " none"]}
+{"head": "Jeff", "relation": "MadeUpOf", "tails": ["              ", "               ", "                "]}
+{"head": "Jeff", "relation": "NotDesires", "tails": [" Jeff's wife is pregnant with Jeff's child.", " Jeff's wife is pregnant with Jeff's child", " Jeff's wife is pregnant with Jeff's baby."]}
+{"head": "Jeff", "relation": "Desires", "tails": [" have a good time", " none", " have a good life"]}
+{"head": "He won enough money for a down payment.", "relation": "xAttr", "tails": [" lucky", " rich", " fortunate"]}
+{"head": "He won enough money for a down payment.", "relation": "xWant", "tails": [" to buy a house", " to buy a home", " buy a house"]}
+{"head": "He won enough money for a down payment.", "relation": "xNeed", "tails": [" buy a house", " to win the lottery", " buy a home"]}
+{"head": "He won enough money for a down payment.", "relation": "xEffect", "tails": [" buys a house", " buys a new house", " buys a home"]}
+{"head": "He won enough money for a down payment.", "relation": "HinderedBy", "tails": [" he has no money", " he can't afford it", " he can't find a job"]}
+{"head": "He won enough money for a down payment.", "relation": "oWant", "tails": [" none", " to buy a house", " buy a house"]}
+{"head": "He won enough money for a down payment.", "relation": "xReact", "tails": [" happy", " excited", " lucky"]}
+{"head": "He won enough money for a down payment.", "relation": "oEffect", "tails": [" none", " he can buy a house", " they get a new house"]}
+{"head": "He won enough money for a down payment.", "relation": "xIntent", "tails": [" to buy a house", " to buy a home", " to buy a house."]}
+{"head": "He won enough money for a down payment.", "relation": "oReact", "tails": [" none", " happy", " happy."]}
+{"head": "He won enough money for a down payment.", "relation": "isBefore", "tails": [" he buys a house", " he buys a new house", " buy a house"]}
+{"head": "He won enough money for a down payment.", "relation": "isAfter", "tails": [" PersonX wins the lottery.", " PersonX buys a house.", " PersonX wins a lottery."]}
+{"head": "He won enough money for a down payment.", "relation": "HasSubEvent", "tails": [" buy a house", " buy a home", " buy a new house"]}
+{"head": "He won enough money for a down payment.", "relation": "Causes", "tails": [" he can buy a house", " he has to buy a house", " he has to buy a new house"]}
+{"head": "He won enough money for a down payment.", "relation": "xReason", "tails": [" buy a house", " buy a home", " he gets a job"]}
+{"head": "He had no money to pay for a new one.", "relation": "xAttr", "tails": [" broke", " poor", " irresponsible"]}
+{"head": "He had no money to pay for a new one.", "relation": "xWant", "tails": [" to buy a new one", " to get a new one", " to go to the store"]}
+{"head": "He had no money to pay for a new one.", "relation": "xNeed", "tails": [" buy a new one", " to have lost it", " to have lost their job"]}
+{"head": "He had no money to pay for a new one.", "relation": "xEffect", "tails": [" he has to buy a new one", " get a new one", " he has to buy a new one."]}
+{"head": "He had no money to pay for a new one.", "relation": "HinderedBy", "tails": [" he can't afford to buy a new one", " he has no money to pay for a new one", " he has no money to pay for it"]}
+{"head": "He had no money to pay for a new one.", "relation": "oWant", "tails": [" none", " to buy a new one", " to help him"]}
+{"head": "He had no money to pay for a new one.", "relation": "xReact", "tails": [" broke", " poor", " sad"]}
+{"head": "He had no money to pay for a new one.", "relation": "oEffect", "tails": [" none", " get a new one", " he can't afford it"]}
+{"head": "He had no money to pay for a new one.", "relation": "xIntent", "tails": [" none", " to buy a new one", " to get a new one"]}
+{"head": "He had no money to pay for a new one.", "relation": "oReact", "tails": [" none", " sad", " poor"]}
+{"head": "He had no money to pay for a new one.", "relation": "isBefore", "tails": [" he lost his job", " he loses his job", " he lost his wallet"]}
+{"head": "He had no money to pay for a new one.", "relation": "isAfter", "tails": [" he lost his job", " PersonX broke their car.", " PersonX broke their phone."]}
+{"head": "He had no money to pay for a new one.", "relation": "HasSubEvent", "tails": [" buy a new one", " get a new one", " buy new one"]}
+{"head": "He had no money to pay for a new one.", "relation": "Causes", "tails": [" he can't afford to buy a new one", " he has no money to pay for it", " he can't afford to pay for it"]}
+{"head": "He had no money to pay for a new one.", "relation": "xReason", "tails": [" he can't afford to buy a new one", " he can't afford to replace it", " he can't afford to pay for it"]}

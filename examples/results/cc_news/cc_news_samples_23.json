@@ -1,0 +1,269 @@
+{"head": "winner", "relation": "ObjectUse", "tails": [" win the competition", " win the contest", " win the lottery"]}
+{"head": "winner", "relation": "AtLocation", "tails": [" winner's circle", " winner's trophy", " winnings"]}
+{"head": "winner", "relation": "CapableOf", "tails": [" win contest", " win prize", " win the competition"]}
+{"head": "winner", "relation": "HasProperty", "tails": [" win or lose", " winner", " winner of contest"]}
+{"head": "winner", "relation": "MadeUpOf", "tails": [" winner's circle", " winner's trophy", " winnings"]}
+{"head": "winner", "relation": "NotDesires", "tails": [" win or lose", " win the game", " win the lottery"]}
+{"head": "winner", "relation": "Desires", "tails": [" win the game", " win the competition", " win the lottery"]}
+{"head": "to slide", "relation": "HinderedBy", "tails": [" to slide", " to slide ", " to slide  on"]}
+{"head": "to slide", "relation": "isBefore", "tails": [" to slide", " have fun", " to slide down"]}
+{"head": "to slide", "relation": "isAfter", "tails": [" to slide down the slide", " to slide down hill", " to slide down slide"]}
+{"head": "to slide", "relation": "HasSubEvent", "tails": [" to slide", " to slide  slide  slide", " to slide  slide"]}
+{"head": "to slide", "relation": "Causes", "tails": [" to slide", " have fun", " to slide on"]}
+{"head": "to slide", "relation": "xReason", "tails": [" to slide", " have fun", " to slide on"]}
+{"head": "to kill", "relation": "HinderedBy", "tails": [" to kill", " to kill  to kill ", " to kill "]}
+{"head": "to kill", "relation": "isBefore", "tails": [" to kill", " murder", " to kill person"]}
+{"head": "to kill", "relation": "isAfter", "tails": [" murder", " to kill", " kill"]}
+{"head": "to kill", "relation": "HasSubEvent", "tails": [" to kill", " murder", " kill"]}
+{"head": "to kill", "relation": "Causes", "tails": [" to kill", " murder", " kill"]}
+{"head": "to kill", "relation": "xReason", "tails": [" to kill", " murder", " to kill people"]}
+{"head": "to keep", "relation": "HinderedBy", "tails": [" to keep", " to keep ", " to keep  to keep "]}
+{"head": "to keep", "relation": "isBefore", "tails": [" to keep", " to keep it safe", " to keep it"]}
+{"head": "to keep", "relation": "isAfter", "tails": [" to keep", " to keep it safe", " to keep a secret"]}
+{"head": "to keep", "relation": "HasSubEvent", "tails": [" to keep", " to keep  keep  keep", " to keep  to keep"]}
+{"head": "to keep", "relation": "Causes", "tails": [" to keep", " to keep  to keep ", " to keep something safe"]}
+{"head": "to keep", "relation": "xReason", "tails": [" to keep", " to keep something safe", " to keep things safe"]}
+{"head": "to fire", "relation": "HinderedBy", "tails": [" to fire", " to fire ", " to fire  fire"]}
+{"head": "to fire", "relation": "isBefore", "tails": [" to fire", " to put out fire", " to fire fire"]}
+{"head": "to fire", "relation": "isAfter", "tails": [" to put out fire", " to set on fire", " to set fire to"]}
+{"head": "to fire", "relation": "HasSubEvent", "tails": [" to fire", " to fire  fire", " get ready to fire"]}
+{"head": "to fire", "relation": "Causes", "tails": [" to fire", " to fire fire", " to fire  fire"]}
+{"head": "to fire", "relation": "xReason", "tails": [" to fire", " to fire fire", " to fire  fire"]}
+{"head": "to drag", "relation": "HinderedBy", "tails": [" to drag", " to drag ", " to drag  to the car"]}
+{"head": "to drag", "relation": "isBefore", "tails": [" to drag", " to drag someone", " to drag person"]}
+{"head": "to drag", "relation": "isAfter", "tails": [" use as a weapon", " use as a prop in a play", " to get to the other person"]}
+{"head": "to drag", "relation": "HasSubEvent", "tails": [" to drag  drag  drag  drag  drag  drag", " to drag  drag  drag  drag  drag", " to drag  drag  drag  drag  drag  drag  drag"]}
+{"head": "to drag", "relation": "Causes", "tails": [" to drag", " use as a weapon", " use as weapon"]}
+{"head": "to drag", "relation": "xReason", "tails": [" to drag", " use as a weapon", " use as weapon"]}
+{"head": "to cancel", "relation": "HinderedBy", "tails": [" to cancel", " to cancel ", " to cancel  to cancel "]}
+{"head": "to cancel", "relation": "isBefore", "tails": [" to cancel", " call in", " cancel the event"]}
+{"head": "to cancel", "relation": "isAfter", "tails": [" cancel the event", " cancel the appointment", " call in"]}
+{"head": "to cancel", "relation": "HasSubEvent", "tails": [" to cancel", " get in trouble", " get in car"]}
+{"head": "to cancel", "relation": "Causes", "tails": [" get in trouble", " have to cancel", " have to pay for"]}
+{"head": "to cancel", "relation": "xReason", "tails": [" have to pay for it", " have to cancel", " have to pay for"]}
+{"head": "to battle", "relation": "HinderedBy", "tails": [" to battle", " to battle ", " to battle  to battle"]}
+{"head": "to battle", "relation": "isBefore", "tails": [" to battle", " fight", " fight for freedom"]}
+{"head": "to battle", "relation": "isAfter", "tails": [" fight", " war", " battle"]}
+{"head": "to battle", "relation": "HasSubEvent", "tails": [" to battle", " fight", " fight for freedom"]}
+{"head": "to battle", "relation": "Causes", "tails": [" to battle", " fight", " fight for freedom"]}
+{"head": "to battle", "relation": "xReason", "tails": [" to battle", " fight", " fight for freedom"]}
+{"head": "restart", "relation": "ObjectUse", "tails": [" turn off", " start the computer", " restart computer"]}
+{"head": "restart", "relation": "AtLocation", "tails": [" computer", " car", " store"]}
+{"head": "restart", "relation": "CapableOf", "tails": [" turn off", " restart computer", " turn on"]}
+{"head": "restart", "relation": "HasProperty", "tails": [" found in computer", " restart", " found in car"]}
+{"head": "restart", "relation": "MadeUpOf", "tails": [" restart", " turn off", " turn on"]}
+{"head": "restart", "relation": "NotDesires", "tails": [" turn off", " restart computer", " restart"]}
+{"head": "restart", "relation": "Desires", "tails": [" restart computer", " start the computer", " start the car"]}
+{"head": "night", "relation": "ObjectUse", "tails": [" have a good night's sleep", " have a good time", " have a good night's rest"]}
+{"head": "night", "relation": "AtLocation", "tails": [" bed", " night", " night sky"]}
+{"head": "night", "relation": "CapableOf", "tails": [" wake up", " sleep all day", " wake up in morning"]}
+{"head": "night", "relation": "HasProperty", "tails": [" dark", " night", " light"]}
+{"head": "night", "relation": "MadeUpOf", "tails": [" night", " moon", " night sky"]}
+{"head": "night", "relation": "NotDesires", "tails": [" fall asleep", " sleep", " sleep during day"]}
+{"head": "night", "relation": "Desires", "tails": [" sleep", " sleep well", " have good sleep"]}
+{"head": "minutes", "relation": "ObjectUse", "tails": [" take a shower", " take a nap", " take a shower in"]}
+{"head": "minutes", "relation": "AtLocation", "tails": [" movie theater", " clock", " room"]}
+{"head": "minutes", "relation": "CapableOf", "tails": [" wait in line", " wait for doctor", " take shower"]}
+{"head": "minutes", "relation": "HasProperty", "tails": [" found in movie theater", " found in church", " long"]}
+{"head": "minutes", "relation": "MadeUpOf", "tails": [" time", " clock", " minutes"]}
+{"head": "minutes", "relation": "NotDesires", "tails": [" have to go to the bathroom", " have to wait", " have to go to bathroom"]}
+{"head": "minutes", "relation": "Desires", "tails": [" have a good time", " have a break from work", " have a break"]}
+{"head": "minute", "relation": "ObjectUse", "tails": [" take a shower", " take a nap", " take a nap in"]}
+{"head": "minute", "relation": "AtLocation", "tails": [" clock", " room", " time"]}
+{"head": "minute", "relation": "CapableOf", "tails": [" watch tv", " wait for doctor", " watch movie"]}
+{"head": "minute", "relation": "HasProperty", "tails": [" one hour", " found in clock", " one second"]}
+{"head": "minute", "relation": "MadeUpOf", "tails": [" clock", " minute", " time"]}
+{"head": "minute", "relation": "NotDesires", "tails": [" short of time", " have to wait", " have to wait for"]}
+{"head": "minute", "relation": "Desires", "tails": [" have time to do something", " have time to do it", " have time to do something else"]}
+{"head": "midfielder", "relation": "ObjectUse", "tails": [" play football", " play soccer", " play in defense"]}
+{"head": "midfielder", "relation": "AtLocation", "tails": [" soccer game", " soccer field", " soccer team"]}
+{"head": "midfielder", "relation": "CapableOf", "tails": [" play football", " play in defense", " play in midfield"]}
+{"head": "midfielder", "relation": "HasProperty", "tails": [" soccer player", " soccer", " soccer ball"]}
+{"head": "midfielder", "relation": "MadeUpOf", "tails": [" soccer ball", " soccer", " soccer player"]}
+{"head": "midfielder", "relation": "NotDesires", "tails": [" soccer ball", " play football", " soccer"]}
+{"head": "midfielder", "relation": "Desires", "tails": [" play football", " soccer", " play soccer"]}
+{"head": "kick", "relation": "ObjectUse", "tails": [" kick someone in the head", " kick someone in the face", " kick someone in the shin"]}
+{"head": "kick", "relation": "AtLocation", "tails": [" soccer game", " soccer field", " football field"]}
+{"head": "kick", "relation": "CapableOf", "tails": [" kick ball", " put foot down", " kick ball to ground"]}
+{"head": "kick", "relation": "HasProperty", "tails": [" found in soccer", " found on soccer field", " found in soccer game"]}
+{"head": "kick", "relation": "MadeUpOf", "tails": [" kick", " ball", " leg"]}
+{"head": "kick", "relation": "NotDesires", "tails": [" kick ball", " kick", " get hurt"]}
+{"head": "kick", "relation": "Desires", "tails": [" kick ball", " kick ball to ground", " kick ball to opponent"]}
+{"head": "keep hopes", "relation": "HinderedBy", "tails": [" hope for the best", " keep hope alive", " hope for the best."]}
+{"head": "keep hopes", "relation": "isBefore", "tails": [" hope for the best", " hope for the best outcome", " hope for best"]}
+{"head": "keep hopes", "relation": "isAfter", "tails": [" hope for the best", " hope for the best outcome", " hope for good things to happen"]}
+{"head": "keep hopes", "relation": "HasSubEvent", "tails": [" hope for the best", " hope for the best outcome", " hope for best"]}
+{"head": "keep hopes", "relation": "Causes", "tails": [" hope for the best", " hope to come true", " hope for the best outcome"]}
+{"head": "keep hopes", "relation": "xReason", "tails": [" hope for the best", " hope to come true", " hope for the best outcome"]}
+{"head": "hopes", "relation": "ObjectUse", "tails": [" hope for the best", " hope for the best in life", " hope for the best outcome"]}
+{"head": "hopes", "relation": "AtLocation", "tails": [" hope", " dream", " good news"]}
+{"head": "hopes", "relation": "CapableOf", "tails": [" hope for the best", " hope for the best outcome", " hope for good things to happen"]}
+{"head": "hopes", "relation": "HasProperty", "tails": [" hope", " hopefulness", " hopeful"]}
+{"head": "hopes", "relation": "MadeUpOf", "tails": [" hope", " hope for the best", " hope for the future"]}
+{"head": "hopes", "relation": "NotDesires", "tails": [" hope for the best", " hope to come true", " hope to be fulfilled"]}
+{"head": "hopes", "relation": "Desires", "tails": [" hope for the best", " hope to come true", " hope for the best outcome"]}
+{"head": "half", "relation": "ObjectUse", "tails": [" cut into pieces", " cut into slices", " make a pie"]}
+{"head": "half", "relation": "AtLocation", "tails": [" cupboard", " plate", " half of apple"]}
+{"head": "half", "relation": "CapableOf", "tails": [" cut in half", " cut into pieces", " cut into slices"]}
+{"head": "half", "relation": "HasProperty", "tails": [" half and half", " half of something", " half and half."]}
+{"head": "half", "relation": "MadeUpOf", "tails": [" half and half", " half", " two halves"]}
+{"head": "half", "relation": "NotDesires", "tails": [" half and half", " cut into pieces", " half of something"]}
+{"head": "half", "relation": "Desires", "tails": [" half and half", " half and half and half", " half and half and half and half"]}
+{"head": "game", "relation": "ObjectUse", "tails": [" play with friends", " have fun", " have fun with"]}
+{"head": "game", "relation": "AtLocation", "tails": [" video game", " game console", " game store"]}
+{"head": "game", "relation": "CapableOf", "tails": [" play with friends", " play", " play with friend"]}
+{"head": "game", "relation": "HasProperty", "tails": [" played on tv", " game", " played by people"]}
+{"head": "game", "relation": "MadeUpOf", "tails": [" game", " game system", " video game"]}
+{"head": "game", "relation": "NotDesires", "tails": [" win or lose", " lose", " lose to opponent"]}
+{"head": "game", "relation": "Desires", "tails": [" have fun", " play with friends", " have fun with"]}
+{"head": "fire winner", "relation": "HinderedBy", "tails": [" fire", " fire winner", " win the lottery"]}
+{"head": "fire winner", "relation": "isBefore", "tails": [" fire", " fireman", " firewood"]}
+{"head": "fire winner", "relation": "isAfter", "tails": [" fire", " fireman", " firewood"]}
+{"head": "fire winner", "relation": "HasSubEvent", "tails": [" burn down house", " burn house down", " burn down building"]}
+{"head": "fire winner", "relation": "Causes", "tails": [" fire", " heat", " firewood"]}
+{"head": "fire winner", "relation": "xReason", "tails": [" fire", " win the lottery", " win the war"]}
+{"head": "finish", "relation": "ObjectUse", "tails": [" finish the project", " finish the job", " put on the table"]}
+{"head": "finish", "relation": "AtLocation", "tails": [" kitchen", " finish work", " finish"]}
+{"head": "finish", "relation": "CapableOf", "tails": [" clean up mess", " clean up", " finish task"]}
+{"head": "finish", "relation": "HasProperty", "tails": [" finish", " clean up", " finish line"]}
+{"head": "finish", "relation": "MadeUpOf", "tails": [" finish line", " finish", " finisher"]}
+{"head": "finish", "relation": "NotDesires", "tails": [" finish", " finish work", " finish task"]}
+{"head": "finish", "relation": "Desires", "tails": [" clean up mess", " finish job", " clean up"]}
+{"head": "exit", "relation": "ObjectUse", "tails": [" exit building", " exit from building", " exit"]}
+{"head": "exit", "relation": "AtLocation", "tails": [" exit", " exit door", " exit ramp"]}
+{"head": "exit", "relation": "CapableOf", "tails": [" exit building", " enter building", " exit room"]}
+{"head": "exit", "relation": "HasProperty", "tails": [" exit", " exit door", " exit from building"]}
+{"head": "exit", "relation": "MadeUpOf", "tails": [" exit", " exit door", " exit ramp"]}
+{"head": "exit", "relation": "NotDesires", "tails": [" exit", " exit door", " exit from building"]}
+{"head": "exit", "relation": "Desires", "tails": [" get out of there", " exit", " get out of car"]}
+{"head": "drag themselves", "relation": "HinderedBy", "tails": [" get out of bed", " get out of the way", " get out of the car"]}
+{"head": "drag themselves", "relation": "isBefore", "tails": [" get out of bed", " get out of chair", " get out of car"]}
+{"head": "drag themselves", "relation": "isAfter", "tails": [" get out of bed", " get out of chair", " get out of car"]}
+{"head": "drag themselves", "relation": "HasSubEvent", "tails": [" get out of bed", " get out of chair", " get out of way"]}
+{"head": "drag themselves", "relation": "Causes", "tails": [" get out of bed", " get out of chair", " drag themselves"]}
+{"head": "drag themselves", "relation": "xReason", "tails": [" get out of bed", " get out of chair", " get out of a car"]}
+{"head": "door", "relation": "ObjectUse", "tails": [" open and close", " open to get in", " open to get out"]}
+{"head": "door", "relation": "AtLocation", "tails": [" house", " garage", " doorstop"]}
+{"head": "door", "relation": "CapableOf", "tails": [" open and close", " open", " close and lock"]}
+{"head": "door", "relation": "HasProperty", "tails": [" found in house", " found in home", " found in building"]}
+{"head": "door", "relation": "MadeUpOf", "tails": [" door handle", " door knob", " doorstop"]}
+{"head": "door", "relation": "NotDesires", "tails": [" open", " open and close", " open and shut"]}
+{"head": "door", "relation": "Desires", "tails": [" open", " open and close", " open to get in"]}
+{"head": "cancel minutes", "relation": "HinderedBy", "tails": [" have no more minutes", " have no more time to do it", " have no more minutes to use"]}
+{"head": "cancel minutes", "relation": "isBefore", "tails": [" get out of work early", " get out of work", " have less time to do something"]}
+{"head": "cancel minutes", "relation": "isAfter", "tails": [" get out of work early", " get out of work", " get out of work on time"]}
+{"head": "cancel minutes", "relation": "HasSubEvent", "tails": [" get out of line", " get out of work", " get out of work early"]}
+{"head": "cancel minutes", "relation": "Causes", "tails": [" have less time to do something else", " have less time to do other things", " have less time to do something"]}
+{"head": "cancel minutes", "relation": "xReason", "tails": [" have less time to do other things", " have less time to do something else", " get out of work early"]}
+{"head": "cancel kick", "relation": "HinderedBy", "tails": [" get out of the way", " get out of the car", " get out of the game"]}
+{"head": "cancel kick", "relation": "isBefore", "tails": [" punch out", " kick out", " kick"]}
+{"head": "cancel kick", "relation": "isAfter", "tails": [" kick", " kick out", " punch"]}
+{"head": "cancel kick", "relation": "HasSubEvent", "tails": [" get out of the way", " get out of chair", " get out of way"]}
+{"head": "cancel kick", "relation": "Causes", "tails": [" get out of the way", " get out of a fight", " get out of the game"]}
+{"head": "cancel kick", "relation": "xReason", "tails": [" get out of the way", " get out of fight", " get out of the game"]}
+{"head": "battle Boro", "relation": "HinderedBy", "tails": [" battle", " fight", " fight with"]}
+{"head": "battle Boro", "relation": "isBefore", "tails": [" fight", " battle", " fight for"]}
+{"head": "battle Boro", "relation": "isAfter", "tails": [" fight", " battle", " fight for"]}
+{"head": "battle Boro", "relation": "HasSubEvent", "tails": [" fight", " get injured", " fight with"]}
+{"head": "battle Boro", "relation": "Causes", "tails": [" battle", " fight", " defeat"]}
+{"head": "battle Boro", "relation": "xReason", "tails": [" battle", " fight", " fight for"]}
+{"head": "alive Arsenal hopes", "relation": "ObjectUse", "tails": [" hope for the best", " win the game", " win the cup"]}
+{"head": "alive Arsenal hopes", "relation": "AtLocation", "tails": [" football team", " win the game", " win the cup"]}
+{"head": "alive Arsenal hopes", "relation": "CapableOf", "tails": [" hope for the best", " win the game", " win the match"]}
+{"head": "alive Arsenal hopes", "relation": "HasProperty", "tails": [" none", " hope", " good"]}
+{"head": "alive Arsenal hopes", "relation": "MadeUpOf", "tails": [" hope", " win or lose", " win the game"]}
+{"head": "alive Arsenal hopes", "relation": "NotDesires", "tails": [" hope for the best", " win the game", " win the cup"]}
+{"head": "alive Arsenal hopes", "relation": "Desires", "tails": [" hope for the best", " none", " hope for the future"]}
+{"head": "The Germany midfielder fired home a 71st-minute winner to finally kill off battling Boro, who had dragged themselves back into the game when Alvaro Negredo cancelled out Alexis Sanchez's first-half free-kick five minutes after the restart.", "relation": "xAttr", "tails": [" goal-scorer", " goal-getter", " goal-scoring machine"]}
+{"head": "The Germany midfielder fired home a 71st-minute winner to finally kill off battling Boro, who had dragged themselves back into the game when Alvaro Negredo cancelled out Alexis Sanchez's first-half free-kick five minutes after the restart.", "relation": "xWant", "tails": [" to win the game", " to celebrate", " to celebrate with his team"]}
+{"head": "The Germany midfielder fired home a 71st-minute winner to finally kill off battling Boro, who had dragged themselves back into the game when Alvaro Negredo cancelled out Alexis Sanchez's first-half free-kick five minutes after the restart.", "relation": "xNeed", "tails": [" to get the ball", " the ball", " the ball to go in"]}
+{"head": "The Germany midfielder fired home a 71st-minute winner to finally kill off battling Boro, who had dragged themselves back into the game when Alvaro Negredo cancelled out Alexis Sanchez's first-half free-kick five minutes after the restart.", "relation": "xEffect", "tails": [" win the game", " win the match", " win the game."]}
+{"head": "The Germany midfielder fired home a 71st-minute winner to finally kill off battling Boro, who had dragged themselves back into the game when Alvaro Negredo cancelled out Alexis Sanchez's first-half free-kick five minutes after the restart.", "relation": "HinderedBy", "tails": [" the ball", " the game", " the goal"]}
+{"head": "The Germany midfielder fired home a 71st-minute winner to finally kill off battling Boro, who had dragged themselves back into the game when Alvaro Negredo cancelled out Alexis Sanchez's first-half free-kick five minutes after the restart.", "relation": "oWant", "tails": [" win the game", " to score a goal", " to score the winner"]}
+{"head": "The Germany midfielder fired home a 71st-minute winner to finally kill off battling Boro, who had dragged themselves back into the game when Alvaro Negredo cancelled out Alexis Sanchez's first-half free-kick five minutes after the restart.", "relation": "xReact", "tails": [" happy", " happy.", " relieved"]}
+{"head": "The Germany midfielder fired home a 71st-minute winner to finally kill off battling Boro, who had dragged themselves back into the game when Alvaro Negredo cancelled out Alexis Sanchez's first-half free-kick five minutes after the restart.", "relation": "oEffect", "tails": [" win the game", " win the match", " win game"]}
+{"head": "The Germany midfielder fired home a 71st-minute winner to finally kill off battling Boro, who had dragged themselves back into the game when Alvaro Negredo cancelled out Alexis Sanchez's first-half free-kick five minutes after the restart.", "relation": "xIntent", "tails": [" to win the game", " the team to win the game", " the team to win the game."]}
+{"head": "The Germany midfielder fired home a 71st-minute winner to finally kill off battling Boro, who had dragged themselves back into the game when Alvaro Negredo cancelled out Alexis Sanchez's first-half free-kick five minutes after the restart.", "relation": "oReact", "tails": [" the team to win the game", " the game to be over", " none"]}
+{"head": "The Germany midfielder fired home a 71st-minute winner to finally kill off battling Boro, who had dragged themselves back into the game when Alvaro Negredo cancelled out Alexis Sanchez's first-half free-kick five minutes after the restart.", "relation": "isBefore", "tails": [" the ball to go in the back of the net", " the ball to go in the net", " the ball to go in the back of the net."]}
+{"head": "The Germany midfielder fired home a 71st-minute winner to finally kill off battling Boro, who had dragged themselves back into the game when Alvaro Negredo cancelled out Alexis Sanchez's first-half free-kick five minutes after the restart.", "relation": "isAfter", "tails": [" the ball to go in the net", " win the game", " the ball to go into the net"]}
+{"head": "The Germany midfielder fired home a 71st-minute winner to finally kill off battling Boro, who had dragged themselves back into the game when Alvaro Negredo cancelled out Alexis Sanchez's first-half free-kick five minutes after the restart.", "relation": "HasSubEvent", "tails": [" win the game", " win the match", " the ball to go in"]}
+{"head": "The Germany midfielder fired home a 71st-minute winner to finally kill off battling Boro, who had dragged themselves back into the game when Alvaro Negredo cancelled out Alexis Sanchez's first-half free-kick five minutes after the restart.", "relation": "Causes", "tails": [" the ball to go in the net", " win the game", " the ball to go into the net"]}
+{"head": "The Germany midfielder fired home a 71st-minute winner to finally kill off battling Boro, who had dragged themselves back into the game when Alvaro Negredo cancelled out Alexis Sanchez's first-half free-kick five minutes after the restart.", "relation": "xReason", "tails": [" win the game", " the ball to go in the net", " win the game for the team"]}
+{"head": "Premier League exit door", "relation": "ObjectUse", "tails": [" get out of the car", " exit the stadium", " get out of the stadium"]}
+{"head": "Premier League exit door", "relation": "AtLocation", "tails": [" stadium", " football stadium", " soccer stadium"]}
+{"head": "Premier League exit door", "relation": "CapableOf", "tails": [" exit stadium", " walk out of", " walk through"]}
+{"head": "Premier League exit door", "relation": "HasProperty", "tails": [" exit door", " used by footballers", " used by players"]}
+{"head": "Premier League exit door", "relation": "MadeUpOf", "tails": [" exit", " exit door", " door handle"]}
+{"head": "Premier League exit door", "relation": "NotDesires", "tails": [" exit door", " exit from stadium", " exit door from stadium"]}
+{"head": "Premier League exit door", "relation": "Desires", "tails": [" to leave the stadium", " exit from the stadium", " exit from stadium"]}
+{"head": "Monday night", "relation": "ObjectUse", "tails": [" have a good night's sleep", " have a good time", " have a party"]}
+{"head": "Monday night", "relation": "AtLocation", "tails": [" bed and breakfast", " night club", " bed"]}
+{"head": "Monday night", "relation": "CapableOf", "tails": [" sleep late", " sleep in", " eat dinner"]}
+{"head": "Monday night", "relation": "HasProperty", "tails": [" found in hotel room", " Monday night", " found in church"]}
+{"head": "Monday night", "relation": "MadeUpOf", "tails": [" night", " dinner", " bed"]}
+{"head": "Monday night", "relation": "NotDesires", "tails": [" have to go to work", " have to go to bed", " have to go to the bathroom"]}
+{"head": "Monday night", "relation": "Desires", "tails": [" have a good time", " have a good night's sleep", " have a good time with friends"]}
+{"head": "Middlesbrough", "relation": "ObjectUse", "tails": [" play football", " play football in", " play soccer"]}
+{"head": "Middlesbrough", "relation": "AtLocation", "tails": [" middlesbrough", " city", " middlesbrough city"]}
+{"head": "Middlesbrough", "relation": "CapableOf", "tails": [" play football", " play soccer", " play football in"]}
+{"head": "Middlesbrough", "relation": "HasProperty", "tails": [" middlesbrough", " one of England's biggest cities", " one of the cities in the UK"]}
+{"head": "Middlesbrough", "relation": "MadeUpOf", "tails": [" middlesbrough", " michigan", " city"]}
+{"head": "Middlesbrough", "relation": "NotDesires", "tails": [" get mugged", " get mugged by mugger", " get mugged by a criminal"]}
+{"head": "Middlesbrough", "relation": "Desires", "tails": [" to play football", " have a good time", " to be a city"]}
+{"head": "Mesut Ozil kept alive Arsenal's hopes of a top-four finish as Middlesbrough slid closer to the Premier League exit door on Monday night.", "relation": "xAttr", "tails": [" goal-scorer", " goal-getter", " goal-scoring machine"]}
+{"head": "Mesut Ozil kept alive Arsenal's hopes of a top-four finish as Middlesbrough slid closer to the Premier League exit door on Monday night.", "relation": "xWant", "tails": [" to win the game", " to win the match", " to win the game."]}
+{"head": "Mesut Ozil kept alive Arsenal's hopes of a top-four finish as Middlesbrough slid closer to the Premier League exit door on Monday night.", "relation": "xNeed", "tails": [" win the game", " to play well", " play well"]}
+{"head": "Mesut Ozil kept alive Arsenal's hopes of a top-four finish as Middlesbrough slid closer to the Premier League exit door on Monday night.", "relation": "xEffect", "tails": [" win the game", " win the match", " win the game."]}
+{"head": "Mesut Ozil kept alive Arsenal's hopes of a top-four finish as Middlesbrough slid closer to the Premier League exit door on Monday night.", "relation": "HinderedBy", "tails": [" They are not good enough to win the league.", " They are not good enough to win the game.", " They are not good enough to beat them."]}
+{"head": "Mesut Ozil kept alive Arsenal's hopes of a top-four finish as Middlesbrough slid closer to the Premier League exit door on Monday night.", "relation": "oWant", "tails": [" to win the game", " win the game", " to win the match"]}
+{"head": "Mesut Ozil kept alive Arsenal's hopes of a top-four finish as Middlesbrough slid closer to the Premier League exit door on Monday night.", "relation": "xReact", "tails": [" happy", " happy.", " relieved"]}
+{"head": "Mesut Ozil kept alive Arsenal's hopes of a top-four finish as Middlesbrough slid closer to the Premier League exit door on Monday night.", "relation": "oEffect", "tails": [" win the game", " none", " win the match"]}
+{"head": "Mesut Ozil kept alive Arsenal's hopes of a top-four finish as Middlesbrough slid closer to the Premier League exit door on Monday night.", "relation": "xIntent", "tails": [" to win the game", " win the game", " to win the game."]}
+{"head": "Mesut Ozil kept alive Arsenal's hopes of a top-four finish as Middlesbrough slid closer to the Premier League exit door on Monday night.", "relation": "oReact", "tails": [" none", " win the game", " happy"]}
+{"head": "Mesut Ozil kept alive Arsenal's hopes of a top-four finish as Middlesbrough slid closer to the Premier League exit door on Monday night.", "relation": "isBefore", "tails": [" win the game", " win the match", " win the game."]}
+{"head": "Mesut Ozil kept alive Arsenal's hopes of a top-four finish as Middlesbrough slid closer to the Premier League exit door on Monday night.", "relation": "isAfter", "tails": [" win the game", " win the match", " win the league"]}
+{"head": "Mesut Ozil kept alive Arsenal's hopes of a top-four finish as Middlesbrough slid closer to the Premier League exit door on Monday night.", "relation": "HasSubEvent", "tails": [" win the game", " win the match", " win game"]}
+{"head": "Mesut Ozil kept alive Arsenal's hopes of a top-four finish as Middlesbrough slid closer to the Premier League exit door on Monday night.", "relation": "Causes", "tails": [" win the game", " win the match", " win the league"]}
+{"head": "Mesut Ozil kept alive Arsenal's hopes of a top-four finish as Middlesbrough slid closer to the Premier League exit door on Monday night.", "relation": "xReason", "tails": [" win the game", " win the match", " win the league"]}
+{"head": "Mesut Ozil", "relation": "ObjectUse", "tails": [" play football", " play soccer", " play football with"]}
+{"head": "Mesut Ozil", "relation": "AtLocation", "tails": [" soccer game", " football field", " soccer field"]}
+{"head": "Mesut Ozil", "relation": "CapableOf", "tails": [" play football", " play in a team", " play in the team"]}
+{"head": "Mesut Ozil", "relation": "HasProperty", "tails": [" played by Mesut Ozil", " played by Mesut Ozil.", " none"]}
+{"head": "Mesut Ozil", "relation": "MadeUpOf", "tails": [" soccer ball", " ball", " shirt"]}
+{"head": "Mesut Ozil", "relation": "NotDesires", "tails": [" none", " play football", " get a goal"]}
+{"head": "Mesut Ozil", "relation": "Desires", "tails": [" none", " to win the game", " to be a good player"]}
+{"head": "Germany midfielder", "relation": "ObjectUse", "tails": [" play football", " play soccer", " play in Germany"]}
+{"head": "Germany midfielder", "relation": "AtLocation", "tails": [" soccer game", " soccer match", " football field"]}
+{"head": "Germany midfielder", "relation": "CapableOf", "tails": [" play football", " play for Germany", " play soccer"]}
+{"head": "Germany midfielder", "relation": "HasProperty", "tails": [" one of the best players in the world", " one of Germany's best players", " one of the best players in Germany"]}
+{"head": "Germany midfielder", "relation": "MadeUpOf", "tails": [" soccer ball", " ball", " football"]}
+{"head": "Germany midfielder", "relation": "NotDesires", "tails": [" play football", " soccer game", " play soccer"]}
+{"head": "Germany midfielder", "relation": "Desires", "tails": [" play football", " play in Germany", " play soccer"]}
+{"head": "Boro", "relation": "ObjectUse", "tails": [" live in", " living in", " get a job"]}
+{"head": "Boro", "relation": "AtLocation", "tails": [" city", " town", " beach town"]}
+{"head": "Boro", "relation": "CapableOf", "tails": [" go to beach", " go to the beach", " get married in"]}
+{"head": "Boro", "relation": "HasProperty", "tails": [" one of the world's most beautiful places", " one of many cities in the world", " one of the world's most beautiful cities"]}
+{"head": "Boro", "relation": "MadeUpOf", "tails": [" boro", " water", " borussia"]}
+{"head": "Boro", "relation": "NotDesires", "tails": [" live in", " live in boro", " live in bororo"]}
+{"head": "Boro", "relation": "Desires", "tails": [" live in", " living in", " live in."]}
+{"head": "Alvaro Negredo", "relation": "ObjectUse", "tails": [" make a movie", " get a promotion", " make a movie about"]}
+{"head": "Alvaro Negredo", "relation": "AtLocation", "tails": [" alvarez", " alvaro", " car"]}
+{"head": "Alvaro Negredo", "relation": "CapableOf", "tails": [" get a new job", " get a promotion", " get a job"]}
+{"head": "Alvaro Negredo", "relation": "HasProperty", "tails": [" Alvaro Negredo", " Alvaro Negredo.", " none"]}
+{"head": "Alvaro Negredo", "relation": "MadeUpOf", "tails": [" alma mater", " alibi", " alto"]}
+{"head": "Alvaro Negredo", "relation": "NotDesires", "tails": [" none", " get a new job", " have a bad day"]}
+{"head": "Alvaro Negredo", "relation": "Desires", "tails": [" none", " to win the game", " to win"]}
+{"head": "Alexis Sanchez half free kick", "relation": "ObjectUse", "tails": [" get a goal", " make a goal", " play a game"]}
+{"head": "Alexis Sanchez half free kick", "relation": "AtLocation", "tails": [" soccer game", " football field", " soccer match"]}
+{"head": "Alexis Sanchez half free kick", "relation": "CapableOf", "tails": [" get a free kick", " get a goal", " play a game"]}
+{"head": "Alexis Sanchez half free kick", "relation": "HasProperty", "tails": [" one of the best players in the world", " one of the best players in the world.", " one of the best goals of the season"]}
+{"head": "Alexis Sanchez half free kick", "relation": "MadeUpOf", "tails": [" free kick", " dribble", " dribbling"]}
+{"head": "Alexis Sanchez half free kick", "relation": "NotDesires", "tails": [" get a free kick", " get a goal", " get a free kick back"]}
+{"head": "Alexis Sanchez half free kick", "relation": "Desires", "tails": [" to score a goal", " to win the game", " to score a goal."]}
+{"head": "71st minute winner", "relation": "ObjectUse", "tails": [" win the game", " win the match", " win a game"]}
+{"head": "71st minute winner", "relation": "AtLocation", "tails": [" soccer game", " soccer match", " goal"]}
+{"head": "71st minute winner", "relation": "CapableOf", "tails": [" win the game", " win game", " win the match"]}
+{"head": "71st minute winner", "relation": "HasProperty", "tails": [" found in goal", " found in soccer ball", " found in soccer"]}
+{"head": "71st minute winner", "relation": "MadeUpOf", "tails": ["71st minute winner", "71st minute", "71st minute goal"]}
+{"head": "71st minute winner", "relation": "NotDesires", "tails": [" win the game", " win game", " win the match"]}
+{"head": "71st minute winner", "relation": "Desires", "tails": [" to win the game", " win the game", " to win the match"]}

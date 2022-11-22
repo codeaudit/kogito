@@ -1,0 +1,223 @@
+{"head": "watch video", "relation": "HinderedBy", "tails": [" watch video", " watch youtube video", " watch tv"]}
+{"head": "watch video", "relation": "isBefore", "tails": [" listen to music", " watch movie", " watch video"]}
+{"head": "watch video", "relation": "isAfter", "tails": [" watch movie", " watch video", " listen to music"]}
+{"head": "watch video", "relation": "HasSubEvent", "tails": [" turn off tv", " turn on tv", " turn off TV"]}
+{"head": "watch video", "relation": "Causes", "tails": [" watch movie", " watch video", " watch tv"]}
+{"head": "watch video", "relation": "xReason", "tails": [" watch movie", " watch video", " watch tv"]}
+{"head": "video", "relation": "ObjectUse", "tails": [" watch on tv", " play on the computer", " watch on the computer"]}
+{"head": "video", "relation": "AtLocation", "tails": [" video game", " movie", " video games"]}
+{"head": "video", "relation": "CapableOf", "tails": [" play video game", " play on computer", " watch on tv"]}
+{"head": "video", "relation": "HasProperty", "tails": [" video game", " found on youtube", " found on internet"]}
+{"head": "video", "relation": "MadeUpOf", "tails": [" video game", " video", " video player"]}
+{"head": "video", "relation": "NotDesires", "tails": [" video game", " watch on tv", " video games"]}
+{"head": "video", "relation": "Desires", "tails": [" watch on tv", " video game", " watch"]}
+{"head": "to watch", "relation": "HinderedBy", "tails": [" to watch", " to watch ", " to watch tv"]}
+{"head": "to watch", "relation": "isBefore", "tails": [" watch tv", " to watch tv", " to watch a movie"]}
+{"head": "to watch", "relation": "isAfter", "tails": [" watch tv", " watch movie", " watch tv show"]}
+{"head": "to watch", "relation": "HasSubEvent", "tails": [" turn on tv", " to watch", " watch tv"]}
+{"head": "to watch", "relation": "Causes", "tails": [" watch tv", " to watch", " to watch tv"]}
+{"head": "to watch", "relation": "xReason", "tails": [" watch tv", " to watch tv", " to watch"]}
+{"head": "to trample", "relation": "HinderedBy", "tails": [" to trample", " to trample ", " to trample something"]}
+{"head": "to trample", "relation": "isBefore", "tails": [" to trample", " to trample to trample", " to trample on"]}
+{"head": "to trample", "relation": "isAfter", "tails": [" to trample", " to trample to trample", " to be a bully"]}
+{"head": "to trample", "relation": "HasSubEvent", "tails": [" to trample", " to trample  to trample", " to trample to trample"]}
+{"head": "to trample", "relation": "Causes", "tails": [" to be mean", " to be a bully", " to make a mess"]}
+{"head": "to trample", "relation": "xReason", "tails": [" to trample", " to trample someone", " to trample something"]}
+{"head": "to start", "relation": "HinderedBy", "tails": [" to start", " to start ", " to start something"]}
+{"head": "to start", "relation": "isBefore", "tails": [" to start", " to start ", " to start the game"]}
+{"head": "to start", "relation": "isAfter", "tails": [" to start", " to get started", " to start the game"]}
+{"head": "to start", "relation": "HasSubEvent", "tails": [" to start", " get ready", " to start "]}
+{"head": "to start", "relation": "Causes", "tails": [" to start", " to start ", " to start something"]}
+{"head": "to start", "relation": "xReason", "tails": [" to start", " to start something", " get started"]}
+{"head": "to see", "relation": "HinderedBy", "tails": [" to see", " to see ", " to see something"]}
+{"head": "to see", "relation": "isBefore", "tails": [" to see", " to see what's going on", " to see what is going on"]}
+{"head": "to see", "relation": "isAfter", "tails": [" to see what's going on", " to see what they are looking at", " to see what is going on"]}
+{"head": "to see", "relation": "HasSubEvent", "tails": [" to see", " to see  see", " to see "]}
+{"head": "to see", "relation": "Causes", "tails": [" to see", " to see ", " to see something"]}
+{"head": "to see", "relation": "xReason", "tails": [" to see", " to see something", " look at"]}
+{"head": "to run", "relation": "HinderedBy", "tails": [" to run", " to run fast", " to run "]}
+{"head": "to run", "relation": "isBefore", "tails": [" to run fast", " to run", " to run faster"]}
+{"head": "to run", "relation": "isAfter", "tails": [" to run fast", " to run faster", " to run"]}
+{"head": "to run", "relation": "HasSubEvent", "tails": [" get out of breath", " to run", " to run fast"]}
+{"head": "to run", "relation": "Causes", "tails": [" to run", " to run fast", " get exercise"]}
+{"head": "to run", "relation": "xReason", "tails": [" get exercise", " to run fast", " to run"]}
+{"head": "to make", "relation": "HinderedBy", "tails": [" to make ", " to make", " to make  to make "]}
+{"head": "to make", "relation": "isBefore", "tails": [" to make", " to make a cake", " to make something"]}
+{"head": "to make", "relation": "isAfter", "tails": [" to make a cake", " to make", " to make something"]}
+{"head": "to make", "relation": "HasSubEvent", "tails": [" to make", " to make ", " to make something"]}
+{"head": "to make", "relation": "Causes", "tails": [" to make", " to make ", " to make something"]}
+{"head": "to make", "relation": "xReason", "tails": [" to make", " to make something", " to make  food"]}
+{"head": "to do", "relation": "HinderedBy", "tails": [" to do", " to do ", " to do  to do "]}
+{"head": "to do", "relation": "isBefore", "tails": [" to do", " have to do", " to do "]}
+{"head": "to do", "relation": "isAfter", "tails": [" to do", " have to do", " to do something"]}
+{"head": "to do", "relation": "HasSubEvent", "tails": [" to do", " to do ", " get out of bed"]}
+{"head": "to do", "relation": "Causes", "tails": [" to do", " have to do", " to do "]}
+{"head": "to do", "relation": "xReason", "tails": [" to do", " have to do", " to do "]}
+{"head": "to cry", "relation": "HinderedBy", "tails": [" to cry", " to cry ", " to cry  "]}
+{"head": "to cry", "relation": "isBefore", "tails": [" to cry", " to be sad", " to feel sad"]}
+{"head": "to cry", "relation": "isAfter", "tails": [" to cry", " to be sad", " to feel sad"]}
+{"head": "to cry", "relation": "HasSubEvent", "tails": [" to cry", " feel sad", " get sad"]}
+{"head": "to cry", "relation": "Causes", "tails": [" to cry", " feel sad", " to cry "]}
+{"head": "to cry", "relation": "xReason", "tails": [" to cry", " feel sad", " to be sad"]}
+{"head": "see video", "relation": "HinderedBy", "tails": [" see video", " watch video", " watch"]}
+{"head": "see video", "relation": "isBefore", "tails": [" watch video", " watch", " watch movie"]}
+{"head": "see video", "relation": "isAfter", "tails": [" watch", " watch movie", " watch video"]}
+{"head": "see video", "relation": "HasSubEvent", "tails": [" watch video", " look at", " see what happens"]}
+{"head": "see video", "relation": "Causes", "tails": [" watch video", " watch", " look at"]}
+{"head": "see video", "relation": "xReason", "tails": [" watch video", " watch", " watch movie"]}
+{"head": "mom", "relation": "ObjectUse", "tails": [" have a conversation with", " have sex with", " give birth to baby"]}
+{"head": "mom", "relation": "AtLocation", "tails": [" mom's house", " mom's car", " mother's house"]}
+{"head": "mom", "relation": "CapableOf", "tails": [" mother daughter to grow up", " mother to child", " mother to son"]}
+{"head": "mom", "relation": "HasProperty", "tails": [" mother", " mom", " mom is"]}
+{"head": "mom", "relation": "MadeUpOf", "tails": [" mother", " mom", " mommy"]}
+{"head": "mom", "relation": "NotDesires", "tails": [" mother to die", " mom to die", " mom to be dead"]}
+{"head": "mom", "relation": "Desires", "tails": [" motherly love", " mother's love", " mom to be happy"]}
+{"head": "man", "relation": "ObjectUse", "tails": [" man of steel", " man's mouth", " man's place"]}
+{"head": "man", "relation": "AtLocation", "tails": [" mannequin", " man's house", " man's home"]}
+{"head": "man", "relation": "CapableOf", "tails": [" man of steel", " men to work", " men to be men"]}
+{"head": "man", "relation": "HasProperty", "tails": [" found in woods", " man", " man's body"]}
+{"head": "man", "relation": "MadeUpOf", "tails": [" man's mouth", " mannequin", " man's hand"]}
+{"head": "man", "relation": "NotDesires", "tails": [" man to die", " man to be dead", " man's body"]}
+{"head": "man", "relation": "Desires", "tails": [" man's best friend", " man's best interests at heart", " man's best interest at heart"]}
+{"head": "make limits", "relation": "HinderedBy", "tails": [" make rules", " make sure no one gets in", " make sure no one gets hurt"]}
+{"head": "make limits", "relation": "isBefore", "tails": [" make rules", " make sure no one gets hurt", " make sure no one gets in"]}
+{"head": "make limits", "relation": "isAfter", "tails": [" make rules", " make sure no one gets in", " make sure no one gets hurt"]}
+{"head": "make limits", "relation": "HasSubEvent", "tails": [" make rules", " make sure no one gets hurt", " make sure no one gets in"]}
+{"head": "make limits", "relation": "Causes", "tails": [" make rules", " make sure no one gets hurt", " make sure no one gets in"]}
+{"head": "make limits", "relation": "xReason", "tails": [" make rules", " make sure no one gets hurt", " make sure no one gets in"]}
+{"head": "make Youtube", "relation": "HinderedBy", "tails": [" make a youtube video", " make a youtube channel", " make a video"]}
+{"head": "make Youtube", "relation": "isBefore", "tails": [" upload video to youtube", " watch youtube videos", " upload videos to youtube"]}
+{"head": "make Youtube", "relation": "isAfter", "tails": [" upload video to youtube", " upload videos to youtube", " upload video"]}
+{"head": "make Youtube", "relation": "HasSubEvent", "tails": [" upload video to youtube", " upload video", " upload video on youtube"]}
+{"head": "make Youtube", "relation": "Causes", "tails": [" upload video to youtube", " make youtube videos", " make videos"]}
+{"head": "make Youtube", "relation": "xReason", "tails": [" make youtube videos", " make videos", " make youtube video"]}
+{"head": "limits", "relation": "ObjectUse", "tails": [" make sure you don't go over", " make sure you don't get caught", " make sure you don't go to jail"]}
+{"head": "limits", "relation": "AtLocation", "tails": [" prison", " room", " car"]}
+{"head": "limits", "relation": "CapableOf", "tails": [" put in place", " set rules", " put in car"]}
+{"head": "limits", "relation": "HasProperty", "tails": [" restricted by law", " limited by law", " limited by laws"]}
+{"head": "limits", "relation": "MadeUpOf", "tails": [" limit", " limits", " rule"]}
+{"head": "limits", "relation": "NotDesires", "tails": [" have to obey", " have to do", " put in place"]}
+{"head": "limits", "relation": "Desires", "tails": [" make sure no one gets hurt", " make sure no one gets in", " make sure no one gets in trouble"]}
+{"head": "kitchen", "relation": "ObjectUse", "tails": [" cook food in", " cook in", " cook food"]}
+{"head": "kitchen", "relation": "AtLocation", "tails": [" kitchen", " house", " home"]}
+{"head": "kitchen", "relation": "CapableOf", "tails": [" cook food", " cook food in", " cook dinner"]}
+{"head": "kitchen", "relation": "HasProperty", "tails": [" kitchen", " found in house", " found in home"]}
+{"head": "kitchen", "relation": "MadeUpOf", "tails": [" kitchen", " stove", " kitchen sink"]}
+{"head": "kitchen", "relation": "NotDesires", "tails": [" kitchen", " cook food in", " cook food"]}
+{"head": "kitchen", "relation": "Desires", "tails": [" kitchen", " cook food in", " cook food"]}
+{"head": "elephant", "relation": "ObjectUse", "tails": [" make a paper airplane", " elephants", " elephants in the zoo"]}
+{"head": "elephant", "relation": "AtLocation", "tails": [" zoo", " elephants", " elephant cage"]}
+{"head": "elephant", "relation": "CapableOf", "tails": [" eat elephant", " see elephants", " eat elephant meat"]}
+{"head": "elephant", "relation": "HasProperty", "tails": [" one of the world's most famous animals", " one of the world's most beautiful animals", " two legs"]}
+{"head": "elephant", "relation": "MadeUpOf", "tails": [" elephant's tail", " elephant's horn", " elephant's trunk"]}
+{"head": "elephant", "relation": "NotDesires", "tails": [" elephants in zoo", " elephants", " elephants in jungle"]}
+{"head": "elephant", "relation": "Desires", "tails": [" elephants", " have a home", " elephant's tail"]}
+{"head": "do dishes", "relation": "HinderedBy", "tails": [" clean up", " do dishes", " clean up mess"]}
+{"head": "do dishes", "relation": "isBefore", "tails": [" wash hands", " clean up", " wash dishes"]}
+{"head": "do dishes", "relation": "isAfter", "tails": [" wash hands", " clean up", " dishwasher"]}
+{"head": "do dishes", "relation": "HasSubEvent", "tails": [" wash hands", " clean up", " put away dishes"]}
+{"head": "do dishes", "relation": "Causes", "tails": [" clean up", " wash hands", " put away dishes"]}
+{"head": "do dishes", "relation": "xReason", "tails": [" clean up", " wash hands", " clean up mess"]}
+{"head": "dishes", "relation": "ObjectUse", "tails": [" put in the dishwasher", " put on the table", " clean up"]}
+{"head": "dishes", "relation": "AtLocation", "tails": [" kitchen", " table", " plate"]}
+{"head": "dishes", "relation": "CapableOf", "tails": [" clean up", " put away", " wash hands"]}
+{"head": "dishes", "relation": "HasProperty", "tails": [" put in dishwasher", " put on table", " used in kitchen"]}
+{"head": "dishes", "relation": "MadeUpOf", "tails": [" dishwasher", " dishcloth", " dishcloths"]}
+{"head": "dishes", "relation": "NotDesires", "tails": [" put in dishwasher", " clean up", " put away"]}
+{"head": "dishes", "relation": "Desires", "tails": [" clean up", " put away", " put on table"]}
+{"head": "Youtube video", "relation": "ObjectUse", "tails": [" watch a movie", " watch on the internet", " watch on youtube"]}
+{"head": "Youtube video", "relation": "AtLocation", "tails": [" video game", " youtube channel", " youtube"]}
+{"head": "Youtube video", "relation": "CapableOf", "tails": [" watch", " watch video", " watch on youtube"]}
+{"head": "Youtube video", "relation": "HasProperty", "tails": [" found on youtube", " found on internet", " found on YouTube"]}
+{"head": "Youtube video", "relation": "MadeUpOf", "tails": [" video", " YouTube video", " youtube channel"]}
+{"head": "Youtube video", "relation": "NotDesires", "tails": [" watch youtube video", " watch on youtube", " watch video"]}
+{"head": "Youtube video", "relation": "Desires", "tails": [" watch", " to watch", " learn about something"]}
+{"head": "Youtube", "relation": "ObjectUse", "tails": [" watch videos", " search for videos", " watch the video"]}
+{"head": "Youtube", "relation": "AtLocation", "tails": [" video game", " internet", " youtube"]}
+{"head": "Youtube", "relation": "CapableOf", "tails": [" watch videos", " search for videos", " watch video"]}
+{"head": "Youtube", "relation": "HasProperty", "tails": [" found on", " found on internet", " found on youtube"]}
+{"head": "Youtube", "relation": "MadeUpOf", "tails": [" video", " YouTube", " youtube"]}
+{"head": "Youtube", "relation": "NotDesires", "tails": [" watch videos", " search for videos", " search for youtube videos"]}
+{"head": "Youtube", "relation": "Desires", "tails": [" watch videos", " search for videos", " watch videos online"]}
+{"head": "Suddenly, Dan ran into the kitchen and started crying.", "relation": "xAttr", "tails": [" sad", " emotional", " upset"]}
+{"head": "Suddenly, Dan ran into the kitchen and started crying.", "relation": "xWant", "tails": [" to get away from the situation", " to cry", " to get a tissue"]}
+{"head": "Suddenly, Dan ran into the kitchen and started crying.", "relation": "xNeed", "tails": [" none", " to have a bad day", " to have lost their job"]}
+{"head": "Suddenly, Dan ran into the kitchen and started crying.", "relation": "xEffect", "tails": [" gets yelled at", " none", " cries"]}
+{"head": "Suddenly, Dan ran into the kitchen and started crying.", "relation": "HinderedBy", "tails": [" suddenly, the kitchen door flew open.", " suddenly the kitchen door slammed shut.", " suddenly the kitchen door is open."]}
+{"head": "Suddenly, Dan ran into the kitchen and started crying.", "relation": "oWant", "tails": [" none", " to comfort him", " to help him"]}
+{"head": "Suddenly, Dan ran into the kitchen and started crying.", "relation": "xReact", "tails": [" sad", " upset", " scared"]}
+{"head": "Suddenly, Dan ran into the kitchen and started crying.", "relation": "oEffect", "tails": [" none", " cries", " they cry"]}
+{"head": "Suddenly, Dan ran into the kitchen and started crying.", "relation": "xIntent", "tails": [" none", " to express his feelings", " to express his sadness"]}
+{"head": "Suddenly, Dan ran into the kitchen and started crying.", "relation": "oReact", "tails": [" none", " sad", " scared"]}
+{"head": "Suddenly, Dan ran into the kitchen and started crying.", "relation": "isBefore", "tails": [" PersonX tells PersonX to stop crying.", " PersonY tells PersonY to stop crying.", " PersonX tells PersonX to calm down."]}
+{"head": "Suddenly, Dan ran into the kitchen and started crying.", "relation": "isAfter", "tails": [" none", " PersonX is crying.", " PersonX is very sad."]}
+{"head": "Suddenly, Dan ran into the kitchen and started crying.", "relation": "HasSubEvent", "tails": [" get out of the way", " none", " get out of the house"]}
+{"head": "Suddenly, Dan ran into the kitchen and started crying.", "relation": "Causes", "tails": [" suddenly the kitchen door flew open.", " suddenly the kitchen door slammed shut.", " suddenly the kitchen door flew open"]}
+{"head": "Suddenly, Dan ran into the kitchen and started crying.", "relation": "xReason", "tails": [" suddenly the door to the kitchen flew open.", " suddenly the door to the kitchen flew open", " suddenly the door to the kitchen was slammed shut."]}
+{"head": "His mom was in the kitchen, doing dishes.", "relation": "xAttr", "tails": [" clean", " helpful", " hungry"]}
+{"head": "His mom was in the kitchen, doing dishes.", "relation": "xWant", "tails": [" to clean up the kitchen", " to clean up the dishes", " to clean up"]}
+{"head": "His mom was in the kitchen, doing dishes.", "relation": "xNeed", "tails": [" to get the dishes out of the dishwasher", " to get the dishes out of the dishwasher.", " to get the dishes out of the washer"]}
+{"head": "His mom was in the kitchen, doing dishes.", "relation": "xEffect", "tails": [" gets yelled at", " gets yelled at by mom", " gets yelled at by his mom"]}
+{"head": "His mom was in the kitchen, doing dishes.", "relation": "HinderedBy", "tails": [" his mom is sick in bed.", " his mom is in the kitchen", " his mom is in the kitchen."]}
+{"head": "His mom was in the kitchen, doing dishes.", "relation": "oWant", "tails": [" to clean up", " to make dinner", " to clean the dishes"]}
+{"head": "His mom was in the kitchen, doing dishes.", "relation": "xReact", "tails": [" clean", " happy", " happy."]}
+{"head": "His mom was in the kitchen, doing dishes.", "relation": "oEffect", "tails": [" none", " his mom to do the dishes", " his mom to do the dishes."]}
+{"head": "His mom was in the kitchen, doing dishes.", "relation": "xIntent", "tails": [" his mom to cook for him", " his mom to clean up", " his mom to cook for him."]}
+{"head": "His mom was in the kitchen, doing dishes.", "relation": "oReact", "tails": [" none", " happy", " grateful"]}
+{"head": "His mom was in the kitchen, doing dishes.", "relation": "isBefore", "tails": [" his mom to clean up the dishes", " his mom to clean the kitchen", " his mom to clean the dishes"]}
+{"head": "His mom was in the kitchen, doing dishes.", "relation": "isAfter", "tails": [" his mom is cleaning the kitchen", " his mom to clean up the dishes", " his mom to clean up the kitchen"]}
+{"head": "His mom was in the kitchen, doing dishes.", "relation": "HasSubEvent", "tails": [" cook dinner", " eat dinner", " cook food"]}
+{"head": "His mom was in the kitchen, doing dishes.", "relation": "Causes", "tails": [" his mom to do the dishes", " his mom to clean the kitchen", " his mom to do the dishes."]}
+{"head": "His mom was in the kitchen, doing dishes.", "relation": "xReason", "tails": [" his mom to clean up the dishes", " his mom to clean the kitchen", " his mom to clean the dishes"]}
+{"head": "His mom made Youtube off limits to Dan.", "relation": "xAttr", "tails": [" controlling", " curious", " rude"]}
+{"head": "His mom made Youtube off limits to Dan.", "relation": "xWant", "tails": [" to make sure Dan doesn't watch it", " to make sure Dan doesn't watch it.", " to make sure he doesn't watch it again"]}
+{"head": "His mom made Youtube off limits to Dan.", "relation": "xNeed", "tails": [" his mom to not let him on the internet", " his mom to not let him watch it", " his mom to not let him watch it."]}
+{"head": "His mom made Youtube off limits to Dan.", "relation": "xEffect", "tails": [" gets yelled at", " gets yelled at by his mom", " his mom will not let him."]}
+{"head": "His mom made Youtube off limits to Dan.", "relation": "HinderedBy", "tails": [" his mom won't let him.", " his mom won't allow it.", " his mom won't allow it"]}
+{"head": "His mom made Youtube off limits to Dan.", "relation": "oWant", "tails": [" to make sure Dan doesn't watch it", " to make sure he doesn't watch it again", " to make sure he doesn't watch it"]}
+{"head": "His mom made Youtube off limits to Dan.", "relation": "xReact", "tails": [" his mom to keep him away from the internet.", " his mom to keep him away from the internet", " his mom to keep him away from it."]}
+{"head": "His mom made Youtube off limits to Dan.", "relation": "oEffect", "tails": [" none", " his mom is mad at him", " his mom will not let him."]}
+{"head": "His mom made Youtube off limits to Dan.", "relation": "xIntent", "tails": [" his mom to be safe", " his mom to be safe.", " none"]}
+{"head": "His mom made Youtube off limits to Dan.", "relation": "oReact", "tails": [" none", " annoyed", " happy"]}
+{"head": "His mom made Youtube off limits to Dan.", "relation": "isBefore", "tails": [" his mom tells him not to watch it", " his mom tells him he can't watch it", " his mom tells him he can't watch it."]}
+{"head": "His mom made Youtube off limits to Dan.", "relation": "isAfter", "tails": [" his mom told him not to watch it", " his mom told him not to", " his mom told him not to watch it."]}
+{"head": "His mom made Youtube off limits to Dan.", "relation": "HasSubEvent", "tails": [" his mom will not allow him to watch it.", " his mom will not let him watch it.", " his mom will not allow him to watch it"]}
+{"head": "His mom made Youtube off limits to Dan.", "relation": "Causes", "tails": [" his mom to stop watching it", " his mom to not watch it", " his mom to stop watching it."]}
+{"head": "His mom made Youtube off limits to Dan.", "relation": "xReason", "tails": [" his mom will not allow him to watch it.", " his mom will not allow him to watch it", " his mom will not let him."]}
+{"head": "He had just seen a video of a man trampled by an elephant.", "relation": "xAttr", "tails": [" scared", " sad", " frightened"]}
+{"head": "He had just seen a video of a man trampled by an elephant.", "relation": "xWant", "tails": [" to call the police", " to see if the elephant is dead", " to call the police."]}
+{"head": "He had just seen a video of a man trampled by an elephant.", "relation": "xNeed", "tails": [" to turn on the tv", " to turn on the television", " to turn on the TV"]}
+{"head": "He had just seen a video of a man trampled by an elephant.", "relation": "xEffect", "tails": [" he goes to the zoo", " he goes to the doctor", " he goes to the hospital"]}
+{"head": "He had just seen a video of a man trampled by an elephant.", "relation": "HinderedBy", "tails": [" he has to go to work", " he has to go to work.", " he has to go to the doctor"]}
+{"head": "He had just seen a video of a man trampled by an elephant.", "relation": "oWant", "tails": [" none", " to see if they are okay", " to see the video again"]}
+{"head": "He had just seen a video of a man trampled by an elephant.", "relation": "xReact", "tails": [" sad", " scared", " shocked"]}
+{"head": "He had just seen a video of a man trampled by an elephant.", "relation": "oEffect", "tails": [" none", " he goes to the zoo", " he goes to the doctor"]}
+{"head": "He had just seen a video of a man trampled by an elephant.", "relation": "xIntent", "tails": [" none", " to learn about elephants", " to learn about elephants."]}
+{"head": "He had just seen a video of a man trampled by an elephant.", "relation": "oReact", "tails": [" none", " sad", " scared"]}
+{"head": "He had just seen a video of a man trampled by an elephant.", "relation": "isBefore", "tails": [" he goes to the zoo", " he goes to the zoo to see the elephant", " he goes to the zoo to see it"]}
+{"head": "He had just seen a video of a man trampled by an elephant.", "relation": "isAfter", "tails": [" he goes to the zoo", " he goes to the zoo to see the elephant", " he goes to the zoo to see it"]}
+{"head": "He had just seen a video of a man trampled by an elephant.", "relation": "HasSubEvent", "tails": [" watch the video", " watch the video again", " watch a video about elephants"]}
+{"head": "He had just seen a video of a man trampled by an elephant.", "relation": "Causes", "tails": [" he wants to go to the zoo", " he wants to go to the zoo.", " he wants to go to the circus"]}
+{"head": "He had just seen a video of a man trampled by an elephant.", "relation": "xReason", "tails": [" he goes to the zoo to see the elephant", " he goes to the zoo", " he goes to the zoo to see it"]}
+{"head": "Dan was watching a Youtube video.", "relation": "xAttr", "tails": [" curious", " entertained", " interested"]}
+{"head": "Dan was watching a Youtube video.", "relation": "xWant", "tails": [" to watch the video again", " to watch it again", " to watch the video"]}
+{"head": "Dan was watching a Youtube video.", "relation": "xNeed", "tails": [" to turn on the tv", " to turn on the TV", " to turn on the computer"]}
+{"head": "Dan was watching a Youtube video.", "relation": "xEffect", "tails": [" learns something new", " gets bored", " gets entertained"]}
+{"head": "Dan was watching a Youtube video.", "relation": "HinderedBy", "tails": [" Dan has no internet connection.", " Dan has no internet access.", " Dan has no internet."]}
+{"head": "Dan was watching a Youtube video.", "relation": "oWant", "tails": [" none", " to watch the video", " to watch the video too"]}
+{"head": "Dan was watching a Youtube video.", "relation": "xReact", "tails": [" entertained", " happy", " entertained."]}
+{"head": "Dan was watching a Youtube video.", "relation": "oEffect", "tails": [" none", " watch the video", " they learn something new"]}
+{"head": "Dan was watching a Youtube video.", "relation": "xIntent", "tails": [" to be entertained", " to learn something new", " to learn"]}
+{"head": "Dan was watching a Youtube video.", "relation": "oReact", "tails": [" none", " entertained", " happy"]}
+{"head": "Dan was watching a Youtube video.", "relation": "isBefore", "tails": [" PersonX asks PersonX what they are watching.", " PersonX asks PersonX to turn off the video.", " PersonX asks PersonX to watch the video."]}
+{"head": "Dan was watching a Youtube video.", "relation": "isAfter", "tails": [" Dan turns on the tv", " PersonX turns on the tv.", " PersonX turns on the TV."]}
+{"head": "Dan was watching a Youtube video.", "relation": "HasSubEvent", "tails": [" watch the video", " watch the video again", " watch a video"]}
+{"head": "Dan was watching a Youtube video.", "relation": "Causes", "tails": [" Dan has no internet connection.", " Dan has no internet access.", " Dan has no internet."]}
+{"head": "Dan was watching a Youtube video.", "relation": "xReason", "tails": [" Dan is watching a youtube video.", " Dan is watching a video on youtube.", " Dan is watching a youtube video"]}
+{"head": "Dan", "relation": "ObjectUse", "tails": [" Dan is a good friend of mine.", " Dan is a good friend of Dan's.", " Dan is a good friend of Dan's wife."]}
+{"head": "Dan", "relation": "AtLocation", "tails": [" house", " car", " home"]}
+{"head": "Dan", "relation": "CapableOf", "tails": [" hang out with friends", " hang out with Dan", " hang out with"]}
+{"head": "Dan", "relation": "HasProperty", "tails": [" Dan is a friend of Dan's.", " Dan is a friend of Dan's wife.", " Dan is the name of the dog."]}
+{"head": "Dan", "relation": "MadeUpOf", "tails": [" Dan's car broke down.", " Dan's car breaks down.", " Dan's car breaks down"]}
+{"head": "Dan", "relation": "NotDesires", "tails": [" Dan's wife will not let him out of the house.", " Dan's wife will not let him out of her sight.", " Dan's wife will not let him out of the house"]}
+{"head": "Dan", "relation": "Desires", "tails": [" Dan is a good person.", " none", " Dan is a good friend of mine"]}

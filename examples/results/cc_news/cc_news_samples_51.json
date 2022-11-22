@@ -1,0 +1,109 @@
+{"head": "to suffer", "relation": "HinderedBy", "tails": [" to suffer", " to suffer ", " to suffer  "]}
+{"head": "to suffer", "relation": "isBefore", "tails": [" to suffer", " to suffer ", " to suffer  pain"]}
+{"head": "to suffer", "relation": "isAfter", "tails": [" to suffer", " to be in pain", " to be sad"]}
+{"head": "to suffer", "relation": "HasSubEvent", "tails": [" to suffer", " to suffer ", " to suffer  suffer"]}
+{"head": "to suffer", "relation": "Causes", "tails": [" to suffer", " to suffer ", " to suffer  suffer"]}
+{"head": "to suffer", "relation": "xReason", "tails": [" to suffer", " to suffer ", " to suffer  pain"]}
+{"head": "to return", "relation": "HinderedBy", "tails": [" to return", " to return ", " to return  to "]}
+{"head": "to return", "relation": "isBefore", "tails": [" to return home", " to return to home", " to return"]}
+{"head": "to return", "relation": "isAfter", "tails": [" to go back home", " to go home", " to go to the store"]}
+{"head": "to return", "relation": "HasSubEvent", "tails": [" to return", " to return  home", " to return to home"]}
+{"head": "to return", "relation": "Causes", "tails": [" to return", " to return home", " to return to home"]}
+{"head": "to return", "relation": "xReason", "tails": [" to return", " to return home", " have to go back"]}
+{"head": "suffer ion", "relation": "HinderedBy", "tails": [" feel pain", " feel pain in body", " suffer from ionic acid"]}
+{"head": "suffer ion", "relation": "isBefore", "tails": [" feel pain", " fall asleep", " fall down"]}
+{"head": "suffer ion", "relation": "isAfter", "tails": [" feel pain", " fall down", " fall down hill"]}
+{"head": "suffer ion", "relation": "HasSubEvent", "tails": [" feel pain", " fall asleep", " get sick"]}
+{"head": "suffer ion", "relation": "Causes", "tails": [" feel pain", " pain", " feel sick"]}
+{"head": "suffer ion", "relation": "xReason", "tails": [" feel pain", " feel cold", " suffer from radiation"]}
+{"head": "suffer clash", "relation": "HinderedBy", "tails": [" feel pain", " fight", " get hurt"]}
+{"head": "suffer clash", "relation": "isBefore", "tails": [" get injured", " get hurt", " fight"]}
+{"head": "suffer clash", "relation": "isAfter", "tails": [" feel pain", " get injured", " fight"]}
+{"head": "suffer clash", "relation": "HasSubEvent", "tails": [" get hurt", " get injured", " fight"]}
+{"head": "suffer clash", "relation": "Causes", "tails": [" feel pain", " fight", " hurt"]}
+{"head": "suffer clash", "relation": "xReason", "tails": [" feel pain", " fight", " fight with"]}
+{"head": "striker", "relation": "ObjectUse", "tails": [" use as a weapon", " hit someone with", " strike a nail"]}
+{"head": "striker", "relation": "AtLocation", "tails": [" restaurant", " bar", " table"]}
+{"head": "striker", "relation": "CapableOf", "tails": [" strike match", " strike ball", " hit ball"]}
+{"head": "striker", "relation": "HasProperty", "tails": [" stripper", " found in strip club", " found in strip clubs"]}
+{"head": "striker", "relation": "MadeUpOf", "tails": [" ball", " strip", " stripclub"]}
+{"head": "striker", "relation": "NotDesires", "tails": [" hit by car", " hit with car", " hit with baton"]}
+{"head": "striker", "relation": "Desires", "tails": [" strike a match", " pay for food", " strike up a conversation"]}
+{"head": "season", "relation": "ObjectUse", "tails": [" season", " play football", " play baseball"]}
+{"head": "season", "relation": "AtLocation", "tails": [" baseball game", " football game", " baseball"]}
+{"head": "season", "relation": "CapableOf", "tails": [" play game", " season", " play football"]}
+{"head": "season", "relation": "HasProperty", "tails": [" season", " seasons", " one season"]}
+{"head": "season", "relation": "MadeUpOf", "tails": [" season", " seasons", " game"]}
+{"head": "season", "relation": "NotDesires", "tails": [" season to end", " season ends", " season"]}
+{"head": "season", "relation": "Desires", "tails": [" season", " season to end", " have fun"]}
+{"head": "pre season clash", "relation": "ObjectUse", "tails": [" play against each other", " play a game", " play a game of football"]}
+{"head": "pre season clash", "relation": "AtLocation", "tails": [" soccer game", " soccer match", " football game"]}
+{"head": "pre season clash", "relation": "CapableOf", "tails": [" play against each other", " play against other team", " play against opponent"]}
+{"head": "pre season clash", "relation": "HasProperty", "tails": [" one of the most important games of the season", " one of the most important games of the year", " one of the best teams in the league"]}
+{"head": "pre season clash", "relation": "MadeUpOf", "tails": [" soccer game", " game", " match"]}
+{"head": "pre season clash", "relation": "NotDesires", "tails": [" have to win the game", " have to win the match", " have to win"]}
+{"head": "pre season clash", "relation": "Desires", "tails": [" play against each other", " have fun", " have a good time"]}
+{"head": "pre", "relation": "ObjectUse", "tails": [" use as a weapon", " use as a paperweight", " use as toilet paper"]}
+{"head": "pre", "relation": "AtLocation", "tails": [" house", " store", " kitchen"]}
+{"head": "pre", "relation": "CapableOf", "tails": [" use as a weapon", " use as a paperweight", " use as a prop in play"]}
+{"head": "pre", "relation": "HasProperty", "tails": [" one of the elements of life", " one of the elements of nature", " one of the four elements of life"]}
+{"head": "pre", "relation": "MadeUpOf", "tails": [" pre and post", " preface", " pre and post partum"]}
+{"head": "pre", "relation": "NotDesires", "tails": [" have to go to the bathroom", " have to go to hospital", " have to go to doctor"]}
+{"head": "pre", "relation": "Desires", "tails": [" get a good grade", " have a good time", " get a good job"]}
+{"head": "ion", "relation": "ObjectUse", "tails": [" use as a weapon", " use as a prop in a play", " use as a prop in a movie"]}
+{"head": "ion", "relation": "AtLocation", "tails": [" car", " house", " room"]}
+{"head": "ion", "relation": "CapableOf", "tails": [" get out of car", " get out of bed", " get out of house"]}
+{"head": "ion", "relation": "HasProperty", "tails": [" one of the elements of life", " one of the four elements of life", " one of the elements of nature"]}
+{"head": "ion", "relation": "MadeUpOf", "tails": [" carotid artery", " carpal vein", " carpal"]}
+{"head": "ion", "relation": "NotDesires", "tails": [" get sick", " body pain", " lose money"]}
+{"head": "ion", "relation": "Desires", "tails": [" have a good time", " have a good life", " get a job"]}
+{"head": "injury ion", "relation": "ObjectUse", "tails": [" get a new job", " make a paper airplane", " injure someone"]}
+{"head": "injury ion", "relation": "AtLocation", "tails": [" medicine chest", " medicine cabinet", " medical device"]}
+{"head": "injury ion", "relation": "CapableOf", "tails": [" hurt yourself", " injure yourself", " hurt self"]}
+{"head": "injury ion", "relation": "HasProperty", "tails": [" pain", " injured person", " injured"]}
+{"head": "injury ion", "relation": "MadeUpOf", "tails": [" pain", " poison", " injury"]}
+{"head": "injury ion", "relation": "NotDesires", "tails": [" pain", " hurt", " injury"]}
+{"head": "injury ion", "relation": "Desires", "tails": [" feel pain", " pain", " hurt"]}
+{"head": "injury", "relation": "ObjectUse", "tails": [" hurt themselves", " hurt yourself", " hurt self"]}
+{"head": "injury", "relation": "AtLocation", "tails": [" injury", " pain", " hurt"]}
+{"head": "injury", "relation": "CapableOf", "tails": [" hurt self", " fall down stairs", " hurt yourself"]}
+{"head": "injury", "relation": "HasProperty", "tails": [" hurt", " pain", " injured"]}
+{"head": "injury", "relation": "MadeUpOf", "tails": [" pain", " injury", " hurt"]}
+{"head": "injury", "relation": "NotDesires", "tails": [" hurt", " pain", " get hurt"]}
+{"head": "injury", "relation": "Desires", "tails": [" feel pain", " get hurt", " hurt"]}
+{"head": "clash", "relation": "ObjectUse", "tails": [" get into a fight", " get into a fistfight", " get into a fist fight"]}
+{"head": "clash", "relation": "AtLocation", "tails": [" war", " fight", " war zone"]}
+{"head": "clash", "relation": "CapableOf", "tails": [" fight", " get hurt", " fight with"]}
+{"head": "clash", "relation": "HasProperty", "tails": [" clashing", " violent", " clashing fists"]}
+{"head": "clash", "relation": "MadeUpOf", "tails": [" clashing", " fight", " clap"]}
+{"head": "clash", "relation": "NotDesires", "tails": [" fight", " get hurt", " get injured"]}
+{"head": "clash", "relation": "Desires", "tails": [" fight", " have fun", " get into fight"]}
+{"head": "The striker suffered an injury ion the pre-season clash against Bayern Munich, but could return against Crystal Palace", "relation": "xAttr", "tails": [" injured", " hurt", " injury prone"]}
+{"head": "The striker suffered an injury ion the pre-season clash against Bayern Munich, but could return against Crystal Palace", "relation": "xWant", "tails": [" the team to win the game", " the team to win the game.", " to get back in the team"]}
+{"head": "The striker suffered an injury ion the pre-season clash against Bayern Munich, but could return against Crystal Palace", "relation": "xNeed", "tails": [" to be injured", " to get injured", " none"]}
+{"head": "The striker suffered an injury ion the pre-season clash against Bayern Munich, but could return against Crystal Palace", "relation": "xEffect", "tails": [" the team to win the game", " the team to win the game.", " the team to win the match."]}
+{"head": "The striker suffered an injury ion the pre-season clash against Bayern Munich, but could return against Crystal Palace", "relation": "HinderedBy", "tails": [" the team to win the game", " the team to win the game.", " the team to win the match"]}
+{"head": "The striker suffered an injury ion the pre-season clash against Bayern Munich, but could return against Crystal Palace", "relation": "oWant", "tails": [" to get back on the field", " to get back on the pitch", " to get back in the game"]}
+{"head": "The striker suffered an injury ion the pre-season clash against Bayern Munich, but could return against Crystal Palace", "relation": "xReact", "tails": [" injured", " hurt", " sad"]}
+{"head": "The striker suffered an injury ion the pre-season clash against Bayern Munich, but could return against Crystal Palace", "relation": "oEffect", "tails": [" none", " get injured", " the team loses"]}
+{"head": "The striker suffered an injury ion the pre-season clash against Bayern Munich, but could return against Crystal Palace", "relation": "xIntent", "tails": [" none", " to play", " to be fit"]}
+{"head": "The striker suffered an injury ion the pre-season clash against Bayern Munich, but could return against Crystal Palace", "relation": "oReact", "tails": [" none", " injured", " the team to win"]}
+{"head": "The striker suffered an injury ion the pre-season clash against Bayern Munich, but could return against Crystal Palace", "relation": "isBefore", "tails": [" the team to win the game", " the team to win the pre-season game", " the team to win the pre-season match"]}
+{"head": "The striker suffered an injury ion the pre-season clash against Bayern Munich, but could return against Crystal Palace", "relation": "isAfter", "tails": [" the team to win the game", " the team to win the game.", " the team to win the match"]}
+{"head": "The striker suffered an injury ion the pre-season clash against Bayern Munich, but could return against Crystal Palace", "relation": "HasSubEvent", "tails": [" the team to win the game", " the team to win the game.", " the team to win the match"]}
+{"head": "The striker suffered an injury ion the pre-season clash against Bayern Munich, but could return against Crystal Palace", "relation": "Causes", "tails": [" injured", " the team", " injury"]}
+{"head": "The striker suffered an injury ion the pre-season clash against Bayern Munich, but could return against Crystal Palace", "relation": "xReason", "tails": [" the team to win the game", " the team to win the game.", " the team to win the match"]}
+{"head": "Crystal Palace", "relation": "ObjectUse", "tails": [" play at", " play in", " play football"]}
+{"head": "Crystal Palace", "relation": "AtLocation", "tails": [" football stadium", " soccer stadium", " stadium"]}
+{"head": "Crystal Palace", "relation": "CapableOf", "tails": [" play football", " play in stadium", " play at"]}
+{"head": "Crystal Palace", "relation": "HasProperty", "tails": [" one of the best teams in the country", " one of the best teams in the league", " one of the top clubs in the country"]}
+{"head": "Crystal Palace", "relation": "MadeUpOf", "tails": [" football stadium", " football team", " football field"]}
+{"head": "Crystal Palace", "relation": "NotDesires", "tails": [" play football", " play in stadium", " have to pay rent"]}
+{"head": "Crystal Palace", "relation": "Desires", "tails": [" play football", " play in stadium", " play in the stadium"]}
+{"head": "Bayern Munich", "relation": "ObjectUse", "tails": [" play soccer", " play football", " play in"]}
+{"head": "Bayern Munich", "relation": "AtLocation", "tails": [" soccer game", " soccer stadium", " football stadium"]}
+{"head": "Bayern Munich", "relation": "CapableOf", "tails": [" play soccer", " play football", " play soccer game"]}
+{"head": "Bayern Munich", "relation": "HasProperty", "tails": [" one of the best teams in the world", " one of the top teams in the world", " one of the best teams in Europe"]}
+{"head": "Bayern Munich", "relation": "MadeUpOf", "tails": [" soccer", " soccer team", " football team"]}
+{"head": "Bayern Munich", "relation": "NotDesires", "tails": [" play soccer", " soccer", " play football"]}
+{"head": "Bayern Munich", "relation": "Desires", "tails": [" to win the game", " to win the championship", " to win a trophy"]}

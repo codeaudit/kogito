@@ -1,0 +1,225 @@
+{"head": "visit mom", "relation": "HinderedBy", "tails": [" visit mom", " visit with mom", " have a good time"]}
+{"head": "visit mom", "relation": "isBefore", "tails": [" visit with mom", " visit mom", " visit with mother"]}
+{"head": "visit mom", "relation": "isAfter", "tails": [" visit with mom", " visit mom", " visit with mother"]}
+{"head": "visit mom", "relation": "HasSubEvent", "tails": [" visit with mom", " visit mom", " see mom"]}
+{"head": "visit mom", "relation": "Causes", "tails": [" visit mom", " visit with mom", " have a good time"]}
+{"head": "visit mom", "relation": "xReason", "tails": [" visit mom", " visit with mom", " see mom"]}
+{"head": "to wonder", "relation": "HinderedBy", "tails": [" to wonder", " to wonder about something", " to wonder "]}
+{"head": "to wonder", "relation": "isBefore", "tails": [" to wonder", " to wonder what is going on", " to wonder what to do next"]}
+{"head": "to wonder", "relation": "isAfter", "tails": [" to be curious", " to wonder", " to think"]}
+{"head": "to wonder", "relation": "HasSubEvent", "tails": [" to wonder", " ask questions", " to wonder "]}
+{"head": "to wonder", "relation": "Causes", "tails": [" to wonder", " to wonder about", " to wonder about something"]}
+{"head": "to wonder", "relation": "xReason", "tails": [" to wonder", " to be curious", " to wonder about something"]}
+{"head": "to widow", "relation": "HinderedBy", "tails": [" to widow", " to widow ", " to widow  to widow "]}
+{"head": "to widow", "relation": "isBefore", "tails": [" to widow", " to widow  to widow ", " to widow "]}
+{"head": "to widow", "relation": "isAfter", "tails": [" to widow", " death", " to widow "]}
+{"head": "to widow", "relation": "HasSubEvent", "tails": [" to widow", " to widow ", " to widow  widow "]}
+{"head": "to widow", "relation": "Causes", "tails": [" to widow", " to widow ", " death"]}
+{"head": "to widow", "relation": "xReason", "tails": [" to widow", " to widow ", " death"]}
+{"head": "to visit", "relation": "HinderedBy", "tails": [" to visit", " to visit ", " to visit  to visit "]}
+{"head": "to visit", "relation": "isBefore", "tails": [" to visit", " to visit family", " to visit  family"]}
+{"head": "to visit", "relation": "isAfter", "tails": [" visit family", " to visit a friend", " to visit family"]}
+{"head": "to visit", "relation": "HasSubEvent", "tails": [" to visit", " get in car", " to visit "]}
+{"head": "to visit", "relation": "Causes", "tails": [" to visit", " to visit family", " visit family"]}
+{"head": "to visit", "relation": "xReason", "tails": [" to visit", " to visit family", " to visit a place"]}
+{"head": "to go", "relation": "HinderedBy", "tails": [" to go", " to go ", " to go  to"]}
+{"head": "to go", "relation": "isBefore", "tails": [" to go", " get in car", " to go somewhere"]}
+{"head": "to go", "relation": "isAfter", "tails": [" get in the car", " get in car", " to go to the bathroom"]}
+{"head": "to go", "relation": "HasSubEvent", "tails": [" get in car", " to go", " to go  home"]}
+{"head": "to go", "relation": "Causes", "tails": [" to go", " get in car", " to go  home"]}
+{"head": "to go", "relation": "xReason", "tails": [" to go", " get in car", " to go somewhere"]}
+{"head": "to fly", "relation": "HinderedBy", "tails": [" to fly", " to fly ", " to fly airplane"]}
+{"head": "to fly", "relation": "isBefore", "tails": [" to fly", " to fly in airplane", " to fly to another country"]}
+{"head": "to fly", "relation": "isAfter", "tails": [" to fly", " get on plane", " get in plane"]}
+{"head": "to fly", "relation": "HasSubEvent", "tails": [" to fly", " get in plane", " get on plane"]}
+{"head": "to fly", "relation": "Causes", "tails": [" have wings", " fly in airplane", " fly plane"]}
+{"head": "to fly", "relation": "xReason", "tails": [" to fly", " to fly in airplane", " fly in airplane"]}
+{"head": "to find", "relation": "HinderedBy", "tails": [" to find ", " to find", " to find  to find "]}
+{"head": "to find", "relation": "isBefore", "tails": [" to find", " to find something", " to find "]}
+{"head": "to find", "relation": "isAfter", "tails": [" to find something", " to find something to eat", " to find"]}
+{"head": "to find", "relation": "HasSubEvent", "tails": [" to find", " to find ", " to look for it"]}
+{"head": "to find", "relation": "Causes", "tails": [" to find", " to find ", " to find something"]}
+{"head": "to find", "relation": "xReason", "tails": [" to find", " to find something", " to find "]}
+{"head": "to feel", "relation": "HinderedBy", "tails": [" to feel", " to feel good", " to feel something"]}
+{"head": "to feel", "relation": "isBefore", "tails": [" to feel", " to feel good", " to feel something"]}
+{"head": "to feel", "relation": "isAfter", "tails": [" to feel good", " to feel", " to feel something"]}
+{"head": "to feel", "relation": "HasSubEvent", "tails": [" to feel", " to feel good", " to feel  good"]}
+{"head": "to feel", "relation": "Causes", "tails": [" to feel", " to feel good", " to feel something"]}
+{"head": "to feel", "relation": "xReason", "tails": [" to feel", " to feel good", " to feel something"]}
+{"head": "to discover", "relation": "HinderedBy", "tails": [" to discover", " to discover ", " to discover something"]}
+{"head": "to discover", "relation": "isBefore", "tails": [" to discover", " to discover something new", " to discover "]}
+{"head": "to discover", "relation": "isAfter", "tails": [" to discover", " to discover something new", " to discover something"]}
+{"head": "to discover", "relation": "HasSubEvent", "tails": [" to discover", " to discover  discovery", " to discover "]}
+{"head": "to discover", "relation": "Causes", "tails": [" to discover", " discover new things", " to discover "]}
+{"head": "to discover", "relation": "xReason", "tails": [" to discover", " discover new things", " to discover something new"]}
+{"head": "siblings", "relation": "ObjectUse", "tails": [" have fun with", " play with", " have a sibling group"]}
+{"head": "siblings", "relation": "AtLocation", "tails": [" family", " parents house", " family home"]}
+{"head": "siblings", "relation": "CapableOf", "tails": [" have fun with", " share room with", " share interests"]}
+{"head": "siblings", "relation": "HasProperty", "tails": [" two parents", " siblings", " one sibling"]}
+{"head": "siblings", "relation": "MadeUpOf", "tails": [" family tree", " siblings", " children"]}
+{"head": "siblings", "relation": "NotDesires", "tails": [" have to live with", " have to share things with", " have a sibling fight"]}
+{"head": "siblings", "relation": "Desires", "tails": [" have fun with", " have a sibling", " have fun"]}
+{"head": "parents marriage", "relation": "ObjectUse", "tails": [" have a family", " have children", " get married"]}
+{"head": "parents marriage", "relation": "AtLocation", "tails": [" parents house", " parents home", " children"]}
+{"head": "parents marriage", "relation": "CapableOf", "tails": [" have children", " parents to children", " parents to raise children"]}
+{"head": "parents marriage", "relation": "HasProperty", "tails": [" parents and children", " parents to children", " parents children"]}
+{"head": "parents marriage", "relation": "MadeUpOf", "tails": [" parents and children", " parents marriage", " children"]}
+{"head": "parents marriage", "relation": "NotDesires", "tails": [" parents to children", " parents divorce", " parents to divorce"]}
+{"head": "parents marriage", "relation": "Desires", "tails": [" parents to children", " parents to raise children", " parents to be happy"]}
+{"head": "parents", "relation": "ObjectUse", "tails": [" have a relationship with", " give birth to child", " have a child"]}
+{"head": "parents", "relation": "AtLocation", "tails": [" parents house", " parents home", " children"]}
+{"head": "parents", "relation": "CapableOf", "tails": [" parent children", " parents to children", " have children"]}
+{"head": "parents", "relation": "HasProperty", "tails": [" parents", " parents and children", " parents children"]}
+{"head": "parents", "relation": "MadeUpOf", "tails": [" parents", " parents and children", " children"]}
+{"head": "parents", "relation": "NotDesires", "tails": [" parents to go to jail", " parents to die", " parents to go to prison"]}
+{"head": "parents", "relation": "Desires", "tails": [" parents to raise children", " parents to be happy", " parents to raise"]}
+{"head": "new man", "relation": "ObjectUse", "tails": [" get a new job", " get a job", " get married"]}
+{"head": "new man", "relation": "AtLocation", "tails": [" new job", " new house", " new home"]}
+{"head": "new man", "relation": "CapableOf", "tails": [" get married", " change clothes", " get a job"]}
+{"head": "new man", "relation": "HasProperty", "tails": [" new job", " new life", " found in bar"]}
+{"head": "new man", "relation": "MadeUpOf", "tails": [" new job", " new wife", " men's underwear"]}
+{"head": "new man", "relation": "NotDesires", "tails": [" new job", " new wife", " have to deal with"]}
+{"head": "new man", "relation": "Desires", "tails": [" new job", " get a new job", " get a job"]}
+{"head": "mom new husband", "relation": "ObjectUse", "tails": [" give birth to a child", " give birth to child", " get married"]}
+{"head": "mom new husband", "relation": "AtLocation", "tails": [" new home", " mother's house", " mother"]}
+{"head": "mom new husband", "relation": "CapableOf", "tails": [" get married", " marry", " have children"]}
+{"head": "mom new husband", "relation": "HasProperty", "tails": [" happy", " new baby", " new wife"]}
+{"head": "mom new husband", "relation": "MadeUpOf", "tails": [" mother", " new baby", " mother's hand"]}
+{"head": "mom new husband", "relation": "NotDesires", "tails": [" mom to be happy", " mother to be happy", " mom to have a family"]}
+{"head": "mom new husband", "relation": "Desires", "tails": [" mother to be happy", " have a family", " to be loved"]}
+{"head": "mom", "relation": "ObjectUse", "tails": [" have a conversation with", " have sex with", " give birth to baby"]}
+{"head": "mom", "relation": "AtLocation", "tails": [" mom's house", " mom's car", " mother's house"]}
+{"head": "mom", "relation": "CapableOf", "tails": [" mother daughter to grow up", " mother to child", " mother to son"]}
+{"head": "mom", "relation": "HasProperty", "tails": [" mother", " mom", " mom is"]}
+{"head": "mom", "relation": "MadeUpOf", "tails": [" mother", " mom", " mommy"]}
+{"head": "mom", "relation": "NotDesires", "tails": [" mother to die", " mom to die", " mom to be dead"]}
+{"head": "mom", "relation": "Desires", "tails": [" motherly love", " mother's love", " mom to be happy"]}
+{"head": "marriage", "relation": "ObjectUse", "tails": [" get married", " have children", " have a family"]}
+{"head": "marriage", "relation": "AtLocation", "tails": [" marriage", " marriage ceremony", " marriage license"]}
+{"head": "marriage", "relation": "CapableOf", "tails": [" get married", " have children", " marry"]}
+{"head": "marriage", "relation": "HasProperty", "tails": [" married for many years", " married for life", " married to other person"]}
+{"head": "marriage", "relation": "MadeUpOf", "tails": [" marriage license", " marriage", " marriage contract"]}
+{"head": "marriage", "relation": "NotDesires", "tails": [" have children", " get divorced", " get married"]}
+{"head": "marriage", "relation": "Desires", "tails": [" love and companionship", " have children", " marriage"]}
+{"head": "man", "relation": "ObjectUse", "tails": [" man of steel", " man's mouth", " man's place"]}
+{"head": "man", "relation": "AtLocation", "tails": [" mannequin", " man's house", " man's home"]}
+{"head": "man", "relation": "CapableOf", "tails": [" man of steel", " men to work", " men to be men"]}
+{"head": "man", "relation": "HasProperty", "tails": [" found in woods", " man", " man's body"]}
+{"head": "man", "relation": "MadeUpOf", "tails": [" man's mouth", " mannequin", " man's hand"]}
+{"head": "man", "relation": "NotDesires", "tails": [" man to die", " man to be dead", " man's body"]}
+{"head": "man", "relation": "Desires", "tails": [" man's best friend", " man's best interests at heart", " man's best interest at heart"]}
+{"head": "love", "relation": "ObjectUse", "tails": [" love", " love someone", " love someone back"]}
+{"head": "love", "relation": "AtLocation", "tails": [" love", " heart", " love letter"]}
+{"head": "love", "relation": "CapableOf", "tails": [" feel good about yourself", " love", " love someone back"]}
+{"head": "love", "relation": "HasProperty", "tails": [" loved", " love", " good"]}
+{"head": "love", "relation": "MadeUpOf", "tails": [" love", " heart", " love heart"]}
+{"head": "love", "relation": "NotDesires", "tails": [" love", " feel good", " love to die"]}
+{"head": "love", "relation": "Desires", "tails": [" love", " feel good about yourself", " feel good"]}
+{"head": "husband", "relation": "ObjectUse", "tails": [" have sex with", " have a relationship with", " get married to"]}
+{"head": "husband", "relation": "AtLocation", "tails": [" wife", " husband", " family home"]}
+{"head": "husband", "relation": "CapableOf", "tails": [" marry", " have sex with", " husband to wife"]}
+{"head": "husband", "relation": "HasProperty", "tails": [" married to", " husband", " married"]}
+{"head": "husband", "relation": "MadeUpOf", "tails": [" wife", " husband", " husband's name"]}
+{"head": "husband", "relation": "NotDesires", "tails": [" husband to die", " husband to leave", " husband to be dead"]}
+{"head": "husband", "relation": "Desires", "tails": [" husband to be happy", " husband to love", " have a good time with"]}
+{"head": "find man", "relation": "HinderedBy", "tails": [" find man", " find a man", " look for man"]}
+{"head": "find man", "relation": "isBefore", "tails": [" look for man", " search for man", " find man"]}
+{"head": "find man", "relation": "isAfter", "tails": [" look for man", " search for man", " find man"]}
+{"head": "find man", "relation": "HasSubEvent", "tails": [" look for man", " find man", " look for"]}
+{"head": "find man", "relation": "Causes", "tails": [" find man", " look for man", " find wife"]}
+{"head": "find man", "relation": "xReason", "tails": [" look for man", " find man", " find wife"]}
+{"head": "feel same", "relation": "HinderedBy", "tails": [" feel the same", " feel the same way", " feel different"]}
+{"head": "feel same", "relation": "isBefore", "tails": [" feel different", " feel good", " feel like same"]}
+{"head": "feel same", "relation": "isAfter", "tails": [" feel different than other people", " feel different than other person", " feel different than others"]}
+{"head": "feel same", "relation": "HasSubEvent", "tails": [" feel different than other people", " think about same things", " think about same thing"]}
+{"head": "feel same", "relation": "Causes", "tails": [" feel different than other people", " feel different than others", " feel different"]}
+{"head": "feel same", "relation": "xReason", "tails": [" feel different than other people", " feel different than others", " feel different than other person"]}
+{"head": "dad", "relation": "ObjectUse", "tails": [" have a conversation with", " have a good relationship with", " have a good time with"]}
+{"head": "dad", "relation": "AtLocation", "tails": [" dad's house", " mom's house", " dad's car"]}
+{"head": "dad", "relation": "CapableOf", "tails": [" father son", " step on dog", " father"]}
+{"head": "dad", "relation": "HasProperty", "tails": [" dad", " father", " good looking"]}
+{"head": "dad", "relation": "MadeUpOf", "tails": [" dad", " dad's hands", " father"]}
+{"head": "dad", "relation": "NotDesires", "tails": [" dad to die", " father to die", " dad to be dead"]}
+{"head": "dad", "relation": "Desires", "tails": [" fatherly love", " fatherly influence", " dad to be happy"]}
+{"head": "She discovered her siblings didn't feel the same.", "relation": "xAttr", "tails": [" sad", " angry", " loving"]}
+{"head": "She discovered her siblings didn't feel the same.", "relation": "xWant", "tails": [" to tell them they are wrong", " to tell them they're wrong", " to tell them they are wrong."]}
+{"head": "She discovered her siblings didn't feel the same.", "relation": "xNeed", "tails": [" none", " to talk to them about it", " to talk to their siblings"]}
+{"head": "She discovered her siblings didn't feel the same.", "relation": "xEffect", "tails": [" none", " she cries", " she cries."]}
+{"head": "She discovered her siblings didn't feel the same.", "relation": "HinderedBy", "tails": [" she was told to stay away from her siblings.", " she was told to stay away from them.", " she was told to stay away from her siblings"]}
+{"head": "She discovered her siblings didn't feel the same.", "relation": "oWant", "tails": [" none", " to tell their parents", " to tell their siblings"]}
+{"head": "She discovered her siblings didn't feel the same.", "relation": "xReact", "tails": [" sad", " upset", " angry"]}
+{"head": "She discovered her siblings didn't feel the same.", "relation": "oEffect", "tails": [" none", " they get mad at them", " they get mad at her"]}
+{"head": "She discovered her siblings didn't feel the same.", "relation": "xIntent", "tails": [" none", " she wanted to be with her siblings", " she wanted to be with her siblings."]}
+{"head": "She discovered her siblings didn't feel the same.", "relation": "oReact", "tails": [" none", " sad", " loved"]}
+{"head": "She discovered her siblings didn't feel the same.", "relation": "isBefore", "tails": [" she tells her siblings she loves them", " she tells her siblings she loves them too", " she tells her siblings she loves them."]}
+{"head": "She discovered her siblings didn't feel the same.", "relation": "isAfter", "tails": [" she told her siblings she loved them", " she told her siblings about it", " she told her siblings she loved them."]}
+{"head": "She discovered her siblings didn't feel the same.", "relation": "HasSubEvent", "tails": [" none", " She went to see her siblings.", " She went to see them."]}
+{"head": "She discovered her siblings didn't feel the same.", "relation": "Causes", "tails": [" she is in love with her siblings", " she is in love with her brother", " she is in love with her siblings."]}
+{"head": "She discovered her siblings didn't feel the same.", "relation": "xReason", "tails": [" none", " she went on a date with her brother", " she went on a date with him"]}
+{"head": "Sally went home and wondered about her parents' marriage.", "relation": "xAttr", "tails": [" curious", " nervous", " worried"]}
+{"head": "Sally went home and wondered about her parents' marriage.", "relation": "xWant", "tails": [" to talk to her parents", " to talk to their parents", " to ask her parents about it"]}
+{"head": "Sally went home and wondered about her parents' marriage.", "relation": "xNeed", "tails": [" none", " get married", " to be married"]}
+{"head": "Sally went home and wondered about her parents' marriage.", "relation": "xEffect", "tails": [" none", " gets married", " gets a divorce"]}
+{"head": "Sally went home and wondered about her parents' marriage.", "relation": "HinderedBy", "tails": [" They are too far away from each other.", " They are married.", " They are too far away."]}
+{"head": "Sally went home and wondered about her parents' marriage.", "relation": "oWant", "tails": [" none", " to get married", " to talk about it"]}
+{"head": "Sally went home and wondered about her parents' marriage.", "relation": "xReact", "tails": [" worried", " happy", " nervous"]}
+{"head": "Sally went home and wondered about her parents' marriage.", "relation": "oEffect", "tails": [" none", " they get married", " parents are in love"]}
+{"head": "Sally went home and wondered about her parents' marriage.", "relation": "xIntent", "tails": [" none", " to find out the truth", " to know the truth"]}
+{"head": "Sally went home and wondered about her parents' marriage.", "relation": "oReact", "tails": [" none", " happy", " loved"]}
+{"head": "Sally went home and wondered about her parents' marriage.", "relation": "isBefore", "tails": [" they go to sleep", " they go to bed", " they go to the doctor"]}
+{"head": "Sally went home and wondered about her parents' marriage.", "relation": "isAfter", "tails": [" PersonX is married to someone else.", " PersonY is married to PersonY.", " PersonX is married to PersonY."]}
+{"head": "Sally went home and wondered about her parents' marriage.", "relation": "HasSubEvent", "tails": [" get married", " get a divorce", " none"]}
+{"head": "Sally went home and wondered about her parents' marriage.", "relation": "Causes", "tails": [" They are married.", " they have a child", " none"]}
+{"head": "Sally went home and wondered about her parents' marriage.", "relation": "xReason", "tails": [" They are married.", " none", " they have a child"]}
+{"head": "Sally was happy when her widowed mom found a new man.", "relation": "xAttr", "tails": [" happy", " loving", " excited"]}
+{"head": "Sally was happy when her widowed mom found a new man.", "relation": "xWant", "tails": [" to get to know the man", " to get to know the new man", " to get to know the new man."]}
+{"head": "Sally was happy when her widowed mom found a new man.", "relation": "xNeed", "tails": [" none", " to have a relationship with her mom", " to have a relationship with their mom"]}
+{"head": "Sally was happy when her widowed mom found a new man.", "relation": "xEffect", "tails": [" none", " gets a hug from the new man", " gets a hug from her mom"]}
+{"head": "Sally was happy when her widowed mom found a new man.", "relation": "HinderedBy", "tails": [" They are in a relationship.", " They are in love.", " They are not related."]}
+{"head": "Sally was happy when her widowed mom found a new man.", "relation": "oWant", "tails": [" to get to know the new man", " to get married", " to get to know the man"]}
+{"head": "Sally was happy when her widowed mom found a new man.", "relation": "xReact", "tails": [" happy", " happy.", " excited"]}
+{"head": "Sally was happy when her widowed mom found a new man.", "relation": "oEffect", "tails": [" none", " get married", " get a divorce"]}
+{"head": "Sally was happy when her widowed mom found a new man.", "relation": "xIntent", "tails": [" none", " to be loved", " to be happy"]}
+{"head": "Sally was happy when her widowed mom found a new man.", "relation": "oReact", "tails": [" none", " happy", " loved"]}
+{"head": "Sally was happy when her widowed mom found a new man.", "relation": "isBefore", "tails": [" PersonY gives PersonY a hug.", " PersonY gives PersonY a gift.", " PersonY gives PersonY a hug"]}
+{"head": "Sally was happy when her widowed mom found a new man.", "relation": "isAfter", "tails": [" PersonY gives PersonY a gift.", " PersonY gives PersonY a hug.", " PersonY gives PersonY a hug"]}
+{"head": "Sally was happy when her widowed mom found a new man.", "relation": "HasSubEvent", "tails": [" get to know the new man", " get to know the man", " get to know the new person"]}
+{"head": "Sally was happy when her widowed mom found a new man.", "relation": "Causes", "tails": [" happy", " none", " happy."]}
+{"head": "Sally was happy when her widowed mom found a new man.", "relation": "xReason", "tails": [" none", " they have a new friend", " they have a good time together"]}
+{"head": "Sally flew to visit her mom and her mom's new husband.", "relation": "xAttr", "tails": [" happy", " excited", " friendly"]}
+{"head": "Sally flew to visit her mom and her mom's new husband.", "relation": "xWant", "tails": [" to have a good time", " to have a good time with their new husband", " to have a good time with her new husband"]}
+{"head": "Sally flew to visit her mom and her mom's new husband.", "relation": "xNeed", "tails": [" to book a flight", " to book a plane ticket", " to book a ticket"]}
+{"head": "Sally flew to visit her mom and her mom's new husband.", "relation": "xEffect", "tails": [" get to know the new husband", " get to know them better", " get to know the other person"]}
+{"head": "Sally flew to visit her mom and her mom's new husband.", "relation": "HinderedBy", "tails": [" They have to go to work.", " They are in a different country.", " They have to work."]}
+{"head": "Sally flew to visit her mom and her mom's new husband.", "relation": "oWant", "tails": [" to have a good time", " to spend time together", " to spend time with them"]}
+{"head": "Sally flew to visit her mom and her mom's new husband.", "relation": "xReact", "tails": [" happy", " excited", " happy."]}
+{"head": "Sally flew to visit her mom and her mom's new husband.", "relation": "oEffect", "tails": [" get to know each other", " get to know each other better", " none"]}
+{"head": "Sally flew to visit her mom and her mom's new husband.", "relation": "xIntent", "tails": [" to see their new husband", " to be with family", " to see her mom"]}
+{"head": "Sally flew to visit her mom and her mom's new husband.", "relation": "oReact", "tails": [" none", " happy", " loved"]}
+{"head": "Sally flew to visit her mom and her mom's new husband.", "relation": "isBefore", "tails": [" they go to the movies", " they go to the airport", " they go to the movies together"]}
+{"head": "Sally flew to visit her mom and her mom's new husband.", "relation": "isAfter", "tails": [" they go on a date", " they go to the airport", " they go to the movies"]}
+{"head": "Sally flew to visit her mom and her mom's new husband.", "relation": "HasSubEvent", "tails": [" have a good time", " get to know the new husband", " get to know them better"]}
+{"head": "Sally flew to visit her mom and her mom's new husband.", "relation": "Causes", "tails": [" happy to see them", " happy", " happy to see mom"]}
+{"head": "Sally flew to visit her mom and her mom's new husband.", "relation": "xReason", "tails": [" have a good time", " have a great time", " have a good time together"]}
+{"head": "Sally", "relation": "ObjectUse", "tails": [" get a new job", " get a job", " get a new job."]}
+{"head": "Sally", "relation": "AtLocation", "tails": [" sally's house", " sally", " sally's home"]}
+{"head": "Sally", "relation": "CapableOf", "tails": [" get a new job", " get a job", " take shower"]}
+{"head": "Sally", "relation": "HasProperty", "tails": [" none", " one of Sally's children", " one of Sally's friends"]}
+{"head": "Sally", "relation": "MadeUpOf", "tails": [" sally", " sash", " sopson"]}
+{"head": "Sally", "relation": "NotDesires", "tails": [" have to go to the bathroom", " have to go to work", " get in car accident"]}
+{"head": "Sally", "relation": "Desires", "tails": [" have a good time", " none", " have fun"]}
+{"head": "Although her mom was obviously in love, he was nothing like her dad.", "relation": "xAttr", "tails": [" loving", " romantic", " caring"]}
+{"head": "Although her mom was obviously in love, he was nothing like her dad.", "relation": "xWant", "tails": [" to get married", " to marry him", " to get a divorce"]}
+{"head": "Although her mom was obviously in love, he was nothing like her dad.", "relation": "xNeed", "tails": [" none", " to have a relationship with him", " to be in love with someone"]}
+{"head": "Although her mom was obviously in love, he was nothing like her dad.", "relation": "xEffect", "tails": [" none", " they have a child together", " they have a child"]}
+{"head": "Although her mom was obviously in love, he was nothing like her dad.", "relation": "HinderedBy", "tails": [" none", " he is not like her dad", " he is not like his dad"]}
+{"head": "Although her mom was obviously in love, he was nothing like her dad.", "relation": "oWant", "tails": [" none", " to get married", " to get a divorce"]}
+{"head": "Although her mom was obviously in love, he was nothing like her dad.", "relation": "xReact", "tails": [" happy", " loving", " loved"]}
+{"head": "Although her mom was obviously in love, he was nothing like her dad.", "relation": "oEffect", "tails": [" none", " they have a child together", " they have a child"]}
+{"head": "Although her mom was obviously in love, he was nothing like her dad.", "relation": "xIntent", "tails": [" none", " love someone else", " to have a relationship"]}
+{"head": "Although her mom was obviously in love, he was nothing like her dad.", "relation": "oReact", "tails": [" none", " loved", " happy"]}
+{"head": "Although her mom was obviously in love, he was nothing like her dad.", "relation": "isBefore", "tails": [" none", " her mom to be happy", " her mom to get married."]}
+{"head": "Although her mom was obviously in love, he was nothing like her dad.", "relation": "isAfter", "tails": [" none", " her dad", " her mom"]}
+{"head": "Although her mom was obviously in love, he was nothing like her dad.", "relation": "HasSubEvent", "tails": [" none", " get married", " have a child"]}
+{"head": "Although her mom was obviously in love, he was nothing like her dad.", "relation": "Causes", "tails": [" none", " love", " loving"]}
+{"head": "Although her mom was obviously in love, he was nothing like her dad.", "relation": "xReason", "tails": [" none", " they have a child together", " her mom to be happy"]}

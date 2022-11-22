@@ -1,0 +1,75 @@
+{"head": "trip", "relation": "ObjectUse", "tails": [" travel to new places", " go on vacation", " go on"]}
+{"head": "trip", "relation": "AtLocation", "tails": [" vacation", " plane", " trip"]}
+{"head": "trip", "relation": "CapableOf", "tails": [" travel to destination", " go on vacation", " travel to new place"]}
+{"head": "trip", "relation": "HasProperty", "tails": [" trip to destination", " travel", " trip to other country"]}
+{"head": "trip", "relation": "MadeUpOf", "tails": [" trip", " travel", " plane ticket"]}
+{"head": "trip", "relation": "NotDesires", "tails": [" get lost", " trip to destination", " get lost in woods"]}
+{"head": "trip", "relation": "Desires", "tails": [" get away from home", " get away from family", " travel"]}
+{"head": "to remember", "relation": "HinderedBy", "tails": [" to remember", " to remember something", " to remember things"]}
+{"head": "to remember", "relation": "isBefore", "tails": [" to remember", " to remember something", " to remember things"]}
+{"head": "to remember", "relation": "isAfter", "tails": [" to remember", " remember what happened", " remember"]}
+{"head": "to remember", "relation": "HasSubEvent", "tails": [" to remember", " remember what happened", " remember"]}
+{"head": "to remember", "relation": "Causes", "tails": [" to remember", " remember things", " remember"]}
+{"head": "to remember", "relation": "xReason", "tails": [" remember things", " to remember", " remember what happened"]}
+{"head": "to miss", "relation": "HinderedBy", "tails": [" to miss", " to miss ", " to miss something"]}
+{"head": "to miss", "relation": "isBefore", "tails": [" to miss", " to miss something", " to miss something important"]}
+{"head": "to miss", "relation": "isAfter", "tails": [" to miss", " to be missed", " none"]}
+{"head": "to miss", "relation": "HasSubEvent", "tails": [" to miss", " to miss something", " to miss something important"]}
+{"head": "to miss", "relation": "Causes", "tails": [" to miss", " to miss something", " none"]}
+{"head": "to miss", "relation": "xReason", "tails": [" to miss", " none", " to miss something"]}
+{"head": "remember dad", "relation": "HinderedBy", "tails": [" remember", " remember the good times", " remember dad"]}
+{"head": "remember dad", "relation": "isBefore", "tails": [" remember the good times with dad", " remember the good times spent with dad", " remember"]}
+{"head": "remember dad", "relation": "isAfter", "tails": [" remember", " remember dad", " remember mom"]}
+{"head": "remember dad", "relation": "HasSubEvent", "tails": [" think about dad", " think of dad", " remember"]}
+{"head": "remember dad", "relation": "Causes", "tails": [" remember the good times with dad", " remember", " remember the good times"]}
+{"head": "remember dad", "relation": "xReason", "tails": [" remember", " remember dad", " remember father"]}
+{"head": "people", "relation": "ObjectUse", "tails": [" people to do things for them", " people to do things with", " people to do things for"]}
+{"head": "people", "relation": "AtLocation", "tails": [" people to talk to", " people to talk to each other", " people to talk to eachother"]}
+{"head": "people", "relation": "CapableOf", "tails": [" people to do things for them", " people to get to know each other", " people to do things together"]}
+{"head": "people", "relation": "HasProperty", "tails": [" people who like other people", " people who like other people to like them", " people who like other people's company"]}
+{"head": "people", "relation": "MadeUpOf", "tails": [" people who like to play video games", " people who like to play with other people", " people who like to be alone"]}
+{"head": "people", "relation": "NotDesires", "tails": [" people to die", " people to get sick", " people to get hurt"]}
+{"head": "people", "relation": "Desires", "tails": [" people to like", " people to love", " people to be happy"]}
+{"head": "lot", "relation": "ObjectUse", "tails": [" park the car in", " parking lot", " park the car"]}
+{"head": "lot", "relation": "AtLocation", "tails": [" parking lot", " park", " parking space"]}
+{"head": "lot", "relation": "CapableOf", "tails": [" park car in", " park car", " park car on"]}
+{"head": "lot", "relation": "HasProperty", "tails": [" parking lot", " found in city", " found in many cities"]}
+{"head": "lot", "relation": "MadeUpOf", "tails": [" parking lot", " lotteries", " parking space"]}
+{"head": "lot", "relation": "NotDesires", "tails": [" parking lot", " parking spaces", " parking space"]}
+{"head": "lot", "relation": "Desires", "tails": [" parking lot", " parking spaces", " parking space"]}
+{"head": "dad", "relation": "ObjectUse", "tails": [" have a conversation with", " have a good relationship with", " have a good time with"]}
+{"head": "dad", "relation": "AtLocation", "tails": [" dad's house", " mom's house", " dad's car"]}
+{"head": "dad", "relation": "CapableOf", "tails": [" father son", " step on dog", " father"]}
+{"head": "dad", "relation": "HasProperty", "tails": [" dad", " father", " good looking"]}
+{"head": "dad", "relation": "MadeUpOf", "tails": [" dad", " dad's hands", " father"]}
+{"head": "dad", "relation": "NotDesires", "tails": [" dad to die", " father to die", " dad to be dead"]}
+{"head": "dad", "relation": "Desires", "tails": [" fatherly love", " fatherly influence", " dad to be happy"]}
+{"head": "annual trip", "relation": "ObjectUse", "tails": [" have a good time", " travel to new places", " have fun"]}
+{"head": "annual trip", "relation": "AtLocation", "tails": [" vacation", " travel agency", " hotel room"]}
+{"head": "annual trip", "relation": "CapableOf", "tails": [" travel to new places", " travel to different places", " have fun"]}
+{"head": "annual trip", "relation": "HasProperty", "tails": [" one of the most important holidays of the year", " one of the most important holidays of the year.", " one of the most important things in life"]}
+{"head": "annual trip", "relation": "MadeUpOf", "tails": [" travel insurance", " travel agency", " travel agent"]}
+{"head": "annual trip", "relation": "NotDesires", "tails": [" have a good time", " have fun", " have to pay for"]}
+{"head": "annual trip", "relation": "Desires", "tails": [" have a good time", " have fun", " have a good time."]}
+{"head": "The annual trip was to remember the Irvine dad that's missed by a lot of people.", "relation": "xAttr", "tails": [" mournful", " sad", " nostalgic"]}
+{"head": "The annual trip was to remember the Irvine dad that's missed by a lot of people.", "relation": "xWant", "tails": [" to remember their dad", " to remember their father", " to go home"]}
+{"head": "The annual trip was to remember the Irvine dad that's missed by a lot of people.", "relation": "xNeed", "tails": [" to go to the funeral", " to go to the funeral home", " to go to a funeral"]}
+{"head": "The annual trip was to remember the Irvine dad that's missed by a lot of people.", "relation": "xEffect", "tails": [" the trip to remember the dad", " the family to remember the father", " the family to be together"]}
+{"head": "The annual trip was to remember the Irvine dad that's missed by a lot of people.", "relation": "HinderedBy", "tails": [" the trip to remember the dad", " the family to be together", " the family to remember the dad"]}
+{"head": "The annual trip was to remember the Irvine dad that's missed by a lot of people.", "relation": "oWant", "tails": [" to remember their dad", " to remember their father", " to remember the dad"]}
+{"head": "The annual trip was to remember the Irvine dad that's missed by a lot of people.", "relation": "xReact", "tails": [" sad", " happy", " happy."]}
+{"head": "The annual trip was to remember the Irvine dad that's missed by a lot of people.", "relation": "oEffect", "tails": [" none", " the family to go on a trip with them", " the family to go on a trip together"]}
+{"head": "The annual trip was to remember the Irvine dad that's missed by a lot of people.", "relation": "xIntent", "tails": [" the family to be together", " the family to remember the father", " the family to remember the dad"]}
+{"head": "The annual trip was to remember the Irvine dad that's missed by a lot of people.", "relation": "oReact", "tails": [" none", " sad", " loved"]}
+{"head": "The annual trip was to remember the Irvine dad that's missed by a lot of people.", "relation": "isBefore", "tails": [" the family to go on a trip with them", " the family to go on a trip together", " the family to go to the funeral"]}
+{"head": "The annual trip was to remember the Irvine dad that's missed by a lot of people.", "relation": "isAfter", "tails": [" the family to remember the father", " the family to remember the dad", " the trip to remember the dad"]}
+{"head": "The annual trip was to remember the Irvine dad that's missed by a lot of people.", "relation": "HasSubEvent", "tails": [" the family to go on a trip with them", " the family to go on a trip together", " the family to go on a trip with them."]}
+{"head": "The annual trip was to remember the Irvine dad that's missed by a lot of people.", "relation": "Causes", "tails": [" the family to remember the father", " the family to be together", " the memories of the father"]}
+{"head": "The annual trip was to remember the Irvine dad that's missed by a lot of people.", "relation": "xReason", "tails": [" the family to be together", " the family to remember the father", " the trip to remember the dad"]}
+{"head": "Irvine dad", "relation": "ObjectUse", "tails": [" have a good relationship with", " have a conversation with", " have a good time with"]}
+{"head": "Irvine dad", "relation": "AtLocation", "tails": [" dad's house", " father's house", " dad's car"]}
+{"head": "Irvine dad", "relation": "CapableOf", "tails": [" father children", " father son", " get a divorce"]}
+{"head": "Irvine dad", "relation": "HasProperty", "tails": [" parents", " fatherly", " father figure"]}
+{"head": "Irvine dad", "relation": "MadeUpOf", "tails": [" father figure", " father", " father's hand"]}
+{"head": "Irvine dad", "relation": "NotDesires", "tails": [" none", " parents to die", " parents to be happy"]}
+{"head": "Irvine dad", "relation": "Desires", "tails": [" to be a good father", " to be a good parent", " to be a good dad"]}

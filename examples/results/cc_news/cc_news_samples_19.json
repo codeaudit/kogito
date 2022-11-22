@@ -1,0 +1,168 @@
+{"head": "worldwide infamy", "relation": "ObjectUse", "tails": [" make a movie about", " make a movie", " make a movie about."]}
+{"head": "worldwide infamy", "relation": "AtLocation", "tails": [" world", " world war", " world's capital"]}
+{"head": "worldwide infamy", "relation": "CapableOf", "tails": [" become famous", " get arrested", " kill people"]}
+{"head": "worldwide infamy", "relation": "HasProperty", "tails": [" death", " bad news", " world wide"]}
+{"head": "worldwide infamy", "relation": "MadeUpOf", "tails": [" death", " world", " world war"]}
+{"head": "worldwide infamy", "relation": "NotDesires", "tails": [" death", " world to end", " world war"]}
+{"head": "worldwide infamy", "relation": "Desires", "tails": [" none", " to be famous", " to be remembered"]}
+{"head": "war", "relation": "ObjectUse", "tails": [" war", " fighting", " fight for"]}
+{"head": "war", "relation": "AtLocation", "tails": [" war", " war zone", " warzone"]}
+{"head": "war", "relation": "CapableOf", "tails": [" fight for freedom", " fight war", " fight"]}
+{"head": "war", "relation": "HasProperty", "tails": [" war", " very violent", " war is war"]}
+{"head": "war", "relation": "MadeUpOf", "tails": [" war", " warring", " warship"]}
+{"head": "war", "relation": "NotDesires", "tails": [" war", " death", " battle"]}
+{"head": "war", "relation": "Desires", "tails": [" war", " fight for freedom", " win war"]}
+{"head": "to spark", "relation": "HinderedBy", "tails": [" to spark", " to spark fire", " to spark the fire"]}
+{"head": "to spark", "relation": "isBefore", "tails": [" to spark", " to spark fire", " to spark the fire"]}
+{"head": "to spark", "relation": "isAfter", "tails": [" sparkler", " to spark", " sparklers"]}
+{"head": "to spark", "relation": "HasSubEvent", "tails": [" to spark", " light match", " to spark fire"]}
+{"head": "to spark", "relation": "Causes", "tails": [" to spark", " to spark fire", " sparkle"]}
+{"head": "to spark", "relation": "xReason", "tails": [" to spark", " to spark fire", " sparkle"]}
+{"head": "to scatter", "relation": "HinderedBy", "tails": [" to scatter", " to scatter ", " to scatter  to scatter"]}
+{"head": "to scatter", "relation": "isBefore", "tails": [" to scatter", " to scatter ", " to scatter  to scatter"]}
+{"head": "to scatter", "relation": "isAfter", "tails": [" to scatter", " to get rid of things", " to get away from something"]}
+{"head": "to scatter", "relation": "HasSubEvent", "tails": [" to scatter", " to scatter ", " to scatter  scatter"]}
+{"head": "to scatter", "relation": "Causes", "tails": [" to scatter", " to scatter ", " to scatter  to scatter"]}
+{"head": "to scatter", "relation": "xReason", "tails": [" to scatter", " to scatter ", " to scatter  away"]}
+{"head": "to hope", "relation": "HinderedBy", "tails": [" to hope", " to hope for the best", " to hope for the future"]}
+{"head": "to hope", "relation": "isBefore", "tails": [" to hope for the best", " hope for the best", " to hope"]}
+{"head": "to hope", "relation": "isAfter", "tails": [" to hope for the best", " to be hopeful", " hope for the best"]}
+{"head": "to hope", "relation": "HasSubEvent", "tails": [" to hope for the best", " hope for the best", " to hope"]}
+{"head": "to hope", "relation": "Causes", "tails": [" to hope for the best", " to hope", " hope for the best"]}
+{"head": "to hope", "relation": "xReason", "tails": [" to hope for the best", " hope for the best", " to hope"]}
+{"head": "to gain", "relation": "HinderedBy", "tails": [" to gain", " to gain ", " to gain  to gain "]}
+{"head": "to gain", "relation": "isBefore", "tails": [" to gain", " to gain something", " to gain money"]}
+{"head": "to gain", "relation": "isAfter", "tails": [" to gain", " to gain something", " to gain money"]}
+{"head": "to gain", "relation": "HasSubEvent", "tails": [" to gain", " to gain  gain  gain  gain  gain  gain  gain  gain  gain  gain  gain", " to gain  gain  gain  gain  gain  gain  gain  gain  gain  gain"]}
+{"head": "to gain", "relation": "Causes", "tails": [" to gain  gain  gain  gain  gain  gain  gain  gain  gain  gain  gain", " to gain", " to gain  gain  gain  gain  gain  gain  gain  gain  gain  gain"]}
+{"head": "to gain", "relation": "xReason", "tails": [" to gain", " to gain something", " to gain  power"]}
+{"head": "to follow", "relation": "HinderedBy", "tails": [" to follow", " to follow ", " to follow  to follow "]}
+{"head": "to follow", "relation": "isBefore", "tails": [" to follow", " to follow the leader", " to follow them"]}
+{"head": "to follow", "relation": "isAfter", "tails": [" to follow", " to get to the destination", " to follow the leader"]}
+{"head": "to follow", "relation": "HasSubEvent", "tails": [" to follow", " to follow ", " to follow  follow"]}
+{"head": "to follow", "relation": "Causes", "tails": [" to follow", " to follow ", " to follow the leader"]}
+{"head": "to follow", "relation": "xReason", "tails": [" to follow", " to follow the leader", " to follow someone"]}
+{"head": "to cremate", "relation": "HinderedBy", "tails": [" to cremate", " to cremate ", " to cremate the body"]}
+{"head": "to cremate", "relation": "isBefore", "tails": [" to cremate", " to cremate the body", " to cremate body"]}
+{"head": "to cremate", "relation": "isAfter", "tails": [" to cremate", " to be cremated", " to cremate body"]}
+{"head": "to cremate", "relation": "HasSubEvent", "tails": [" to cremate", " to cremate ", " to cremate  body"]}
+{"head": "to cremate", "relation": "Causes", "tails": [" to cremate", " to be cremated", " cremated"]}
+{"head": "to cremate", "relation": "xReason", "tails": [" to cremate", " to cremate body", " to cremate a body"]}
+{"head": "spark war", "relation": "HinderedBy", "tails": [" fight each other", " war", " war is bad."]}
+{"head": "spark war", "relation": "isBefore", "tails": [" war", " fight", " fight war"]}
+{"head": "spark war", "relation": "isAfter", "tails": [" war", " fight with other people", " fight for freedom"]}
+{"head": "spark war", "relation": "HasSubEvent", "tails": [" start war", " get killed", " start fire"]}
+{"head": "spark war", "relation": "Causes", "tails": [" war", " war is bad for humanity", " war is bad for humanity."]}
+{"head": "spark war", "relation": "xReason", "tails": [" war", " fight each other", " fight war"]}
+{"head": "race war", "relation": "ObjectUse", "tails": [" race war", " fight for freedom", " fight for"]}
+{"head": "race war", "relation": "AtLocation", "tails": [" race war", " war", " war zone"]}
+{"head": "race war", "relation": "CapableOf", "tails": [" race war", " fight for freedom", " race to win"]}
+{"head": "race war", "relation": "HasProperty", "tails": [" race war", " war", " violent"]}
+{"head": "race war", "relation": "MadeUpOf", "tails": [" race war", " war", " race"]}
+{"head": "race war", "relation": "NotDesires", "tails": [" race war", " war", " fight for freedom"]}
+{"head": "race war", "relation": "Desires", "tails": [" race war", " fight for freedom", " war"]}
+{"head": "race", "relation": "ObjectUse", "tails": [" win the race", " win", " win a race"]}
+{"head": "race", "relation": "AtLocation", "tails": [" race track", " racecourse", " race"]}
+{"head": "race", "relation": "CapableOf", "tails": [" win", " win race", " race car"]}
+{"head": "race", "relation": "HasProperty", "tails": [" race", " found in race track", " found in racecourses"]}
+{"head": "race", "relation": "MadeUpOf", "tails": [" race", " racehorse", " racecourse"]}
+{"head": "race", "relation": "NotDesires", "tails": [" win or lose", " race car", " win or lose race"]}
+{"head": "race", "relation": "Desires", "tails": [" win", " win race", " race"]}
+{"head": "private funeral", "relation": "ObjectUse", "tails": [" mourn a loved one", " mourn", " have a funeral"]}
+{"head": "private funeral", "relation": "AtLocation", "tails": [" funeral home", " funeral parlor", " funeral"]}
+{"head": "private funeral", "relation": "CapableOf", "tails": [" mourn", " bury loved one", " have funeral"]}
+{"head": "private funeral", "relation": "HasProperty", "tails": [" funeral", " mourners", " funeral home"]}
+{"head": "private funeral", "relation": "MadeUpOf", "tails": [" funeral", " mourners", " funeral home"]}
+{"head": "private funeral", "relation": "NotDesires", "tails": [" funeral", " mourn", " mourners"]}
+{"head": "private funeral", "relation": "Desires", "tails": [" mourn", " funeral", " have funeral"]}
+{"head": "months", "relation": "ObjectUse", "tails": [" have a baby", " get a promotion", " have a child"]}
+{"head": "months", "relation": "AtLocation", "tails": [" office building", " house", " summer"]}
+{"head": "months", "relation": "CapableOf", "tails": [" go on vacation", " wait for wedding", " go to doctor"]}
+{"head": "months", "relation": "HasProperty", "tails": [" many months", " months", " many days"]}
+{"head": "months", "relation": "MadeUpOf", "tails": [" months", " month", " time"]}
+{"head": "months", "relation": "NotDesires", "tails": [" have to go back to school", " have to go to doctor", " have to go back to work"]}
+{"head": "months", "relation": "Desires", "tails": [" have a good time", " have a good life", " get married"]}
+{"head": "man", "relation": "ObjectUse", "tails": [" man of steel", " man's mouth", " man's place"]}
+{"head": "man", "relation": "AtLocation", "tails": [" mannequin", " man's house", " man's home"]}
+{"head": "man", "relation": "CapableOf", "tails": [" man of steel", " men to work", " men to be men"]}
+{"head": "man", "relation": "HasProperty", "tails": [" found in woods", " man", " man's body"]}
+{"head": "man", "relation": "MadeUpOf", "tails": [" man's mouth", " mannequin", " man's hand"]}
+{"head": "man", "relation": "NotDesires", "tails": [" man to die", " man to be dead", " man's body"]}
+{"head": "man", "relation": "Desires", "tails": [" man's best friend", " man's best interests at heart", " man's best interest at heart"]}
+{"head": "killings", "relation": "ObjectUse", "tails": [" kill people", " kill someone", " make a movie"]}
+{"head": "killings", "relation": "AtLocation", "tails": [" murder", " death row", " body parts"]}
+{"head": "killings", "relation": "CapableOf", "tails": [" kill people", " kill innocent people", " murder people"]}
+{"head": "killings", "relation": "HasProperty", "tails": [" killed in war", " killings", " death"]}
+{"head": "killings", "relation": "MadeUpOf", "tails": [" killings", " murder", " kill"]}
+{"head": "killings", "relation": "NotDesires", "tails": [" kill people", " kill innocent people", " death"]}
+{"head": "killings", "relation": "Desires", "tails": [" kill people", " murder", " kill for money"]}
+{"head": "infamy", "relation": "ObjectUse", "tails": [" get arrested for", " death", " get arrested"]}
+{"head": "infamy", "relation": "AtLocation", "tails": [" movie", " history books", " history book"]}
+{"head": "infamy", "relation": "CapableOf", "tails": [" get arrested", " death", " get killed"]}
+{"head": "infamy", "relation": "HasProperty", "tails": [" death", " bad reputation", " bad"]}
+{"head": "infamy", "relation": "MadeUpOf", "tails": [" death", " memory", " name"]}
+{"head": "infamy", "relation": "NotDesires", "tails": [" death", " bad things to happen", " bad reputation"]}
+{"head": "infamy", "relation": "Desires", "tails": [" death", " remember", " get arrested"]}
+{"head": "gain infamy", "relation": "HinderedBy", "tails": [" gain fame", " lose reputation", " get arrested"]}
+{"head": "gain infamy", "relation": "isBefore", "tails": [" gain fame", " lose reputation", " get arrested"]}
+{"head": "gain infamy", "relation": "isAfter", "tails": [" gain fame", " lose reputation", " get arrested"]}
+{"head": "gain infamy", "relation": "HasSubEvent", "tails": [" become famous", " lose reputation", " get arrested"]}
+{"head": "gain infamy", "relation": "Causes", "tails": [" gain fame", " lose reputation", " lose friends"]}
+{"head": "gain infamy", "relation": "xReason", "tails": [" gain fame", " lose reputation", " get arrested"]}
+{"head": "funeral", "relation": "ObjectUse", "tails": [" have a funeral", " mourn", " mourn with family"]}
+{"head": "funeral", "relation": "AtLocation", "tails": [" funeral", " funeral home", " funeral parlor"]}
+{"head": "funeral", "relation": "CapableOf", "tails": [" have funeral", " bury loved one", " mourn"]}
+{"head": "funeral", "relation": "HasProperty", "tails": [" funeral", " mourners", " death"]}
+{"head": "funeral", "relation": "MadeUpOf", "tails": [" funeral", " funeral pyre", " mourners"]}
+{"head": "funeral", "relation": "NotDesires", "tails": [" funeral", " death", " mourn"]}
+{"head": "funeral", "relation": "Desires", "tails": [" funeral", " mourn", " have funeral"]}
+{"head": "death", "relation": "ObjectUse", "tails": [" death", " die", " dead"]}
+{"head": "death", "relation": "AtLocation", "tails": [" death", " death bed", " deathbed"]}
+{"head": "death", "relation": "CapableOf", "tails": [" death", " death of loved ones", " death of loved one"]}
+{"head": "death", "relation": "HasProperty", "tails": [" death", " dead", " dead body"]}
+{"head": "death", "relation": "MadeUpOf", "tails": [" death", " dead body", " death ray"]}
+{"head": "death", "relation": "NotDesires", "tails": [" death", " death of loved ones", " death of loved one"]}
+{"head": "death", "relation": "Desires", "tails": [" death", " life", " die"]}
+{"head": "brief", "relation": "ObjectUse", "tails": [" make a paper airplane", " use as a paperweight", " use as a paper weight"]}
+{"head": "brief", "relation": "AtLocation", "tails": [" office supply store", " office", " office building"]}
+{"head": "brief", "relation": "CapableOf", "tails": [" write down information", " write down notes", " read from"]}
+{"head": "brief", "relation": "HasProperty", "tails": [" written on paper", " brief", " short for short time"]}
+{"head": "brief", "relation": "MadeUpOf", "tails": [" briefcase", " bibliography", " binder"]}
+{"head": "brief", "relation": "NotDesires", "tails": [" have to go to the bathroom", " have to go to work", " have to write down"]}
+{"head": "brief", "relation": "Desires", "tails": [" make a list of things you need to do", " make a list of things to do", " make a paper airplane"]}
+{"head": "ashes", "relation": "ObjectUse", "tails": [" use as a paperweight", " use as a weapon", " use as a paper weight"]}
+{"head": "ashes", "relation": "AtLocation", "tails": [" jar", " water", " food"]}
+{"head": "ashes", "relation": "CapableOf", "tails": [" wash hands", " use as a weapon", " throw at someone"]}
+{"head": "ashes", "relation": "HasProperty", "tails": [" made up of", " made up of many different materials", " made up of many different substances"]}
+{"head": "ashes", "relation": "MadeUpOf", "tails": [" letters", " hair", " strings"]}
+{"head": "ashes", "relation": "NotDesires", "tails": [" rubs on skin", " rubs on clothes", " rubs on face"]}
+{"head": "ashes", "relation": "Desires", "tails": [" use as a weapon", " use as toilet paper", " use as lubricant"]}
+{"head": "Charles Manson was cremated and his ashes scattered following a brief, private funeral four months after the death of the man who gained worldwide infamy for the 1969 Los Angeles killings he hoped would spark a race war.", "relation": "xAttr", "tails": [" sadistic", " violent", " evil"]}
+{"head": "Charles Manson was cremated and his ashes scattered following a brief, private funeral four months after the death of the man who gained worldwide infamy for the 1969 Los Angeles killings he hoped would spark a race war.", "relation": "xWant", "tails": [" to be cremated", " to be buried in the ground", " to be cremated."]}
+{"head": "Charles Manson was cremated and his ashes scattered following a brief, private funeral four months after the death of the man who gained worldwide infamy for the 1969 Los Angeles killings he hoped would spark a race war.", "relation": "xNeed", "tails": [" to have committed a crime", " to have committed a terrible crime", " to have killed people"]}
+{"head": "Charles Manson was cremated and his ashes scattered following a brief, private funeral four months after the death of the man who gained worldwide infamy for the 1969 Los Angeles killings he hoped would spark a race war.", "relation": "xEffect", "tails": [" mourns", " mourned", " none"]}
+{"head": "Charles Manson was cremated and his ashes scattered following a brief, private funeral four months after the death of the man who gained worldwide infamy for the 1969 Los Angeles killings he hoped would spark a race war.", "relation": "HinderedBy", "tails": [" the body to be cremated", " the body to be cremated.", " the body to be cremated and buried"]}
+{"head": "Charles Manson was cremated and his ashes scattered following a brief, private funeral four months after the death of the man who gained worldwide infamy for the 1969 Los Angeles killings he hoped would spark a race war.", "relation": "oWant", "tails": [" none", " to bury the body", " to bury the dead"]}
+{"head": "Charles Manson was cremated and his ashes scattered following a brief, private funeral four months after the death of the man who gained worldwide infamy for the 1969 Los Angeles killings he hoped would spark a race war.", "relation": "xReact", "tails": [" sad", " dead", " happy"]}
+{"head": "Charles Manson was cremated and his ashes scattered following a brief, private funeral four months after the death of the man who gained worldwide infamy for the 1969 Los Angeles killings he hoped would spark a race war.", "relation": "oEffect", "tails": [" none", " mourns", " mourned"]}
+{"head": "Charles Manson was cremated and his ashes scattered following a brief, private funeral four months after the death of the man who gained worldwide infamy for the 1969 Los Angeles killings he hoped would spark a race war.", "relation": "xIntent", "tails": [" to be cremated", " to be cremated.", " none"]}
+{"head": "Charles Manson was cremated and his ashes scattered following a brief, private funeral four months after the death of the man who gained worldwide infamy for the 1969 Los Angeles killings he hoped would spark a race war.", "relation": "oReact", "tails": [" none", " mourned", " mourns"]}
+{"head": "Charles Manson was cremated and his ashes scattered following a brief, private funeral four months after the death of the man who gained worldwide infamy for the 1969 Los Angeles killings he hoped would spark a race war.", "relation": "isBefore", "tails": [" mourns", " mourned", " death"]}
+{"head": "Charles Manson was cremated and his ashes scattered following a brief, private funeral four months after the death of the man who gained worldwide infamy for the 1969 Los Angeles killings he hoped would spark a race war.", "relation": "isAfter", "tails": [" mourned", " mourns", " death"]}
+{"head": "Charles Manson was cremated and his ashes scattered following a brief, private funeral four months after the death of the man who gained worldwide infamy for the 1969 Los Angeles killings he hoped would spark a race war.", "relation": "HasSubEvent", "tails": [" mourns", " mourned", " none"]}
+{"head": "Charles Manson was cremated and his ashes scattered following a brief, private funeral four months after the death of the man who gained worldwide infamy for the 1969 Los Angeles killings he hoped would spark a race war.", "relation": "Causes", "tails": [" mourned", " mourns", " mournful"]}
+{"head": "Charles Manson was cremated and his ashes scattered following a brief, private funeral four months after the death of the man who gained worldwide infamy for the 1969 Los Angeles killings he hoped would spark a race war.", "relation": "xReason", "tails": [" mourned", " mourns", " none"]}
+{"head": "Charles Manson", "relation": "ObjectUse", "tails": [" murder people", " killing people", " murder"]}
+{"head": "Charles Manson", "relation": "AtLocation", "tails": [" movie", " prison", " murder"]}
+{"head": "Charles Manson", "relation": "CapableOf", "tails": [" murder people", " murder", " kill people"]}
+{"head": "Charles Manson", "relation": "HasProperty", "tails": [" evil", " murderous", " murdered"]}
+{"head": "Charles Manson", "relation": "MadeUpOf", "tails": [" murder", " murderer's face", " murderer's head"]}
+{"head": "Charles Manson", "relation": "NotDesires", "tails": [" murder", " evil", " get killed"]}
+{"head": "Charles Manson", "relation": "Desires", "tails": [" none", " murder", " get killed"]}
+{"head": "1969 Los Angeles killings", "relation": "ObjectUse", "tails": [" make a movie about", " make a movie about it", " get a restraining order"]}
+{"head": "1969 Los Angeles killings", "relation": "AtLocation", "tails": [" police station", " murder scene", " murder"]}
+{"head": "1969 Los Angeles killings", "relation": "CapableOf", "tails": [" get arrested", " murder people", " murder"]}
+{"head": "1969 Los Angeles killings", "relation": "HasProperty", "tails": [" murdered", " murder", " killed"]}
+{"head": "1969 Los Angeles killings", "relation": "MadeUpOf", "tails": [" murder weapon", " crime scene", " murder"]}
+{"head": "1969 Los Angeles killings", "relation": "NotDesires", "tails": [" murder", " get arrested", " get arrested for murder"]}
+{"head": "1969 Los Angeles killings", "relation": "Desires", "tails": [" none", " murder", " to kill"]}

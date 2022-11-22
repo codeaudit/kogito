@@ -1,0 +1,849 @@
+{"head": "\u2019 t", "relation": "ObjectUse", "tails": [" use as a weapon", " use as a prop in a play", " use as a prop in a movie"]}
+{"head": "\u2019 t", "relation": "AtLocation", "tails": [" movie theater", " store", " movie set"]}
+{"head": "\u2019 t", "relation": "CapableOf", "tails": [" write down address", " write on paper", " write down number"]}
+{"head": "\u2019 t", "relation": "HasProperty", "tails": [" one of two words", " one of many words", " one of the words"]}
+{"head": "\u2019 t", "relation": "MadeUpOf", "tails": [" one of the letters of the alphabet", " one letter of the alphabet", " one of the letters in alphabetical order"]}
+{"head": "\u2019 t", "relation": "NotDesires", "tails": [" go to jail", " go to the bathroom", " have to pay for"]}
+{"head": "\u2019 t", "relation": "Desires", "tails": [" have a good time", " to have a good time", " to have a good life"]}
+{"head": "year old daughter", "relation": "ObjectUse", "tails": [" play with", " have sex with", " have a baby"]}
+{"head": "year old daughter", "relation": "AtLocation", "tails": [" mother's arms", " mother's house", " mother's lap"]}
+{"head": "year old daughter", "relation": "CapableOf", "tails": [" play with", " have sex with", " have sex with father"]}
+{"head": "year old daughter", "relation": "HasProperty", "tails": [" one year old son", " one year old daughter", " one year old"]}
+{"head": "year old daughter", "relation": "MadeUpOf", "tails": [" mother", " child", " baby"]}
+{"head": "year old daughter", "relation": "NotDesires", "tails": [" mother to die", " mother to have", " mother to be alone"]}
+{"head": "year old daughter", "relation": "Desires", "tails": [" have a good time", " have a good time with", " have a sibling"]}
+{"head": "year", "relation": "ObjectUse", "tails": [" have a birthday", " get a promotion", " have a good time"]}
+{"head": "year", "relation": "AtLocation", "tails": [" year", " office building", " school"]}
+{"head": "year", "relation": "CapableOf", "tails": [" pay bills on time", " pay rent", " pay taxes"]}
+{"head": "year", "relation": "HasProperty", "tails": [" year", " one year", " many years"]}
+{"head": "year", "relation": "MadeUpOf", "tails": [" year", " number of years", " number of days"]}
+{"head": "year", "relation": "NotDesires", "tails": [" year", " year to end", " have to pay bills"]}
+{"head": "year", "relation": "Desires", "tails": [" year", " year of life", " year to live"]}
+{"head": "water pipes", "relation": "ObjectUse", "tails": [" water plants", " boil water", " boil water in"]}
+{"head": "water pipes", "relation": "AtLocation", "tails": [" water system", " water supply", " plumbing system"]}
+{"head": "water pipes", "relation": "CapableOf", "tails": [" water plants", " boil water", " water garden"]}
+{"head": "water pipes", "relation": "HasProperty", "tails": [" water pipes", " found in house", " water supply"]}
+{"head": "water pipes", "relation": "MadeUpOf", "tails": [" pipehead", " water pipe", " water pipes"]}
+{"head": "water pipes", "relation": "NotDesires", "tails": [" water leak", " water leaks", " boil water"]}
+{"head": "water pipes", "relation": "Desires", "tails": [" water", " water supply", " water to drink"]}
+{"head": "water", "relation": "ObjectUse", "tails": [" water plants", " water plant", " drink"]}
+{"head": "water", "relation": "AtLocation", "tails": [" water fountain", " water cooler", " water bottle"]}
+{"head": "water", "relation": "CapableOf", "tails": [" water plants", " water plant", " drink"]}
+{"head": "water", "relation": "HasProperty", "tails": [" found in ocean", " water", " found in oceans"]}
+{"head": "water", "relation": "MadeUpOf", "tails": [" water", " watermelon", " water bottle"]}
+{"head": "water", "relation": "NotDesires", "tails": [" water", " water to drink", " water boils"]}
+{"head": "water", "relation": "Desires", "tails": [" water to drink", " water", " water plants"]}
+{"head": "toilet", "relation": "ObjectUse", "tails": [" sit on", " toilet paper", " peeing in"]}
+{"head": "toilet", "relation": "AtLocation", "tails": [" bathroom", " toilet", " restroom"]}
+{"head": "toilet", "relation": "CapableOf", "tails": [" sit on", " wash hands", " flush toilet"]}
+{"head": "toilet", "relation": "HasProperty", "tails": [" bathroom", " toilet", " toilet paper"]}
+{"head": "toilet", "relation": "MadeUpOf", "tails": [" bathroom", " toilet", " toilet paper"]}
+{"head": "toilet", "relation": "NotDesires", "tails": [" toilet paper", " bathroom", " toilet"]}
+{"head": "toilet", "relation": "Desires", "tails": [" toilet paper", " bathroom", " toilet"]}
+{"head": "today", "relation": "ObjectUse", "tails": [" have a good time", " have a good day", " have a party"]}
+{"head": "today", "relation": "AtLocation", "tails": [" office building", " school", " home"]}
+{"head": "today", "relation": "CapableOf", "tails": [" get out of bed", " go to work", " get out of house"]}
+{"head": "today", "relation": "HasProperty", "tails": [" one day a week", " one day a year", " one day a month"]}
+{"head": "today", "relation": "MadeUpOf", "tails": [" day", " clock", " today"]}
+{"head": "today", "relation": "NotDesires", "tails": [" have to go to work", " have to go to the bathroom", " have to go to the store"]}
+{"head": "today", "relation": "Desires", "tails": [" have a good time", " have a good day", " have fun with friends"]}
+{"head": "to work", "relation": "HinderedBy", "tails": [" to work", " to work ", " to work  to work"]}
+{"head": "to work", "relation": "isBefore", "tails": [" go to office", " go to work", " to work"]}
+{"head": "to work", "relation": "isAfter", "tails": [" go to office", " go to work", " drive to work"]}
+{"head": "to work", "relation": "HasSubEvent", "tails": [" go to office", " go to work", " to work"]}
+{"head": "to work", "relation": "Causes", "tails": [" get paid", " get paid for work", " have to do"]}
+{"head": "to work", "relation": "xReason", "tails": [" get paid", " get paid for work", " have to do"]}
+{"head": "to win", "relation": "HinderedBy", "tails": [" to win", " to win ", " to win the game"]}
+{"head": "to win", "relation": "isBefore", "tails": [" to win", " to win the game", " win the game"]}
+{"head": "to win", "relation": "isAfter", "tails": [" to win", " to win the game", " win the game"]}
+{"head": "to win", "relation": "HasSubEvent", "tails": [" to win", " win the game", " win"]}
+{"head": "to win", "relation": "Causes", "tails": [" to win", " win or lose", " win the game"]}
+{"head": "to win", "relation": "xReason", "tails": [" to win", " win or lose", " to win the game"]}
+{"head": "to suspect", "relation": "HinderedBy", "tails": [" to suspect", " to suspect ", " to suspect something"]}
+{"head": "to suspect", "relation": "isBefore", "tails": [" to suspect", " to suspect something", " to suspect "]}
+{"head": "to suspect", "relation": "isAfter", "tails": [" to suspect", " none", " to suspect something"]}
+{"head": "to suspect", "relation": "HasSubEvent", "tails": [" to suspect", " to suspect ", " to suspect something"]}
+{"head": "to suspect", "relation": "Causes", "tails": [" to suspect", " none", " to suspect something"]}
+{"head": "to suspect", "relation": "xReason", "tails": [" to suspect", " none", " to suspect something"]}
+{"head": "to suggest", "relation": "HinderedBy", "tails": [" to suggest", " to suggest ", " to suggest something"]}
+{"head": "to suggest", "relation": "isBefore", "tails": [" to suggest", " to suggest something", " to suggest something else"]}
+{"head": "to suggest", "relation": "isAfter", "tails": [" to make a decision", " to make a suggestion", " to make a plan"]}
+{"head": "to suggest", "relation": "HasSubEvent", "tails": [" to suggest", " to suggest ", " to suggest something"]}
+{"head": "to suggest", "relation": "Causes", "tails": [" to suggest", " to suggest something", " to suggest "]}
+{"head": "to suggest", "relation": "xReason", "tails": [" to suggest", " to make a decision", " to make a suggestion"]}
+{"head": "to shut", "relation": "HinderedBy", "tails": [" to shut", " to shut the door", " to shut  the door"]}
+{"head": "to shut", "relation": "isBefore", "tails": [" to shut the door", " to close the door", " to close door"]}
+{"head": "to shut", "relation": "isAfter", "tails": [" to close the door", " to shut the door", " to close door"]}
+{"head": "to shut", "relation": "HasSubEvent", "tails": [" close the door", " close door", " to shut"]}
+{"head": "to shut", "relation": "Causes", "tails": [" to shut", " close door", " to close door"]}
+{"head": "to shut", "relation": "xReason", "tails": [" to shut", " close door", " to close door"]}
+{"head": "to seem", "relation": "HinderedBy", "tails": [" to seem", " to seem good", " to seem "]}
+{"head": "to seem", "relation": "isBefore", "tails": [" to seem like a good person", " to seem good", " to seem like they are doing something"]}
+{"head": "to seem", "relation": "isAfter", "tails": [" to seem like a good person", " to seem good", " to seem nice"]}
+{"head": "to seem", "relation": "HasSubEvent", "tails": [" to seem", " to seem good", " to seem  nice"]}
+{"head": "to seem", "relation": "Causes", "tails": [" to seem", " to seem good", " to seem  good"]}
+{"head": "to seem", "relation": "xReason", "tails": [" to seem like a good person", " to seem good", " to seem"]}
+{"head": "to see", "relation": "HinderedBy", "tails": [" to see", " to see ", " to see something"]}
+{"head": "to see", "relation": "isBefore", "tails": [" to see", " to see what's going on", " to see what is going on"]}
+{"head": "to see", "relation": "isAfter", "tails": [" to see what's going on", " to see what they are looking at", " to see what is going on"]}
+{"head": "to see", "relation": "HasSubEvent", "tails": [" to see", " to see  see", " to see "]}
+{"head": "to see", "relation": "Causes", "tails": [" to see", " to see ", " to see something"]}
+{"head": "to see", "relation": "xReason", "tails": [" to see", " to see something", " look at"]}
+{"head": "to say", "relation": "HinderedBy", "tails": [" to say", " to say ", " to say something"]}
+{"head": "to say", "relation": "isBefore", "tails": [" to say", " to say something", " to say "]}
+{"head": "to say", "relation": "isAfter", "tails": [" to be heard", " to say", " to say something"]}
+{"head": "to say", "relation": "HasSubEvent", "tails": [" to say", " to say ", " to say  something"]}
+{"head": "to say", "relation": "Causes", "tails": [" to say", " have to say", " to say something"]}
+{"head": "to say", "relation": "xReason", "tails": [" to say", " have to say", " to say something"]}
+{"head": "to s", "relation": "HinderedBy", "tails": [" to s                    ", " to s  ", " to s                   "]}
+{"head": "to s", "relation": "isBefore", "tails": [" to s  to s  to s  to s  to s  to s  to s  to", " to s  to s  to s  to s  to s   to s  to s ", " to s  to s  to s  to s  to s  to s  to s  "]}
+{"head": "to s", "relation": "isAfter", "tails": [" to s  to s  to s  to s  to s  to s  to s  to", " to s  to s  to s  to s  to s  to s  to s  ", " to s  to s  to s  to s   to s  to s  to s "]}
+{"head": "to s", "relation": "HasSubEvent", "tails": [" to s", " to s  ", " to s "]}
+{"head": "to s", "relation": "Causes", "tails": [" to s                    ", " to s                 to   ", " to s                    to"]}
+{"head": "to s", "relation": "xReason", "tails": [" to s   to  to  to  to  to s  to  to s  to ", " to s   to  to  to  to  to s  to s  to  to ", " to s   to  to  to  to  to s  to  to s  to s"]}
+{"head": "to make", "relation": "HinderedBy", "tails": [" to make ", " to make", " to make  to make "]}
+{"head": "to make", "relation": "isBefore", "tails": [" to make", " to make a cake", " to make something"]}
+{"head": "to make", "relation": "isAfter", "tails": [" to make a cake", " to make", " to make something"]}
+{"head": "to make", "relation": "HasSubEvent", "tails": [" to make", " to make ", " to make something"]}
+{"head": "to make", "relation": "Causes", "tails": [" to make", " to make ", " to make something"]}
+{"head": "to make", "relation": "xReason", "tails": [" to make", " to make something", " to make  food"]}
+{"head": "to m", "relation": "HinderedBy", "tails": [" to m", " to m ", " to m  to m "]}
+{"head": "to m", "relation": "isBefore", "tails": [" to m", " to m ", " to m to m"]}
+{"head": "to m", "relation": "isAfter", "tails": [" to m  to m  to m  to m  to m  to m   to m ", " to m  to m  to m  to m  to m  to m  to m ", " to m  to m  to m  to m  to m  to m  to m  "]}
+{"head": "to m", "relation": "HasSubEvent", "tails": [" to m", " to m ", " to m  "]}
+{"head": "to m", "relation": "Causes", "tails": [" to m", " to m  to m", " to m  to m "]}
+{"head": "to m", "relation": "xReason", "tails": [" to m", " to m  to m", " to m  to m "]}
+{"head": "to let", "relation": "HinderedBy", "tails": [" to let   let                 ", " to let  let                  ", " to let"]}
+{"head": "to let", "relation": "isBefore", "tails": [" to let  let  let  let  let  let  let  let ", " to let  let  let  let  let  let  let  let", " to let  let  let  let  let  let  let  let  let"]}
+{"head": "to let", "relation": "isAfter", "tails": [" to let someone else do something", " to let someone else in", " to let someone else do the work"]}
+{"head": "to let", "relation": "HasSubEvent", "tails": [" to let  let  let  let  let  let  let  let  let", " to let  let  let  let  let  let  let  let", " to let  let  let  let  let  let  let"]}
+{"head": "to let", "relation": "Causes", "tails": [" to let  let  let  let  let  let  let  let  let  let  let", " to let  let  let  let  let  let  let  let  let  let", " to let  let  let  let  let  let  let  let  let"]}
+{"head": "to let", "relation": "xReason", "tails": [" let go", " to let", " let go of"]}
+{"head": "to leak", "relation": "HinderedBy", "tails": [" to leak", " to leak ", " to leak  leak "]}
+{"head": "to leak", "relation": "isBefore", "tails": [" to leak", " to leak ", " to leak  water"]}
+{"head": "to leak", "relation": "isAfter", "tails": [" to leak", " to leak ", " leaky pants"]}
+{"head": "to leak", "relation": "HasSubEvent", "tails": [" to leak", " to leak ", " to leak  leak"]}
+{"head": "to leak", "relation": "Causes", "tails": [" to leak", " to leak ", " leaky pipes"]}
+{"head": "to leak", "relation": "xReason", "tails": [" to leak", " to leak ", " leaky"]}
+{"head": "to lead", "relation": "HinderedBy", "tails": [" to lead", " to lead ", " to lead  to lead"]}
+{"head": "to lead", "relation": "isBefore", "tails": [" to lead", " to lead others", " to lead people"]}
+{"head": "to lead", "relation": "isAfter", "tails": [" to be a leader", " to lead", " to be leader"]}
+{"head": "to lead", "relation": "HasSubEvent", "tails": [" to lead", " lead people", " to lead "]}
+{"head": "to lead", "relation": "Causes", "tails": [" to lead", " lead people", " lead"]}
+{"head": "to lead", "relation": "xReason", "tails": [" to lead", " lead people", " to lead people"]}
+{"head": "to know", "relation": "HinderedBy", "tails": [" to know", " to know ", " to know  about "]}
+{"head": "to know", "relation": "isBefore", "tails": [" to know", " to know what to do", " to know what to do next"]}
+{"head": "to know", "relation": "isAfter", "tails": [" to know", " to know what is going on", " to know what to do"]}
+{"head": "to know", "relation": "HasSubEvent", "tails": [" to know", " to know ", " to know  about"]}
+{"head": "to know", "relation": "Causes", "tails": [" to know", " to know ", " to know  about"]}
+{"head": "to know", "relation": "xReason", "tails": [" to know", " to know about", " to know  about"]}
+{"head": "to isn", "relation": "HinderedBy", "tails": [" to isn ", " to isn", " to isn  "]}
+{"head": "to isn", "relation": "isBefore", "tails": [" to isn", " to isn ", " none"]}
+{"head": "to isn", "relation": "isAfter", "tails": [" none", " to go to the store", " to go to the bathroom"]}
+{"head": "to isn", "relation": "HasSubEvent", "tails": [" to get out of the car", " to get out of car", " to get out of bed"]}
+{"head": "to isn", "relation": "Causes", "tails": [" to isn", " none", " to isn "]}
+{"head": "to isn", "relation": "xReason", "tails": [" to have a place to live", " to have a place to sleep", " none"]}
+{"head": "to have", "relation": "HinderedBy", "tails": [" to have", " to have ", " to have  to have"]}
+{"head": "to have", "relation": "isBefore", "tails": [" to have", " to have ", " to have  a good time"]}
+{"head": "to have", "relation": "isAfter", "tails": [" to have something to eat", " to have", " to have something to drink"]}
+{"head": "to have", "relation": "HasSubEvent", "tails": [" to have", " to have ", " to have  have"]}
+{"head": "to have", "relation": "Causes", "tails": [" to have", " to have ", " to have  "]}
+{"head": "to have", "relation": "xReason", "tails": [" to have", " to have something to eat", " to have "]}
+{"head": "to get", "relation": "HinderedBy", "tails": [" to get ", " to get", " to get  to get "]}
+{"head": "to get", "relation": "isBefore", "tails": [" to get", " to get ", " to get  to get "]}
+{"head": "to get", "relation": "isAfter", "tails": [" to get", " to get something", " to get "]}
+{"head": "to get", "relation": "HasSubEvent", "tails": [" to get", " to get ", " to get  to get"]}
+{"head": "to get", "relation": "Causes", "tails": [" to get", " to get  to get ", " to get "]}
+{"head": "to get", "relation": "xReason", "tails": [" to get", " to get something", " to get "]}
+{"head": "to flush", "relation": "HinderedBy", "tails": [" to flush", " to flush the toilet", " to flush "]}
+{"head": "to flush", "relation": "isBefore", "tails": [" flush toilet", " to flush the toilet", " flush the toilet"]}
+{"head": "to flush", "relation": "isAfter", "tails": [" flush toilet", " flush the toilet", " toilet paper"]}
+{"head": "to flush", "relation": "HasSubEvent", "tails": [" flush toilet", " flush", " to flush"]}
+{"head": "to flush", "relation": "Causes", "tails": [" flush toilet", " use toilet paper", " to flush"]}
+{"head": "to flush", "relation": "xReason", "tails": [" flush toilet", " to flush toilet", " to flush"]}
+{"head": "to fix", "relation": "HinderedBy", "tails": [" to fix", " to fix ", " to fix  to fix "]}
+{"head": "to fix", "relation": "isBefore", "tails": [" to fix", " to fix the problem", " to fix something"]}
+{"head": "to fix", "relation": "isAfter", "tails": [" to fix", " to fix the problem", " to fix the car"]}
+{"head": "to fix", "relation": "HasSubEvent", "tails": [" to fix", " fix the problem", " fix something"]}
+{"head": "to fix", "relation": "Causes", "tails": [" to fix", " to fix something", " fix a broken thing"]}
+{"head": "to fix", "relation": "xReason", "tails": [" to fix", " to fix something", " to fix the problem"]}
+{"head": "to finish", "relation": "HinderedBy", "tails": [" to finish", " to finish ", " to finish something"]}
+{"head": "to finish", "relation": "isBefore", "tails": [" to finish", " to finish the project", " to finish the job"]}
+{"head": "to finish", "relation": "isAfter", "tails": [" to finish", " to finish the project", " to finish the task"]}
+{"head": "to finish", "relation": "HasSubEvent", "tails": [" to finish", " to finish ", " to finish  work"]}
+{"head": "to finish", "relation": "Causes", "tails": [" to finish", " to finish something", " to finish the task"]}
+{"head": "to finish", "relation": "xReason", "tails": [" to finish", " to finish something", " to finish the task"]}
+{"head": "to fall", "relation": "HinderedBy", "tails": [" to fall", " to fall ", " to fall  down"]}
+{"head": "to fall", "relation": "isBefore", "tails": [" to fall", " to fall down", " fall down stairs"]}
+{"head": "to fall", "relation": "isAfter", "tails": [" fall down stairs", " to fall", " fall off of cliff"]}
+{"head": "to fall", "relation": "HasSubEvent", "tails": [" to fall", " get hurt", " fall down"]}
+{"head": "to fall", "relation": "Causes", "tails": [" to fall", " to fall down", " fall off of cliff"]}
+{"head": "to fall", "relation": "xReason", "tails": [" to fall", " fall off of cliff", " to fall down"]}
+{"head": "to drain", "relation": "HinderedBy", "tails": [" to drain", " to drain ", " to drain  to drain "]}
+{"head": "to drain", "relation": "isBefore", "tails": [" to drain", " to drain the water", " to drain water"]}
+{"head": "to drain", "relation": "isAfter", "tails": [" to drain", " water", " water in sink"]}
+{"head": "to drain", "relation": "HasSubEvent", "tails": [" to drain  drain  drain  drain  drain  drain  drain  drain  drain  drain  drain", " to drain  drain  drain  drain  drain  drain  drain  drain  drain  drain", " to drain  drain  drain  drain  drain  drain  drain  drain  drain"]}
+{"head": "to drain", "relation": "Causes", "tails": [" to drain", " water", " to drain "]}
+{"head": "to drain", "relation": "xReason", "tails": [" to drain", " to drain water", " to drain the water"]}
+{"head": "to do", "relation": "HinderedBy", "tails": [" to do", " to do ", " to do  to do "]}
+{"head": "to do", "relation": "isBefore", "tails": [" to do", " have to do", " to do "]}
+{"head": "to do", "relation": "isAfter", "tails": [" to do", " have to do", " to do something"]}
+{"head": "to do", "relation": "HasSubEvent", "tails": [" to do", " to do ", " get out of bed"]}
+{"head": "to do", "relation": "Causes", "tails": [" to do", " have to do", " to do "]}
+{"head": "to do", "relation": "xReason", "tails": [" to do", " have to do", " to do "]}
+{"head": "to come", "relation": "HinderedBy", "tails": [" to come", " to come ", " to come  to"]}
+{"head": "to come", "relation": "isBefore", "tails": [" to come", " to come to the party", " to come back home"]}
+{"head": "to come", "relation": "isAfter", "tails": [" to go to the party", " to go to the concert", " to go to a concert"]}
+{"head": "to come", "relation": "HasSubEvent", "tails": [" to come", " get in car", " to come "]}
+{"head": "to come", "relation": "Causes", "tails": [" to come", " to come  to  come  to  come", " to come  to  come  to  come "]}
+{"head": "to come", "relation": "xReason", "tails": [" to come", " to come  to  come", " to come  to  come "]}
+{"head": "to clog", "relation": "HinderedBy", "tails": [" to clog", " to clog ", " to clog the drain"]}
+{"head": "to clog", "relation": "isBefore", "tails": [" to clog", " to clog ", " to clog up"]}
+{"head": "to clog", "relation": "isAfter", "tails": [" to clog", " to clog ", " to clog up"]}
+{"head": "to clog", "relation": "HasSubEvent", "tails": [" to clog", " to clog ", " to clog up"]}
+{"head": "to clog", "relation": "Causes", "tails": [" to clog", " to clog up", " to clog the drain"]}
+{"head": "to clog", "relation": "xReason", "tails": [" to clog", " to clog up", " to clog "]}
+{"head": "to change", "relation": "HinderedBy", "tails": [" to change", " to change ", " to change  to change "]}
+{"head": "to change", "relation": "isBefore", "tails": [" to change", " to change clothes", " to change "]}
+{"head": "to change", "relation": "isAfter", "tails": [" to make a change", " to change", " to make a decision"]}
+{"head": "to change", "relation": "HasSubEvent", "tails": [" to change", " to change ", " get new job"]}
+{"head": "to change", "relation": "Causes", "tails": [" to change", " to change ", " to change things"]}
+{"head": "to change", "relation": "xReason", "tails": [" to change", " to change things", " have to change"]}
+{"head": "to cause", "relation": "HinderedBy", "tails": [" to cause", " to cause ", " to cause  to cause "]}
+{"head": "to cause", "relation": "isBefore", "tails": [" to cause", " to cause ", " to cause  to cause"]}
+{"head": "to cause", "relation": "isAfter", "tails": [" to cause", " to cause to cause", " to cause  to cause"]}
+{"head": "to cause", "relation": "HasSubEvent", "tails": [" to cause", " to cause  cause", " to cause  cause  cause"]}
+{"head": "to cause", "relation": "Causes", "tails": [" to cause  cause  cause  cause  cause  cause  cause  cause  cause  cause  cause", " to cause", " to cause  cause  cause  cause  cause  cause  cause  cause  cause  cause"]}
+{"head": "to cause", "relation": "xReason", "tails": [" to cause", " to cause  to cause", " to cause  to cause "]}
+{"head": "to call", "relation": "HinderedBy", "tails": [" to call ", " to call", " to call  "]}
+{"head": "to call", "relation": "isBefore", "tails": [" dial number", " to call someone", " to call"]}
+{"head": "to call", "relation": "isAfter", "tails": [" dial number", " dial phone number", " call for help"]}
+{"head": "to call", "relation": "HasSubEvent", "tails": [" dial number", " to call", " dial phone number"]}
+{"head": "to call", "relation": "Causes", "tails": [" dial number", " call for help", " to call"]}
+{"head": "to call", "relation": "xReason", "tails": [" call for help", " to call someone", " to call"]}
+{"head": "things", "relation": "ObjectUse", "tails": [" put in a box", " put in the car", " give to the homeless"]}
+{"head": "things", "relation": "AtLocation", "tails": [" house", " store", " furniture store"]}
+{"head": "things", "relation": "CapableOf", "tails": [" put in box", " put on shelf", " throw away"]}
+{"head": "things", "relation": "HasProperty", "tails": [" found in house", " found in home", " things to do"]}
+{"head": "things", "relation": "MadeUpOf", "tails": [" things to do", " things", " things to be"]}
+{"head": "things", "relation": "NotDesires", "tails": [" things to do", " things to be done", " things to be"]}
+{"head": "things", "relation": "Desires", "tails": [" things to do", " things to be done", " things to do well"]}
+{"head": "t", "relation": "ObjectUse", "tails": [" use as a weapon", " use as a prop in a play", " use as a prop in a movie"]}
+{"head": "t", "relation": "AtLocation", "tails": [" house", " car", " school"]}
+{"head": "t", "relation": "CapableOf", "tails": [" get out of car", " get out of bed", " take shower"]}
+{"head": "t", "relation": "HasProperty", "tails": [" one of the elements of life", " one of the elements of the universe", " one of the elements of nature"]}
+{"head": "t", "relation": "MadeUpOf", "tails": ["                 ", "                ", "                  "]}
+{"head": "t", "relation": "NotDesires", "tails": [" go to jail", " go to hospital", " go to the bathroom"]}
+{"head": "t", "relation": "Desires", "tails": [" have a good time", " have a good life", " to be a good person"]}
+{"head": "sort", "relation": "ObjectUse", "tails": [" use as a paperweight", " use as a paper weight", " use as paper weight"]}
+{"head": "sort", "relation": "AtLocation", "tails": [" store", " computer", " bookcase"]}
+{"head": "sort", "relation": "CapableOf", "tails": [" sort papers", " sort things", " sort items"]}
+{"head": "sort", "relation": "HasProperty", "tails": [" found in book", " found in computer", " found in office"]}
+{"head": "sort", "relation": "MadeUpOf", "tails": [" sort", " kind", " type"]}
+{"head": "sort", "relation": "NotDesires", "tails": [" find out what's missing", " find out what is missing", " find out what is wrong"]}
+{"head": "sort", "relation": "Desires", "tails": [" find out what is missing", " find out what's missing", " find out what is wrong"]}
+{"head": "see water", "relation": "HinderedBy", "tails": [" see water", " look at water", " look at"]}
+{"head": "see water", "relation": "isBefore", "tails": [" see water", " look at water", " look at"]}
+{"head": "see water", "relation": "isAfter", "tails": [" see water", " look at water", " look at"]}
+{"head": "see water", "relation": "HasSubEvent", "tails": [" look at water", " see water", " look for water"]}
+{"head": "see water", "relation": "Causes", "tails": [" see water", " look at water", " look at"]}
+{"head": "see water", "relation": "xReason", "tails": [" see water", " look at water", " look at"]}
+{"head": "say dollars", "relation": "HinderedBy", "tails": [" say dollar", " say dollars", " say money"]}
+{"head": "say dollars", "relation": "isBefore", "tails": [" pay for things", " pay for something", " pay bills"]}
+{"head": "say dollars", "relation": "isAfter", "tails": [" pay for things", " pay for something", " money"]}
+{"head": "say dollars", "relation": "HasSubEvent", "tails": [" get money out of wallet", " get money out of pocket", " get money out of bank"]}
+{"head": "say dollars", "relation": "Causes", "tails": [" pay for things", " pay for something", " make money"]}
+{"head": "say dollars", "relation": "xReason", "tails": [" pay for goods and services", " pay for things", " pay for goods or services"]}
+{"head": "s sort", "relation": "HinderedBy", "tails": [" find the right thing to do", " find the right place to put the item", " find the right place to put it"]}
+{"head": "s sort", "relation": "isBefore", "tails": [" have a clean house", " have to clean up", " have a clean home"]}
+{"head": "s sort", "relation": "isAfter", "tails": [" have to clean up after themselves", " have to clean up", " have to clean up after"]}
+{"head": "s sort", "relation": "HasSubEvent", "tails": [" make sure things are in order", " get rid of clutter", " get rid of things"]}
+{"head": "s sort", "relation": "Causes", "tails": [" find out what they need to know", " find out what they need to do", " find out what they need to do next"]}
+{"head": "s sort", "relation": "xReason", "tails": [" find out what they need to know", " find out what they need to do", " find out what they need to do next"]}
+{"head": "problems", "relation": "ObjectUse", "tails": [" get rid of", " get a new job", " get out of debt"]}
+{"head": "problems", "relation": "AtLocation", "tails": [" computer", " problem", " problems"]}
+{"head": "problems", "relation": "CapableOf", "tails": [" fix", " solve", " solve problems"]}
+{"head": "problems", "relation": "HasProperty", "tails": [" problems", " many problems", " problems in life"]}
+{"head": "problems", "relation": "MadeUpOf", "tails": [" problem", " problems", " solve problems"]}
+{"head": "problems", "relation": "NotDesires", "tails": [" have to deal with", " have to fix", " have to solve"]}
+{"head": "problems", "relation": "Desires", "tails": [" have to deal with", " have to solve", " get better at"]}
+{"head": "plunger", "relation": "ObjectUse", "tails": [" use as a weapon", " use as a prop in a play", " use as a prop in a movie"]}
+{"head": "plunger", "relation": "AtLocation", "tails": [" swimming pool", " beach", " water"]}
+{"head": "plunger", "relation": "CapableOf", "tails": [" use as a weapon", " throw into water", " use as weapon"]}
+{"head": "plunger", "relation": "HasProperty", "tails": [" used in swimming pool", " found in ocean", " found in pool"]}
+{"head": "plunger", "relation": "MadeUpOf", "tails": [" water", " splashing", " splashboard"]}
+{"head": "plunger", "relation": "NotDesires", "tails": [" get wet", " jump in water", " jump into water"]}
+{"head": "plunger", "relation": "Desires", "tails": [" have fun", " go swimming", " get wet"]}
+{"head": "plumber", "relation": "ObjectUse", "tails": [" fix a leaky faucet", " get a leak fixed", " fix a leaky faucet."]}
+{"head": "plumber", "relation": "AtLocation", "tails": [" plumbing shop", " plumbing store", " plumbing business"]}
+{"head": "plumber", "relation": "CapableOf", "tails": [" water pipes", " fix plumbing", " fix plumbing problems"]}
+{"head": "plumber", "relation": "HasProperty", "tails": [" plumber", " plumbing", " handyman"]}
+{"head": "plumber", "relation": "MadeUpOf", "tails": [" plumber", " plumbing", " plumbing pipe"]}
+{"head": "plumber", "relation": "NotDesires", "tails": [" plumber", " plumbing", " water leak"]}
+{"head": "plumber", "relation": "Desires", "tails": [" plumber", " plumbing", " water to house"]}
+{"head": "pipes", "relation": "ObjectUse", "tails": [" play in a band", " use as a weapon", " make music"]}
+{"head": "pipes", "relation": "AtLocation", "tails": [" music hall", " music store", " music"]}
+{"head": "pipes", "relation": "CapableOf", "tails": [" play music", " play in band", " play in orchestra"]}
+{"head": "pipes", "relation": "HasProperty", "tails": [" musical instrument", " music", " musical instruments"]}
+{"head": "pipes", "relation": "MadeUpOf", "tails": [" music", " pipe music", " pipes"]}
+{"head": "pipes", "relation": "NotDesires", "tails": [" music", " hear music", " sound of music"]}
+{"head": "pipes", "relation": "Desires", "tails": [" music", " hear music", " play in band"]}
+{"head": "overflow", "relation": "ObjectUse", "tails": [" use as a paperweight", " use as toilet paper", " use as a paper weight"]}
+{"head": "overflow", "relation": "AtLocation", "tails": [" computer", " water", " school"]}
+{"head": "overflow", "relation": "CapableOf", "tails": [" use toilet paper", " have to do", " use toilet"]}
+{"head": "overflow", "relation": "HasProperty", "tails": [" overflow", " overfill", " water"]}
+{"head": "overflow", "relation": "MadeUpOf", "tails": [" water", " overflow", " overfill"]}
+{"head": "overflow", "relation": "NotDesires", "tails": [" have too much to do", " have too many people", " have too much to drink"]}
+{"head": "overflow", "relation": "Desires", "tails": [" have to do", " have more money", " overwork"]}
+{"head": "old house", "relation": "ObjectUse", "tails": [" live in", " living in", " have a home"]}
+{"head": "old house", "relation": "AtLocation", "tails": [" house", " old neighborhood", " old town"]}
+{"head": "old house", "relation": "CapableOf", "tails": [" live in", " use for storage", " use as storage space"]}
+{"head": "old house", "relation": "HasProperty", "tails": [" found in rural areas", " old", " found in many places"]}
+{"head": "old house", "relation": "MadeUpOf", "tails": [" house", " old house", " building"]}
+{"head": "old house", "relation": "NotDesires", "tails": [" living in", " old house", " old people"]}
+{"head": "old house", "relation": "Desires", "tails": [" living in", " living in old house", " old house"]}
+{"head": "object", "relation": "ObjectUse", "tails": [" use as a weapon", " use as a prop in a play", " use as a prop in a movie"]}
+{"head": "object", "relation": "AtLocation", "tails": [" object", " table", " box"]}
+{"head": "object", "relation": "CapableOf", "tails": [" use as weapon", " use as a weapon", " find object"]}
+{"head": "object", "relation": "HasProperty", "tails": [" found in museum", " found in house", " found in home"]}
+{"head": "object", "relation": "MadeUpOf", "tails": [" object", " surface", " metal"]}
+{"head": "object", "relation": "NotDesires", "tails": [" object to be destroyed", " object to break", " object to destroy"]}
+{"head": "object", "relation": "Desires", "tails": [" object to use", " object to be used", " object"]}
+{"head": "look", "relation": "ObjectUse", "tails": [" look at", " look at something", " look away from"]}
+{"head": "look", "relation": "AtLocation", "tails": [" look at", " look at person", " look away from"]}
+{"head": "look", "relation": "CapableOf", "tails": [" look at", " open eyes", " look away"]}
+{"head": "look", "relation": "HasProperty", "tails": [" looked at", " look at", " look at person"]}
+{"head": "look", "relation": "MadeUpOf", "tails": [" look at", " look at person", " look at face"]}
+{"head": "look", "relation": "NotDesires", "tails": [" look away", " look at", " look at something"]}
+{"head": "look", "relation": "Desires", "tails": [" look at", " look at person", " look at something"]}
+{"head": "little", "relation": "ObjectUse", "tails": [" play a game", " play with", " play a game with"]}
+{"head": "little", "relation": "AtLocation", "tails": [" children's room", " children's bedroom", " little girl's hand"]}
+{"head": "little", "relation": "CapableOf", "tails": [" play video games", " play with dog", " play with"]}
+{"head": "little", "relation": "HasProperty", "tails": [" little", " very small", " very little"]}
+{"head": "little", "relation": "MadeUpOf", "tails": [" little finger", " little hand", " little"]}
+{"head": "little", "relation": "NotDesires", "tails": [" have to go to doctor", " have to go to school", " have to go to hospital"]}
+{"head": "little", "relation": "Desires", "tails": [" have a good time", " have fun", " have fun with friends"]}
+{"head": "kids", "relation": "ObjectUse", "tails": [" play with", " have fun with", " have fun"]}
+{"head": "kids", "relation": "AtLocation", "tails": [" children's room", " children's bedroom", " children's home"]}
+{"head": "kids", "relation": "CapableOf", "tails": [" learn to read", " have fun", " have fun with friends"]}
+{"head": "kids", "relation": "HasProperty", "tails": [" kids", " children", " parents"]}
+{"head": "kids", "relation": "MadeUpOf", "tails": [" kids", " children", " parents"]}
+{"head": "kids", "relation": "NotDesires", "tails": [" kids to play with", " have to do chores", " kids to play with them"]}
+{"head": "kids", "relation": "Desires", "tails": [" have fun", " have fun with", " play with"]}
+{"head": "isn t", "relation": "HinderedBy", "tails": [" none", " is not", " is not allowed"]}
+{"head": "isn t", "relation": "isBefore", "tails": [" none", " is not", " is not good"]}
+{"head": "isn t", "relation": "isAfter", "tails": [" none", " is not a good idea", " is not a good thing"]}
+{"head": "isn t", "relation": "HasSubEvent", "tails": [" none", " get into trouble", " get in trouble"]}
+{"head": "isn t", "relation": "Causes", "tails": [" none", " is not a good idea", " is not a good thing"]}
+{"head": "isn t", "relation": "xReason", "tails": [" none", " is not a good idea", " is not a good thing"]}
+{"head": "house", "relation": "ObjectUse", "tails": [" live in", " living in", " house"]}
+{"head": "house", "relation": "AtLocation", "tails": [" house", " apartment building", " home"]}
+{"head": "house", "relation": "CapableOf", "tails": [" live in", " house", " house family"]}
+{"head": "house", "relation": "HasProperty", "tails": [" found in", " house", " built on land"]}
+{"head": "house", "relation": "MadeUpOf", "tails": [" house", " housewares", " house roof"]}
+{"head": "house", "relation": "NotDesires", "tails": [" house fire", " live in", " house to burn"]}
+{"head": "house", "relation": "Desires", "tails": [" live in", " house", " living in"]}
+{"head": "have one", "relation": "HinderedBy", "tails": [" have one", " buy one", " have a good time"]}
+{"head": "have one", "relation": "isBefore", "tails": [" buy one", " have one", " have a drink"]}
+{"head": "have one", "relation": "isAfter", "tails": [" buy one", " have one", " have a drink"]}
+{"head": "have one", "relation": "HasSubEvent", "tails": [" have one", " have a good time", " have to eat"]}
+{"head": "have one", "relation": "Causes", "tails": [" have one", " buy one", " have a good time"]}
+{"head": "have one", "relation": "xReason", "tails": [" have one", " buy one", " have many"]}
+{"head": "have look", "relation": "HinderedBy", "tails": [" have to look at", " look at", " look at something"]}
+{"head": "have look", "relation": "isBefore", "tails": [" look at", " look at things", " look at something"]}
+{"head": "have look", "relation": "isAfter", "tails": [" look at", " look in mirror", " look at something"]}
+{"head": "have look", "relation": "HasSubEvent", "tails": [" look away", " look at", " look at something"]}
+{"head": "have look", "relation": "Causes", "tails": [" look at", " look at something", " look at things"]}
+{"head": "have look", "relation": "xReason", "tails": [" look at", " look at something", " look at things"]}
+{"head": "get plunger", "relation": "HinderedBy", "tails": [" get out of car", " get out of way", " get out of the car"]}
+{"head": "get plunger", "relation": "isBefore", "tails": [" get out of car", " get out of way", " put in water"]}
+{"head": "get plunger", "relation": "isAfter", "tails": [" get out of car", " get out of way", " put in water"]}
+{"head": "get plunger", "relation": "HasSubEvent", "tails": [" get out of way", " get out of car", " put in water"]}
+{"head": "get plunger", "relation": "Causes", "tails": [" get out of way", " get out of the way", " get out of car"]}
+{"head": "get plunger", "relation": "xReason", "tails": [" get out of way", " get out of car", " get out of water"]}
+{"head": "future", "relation": "ObjectUse", "tails": [" plan for the future", " make a plan for the future", " plan for"]}
+{"head": "future", "relation": "AtLocation", "tails": [" future", " science fiction novel", " science fiction book"]}
+{"head": "future", "relation": "CapableOf", "tails": [" plan for future", " think about", " plan for"]}
+{"head": "future", "relation": "HasProperty", "tails": [" one day in the future", " future", " one day in the future."]}
+{"head": "future", "relation": "MadeUpOf", "tails": [" future", " time machine", " time"]}
+{"head": "future", "relation": "NotDesires", "tails": [" future", " bad news", " have to do"]}
+{"head": "future", "relation": "Desires", "tails": [" hope for the best", " hope for", " have a good life"]}
+{"head": "foreign object", "relation": "ObjectUse", "tails": [" use as a weapon", " use as a weapon in a war", " use as a weapon in a fight"]}
+{"head": "foreign object", "relation": "AtLocation", "tails": [" foreign country", " foreign object", " foreign land"]}
+{"head": "foreign object", "relation": "CapableOf", "tails": [" use as weapon", " use as a weapon", " use as weapon in war"]}
+{"head": "foreign object", "relation": "HasProperty", "tails": [" foreign", " foreign object", " found in house"]}
+{"head": "foreign object", "relation": "MadeUpOf", "tails": [" foreign object", " foreign body", " foreign substance"]}
+{"head": "foreign object", "relation": "NotDesires", "tails": [" foreign object", " foreign body", " foreign objects"]}
+{"head": "foreign object", "relation": "Desires", "tails": [" foreign object", " foreign objects", " foreign body"]}
+{"head": "flush things", "relation": "HinderedBy", "tails": [" flush the toilet", " flush toilet", " toilet paper"]}
+{"head": "flush things", "relation": "isBefore", "tails": [" flush toilet", " flush the toilet", " toilet paper"]}
+{"head": "flush things", "relation": "isAfter", "tails": [" flush toilet", " toilet paper", " toilet"]}
+{"head": "flush things", "relation": "HasSubEvent", "tails": [" flush toilet", " clean up", " clean up mess"]}
+{"head": "flush things", "relation": "Causes", "tails": [" flush toilet", " flush the toilet", " clean up"]}
+{"head": "flush things", "relation": "xReason", "tails": [" flush toilet", " clean up", " clean up mess"]}
+{"head": "fix faucet", "relation": "HinderedBy", "tails": [" fix faucet", " fix leak in faucet", " fix faucet for faucet"]}
+{"head": "fix faucet", "relation": "isBefore", "tails": [" fix leak in faucet", " water to stop dripping from faucet", " water to stop dripping"]}
+{"head": "fix faucet", "relation": "isAfter", "tails": [" fix leak in faucet", " water to stop dripping from faucet", " water to stop dripping"]}
+{"head": "fix faucet", "relation": "HasSubEvent", "tails": [" turn on faucet", " fix leak in faucet", " turn on water"]}
+{"head": "fix faucet", "relation": "Causes", "tails": [" fix faucet", " fix leak in faucet", " fix faucet for faucet"]}
+{"head": "fix faucet", "relation": "xReason", "tails": [" fix faucet", " fix leak in faucet", " fix faucet for faucet"]}
+{"head": "faucet", "relation": "ObjectUse", "tails": [" pour water from", " water plants", " pour water into"]}
+{"head": "faucet", "relation": "AtLocation", "tails": [" kitchen sink", " bathroom", " sink"]}
+{"head": "faucet", "relation": "CapableOf", "tails": [" pour water", " pour water into sink", " pour water from"]}
+{"head": "faucet", "relation": "HasProperty", "tails": [" faucet", " found in bathroom", " found in kitchen"]}
+{"head": "faucet", "relation": "MadeUpOf", "tails": [" faucet", " water", " cupboard"]}
+{"head": "faucet", "relation": "NotDesires", "tails": [" faucet", " water", " pour water from"]}
+{"head": "faucet", "relation": "Desires", "tails": [" water", " drinking water", " pour water from"]}
+{"head": "dollars", "relation": "ObjectUse", "tails": [" pay for the item", " pay for the ticket", " pay for the car"]}
+{"head": "dollars", "relation": "AtLocation", "tails": [" dollar store", " store", " dollar bill"]}
+{"head": "dollars", "relation": "CapableOf", "tails": [" pay for the item", " pay for the ticket", " pay for item"]}
+{"head": "dollars", "relation": "HasProperty", "tails": [" bought with", " paid in", " dollars"]}
+{"head": "dollars", "relation": "MadeUpOf", "tails": [" dollars", " money", " dollar"]}
+{"head": "dollars", "relation": "NotDesires", "tails": [" pay for the item", " pay for the service", " pay for something"]}
+{"head": "dollars", "relation": "Desires", "tails": [" pay for things", " pay for the item", " pay for the service"]}
+{"head": "daughter", "relation": "ObjectUse", "tails": [" have a relationship with", " give birth to", " mother"]}
+{"head": "daughter", "relation": "AtLocation", "tails": [" mother's house", " mother", " mother's arms"]}
+{"head": "daughter", "relation": "CapableOf", "tails": [" mother to father", " mother to daughter", " mother and father"]}
+{"head": "daughter", "relation": "HasProperty", "tails": [" mother", " one of three children", " one of four children"]}
+{"head": "daughter", "relation": "MadeUpOf", "tails": [" mother", " daughter", " daughters hair"]}
+{"head": "daughter", "relation": "NotDesires", "tails": [" mother to die", " mother to be dead", " mother to be killed"]}
+{"head": "daughter", "relation": "Desires", "tails": [" mother", " daughter to marry", " have a good time"]}
+{"head": "cause blockage", "relation": "HinderedBy", "tails": [" cause blockage", " cause obstruction", " cause damage"]}
+{"head": "cause blockage", "relation": "isBefore", "tails": [" block artery", " cause obstruction", " cause damage"]}
+{"head": "cause blockage", "relation": "isAfter", "tails": [" block artery", " cause obstruction", " block arteries"]}
+{"head": "cause blockage", "relation": "HasSubEvent", "tails": [" stop flow of water", " stop flow of blood", " get stuck in"]}
+{"head": "cause blockage", "relation": "Causes", "tails": [" cause blockage", " block artery", " cause obstruction"]}
+{"head": "cause blockage", "relation": "xReason", "tails": [" cause blockage", " block artery", " cause obstruction"]}
+{"head": "blockage", "relation": "ObjectUse", "tails": [" block a drain", " block artery", " block arteries"]}
+{"head": "blockage", "relation": "AtLocation", "tails": [" medicine chest", " blockage", " water"]}
+{"head": "blockage", "relation": "CapableOf", "tails": [" block artery", " block drain", " block water flow"]}
+{"head": "blockage", "relation": "HasProperty", "tails": [" blocked artery", " blockage", " blocked arteries"]}
+{"head": "blockage", "relation": "MadeUpOf", "tails": [" blockage", " block artery", " water"]}
+{"head": "blockage", "relation": "NotDesires", "tails": [" block artery", " blocked artery", " blockage"]}
+{"head": "blockage", "relation": "Desires", "tails": [" block artery", " block arteries", " block flow"]}
+{"head": "bathroom", "relation": "ObjectUse", "tails": [" wash one's hands", " bathtub", " wash one's hands in"]}
+{"head": "bathroom", "relation": "AtLocation", "tails": [" bathroom", " bathtub", " hotel"]}
+{"head": "bathroom", "relation": "CapableOf", "tails": [" wash hands", " bathtub", " wash hands in"]}
+{"head": "bathroom", "relation": "HasProperty", "tails": [" bathroom", " found in house", " found in many places"]}
+{"head": "bathroom", "relation": "MadeUpOf", "tails": [" bathroom", " bathtub", " toilet"]}
+{"head": "bathroom", "relation": "NotDesires", "tails": [" bathroom", " bathtub", " toilet"]}
+{"head": "bathroom", "relation": "Desires", "tails": [" bathroom", " bathtub", " bath"]}
+{"head": "afternoon", "relation": "ObjectUse", "tails": [" have a good time", " have fun with friends", " eat lunch"]}
+{"head": "afternoon", "relation": "AtLocation", "tails": [" office building", " school", " park"]}
+{"head": "afternoon", "relation": "CapableOf", "tails": [" eat lunch", " go to bed", " go to sleep"]}
+{"head": "afternoon", "relation": "HasProperty", "tails": [" found in many parts of the world", " found in many parts of the world.", " found in many parts of world"]}
+{"head": "afternoon", "relation": "MadeUpOf", "tails": [" afternoontime", " afternoons", " afternoontide"]}
+{"head": "afternoon", "relation": "NotDesires", "tails": [" have to go to work", " have to go to office", " have to go to school"]}
+{"head": "afternoon", "relation": "Desires", "tails": [" have a good time", " have fun", " have fun with friends"]}
+{"head": "You know how kids are .", "relation": "xAttr", "tails": [" childish", " immature", " playful"]}
+{"head": "You know how kids are .", "relation": "xWant", "tails": [" to get away from their parents", " to play with their friends", " to get away from the situation"]}
+{"head": "You know how kids are .", "relation": "xNeed", "tails": [" none", " to be around kids", " to be a kid"]}
+{"head": "You know how kids are .", "relation": "xEffect", "tails": [" none", " get into trouble", " gets into trouble"]}
+{"head": "You know how kids are .", "relation": "HinderedBy", "tails": [" you know how kids are", " you know how kids are.", " you know how they are"]}
+{"head": "You know how kids are .", "relation": "oWant", "tails": [" none", " to get away from their parents", " to get away from the situation"]}
+{"head": "You know how kids are .", "relation": "xReact", "tails": [" happy", " sad", " happy."]}
+{"head": "You know how kids are .", "relation": "oEffect", "tails": [" none", " get into trouble", " have fun"]}
+{"head": "You know how kids are .", "relation": "xIntent", "tails": [" none", " to have fun", " to have fun."]}
+{"head": "You know how kids are .", "relation": "oReact", "tails": [" none", " happy", " sad"]}
+{"head": "You know how kids are .", "relation": "isBefore", "tails": [" you know how kids are", " you know how they are", " you know how kids are."]}
+{"head": "You know how kids are .", "relation": "isAfter", "tails": [" you know how kids are", " you know how kids are . ", " you know how kids are."]}
+{"head": "You know how kids are .", "relation": "HasSubEvent", "tails": [" get into trouble", " none", " you get yelled at"]}
+{"head": "You know how kids are .", "relation": "Causes", "tails": [" you know how kids are", " you know how kids are.", " you know how they are"]}
+{"head": "You know how kids are .", "relation": "xReason", "tails": [" you know how kids are", " you know how kids are.", " you know how kids are ."]}
+{"head": "Yes , yes I did .", "relation": "xAttr", "tails": [" honest", " curious", " happy"]}
+{"head": "Yes , yes I did .", "relation": "xWant", "tails": [" to tell the truth", " to tell everyone about it", " to tell the truth."]}
+{"head": "Yes , yes I did .", "relation": "xNeed", "tails": [" none", " to have done something", " to have done something wrong"]}
+{"head": "Yes , yes I did .", "relation": "xEffect", "tails": [" none", " gets yelled at", " gets asked questions"]}
+{"head": "Yes , yes I did .", "relation": "HinderedBy", "tails": [" none", " yes I did", " yes"]}
+{"head": "Yes , yes I did .", "relation": "oWant", "tails": [" none", " to ask me if I did it", " to ask me if I did"]}
+{"head": "Yes , yes I did .", "relation": "xReact", "tails": [" happy", " satisfied", " good"]}
+{"head": "Yes , yes I did .", "relation": "oEffect", "tails": [" none", " they ask them if they did it", " they ask if they did anything else"]}
+{"head": "Yes , yes I did .", "relation": "xIntent", "tails": [" none", " to tell the truth", " to be honest"]}
+{"head": "Yes , yes I did .", "relation": "oReact", "tails": [" none", " happy", " happy."]}
+{"head": "Yes , yes I did .", "relation": "isBefore", "tails": [" none", " yes", " yes I did"]}
+{"head": "Yes , yes I did .", "relation": "isAfter", "tails": [" none", " yes", " have sex"]}
+{"head": "Yes , yes I did .", "relation": "HasSubEvent", "tails": [" none", " yes or no", " yes"]}
+{"head": "Yes , yes I did .", "relation": "Causes", "tails": [" none", " yes", " yes I did"]}
+{"head": "Yes , yes I did .", "relation": "xReason", "tails": [" none", " yes", " yes or no"]}
+{"head": "Yeah , I have a little one myself .", "relation": "xAttr", "tails": [" maternal", " loving", " caring"]}
+{"head": "Yeah , I have a little one myself .", "relation": "xWant", "tails": [" to take care of the baby", " to take care of the child", " to take care of the little one"]}
+{"head": "Yeah , I have a little one myself .", "relation": "xNeed", "tails": [" none", " to have a baby", " to have a child"]}
+{"head": "Yeah , I have a little one myself .", "relation": "xEffect", "tails": [" none", " get a job as a nanny", " get a job as a babysitter"]}
+{"head": "Yeah , I have a little one myself .", "relation": "HinderedBy", "tails": [" I don't have the time to have a baby.", " I don't have the time to have a child.", " I don't have a baby."]}
+{"head": "Yeah , I have a little one myself .", "relation": "oWant", "tails": [" none", " to take care of the baby", " to take care of the little one"]}
+{"head": "Yeah , I have a little one myself .", "relation": "xReact", "tails": [" happy", " happy to have a child", " happy to have a child."]}
+{"head": "Yeah , I have a little one myself .", "relation": "oEffect", "tails": [" none", " have a baby", " have a child"]}
+{"head": "Yeah , I have a little one myself .", "relation": "xIntent", "tails": [" none", " to have a child", " to be a parent"]}
+{"head": "Yeah , I have a little one myself .", "relation": "oReact", "tails": [" none", " happy", " happy."]}
+{"head": "Yeah , I have a little one myself .", "relation": "isBefore", "tails": [" none", " PersonY gives PersonY a hug.", " PersonY gives birth to a baby."]}
+{"head": "Yeah , I have a little one myself .", "relation": "isAfter", "tails": [" none", " PersonX has a baby.", " PersonX has a baby"]}
+{"head": "Yeah , I have a little one myself .", "relation": "HasSubEvent", "tails": [" none", " have a baby", " have a child"]}
+{"head": "Yeah , I have a little one myself .", "relation": "Causes", "tails": [" none", " I have a baby.", " I have a child."]}
+{"head": "Yeah , I have a little one myself .", "relation": "xReason", "tails": [" none", " I have a baby to take care of.", " I have a baby to take care of"]}
+{"head": "This old house is falling apart !", "relation": "xAttr", "tails": [" careless", " old", " sad"]}
+{"head": "This old house is falling apart !", "relation": "xWant", "tails": [" to get a new house", " to buy a new house", " to buy a new one"]}
+{"head": "This old house is falling apart !", "relation": "xNeed", "tails": [" to be living in an old house", " to be living in the old house", " to be living in old house"]}
+{"head": "This old house is falling apart !", "relation": "xEffect", "tails": [" has no place to live", " has to pay for repairs", " has no place to sleep"]}
+{"head": "This old house is falling apart !", "relation": "HinderedBy", "tails": [" this old house is falling apart", " this old house is falling apart.", " this old house is not old"]}
+{"head": "This old house is falling apart !", "relation": "oWant", "tails": [" none", " to buy a new house", " to buy a new one"]}
+{"head": "This old house is falling apart !", "relation": "xReact", "tails": [" sad", " sad.", " sad about it"]}
+{"head": "This old house is falling apart !", "relation": "oEffect", "tails": [" none", " have to pay for repairs", " have to pay for the repairs"]}
+{"head": "This old house is falling apart !", "relation": "xIntent", "tails": [" none", " to get rid of the old house", " to get rid of the old house."]}
+{"head": "This old house is falling apart !", "relation": "oReact", "tails": [" none", " sad", " sad."]}
+{"head": "This old house is falling apart !", "relation": "isBefore", "tails": [" this old house is falling apart", " this old house is in need of repair", " this old house needs to be fixed"]}
+{"head": "This old house is falling apart !", "relation": "isAfter", "tails": [" this old house is falling apart", " this old house is in need of repair", " this old house is in need of repairs"]}
+{"head": "This old house is falling apart !", "relation": "HasSubEvent", "tails": [" this old house is falling apart", " get a new house", " get a new one"]}
+{"head": "This old house is falling apart !", "relation": "Causes", "tails": [" this old house is falling apart", " this old house needs to be fixed", " this old house is falling apart."]}
+{"head": "This old house is falling apart !", "relation": "xReason", "tails": [" this old house is falling apart", " this old house is in need of repair", " this old house needs to be fixed"]}
+{"head": "Thatcould be causing water to not drain completely , that might lead to more problems in the future .", "relation": "xAttr", "tails": [" careless", " waterlogged", " waterlogging"]}
+{"head": "Thatcould be causing water to not drain completely , that might lead to more problems in the future .", "relation": "xWant", "tails": [" to fix the problem", " get a drain cleaner", " to fix it"]}
+{"head": "Thatcould be causing water to not drain completely , that might lead to more problems in the future .", "relation": "xNeed", "tails": [" to have a leaky faucet", " to have a leaky faucet.", " to have a leak in the pipe"]}
+{"head": "Thatcould be causing water to not drain completely , that might lead to more problems in the future .", "relation": "xEffect", "tails": [" that is causing problems in the future", " that is causing a problem in the future", " that is causing problems in the future."]}
+{"head": "Thatcould be causing water to not drain completely , that might lead to more problems in the future .", "relation": "HinderedBy", "tails": [" that is causing problems in the future", " that is causing a problem in the future", " that is causing a problem"]}
+{"head": "Thatcould be causing water to not drain completely , that might lead to more problems in the future .", "relation": "oWant", "tails": [" to get rid of it", " to get rid of the problem", " to get rid of the water"]}
+{"head": "Thatcould be causing water to not drain completely , that might lead to more problems in the future .", "relation": "xReact", "tails": [" that the water is not getting to where it needs to go", " that the water is not getting to where it needs to go.", " that the water is not getting to where it needs to be"]}
+{"head": "Thatcould be causing water to not drain completely , that might lead to more problems in the future .", "relation": "oEffect", "tails": [" none", " get a drain cleaner", " that water is not draining"]}
+{"head": "Thatcould be causing water to not drain completely , that might lead to more problems in the future .", "relation": "xIntent", "tails": [" none", " that water is not going to drain", " that water is not going to drain."]}
+{"head": "Thatcould be causing water to not drain completely , that might lead to more problems in the future .", "relation": "oReact", "tails": [" none", " that water is not going to drain", " that water is not going to drain."]}
+{"head": "Thatcould be causing water to not drain completely , that might lead to more problems in the future .", "relation": "isBefore", "tails": [" have to clean up the mess", " have to clean up the mess.", " have to pay for it"]}
+{"head": "Thatcould be causing water to not drain completely , that might lead to more problems in the future .", "relation": "isAfter", "tails": [" water in the drain", " water in the house", " water is not flowing properly"]}
+{"head": "Thatcould be causing water to not drain completely , that might lead to more problems in the future .", "relation": "HasSubEvent", "tails": [" get a drink of water", " get a drain cleaner", " get a drink of water."]}
+{"head": "Thatcould be causing water to not drain completely , that might lead to more problems in the future .", "relation": "Causes", "tails": [" that water is not going to drain", " that water is not getting rid of it", " that water is not going to drain properly"]}
+{"head": "Thatcould be causing water to not drain completely , that might lead to more problems in the future .", "relation": "xReason", "tails": [" that is not a good idea", " that is not a good thing", " that is not a good idea."]}
+{"head": "That \u2019 s what \u2019 s making your toilet overflow .", "relation": "xAttr", "tails": [" careless", " clumsy", " messy"]}
+{"head": "That \u2019 s what \u2019 s making your toilet overflow .", "relation": "xWant", "tails": [" to clean up the mess", " to clean the toilet", " to flush the toilet"]}
+{"head": "That \u2019 s what \u2019 s making your toilet overflow .", "relation": "xNeed", "tails": [" none", " to be in the bathroom", " to be in the toilet"]}
+{"head": "That \u2019 s what \u2019 s making your toilet overflow .", "relation": "xEffect", "tails": [" that's what's making the toilet overflow", " that's what's making the toilet overflow.", " that is making the toilet overflow"]}
+{"head": "That \u2019 s what \u2019 s making your toilet overflow .", "relation": "HinderedBy", "tails": [" that's what's making the toilet overflow", " that is what is making the toilet overflow", " that is what is making the toilet overflow."]}
+{"head": "That \u2019 s what \u2019 s making your toilet overflow .", "relation": "oWant", "tails": [" to clean up the mess", " to clean the toilet", " none"]}
+{"head": "That \u2019 s what \u2019 s making your toilet overflow .", "relation": "xReact", "tails": [" that the toilet is full", " that the toilet is overflowing", " that the toilet is full."]}
+{"head": "That \u2019 s what \u2019 s making your toilet overflow .", "relation": "oEffect", "tails": [" none", " that is what is making the toilet overflow", " that is what is making the toilet overflow."]}
+{"head": "That \u2019 s what \u2019 s making your toilet overflow .", "relation": "xIntent", "tails": [" none", " to get out of the house", " to get out of the water"]}
+{"head": "That \u2019 s what \u2019 s making your toilet overflow .", "relation": "oReact", "tails": [" none", " that the toilet is overflowing", " that the toilet is overflowing."]}
+{"head": "That \u2019 s what \u2019 s making your toilet overflow .", "relation": "isBefore", "tails": [" that's what's making the toilet overflow", " that is what is making the toilet overflow", " that's what's making the toilet overflow."]}
+{"head": "That \u2019 s what \u2019 s making your toilet overflow .", "relation": "isAfter", "tails": [" that's what's making the toilet overflow", " that's what's making your toilet overflow", " that's what's making the toilet overflow."]}
+{"head": "That \u2019 s what \u2019 s making your toilet overflow .", "relation": "HasSubEvent", "tails": [" get out of the house", " get out of the bathroom", " get out of the toilet"]}
+{"head": "That \u2019 s what \u2019 s making your toilet overflow .", "relation": "Causes", "tails": [" that is what is making the toilet overflow", " that's what's making the toilet overflow", " that is what is making the toilet overflow."]}
+{"head": "That \u2019 s what \u2019 s making your toilet overflow .", "relation": "xReason", "tails": [" that's what's making the toilet overflow", " that is what is making the toilet overflow", " that is what is making the toilet overflow."]}
+{"head": "That would be great !", "relation": "xAttr", "tails": [" happy", " excited", " friendly"]}
+{"head": "That would be great !", "relation": "xWant", "tails": [" to have a good time", " to have a party", " to have fun"]}
+{"head": "That would be great !", "relation": "xNeed", "tails": [" none", " that would be great", " that would be good"]}
+{"head": "That would be great !", "relation": "xEffect", "tails": [" that would be great", " that would be good", " that would be great."]}
+{"head": "That would be great !", "relation": "HinderedBy", "tails": [" that would be great", " that would be good", " that would be great."]}
+{"head": "That would be great !", "relation": "oWant", "tails": [" none", " to have a good time", " to have fun"]}
+{"head": "That would be great !", "relation": "xReact", "tails": [" happy", " excited", " good"]}
+{"head": "That would be great !", "relation": "oEffect", "tails": [" none", " have a good time", " have fun"]}
+{"head": "That would be great !", "relation": "xIntent", "tails": [" none", " to have fun", " to have a party"]}
+{"head": "That would be great !", "relation": "oReact", "tails": [" none", " happy", " happy."]}
+{"head": "That would be great !", "relation": "isBefore", "tails": [" that would be great", " that would be good", " that would be nice"]}
+{"head": "That would be great !", "relation": "isAfter", "tails": [" that would be great", " that would be nice", " that would be good"]}
+{"head": "That would be great !", "relation": "HasSubEvent", "tails": [" that would be great", " have a good time", " have fun"]}
+{"head": "That would be great !", "relation": "Causes", "tails": [" that would be great", " that would be nice", " that would be good"]}
+{"head": "That would be great !", "relation": "xReason", "tails": [" that would be great", " that would be nice", " that would be good"]}
+{"head": "She is always flushing things down the toilet .", "relation": "xAttr", "tails": [" careless", " wasteful", " irresponsible"]}
+{"head": "She is always flushing things down the toilet .", "relation": "xWant", "tails": [" to clean up the mess", " to get rid of it", " to clean the toilet"]}
+{"head": "She is always flushing things down the toilet .", "relation": "xNeed", "tails": [" none", " to have a toilet", " to have a toilet."]}
+{"head": "She is always flushing things down the toilet .", "relation": "xEffect", "tails": [" gets yelled at", " none", " gets yelled at by others"]}
+{"head": "She is always flushing things down the toilet .", "relation": "HinderedBy", "tails": [" She has no toilet paper.", " She has no sense of humor.", " She has no sense of smell."]}
+{"head": "She is always flushing things down the toilet .", "relation": "oWant", "tails": [" none", " to clean up the mess", " to get rid of her"]}
+{"head": "She is always flushing things down the toilet .", "relation": "xReact", "tails": [" disgusted", " annoyed", " sad"]}
+{"head": "She is always flushing things down the toilet .", "relation": "oEffect", "tails": [" none", " gets yelled at", " she gets in trouble"]}
+{"head": "She is always flushing things down the toilet .", "relation": "xIntent", "tails": [" none", " to get rid of something", " to get rid of things"]}
+{"head": "She is always flushing things down the toilet .", "relation": "oReact", "tails": [" none", " annoyed", " upset"]}
+{"head": "She is always flushing things down the toilet .", "relation": "isBefore", "tails": [" PersonY gets a lot of things from PersonY.", " PersonY gets a lot of things from PersonY", " PersonY gets a lot of things from the toilet."]}
+{"head": "She is always flushing things down the toilet .", "relation": "isAfter", "tails": [" PersonY is a hoarder.", " PersonY is a toilet flusher.", " PersonY is a hoarder"]}
+{"head": "She is always flushing things down the toilet .", "relation": "HasSubEvent", "tails": [" none", " she gets in trouble", " get a new toilet"]}
+{"head": "She is always flushing things down the toilet .", "relation": "Causes", "tails": [" She is a hoarder.", " she has no toilet paper", " she has no toilet paper."]}
+{"head": "She is always flushing things down the toilet .", "relation": "xReason", "tails": [" she has no toilet paper", " she is a hoarder", " she has no toilet paper."]}
+{"head": "See , here , there \u2019 s water leaking everywhere !", "relation": "xAttr", "tails": [" leaky", " wet", " careless"]}
+{"head": "See , here , there \u2019 s water leaking everywhere !", "relation": "xWant", "tails": [" to clean up the mess", " to fix the leak", " to clean up the mess."]}
+{"head": "See , here , there \u2019 s water leaking everywhere !", "relation": "xNeed", "tails": [" none", " to have a leak", " see a leak"]}
+{"head": "See , here , there \u2019 s water leaking everywhere !", "relation": "xEffect", "tails": [" get wet", " none", " see the water"]}
+{"head": "See , here , there \u2019 s water leaking everywhere !", "relation": "HinderedBy", "tails": [" see the water leaking everywhere", " see water leaking everywhere", " see what is leaking"]}
+{"head": "See , here , there \u2019 s water leaking everywhere !", "relation": "oWant", "tails": [" none", " to clean up the mess", " to fix the leak"]}
+{"head": "See , here , there \u2019 s water leaking everywhere !", "relation": "xReact", "tails": [" wet", " see", " clean"]}
+{"head": "See , here , there \u2019 s water leaking everywhere !", "relation": "oEffect", "tails": [" none", " get wet", " see the water"]}
+{"head": "See , here , there \u2019 s water leaking everywhere !", "relation": "xIntent", "tails": [" none", " see what is happening", " see if there is water"]}
+{"head": "See , here , there \u2019 s water leaking everywhere !", "relation": "oReact", "tails": [" none", " see's what's going on", " see's what's going on."]}
+{"head": "See , here , there \u2019 s water leaking everywhere !", "relation": "isBefore", "tails": [" see the water leaking everywhere", " see water leaking everywhere", " see what is happening"]}
+{"head": "See , here , there \u2019 s water leaking everywhere !", "relation": "isAfter", "tails": [" see the water leaking everywhere", " see water leaking everywhere", " see what is happening"]}
+{"head": "See , here , there \u2019 s water leaking everywhere !", "relation": "HasSubEvent", "tails": [" see water leaking everywhere", " see the water leaking everywhere", " see the water"]}
+{"head": "See , here , there \u2019 s water leaking everywhere !", "relation": "Causes", "tails": [" see", " see the water leaking everywhere", " see water leaking everywhere"]}
+{"head": "See , here , there \u2019 s water leaking everywhere !", "relation": "xReason", "tails": [" see the water leaking everywhere", " see water leaking everywhere", " see the water"]}
+{"head": "Please come in !", "relation": "xAttr", "tails": [" friendly", " welcoming", " welcome"]}
+{"head": "Please come in !", "relation": "xWant", "tails": [" to talk to someone", " to talk to you", " to talk to the person"]}
+{"head": "Please come in !", "relation": "xNeed", "tails": [" to knock on the door", " to knock on the door.", " to knock on the front door"]}
+{"head": "Please come in !", "relation": "xEffect", "tails": [" get out of the car", " get out of car", " get a drink of water"]}
+{"head": "Please come in !", "relation": "HinderedBy", "tails": [" Please don't be mad at me.", " Please don't be rude to me.", " Please don't be rude."]}
+{"head": "Please come in !", "relation": "oWant", "tails": [" to talk to someone", " to talk to PersonY", " to talk to PersonX"]}
+{"head": "Please come in !", "relation": "xReact", "tails": [" happy", " welcome", " good"]}
+{"head": "Please come in !", "relation": "oEffect", "tails": [" none", " get a drink of water", " have a good time"]}
+{"head": "Please come in !", "relation": "xIntent", "tails": [" to talk to someone", " to talk to someone.", " to see someone"]}
+{"head": "Please come in !", "relation": "oReact", "tails": [" none", " happy", " welcome"]}
+{"head": "Please come in !", "relation": "isBefore", "tails": [" have a good time", " have a conversation", " have a conversation with someone"]}
+{"head": "Please come in !", "relation": "isAfter", "tails": [" have a good time", " have a conversation with someone", " have a conversation"]}
+{"head": "Please come in !", "relation": "HasSubEvent", "tails": [" have a conversation", " have a conversation with someone", " have a conversation with the person"]}
+{"head": "Please come in !", "relation": "Causes", "tails": [" please", " welcome", " have company"]}
+{"head": "Please come in !", "relation": "xReason", "tails": [" have something to eat", " have a good time", " have something to say"]}
+{"head": "Oh , that must be because of my four-year-old daughter .", "relation": "xAttr", "tails": [" angry", " silly", " maternal"]}
+{"head": "Oh , that must be because of my four-year-old daughter .", "relation": "xWant", "tails": [" to make sure she is okay", " to make sure she is safe", " to make sure they are okay"]}
+{"head": "Oh , that must be because of my four-year-old daughter .", "relation": "xNeed", "tails": [" none", " to have a daughter", " to have a child"]}
+{"head": "Oh , that must be because of my four-year-old daughter .", "relation": "xEffect", "tails": [" none", " gets yelled at", " get yelled at"]}
+{"head": "Oh , that must be because of my four-year-old daughter .", "relation": "HinderedBy", "tails": [" none", " I don't have a daughter.", " I don't have a child."]}
+{"head": "Oh , that must be because of my four-year-old daughter .", "relation": "oWant", "tails": [" none", " to tell me what's wrong", " to tell me what's going on"]}
+{"head": "Oh , that must be because of my four-year-old daughter .", "relation": "xReact", "tails": [" happy", " sad", " happy."]}
+{"head": "Oh , that must be because of my four-year-old daughter .", "relation": "oEffect", "tails": [" none", " they get into trouble", " they get into a fight"]}
+{"head": "Oh , that must be because of my four-year-old daughter .", "relation": "xIntent", "tails": [" none", " to be a good parent", " to be a good mother"]}
+{"head": "Oh , that must be because of my four-year-old daughter .", "relation": "oReact", "tails": [" none", " happy", " sad"]}
+{"head": "Oh , that must be because of my four-year-old daughter .", "relation": "isBefore", "tails": [" none", " PersonX gets a restraining order against PersonX.", " PersonX gets a restraining order against PersonY."]}
+{"head": "Oh , that must be because of my four-year-old daughter .", "relation": "isAfter", "tails": [" none", " PersonX is in the hospital.", " PersonX is in a coma."]}
+{"head": "Oh , that must be because of my four-year-old daughter .", "relation": "HasSubEvent", "tails": [" none", " have a tantrum", " get yelled at by daughter"]}
+{"head": "Oh , that must be because of my four-year-old daughter .", "relation": "Causes", "tails": [" none", " happy", " sad"]}
+{"head": "Oh , that must be because of my four-year-old daughter .", "relation": "xReason", "tails": [" none", " they have to go to the doctor", " they have to go to school"]}
+{"head": "No , that \u2019 s not working either .", "relation": "xAttr", "tails": [" no effect", " not good enough", " no effect at all"]}
+{"head": "No , that \u2019 s not working either .", "relation": "xWant", "tails": [" to try something else", " to get a new job", " to find a solution"]}
+{"head": "No , that \u2019 s not working either .", "relation": "xNeed", "tails": [" none", " no", " to try something"]}
+{"head": "No , that \u2019 s not working either .", "relation": "xEffect", "tails": [" none", " no effect", " no"]}
+{"head": "No , that \u2019 s not working either .", "relation": "HinderedBy", "tails": [" no", " none", " No."]}
+{"head": "No , that \u2019 s not working either .", "relation": "oWant", "tails": [" none", " to try something else", " to get a new job"]}
+{"head": "No , that \u2019 s not working either .", "relation": "xReact", "tails": [" none", " no effect", " no"]}
+{"head": "No , that \u2019 s not working either .", "relation": "oEffect", "tails": [" none", " no effect", " no"]}
+{"head": "No , that \u2019 s not working either .", "relation": "xIntent", "tails": [" none", " no effect", " no"]}
+{"head": "No , that \u2019 s not working either .", "relation": "oReact", "tails": [" none", " no effect", " no one cares"]}
+{"head": "No , that \u2019 s not working either .", "relation": "isBefore", "tails": [" no", " none", " no effect"]}
+{"head": "No , that \u2019 s not working either .", "relation": "isAfter", "tails": [" none", " no", " no effect"]}
+{"head": "No , that \u2019 s not working either .", "relation": "HasSubEvent", "tails": [" none", " no", " no effect"]}
+{"head": "No , that \u2019 s not working either .", "relation": "Causes", "tails": [" no", " none", " no effect"]}
+{"head": "No , that \u2019 s not working either .", "relation": "xReason", "tails": [" no", " none", " no effect"]}
+{"head": "Let \u2019 s see ...", "relation": "xAttr", "tails": [" curious", " interested", " Curious"]}
+{"head": "Let \u2019 s see ...", "relation": "xWant", "tails": [" to find out what they are looking for", " to make a decision", " to find out what it is"]}
+{"head": "Let \u2019 s see ...", "relation": "xNeed", "tails": [" none", " to look at something", " to be curious"]}
+{"head": "Let \u2019 s see ...", "relation": "xEffect", "tails": [" none", " let them know what they think", " let's see what they can do"]}
+{"head": "Let \u2019 s see ...", "relation": "HinderedBy", "tails": [" let them know", " let's see", " let me know if it is"]}
+{"head": "Let \u2019 s see ...", "relation": "oWant", "tails": [" none", " to find out what they are looking for", " to find out what they are looking for."]}
+{"head": "Let \u2019 s see ...", "relation": "xReact", "tails": [" curious", " happy", " good"]}
+{"head": "Let \u2019 s see ...", "relation": "oEffect", "tails": [" none", " let them know", " let's them know"]}
+{"head": "Let \u2019 s see ...", "relation": "xIntent", "tails": [" none", " to know what is going on", " to see what is going on"]}
+{"head": "Let \u2019 s see ...", "relation": "oReact", "tails": [" none", " let them know what they think", " let them know what they think."]}
+{"head": "Let \u2019 s see ...", "relation": "isBefore", "tails": [" let me know if it's ok", " let me know if it's okay", " let me know if it works"]}
+{"head": "Let \u2019 s see ...", "relation": "isAfter", "tails": [" none", " let me know if it's ok", " let me know if it's okay"]}
+{"head": "Let \u2019 s see ...", "relation": "HasSubEvent", "tails": [" none", " let go of hand", " let go of something"]}
+{"head": "Let \u2019 s see ...", "relation": "Causes", "tails": [" let them know", " let's see", " let me know"]}
+{"head": "Let \u2019 s see ...", "relation": "xReason", "tails": [" let them know", " let me know", " let me know if it is"]}
+{"head": "Let me just get my plunger .", "relation": "xAttr", "tails": [" let's go", " patient", " let go"]}
+{"head": "Let me just get my plunger .", "relation": "xWant", "tails": [" to use the plunger", " to put the plunger in the toilet", " to put the plunger in the sink"]}
+{"head": "Let me just get my plunger .", "relation": "xNeed", "tails": [" let go of the plunger", " to have a plunger", " let go of it"]}
+{"head": "Let me just get my plunger .", "relation": "xEffect", "tails": [" let's go", " none", " let go of it"]}
+{"head": "Let me just get my plunger .", "relation": "HinderedBy", "tails": [" let me get my plunger", " let me know if I need anything else", " let me know if I need anything else."]}
+{"head": "Let me just get my plunger .", "relation": "oWant", "tails": [" none", " to help me", " to get a drink"]}
+{"head": "Let me just get my plunger .", "relation": "xReact", "tails": [" relieved", " satisfied", " let go"]}
+{"head": "Let me just get my plunger .", "relation": "oEffect", "tails": [" none", " let go of the plunger", " let's go of the plunger"]}
+{"head": "Let me just get my plunger .", "relation": "xIntent", "tails": [" to get the job done", " to get a drink of water", " to get a drink of water."]}
+{"head": "Let me just get my plunger .", "relation": "oReact", "tails": [" none", " let me do what I want to do", " let me do what I want to do."]}
+{"head": "Let me just get my plunger .", "relation": "isBefore", "tails": [" let me know if you need anything else", " let me know if I need anything else", " let me know if you need anything else."]}
+{"head": "Let me just get my plunger .", "relation": "isAfter", "tails": [" let me know if you need anything else", " let me know if I need anything else", " let me know if you need anything else."]}
+{"head": "Let me just get my plunger .", "relation": "HasSubEvent", "tails": [" let go of the plunger", " let go of it", " let's go of the plunger"]}
+{"head": "Let me just get my plunger .", "relation": "Causes", "tails": [" let me get my plunger", " let me know if I need anything else", " let me know if I need anything else."]}
+{"head": "Let me just get my plunger .", "relation": "xReason", "tails": [" let me know if you need anything else", " let me know if I need anything else", " let me know if you need anything else."]}
+{"head": "Let me have a look .", "relation": "xAttr", "tails": [" curious", " inquisitive", " interested"]}
+{"head": "Let me have a look .", "relation": "xWant", "tails": [" to see what it is", " to take a picture of it", " to see what's going on"]}
+{"head": "Let me have a look .", "relation": "xNeed", "tails": [" none", " to open the box", " to open the package"]}
+{"head": "Let me have a look .", "relation": "xEffect", "tails": [" let me know if it's ok", " let me know if it's okay", " let me know if it is ok"]}
+{"head": "Let me have a look .", "relation": "HinderedBy", "tails": [" let me have a look", " let me have a look.", " let me know if it's okay"]}
+{"head": "Let me have a look .", "relation": "oWant", "tails": [" none", " to tell me what they think", " to tell me what they found"]}
+{"head": "Let me have a look .", "relation": "xReact", "tails": [" curious", " interested", " satisfied"]}
+{"head": "Let me have a look .", "relation": "oEffect", "tails": [" none", " let me know what they think", " let me know if it's ok"]}
+{"head": "Let me have a look .", "relation": "xIntent", "tails": [" to see what's going on", " to see what is going on", " to see what it is"]}
+{"head": "Let me have a look .", "relation": "oReact", "tails": [" none", " interested", " curious"]}
+{"head": "Let me have a look .", "relation": "isBefore", "tails": [" let me know if it's ok", " let me know if it's okay", " let me know if it is ok"]}
+{"head": "Let me have a look .", "relation": "isAfter", "tails": [" let me know if it's okay", " let me know if it's ok", " let me know if it's broken"]}
+{"head": "Let me have a look .", "relation": "HasSubEvent", "tails": [" look at something", " let go of it", " let go of the object"]}
+{"head": "Let me have a look .", "relation": "Causes", "tails": [" let me have a look", " let me have a look.", " let me know if it's okay"]}
+{"head": "Let me have a look .", "relation": "xReason", "tails": [" let me have a look", " let me know if it's okay", " let me know if it's ok"]}
+{"head": "It seems that your toilet is clogged , and that \u2019 s why it won \u2019 t flush .", "relation": "xAttr", "tails": [" sick", " sickly", " upset"]}
+{"head": "It seems that your toilet is clogged , and that \u2019 s why it won \u2019 t flush .", "relation": "xWant", "tails": [" to call the plumber", " to get a plumber", " to clean the toilet"]}
+{"head": "It seems that your toilet is clogged , and that \u2019 s why it won \u2019 t flush .", "relation": "xNeed", "tails": [" to have a problem with the toilet", " to have a problem with the toilet.", " to have a problem with their toilet"]}
+{"head": "It seems that your toilet is clogged , and that \u2019 s why it won \u2019 t flush .", "relation": "xEffect", "tails": [" get a plumber to fix the clogged toilet", " get a plumber to fix the clogged toilet.", " get a plumber to fix the problem"]}
+{"head": "It seems that your toilet is clogged , and that \u2019 s why it won \u2019 t flush .", "relation": "HinderedBy", "tails": [" it is not flush", " it is not flushable", " It is not a problem."]}
+{"head": "It seems that your toilet is clogged , and that \u2019 s why it won \u2019 t flush .", "relation": "oWant", "tails": [" to call the plumber", " to get a plumber", " to call the plumber."]}
+{"head": "It seems that your toilet is clogged , and that \u2019 s why it won \u2019 t flush .", "relation": "xReact", "tails": [" upset", " worried", " sick"]}
+{"head": "It seems that your toilet is clogged , and that \u2019 s why it won \u2019 t flush .", "relation": "oEffect", "tails": [" none", " get a plumber", " get a new toilet"]}
+{"head": "It seems that your toilet is clogged , and that \u2019 s why it won \u2019 t flush .", "relation": "xIntent", "tails": [" none", " to get rid of it", " to flush the toilet"]}
+{"head": "It seems that your toilet is clogged , and that \u2019 s why it won \u2019 t flush .", "relation": "oReact", "tails": [" none", " it is not flush", " it is not flushable"]}
+{"head": "It seems that your toilet is clogged , and that \u2019 s why it won \u2019 t flush .", "relation": "isBefore", "tails": [" get a plumber", " get a plumber to fix the problem", " get a plumber to fix it"]}
+{"head": "It seems that your toilet is clogged , and that \u2019 s why it won \u2019 t flush .", "relation": "isAfter", "tails": [" get a plumber to fix the problem", " get a plumber to fix it", " get a plumber"]}
+{"head": "It seems that your toilet is clogged , and that \u2019 s why it won \u2019 t flush .", "relation": "HasSubEvent", "tails": [" get a plumber", " get a plumber to fix the problem", " get a plumber to fix it"]}
+{"head": "It seems that your toilet is clogged , and that \u2019 s why it won \u2019 t flush .", "relation": "Causes", "tails": [" upset", " sick", " frustrated"]}
+{"head": "It seems that your toilet is clogged , and that \u2019 s why it won \u2019 t flush .", "relation": "xReason", "tails": [" it is not flush", " it is not flushable", " it is not working properly"]}
+{"head": "Is it expensive ?", "relation": "xAttr", "tails": [" expensive", " cheap", " rich"]}
+{"head": "Is it expensive ?", "relation": "xWant", "tails": [" to pay for it", " to buy it", " to pay for the item"]}
+{"head": "Is it expensive ?", "relation": "xNeed", "tails": [" none", " to go to the store", " to go to the store."]}
+{"head": "Is it expensive ?", "relation": "xEffect", "tails": [" is not as good as it used to be", " is not as good as it could be", " is not as good as it could have been"]}
+{"head": "Is it expensive ?", "relation": "HinderedBy", "tails": [" Is it good for the environment.", " is it worth it", " is it good for the environment"]}
+{"head": "Is it expensive ?", "relation": "oWant", "tails": [" none", " to pay for it", " to buy it"]}
+{"head": "Is it expensive ?", "relation": "xReact", "tails": [" happy", " expensive", " good"]}
+{"head": "Is it expensive ?", "relation": "oEffect", "tails": [" none", " is asked to pay for it", " is asked to pay more"]}
+{"head": "Is it expensive ?", "relation": "xIntent", "tails": [" none", " to buy something", " to buy something expensive"]}
+{"head": "Is it expensive ?", "relation": "oReact", "tails": [" none", " happy", " happy."]}
+{"head": "Is it expensive ?", "relation": "isBefore", "tails": [" is it worth it", " is it good for the environment", " is it good for business"]}
+{"head": "Is it expensive ?", "relation": "isAfter", "tails": [" is it good or bad", " is it worth it", " is it good for the environment"]}
+{"head": "Is it expensive ?", "relation": "HasSubEvent", "tails": [" is not worth it", " is expensive", " get a new one"]}
+{"head": "Is it expensive ?", "relation": "Causes", "tails": [" is expensive", " is not worth it", " is it worth it"]}
+{"head": "Is it expensive ?", "relation": "xReason", "tails": [" is it worth it", " is not worth it", " is expensive"]}
+{"head": "I \u2019 m so glad you came !", "relation": "xAttr", "tails": [" happy", " excited", " friendly"]}
+{"head": "I \u2019 m so glad you came !", "relation": "xWant", "tails": [" to spend time with you", " to have a good time", " to spend time with them"]}
+{"head": "I \u2019 m so glad you came !", "relation": "xNeed", "tails": [" none", " to invite them", " to have been invited"]}
+{"head": "I \u2019 m so glad you came !", "relation": "xEffect", "tails": [" none", " gets a hug", " gets hugged"]}
+{"head": "I \u2019 m so glad you came !", "relation": "HinderedBy", "tails": [" I love you.", " I love you too much.", " I love you so much."]}
+{"head": "I \u2019 m so glad you came !", "relation": "oWant", "tails": [" to have a good time", " to have fun", " to have a good time."]}
+{"head": "I \u2019 m so glad you came !", "relation": "xReact", "tails": [" happy", " happy.", " excited"]}
+{"head": "I \u2019 m so glad you came !", "relation": "oEffect", "tails": [" none", " have a good time", " get to know each other"]}
+{"head": "I \u2019 m so glad you came !", "relation": "xIntent", "tails": [" none", " to be with someone", " to be with them"]}
+{"head": "I \u2019 m so glad you came !", "relation": "oReact", "tails": [" none", " happy", " loved"]}
+{"head": "I \u2019 m so glad you came !", "relation": "isBefore", "tails": [" I want to spend time with you", " I want to spend time with you.", " I want to see you again"]}
+{"head": "I \u2019 m so glad you came !", "relation": "isAfter", "tails": [" I want to spend time with you", " I want to spend time with you.", " none"]}
+{"head": "I \u2019 m so glad you came !", "relation": "HasSubEvent", "tails": [" have a good time", " get to know them better", " have a good time with you"]}
+{"head": "I \u2019 m so glad you came !", "relation": "Causes", "tails": [" I love you.", " I love you", " I want to see you"]}
+{"head": "I \u2019 m so glad you came !", "relation": "xReason", "tails": [" have a good time", " none", " have a good time together"]}
+{"head": "I would say about eight hundred dollars .", "relation": "xAttr", "tails": [" rich", " cheap", " wealthy"]}
+{"head": "I would say about eight hundred dollars .", "relation": "xWant", "tails": [" to buy a new car", " to buy something", " to buy a new house"]}
+{"head": "I would say about eight hundred dollars .", "relation": "xNeed", "tails": [" to have a lot of money", " to buy something", " to buy a new car"]}
+{"head": "I would say about eight hundred dollars .", "relation": "xEffect", "tails": [" buys a new car", " I have no money.", " buys a new house"]}
+{"head": "I would say about eight hundred dollars .", "relation": "HinderedBy", "tails": [" I don't know how much it is.", " I don't know.", " I don't know how much."]}
+{"head": "I would say about eight hundred dollars .", "relation": "oWant", "tails": [" none", " to buy something", " to pay for it"]}
+{"head": "I would say about eight hundred dollars .", "relation": "xReact", "tails": [" happy", " good", " satisfied"]}
+{"head": "I would say about eight hundred dollars .", "relation": "oEffect", "tails": [" none", " buy a new car", " get a new car"]}
+{"head": "I would say about eight hundred dollars .", "relation": "xIntent", "tails": [" none", " to buy something", " to buy a car"]}
+{"head": "I would say about eight hundred dollars .", "relation": "oReact", "tails": [" none", " like they have something to spend their money on", " like they have a good deal of money"]}
+{"head": "I would say about eight hundred dollars .", "relation": "isBefore", "tails": [" I don't know how much it is.", " I don't know how much it is", " I don't know how much."]}
+{"head": "I would say about eight hundred dollars .", "relation": "isAfter", "tails": [" I don't know how much it is.", " I don't know how much it is", " money"]}
+{"head": "I would say about eight hundred dollars .", "relation": "HasSubEvent", "tails": [" buy a new car", " get a new car", " pay for the item"]}
+{"head": "I would say about eight hundred dollars .", "relation": "Causes", "tails": [" I don't know how much it is.", " I don't know.", " I don't know how much."]}
+{"head": "I would say about eight hundred dollars .", "relation": "xReason", "tails": [" I don't know how much it is.", " I don't know how much.", " I don't know."]}
+{"head": "I would also suggest fixing this faucet that isn \u2019 t shutting off properly .", "relation": "xAttr", "tails": [" helpful", " responsible", " handy"]}
+{"head": "I would also suggest fixing this faucet that isn \u2019 t shutting off properly .", "relation": "xWant", "tails": [" to fix the faucet", " to make sure the faucet is working properly", " to make sure the faucet is working"]}
+{"head": "I would also suggest fixing this faucet that isn \u2019 t shutting off properly .", "relation": "xNeed", "tails": [" to know how to fix it", " to have a faucet", " to know how to fix it."]}
+{"head": "I would also suggest fixing this faucet that isn \u2019 t shutting off properly .", "relation": "xEffect", "tails": [" get a new faucet", " to fix the faucet", " get a new faucet."]}
+{"head": "I would also suggest fixing this faucet that isn \u2019 t shutting off properly .", "relation": "HinderedBy", "tails": [" I don\u2019t know how to fix it.", " I don't know how to fix it.", " I don\u2019t have the money to fix it."]}
+{"head": "I would also suggest fixing this faucet that isn \u2019 t shutting off properly .", "relation": "oWant", "tails": [" to fix the faucet", " to make sure the faucet is working properly", " to make sure the faucet is working"]}
+{"head": "I would also suggest fixing this faucet that isn \u2019 t shutting off properly .", "relation": "xReact", "tails": [" helpful", " clean", " happy"]}
+{"head": "I would also suggest fixing this faucet that isn \u2019 t shutting off properly .", "relation": "oEffect", "tails": [" get a new faucet", " get a new faucet.", " get a new faucet installed"]}
+{"head": "I would also suggest fixing this faucet that isn \u2019 t shutting off properly .", "relation": "xIntent", "tails": [" to make sure the faucet is working properly", " to fix the faucet", " to make sure the faucet is working"]}
+{"head": "I would also suggest fixing this faucet that isn \u2019 t shutting off properly .", "relation": "oReact", "tails": [" none", " water to stop running", " water is not flowing"]}
+{"head": "I would also suggest fixing this faucet that isn \u2019 t shutting off properly .", "relation": "isBefore", "tails": [" get a new faucet", " get a new faucet.", " get a new faucet installed"]}
+{"head": "I would also suggest fixing this faucet that isn \u2019 t shutting off properly .", "relation": "isAfter", "tails": [" I would like to fix the faucet.", " I would like to fix the faucet", " I would like to fix the faucet as well"]}
+{"head": "I would also suggest fixing this faucet that isn \u2019 t shutting off properly .", "relation": "HasSubEvent", "tails": [" get a new faucet", " fix the faucet", " to fix the faucet"]}
+{"head": "I would also suggest fixing this faucet that isn \u2019 t shutting off properly .", "relation": "Causes", "tails": [" fix the faucet", " fix the leak in the faucet", " fix the leak in the faucet."]}
+{"head": "I would also suggest fixing this faucet that isn \u2019 t shutting off properly .", "relation": "xReason", "tails": [" get a new faucet", " get a new faucet.", " get a new faucet installed"]}
+{"head": "I suspect that there \u2019 s some sort of foreign object in the pipes that \u2018 s causing a blockage .", "relation": "xAttr", "tails": [" curious", " suspicious", " scared"]}
+{"head": "I suspect that there \u2019 s some sort of foreign object in the pipes that \u2018 s causing a blockage .", "relation": "xWant", "tails": [" to see if there is anything wrong with the pipes", " to see if there is anything wrong with the pipes.", " to see if there is anything else in the pipes"]}
+{"head": "I suspect that there \u2019 s some sort of foreign object in the pipes that \u2018 s causing a blockage .", "relation": "xNeed", "tails": [" to look at the pipes", " to look at the pipes.", " none"]}
+{"head": "I suspect that there \u2019 s some sort of foreign object in the pipes that \u2018 s causing a blockage .", "relation": "xEffect", "tails": [" I have to fix the pipes.", " I have to fix the pipe.", " none"]}
+{"head": "I suspect that there \u2019 s some sort of foreign object in the pipes that \u2018 s causing a blockage .", "relation": "HinderedBy", "tails": [" I don't know what to look for.", " I don't know what it is.", " I don't know what to do."]}
+{"head": "I suspect that there \u2019 s some sort of foreign object in the pipes that \u2018 s causing a blockage .", "relation": "oWant", "tails": [" to find out what is causing the blockage", " to find out what is causing the blockage.", " to find out the cause of the blockage"]}
+{"head": "I suspect that there \u2019 s some sort of foreign object in the pipes that \u2018 s causing a blockage .", "relation": "xReact", "tails": [" worried", " curious", " suspicious"]}
+{"head": "I suspect that there \u2019 s some sort of foreign object in the pipes that \u2018 s causing a blockage .", "relation": "oEffect", "tails": [" none", " get out of the way", " get out of the house"]}
+{"head": "I suspect that there \u2019 s some sort of foreign object in the pipes that \u2018 s causing a blockage .", "relation": "xIntent", "tails": [" none", " to find out what is causing the blockage", " to find out what is causing the blockage."]}
+{"head": "I suspect that there \u2019 s some sort of foreign object in the pipes that \u2018 s causing a blockage .", "relation": "oReact", "tails": [" none", " scared", " worried"]}
+{"head": "I suspect that there \u2019 s some sort of foreign object in the pipes that \u2018 s causing a blockage .", "relation": "isBefore", "tails": [" I can't find anything to block the pipes.", " I can't find anything to block the pipe.", " I can't find anything to block it."]}
+{"head": "I suspect that there \u2019 s some sort of foreign object in the pipes that \u2018 s causing a blockage .", "relation": "isAfter", "tails": [" I have a pipe in my house.", " I have to fix the pipes.", " I have to fix it."]}
+{"head": "I suspect that there \u2019 s some sort of foreign object in the pipes that \u2018 s causing a blockage .", "relation": "HasSubEvent", "tails": [" get a pipe cleaner", " get medical help", " get a doctor"]}
+{"head": "I suspect that there \u2019 s some sort of foreign object in the pipes that \u2018 s causing a blockage .", "relation": "Causes", "tails": [" suspicious", " curious", " worried"]}
+{"head": "I suspect that there \u2019 s some sort of foreign object in the pipes that \u2018 s causing a blockage .", "relation": "xReason", "tails": [" I can't find anything to block the pipes.", " I can't get the pipes to work.", " I can't find anything to block it."]}
+{"head": "I see .", "relation": "xAttr", "tails": [" observant", " understanding", " observant."]}
+{"head": "I see .", "relation": "xWant", "tails": [" to understand the situation", " to make a decision", " to see what they see"]}
+{"head": "I see .", "relation": "xNeed", "tails": [" none", " to look at something", " to look at it"]}
+{"head": "I see .", "relation": "xEffect", "tails": [" none", " see what they want to see", " see's what they want to see"]}
+{"head": "I see .", "relation": "HinderedBy", "tails": [" I don't know what they are talking about.", " I don't know what to say.", " I can't see."]}
+{"head": "I see .", "relation": "oWant", "tails": [" none", " to tell me what they think", " to tell me what they know"]}
+{"head": "I see .", "relation": "xReact", "tails": [" informed", " good", " happy"]}
+{"head": "I see .", "relation": "oEffect", "tails": [" none", " see's what they want to see", " see what they want to see"]}
+{"head": "I see .", "relation": "xIntent", "tails": [" none", " to know what is going on", " to know what's going on"]}
+{"head": "I see .", "relation": "oReact", "tails": [" none", " informed", " happy"]}
+{"head": "I see .", "relation": "isBefore", "tails": [" I see what I see", " I know what to do", " I know what to do next"]}
+{"head": "I see .", "relation": "isAfter", "tails": [" I look at it", " none", " I look at the picture"]}
+{"head": "I see .", "relation": "HasSubEvent", "tails": [" none", " look at it", " see what they want"]}
+{"head": "I see .", "relation": "Causes", "tails": [" I can't see what's in front of me.", " I can't see what I want to see.", " I can't see what's going on."]}
+{"head": "I see .", "relation": "xReason", "tails": [" I see what I want to see.", " I see what I want to see", " none"]}
+{"head": "I could have it all finished by today if it \u2019 s urgent .", "relation": "xAttr", "tails": [" fast", " quick", " urgent"]}
+{"head": "I could have it all finished by today if it \u2019 s urgent .", "relation": "xWant", "tails": [" to get it done", " to finish the project", " to finish it"]}
+{"head": "I could have it all finished by today if it \u2019 s urgent .", "relation": "xNeed", "tails": [" to have a plan", " to be working on a project", " to be working on it"]}
+{"head": "I could have it all finished by today if it \u2019 s urgent .", "relation": "xEffect", "tails": [" get it done", " get a job done", " get it over with"]}
+{"head": "I could have it all finished by today if it \u2019 s urgent .", "relation": "HinderedBy", "tails": [" I have a lot of work to do.", " I don't have the time.", " I don't have the time to finish it."]}
+{"head": "I could have it all finished by today if it \u2019 s urgent .", "relation": "oWant", "tails": [" none", " to get it done", " to help me"]}
+{"head": "I could have it all finished by today if it \u2019 s urgent .", "relation": "xReact", "tails": [" accomplished", " satisfied", " happy"]}
+{"head": "I could have it all finished by today if it \u2019 s urgent .", "relation": "oEffect", "tails": [" none", " get a job done", " get it done"]}
+{"head": "I could have it all finished by today if it \u2019 s urgent .", "relation": "xIntent", "tails": [" to get it done", " to get it over with", " to be done with it"]}
+{"head": "I could have it all finished by today if it \u2019 s urgent .", "relation": "oReact", "tails": [" none", " happy", " satisfied"]}
+{"head": "I could have it all finished by today if it \u2019 s urgent .", "relation": "isBefore", "tails": [" I have a lot of work to do.", " I have a lot of work to do", " I have a deadline to meet."]}
+{"head": "I could have it all finished by today if it \u2019 s urgent .", "relation": "isAfter", "tails": [" I have a lot of work to do", " I have a lot of work to do.", " I have a lot of work to get done."]}
+{"head": "I could have it all finished by today if it \u2019 s urgent .", "relation": "HasSubEvent", "tails": [" get a job done", " get it done", " work on it"]}
+{"head": "I could have it all finished by today if it \u2019 s urgent .", "relation": "Causes", "tails": [" I have a lot of work to do.", " I have a lot of work to do", " I have a lot of work to finish."]}
+{"head": "I could have it all finished by today if it \u2019 s urgent .", "relation": "xReason", "tails": [" I have a lot of work to do.", " I have a lot of work to do", " I have a deadline to meet."]}
+{"head": "Good afternoon !", "relation": "xAttr", "tails": [" happy", " friendly", " good"]}
+{"head": "Good afternoon !", "relation": "xWant", "tails": [" to have a good time", " to go home", " to go to the movies"]}
+{"head": "Good afternoon !", "relation": "xNeed", "tails": [" have something to eat", " have a good day", " none"]}
+{"head": "Good afternoon !", "relation": "xEffect", "tails": [" none", " smiles", " good news"]}
+{"head": "Good afternoon !", "relation": "HinderedBy", "tails": [" Good morning.", " good news", " Good morning to you"]}
+{"head": "Good afternoon !", "relation": "oWant", "tails": [" none", " to have a good time", " to have a good day"]}
+{"head": "Good afternoon !", "relation": "xReact", "tails": [" happy", " good", " happy."]}
+{"head": "Good afternoon !", "relation": "oEffect", "tails": [" none", " have a good time", " have a good day"]}
+{"head": "Good afternoon !", "relation": "xIntent", "tails": [" none", " to have a good time", " to be sociable"]}
+{"head": "Good afternoon !", "relation": "oReact", "tails": [" none", " happy", " happy."]}
+{"head": "Good afternoon !", "relation": "isBefore", "tails": [" good news", " good day", " good"]}
+{"head": "Good afternoon !", "relation": "isAfter", "tails": [" good news", " good day", " good morning"]}
+{"head": "Good afternoon !", "relation": "HasSubEvent", "tails": [" have a good time", " have a good day", " smile"]}
+{"head": "Good afternoon !", "relation": "Causes", "tails": [" happy", " good", " good news"]}
+{"head": "Good afternoon !", "relation": "xReason", "tails": [" good news", " happy", " good"]}
+{"head": "Good afternoon", "relation": "ObjectUse", "tails": [" have a good time", " have a good day", " have a conversation with someone"]}
+{"head": "Good afternoon", "relation": "AtLocation", "tails": [" good news", " office building", " good bye"]}
+{"head": "Good afternoon", "relation": "CapableOf", "tails": [" have a good time", " say hello", " have a good day"]}
+{"head": "Good afternoon", "relation": "HasProperty", "tails": [" happy", " good", " good news"]}
+{"head": "Good afternoon", "relation": "MadeUpOf", "tails": [" good news", " good morning", " good"]}
+{"head": "Good afternoon", "relation": "NotDesires", "tails": [" happy to see you", " have a good time", " good news"]}
+{"head": "Good afternoon", "relation": "Desires", "tails": [" have a good time", " have a good day", " have fun"]}
+{"head": "Did you call for a plumber ?", "relation": "xAttr", "tails": [" responsible", " curious", " handy"]}
+{"head": "Did you call for a plumber ?", "relation": "xWant", "tails": [" to fix the problem", " to fix the leak", " to fix the plumbing"]}
+{"head": "Did you call for a plumber ?", "relation": "xNeed", "tails": [" to have a plumbing problem", " to have a leak", " to have plumbing problems"]}
+{"head": "Did you call for a plumber ?", "relation": "xEffect", "tails": [" gets a bill", " get a new pipe", " get a bill"]}
+{"head": "Did you call for a plumber ?", "relation": "HinderedBy", "tails": [" did not have a plumber", " did not get a plumber", " did not have a phone"]}
+{"head": "Did you call for a plumber ?", "relation": "oWant", "tails": [" to fix the problem", " to fix the leak", " to fix the plumbing"]}
+{"head": "Did you call for a plumber ?", "relation": "xReact", "tails": [" relieved", " satisfied", " happy"]}
+{"head": "Did you call for a plumber ?", "relation": "oEffect", "tails": [" none", " they get paid", " they get a bill"]}
+{"head": "Did you call for a plumber ?", "relation": "xIntent", "tails": [" to fix a leak", " none", " to fix the plumbing"]}
+{"head": "Did you call for a plumber ?", "relation": "oReact", "tails": [" none", " relieved", " annoyed"]}
+{"head": "Did you call for a plumber ?", "relation": "isBefore", "tails": [" did not have a plumber", " did not get a plumber", " did not have a phone"]}
+{"head": "Did you call for a plumber ?", "relation": "isAfter", "tails": [" did not have a plumber", " did not get a plumber", " did not have a phone"]}
+{"head": "Did you call for a plumber ?", "relation": "HasSubEvent", "tails": [" did not have a plumber", " did not get a plumber", " did not have a phone"]}
+{"head": "Did you call for a plumber ?", "relation": "Causes", "tails": [" did not have a plumber", " did not get a plumber", " did not have a phone"]}
+{"head": "Did you call for a plumber ?", "relation": "xReason", "tails": [" did not have a plumber", " did not get a plumber", " did not have a phone"]}
+{"head": "Come on into the bathroom .", "relation": "xAttr", "tails": [" curious", " clean", " friendly"]}
+{"head": "Come on into the bathroom .", "relation": "xWant", "tails": [" to wash their hands", " to wash their hands.", " to clean up"]}
+{"head": "Come on into the bathroom .", "relation": "xNeed", "tails": [" to open the door", " to open the door to the bathroom", " to be in the bathroom"]}
+{"head": "Come on into the bathroom .", "relation": "xEffect", "tails": [" get out of the shower", " get out of the way", " get out of the bathroom"]}
+{"head": "Come on into the bathroom .", "relation": "HinderedBy", "tails": [" come into the bathroom", " come in the bathroom", " come in"]}
+{"head": "Come on into the bathroom .", "relation": "oWant", "tails": [" to go to the bathroom", " to get out of the shower", " to go to the bathroom."]}
+{"head": "Come on into the bathroom .", "relation": "xReact", "tails": [" clean", " happy", " good"]}
+{"head": "Come on into the bathroom .", "relation": "oEffect", "tails": [" none", " get out of the shower", " get out of the way"]}
+{"head": "Come on into the bathroom .", "relation": "xIntent", "tails": [" to clean up", " come in", " to clean themselves"]}
+{"head": "Come on into the bathroom .", "relation": "oReact", "tails": [" none", " happy to see someone.", " happy to see them."]}
+{"head": "Come on into the bathroom .", "relation": "isBefore", "tails": [" come into the bathroom", " get out of the shower", " come in the bathroom"]}
+{"head": "Come on into the bathroom .", "relation": "isAfter", "tails": [" come into the bathroom", " come in the bathroom", " get out of the shower"]}
+{"head": "Come on into the bathroom .", "relation": "HasSubEvent", "tails": [" get out of the shower", " get out of the bathroom", " get out of the way"]}
+{"head": "Come on into the bathroom .", "relation": "Causes", "tails": [" come into the bathroom", " come in the bathroom", " come in"]}
+{"head": "Come on into the bathroom .", "relation": "xReason", "tails": [" come into the bathroom", " come in", " come in the bathroom"]}
+{"head": "Anyway , these water pipes are really rusty , so they also should be changed .", "relation": "xAttr", "tails": [" rusty", " dirty", " clean"]}
+{"head": "Anyway , these water pipes are really rusty , so they also should be changed .", "relation": "xWant", "tails": [" to fix the pipes", " to replace the pipes", " to get a new one"]}
+{"head": "Anyway , these water pipes are really rusty , so they also should be changed .", "relation": "xNeed", "tails": [" none", " to get a plumber", " to have a water pipe"]}
+{"head": "Anyway , these water pipes are really rusty , so they also should be changed .", "relation": "xEffect", "tails": [" none", " get a new one", " get a new pipe"]}
+{"head": "Anyway , these water pipes are really rusty , so they also should be changed .", "relation": "HinderedBy", "tails": [" none", " they are too old to be changed", " they are too old to be changed."]}
+{"head": "Anyway , these water pipes are really rusty , so they also should be changed .", "relation": "oWant", "tails": [" none", " to fix the pipes", " to change the water pipes"]}
+{"head": "Anyway , these water pipes are really rusty , so they also should be changed .", "relation": "xReact", "tails": [" clean", " clean and fresh water", " clean and fresh."]}
+{"head": "Anyway , these water pipes are really rusty , so they also should be changed .", "relation": "oEffect", "tails": [" none", " get a new pipe", " water pipes are rusty"]}
+{"head": "Anyway , these water pipes are really rusty , so they also should be changed .", "relation": "xIntent", "tails": [" none", " to get rid of the old pipes", " to get rid of old pipes"]}
+{"head": "Anyway , these water pipes are really rusty , so they also should be changed .", "relation": "oReact", "tails": [" none", " water pipes are rusty.                 ", " water pipes are rusty.                "]}
+{"head": "Anyway , these water pipes are really rusty , so they also should be changed .", "relation": "isBefore", "tails": [" none", " get a new one", " get a new pipe"]}
+{"head": "Anyway , these water pipes are really rusty , so they also should be changed .", "relation": "isAfter", "tails": [" water pipes", " none", " get a new one"]}
+{"head": "Anyway , these water pipes are really rusty , so they also should be changed .", "relation": "HasSubEvent", "tails": [" none", " get a new one", " get a new pipe"]}
+{"head": "Anyway , these water pipes are really rusty , so they also should be changed .", "relation": "Causes", "tails": [" none", " they are rusty and need to be changed", " they are rusty and need to be changed."]}
+{"head": "Anyway , these water pipes are really rusty , so they also should be changed .", "relation": "xReason", "tails": [" none", " water pipes", " they are rusty"]}

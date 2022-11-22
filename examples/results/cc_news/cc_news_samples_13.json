@@ -1,0 +1,29 @@
+{"head": "Washington", "relation": "ObjectUse", "tails": [" Washington, D.C.", " Washington, D.C", " Washington,D.C."]}
+{"head": "Washington", "relation": "AtLocation", "tails": [" city", " town", " cities"]}
+{"head": "Washington", "relation": "CapableOf", "tails": [" go to war", " go on vacation", " go to the beach"]}
+{"head": "Washington", "relation": "HasProperty", "tails": [" Washington, D.C.", " Washington, D.C", " Washington, D.C.,"]}
+{"head": "Washington", "relation": "MadeUpOf", "tails": [" Washington, D.C.", " Washington, D.C", " Washington, D.C.,"]}
+{"head": "Washington", "relation": "NotDesires", "tails": [" Washington, D.C.", " Washington, D.C", " Washington D.C."]}
+{"head": "Washington", "relation": "Desires", "tails": [" Washington, D.C.", " Washington, D.C", " Washington, D.C.,"]}
+{"head": "From Everett, Washington", "relation": "xAttr", "tails": [" adventurous", " sailing", " sailing ship"]}
+{"head": "From Everett, Washington", "relation": "xWant", "tails": [" to go to the beach", " to see the ocean", " to go home"]}
+{"head": "From Everett, Washington", "relation": "xNeed", "tails": [" to drive to the city", " to drive to the location", " to drive to the town"]}
+{"head": "From Everett, Washington", "relation": "xEffect", "tails": [" get to their destination", " get to the beach", " get to their destination."]}
+{"head": "From Everett, Washington", "relation": "HinderedBy", "tails": [" from there", " from a different city", " from a different state"]}
+{"head": "From Everett, Washington", "relation": "oWant", "tails": [" to go to the beach", " to see the sights", " to go to the movies"]}
+{"head": "From Everett, Washington", "relation": "xReact", "tails": [" happy", " happy to be there", " happy to be there."]}
+{"head": "From Everett, Washington", "relation": "oEffect", "tails": [" none", " travel", " travel to"]}
+{"head": "From Everett, Washington", "relation": "xIntent", "tails": [" to see the ocean", " to go to the beach", " to visit family"]}
+{"head": "From Everett, Washington", "relation": "oReact", "tails": [" none", " like they have a place to live", " like they have a place to go"]}
+{"head": "From Everett, Washington", "relation": "isBefore", "tails": [" from there to there", " from there", " from there to their home"]}
+{"head": "From Everett, Washington", "relation": "isAfter", "tails": [" from Seattle to Everett", " from there to there", " from there"]}
+{"head": "From Everett, Washington", "relation": "HasSubEvent", "tails": [" get to their destination", " get to the beach", " get off plane"]}
+{"head": "From Everett, Washington", "relation": "Causes", "tails": [" from there", " from a different state", " from a different place"]}
+{"head": "From Everett, Washington", "relation": "xReason", "tails": [" from there to there", " from there", " from the ocean"]}
+{"head": "Everett", "relation": "ObjectUse", "tails": [" get a new job", " have a good time", " get a job"]}
+{"head": "Everett", "relation": "AtLocation", "tails": [" motel room", " school", " town"]}
+{"head": "Everett", "relation": "CapableOf", "tails": [" go to sleep", " go to bed", " go to the store"]}
+{"head": "Everett", "relation": "HasProperty", "tails": [" none", " one of the two brothers", " one of the three brothers"]}
+{"head": "Everett", "relation": "MadeUpOf", "tails": ["              ", "               ", "                "]}
+{"head": "Everett", "relation": "NotDesires", "tails": [" get in car accident", " none", " have to go to work"]}
+{"head": "Everett", "relation": "Desires", "tails": [" none", " get a new job", " get a job"]}

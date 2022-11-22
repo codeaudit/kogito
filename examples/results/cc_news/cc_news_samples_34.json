@@ -1,0 +1,55 @@
+{"head": "to declare", "relation": "HinderedBy", "tails": [" to declare", " to declare ", " to declare something"]}
+{"head": "to declare", "relation": "isBefore", "tails": [" to declare", " to declare something", " to declare "]}
+{"head": "to declare", "relation": "isAfter", "tails": [" to make a statement", " to be a leader", " to make a decision"]}
+{"head": "to declare", "relation": "HasSubEvent", "tails": [" to declare", " to declare ", " to declare something"]}
+{"head": "to declare", "relation": "Causes", "tails": [" to declare", " to make a statement", " to declare something"]}
+{"head": "to declare", "relation": "xReason", "tails": [" to make a statement", " to declare", " to be in power"]}
+{"head": "forthcoming Labour", "relation": "ObjectUse", "tails": [" get elected", " make a difference", " make a statement"]}
+{"head": "forthcoming Labour", "relation": "AtLocation", "tails": [" party", " election", " party conference"]}
+{"head": "forthcoming Labour", "relation": "CapableOf", "tails": [" vote for", " get elected", " vote for party"]}
+{"head": "forthcoming Labour", "relation": "HasProperty", "tails": [" important to the future of the country", " important to the future of the country.", " important to the future of the party"]}
+{"head": "forthcoming Labour", "relation": "MadeUpOf", "tails": [" party", " election", " party name"]}
+{"head": "forthcoming Labour", "relation": "NotDesires", "tails": [" party", " election", " have to do"]}
+{"head": "forthcoming Labour", "relation": "Desires", "tails": [" to be in power", " have a party", " none"]}
+{"head": "declare backing", "relation": "HinderedBy", "tails": [" declare support", " get a new job", " declare support for candidate"]}
+{"head": "declare backing", "relation": "isBefore", "tails": [" declare support for candidate", " make a speech", " declare support"]}
+{"head": "declare backing", "relation": "isAfter", "tails": [" declare support for candidate", " make a speech", " declare support"]}
+{"head": "declare backing", "relation": "HasSubEvent", "tails": [" make statement", " declare support", " make decision"]}
+{"head": "declare backing", "relation": "Causes", "tails": [" declare support", " declare support for candidate", " have a voice"]}
+{"head": "declare backing", "relation": "xReason", "tails": [" declare support", " support candidate", " support for cause"]}
+{"head": "backing", "relation": "ObjectUse", "tails": [" support a cause", " back up a story", " back up the story"]}
+{"head": "backing", "relation": "AtLocation", "tails": [" backseat of car", " front door", " front of car"]}
+{"head": "backing", "relation": "CapableOf", "tails": [" back up", " use as a weapon", " back up with"]}
+{"head": "backing", "relation": "HasProperty", "tails": [" supported by other people", " supported by others", " supported by"]}
+{"head": "backing", "relation": "MadeUpOf", "tails": [" backstop", " back", " backcloth"]}
+{"head": "backing", "relation": "NotDesires", "tails": [" back up", " support", " backseat"]}
+{"head": "backing", "relation": "Desires", "tails": [" back up", " support", " support from others"]}
+{"head": "Wrexham\u2019s Assembly Member Lesley Griffiths AM and Clwyd South AM Ken Skates have declared their backing for Mark Drakeford in the forthcoming Labour", "relation": "xAttr", "tails": [" hopeful", " political", " supportive"]}
+{"head": "Wrexham\u2019s Assembly Member Lesley Griffiths AM and Clwyd South AM Ken Skates have declared their backing for Mark Drakeford in the forthcoming Labour", "relation": "xWant", "tails": [" to support the candidate", " to campaign for the candidate", " to vote for the candidate"]}
+{"head": "Wrexham\u2019s Assembly Member Lesley Griffiths AM and Clwyd South AM Ken Skates have declared their backing for Mark Drakeford in the forthcoming Labour", "relation": "xNeed", "tails": [" to be a member of the assembly", " to be a member of a political party", " to be a member of the party"]}
+{"head": "Wrexham\u2019s Assembly Member Lesley Griffiths AM and Clwyd South AM Ken Skates have declared their backing for Mark Drakeford in the forthcoming Labour", "relation": "xEffect", "tails": [" get elected", " get elected to office", " get a new job"]}
+{"head": "Wrexham\u2019s Assembly Member Lesley Griffiths AM and Clwyd South AM Ken Skates have declared their backing for Mark Drakeford in the forthcoming Labour", "relation": "HinderedBy", "tails": [" Wrexham", " Wrexham's assembly members are all against Mark Drakeford.", " Wrexham's assembly members are all against the candidate."]}
+{"head": "Wrexham\u2019s Assembly Member Lesley Griffiths AM and Clwyd South AM Ken Skates have declared their backing for Mark Drakeford in the forthcoming Labour", "relation": "oWant", "tails": [" to support the candidate", " to vote for the candidate", " to vote for him"]}
+{"head": "Wrexham\u2019s Assembly Member Lesley Griffiths AM and Clwyd South AM Ken Skates have declared their backing for Mark Drakeford in the forthcoming Labour", "relation": "xReact", "tails": [" proud", " happy", " hopeful"]}
+{"head": "Wrexham\u2019s Assembly Member Lesley Griffiths AM and Clwyd South AM Ken Skates have declared their backing for Mark Drakeford in the forthcoming Labour", "relation": "oEffect", "tails": [" none", " get elected", " get a job"]}
+{"head": "Wrexham\u2019s Assembly Member Lesley Griffiths AM and Clwyd South AM Ken Skates have declared their backing for Mark Drakeford in the forthcoming Labour", "relation": "xIntent", "tails": [" to support a candidate", " to support the candidate", " to be a leader"]}
+{"head": "Wrexham\u2019s Assembly Member Lesley Griffiths AM and Clwyd South AM Ken Skates have declared their backing for Mark Drakeford in the forthcoming Labour", "relation": "oReact", "tails": [" none", " supported by others", " supported"]}
+{"head": "Wrexham\u2019s Assembly Member Lesley Griffiths AM and Clwyd South AM Ken Skates have declared their backing for Mark Drakeford in the forthcoming Labour", "relation": "isBefore", "tails": [" Wrexham's assembly members have declared their support for Mark Drakeford in the forthcoming election.", " Wrexham's assembly members have declared their support for Mark Drakeford in the forthcoming election", " Wrexham's assembly members have declared their support for Mark Drakeford."]}
+{"head": "Wrexham\u2019s Assembly Member Lesley Griffiths AM and Clwyd South AM Ken Skates have declared their backing for Mark Drakeford in the forthcoming Labour", "relation": "isAfter", "tails": [" Wrexham and Clwyd South AMs have declared their support for Mark Drakeford in the forthcoming election", " Wrexham and Clwyd South AMs have declared their support for Mark Drakeford.", " Wrexham and Clwyd South AMs have declared their support for the candidate."]}
+{"head": "Wrexham\u2019s Assembly Member Lesley Griffiths AM and Clwyd South AM Ken Skates have declared their backing for Mark Drakeford in the forthcoming Labour", "relation": "HasSubEvent", "tails": [" Wrexham's assembly members have declared their support for Mark Drakeford in the forthcoming election.", " Wrexham's assembly members have declared their support for Mark Drakeford.", " Wrexham's assembly members have declared their support for Mark Drakeford in the forthcoming election"]}
+{"head": "Wrexham\u2019s Assembly Member Lesley Griffiths AM and Clwyd South AM Ken Skates have declared their backing for Mark Drakeford in the forthcoming Labour", "relation": "Causes", "tails": [" hopeful", " supportive", " political"]}
+{"head": "Wrexham\u2019s Assembly Member Lesley Griffiths AM and Clwyd South AM Ken Skates have declared their backing for Mark Drakeford in the forthcoming Labour", "relation": "xReason", "tails": [" Wrexham's assembly members have declared their support for Mark Drakeford in the forthcoming election.", " Wrexham's assembly members have declared their support for Mark Drakeford in the forthcoming election", " Wrexham's assembly members have declared their support for Mark Drakeford."]}
+{"head": "Wrexham Assembly Member Lesley Griffiths Clwyd South Ken Skates", "relation": "ObjectUse", "tails": [" get to work on time", " get to work on time on time", " get to work on time."]}
+{"head": "Wrexham Assembly Member Lesley Griffiths Clwyd South Ken Skates", "relation": "AtLocation", "tails": [" Wrexham", " Wrexham Assembly", " Wrexham assembly member"]}
+{"head": "Wrexham Assembly Member Lesley Griffiths Clwyd South Ken Skates", "relation": "CapableOf", "tails": [" get on skates", " get on skateboard", " get exercise"]}
+{"head": "Wrexham Assembly Member Lesley Griffiths Clwyd South Ken Skates", "relation": "HasProperty", "tails": [" Wrexham assembly member", " Wrexham Assembly Member", " Wrexham Assembly"]}
+{"head": "Wrexham Assembly Member Lesley Griffiths Clwyd South Ken Skates", "relation": "MadeUpOf", "tails": [" Wrexham", " Wrexham assembly member", " Wrexham Assembly"]}
+{"head": "Wrexham Assembly Member Lesley Griffiths Clwyd South Ken Skates", "relation": "NotDesires", "tails": [" Wrexham Assembly", " Wrexham assembly member", " Wrexham Assembly Member"]}
+{"head": "Wrexham Assembly Member Lesley Griffiths Clwyd South Ken Skates", "relation": "Desires", "tails": [" get exercise", " have fun", " to be elected"]}
+{"head": "Mark Drakeford", "relation": "ObjectUse", "tails": [" mark a spot on a map", " mark a spot on the map", " mark the date of the event"]}
+{"head": "Mark Drakeford", "relation": "AtLocation", "tails": [" school", " car", " movie theater"]}
+{"head": "Mark Drakeford", "relation": "CapableOf", "tails": [" write a book", " get a job", " write a novel"]}
+{"head": "Mark Drakeford", "relation": "HasProperty", "tails": [" Mark Drakeford", " none", " one of the best"]}
+{"head": "Mark Drakeford", "relation": "MadeUpOf", "tails": [" Mark Drakeford", " Mark Drakeford's car", " Mark Drakeford and his wife"]}
+{"head": "Mark Drakeford", "relation": "NotDesires", "tails": [" none", " have to go to the doctor", " have to go to work"]}
+{"head": "Mark Drakeford", "relation": "Desires", "tails": [" none", " to make money", " to be a leader"]}

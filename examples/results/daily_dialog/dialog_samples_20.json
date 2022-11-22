@@ -1,0 +1,186 @@
+{"head": "to wait", "relation": "HinderedBy", "tails": [" to wait", " to wait ", " to wait  to wait"]}
+{"head": "to wait", "relation": "isBefore", "tails": [" to wait", " have to wait", " to wait for something"]}
+{"head": "to wait", "relation": "isAfter", "tails": [" have to wait", " to be patient", " to wait"]}
+{"head": "to wait", "relation": "HasSubEvent", "tails": [" to wait", " have to wait", " to wait "]}
+{"head": "to wait", "relation": "Causes", "tails": [" have to wait", " to wait", " have to wait for"]}
+{"head": "to wait", "relation": "xReason", "tails": [" have to wait", " to wait", " have to wait for"]}
+{"head": "to send", "relation": "HinderedBy", "tails": [" to send", " to send ", " to send  to someone"]}
+{"head": "to send", "relation": "isBefore", "tails": [" to send", " to send a letter", " to send to person"]}
+{"head": "to send", "relation": "isAfter", "tails": [" to send", " mail box", " mail"]}
+{"head": "to send", "relation": "HasSubEvent", "tails": [" to send", " to send  to  send ", " to send  to  send"]}
+{"head": "to send", "relation": "Causes", "tails": [" to send", " to send to person", " to send to someone"]}
+{"head": "to send", "relation": "xReason", "tails": [" to send", " to send to person", " to send a letter"]}
+{"head": "to have", "relation": "HinderedBy", "tails": [" to have", " to have ", " to have  to have"]}
+{"head": "to have", "relation": "isBefore", "tails": [" to have", " to have ", " to have  a good time"]}
+{"head": "to have", "relation": "isAfter", "tails": [" to have something to eat", " to have", " to have something to drink"]}
+{"head": "to have", "relation": "HasSubEvent", "tails": [" to have", " to have ", " to have  have"]}
+{"head": "to have", "relation": "Causes", "tails": [" to have", " to have ", " to have  "]}
+{"head": "to have", "relation": "xReason", "tails": [" to have", " to have something to eat", " to have "]}
+{"head": "to do", "relation": "HinderedBy", "tails": [" to do", " to do ", " to do  to do "]}
+{"head": "to do", "relation": "isBefore", "tails": [" to do", " have to do", " to do "]}
+{"head": "to do", "relation": "isAfter", "tails": [" to do", " have to do", " to do something"]}
+{"head": "to do", "relation": "HasSubEvent", "tails": [" to do", " to do ", " get out of bed"]}
+{"head": "to do", "relation": "Causes", "tails": [" to do", " have to do", " to do "]}
+{"head": "to do", "relation": "xReason", "tails": [" to do", " have to do", " to do "]}
+{"head": "to break", "relation": "HinderedBy", "tails": [" to break", " to break ", " to break  to break "]}
+{"head": "to break", "relation": "isBefore", "tails": [" to break", " to break something", " to break "]}
+{"head": "to break", "relation": "isAfter", "tails": [" to break", " to break something", " to break the glass"]}
+{"head": "to break", "relation": "HasSubEvent", "tails": [" to break", " to break  break ", " to break "]}
+{"head": "to break", "relation": "Causes", "tails": [" to break", " to break ", " to break  to break"]}
+{"head": "to break", "relation": "xReason", "tails": [" to break", " to break something", " to break "]}
+{"head": "to be", "relation": "HinderedBy", "tails": [" to be", " to be ", " to be a good person"]}
+{"head": "to be", "relation": "isBefore", "tails": [" to be", " to be a good person", " to be a good friend"]}
+{"head": "to be", "relation": "isAfter", "tails": [" to be", " to be good", " to be a leader"]}
+{"head": "to be", "relation": "HasSubEvent", "tails": [" to be", " to be ", " to be  happy"]}
+{"head": "to be", "relation": "Causes", "tails": [" to be", " to be a good person", " to be  good"]}
+{"head": "to be", "relation": "xReason", "tails": [" to be good at what they do", " to be", " to be a good person"]}
+{"head": "sir", "relation": "ObjectUse", "tails": [" ask for a favor", " ask for help", " be a good friend"]}
+{"head": "sir", "relation": "AtLocation", "tails": [" office building", " office", " desk"]}
+{"head": "sir", "relation": "CapableOf", "tails": [" talk to", " ask for permission", " ask questions"]}
+{"head": "sir", "relation": "HasProperty", "tails": [" none", " one of many", " one of the two"]}
+{"head": "sir", "relation": "MadeUpOf", "tails": [" sir", " sire", " sir's name"]}
+{"head": "sir", "relation": "NotDesires", "tails": [" none", " have a conversation with", " have to answer questions"]}
+{"head": "sir", "relation": "Desires", "tails": [" none", " respect", " good job"]}
+{"head": "service", "relation": "ObjectUse", "tails": [" provide to the customer", " get a job done", " provide to customers"]}
+{"head": "service", "relation": "AtLocation", "tails": [" service station", " restaurant", " hotel"]}
+{"head": "service", "relation": "CapableOf", "tails": [" serve customers", " provide service", " serve people"]}
+{"head": "service", "relation": "HasProperty", "tails": [" good for business", " needed for business", " needed for work"]}
+{"head": "service", "relation": "MadeUpOf", "tails": [" service", " customer service", " service line"]}
+{"head": "service", "relation": "NotDesires", "tails": [" wait in line", " wait for service", " wait in line for"]}
+{"head": "service", "relation": "Desires", "tails": [" good service", " provide service", " service"]}
+{"head": "send someone", "relation": "HinderedBy", "tails": [" send a message", " send a message to someone", " send someone to someone else"]}
+{"head": "send someone", "relation": "isBefore", "tails": [" send a message", " send a letter", " send someone to someone"]}
+{"head": "send someone", "relation": "isAfter", "tails": [" send a message", " send a letter", " receive a message"]}
+{"head": "send someone", "relation": "HasSubEvent", "tails": [" send a message", " send a letter", " receive reply"]}
+{"head": "send someone", "relation": "Causes", "tails": [" send a message", " send a letter", " send someone to someone"]}
+{"head": "send someone", "relation": "xReason", "tails": [" send a message", " send a letter", " send someone to someone"]}
+{"head": "outlets", "relation": "ObjectUse", "tails": [" wear to work", " buy things from", " buy clothes at"]}
+{"head": "outlets", "relation": "AtLocation", "tails": [" mall", " shopping mall", " shopping center"]}
+{"head": "outlets", "relation": "CapableOf", "tails": [" buy things online", " buy things from", " buy things at"]}
+{"head": "outlets", "relation": "HasProperty", "tails": [" found in many stores", " found in many places", " found in stores"]}
+{"head": "outlets", "relation": "MadeUpOf", "tails": [" store", " clothing stores", " storefronts"]}
+{"head": "outlets", "relation": "NotDesires", "tails": [" have to pay for", " have to pay rent", " have to pay for things"]}
+{"head": "outlets", "relation": "Desires", "tails": [" buy things online", " buy things from", " buy clothes at"]}
+{"head": "minute", "relation": "ObjectUse", "tails": [" take a shower", " take a nap", " take a nap in"]}
+{"head": "minute", "relation": "AtLocation", "tails": [" clock", " room", " time"]}
+{"head": "minute", "relation": "CapableOf", "tails": [" watch tv", " wait for doctor", " watch movie"]}
+{"head": "minute", "relation": "HasProperty", "tails": [" one hour", " found in clock", " one second"]}
+{"head": "minute", "relation": "MadeUpOf", "tails": [" clock", " minute", " time"]}
+{"head": "minute", "relation": "NotDesires", "tails": [" short of time", " have to wait", " have to wait for"]}
+{"head": "minute", "relation": "Desires", "tails": [" have time to do something", " have time to do it", " have time to do something else"]}
+{"head": "have 6", "relation": "HinderedBy", "tails": [" have more than one", " have a lot of friends", " have a lot of children"]}
+{"head": "have 6", "relation": "isBefore", "tails": [" have lots of friends", " have many children", " have lots of fun"]}
+{"head": "have 6", "relation": "isAfter", "tails": [" have lots of friends", " have a lot of friends", " have many children"]}
+{"head": "have 6", "relation": "HasSubEvent", "tails": [" have more than one", " have many friends", " have more than one child"]}
+{"head": "have 6", "relation": "Causes", "tails": [" have more than one", " have a lot of friends", " have many children"]}
+{"head": "have 6", "relation": "xReason", "tails": [" have a lot of friends", " have more than one", " have more than one child"]}
+{"head": "be outlets", "relation": "HinderedBy", "tails": [" be able to use the internet", " be able to watch tv", " be able to watch tv at night"]}
+{"head": "be outlets", "relation": "isBefore", "tails": [" be able to play video games", " be able to play music", " power"]}
+{"head": "be outlets", "relation": "isAfter", "tails": [" radio station", " internet", " radio stations"]}
+{"head": "be outlets", "relation": "HasSubEvent", "tails": [" find out what's going on", " find out more about it", " use as a weapon"]}
+{"head": "be outlets", "relation": "Causes", "tails": [" be able to play video games", " power", " be able to play music"]}
+{"head": "be outlets", "relation": "xReason", "tails": [" be able to watch tv", " be able to use internet", " be able to see tv"]}
+{"head": "Yes , but 4 of them are broken .", "relation": "xAttr", "tails": [" broken", " hurt", " hurtful"]}
+{"head": "Yes , but 4 of them are broken .", "relation": "xWant", "tails": [" to fix them", " to fix it", " to fix the broken ones"]}
+{"head": "Yes , but 4 of them are broken .", "relation": "xNeed", "tails": [" none", " to have broken something", " to have broken them"]}
+{"head": "Yes , but 4 of them are broken .", "relation": "xEffect", "tails": [" none", " is broken again", " is broken"]}
+{"head": "Yes , but 4 of them are broken .", "relation": "HinderedBy", "tails": [" none", " yes they are broken", " yes"]}
+{"head": "Yes , but 4 of them are broken .", "relation": "oWant", "tails": [" none", " to fix them", " to fix it"]}
+{"head": "Yes , but 4 of them are broken .", "relation": "xReact", "tails": [" none", " broken", " hurt"]}
+{"head": "Yes , but 4 of them are broken .", "relation": "oEffect", "tails": [" none", " get a new one", " they get a new one"]}
+{"head": "Yes , but 4 of them are broken .", "relation": "xIntent", "tails": [" none", " to be repaired", " to be broken"]}
+{"head": "Yes , but 4 of them are broken .", "relation": "oReact", "tails": [" none", " hurt", " broken"]}
+{"head": "Yes , but 4 of them are broken .", "relation": "isBefore", "tails": [" none", " yes they are broken", " yes"]}
+{"head": "Yes , but 4 of them are broken .", "relation": "isAfter", "tails": [" none", " yes", " they are broken"]}
+{"head": "Yes , but 4 of them are broken .", "relation": "HasSubEvent", "tails": [" none", " get a new one", " get a bandaid"]}
+{"head": "Yes , but 4 of them are broken .", "relation": "Causes", "tails": [" none", " yes", " yes they are broken"]}
+{"head": "Yes , but 4 of them are broken .", "relation": "xReason", "tails": [" none", " yes", " yes they are broken"]}
+{"head": "Yes , I am afraid there are not enough outlets .", "relation": "xAttr", "tails": [" worried", " scared", " afraid"]}
+{"head": "Yes , I am afraid there are not enough outlets .", "relation": "xWant", "tails": [" to make sure there are enough outlets", " to make sure there are enough outlets.", " to make sure they have enough outlets"]}
+{"head": "Yes , I am afraid there are not enough outlets .", "relation": "xNeed", "tails": [" none", " to have a lot of outlets", " to have a lot of power"]}
+{"head": "Yes , I am afraid there are not enough outlets .", "relation": "xEffect", "tails": [" none", " get a new outlet", " get a new one"]}
+{"head": "Yes , I am afraid there are not enough outlets .", "relation": "HinderedBy", "tails": [" There are too many outlets.", " none", " There are too many people around."]}
+{"head": "Yes , I am afraid there are not enough outlets .", "relation": "oWant", "tails": [" none", " to get a new outlet", " to find more outlets"]}
+{"head": "Yes , I am afraid there are not enough outlets .", "relation": "xReact", "tails": [" worried", " none", " frustrated"]}
+{"head": "Yes , I am afraid there are not enough outlets .", "relation": "oEffect", "tails": [" none", " have to go to the store", " have to go to the bathroom"]}
+{"head": "Yes , I am afraid there are not enough outlets .", "relation": "xIntent", "tails": [" none", " to be able to use the outlet", " to be able to use it"]}
+{"head": "Yes , I am afraid there are not enough outlets .", "relation": "oReact", "tails": [" none", " frustrated", " frustrated."]}
+{"head": "Yes , I am afraid there are not enough outlets .", "relation": "isBefore", "tails": [" none", " have too many outlets", " have to buy more"]}
+{"head": "Yes , I am afraid there are not enough outlets .", "relation": "isAfter", "tails": [" none", " have too many outlets", " have to buy more"]}
+{"head": "Yes , I am afraid there are not enough outlets .", "relation": "HasSubEvent", "tails": [" none", " get a new outlet", " have to buy more"]}
+{"head": "Yes , I am afraid there are not enough outlets .", "relation": "Causes", "tails": [" none", " yes", " they have too many"]}
+{"head": "Yes , I am afraid there are not enough outlets .", "relation": "xReason", "tails": [" none", " yes", " they have too many"]}
+{"head": "Well , we have 6 for each room .", "relation": "xAttr", "tails": [" well-liked", " well-used", " well-organized"]}
+{"head": "Well , we have 6 for each room .", "relation": "xWant", "tails": [" to have a place to sleep", " to put them in the closet", " to have a place to put them"]}
+{"head": "Well , we have 6 for each room .", "relation": "xNeed", "tails": [" none", " to make a plan", " to have a room"]}
+{"head": "Well , we have 6 for each room .", "relation": "xEffect", "tails": [" none", " gets dirty", " well done"]}
+{"head": "Well , we have 6 for each room .", "relation": "HinderedBy", "tails": [" well , we have 6 for each room.", " well , we have 6 for each room", " well , we don't have enough room."]}
+{"head": "Well , we have 6 for each room .", "relation": "oWant", "tails": [" none", " to use the room", " to use them"]}
+{"head": "Well , we have 6 for each room .", "relation": "xReact", "tails": [" happy", " good", " well organized"]}
+{"head": "Well , we have 6 for each room .", "relation": "oEffect", "tails": [" none", " have a place to sleep", " have a place to sit"]}
+{"head": "Well , we have 6 for each room .", "relation": "xIntent", "tails": [" none", " to have a place to sleep", " to have a place to sit"]}
+{"head": "Well , we have 6 for each room .", "relation": "oReact", "tails": [" none", " happy to have a place to live", " happy to have a place to live."]}
+{"head": "Well , we have 6 for each room .", "relation": "isBefore", "tails": [" well , we have 6 for each room .             ", " well , we have 6 for each room", " well , we have 6 for each room .            "]}
+{"head": "Well , we have 6 for each room .", "relation": "isAfter", "tails": [" well , we have 6 for each room .             ", " well , we have 6 for each room .            ", " well , we have 6 for each room .           "]}
+{"head": "Well , we have 6 for each room .", "relation": "HasSubEvent", "tails": [" none", " have more space", " have more room"]}
+{"head": "Well , we have 6 for each room .", "relation": "Causes", "tails": [" well , we have 6 for each room .             ", " well , we have 6 for each room .            ", " well , we have 6 for each room .           "]}
+{"head": "Well , we have 6 for each room .", "relation": "xReason", "tails": [" well , we have 6 for each room .             ", " well , we have 6 for each room .            ", " well , we have 6 for each room .           "]}
+{"head": "Room service , is there anything I can do for you ?", "relation": "xAttr", "tails": [" helpful", " friendly", " hungry"]}
+{"head": "Room service , is there anything I can do for you ?", "relation": "xWant", "tails": [" to make sure the room is clean", " to make sure the room is ready for guests", " to make sure the room is clean."]}
+{"head": "Room service , is there anything I can do for you ?", "relation": "xNeed", "tails": [" to be in a hotel", " to be in the room", " to be in a hotel room"]}
+{"head": "Room service , is there anything I can do for you ?", "relation": "xEffect", "tails": [" gets a tip", " gets thanked", " is asked to leave"]}
+{"head": "Room service , is there anything I can do for you ?", "relation": "HinderedBy", "tails": [" I am not allowed to leave the room.", " I am not allowed in the room.", " I am not allowed in the hotel."]}
+{"head": "Room service , is there anything I can do for you ?", "relation": "oWant", "tails": [" to thank me for the service", " to thank me", " to thank me for the service."]}
+{"head": "Room service , is there anything I can do for you ?", "relation": "xReact", "tails": [" helpful", " happy", " good"]}
+{"head": "Room service , is there anything I can do for you ?", "relation": "oEffect", "tails": [" none", " get a drink", " get food delivered"]}
+{"head": "Room service , is there anything I can do for you ?", "relation": "xIntent", "tails": [" to be helpful", " to be helpful.", " to help someone"]}
+{"head": "Room service , is there anything I can do for you ?", "relation": "oReact", "tails": [" none", " happy", " grateful"]}
+{"head": "Room service , is there anything I can do for you ?", "relation": "isBefore", "tails": [" PersonY asks PersonY if there is anything else they can do for them", " PersonY asks PersonY if there is anything else they can do for them.", " PersonY asks PersonY if there is anything else they can do for PersonY"]}
+{"head": "Room service , is there anything I can do for you ?", "relation": "isAfter", "tails": [" PersonY asks PersonY if there is anything else they can do for them", " PersonY asks PersonY if there is anything else they can do for them.", " PersonY asks PersonY if there is anything else they can do for PersonY"]}
+{"head": "Room service , is there anything I can do for you ?", "relation": "HasSubEvent", "tails": [" get a drink of water", " get food delivered to the room", " get a drink"]}
+{"head": "Room service , is there anything I can do for you ?", "relation": "Causes", "tails": [" have a meal delivered to their room", " have a good time at the hotel", " have a good time"]}
+{"head": "Room service , is there anything I can do for you ?", "relation": "xReason", "tails": [" have a good time", " they are hungry", " have a good meal"]}
+{"head": "Room service", "relation": "ObjectUse", "tails": [" order food", " order a meal", " get a drink"]}
+{"head": "Room service", "relation": "AtLocation", "tails": [" hotel room", " hotel", " room"]}
+{"head": "Room service", "relation": "CapableOf", "tails": [" order room service", " order food", " order food for guests"]}
+{"head": "Room service", "relation": "HasProperty", "tails": [" delivered to room", " served to guests", " served in room"]}
+{"head": "Room service", "relation": "MadeUpOf", "tails": [" room", " room service", " hotel room"]}
+{"head": "Room service", "relation": "NotDesires", "tails": [" get food delivered to room", " get food delivered to your room", " get food delivered"]}
+{"head": "Room service", "relation": "Desires", "tails": [" have food delivered", " order food", " have food to eat"]}
+{"head": "Room", "relation": "ObjectUse", "tails": [" have a place to sleep", " have a place to sleep at night", " have a place to sleep in"]}
+{"head": "Room", "relation": "AtLocation", "tails": [" hotel", " motel", " room"]}
+{"head": "Room", "relation": "CapableOf", "tails": [" sit in", " sleep in", " sit on bed"]}
+{"head": "Room", "relation": "HasProperty", "tails": [" found in hotel", " found in hotel rooms", " found in many homes"]}
+{"head": "Room", "relation": "MadeUpOf", "tails": [" room", " hotel room", " room door"]}
+{"head": "Room", "relation": "NotDesires", "tails": [" have to sleep in", " hotel room", " room with no windows"]}
+{"head": "Room", "relation": "Desires", "tails": [" room", " living room", " room to sleep"]}
+{"head": "OK sir , please wait a minute .", "relation": "xAttr", "tails": [" patient", " impatient", " slow"]}
+{"head": "OK sir , please wait a minute .", "relation": "xWant", "tails": [" to wait for someone else", " to wait for the other person", " to wait for someone else to come"]}
+{"head": "OK sir , please wait a minute .", "relation": "xNeed", "tails": [" none", " to be in a meeting", " to be in a hurry"]}
+{"head": "OK sir , please wait a minute .", "relation": "xEffect", "tails": [" none", " gets yelled at", " waits for someone else"]}
+{"head": "OK sir , please wait a minute .", "relation": "HinderedBy", "tails": [" OK", "OK", " OK."]}
+{"head": "OK sir , please wait a minute .", "relation": "oWant", "tails": [" none", " to be left alone", " to wait for someone else"]}
+{"head": "OK sir , please wait a minute .", "relation": "xReact", "tails": [" relieved", " satisfied", " good"]}
+{"head": "OK sir , please wait a minute .", "relation": "oEffect", "tails": [" none", " wait for a minute", " wait for a response"]}
+{"head": "OK sir , please wait a minute .", "relation": "xIntent", "tails": [" to be patient", " none", " to be left alone"]}
+{"head": "OK sir , please wait a minute .", "relation": "oReact", "tails": [" none", " annoyed", " relieved"]}
+{"head": "OK sir , please wait a minute .", "relation": "isBefore", "tails": [" PersonY asks PersonY why they are waiting.", " PersonY asks PersonY why they are waiting so long.", " PersonY asks PersonY why they are waiting so long"]}
+{"head": "OK sir , please wait a minute .", "relation": "isAfter", "tails": [" PersonY asks PersonY if they can wait a minute.", " PersonY asks PersonY to leave the room.", " PersonY asks PersonY if they can go home."]}
+{"head": "OK sir , please wait a minute .", "relation": "HasSubEvent", "tails": [" none", " wait for someone else", " wait for someone to come"]}
+{"head": "OK sir , please wait a minute .", "relation": "Causes", "tails": [" OK", "OK", " OK."]}
+{"head": "OK sir , please wait a minute .", "relation": "xReason", "tails": [" they have to go to the bathroom", " OK", " they have to go to work"]}
+{"head": "Can you send someone here ?", "relation": "xAttr", "tails": [" helpful", " needy", " responsible"]}
+{"head": "Can you send someone here ?", "relation": "xWant", "tails": [" to go to the hospital", " to go home", " to get a job done"]}
+{"head": "Can you send someone here ?", "relation": "xNeed", "tails": [" to ask for help", " ask for help", " to ask for a favor"]}
+{"head": "Can you send someone here ?", "relation": "xEffect", "tails": [" can't afford to pay for it", " can't find someone to send", " none"]}
+{"head": "Can you send someone here ?", "relation": "HinderedBy", "tails": [" can't find a way to get there", " can't find anyone to send", " can't find someone to send"]}
+{"head": "Can you send someone here ?", "relation": "oWant", "tails": [" to ask for help", " to ask for a favor", " to get a job done"]}
+{"head": "Can you send someone here ?", "relation": "xReact", "tails": [" helpful", " happy", " good"]}
+{"head": "Can you send someone here ?", "relation": "oEffect", "tails": [" none", " can't get there", " can't get to person"]}
+{"head": "Can you send someone here ?", "relation": "xIntent", "tails": [" to be helpful", " to help", " to help someone"]}
+{"head": "Can you send someone here ?", "relation": "oReact", "tails": [" none", " happy", " grateful"]}
+{"head": "Can you send someone here ?", "relation": "isBefore", "tails": [" can't find someone to send", " can't afford to pay for it", " can't find someone to help"]}
+{"head": "Can you send someone here ?", "relation": "isAfter", "tails": [" can't find someone to send", " can't find anyone to send", " can't find anyone to help"]}
+{"head": "Can you send someone here ?", "relation": "HasSubEvent", "tails": [" ask for help", " can't get there", " can't get to person"]}
+{"head": "Can you send someone here ?", "relation": "Causes", "tails": [" can't find someone to send", " can't find anyone to send", " can't find someone"]}
+{"head": "Can you send someone here ?", "relation": "xReason", "tails": [" can't find someone to send", " can't afford to pay for it", " can't afford to send someone"]}

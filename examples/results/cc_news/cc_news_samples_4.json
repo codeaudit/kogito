@@ -1,0 +1,113 @@
+{"head": "water", "relation": "ObjectUse", "tails": [" water plants", " water plant", " drink"]}
+{"head": "water", "relation": "AtLocation", "tails": [" water fountain", " water cooler", " water bottle"]}
+{"head": "water", "relation": "CapableOf", "tails": [" water plants", " water plant", " drink"]}
+{"head": "water", "relation": "HasProperty", "tails": [" found in ocean", " water", " found in oceans"]}
+{"head": "water", "relation": "MadeUpOf", "tails": [" water", " watermelon", " water bottle"]}
+{"head": "water", "relation": "NotDesires", "tails": [" water", " water to drink", " water boils"]}
+{"head": "water", "relation": "Desires", "tails": [" water to drink", " water", " water plants"]}
+{"head": "to quit", "relation": "HinderedBy", "tails": [" to quit", " to quit ", " get a new job"]}
+{"head": "to quit", "relation": "isBefore", "tails": [" get a new job", " to quit", " get fired"]}
+{"head": "to quit", "relation": "isAfter", "tails": [" to get a new job", " get fired", " get fired from job"]}
+{"head": "to quit", "relation": "HasSubEvent", "tails": [" to quit", " quit job", " get fired"]}
+{"head": "to quit", "relation": "Causes", "tails": [" to quit", " quit job", " get fired"]}
+{"head": "to quit", "relation": "xReason", "tails": [" to quit", " get fired", " quit job"]}
+{"head": "to force", "relation": "HinderedBy", "tails": [" to force", " to force ", " to force something"]}
+{"head": "to force", "relation": "isBefore", "tails": [" to force someone to do something", " to force", " to force something to happen"]}
+{"head": "to force", "relation": "isAfter", "tails": [" power", " to force", " force to do"]}
+{"head": "to force", "relation": "HasSubEvent", "tails": [" to force", " to force  force  force  force", " to force  force  force"]}
+{"head": "to force", "relation": "Causes", "tails": [" to force  force  force  force  force  force  force  force", " to force  force  force  force  force  force  force", " to force  force  force  force  force  force"]}
+{"head": "to force", "relation": "xReason", "tails": [" to force", " force to do something", " to force to do something"]}
+{"head": "to fish", "relation": "HinderedBy", "tails": [" to fish", " to fish for food", " to fish  for food"]}
+{"head": "to fish", "relation": "isBefore", "tails": [" to catch fish", " to fish for food", " to fish"]}
+{"head": "to fish", "relation": "isAfter", "tails": [" to catch fish", " fish for dinner", " to fish for food"]}
+{"head": "to fish", "relation": "HasSubEvent", "tails": [" catch fish", " to fish", " to catch fish"]}
+{"head": "to fish", "relation": "Causes", "tails": [" to fish", " to fish for food", " to fish for dinner"]}
+{"head": "to fish", "relation": "xReason", "tails": [" to fish for food", " to fish", " to catch fish"]}
+{"head": "to crowd", "relation": "HinderedBy", "tails": [" to crowd", " to crowd ", " to crowd  to crowd"]}
+{"head": "to crowd", "relation": "isBefore", "tails": [" to crowd", " to crowd to crowd", " to crowd of people"]}
+{"head": "to crowd", "relation": "isAfter", "tails": [" to crowd", " to crowd to crowd", " to crowd of people"]}
+{"head": "to crowd", "relation": "HasSubEvent", "tails": [" to crowd", " make noise", " to crowd "]}
+{"head": "to crowd", "relation": "Causes", "tails": [" to crowd", " to crowd of people", " to crowd to crowd"]}
+{"head": "to crowd", "relation": "xReason", "tails": [" to crowd", " to crowd of people", " to crowd to crowd"]}
+{"head": "quit Job", "relation": "HinderedBy", "tails": [" get a new job", " quit job", " get new job"]}
+{"head": "quit Job", "relation": "isBefore", "tails": [" get a new job", " get new job", " get fired"]}
+{"head": "quit Job", "relation": "isAfter", "tails": [" get a new job", " get fired", " get fired from job"]}
+{"head": "quit Job", "relation": "HasSubEvent", "tails": [" get a new job", " get new job", " get fired"]}
+{"head": "quit Job", "relation": "Causes", "tails": [" get a new job", " get fired", " get fired from job"]}
+{"head": "quit Job", "relation": "xReason", "tails": [" get a new job", " get new job", " get fired"]}
+{"head": "obstacles", "relation": "ObjectUse", "tails": [" use as a weapon", " use as a door stop", " use as a doorstop"]}
+{"head": "obstacles", "relation": "AtLocation", "tails": [" wall", " car", " bicycle path"]}
+{"head": "obstacles", "relation": "CapableOf", "tails": [" walk on", " climb over", " walk over"]}
+{"head": "obstacles", "relation": "HasProperty", "tails": [" made up of", " made up of many different things", " made up of many things"]}
+{"head": "obstacles", "relation": "MadeUpOf", "tails": [" wall", " obstacle", " feet"]}
+{"head": "obstacles", "relation": "NotDesires", "tails": [" have to climb over", " have to climb", " have to walk over"]}
+{"head": "obstacles", "relation": "Desires", "tails": [" make it easier to get around", " make it easier to get through", " make it easier to walk"]}
+{"head": "force fleet", "relation": "HinderedBy", "tails": [" command and control", " command and control of military forces", " command and control of force fleet"]}
+{"head": "force fleet", "relation": "isBefore", "tails": [" ship", " seaplanes", " shipboard"]}
+{"head": "force fleet", "relation": "isAfter", "tails": [" ship", " sea", " shipyard"]}
+{"head": "force fleet", "relation": "HasSubEvent", "tails": [" ship to shore", " ship to port", " fight war"]}
+{"head": "force fleet", "relation": "Causes", "tails": [" sea battleships", " sea", " seaplanes"]}
+{"head": "force fleet", "relation": "xReason", "tails": [" sea", " ship", " seaplanes"]}
+{"head": "fleet", "relation": "ObjectUse", "tails": [" sail in the ocean", " sail in the sea", " sail the ocean"]}
+{"head": "fleet", "relation": "AtLocation", "tails": [" shipyard", " sea", " ocean"]}
+{"head": "fleet", "relation": "CapableOf", "tails": [" sail ship", " sail in ocean", " sail ships"]}
+{"head": "fleet", "relation": "HasProperty", "tails": [" sailing ship", " sailing ships", " shipboard"]}
+{"head": "fleet", "relation": "MadeUpOf", "tails": [" shipboard", " ship's hull", " sail"]}
+{"head": "fleet", "relation": "NotDesires", "tails": [" ship to sink", " sailboat", " ship to crash"]}
+{"head": "fleet", "relation": "Desires", "tails": [" sailboat", " ship", " sailboats"]}
+{"head": "fishermen", "relation": "ObjectUse", "tails": [" catch fish", " catch fish for dinner", " fish in the ocean"]}
+{"head": "fishermen", "relation": "AtLocation", "tails": [" fishing boat", " boat", " fishing boats"]}
+{"head": "fishermen", "relation": "CapableOf", "tails": [" catch fish", " fish for fish", " fish for food"]}
+{"head": "fishermen", "relation": "HasProperty", "tails": [" fishing boat", " fish", " fishing boats"]}
+{"head": "fishermen", "relation": "MadeUpOf", "tails": [" fish", " fishing boat", " catch fish"]}
+{"head": "fishermen", "relation": "NotDesires", "tails": [" catch fish", " fish for dinner", " fish"]}
+{"head": "fishermen", "relation": "Desires", "tails": [" catch fish", " fish for dinner", " catch fish for dinner"]}
+{"head": "crowd water", "relation": "HinderedBy", "tails": [" water balloons", " water fountain", " water balloon"]}
+{"head": "crowd water", "relation": "isBefore", "tails": [" water balloons", " water balloon", " water fountain"]}
+{"head": "crowd water", "relation": "isAfter", "tails": [" water balloon", " water balloons", " water fountain"]}
+{"head": "crowd water", "relation": "HasSubEvent", "tails": [" drink", " drink from fountain", " get wet"]}
+{"head": "crowd water", "relation": "Causes", "tails": [" water balloons", " water", " water to drink"]}
+{"head": "crowd water", "relation": "xReason", "tails": [" water balloons", " water balloon", " water fountain"]}
+{"head": "Wicked Tuna - Don\u2019t Quit Your Day Job: Inexperienced fishermen crowd the water, forcing the fleet to fish through obstacles.", "relation": "xAttr", "tails": [" skilled", " brave", " scared"]}
+{"head": "Wicked Tuna - Don\u2019t Quit Your Day Job: Inexperienced fishermen crowd the water, forcing the fleet to fish through obstacles.", "relation": "xWant", "tails": [" to get a new job", " to get a better job", " to get a job"]}
+{"head": "Wicked Tuna - Don\u2019t Quit Your Day Job: Inexperienced fishermen crowd the water, forcing the fleet to fish through obstacles.", "relation": "xNeed", "tails": [" to have a job", " get a fishing license", " get a fishing pole"]}
+{"head": "Wicked Tuna - Don\u2019t Quit Your Day Job: Inexperienced fishermen crowd the water, forcing the fleet to fish through obstacles.", "relation": "xEffect", "tails": [" lose money", " get tired", " get caught"]}
+{"head": "Wicked Tuna - Don\u2019t Quit Your Day Job: Inexperienced fishermen crowd the water, forcing the fleet to fish through obstacles.", "relation": "HinderedBy", "tails": [" Wants to be a good fisherman.", " Wants to be a good fisherman", " Wants to be a fisherman."]}
+{"head": "Wicked Tuna - Don\u2019t Quit Your Day Job: Inexperienced fishermen crowd the water, forcing the fleet to fish through obstacles.", "relation": "oWant", "tails": [" to get a better job", " to catch the fish", " to get a job"]}
+{"head": "Wicked Tuna - Don\u2019t Quit Your Day Job: Inexperienced fishermen crowd the water, forcing the fleet to fish through obstacles.", "relation": "xReact", "tails": [" scared", " tired", " happy"]}
+{"head": "Wicked Tuna - Don\u2019t Quit Your Day Job: Inexperienced fishermen crowd the water, forcing the fleet to fish through obstacles.", "relation": "oEffect", "tails": [" none", " get tired", " get caught"]}
+{"head": "Wicked Tuna - Don\u2019t Quit Your Day Job: Inexperienced fishermen crowd the water, forcing the fleet to fish through obstacles.", "relation": "xIntent", "tails": [" to make money", " to make a living", " to get a better job"]}
+{"head": "Wicked Tuna - Don\u2019t Quit Your Day Job: Inexperienced fishermen crowd the water, forcing the fleet to fish through obstacles.", "relation": "oReact", "tails": [" none", " scared", " frustrated"]}
+{"head": "Wicked Tuna - Don\u2019t Quit Your Day Job: Inexperienced fishermen crowd the water, forcing the fleet to fish through obstacles.", "relation": "isBefore", "tails": [" Wants to get out of the water.", " Wants to get out of the water", " Wants to get out of the way."]}
+{"head": "Wicked Tuna - Don\u2019t Quit Your Day Job: Inexperienced fishermen crowd the water, forcing the fleet to fish through obstacles.", "relation": "isAfter", "tails": [" get a new job", " fish in the ocean", " fish in the water"]}
+{"head": "Wicked Tuna - Don\u2019t Quit Your Day Job: Inexperienced fishermen crowd the water, forcing the fleet to fish through obstacles.", "relation": "HasSubEvent", "tails": [" catch a lot of fish", " catch a big fish", " catch a lot of fish."]}
+{"head": "Wicked Tuna - Don\u2019t Quit Your Day Job: Inexperienced fishermen crowd the water, forcing the fleet to fish through obstacles.", "relation": "Causes", "tails": [" fishy", " scared", " tired"]}
+{"head": "Wicked Tuna - Don\u2019t Quit Your Day Job: Inexperienced fishermen crowd the water, forcing the fleet to fish through obstacles.", "relation": "xReason", "tails": [" fish in the water", " fish in the ocean", " fish in the water."]}
+{"head": "Wicked Tuna", "relation": "ObjectUse", "tails": [" eat for dinner", " eat for dinner.", " eat"]}
+{"head": "Wicked Tuna", "relation": "AtLocation", "tails": [" fish tank", " sushi restaurant", " fish market"]}
+{"head": "Wicked Tuna", "relation": "CapableOf", "tails": [" eat", " eat for dinner", " eat with chopsticks"]}
+{"head": "Wicked Tuna", "relation": "HasProperty", "tails": [" made from tuna", " eaten", " made from fish"]}
+{"head": "Wicked Tuna", "relation": "MadeUpOf", "tails": [" fish", " fish fillet", " fish fillets"]}
+{"head": "Wicked Tuna", "relation": "NotDesires", "tails": [" eat for dinner", " have to eat", " eat"]}
+{"head": "Wicked Tuna", "relation": "Desires", "tails": [" to eat", " to eat for dinner", " eat for dinner"]}
+{"head": "Inexperienced fishermen", "relation": "ObjectUse", "tails": [" learn how to fish", " learn to fish", " learn how to catch fish"]}
+{"head": "Inexperienced fishermen", "relation": "AtLocation", "tails": [" fishing boat", " boat", " fish tank"]}
+{"head": "Inexperienced fishermen", "relation": "CapableOf", "tails": [" learn how to fish", " learn to fish", " learn how to catch fish"]}
+{"head": "Inexperienced fishermen", "relation": "HasProperty", "tails": [" I'm not sure what to call them.", " I'm not sure how to fish.", " I'm not sure what to call it."]}
+{"head": "Inexperienced fishermen", "relation": "MadeUpOf", "tails": [" fish", " boat", " I am not a fisherman"]}
+{"head": "Inexperienced fishermen", "relation": "NotDesires", "tails": [" lose fishing boat", " lose fishing license", " lose money"]}
+{"head": "Inexperienced fishermen", "relation": "Desires", "tails": [" learn how to fish", " to learn how to fish", " none"]}
+{"head": "Day Job", "relation": "ObjectUse", "tails": [" get a raise", " get paid", " get paid for"]}
+{"head": "Day Job", "relation": "AtLocation", "tails": [" office building", " job", " office"]}
+{"head": "Day Job", "relation": "CapableOf", "tails": [" get paid", " pay bills", " get paid for"]}
+{"head": "Day Job", "relation": "HasProperty", "tails": [" required to pay bills", " day job", " day to day"]}
+{"head": "Day Job", "relation": "MadeUpOf", "tails": [" day job", " day", " job title"]}
+{"head": "Day Job", "relation": "NotDesires", "tails": [" get fired", " have to pay bills", " have to pay rent"]}
+{"head": "Day Job", "relation": "Desires", "tails": [" get paid", " get paid for work", " get paid for it"]}
+{"head": "Day", "relation": "ObjectUse", "tails": [" have a good time", " have a good day", " have fun with friends"]}
+{"head": "Day", "relation": "AtLocation", "tails": [" day", " office building", " day at work"]}
+{"head": "Day", "relation": "CapableOf", "tails": [" sleep all day", " sleep all night", " get up early"]}
+{"head": "Day", "relation": "HasProperty", "tails": [" one day a week", " one day of the year", " one day of the week"]}
+{"head": "Day", "relation": "MadeUpOf", "tails": [" day", " Day", " morning"]}
+{"head": "Day", "relation": "NotDesires", "tails": [" have to go to work", " have to go to school", " have to go to doctor"]}
+{"head": "Day", "relation": "Desires", "tails": [" have a good time", " have a good day", " have fun"]}

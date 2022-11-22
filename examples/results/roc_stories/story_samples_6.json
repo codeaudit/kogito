@@ -1,0 +1,203 @@
+{"head": "to spend", "relation": "HinderedBy", "tails": [" to spend", " to spend ", " to spend  money"]}
+{"head": "to spend", "relation": "isBefore", "tails": [" to spend", " to spend  money", " to spend money"]}
+{"head": "to spend", "relation": "isAfter", "tails": [" money", " to spend money", " to buy something"]}
+{"head": "to spend", "relation": "HasSubEvent", "tails": [" to spend", " to spend  spend  spend  spend  spend", " to spend  spend  spend  spend  spend "]}
+{"head": "to spend", "relation": "Causes", "tails": [" to spend", " have less money", " to spend  money"]}
+{"head": "to spend", "relation": "xReason", "tails": [" to spend", " have money", " to spend money"]}
+{"head": "to realize", "relation": "HinderedBy", "tails": [" to realize", " to realize ", " to realize something"]}
+{"head": "to realize", "relation": "isBefore", "tails": [" to realize", " to realize what is going on", " to realize what they are doing"]}
+{"head": "to realize", "relation": "isAfter", "tails": [" to understand the situation", " to be aware", " to be aware of reality"]}
+{"head": "to realize", "relation": "HasSubEvent", "tails": [" to realize", " to realize ", " to realize  realization"]}
+{"head": "to realize", "relation": "Causes", "tails": [" to realize", " none", " to realize "]}
+{"head": "to realize", "relation": "xReason", "tails": [" to realize", " none", " to realize something"]}
+{"head": "to have", "relation": "HinderedBy", "tails": [" to have", " to have ", " to have  to have"]}
+{"head": "to have", "relation": "isBefore", "tails": [" to have", " to have ", " to have  a good time"]}
+{"head": "to have", "relation": "isAfter", "tails": [" to have something to eat", " to have", " to have something to drink"]}
+{"head": "to have", "relation": "HasSubEvent", "tails": [" to have", " to have ", " to have  have"]}
+{"head": "to have", "relation": "Causes", "tails": [" to have", " to have ", " to have  "]}
+{"head": "to have", "relation": "xReason", "tails": [" to have", " to have something to eat", " to have "]}
+{"head": "to get", "relation": "HinderedBy", "tails": [" to get ", " to get", " to get  to get "]}
+{"head": "to get", "relation": "isBefore", "tails": [" to get", " to get ", " to get  to get "]}
+{"head": "to get", "relation": "isAfter", "tails": [" to get", " to get something", " to get "]}
+{"head": "to get", "relation": "HasSubEvent", "tails": [" to get", " to get ", " to get  to get"]}
+{"head": "to get", "relation": "Causes", "tails": [" to get", " to get  to get ", " to get "]}
+{"head": "to get", "relation": "xReason", "tails": [" to get", " to get something", " to get "]}
+{"head": "to drive", "relation": "HinderedBy", "tails": [" to drive", " to drive ", " get license"]}
+{"head": "to drive", "relation": "isBefore", "tails": [" learn to drive", " to drive", " get license"]}
+{"head": "to drive", "relation": "isAfter", "tails": [" get license", " get in car", " to drive to work"]}
+{"head": "to drive", "relation": "HasSubEvent", "tails": [" get in car", " get in the car", " to drive"]}
+{"head": "to drive", "relation": "Causes", "tails": [" get in car", " get into accident", " get license"]}
+{"head": "to drive", "relation": "xReason", "tails": [" to drive", " get license", " to drive car"]}
+{"head": "to drink", "relation": "HinderedBy", "tails": [" to drink", " to drink ", " to drink  "]}
+{"head": "to drink", "relation": "isBefore", "tails": [" to drink", " get drunk", " drink water"]}
+{"head": "to drink", "relation": "isAfter", "tails": [" water", " drink water", " get drunk"]}
+{"head": "to drink", "relation": "HasSubEvent", "tails": [" get drunk", " put in glass", " get thirsty"]}
+{"head": "to drink", "relation": "Causes", "tails": [" get drunk", " water", " drink from glass"]}
+{"head": "to drink", "relation": "xReason", "tails": [" get drunk", " have to drink", " drink water"]}
+{"head": "to ask", "relation": "HinderedBy", "tails": [" to ask ", " to ask", " to ask  to ask "]}
+{"head": "to ask", "relation": "isBefore", "tails": [" to ask", " to ask for help", " to ask "]}
+{"head": "to ask", "relation": "isAfter", "tails": [" to know what to say", " to know the answer", " to know what to do"]}
+{"head": "to ask", "relation": "HasSubEvent", "tails": [" to ask", " to ask ", " to ask for help"]}
+{"head": "to ask", "relation": "Causes", "tails": [" to ask", " to ask ", " to ask for help"]}
+{"head": "to ask", "relation": "xReason", "tails": [" to know what to say", " to ask", " to know what to do"]}
+{"head": "spend rest", "relation": "HinderedBy", "tails": [" have to go to work", " sleep", " have to go to work."]}
+{"head": "spend rest", "relation": "isBefore", "tails": [" take nap", " take rest pill", " take shower"]}
+{"head": "spend rest", "relation": "isAfter", "tails": [" take shower", " take rest pill", " get rest"]}
+{"head": "spend rest", "relation": "HasSubEvent", "tails": [" take rest pill", " get up", " get rest"]}
+{"head": "spend rest", "relation": "Causes", "tails": [" rest", " relax", " take rest"]}
+{"head": "spend rest", "relation": "xReason", "tails": [" rest", " take nap", " take rest"]}
+{"head": "rest", "relation": "ObjectUse", "tails": [" lay down on", " lay down", " lay down and relax"]}
+{"head": "rest", "relation": "AtLocation", "tails": [" bed", " hotel room", " rest room"]}
+{"head": "rest", "relation": "CapableOf", "tails": [" lay down", " sit down", " lay down on"]}
+{"head": "rest", "relation": "HasProperty", "tails": [" found in hospital", " found in bed", " found in hotel room"]}
+{"head": "rest", "relation": "MadeUpOf", "tails": [" bed", " rest", " body"]}
+{"head": "rest", "relation": "NotDesires", "tails": [" fall asleep", " sleep", " rest of body"]}
+{"head": "rest", "relation": "Desires", "tails": [" rest", " relax", " take nap"]}
+{"head": "night", "relation": "ObjectUse", "tails": [" have a good night's sleep", " have a good time", " have a good night's rest"]}
+{"head": "night", "relation": "AtLocation", "tails": [" bed", " night", " night sky"]}
+{"head": "night", "relation": "CapableOf", "tails": [" wake up", " sleep all day", " wake up in morning"]}
+{"head": "night", "relation": "HasProperty", "tails": [" dark", " night", " light"]}
+{"head": "night", "relation": "MadeUpOf", "tails": [" night", " moon", " night sky"]}
+{"head": "night", "relation": "NotDesires", "tails": [" fall asleep", " sleep", " sleep during day"]}
+{"head": "night", "relation": "Desires", "tails": [" sleep", " sleep well", " have good sleep"]}
+{"head": "have date", "relation": "HinderedBy", "tails": [" have a good time", " have sex", " have fun"]}
+{"head": "have date", "relation": "isBefore", "tails": [" have sex", " have fun", " go to restaurant"]}
+{"head": "have date", "relation": "isAfter", "tails": [" have good time", " have sex", " have fun"]}
+{"head": "have date", "relation": "HasSubEvent", "tails": [" have sex", " have fun", " go to restaurant"]}
+{"head": "have date", "relation": "Causes", "tails": [" have good time", " have sex", " have fun"]}
+{"head": "have date", "relation": "xReason", "tails": [" have good time", " have sex", " have fun"]}
+{"head": "girlfriend", "relation": "ObjectUse", "tails": [" have sex with", " have a relationship with", " get married to"]}
+{"head": "girlfriend", "relation": "AtLocation", "tails": [" girlfriend's house", " friend's house", " girlfriend's car"]}
+{"head": "girlfriend", "relation": "CapableOf", "tails": [" talk on phone", " talk to", " talk to boyfriend"]}
+{"head": "girlfriend", "relation": "HasProperty", "tails": [" romantic interest", " girlfriend", " loved"]}
+{"head": "girlfriend", "relation": "MadeUpOf", "tails": [" girlfriend's name", " girlfriend's hand", " girlfriend"]}
+{"head": "girlfriend", "relation": "NotDesires", "tails": [" have sex with", " girlfriend to leave", " girlfriend to get pregnant"]}
+{"head": "girlfriend", "relation": "Desires", "tails": [" have a good time", " have a good time with", " have sex with"]}
+{"head": "get call", "relation": "HinderedBy", "tails": [" get phone number", " get call", " get phone call"]}
+{"head": "get call", "relation": "isBefore", "tails": [" hear phone ring", " get phone call", " hear phone ringing"]}
+{"head": "get call", "relation": "isAfter", "tails": [" phone rings", " phone ringing", " call person"]}
+{"head": "get call", "relation": "HasSubEvent", "tails": [" answer phone", " call back", " call person"]}
+{"head": "get call", "relation": "Causes", "tails": [" get phone call", " get phone call back", " call number"]}
+{"head": "get call", "relation": "xReason", "tails": [" get phone call", " answer phone", " get phone call back"]}
+{"head": "drink beers", "relation": "HinderedBy", "tails": [" drink beer", " drink water", " get drunk"]}
+{"head": "drink beers", "relation": "isBefore", "tails": [" drink beer", " get drunk", " drink water"]}
+{"head": "drink beers", "relation": "isAfter", "tails": [" drink beer", " get drunk", " drink water"]}
+{"head": "drink beers", "relation": "HasSubEvent", "tails": [" get drunk", " drink beer", " get thirsty"]}
+{"head": "drink beers", "relation": "Causes", "tails": [" drink beer", " get drunk", " have fun"]}
+{"head": "drink beers", "relation": "xReason", "tails": [" drink beer", " get drunk", " drink water"]}
+{"head": "drink beer", "relation": "HinderedBy", "tails": [" drink beer", " drink water", " drink"]}
+{"head": "drink beer", "relation": "isBefore", "tails": [" drink beer", " get drunk", " drink"]}
+{"head": "drink beer", "relation": "isAfter", "tails": [" drink beer", " get drunk", " drink"]}
+{"head": "drink beer", "relation": "HasSubEvent", "tails": [" get drunk", " drink beer", " drink"]}
+{"head": "drink beer", "relation": "Causes", "tails": [" drink beer", " drink", " drink water"]}
+{"head": "drink beer", "relation": "xReason", "tails": [" drink beer", " get drunk", " drink"]}
+{"head": "date", "relation": "ObjectUse", "tails": [" get to know someone", " go on a date", " have a good time"]}
+{"head": "date", "relation": "AtLocation", "tails": [" movie theater", " dating app", " dating site"]}
+{"head": "date", "relation": "CapableOf", "tails": [" go on date", " go to bar", " go on date with"]}
+{"head": "date", "relation": "HasProperty", "tails": [" found on dating site", " found on dating website", " found on dating app"]}
+{"head": "date", "relation": "MadeUpOf", "tails": [" date", " date's name", " date's phone number"]}
+{"head": "date", "relation": "NotDesires", "tails": [" have sex", " have sex with", " have sex with someone"]}
+{"head": "date", "relation": "Desires", "tails": [" get to know someone", " get to know person", " have good time"]}
+{"head": "bit", "relation": "ObjectUse", "tails": [" use as a weapon", " use as a bookmark", " use as a paperweight"]}
+{"head": "bit", "relation": "AtLocation", "tails": [" bit of paper", " bit of bread", " bit of cheese"]}
+{"head": "bit", "relation": "CapableOf", "tails": [" bite into", " bite", " use as weapon"]}
+{"head": "bit", "relation": "HasProperty", "tails": [" found in hair", " bit of paper", " found in body"]}
+{"head": "bit", "relation": "MadeUpOf", "tails": [" bit", " bite", " bits"]}
+{"head": "bit", "relation": "NotDesires", "tails": [" bite", " bit", " bite into"]}
+{"head": "bit", "relation": "Desires", "tails": [" bit of cheese", " bit of cake", " bit of candy"]}
+{"head": "beers", "relation": "ObjectUse", "tails": [" drink at a party", " drink at the party", " drink to celebrate"]}
+{"head": "beers", "relation": "AtLocation", "tails": [" beer garden", " beer", " beer pong"]}
+{"head": "beers", "relation": "CapableOf", "tails": [" drink", " pour into glass", " drink to excess"]}
+{"head": "beers", "relation": "HasProperty", "tails": [" drunk", " alcohol", " beer"]}
+{"head": "beers", "relation": "MadeUpOf", "tails": [" beer", " alcohol", " beer can"]}
+{"head": "beers", "relation": "NotDesires", "tails": [" drink to excess", " get drunk", " have to drink"]}
+{"head": "beers", "relation": "Desires", "tails": [" have a good time", " drink", " have fun"]}
+{"head": "beer", "relation": "ObjectUse", "tails": [" drink with friends", " drink at the party", " drink at the bar"]}
+{"head": "beer", "relation": "AtLocation", "tails": [" beer garden", " beer pouches", " beer pong"]}
+{"head": "beer", "relation": "CapableOf", "tails": [" drink", " pour into glass", " pour into cup"]}
+{"head": "beer", "relation": "HasProperty", "tails": [" drunk", " beer", " fermented"]}
+{"head": "beer", "relation": "MadeUpOf", "tails": [" beer", " beer bottle", " beer can"]}
+{"head": "beer", "relation": "NotDesires", "tails": [" drink", " drinking", " beer"]}
+{"head": "beer", "relation": "Desires", "tails": [" drink", " drinking", " beer"]}
+{"head": "Since Frank was already a bit drunk, he could not drive.", "relation": "xAttr", "tails": [" drunk", " irresponsible", " intoxicated"]}
+{"head": "Since Frank was already a bit drunk, he could not drive.", "relation": "xWant", "tails": [" to go to the bar", " to go home", " to get home"]}
+{"head": "Since Frank was already a bit drunk, he could not drive.", "relation": "xNeed", "tails": [" to drink a lot of alcohol", " to get drunk", " to drink a lot of alcohol."]}
+{"head": "Since Frank was already a bit drunk, he could not drive.", "relation": "xEffect", "tails": [" get in a car accident", " gets arrested", " get in car accident"]}
+{"head": "Since Frank was already a bit drunk, he could not drive.", "relation": "HinderedBy", "tails": [" since he has no money", " since he has no car", " since he is not driving"]}
+{"head": "Since Frank was already a bit drunk, he could not drive.", "relation": "oWant", "tails": [" to go to the bar", " to go home", " to get home"]}
+{"head": "Since Frank was already a bit drunk, he could not drive.", "relation": "xReact", "tails": [" drunk", " drunk.", " scared"]}
+{"head": "Since Frank was already a bit drunk, he could not drive.", "relation": "oEffect", "tails": [" get in a car accident", " none", " get in car accident"]}
+{"head": "Since Frank was already a bit drunk, he could not drive.", "relation": "xIntent", "tails": [" none", " to get drunk", " to get home"]}
+{"head": "Since Frank was already a bit drunk, he could not drive.", "relation": "oReact", "tails": [" none", " drunk", " drunk."]}
+{"head": "Since Frank was already a bit drunk, he could not drive.", "relation": "isBefore", "tails": [" PersonY drives PersonY to the bar.", " PersonX drives PersonX to the bar.", " PersonX drives the car."]}
+{"head": "Since Frank was already a bit drunk, he could not drive.", "relation": "isAfter", "tails": [" PersonX drives PersonX's car.", " PersonX drives PersonY's car.", " PersonX drives PersonX's car"]}
+{"head": "Since Frank was already a bit drunk, he could not drive.", "relation": "HasSubEvent", "tails": [" get in a car accident", " get in accident", " get in car"]}
+{"head": "Since Frank was already a bit drunk, he could not drive.", "relation": "Causes", "tails": [" drunk", " have to get to work on time", " have to get to their destination on time"]}
+{"head": "Since Frank was already a bit drunk, he could not drive.", "relation": "xReason", "tails": [" get in a car accident", " get in accident", " get in car"]}
+{"head": "He got a call from his girlfriend, asking where he was.", "relation": "xAttr", "tails": [" curious", " nervous", " concerned"]}
+{"head": "He got a call from his girlfriend, asking where he was.", "relation": "xWant", "tails": [" to go home", " to go to the store", " to go to the movies"]}
+{"head": "He got a call from his girlfriend, asking where he was.", "relation": "xNeed", "tails": [" to have left their phone at home", " to have left their phone at home.", " to have left the phone at home"]}
+{"head": "He got a call from his girlfriend, asking where he was.", "relation": "xEffect", "tails": [" he gets a call from his girlfriend", " he gets a call from his girlfriend.", " gets a call back from girlfriend"]}
+{"head": "He got a call from his girlfriend, asking where he was.", "relation": "HinderedBy", "tails": [" he forgot his phone at home", " he forgot his phone", " he forgot to bring his phone"]}
+{"head": "He got a call from his girlfriend, asking where he was.", "relation": "oWant", "tails": [" to talk to him", " to talk to their boyfriend", " to talk to them"]}
+{"head": "He got a call from his girlfriend, asking where he was.", "relation": "xReact", "tails": [" nervous", " happy", " worried"]}
+{"head": "He got a call from his girlfriend, asking where he was.", "relation": "oEffect", "tails": [" none", " he gets a phone call from his girlfriend", " he gets a call from his girlfriend"]}
+{"head": "He got a call from his girlfriend, asking where he was.", "relation": "xIntent", "tails": [" none", " to know where they are", " to know where he is"]}
+{"head": "He got a call from his girlfriend, asking where he was.", "relation": "oReact", "tails": [" none", " loved", " happy"]}
+{"head": "He got a call from his girlfriend, asking where he was.", "relation": "isBefore", "tails": [" he goes to the movies", " he goes to the store", " he goes to sleep"]}
+{"head": "He got a call from his girlfriend, asking where he was.", "relation": "isAfter", "tails": [" PersonX is on a date with his girlfriend.", " PersonX is on a date with their girlfriend.", " PersonX is in a car accident."]}
+{"head": "He got a call from his girlfriend, asking where he was.", "relation": "HasSubEvent", "tails": [" get a phone call", " get a call back", " get a phone call back"]}
+{"head": "He got a call from his girlfriend, asking where he was.", "relation": "Causes", "tails": [" he has to go to work", " he has to go to work.", " he has to go back to work"]}
+{"head": "He got a call from his girlfriend, asking where he was.", "relation": "xReason", "tails": [" he has to go to work", " he has to go to work.", " he has to go back to work"]}
+{"head": "Frank suddenly realized he had a date that night.", "relation": "xAttr", "tails": [" nervous", " excited", " surprised"]}
+{"head": "Frank suddenly realized he had a date that night.", "relation": "xWant", "tails": [" to have a good time", " to go out to dinner", " to go to the movies"]}
+{"head": "Frank suddenly realized he had a date that night.", "relation": "xNeed", "tails": [" none", " to have a date", " to have a date."]}
+{"head": "Frank suddenly realized he had a date that night.", "relation": "xEffect", "tails": [" none", " gets asked out", " gets nervous"]}
+{"head": "Frank suddenly realized he had a date that night.", "relation": "HinderedBy", "tails": [" They have to go to work.", " They have to go to work instead.", " They have to go to a meeting."]}
+{"head": "Frank suddenly realized he had a date that night.", "relation": "oWant", "tails": [" none", " to have a good time", " to go out to dinner"]}
+{"head": "Frank suddenly realized he had a date that night.", "relation": "xReact", "tails": [" excited", " nervous", " happy"]}
+{"head": "Frank suddenly realized he had a date that night.", "relation": "oEffect", "tails": [" none", " they go out to dinner", " they go out to eat"]}
+{"head": "Frank suddenly realized he had a date that night.", "relation": "xIntent", "tails": [" none", " to have a good time", " to have a good time."]}
+{"head": "Frank suddenly realized he had a date that night.", "relation": "oReact", "tails": [" none", " happy", " excited"]}
+{"head": "Frank suddenly realized he had a date that night.", "relation": "isBefore", "tails": [" PersonY asks PersonY out on a date.", " PersonX asks PersonX out on a date.", " PersonX asks PersonX out on a date"]}
+{"head": "Frank suddenly realized he had a date that night.", "relation": "isAfter", "tails": [" PersonX asks PersonX out on a date.", " PersonX asks PersonX on a date.", " PersonX asked PersonX out on a date."]}
+{"head": "Frank suddenly realized he had a date that night.", "relation": "HasSubEvent", "tails": [" get ready for the date", " none", " get ready for date"]}
+{"head": "Frank suddenly realized he had a date that night.", "relation": "Causes", "tails": [" they go to the movies", " they go to a movie", " they go to the movie"]}
+{"head": "Frank suddenly realized he had a date that night.", "relation": "xReason", "tails": [" none", " they go out to dinner", " they go to the movies"]}
+{"head": "Frank spent the rest of the night drinking more beers.", "relation": "xAttr", "tails": [" drunk", " intoxicated", " drunk."]}
+{"head": "Frank spent the rest of the night drinking more beers.", "relation": "xWant", "tails": [" to go to sleep", " to go to bed", " to go home"]}
+{"head": "Frank spent the rest of the night drinking more beers.", "relation": "xNeed", "tails": [" to go to the bar", " to go to a bar", " to go to the bar."]}
+{"head": "Frank spent the rest of the night drinking more beers.", "relation": "xEffect", "tails": [" gets drunk", " drinks more beer", " get drunk"]}
+{"head": "Frank spent the rest of the night drinking more beers.", "relation": "HinderedBy", "tails": [" Frank is a recovering alcoholic.", " Frank is too drunk to drink.", " Frank is too drunk to drive."]}
+{"head": "Frank spent the rest of the night drinking more beers.", "relation": "oWant", "tails": [" none", " to go home", " to get drunk"]}
+{"head": "Frank spent the rest of the night drinking more beers.", "relation": "xReact", "tails": [" drunk", " happy", " relaxed"]}
+{"head": "Frank spent the rest of the night drinking more beers.", "relation": "oEffect", "tails": [" none", " get drunk", " drink more beer"]}
+{"head": "Frank spent the rest of the night drinking more beers.", "relation": "xIntent", "tails": [" to get drunk", " to get drunk.", " to be drunk"]}
+{"head": "Frank spent the rest of the night drinking more beers.", "relation": "oReact", "tails": [" none", " drunk", " happy"]}
+{"head": "Frank spent the rest of the night drinking more beers.", "relation": "isBefore", "tails": [" drink more beer", " drunk", " drink more beer."]}
+{"head": "Frank spent the rest of the night drinking more beers.", "relation": "isAfter", "tails": [" drink more beer", " PersonX gets drunk.", " PersonX is drunk."]}
+{"head": "Frank spent the rest of the night drinking more beers.", "relation": "HasSubEvent", "tails": [" drink more beer", " get drunk", " get drunk again"]}
+{"head": "Frank spent the rest of the night drinking more beers.", "relation": "Causes", "tails": [" drunk", " they have to go to work", " they have to go to work."]}
+{"head": "Frank spent the rest of the night drinking more beers.", "relation": "xReason", "tails": [" drunk", " they go to sleep", " they go to bed"]}
+{"head": "Frank had been drinking beer.", "relation": "xAttr", "tails": [" drunk", " intoxicated", " alcoholic"]}
+{"head": "Frank had been drinking beer.", "relation": "xWant", "tails": [" to go to sleep", " to go to bed", " to get drunk"]}
+{"head": "Frank had been drinking beer.", "relation": "xNeed", "tails": [" to get drunk", " to buy beer", " none"]}
+{"head": "Frank had been drinking beer.", "relation": "xEffect", "tails": [" gets drunk", " get drunk", " gets drunk again"]}
+{"head": "Frank had been drinking beer.", "relation": "HinderedBy", "tails": [" Frank is a recovering alcoholic.", " Frank has no money.", " Frank has no alcohol."]}
+{"head": "Frank had been drinking beer.", "relation": "oWant", "tails": [" none", " to get drunk", " to go home"]}
+{"head": "Frank had been drinking beer.", "relation": "xReact", "tails": [" drunk", " happy", " drunk."]}
+{"head": "Frank had been drinking beer.", "relation": "oEffect", "tails": [" none", " get drunk", " drink beer"]}
+{"head": "Frank had been drinking beer.", "relation": "xIntent", "tails": [" none", " to get drunk", " to get drunk."]}
+{"head": "Frank had been drinking beer.", "relation": "oReact", "tails": [" none", " drunk", " happy"]}
+{"head": "Frank had been drinking beer.", "relation": "isBefore", "tails": [" drink beer", " PersonX gets drunk.", " PersonX is drunk."]}
+{"head": "Frank had been drinking beer.", "relation": "isAfter", "tails": [" PersonX gets drunk.", " drink beer", " PersonX is drunk."]}
+{"head": "Frank had been drinking beer.", "relation": "HasSubEvent", "tails": [" get drunk", " drink more beer", " drink beer"]}
+{"head": "Frank had been drinking beer.", "relation": "Causes", "tails": [" drunk", " Frank is a recovering alcoholic.", " they are too drunk to drink"]}
+{"head": "Frank had been drinking beer.", "relation": "xReason", "tails": [" drunk", " they fall asleep", " none"]}
+{"head": "Frank", "relation": "ObjectUse", "tails": [" Frank is a good friend of mine.", " Frank is a friend of mine.", " Frank is a good friend of my wife."]}
+{"head": "Frank", "relation": "AtLocation", "tails": [" house", " family's home", " family home"]}
+{"head": "Frank", "relation": "CapableOf", "tails": [" find out what is going on", " find out what is wrong", " find out what's wrong"]}
+{"head": "Frank", "relation": "HasProperty", "tails": [" none", " Frank", " one of two"]}
+{"head": "Frank", "relation": "MadeUpOf", "tails": [" Frank", " leg", " one leg"]}
+{"head": "Frank", "relation": "NotDesires", "tails": [" Frank's wife will not let him.", " none", " Frank is not a good person."]}
+{"head": "Frank", "relation": "Desires", "tails": [" none", " have a good time", " have a good life"]}

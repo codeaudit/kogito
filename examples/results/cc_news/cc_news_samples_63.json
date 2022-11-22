@@ -1,0 +1,176 @@
+{"head": "yard", "relation": "ObjectUse", "tails": [" run a dog in", " run around in", " play in"]}
+{"head": "yard", "relation": "AtLocation", "tails": [" yard", " park", " garden"]}
+{"head": "yard", "relation": "CapableOf", "tails": [" run around in", " run around", " run in"]}
+{"head": "yard", "relation": "HasProperty", "tails": [" yard", " yards", " grass"]}
+{"head": "yard", "relation": "MadeUpOf", "tails": [" yard", " lawn", " grass"]}
+{"head": "yard", "relation": "NotDesires", "tails": [" lawnmower", " yard", " yard mower"]}
+{"head": "yard", "relation": "Desires", "tails": [" yard", " garden", " grass"]}
+{"head": "to start", "relation": "HinderedBy", "tails": [" to start", " to start ", " to start something"]}
+{"head": "to start", "relation": "isBefore", "tails": [" to start", " to start ", " to start the game"]}
+{"head": "to start", "relation": "isAfter", "tails": [" to start", " to get started", " to start the game"]}
+{"head": "to start", "relation": "HasSubEvent", "tails": [" to start", " get ready", " to start "]}
+{"head": "to start", "relation": "Causes", "tails": [" to start", " to start ", " to start something"]}
+{"head": "to start", "relation": "xReason", "tails": [" to start", " to start something", " get started"]}
+{"head": "to respond", "relation": "HinderedBy", "tails": [" to respond", " to respond ", " to respond  to"]}
+{"head": "to respond", "relation": "isBefore", "tails": [" to respond", " to respond to the question", " to respond to question"]}
+{"head": "to respond", "relation": "isAfter", "tails": [" to respond to a question", " to respond to the question", " to respond to question"]}
+{"head": "to respond", "relation": "HasSubEvent", "tails": [" to respond", " to respond ", " to respond to question"]}
+{"head": "to respond", "relation": "Causes", "tails": [" to respond", " to respond to question", " to respond  to"]}
+{"head": "to respond", "relation": "xReason", "tails": [" to respond", " to respond to question", " have to respond to"]}
+{"head": "spokesman", "relation": "ObjectUse", "tails": [" talk to the press", " make a statement", " talk to the public"]}
+{"head": "spokesman", "relation": "AtLocation", "tails": [" office", " office building", " newspaper"]}
+{"head": "spokesman", "relation": "CapableOf", "tails": [" speak on behalf of company", " speak on behalf of organization", " speak on behalf of the company"]}
+{"head": "spokesman", "relation": "HasProperty", "tails": [" one of the spokespersons", " one of the spokesmen", " one of the spokespeople"]}
+{"head": "spokesman", "relation": "MadeUpOf", "tails": [" press release", " public relations person", " public relations"]}
+{"head": "spokesman", "relation": "NotDesires", "tails": [" talk to the press", " talk to people", " press conference"]}
+{"head": "spokesman", "relation": "Desires", "tails": [" talk to people", " talk to the press", " talk to the public"]}
+{"head": "salvage yard fire", "relation": "ObjectUse", "tails": [" burn down", " burn down house", " get rid of trash"]}
+{"head": "salvage yard fire", "relation": "AtLocation", "tails": [" fire department", " fire", " fire station"]}
+{"head": "salvage yard fire", "relation": "CapableOf", "tails": [" burn down house", " burn house down", " burn down home"]}
+{"head": "salvage yard fire", "relation": "HasProperty", "tails": [" burned", " burned down", " burned in fire"]}
+{"head": "salvage yard fire", "relation": "MadeUpOf", "tails": [" fire extinguisher", " fire hydrant", " firewood"]}
+{"head": "salvage yard fire", "relation": "NotDesires", "tails": [" smoke", " smoke and heat", " smoke smell"]}
+{"head": "salvage yard fire", "relation": "Desires", "tails": [" to get rid of trash", " to get rid of waste", " to get rid of the dead"]}
+{"head": "salvage", "relation": "ObjectUse", "tails": [" use as a prop in a play", " use as a prop in a movie", " use as fuel for a fire"]}
+{"head": "salvage", "relation": "AtLocation", "tails": [" fish tank", " water", " store"]}
+{"head": "salvage", "relation": "CapableOf", "tails": [" use as a weapon", " clean up mess", " use as weapon"]}
+{"head": "salvage", "relation": "HasProperty", "tails": [" good for the environment", " found in ocean", " good for environment"]}
+{"head": "salvage", "relation": "MadeUpOf", "tails": [" salivary gland", " salivary glands", " water"]}
+{"head": "salvage", "relation": "NotDesires", "tails": [" salivary glands", " salivary gland", " salivary"]}
+{"head": "salvage", "relation": "Desires", "tails": [" make money", " clean up the mess", " clean up mess"]}
+{"head": "p.m.", "relation": "ObjectUse", "tails": [" get out of the house", " get out of bed", " get out of the rain"]}
+{"head": "p.m.", "relation": "AtLocation", "tails": [" house", " bed", " school"]}
+{"head": "p.m.", "relation": "CapableOf", "tails": [" go to bed", " get out of bed", " go to sleep"]}
+{"head": "p.m.", "relation": "HasProperty", "tails": [" p.m.", " p.m", " p.m.m."]}
+{"head": "p.m.", "relation": "MadeUpOf", "tails": [" p.m.", " p.p.m.", " p.r.m."]}
+{"head": "p.m.", "relation": "NotDesires", "tails": [" get out of bed", " go to sleep", " go to bed"]}
+{"head": "p.m.", "relation": "Desires", "tails": [" get out of the house", " get out of bed", " get out of house"]}
+{"head": "neighborhood", "relation": "ObjectUse", "tails": [" have a place to live", " living in", " have a place to live in"]}
+{"head": "neighborhood", "relation": "AtLocation", "tails": [" neighborhood", " city", " town"]}
+{"head": "neighborhood", "relation": "CapableOf", "tails": [" live in", " walk to house", " walk around"]}
+{"head": "neighborhood", "relation": "HasProperty", "tails": [" neighbors", " neighborhood", " homes"]}
+{"head": "neighborhood", "relation": "MadeUpOf", "tails": [" neighbor's house", " neighbors", " neighborhood"]}
+{"head": "neighborhood", "relation": "NotDesires", "tails": [" neighbors", " neighborhood", " have neighbors"]}
+{"head": "neighborhood", "relation": "Desires", "tails": [" neighbors", " neighborhood", " have neighbors"]}
+{"head": "firefighters", "relation": "ObjectUse", "tails": [" get out of the fire", " burn down a house", " get out of a fire"]}
+{"head": "firefighters", "relation": "AtLocation", "tails": [" fire station", " fire department", " firehouse"]}
+{"head": "firefighters", "relation": "CapableOf", "tails": [" put out fire", " catch fire", " put out flames"]}
+{"head": "firefighters", "relation": "HasProperty", "tails": [" firefighting equipment", " fire engine", " smoke detector"]}
+{"head": "firefighters", "relation": "MadeUpOf", "tails": [" fire engine", " smoke detector", " fire hose"]}
+{"head": "firefighters", "relation": "NotDesires", "tails": [" burn house", " burn house down", " burn down house"]}
+{"head": "firefighters", "relation": "Desires", "tails": [" fire extinguisher", " burn down house", " burn down building"]}
+{"head": "fire", "relation": "ObjectUse", "tails": [" heat", " burn down house", " burning things"]}
+{"head": "fire", "relation": "AtLocation", "tails": [" fire", " heat", " firewood"]}
+{"head": "fire", "relation": "CapableOf", "tails": [" heat up earth", " burn down house", " burn things"]}
+{"head": "fire", "relation": "HasProperty", "tails": [" burned", " hot", " heat"]}
+{"head": "fire", "relation": "MadeUpOf", "tails": [" heat", " fire", " flame"]}
+{"head": "fire", "relation": "NotDesires", "tails": [" heat", " smoke", " burn house"]}
+{"head": "fire", "relation": "Desires", "tails": [" heat", " heat and smoke", " heat and light"]}
+{"head": "block", "relation": "ObjectUse", "tails": [" block a door", " block a window", " block a doorway"]}
+{"head": "block", "relation": "AtLocation", "tails": [" block of ice cream", " block of ice", " block of wood"]}
+{"head": "block", "relation": "CapableOf", "tails": [" block door", " use as weapon", " put on wall"]}
+{"head": "block", "relation": "HasProperty", "tails": [" found in house", " found in building", " block"]}
+{"head": "block", "relation": "MadeUpOf", "tails": [" block", " block of wood", " blockhead"]}
+{"head": "block", "relation": "NotDesires", "tails": [" block door", " block", " put on wall"]}
+{"head": "block", "relation": "Desires", "tails": [" block door", " block out light", " block"]}
+{"head": "afternoon", "relation": "ObjectUse", "tails": [" have a good time", " have fun with friends", " eat lunch"]}
+{"head": "afternoon", "relation": "AtLocation", "tails": [" office building", " school", " park"]}
+{"head": "afternoon", "relation": "CapableOf", "tails": [" eat lunch", " go to bed", " go to sleep"]}
+{"head": "afternoon", "relation": "HasProperty", "tails": [" found in many parts of the world", " found in many parts of the world.", " found in many parts of world"]}
+{"head": "afternoon", "relation": "MadeUpOf", "tails": [" afternoontime", " afternoons", " afternoontide"]}
+{"head": "afternoon", "relation": "NotDesires", "tails": [" have to go to work", " have to go to office", " have to go to school"]}
+{"head": "afternoon", "relation": "Desires", "tails": [" have a good time", " have fun", " have fun with friends"]}
+{"head": "The fire started around 4:15 p.m. at Riverside Salvage in the 100 block of Humboldt Avenue.", "relation": "xAttr", "tails": [" dangerous", " careless", " fire"]}
+{"head": "The fire started around 4:15 p.m. at Riverside Salvage in the 100 block of Humboldt Avenue.", "relation": "xWant", "tails": [" to put out the fire", " to extinguish the fire", " to extinguish the flames"]}
+{"head": "The fire started around 4:15 p.m. at Riverside Salvage in the 100 block of Humboldt Avenue.", "relation": "xNeed", "tails": [" find a place to put the fire", " find a place to burn", " find a place to put it"]}
+{"head": "The fire started around 4:15 p.m. at Riverside Salvage in the 100 block of Humboldt Avenue.", "relation": "xEffect", "tails": [" the building is destroyed", " the fire is out", " the store is destroyed"]}
+{"head": "The fire started around 4:15 p.m. at Riverside Salvage in the 100 block of Humboldt Avenue.", "relation": "HinderedBy", "tails": [" the fire department is working to put out the fire", " the fire department is working to put out the fire.", " the fire department is on the scene"]}
+{"head": "The fire started around 4:15 p.m. at Riverside Salvage in the 100 block of Humboldt Avenue.", "relation": "oWant", "tails": [" to put out the fire", " get out of the way", " to put out the fire."]}
+{"head": "The fire started around 4:15 p.m. at Riverside Salvage in the 100 block of Humboldt Avenue.", "relation": "xReact", "tails": [" burned", " burned out", " happy"]}
+{"head": "The fire started around 4:15 p.m. at Riverside Salvage in the 100 block of Humboldt Avenue.", "relation": "oEffect", "tails": [" get out of the way", " get out of the house", " get out of the fire"]}
+{"head": "The fire started around 4:15 p.m. at Riverside Salvage in the 100 block of Humboldt Avenue.", "relation": "xIntent", "tails": [" the fire to be put out", " the fire to be put out.", " the fire to be extinguished"]}
+{"head": "The fire started around 4:15 p.m. at Riverside Salvage in the 100 block of Humboldt Avenue.", "relation": "oReact", "tails": [" none", " burned", " burned down"]}
+{"head": "The fire started around 4:15 p.m. at Riverside Salvage in the 100 block of Humboldt Avenue.", "relation": "isBefore", "tails": [" fire department", " the fire is out", " the fire was extinguished"]}
+{"head": "The fire started around 4:15 p.m. at Riverside Salvage in the 100 block of Humboldt Avenue.", "relation": "isAfter", "tails": [" the fire department is working to put out the fire", " the fire department is working to put out the fire.", " the fire department is on the scene"]}
+{"head": "The fire started around 4:15 p.m. at Riverside Salvage in the 100 block of Humboldt Avenue.", "relation": "HasSubEvent", "tails": [" get out of the way", " get out of the house", " get out of the fire"]}
+{"head": "The fire started around 4:15 p.m. at Riverside Salvage in the 100 block of Humboldt Avenue.", "relation": "Causes", "tails": [" fire", " dangerous", " burned out"]}
+{"head": "The fire started around 4:15 p.m. at Riverside Salvage in the 100 block of Humboldt Avenue.", "relation": "xReason", "tails": [" the fire to be put out", " the fire to be extinguished", " the fire to be put out."]}
+{"head": "St. Louis firefighters", "relation": "ObjectUse", "tails": [" St. Louis", " St. Louis.", " St. Louis firefighters"]}
+{"head": "St. Louis firefighters", "relation": "AtLocation", "tails": [" st. louis", " fire station", " st.louis"]}
+{"head": "St. Louis firefighters", "relation": "CapableOf", "tails": [" get injured", " burn down house", " fire first aid kit"]}
+{"head": "St. Louis firefighters", "relation": "HasProperty", "tails": [" St. Louis", " St. Louis.", " St. Louis firefighters"]}
+{"head": "St. Louis firefighters", "relation": "MadeUpOf", "tails": [" fire hydrant", " fire engine", " stapler"]}
+{"head": "St. Louis firefighters", "relation": "NotDesires", "tails": [" St. Louis", " St. Louis firefighters", " St. Louis."]}
+{"head": "St. Louis firefighters", "relation": "Desires", "tails": [" to save lives", " to protect people", " to protect the city"]}
+{"head": "St.", "relation": "ObjectUse", "tails": [" St. Mary's Church", " St. John's Church", " St. Mary's Church."]}
+{"head": "St.", "relation": "AtLocation", "tails": [" church", " St. Mary's Church", " St. Mary's church"]}
+{"head": "St.", "relation": "CapableOf", "tails": [" go to church", " pray to God", " pray to god"]}
+{"head": "St.", "relation": "HasProperty", "tails": [" St. Mary's Church", " St. John's Church", " St. Mary's Church."]}
+{"head": "St.", "relation": "MadeUpOf", "tails": [" stigmata", " St. John's Church", " St. Mary's Church"]}
+{"head": "St.", "relation": "NotDesires", "tails": [" St. Mary's Church", " St. John's Church", " St. Mary's Church."]}
+{"head": "St.", "relation": "Desires", "tails": [" St. John's Church", " St. Mary's Church", " St. Mary's Church."]}
+{"head": "ST. LOUIS \u2013 St. Louis firefighters responded to a salvage yard fire in the North Riverfront neighborhood late Monday afternoon.", "relation": "xAttr", "tails": [" dangerous", " active", " firefighting"]}
+{"head": "ST. LOUIS \u2013 St. Louis firefighters responded to a salvage yard fire in the North Riverfront neighborhood late Monday afternoon.", "relation": "xWant", "tails": [" to extinguish the fire", " to put out the fire", " to put the fire out"]}
+{"head": "ST. LOUIS \u2013 St. Louis firefighters responded to a salvage yard fire in the North Riverfront neighborhood late Monday afternoon.", "relation": "xNeed", "tails": [" to be in the area of the fire", " to have a fire extinguisher", " to be in the area of the fire."]}
+{"head": "ST. LOUIS \u2013 St. Louis firefighters responded to a salvage yard fire in the North Riverfront neighborhood late Monday afternoon.", "relation": "xEffect", "tails": [" fire department", " gets injured", " get injured"]}
+{"head": "ST. LOUIS \u2013 St. Louis firefighters responded to a salvage yard fire in the North Riverfront neighborhood late Monday afternoon.", "relation": "HinderedBy", "tails": [" ST. LOUIS", " ST LOUIS", " ST. LOUIS, MO"]}
+{"head": "ST. LOUIS \u2013 St. Louis firefighters responded to a salvage yard fire in the North Riverfront neighborhood late Monday afternoon.", "relation": "oWant", "tails": [" to extinguish the fire", " to put out the fire", " to put the fire out"]}
+{"head": "ST. LOUIS \u2013 St. Louis firefighters responded to a salvage yard fire in the North Riverfront neighborhood late Monday afternoon.", "relation": "xReact", "tails": [" safe", " relieved", " scared"]}
+{"head": "ST. LOUIS \u2013 St. Louis firefighters responded to a salvage yard fire in the North Riverfront neighborhood late Monday afternoon.", "relation": "oEffect", "tails": [" get out of the way", " get out of the fire", " get out of way"]}
+{"head": "ST. LOUIS \u2013 St. Louis firefighters responded to a salvage yard fire in the North Riverfront neighborhood late Monday afternoon.", "relation": "xIntent", "tails": [" to protect the neighborhood", " to save the neighborhood", " to protect the city"]}
+{"head": "ST. LOUIS \u2013 St. Louis firefighters responded to a salvage yard fire in the North Riverfront neighborhood late Monday afternoon.", "relation": "oReact", "tails": [" none", " fire department", " burned out"]}
+{"head": "ST. LOUIS \u2013 St. Louis firefighters responded to a salvage yard fire in the North Riverfront neighborhood late Monday afternoon.", "relation": "isBefore", "tails": [" firefighters extinguish the fire", " firefighters extinguish fire", " firefighters extinguish the flames"]}
+{"head": "ST. LOUIS \u2013 St. Louis firefighters responded to a salvage yard fire in the North Riverfront neighborhood late Monday afternoon.", "relation": "isAfter", "tails": [" ST LOUIS", " ST LOUIS FIRE DEPARTMENT", " ST LOUIS, MO"]}
+{"head": "ST. LOUIS \u2013 St. Louis firefighters responded to a salvage yard fire in the North Riverfront neighborhood late Monday afternoon.", "relation": "HasSubEvent", "tails": [" get out of the way", " get out of the fire", " get out of way"]}
+{"head": "ST. LOUIS \u2013 St. Louis firefighters responded to a salvage yard fire in the North Riverfront neighborhood late Monday afternoon.", "relation": "Causes", "tails": [" fire department", " fire engine", " firefighting equipment"]}
+{"head": "ST. LOUIS \u2013 St. Louis firefighters responded to a salvage yard fire in the North Riverfront neighborhood late Monday afternoon.", "relation": "xReason", "tails": [" ST LOUIS", " ST LOUIS FIRE DEPARTMENT", " ST LOUIS FIRE"]}
+{"head": "Riverside Salvage", "relation": "ObjectUse", "tails": [" get rid of junk", " get rid of old stuff", " get rid of trash"]}
+{"head": "Riverside Salvage", "relation": "AtLocation", "tails": [" store", " warehouse", " garage"]}
+{"head": "Riverside Salvage", "relation": "CapableOf", "tails": [" get rid of old stuff", " get rid of old clothes", " get rid of old things"]}
+{"head": "Riverside Salvage", "relation": "HasProperty", "tails": [" found in warehouse", " found in trash", " found in the desert"]}
+{"head": "Riverside Salvage", "relation": "MadeUpOf", "tails": [" rags", " found in trash", " trash"]}
+{"head": "Riverside Salvage", "relation": "NotDesires", "tails": [" have to pay for it", " have to pay for", " have to pay rent"]}
+{"head": "Riverside Salvage", "relation": "Desires", "tails": [" to make money", " to make a living", " get rid of old stuff"]}
+{"head": "North Riverfront neighborhood", "relation": "ObjectUse", "tails": [" north riverfront", " north riverfront neighborhood", " north of riverfront"]}
+{"head": "North Riverfront neighborhood", "relation": "AtLocation", "tails": [" north riverfront", " city", " riverfront"]}
+{"head": "North Riverfront neighborhood", "relation": "CapableOf", "tails": [" walk down street", " walk down streets", " park car"]}
+{"head": "North Riverfront neighborhood", "relation": "HasProperty", "tails": [" north riverfront", " north of riverfront", " north riverfront neighborhood"]}
+{"head": "North Riverfront neighborhood", "relation": "MadeUpOf", "tails": [" north riverfront", " neighborhood", " north riverfront neighborhood"]}
+{"head": "North Riverfront neighborhood", "relation": "NotDesires", "tails": [" north riverfront neighborhood", " north riverfront", " north of riverfront"]}
+{"head": "North Riverfront neighborhood", "relation": "Desires", "tails": [" north riverfront", " north riverfront neighborhood", " to live in"]}
+{"head": "Humboldt Avenue", "relation": "ObjectUse", "tails": [" Humboldt Avenue", " Humboldt", " Humboldt Ave"]}
+{"head": "Humboldt Avenue", "relation": "AtLocation", "tails": [" street", " city", " street corner"]}
+{"head": "Humboldt Avenue", "relation": "CapableOf", "tails": [" walk down", " drive down", " walk on"]}
+{"head": "Humboldt Avenue", "relation": "HasProperty", "tails": [" Humboldt Avenue", " Humboldt", " Humboldt Avenue."]}
+{"head": "Humboldt Avenue", "relation": "MadeUpOf", "tails": [" street", " streets", " street corner"]}
+{"head": "Humboldt Avenue", "relation": "NotDesires", "tails": [" Humboldt Avenue", " Humboldt", " Humboldt Avenue."]}
+{"head": "Humboldt Avenue", "relation": "Desires", "tails": [" to get to the store", " to go to the store", " to get to work"]}
+{"head": "Captain Garon Mosby, a spokesman for the St.", "relation": "xAttr", "tails": [" commanding", " strong-willed", " strong willed"]}
+{"head": "Captain Garon Mosby, a spokesman for the St.", "relation": "xWant", "tails": [" to make sure everyone is safe", " to make a speech", " to make a statement"]}
+{"head": "Captain Garon Mosby, a spokesman for the St.", "relation": "xNeed", "tails": [" to be in charge of the ship", " none", " to be a captain of a ship"]}
+{"head": "Captain Garon Mosby, a spokesman for the St.", "relation": "xEffect", "tails": [" none", " gets yelled at", " is asked questions"]}
+{"head": "Captain Garon Mosby, a spokesman for the St.", "relation": "HinderedBy", "tails": [" Captain Garon Mosby is in charge of the ship.", " Captain Garon Mosby is in charge of the ship", " Captain Garon Mosby is a police officer."]}
+{"head": "Captain Garon Mosby, a spokesman for the St.", "relation": "oWant", "tails": [" to make sure everyone is safe", " to make a statement", " to make sure everyone is ok"]}
+{"head": "Captain Garon Mosby, a spokesman for the St.", "relation": "xReact", "tails": [" happy", " proud", " good"]}
+{"head": "Captain Garon Mosby, a spokesman for the St.", "relation": "oEffect", "tails": [" none", " get a new job", " ship to sea"]}
+{"head": "Captain Garon Mosby, a spokesman for the St.", "relation": "xIntent", "tails": [" none", " to be a leader", " to make a statement"]}
+{"head": "Captain Garon Mosby, a spokesman for the St.", "relation": "oReact", "tails": [" none", " happy", " angry"]}
+{"head": "Captain Garon Mosby, a spokesman for the St.", "relation": "isBefore", "tails": [" Captain Garon Mosby", " Captain Garon Mosby on the ship", " Captain Garon Mosby speaks to the media"]}
+{"head": "Captain Garon Mosby, a spokesman for the St.", "relation": "isAfter", "tails": [" Captain Garon Mosby", " Captain Garon Mosby on the ship", " Captain Garon Mosby of the ship"]}
+{"head": "Captain Garon Mosby, a spokesman for the St.", "relation": "HasSubEvent", "tails": [" ship to sea", " ship to shore", " ship to port"]}
+{"head": "Captain Garon Mosby, a spokesman for the St.", "relation": "Causes", "tails": [" captain", " Captain", " ship"]}
+{"head": "Captain Garon Mosby, a spokesman for the St.", "relation": "xReason", "tails": [" captain", " ship", " Captain"]}
+{"head": "Captain Garon Mosby", "relation": "ObjectUse", "tails": [" to be a good captain", " to be a captain", " to be a good leader"]}
+{"head": "Captain Garon Mosby", "relation": "AtLocation", "tails": [" ship", " sea", " boat"]}
+{"head": "Captain Garon Mosby", "relation": "CapableOf", "tails": [" sail ship", " ship ship", " ship to sea"]}
+{"head": "Captain Garon Mosby", "relation": "HasProperty", "tails": [" one of the captains of the ship", " one of the crew of the ship", " one of the captain's ships"]}
+{"head": "Captain Garon Mosby", "relation": "MadeUpOf", "tails": [" ship", " shipboard", " captain's chair"]}
+{"head": "Captain Garon Mosby", "relation": "NotDesires", "tails": [" none", " shipwrecked", " ship to sea"]}
+{"head": "Captain Garon Mosby", "relation": "Desires", "tails": [" to be a good captain", " none", " to be a leader"]}
+{"head": "100 block", "relation": "ObjectUse", "tails": [" use as a door stop", " use as a paper weight", " use as a doorstop"]}
+{"head": "100 block", "relation": "AtLocation", "tails": [" street", " street corner", " neighborhood"]}
+{"head": "100 block", "relation": "CapableOf", "tails": [" walk down street", " block off street", " drive on"]}
+{"head": "100 block", "relation": "HasProperty", "tails": [" 100 feet", " 100 feet wide", " found in many cities"]}
+{"head": "100 block", "relation": "MadeUpOf", "tails": [" block", " 100 feet", " 100 yards"]}
+{"head": "100 block", "relation": "NotDesires", "tails": [" 100 feet", " 100 yards", " 100 block"]}
+{"head": "100 block", "relation": "Desires", "tails": [" 100 feet", " 100 yards", " 100 feet wide"]}

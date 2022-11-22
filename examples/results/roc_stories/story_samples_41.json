@@ -1,0 +1,190 @@
+{"head": "to work", "relation": "HinderedBy", "tails": [" to work", " to work ", " to work  to work"]}
+{"head": "to work", "relation": "isBefore", "tails": [" go to office", " go to work", " to work"]}
+{"head": "to work", "relation": "isAfter", "tails": [" go to office", " go to work", " drive to work"]}
+{"head": "to work", "relation": "HasSubEvent", "tails": [" go to office", " go to work", " to work"]}
+{"head": "to work", "relation": "Causes", "tails": [" get paid", " get paid for work", " have to do"]}
+{"head": "to work", "relation": "xReason", "tails": [" get paid", " get paid for work", " have to do"]}
+{"head": "to take", "relation": "HinderedBy", "tails": [" to take", " to take ", " to take  to take "]}
+{"head": "to take", "relation": "isBefore", "tails": [" to take", " to take a nap", " to take a picture"]}
+{"head": "to take", "relation": "isAfter", "tails": [" to take", " to take a nap", " to take a picture"]}
+{"head": "to take", "relation": "HasSubEvent", "tails": [" to take", " to take ", " to take  take "]}
+{"head": "to take", "relation": "Causes", "tails": [" to take", " to take  to take  to take  to take  take  to take  take  to take ", " to take  to take  to take  to take  take  to  take  take  to take"]}
+{"head": "to take", "relation": "xReason", "tails": [" to take", " to take a nap", " to take  to take "]}
+{"head": "to start", "relation": "HinderedBy", "tails": [" to start", " to start ", " to start something"]}
+{"head": "to start", "relation": "isBefore", "tails": [" to start", " to start ", " to start the game"]}
+{"head": "to start", "relation": "isAfter", "tails": [" to start", " to get started", " to start the game"]}
+{"head": "to start", "relation": "HasSubEvent", "tails": [" to start", " get ready", " to start "]}
+{"head": "to start", "relation": "Causes", "tails": [" to start", " to start ", " to start something"]}
+{"head": "to start", "relation": "xReason", "tails": [" to start", " to start something", " get started"]}
+{"head": "to put", "relation": "HinderedBy", "tails": [" to put", " to put ", " to put  to put "]}
+{"head": "to put", "relation": "isBefore", "tails": [" to put", " to put in a box", " to put in the box"]}
+{"head": "to put", "relation": "isAfter", "tails": [" to put in a box", " to put in the box", " to put"]}
+{"head": "to put", "relation": "HasSubEvent", "tails": [" to put", " to put ", " to put something in"]}
+{"head": "to put", "relation": "Causes", "tails": [" to put", " to put on", " to put in"]}
+{"head": "to put", "relation": "xReason", "tails": [" to put", " to put something in", " to put in a box"]}
+{"head": "to finish", "relation": "HinderedBy", "tails": [" to finish", " to finish ", " to finish something"]}
+{"head": "to finish", "relation": "isBefore", "tails": [" to finish", " to finish the project", " to finish the job"]}
+{"head": "to finish", "relation": "isAfter", "tails": [" to finish", " to finish the project", " to finish the task"]}
+{"head": "to finish", "relation": "HasSubEvent", "tails": [" to finish", " to finish ", " to finish  work"]}
+{"head": "to finish", "relation": "Causes", "tails": [" to finish", " to finish something", " to finish the task"]}
+{"head": "to finish", "relation": "xReason", "tails": [" to finish", " to finish something", " to finish the task"]}
+{"head": "to add", "relation": "HinderedBy", "tails": [" to add", " to add ", " to add  to "]}
+{"head": "to add", "relation": "isBefore", "tails": [" to add", " to add to the list", " to add  to the list"]}
+{"head": "to add", "relation": "isAfter", "tails": [" to add", " to add to the list", " to add to a list"]}
+{"head": "to add", "relation": "HasSubEvent", "tails": [" to add", " to add ", " to add  to"]}
+{"head": "to add", "relation": "Causes", "tails": [" to add", " to add  to ", " to add to the list"]}
+{"head": "to add", "relation": "xReason", "tails": [" to add", " to add to the list", " to add something to the list"]}
+{"head": "thermos", "relation": "ObjectUse", "tails": [" keep water cold", " keep water in", " hold the drink"]}
+{"head": "thermos", "relation": "AtLocation", "tails": [" cupboard", " backpack", " refrigerator"]}
+{"head": "thermos", "relation": "CapableOf", "tails": [" keep water cold", " keep water in", " hold coffee"]}
+{"head": "thermos", "relation": "HasProperty", "tails": [" hot water", " used in cupboard", " used in kitchen"]}
+{"head": "thermos", "relation": "MadeUpOf", "tails": [" thermos", " cup", " cupboard"]}
+{"head": "thermos", "relation": "NotDesires", "tails": [" drink coffee out of", " drink coffee from", " drink coffee"]}
+{"head": "thermos", "relation": "Desires", "tails": [" keep drinks cold", " keep water cold", " drink coffee from"]}
+{"head": "take thermos", "relation": "HinderedBy", "tails": [" take out of thermos", " take out of cupboard", " drink coffee"]}
+{"head": "take thermos", "relation": "isBefore", "tails": [" pour coffee into thermos", " drink coffee", " pour coffee into"]}
+{"head": "take thermos", "relation": "isAfter", "tails": [" drink coffee", " pour coffee into", " drink hot coffee"]}
+{"head": "take thermos", "relation": "HasSubEvent", "tails": [" pour coffee into thermos", " drink coffee", " pour coffee into"]}
+{"head": "take thermos", "relation": "Causes", "tails": [" drink coffee", " drink hot coffee", " drink hot chocolate"]}
+{"head": "take thermos", "relation": "xReason", "tails": [" drink coffee", " drink hot coffee", " drink hot chocolate"]}
+{"head": "sugar", "relation": "ObjectUse", "tails": [" add to the drink", " add to a drink", " add to the cake"]}
+{"head": "sugar", "relation": "AtLocation", "tails": [" sugar cane", " candy", " sugar syrup"]}
+{"head": "sugar", "relation": "CapableOf", "tails": [" add to drink", " add to cake", " add to food"]}
+{"head": "sugar", "relation": "HasProperty", "tails": [" sugar", " sugar syrup", " very sweet"]}
+{"head": "sugar", "relation": "MadeUpOf", "tails": [" sugar", " sugar syrup", " sugarcane"]}
+{"head": "sugar", "relation": "NotDesires", "tails": [" sugar cravings", " sugar", " sugar rush"]}
+{"head": "sugar", "relation": "Desires", "tails": [" sugar", " sugar sweetener", " sweetener"]}
+{"head": "start pot", "relation": "HinderedBy", "tails": [" start fire", " cook food", " start stove"]}
+{"head": "start pot", "relation": "isBefore", "tails": [" cook food", " heat water", " heat pot"]}
+{"head": "start pot", "relation": "isAfter", "tails": [" cook food", " heat water", " cook food in"]}
+{"head": "start pot", "relation": "HasSubEvent", "tails": [" turn on stove", " put pot on stove", " put pot in oven"]}
+{"head": "start pot", "relation": "Causes", "tails": [" boil water", " heat pot", " heat up pot"]}
+{"head": "start pot", "relation": "xReason", "tails": [" boil water", " heat pot", " heat up pot"]}
+{"head": "put cream", "relation": "HinderedBy", "tails": [" put on face", " put cream on face", " put on the wound"]}
+{"head": "put cream", "relation": "isBefore", "tails": [" put on face", " put on skin", " put on lips"]}
+{"head": "put cream", "relation": "isAfter", "tails": [" put on face", " put on skin", " put on lips"]}
+{"head": "put cream", "relation": "HasSubEvent", "tails": [" put on face", " put on skin", " put on lips"]}
+{"head": "put cream", "relation": "Causes", "tails": [" put on face", " put on skin", " put on lips"]}
+{"head": "put cream", "relation": "xReason", "tails": [" put on face", " put on skin", " put on lips"]}
+{"head": "pot", "relation": "ObjectUse", "tails": [" put the food in", " cook the food in", " cook the food"]}
+{"head": "pot", "relation": "AtLocation", "tails": [" cupboard", " kitchen", " stove"]}
+{"head": "pot", "relation": "CapableOf", "tails": [" boil water", " cook food in", " boil water in"]}
+{"head": "pot", "relation": "HasProperty", "tails": [" used in kitchen", " used to cook food", " hot water"]}
+{"head": "pot", "relation": "MadeUpOf", "tails": [" pot", " water", " stove"]}
+{"head": "pot", "relation": "NotDesires", "tails": [" boil water", " boil water in", " boiling water"]}
+{"head": "pot", "relation": "Desires", "tails": [" cook food in", " boil water", " boil water in"]}
+{"head": "finish cup", "relation": "HinderedBy", "tails": [" drink from", " drink", " drink out of"]}
+{"head": "finish cup", "relation": "isBefore", "tails": [" drink", " drink from", " drink from cup"]}
+{"head": "finish cup", "relation": "isAfter", "tails": [" drink from", " drink", " cupcake"]}
+{"head": "finish cup", "relation": "HasSubEvent", "tails": [" drink", " drink from", " drink from cup"]}
+{"head": "finish cup", "relation": "Causes", "tails": [" drink", " drink from", " put in cup"]}
+{"head": "finish cup", "relation": "xReason", "tails": [" drink", " drink from", " put in cup"]}
+{"head": "cup", "relation": "ObjectUse", "tails": [" drink from", " pour the liquid into", " hold the liquid"]}
+{"head": "cup", "relation": "AtLocation", "tails": [" cupboard", " cupboards", " cupcake"]}
+{"head": "cup", "relation": "CapableOf", "tails": [" drink from", " pour liquid into", " hold liquid"]}
+{"head": "cup", "relation": "HasProperty", "tails": [" found in cupboard", " found in kitchen cupboard", " found in kitchen"]}
+{"head": "cup", "relation": "MadeUpOf", "tails": [" cup", " cupcake", " cupboard"]}
+{"head": "cup", "relation": "NotDesires", "tails": [" cupboard", " cupcake", " drink from"]}
+{"head": "cup", "relation": "Desires", "tails": [" drink from", " drink water from", " hold liquid"]}
+{"head": "cream", "relation": "ObjectUse", "tails": [" put on their face", " put on the cake", " put on the face"]}
+{"head": "cream", "relation": "AtLocation", "tails": [" ice cream", " cream of wheat", " jar"]}
+{"head": "cream", "relation": "CapableOf", "tails": [" put on top of cake", " put on top of ice cream", " put on cake"]}
+{"head": "cream", "relation": "HasProperty", "tails": [" cream of wheat", " made from milk", " cream"]}
+{"head": "cream", "relation": "MadeUpOf", "tails": [" cream", " cream of wheat", " ice cream"]}
+{"head": "cream", "relation": "NotDesires", "tails": [" put on ice cream", " put on cake", " put on face"]}
+{"head": "cream", "relation": "Desires", "tails": [" cream of wheat", " cream cheese", " put on cake"]}
+{"head": "coffee", "relation": "ObjectUse", "tails": [" drink in the morning", " drink on the way to work", " drink on a hot day"]}
+{"head": "coffee", "relation": "AtLocation", "tails": [" coffee shop", " cupboard", " coffee pot"]}
+{"head": "coffee", "relation": "CapableOf", "tails": [" drink", " pour into cup", " drink in morning"]}
+{"head": "coffee", "relation": "HasProperty", "tails": [" made from coffee beans", " made from ground coffee beans", " coffee beans"]}
+{"head": "coffee", "relation": "MadeUpOf", "tails": [" coffee bean", " coffeepot", " coffee beans"]}
+{"head": "coffee", "relation": "NotDesires", "tails": [" drink", " coffee beans", " coffee bean"]}
+{"head": "coffee", "relation": "Desires", "tails": [" drink to wake up", " drink to stay awake", " drink"]}
+{"head": "add coffee", "relation": "HinderedBy", "tails": [" add sugar to coffee", " add sugar", " make coffee"]}
+{"head": "add coffee", "relation": "isBefore", "tails": [" pour into cup", " add sugar to coffee", " add sugar"]}
+{"head": "add coffee", "relation": "isAfter", "tails": [" pour into cup", " add sugar to coffee", " drink"]}
+{"head": "add coffee", "relation": "HasSubEvent", "tails": [" pour into cup", " add sugar", " pour coffee into cup"]}
+{"head": "add coffee", "relation": "Causes", "tails": [" add sugar to coffee", " add sugar", " add sugar to drink"]}
+{"head": "add coffee", "relation": "xReason", "tails": [" add sugar to coffee", " add sugar", " add sugar to drink"]}
+{"head": "John puts cream and sugar in his cup and thermos.", "relation": "xAttr", "tails": [" thirsty", " hungry", " prepared"]}
+{"head": "John puts cream and sugar in his cup and thermos.", "relation": "xWant", "tails": [" to drink the coffee", " to drink it", " to drink the cup"]}
+{"head": "John puts cream and sugar in his cup and thermos.", "relation": "xNeed", "tails": [" to get the cup out of the cupboard", " to pour the cream into the cup", " to get the cup out of the cupboard."]}
+{"head": "John puts cream and sugar in his cup and thermos.", "relation": "xEffect", "tails": [" puts the cup in the cup holder", " puts the cup back in the cup holder", " puts the cup back in the cupboard"]}
+{"head": "John puts cream and sugar in his cup and thermos.", "relation": "HinderedBy", "tails": [" John's cup is empty.", " John has no cup.", " John's cup is too hot."]}
+{"head": "John puts cream and sugar in his cup and thermos.", "relation": "oWant", "tails": [" none", " to drink the coffee", " to drink the cup"]}
+{"head": "John puts cream and sugar in his cup and thermos.", "relation": "xReact", "tails": [" satisfied", " happy", " good"]}
+{"head": "John puts cream and sugar in his cup and thermos.", "relation": "oEffect", "tails": [" none", " they get a drink", " get's a drink"]}
+{"head": "John puts cream and sugar in his cup and thermos.", "relation": "xIntent", "tails": [" to drink the coffee", " to drink coffee", " to drink it"]}
+{"head": "John puts cream and sugar in his cup and thermos.", "relation": "oReact", "tails": [" none", " like they have something to drink", " like they have something to drink."]}
+{"head": "John puts cream and sugar in his cup and thermos.", "relation": "isBefore", "tails": [" John puts the coffee in the thermos", " John puts the coffee in the thermos.", " John puts the coffee in the thermos and drinks it"]}
+{"head": "John puts cream and sugar in his cup and thermos.", "relation": "isAfter", "tails": [" PersonY takes the cup from PersonY.", " PersonY takes the cup and thermos.", " PersonY takes the cup and thermos away."]}
+{"head": "John puts cream and sugar in his cup and thermos.", "relation": "HasSubEvent", "tails": [" put the cup in the cup holder", " put the cup back in the cup holder", " put the cup back in the cupboard"]}
+{"head": "John puts cream and sugar in his cup and thermos.", "relation": "Causes", "tails": [" the cup to be full", " the cup to be hot", " the cup to be filled"]}
+{"head": "John puts cream and sugar in his cup and thermos.", "relation": "xReason", "tails": [" John puts the coffee in the thermos.", " John puts the coffee in the thermos", " John puts the coffee in a thermos."]}
+{"head": "John is sleepy.", "relation": "xAttr", "tails": [" sleepy", " tired", " lazy"]}
+{"head": "John is sleepy.", "relation": "xWant", "tails": [" to take a nap", " to go to sleep", " to go to bed"]}
+{"head": "John is sleepy.", "relation": "xNeed", "tails": [" none", " to go to bed", " to go to sleep"]}
+{"head": "John is sleepy.", "relation": "xEffect", "tails": [" wakes up", " falls asleep", " gets sleepy"]}
+{"head": "John is sleepy.", "relation": "HinderedBy", "tails": [" John has to go to work.", " John is too tired to sleep.", " John has to go to work"]}
+{"head": "John is sleepy.", "relation": "oWant", "tails": [" none", " to go to sleep", " to go to bed"]}
+{"head": "John is sleepy.", "relation": "xReact", "tails": [" sleepy", " tired", " sleepy."]}
+{"head": "John is sleepy.", "relation": "oEffect", "tails": [" none", " they go to sleep", " they go to bed"]}
+{"head": "John is sleepy.", "relation": "xIntent", "tails": [" none", " to go to sleep", " to go to bed"]}
+{"head": "John is sleepy.", "relation": "oReact", "tails": [" none", " tired", " sleepy"]}
+{"head": "John is sleepy.", "relation": "isBefore", "tails": [" John goes to sleep", " John goes to bed", " John goes to bed early"]}
+{"head": "John is sleepy.", "relation": "isAfter", "tails": [" PersonX goes to bed early.", " John goes to bed early", " PersonX goes to bed."]}
+{"head": "John is sleepy.", "relation": "HasSubEvent", "tails": [" wake up", " get some sleep", " get some rest"]}
+{"head": "John is sleepy.", "relation": "Causes", "tails": [" sleepy", " tired", " John is tired"]}
+{"head": "John is sleepy.", "relation": "xReason", "tails": [" John goes to bed early.", " John goes to bed.", " John goes to bed"]}
+{"head": "John", "relation": "ObjectUse", "tails": [" John", " get a job", " John's wife."]}
+{"head": "John", "relation": "AtLocation", "tails": [" John's house", " house", " car"]}
+{"head": "John", "relation": "CapableOf", "tails": [" get into argument", " get into fight", " get a job"]}
+{"head": "John", "relation": "HasProperty", "tails": [" John", " none", " John's son"]}
+{"head": "John", "relation": "MadeUpOf", "tails": [" John", " John's hand", " John's name"]}
+{"head": "John", "relation": "NotDesires", "tails": [" John", " none", " John's wife died"]}
+{"head": "John", "relation": "Desires", "tails": [" have a good time", " have a good life", " John is a good person"]}
+{"head": "He then adds coffee to both.", "relation": "xAttr", "tails": [" caffeinated", " thirsty", " hungry"]}
+{"head": "He then adds coffee to both.", "relation": "xWant", "tails": [" to drink the coffee", " to drink coffee", " to drink it"]}
+{"head": "He then adds coffee to both.", "relation": "xNeed", "tails": [" to pour the coffee into the cup", " to pour the coffee in the cup", " to pour coffee into the cup"]}
+{"head": "He then adds coffee to both.", "relation": "xEffect", "tails": [" gets a headache", " makes coffee", " he gets a headache"]}
+{"head": "He then adds coffee to both.", "relation": "HinderedBy", "tails": [" he puts the coffee in a cup", " he puts the coffee in the cup", " he puts the coffee in the microwave"]}
+{"head": "He then adds coffee to both.", "relation": "oWant", "tails": [" to drink the coffee", " to drink it", " to drink coffee"]}
+{"head": "He then adds coffee to both.", "relation": "xReact", "tails": [" good", " good for the day", " he has a good day"]}
+{"head": "He then adds coffee to both.", "relation": "oEffect", "tails": [" none", " get a drink", " he makes coffee"]}
+{"head": "He then adds coffee to both.", "relation": "xIntent", "tails": [" to make coffee", " to drink coffee", " to make a drink"]}
+{"head": "He then adds coffee to both.", "relation": "oReact", "tails": [" none", " like they have something to drink", " like they have something to drink."]}
+{"head": "He then adds coffee to both.", "relation": "isBefore", "tails": [" he puts it in the coffee pot", " he puts it in the coffee maker", " he puts the coffee in the microwave"]}
+{"head": "He then adds coffee to both.", "relation": "isAfter", "tails": [" he puts it in the coffee maker", " he puts it in the coffee pot", " he puts the coffee in the cup"]}
+{"head": "He then adds coffee to both.", "relation": "HasSubEvent", "tails": [" get a cup of coffee", " make coffee", " get a drink"]}
+{"head": "He then adds coffee to both.", "relation": "Causes", "tails": [" he puts the coffee in the cup", " he puts the coffee in a cup", " he makes a cup of coffee"]}
+{"head": "He then adds coffee to both.", "relation": "xReason", "tails": [" he makes a cup of coffee", " he puts the coffee in a cup", " he puts the coffee in the cup"]}
+{"head": "He starts a pot of coffee.", "relation": "xAttr", "tails": [" caffeinated", " thirsty", " sleepy"]}
+{"head": "He starts a pot of coffee.", "relation": "xWant", "tails": [" to wake up", " to drink the coffee", " to drink coffee"]}
+{"head": "He starts a pot of coffee.", "relation": "xNeed", "tails": [" to turn on the stove", " to turn on the coffee maker", " to turn on the coffee maker."]}
+{"head": "He starts a pot of coffee.", "relation": "xEffect", "tails": [" he gets up to go to work", " he gets up to go to the bathroom", " he gets up to go to the kitchen"]}
+{"head": "He starts a pot of coffee.", "relation": "HinderedBy", "tails": [" he has to go to work", " he has to go to work.", " he has no coffee in the house"]}
+{"head": "He starts a pot of coffee.", "relation": "oWant", "tails": [" none", " to go to work", " to drink coffee"]}
+{"head": "He starts a pot of coffee.", "relation": "xReact", "tails": [" refreshed", " awake", " good"]}
+{"head": "He starts a pot of coffee.", "relation": "oEffect", "tails": [" none", " they get a cup of coffee", " get up and go to work"]}
+{"head": "He starts a pot of coffee.", "relation": "xIntent", "tails": [" to wake up", " to wake up.", " to get some energy"]}
+{"head": "He starts a pot of coffee.", "relation": "oReact", "tails": [" none", " like they have something to drink", " like they have something to do"]}
+{"head": "He starts a pot of coffee.", "relation": "isBefore", "tails": [" he gets up to go to work", " he gets up to go to the bathroom", " he gets out the coffee maker"]}
+{"head": "He starts a pot of coffee.", "relation": "isAfter", "tails": [" PersonX gets up to go to the bathroom.", " PersonX gets up to go to the bathroom", " PersonX gets up to go to the kitchen."]}
+{"head": "He starts a pot of coffee.", "relation": "HasSubEvent", "tails": [" get out of bed", " get out the coffee maker", " get out the coffee pot"]}
+{"head": "He starts a pot of coffee.", "relation": "Causes", "tails": [" he has to go to work", " he has to go to work.", " he gets up to go to work"]}
+{"head": "He starts a pot of coffee.", "relation": "xReason", "tails": [" he has to go to work", " he gets up to go to the bathroom", " he gets up to go to work"]}
+{"head": "After finishing the cup, he takes the thermos to work with him.", "relation": "xAttr", "tails": [" thirsty", " hungry", " responsible"]}
+{"head": "After finishing the cup, he takes the thermos to work with him.", "relation": "xWant", "tails": [" to put the thermos away", " to put the thermos in the fridge", " to put the thermos in the car"]}
+{"head": "After finishing the cup, he takes the thermos to work with him.", "relation": "xNeed", "tails": [" to fill the thermos with water", " to fill the thermos with coffee", " to put the thermos in the car"]}
+{"head": "After finishing the cup, he takes the thermos to work with him.", "relation": "xEffect", "tails": [" drink coffee", " gets a headache", " gets a cold"]}
+{"head": "After finishing the cup, he takes the thermos to work with him.", "relation": "HinderedBy", "tails": [" He has to go to work.", " He has to go to a meeting.", " He has to go to the bathroom."]}
+{"head": "After finishing the cup, he takes the thermos to work with him.", "relation": "oWant", "tails": [" none", " to drink the coffee", " to drink the cup"]}
+{"head": "After finishing the cup, he takes the thermos to work with him.", "relation": "xReact", "tails": [" good about themselves", " satisfied", " happy"]}
+{"head": "After finishing the cup, he takes the thermos to work with him.", "relation": "oEffect", "tails": [" none", " drink coffee", " drink the coffee"]}
+{"head": "After finishing the cup, he takes the thermos to work with him.", "relation": "xIntent", "tails": [" drink coffee", " to drink coffee", " to keep warm"]}
+{"head": "After finishing the cup, he takes the thermos to work with him.", "relation": "oReact", "tails": [" none", " happy", " happy."]}
+{"head": "After finishing the cup, he takes the thermos to work with him.", "relation": "isBefore", "tails": [" drink coffee", " drink the coffee", " drink the cup"]}
+{"head": "After finishing the cup, he takes the thermos to work with him.", "relation": "isAfter", "tails": [" coffee", " cup of coffee", " drink coffee"]}
+{"head": "After finishing the cup, he takes the thermos to work with him.", "relation": "HasSubEvent", "tails": [" drink coffee", " drink the coffee", " drink the cup"]}
+{"head": "After finishing the cup, he takes the thermos to work with him.", "relation": "Causes", "tails": [" drink coffee", " drink coffee from thermos", " drink coffee from the thermos"]}
+{"head": "After finishing the cup, he takes the thermos to work with him.", "relation": "xReason", "tails": [" drink coffee", " drink coffee from thermos", " drink coffee from the thermos"]}

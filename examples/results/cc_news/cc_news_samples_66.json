@@ -1,0 +1,89 @@
+{"head": "to say", "relation": "HinderedBy", "tails": [" to say", " to say ", " to say something"]}
+{"head": "to say", "relation": "isBefore", "tails": [" to say", " to say something", " to say "]}
+{"head": "to say", "relation": "isAfter", "tails": [" to be heard", " to say", " to say something"]}
+{"head": "to say", "relation": "HasSubEvent", "tails": [" to say", " to say ", " to say  something"]}
+{"head": "to say", "relation": "Causes", "tails": [" to say", " have to say", " to say something"]}
+{"head": "to say", "relation": "xReason", "tails": [" to say", " have to say", " to say something"]}
+{"head": "to float", "relation": "HinderedBy", "tails": [" to float", " to float ", " to float on water"]}
+{"head": "to float", "relation": "isBefore", "tails": [" to float", " to float on water", " to float on the water"]}
+{"head": "to float", "relation": "isAfter", "tails": [" to float on water", " to float on the water", " to float"]}
+{"head": "to float", "relation": "HasSubEvent", "tails": [" to float", " to float on water", " get out of water"]}
+{"head": "to float", "relation": "Causes", "tails": [" to float", " to float on water", " float on water"]}
+{"head": "to float", "relation": "xReason", "tails": [" to float", " to float on water", " float on water"]}
+{"head": "to discover", "relation": "HinderedBy", "tails": [" to discover", " to discover ", " to discover something"]}
+{"head": "to discover", "relation": "isBefore", "tails": [" to discover", " to discover something new", " to discover "]}
+{"head": "to discover", "relation": "isAfter", "tails": [" to discover", " to discover something new", " to discover something"]}
+{"head": "to discover", "relation": "HasSubEvent", "tails": [" to discover", " to discover  discovery", " to discover "]}
+{"head": "to discover", "relation": "Causes", "tails": [" to discover", " discover new things", " to discover "]}
+{"head": "to discover", "relation": "xReason", "tails": [" to discover", " discover new things", " to discover something new"]}
+{"head": "morning", "relation": "ObjectUse", "tails": [" get out of bed", " wake up", " get out of bed in"]}
+{"head": "morning", "relation": "AtLocation", "tails": [" morning", " bed", " breakfast"]}
+{"head": "morning", "relation": "CapableOf", "tails": [" wake up", " get out of bed", " wake up early"]}
+{"head": "morning", "relation": "HasProperty", "tails": [" found in early morning", " found in morning", " morning"]}
+{"head": "morning", "relation": "MadeUpOf", "tails": [" morning", " wake up", " breakfast"]}
+{"head": "morning", "relation": "NotDesires", "tails": [" wake up", " morning sickness", " wake up early"]}
+{"head": "morning", "relation": "Desires", "tails": [" wake up", " wake up early", " wake up in"]}
+{"head": "man body", "relation": "ObjectUse", "tails": [" have sex with", " man's body", " have sex"]}
+{"head": "man body", "relation": "AtLocation", "tails": [" man's body", " men's body", " man's chest"]}
+{"head": "man body", "relation": "CapableOf", "tails": [" man's body", " live in body", " man's head"]}
+{"head": "man body", "relation": "HasProperty", "tails": [" man's body", " human body", " body parts"]}
+{"head": "man body", "relation": "MadeUpOf", "tails": [" man's body", " man's heart", " muscle"]}
+{"head": "man body", "relation": "NotDesires", "tails": [" man's body", " man's head", " dead body"]}
+{"head": "man body", "relation": "Desires", "tails": [" men's body", " man's body", " man's heart"]}
+{"head": "man", "relation": "ObjectUse", "tails": [" man of steel", " man's mouth", " man's place"]}
+{"head": "man", "relation": "AtLocation", "tails": [" mannequin", " man's house", " man's home"]}
+{"head": "man", "relation": "CapableOf", "tails": [" man of steel", " men to work", " men to be men"]}
+{"head": "man", "relation": "HasProperty", "tails": [" found in woods", " man", " man's body"]}
+{"head": "man", "relation": "MadeUpOf", "tails": [" man's mouth", " mannequin", " man's hand"]}
+{"head": "man", "relation": "NotDesires", "tails": [" man to die", " man to be dead", " man's body"]}
+{"head": "man", "relation": "Desires", "tails": [" man's best friend", " man's best interests at heart", " man's best interest at heart"]}
+{"head": "body", "relation": "ObjectUse", "tails": [" have sex with", " body parts", " have sex"]}
+{"head": "body", "relation": "AtLocation", "tails": [" body", " medicine chest", " body parts"]}
+{"head": "body", "relation": "CapableOf", "tails": [" lie down on bed", " lie on bed", " lie down in bed"]}
+{"head": "body", "relation": "HasProperty", "tails": [" found in body", " body", " found in human body"]}
+{"head": "body", "relation": "MadeUpOf", "tails": [" body", " body part", " body parts"]}
+{"head": "body", "relation": "NotDesires", "tails": [" dead", " death", " body parts"]}
+{"head": "body", "relation": "Desires", "tails": [" body", " body parts", " feel good"]}
+{"head": "authorities", "relation": "ObjectUse", "tails": [" make sure people are safe", " make sure people do what they say", " make sure people do what they are told"]}
+{"head": "authorities", "relation": "AtLocation", "tails": [" police station", " police car", " jail"]}
+{"head": "authorities", "relation": "CapableOf", "tails": [" rule over people", " control people", " rule country"]}
+{"head": "authorities", "relation": "HasProperty", "tails": [" authority", " authoritative", " important"]}
+{"head": "authorities", "relation": "MadeUpOf", "tails": [" authority", " authority figure", " police car"]}
+{"head": "authorities", "relation": "NotDesires", "tails": [" authority", " control people", " power"]}
+{"head": "authorities", "relation": "Desires", "tails": [" authority", " control people", " authority over people"]}
+{"head": "Tuesday morning", "relation": "ObjectUse", "tails": [" get ready for work", " get ready for the day", " sleep in"]}
+{"head": "Tuesday morning", "relation": "AtLocation", "tails": [" morning", " school", " breakfast"]}
+{"head": "Tuesday morning", "relation": "CapableOf", "tails": [" wake up", " wake up early", " sleep in"]}
+{"head": "Tuesday morning", "relation": "HasProperty", "tails": [" morning", " found in kitchen", " breakfast"]}
+{"head": "Tuesday morning", "relation": "MadeUpOf", "tails": [" morning", " breakfast", " morning light"]}
+{"head": "Tuesday morning", "relation": "NotDesires", "tails": [" get up early", " morning sickness", " sleep in"]}
+{"head": "Tuesday morning", "relation": "Desires", "tails": [" sleep in", " get up early", " get up on time"]}
+{"head": "Manhattan", "relation": "ObjectUse", "tails": [" New York City", " New York", " New York City."]}
+{"head": "Manhattan", "relation": "AtLocation", "tails": [" city", " apartment building", " town"]}
+{"head": "Manhattan", "relation": "CapableOf", "tails": [" live in", " walk down street", " walk down streets"]}
+{"head": "Manhattan", "relation": "HasProperty", "tails": [" found in cities around the world", " found in many places in the world", " found in cities around the world."]}
+{"head": "Manhattan", "relation": "MadeUpOf", "tails": [" manhattan", " city", " subway station"]}
+{"head": "Manhattan", "relation": "NotDesires", "tails": [" manhattan", " city", " manhattan city"]}
+{"head": "Manhattan", "relation": "Desires", "tails": [" live in", " living in", " city"]}
+{"head": "Hudson River", "relation": "ObjectUse", "tails": [" water", " swimming in", " swimming in river"]}
+{"head": "Hudson River", "relation": "AtLocation", "tails": [" water", " river", " riverbank"]}
+{"head": "Hudson River", "relation": "CapableOf", "tails": [" get wet", " water plants", " run into"]}
+{"head": "Hudson River", "relation": "HasProperty", "tails": [" found in New York", " found in New York City", " found in New York state"]}
+{"head": "Hudson River", "relation": "MadeUpOf", "tails": [" water", " riverside", " riverbank"]}
+{"head": "Hudson River", "relation": "NotDesires", "tails": [" water", " water in river", " water to flow"]}
+{"head": "Hudson River", "relation": "Desires", "tails": [" water", " to swim in", " water to drink"]}
+{"head": "A man\u2019s body was discovered floating in the Hudson River off Manhattan on Tuesday morning, authorities said.", "relation": "xAttr", "tails": [" dead", " drowning", " suspicious"]}
+{"head": "A man\u2019s body was discovered floating in the Hudson River off Manhattan on Tuesday morning, authorities said.", "relation": "xWant", "tails": [" to find out what happened to the man", " to identify the body", " to find out what happened to the person"]}
+{"head": "A man\u2019s body was discovered floating in the Hudson River off Manhattan on Tuesday morning, authorities said.", "relation": "xNeed", "tails": [" find a body", " a boat", " find the body"]}
+{"head": "A man\u2019s body was discovered floating in the Hudson River off Manhattan on Tuesday morning, authorities said.", "relation": "xEffect", "tails": [" drowns", " drowning", " a body"]}
+{"head": "A man\u2019s body was discovered floating in the Hudson River off Manhattan on Tuesday morning, authorities said.", "relation": "HinderedBy", "tails": [" a body was found in the river", " a man's body was found in the river", " a man was found dead in the river"]}
+{"head": "A man\u2019s body was discovered floating in the Hudson River off Manhattan on Tuesday morning, authorities said.", "relation": "oWant", "tails": [" find a body", " find the body", " find out what happened"]}
+{"head": "A man\u2019s body was discovered floating in the Hudson River off Manhattan on Tuesday morning, authorities said.", "relation": "xReact", "tails": [" dead", " sad", " drowning"]}
+{"head": "A man\u2019s body was discovered floating in the Hudson River off Manhattan on Tuesday morning, authorities said.", "relation": "oEffect", "tails": [" drowns", " drowning", " drown in river"]}
+{"head": "A man\u2019s body was discovered floating in the Hudson River off Manhattan on Tuesday morning, authorities said.", "relation": "xIntent", "tails": [" a dead body", " a body", " a dead person"]}
+{"head": "A man\u2019s body was discovered floating in the Hudson River off Manhattan on Tuesday morning, authorities said.", "relation": "oReact", "tails": [" dead", " none", " drowning"]}
+{"head": "A man\u2019s body was discovered floating in the Hudson River off Manhattan on Tuesday morning, authorities said.", "relation": "isBefore", "tails": [" a body found in the river", " a body is found in the river", " a body"]}
+{"head": "A man\u2019s body was discovered floating in the Hudson River off Manhattan on Tuesday morning, authorities said.", "relation": "isAfter", "tails": [" a man's body was found in the river", " a body found in the river", " a man's body was found floating in the river"]}
+{"head": "A man\u2019s body was discovered floating in the Hudson River off Manhattan on Tuesday morning, authorities said.", "relation": "HasSubEvent", "tails": [" drowns", " drowning", " drown"]}
+{"head": "A man\u2019s body was discovered floating in the Hudson River off Manhattan on Tuesday morning, authorities said.", "relation": "Causes", "tails": [" dead", " drowning", " dead body"]}
+{"head": "A man\u2019s body was discovered floating in the Hudson River off Manhattan on Tuesday morning, authorities said.", "relation": "xReason", "tails": [" a dead body", " drowning", " a body"]}

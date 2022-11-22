@@ -1,0 +1,100 @@
+{"head": "to test", "relation": "HinderedBy", "tails": [" to test", " to test ", " to test something"]}
+{"head": "to test", "relation": "isBefore", "tails": [" to test", " to test something", " to test the theory"]}
+{"head": "to test", "relation": "isAfter", "tails": [" to test", " to test something", " test"]}
+{"head": "to test", "relation": "HasSubEvent", "tails": [" to test  test  test  test  test  test  test  test  test  test  test", " to test  test  test  test  test  test  test  test  test  test", " to test  test  test  test  test  test  test  test  test  test "]}
+{"head": "to test", "relation": "Causes", "tails": [" to test", " to test something", " to test  to test "]}
+{"head": "to test", "relation": "xReason", "tails": [" to test", " to test something", " to test the theory"]}
+{"head": "to review", "relation": "HinderedBy", "tails": [" to review", " to review ", " to review  to review "]}
+{"head": "to review", "relation": "isBefore", "tails": [" to review", " to review the book", " to review the product"]}
+{"head": "to review", "relation": "isAfter", "tails": [" to review", " to review a book", " to review the book"]}
+{"head": "to review", "relation": "HasSubEvent", "tails": [" to review  review  review  review  review  review  review", " to review  review  review  review  review  review", " to review  review  review  review  review"]}
+{"head": "to review", "relation": "Causes", "tails": [" to review  review  review  review  review  review  review  review  review  review  review", " to review  review  review  review  review  review  review  review  review  review", " to review  review  review  review  review  review  review  review  review"]}
+{"head": "to review", "relation": "xReason", "tails": [" to review", " to review something", " to review the product"]}
+{"head": "to rate", "relation": "HinderedBy", "tails": [" to rate", " to rate ", " to rate something"]}
+{"head": "to rate", "relation": "isBefore", "tails": [" to rate", " to rate something", " to rate things"]}
+{"head": "to rate", "relation": "isAfter", "tails": [" to rate", " to rate things", " to rate the product"]}
+{"head": "to rate", "relation": "HasSubEvent", "tails": [" to rate", " to rate something", " to rate "]}
+{"head": "to rate", "relation": "Causes", "tails": [" to rate", " to rate something", " to rate things"]}
+{"head": "to rate", "relation": "xReason", "tails": [" to rate", " to rate something", " to rate things"]}
+{"head": "to learn", "relation": "HinderedBy", "tails": [" to learn", " to learn ", " to learn  to learn "]}
+{"head": "to learn", "relation": "isBefore", "tails": [" to learn", " to learn something new", " learn new things"]}
+{"head": "to learn", "relation": "isAfter", "tails": [" learn new things", " learn new skills", " learn new skill"]}
+{"head": "to learn", "relation": "HasSubEvent", "tails": [" to learn", " learn new things", " learn new skill"]}
+{"head": "to learn", "relation": "Causes", "tails": [" learn new things", " to learn", " learn new skills"]}
+{"head": "to learn", "relation": "xReason", "tails": [" learn new things", " to learn", " learn new skill"]}
+{"head": "to fit", "relation": "HinderedBy", "tails": [" to fit", " to fit ", " to fit  into "]}
+{"head": "to fit", "relation": "isBefore", "tails": [" to fit", " to fit in", " to fit into"]}
+{"head": "to fit", "relation": "isAfter", "tails": [" to fit", " to fit in", " to fit into"]}
+{"head": "to fit", "relation": "HasSubEvent", "tails": [" to fit", " to fit in", " make sure fit"]}
+{"head": "to fit", "relation": "Causes", "tails": [" to fit", " to fit in", " to fit into"]}
+{"head": "to fit", "relation": "xReason", "tails": [" to fit", " to fit in", " to fit into"]}
+{"head": "to check", "relation": "HinderedBy", "tails": [" to check ", " to check", " to check  to check "]}
+{"head": "to check", "relation": "isBefore", "tails": [" to check", " to check if there is a problem", " to check if there is anything wrong"]}
+{"head": "to check", "relation": "isAfter", "tails": [" to check if it is working", " to check if it is ok", " to check if it's ok"]}
+{"head": "to check", "relation": "HasSubEvent", "tails": [" to check  check  check  check  check  check  check  check", " to check  check  check  check  check  check  check  check  check", " to check  check  check  check  check  check  check"]}
+{"head": "to check", "relation": "Causes", "tails": [" find out what is wrong", " to check", " to check "]}
+{"head": "to check", "relation": "xReason", "tails": [" find out what is wrong", " find out what's wrong", " to check"]}
+{"head": "review", "relation": "ObjectUse", "tails": [" give to a friend", " give a good review", " get a job"]}
+{"head": "review", "relation": "AtLocation", "tails": [" book", " movie", " book store"]}
+{"head": "review", "relation": "CapableOf", "tails": [" write review", " read book", " review book"]}
+{"head": "review", "relation": "HasProperty", "tails": [" found in book", " found in newspaper", " found in review sites"]}
+{"head": "review", "relation": "MadeUpOf", "tails": [" review", " book", " book review"]}
+{"head": "review", "relation": "NotDesires", "tails": [" get rejected", " read", " read review"]}
+{"head": "review", "relation": "Desires", "tails": [" read", " review", " read about"]}
+{"head": "check review", "relation": "HinderedBy", "tails": [" find out what they think", " find out if it was good", " check reviews"]}
+{"head": "check review", "relation": "isBefore", "tails": [" check for errors", " check out reviews", " check reviews"]}
+{"head": "check review", "relation": "isAfter", "tails": [" check out reviews", " check reviews", " check out reviews online"]}
+{"head": "check review", "relation": "HasSubEvent", "tails": [" check for errors", " read review", " read reviews"]}
+{"head": "check review", "relation": "Causes", "tails": [" find out if it was good", " find out what others think", " find out what they think"]}
+{"head": "check review", "relation": "xReason", "tails": [" read reviews", " check for errors", " read review"]}
+{"head": "arsenal", "relation": "ObjectUse", "tails": [" use as a weapon", " use as a bandage", " use as a paperweight"]}
+{"head": "arsenal", "relation": "AtLocation", "tails": [" medicine chest", " medicine cabinet", " medical office"]}
+{"head": "arsenal", "relation": "CapableOf", "tails": [" use as a weapon", " use as a lubricant", " use as a bandage"]}
+{"head": "arsenal", "relation": "HasProperty", "tails": [" used in medicine chest", " used in surgery", " used in medicine"]}
+{"head": "arsenal", "relation": "MadeUpOf", "tails": [" medicine chest", " skin", "  armpit"]}
+{"head": "arsenal", "relation": "NotDesires", "tails": [" use as a lubricant", " use as lubricant", " use as a weapon"]}
+{"head": "arsenal", "relation": "Desires", "tails": [" clean skin", " to be healthy", " medicine"]}
+{"head": "Storm Timeless review", "relation": "ObjectUse", "tails": [" get a good review", " make a movie about it", " get a good grade"]}
+{"head": "Storm Timeless review", "relation": "AtLocation", "tails": [" movie", " book", " movie theater"]}
+{"head": "Storm Timeless review", "relation": "CapableOf", "tails": [" write review", " read about the storm", " write about it"]}
+{"head": "Storm Timeless review", "relation": "HasProperty", "tails": [" none", " good", " very good"]}
+{"head": "Storm Timeless review", "relation": "MadeUpOf", "tails": [" storm", " book", " stormy"]}
+{"head": "Storm Timeless review", "relation": "NotDesires", "tails": [" none", " watch the movie", " get a good review"]}
+{"head": "Storm Timeless review", "relation": "Desires", "tails": [" none", " to learn about the past", " to learn about it"]}
+{"head": "Comprehensively tested, reviewed, and rated by Bowling This Month.", "relation": "xAttr", "tails": [" competitive", " skilled", " competent"]}
+{"head": "Comprehensively tested, reviewed, and rated by Bowling This Month.", "relation": "xWant", "tails": [" to get a good grade on the test", " to get a good grade", " to get a good score"]}
+{"head": "Comprehensively tested, reviewed, and rated by Bowling This Month.", "relation": "xNeed", "tails": [" get a license", " get a job", " to have a job"]}
+{"head": "Comprehensively tested, reviewed, and rated by Bowling This Month.", "relation": "xEffect", "tails": [" gets a good grade", " gets a good review", " gets a good rating"]}
+{"head": "Comprehensively tested, reviewed, and rated by Bowling This Month.", "relation": "HinderedBy", "tails": [" Comprehensively tested, reviewed, and rated by Bowling This Month.", " Comprehensively tested, reviewed, and rated by Bowling This Month", " Comprehensively tested, reviewed, and rated by bowling this month."]}
+{"head": "Comprehensively tested, reviewed, and rated by Bowling This Month.", "relation": "oWant", "tails": [" to see how they did", " to get a good grade", " to see how they do"]}
+{"head": "Comprehensively tested, reviewed, and rated by Bowling This Month.", "relation": "xReact", "tails": [" satisfied", " competitive", " good"]}
+{"head": "Comprehensively tested, reviewed, and rated by Bowling This Month.", "relation": "oEffect", "tails": [" none", " get a new job", " get a good grade"]}
+{"head": "Comprehensively tested, reviewed, and rated by Bowling This Month.", "relation": "xIntent", "tails": [" none", " to be a good bowler", " to be the best"]}
+{"head": "Comprehensively tested, reviewed, and rated by Bowling This Month.", "relation": "oReact", "tails": [" none", " happy", " good"]}
+{"head": "Comprehensively tested, reviewed, and rated by Bowling This Month.", "relation": "isBefore", "tails": [" Comprehensively tested and reviewed.", " Comprehensively tested and reviewed", " Comprehensively tested and reviewed by others"]}
+{"head": "Comprehensively tested, reviewed, and rated by Bowling This Month.", "relation": "isAfter", "tails": [" Comprehensively tested and reviewed.", " Comprehensively tested and reviewed", " Comprehensively tested and reviewed by others"]}
+{"head": "Comprehensively tested, reviewed, and rated by Bowling This Month.", "relation": "HasSubEvent", "tails": [" get a good grade", " learn new skill", " learn new skills"]}
+{"head": "Comprehensively tested, reviewed, and rated by Bowling This Month.", "relation": "Causes", "tails": [" competitive", " competition", " competitively"]}
+{"head": "Comprehensively tested, reviewed, and rated by Bowling This Month.", "relation": "xReason", "tails": [" Comprehensively tested and reviewed.", " Comprehensively tested and reviewed", " Comprehensively tested and reviewed by others"]}
+{"head": "Check out our Storm Timeless review and learn where it might fit into your arsenal.", "relation": "xAttr", "tails": [" smart", " careful", " competent"]}
+{"head": "Check out our Storm Timeless review and learn where it might fit into your arsenal.", "relation": "xWant", "tails": [" to use it", " to make a decision", " to use the weapon"]}
+{"head": "Check out our Storm Timeless review and learn where it might fit into your arsenal.", "relation": "xNeed", "tails": [" buy a new one", " buy a new weapon", " buy a new gun"]}
+{"head": "Check out our Storm Timeless review and learn where it might fit into your arsenal.", "relation": "xEffect", "tails": [" get a new weapon", " get a new one", " get a better weapon"]}
+{"head": "Check out our Storm Timeless review and learn where it might fit into your arsenal.", "relation": "HinderedBy", "tails": [" check out the reviews", " Check out the reviews.", " check out other reviews"]}
+{"head": "Check out our Storm Timeless review and learn where it might fit into your arsenal.", "relation": "oWant", "tails": [" to use it", " to buy it", " none"]}
+{"head": "Check out our Storm Timeless review and learn where it might fit into your arsenal.", "relation": "xReact", "tails": [" happy", " satisfied", " good"]}
+{"head": "Check out our Storm Timeless review and learn where it might fit into your arsenal.", "relation": "oEffect", "tails": [" none", " get a new weapon", " get a new one"]}
+{"head": "Check out our Storm Timeless review and learn where it might fit into your arsenal.", "relation": "xIntent", "tails": [" buy a new one", " to be able to use it", " to be able to defend themselves"]}
+{"head": "Check out our Storm Timeless review and learn where it might fit into your arsenal.", "relation": "oReact", "tails": [" none", " buy it", " check out reviews"]}
+{"head": "Check out our Storm Timeless review and learn where it might fit into your arsenal.", "relation": "isBefore", "tails": [" check if it works", " check out the reviews", " check if it is safe"]}
+{"head": "Check out our Storm Timeless review and learn where it might fit into your arsenal.", "relation": "isAfter", "tails": [" check if it works", " check out the reviews", " check if it is safe"]}
+{"head": "Check out our Storm Timeless review and learn where it might fit into your arsenal.", "relation": "HasSubEvent", "tails": [" get a new weapon", " get a new one", " get a better weapon"]}
+{"head": "Check out our Storm Timeless review and learn where it might fit into your arsenal.", "relation": "Causes", "tails": [" check out the reviews", " buy it", " check out the product"]}
+{"head": "Check out our Storm Timeless review and learn where it might fit into your arsenal.", "relation": "xReason", "tails": [" get a new weapon", " get a new one", " check out the reviews"]}
+{"head": "Bowling", "relation": "ObjectUse", "tails": [" bowling ball", " bowl for money", " practice bowling"]}
+{"head": "Bowling", "relation": "AtLocation", "tails": [" bowling alley", " bowl game", " bowl"]}
+{"head": "Bowling", "relation": "CapableOf", "tails": [" throw ball", " bowl", " bowl for money"]}
+{"head": "Bowling", "relation": "HasProperty", "tails": [" bowling ball", " bowling pins", " bowling balls"]}
+{"head": "Bowling", "relation": "MadeUpOf", "tails": [" bowling ball", " bowl", " bowling pin"]}
+{"head": "Bowling", "relation": "NotDesires", "tails": [" bowling ball", " bowled", " bowling"]}
+{"head": "Bowling", "relation": "Desires", "tails": [" bowling", " bowling ball", " bowl"]}

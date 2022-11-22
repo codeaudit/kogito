@@ -1,0 +1,201 @@
+{"head": "wife", "relation": "ObjectUse", "tails": [" have sex with", " have a relationship with", " marry"]}
+{"head": "wife", "relation": "AtLocation", "tails": [" wife", " wife's car", " wife's house"]}
+{"head": "wife", "relation": "CapableOf", "tails": [" marry husband", " marry", " marry man"]}
+{"head": "wife", "relation": "HasProperty", "tails": [" married", " married to", " married to husband"]}
+{"head": "wife", "relation": "MadeUpOf", "tails": [" wife", " wife's hand", " wife's name"]}
+{"head": "wife", "relation": "NotDesires", "tails": [" husband to die", " wife to die", " wife to be dead"]}
+{"head": "wife", "relation": "Desires", "tails": [" wife to be happy", " wife to love", " have a good time with"]}
+{"head": "to throw", "relation": "HinderedBy", "tails": [" to throw", " to throw the ball", " to throw "]}
+{"head": "to throw", "relation": "isBefore", "tails": [" to throw", " throw ball", " to throw ball"]}
+{"head": "to throw", "relation": "isAfter", "tails": [" throw ball", " to throw", " to throw ball"]}
+{"head": "to throw", "relation": "HasSubEvent", "tails": [" to throw", " throw ball", " throw"]}
+{"head": "to throw", "relation": "Causes", "tails": [" to throw", " throw ball", " use as weapon"]}
+{"head": "to throw", "relation": "xReason", "tails": [" to throw", " throw ball", " to throw ball"]}
+{"head": "to think", "relation": "HinderedBy", "tails": [" to think", " to think ", " to think about something"]}
+{"head": "to think", "relation": "isBefore", "tails": [" to think", " to think about something", " to think about things"]}
+{"head": "to think", "relation": "isAfter", "tails": [" take a break", " to think", " to think about something"]}
+{"head": "to think", "relation": "HasSubEvent", "tails": [" to think", " stop thinking", " think about things"]}
+{"head": "to think", "relation": "Causes", "tails": [" to think", " to think about", " to think about things"]}
+{"head": "to think", "relation": "xReason", "tails": [" to think", " to think about things", " to think about something"]}
+{"head": "to say", "relation": "HinderedBy", "tails": [" to say", " to say ", " to say something"]}
+{"head": "to say", "relation": "isBefore", "tails": [" to say", " to say something", " to say "]}
+{"head": "to say", "relation": "isAfter", "tails": [" to be heard", " to say", " to say something"]}
+{"head": "to say", "relation": "HasSubEvent", "tails": [" to say", " to say ", " to say  something"]}
+{"head": "to say", "relation": "Causes", "tails": [" to say", " have to say", " to say something"]}
+{"head": "to say", "relation": "xReason", "tails": [" to say", " have to say", " to say something"]}
+{"head": "to reupholstere", "relation": "HinderedBy", "tails": [" to reupholstere", " to reupholstere the sofa", " to reupholstere the couch"]}
+{"head": "to reupholstere", "relation": "isBefore", "tails": [" to reupholstere", " to reupholstere sofa", " to reupholstere couch"]}
+{"head": "to reupholstere", "relation": "isAfter", "tails": [" to reupholstere", " to reupholstere sofa", " to reupholstere the sofa"]}
+{"head": "to reupholstere", "relation": "HasSubEvent", "tails": [" to reupholstere", " to reupholster", " to reupholstere sofa"]}
+{"head": "to reupholstere", "relation": "Causes", "tails": [" to reupholstere", " to reupholster", " to reupholstere sofa"]}
+{"head": "to reupholstere", "relation": "xReason", "tails": [" to reupholstere", " to reupholstere sofa", " to reupholster"]}
+{"head": "to have", "relation": "HinderedBy", "tails": [" to have", " to have ", " to have  to have"]}
+{"head": "to have", "relation": "isBefore", "tails": [" to have", " to have ", " to have  a good time"]}
+{"head": "to have", "relation": "isAfter", "tails": [" to have something to eat", " to have", " to have something to drink"]}
+{"head": "to have", "relation": "HasSubEvent", "tails": [" to have", " to have ", " to have  have"]}
+{"head": "to have", "relation": "Causes", "tails": [" to have", " to have ", " to have  "]}
+{"head": "to have", "relation": "xReason", "tails": [" to have", " to have something to eat", " to have "]}
+{"head": "to give", "relation": "HinderedBy", "tails": [" to give", " to give something to someone", " to give  to "]}
+{"head": "to give", "relation": "isBefore", "tails": [" to give", " to give something to someone", " to give to someone"]}
+{"head": "to give", "relation": "isAfter", "tails": [" to be generous", " to give", " to give to someone"]}
+{"head": "to give", "relation": "HasSubEvent", "tails": [" to give", " to give something to someone", " to give  give  give"]}
+{"head": "to give", "relation": "Causes", "tails": [" to give", " to give something to someone", " to give to others"]}
+{"head": "to give", "relation": "xReason", "tails": [" to give", " to be generous", " to give to others"]}
+{"head": "to find", "relation": "HinderedBy", "tails": [" to find ", " to find", " to find  to find "]}
+{"head": "to find", "relation": "isBefore", "tails": [" to find", " to find something", " to find "]}
+{"head": "to find", "relation": "isAfter", "tails": [" to find something", " to find something to eat", " to find"]}
+{"head": "to find", "relation": "HasSubEvent", "tails": [" to find", " to find ", " to look for it"]}
+{"head": "to find", "relation": "Causes", "tails": [" to find", " to find ", " to find something"]}
+{"head": "to find", "relation": "xReason", "tails": [" to find", " to find something", " to find "]}
+{"head": "to complain", "relation": "HinderedBy", "tails": [" to complain", " to complain ", " to complain  to"]}
+{"head": "to complain", "relation": "isBefore", "tails": [" to complain", " to complain about something", " to complain to the boss"]}
+{"head": "to complain", "relation": "isAfter", "tails": [" to complain about something", " to complain", " to complain to the boss"]}
+{"head": "to complain", "relation": "HasSubEvent", "tails": [" to complain", " to complain  about something", " to complain about something"]}
+{"head": "to complain", "relation": "Causes", "tails": [" to complain", " to complain about something", " to complain  about something"]}
+{"head": "to complain", "relation": "xReason", "tails": [" to complain", " to complain about something", " to complain to the boss"]}
+{"head": "to clash", "relation": "HinderedBy", "tails": [" to clash", " to clash ", " to fight"]}
+{"head": "to clash", "relation": "isBefore", "tails": [" to fight", " to clash", " fight"]}
+{"head": "to clash", "relation": "isAfter", "tails": [" to fight", " fight", " to fight with"]}
+{"head": "to clash", "relation": "HasSubEvent", "tails": [" to clash", " to fight", " fight"]}
+{"head": "to clash", "relation": "Causes", "tails": [" to clash", " to fight", " to clash "]}
+{"head": "to clash", "relation": "xReason", "tails": [" to fight", " to clash", " fight"]}
+{"head": "to buy", "relation": "HinderedBy", "tails": [" to buy", " to buy ", " to buy  to buy"]}
+{"head": "to buy", "relation": "isBefore", "tails": [" to buy", " to buy something", " to buy "]}
+{"head": "to buy", "relation": "isAfter", "tails": [" to go to the store", " to go to the grocery store", " to go to the store to buy"]}
+{"head": "to buy", "relation": "HasSubEvent", "tails": [" to buy", " to buy ", " get money from bank"]}
+{"head": "to buy", "relation": "Causes", "tails": [" to buy", " to buy ", " to buy something"]}
+{"head": "to buy", "relation": "xReason", "tails": [" to buy", " to buy something", " have money"]}
+{"head": "to bring", "relation": "HinderedBy", "tails": [" to bring", " to bring ", " to bring  to the event"]}
+{"head": "to bring", "relation": "isBefore", "tails": [" to bring", " to bring ", " to bring  food"]}
+{"head": "to bring", "relation": "isAfter", "tails": [" to bring to the event", " to bring to the party", " to bring"]}
+{"head": "to bring", "relation": "HasSubEvent", "tails": [" to bring", " to bring ", " to bring  bring"]}
+{"head": "to bring", "relation": "Causes", "tails": [" to bring", " have to bring", " to bring  to  bring"]}
+{"head": "to bring", "relation": "xReason", "tails": [" to bring", " have to bring", " to bring  food"]}
+{"head": "throw recliner", "relation": "HinderedBy", "tails": [" throw pillows", " sit in", " throw"]}
+{"head": "throw recliner", "relation": "isBefore", "tails": [" throw pillows", " recliner", " reclining chair"]}
+{"head": "throw recliner", "relation": "isAfter", "tails": [" recliner", " reclining chair", " chair"]}
+{"head": "throw recliner", "relation": "HasSubEvent", "tails": [" sit in", " throw at someone", " sit on"]}
+{"head": "throw recliner", "relation": "Causes", "tails": [" recliner", " reclining chair", " sitting in"]}
+{"head": "throw recliner", "relation": "xReason", "tails": [" throw pillows", " recliner", " reclining chair"]}
+{"head": "recliner", "relation": "ObjectUse", "tails": [" sit on", " sit in", " sit and relax"]}
+{"head": "recliner", "relation": "AtLocation", "tails": [" house", " sofa", " couch"]}
+{"head": "recliner", "relation": "CapableOf", "tails": [" sit on", " sit in", " sit on while watching tv"]}
+{"head": "recliner", "relation": "HasProperty", "tails": [" found in home", " found in house", " found in hotel"]}
+{"head": "recliner", "relation": "MadeUpOf", "tails": [" recliner", " chair", " sofa"]}
+{"head": "recliner", "relation": "NotDesires", "tails": [" recliner", " sit on", " sit in"]}
+{"head": "recliner", "relation": "Desires", "tails": [" sit and relax", " sit on", " sit in"]}
+{"head": "fabric", "relation": "ObjectUse", "tails": [" fabric", " fabricate clothing", " fabricate"]}
+{"head": "fabric", "relation": "AtLocation", "tails": [" fabric store", " fabric shop", " fabricator"]}
+{"head": "fabric", "relation": "CapableOf", "tails": [" fabricate", " fabricate clothing", " fabricate clothes"]}
+{"head": "fabric", "relation": "HasProperty", "tails": [" fabric", " made from wood", " made from"]}
+{"head": "fabric", "relation": "MadeUpOf", "tails": [" fabric", " fabricating", " fabric thread"]}
+{"head": "fabric", "relation": "NotDesires", "tails": [" fabric", " made from", " made from wood"]}
+{"head": "fabric", "relation": "Desires", "tails": [" fabric", " fabric for clothing", " make clothes"]}
+{"head": "decor", "relation": "ObjectUse", "tails": [" decorate a room", " decorate a house", " decorate the house"]}
+{"head": "decor", "relation": "AtLocation", "tails": [" house", " home", " room"]}
+{"head": "decor", "relation": "CapableOf", "tails": [" decorate house", " decorate room", " decorate home"]}
+{"head": "decor", "relation": "HasProperty", "tails": [" decorating room", " decorations", " decorating"]}
+{"head": "decor", "relation": "MadeUpOf", "tails": [" decorating", " decoration", " decorating room"]}
+{"head": "decor", "relation": "NotDesires", "tails": [" have to clean up", " have to clean up after", " have to clean up after guests"]}
+{"head": "decor", "relation": "Desires", "tails": [" decorate home", " decorate house", " decorate room"]}
+{"head": "buy fabric", "relation": "HinderedBy", "tails": [" fabric store is closed.", " make a quilt", " fabric store is closed"]}
+{"head": "buy fabric", "relation": "isBefore", "tails": [" buy fabric", " fabric store", " make fabric"]}
+{"head": "buy fabric", "relation": "isAfter", "tails": [" fabric store", " fabric shop", " fabric shopping site"]}
+{"head": "buy fabric", "relation": "HasSubEvent", "tails": [" buy fabric", " buy fabric from fabric store", " use fabric to make clothing"]}
+{"head": "buy fabric", "relation": "Causes", "tails": [" fabric store", " fabric shop", " have money"]}
+{"head": "buy fabric", "relation": "xReason", "tails": [" have money to buy fabric", " have money to spend on fabric", " have money to buy"]}
+{"head": "bring recliner", "relation": "HinderedBy", "tails": [" sit in", " sit on", " bring to house"]}
+{"head": "bring recliner", "relation": "isBefore", "tails": [" sit in", " sit on", " bring to party"]}
+{"head": "bring recliner", "relation": "isAfter", "tails": [" sit in", " sit on", " bring to party"]}
+{"head": "bring recliner", "relation": "HasSubEvent", "tails": [" sit in", " sit on", " sit down"]}
+{"head": "bring recliner", "relation": "Causes", "tails": [" sit in", " sit on", " bring to party"]}
+{"head": "bring recliner", "relation": "xReason", "tails": [" sit in", " sit on", " bring to party"]}
+{"head": "bright blue recliner", "relation": "ObjectUse", "tails": [" sit in", " sit in while watching tv", " sit in while watching a movie"]}
+{"head": "bright blue recliner", "relation": "AtLocation", "tails": [" furniture store", " house", " sofa"]}
+{"head": "bright blue recliner", "relation": "CapableOf", "tails": [" sit in", " sit on", " use as a table"]}
+{"head": "bright blue recliner", "relation": "HasProperty", "tails": [" found at furniture store", " found in home decor stores", " found in home decor store"]}
+{"head": "bright blue recliner", "relation": "MadeUpOf", "tails": [" recliner", " reclining chair", " furniture"]}
+{"head": "bright blue recliner", "relation": "NotDesires", "tails": [" recliner", " have a comfortable place to sit", " have a place to sit"]}
+{"head": "bright blue recliner", "relation": "Desires", "tails": [" have a comfortable place to sit", " to sit in", " have a comfortable place to lay down"]}
+{"head": "Virgil gave up and threw the recliner away.", "relation": "xAttr", "tails": [" tired", " frustrated", " lazy"]}
+{"head": "Virgil gave up and threw the recliner away.", "relation": "xWant", "tails": [" to clean up the mess", " to clean up the room", " to clean up the mess."]}
+{"head": "Virgil gave up and threw the recliner away.", "relation": "xNeed", "tails": [" to get the recliner out of the closet", " to get the recliner out of the house", " to get the recliner out of the garage"]}
+{"head": "Virgil gave up and threw the recliner away.", "relation": "xEffect", "tails": [" gets yelled at", " has to clean up the mess", " gets yelled at by others"]}
+{"head": "Virgil gave up and threw the recliner away.", "relation": "HinderedBy", "tails": [" The recliner is too heavy.", " The recliner is too heavy to move.", " The recliner is too comfortable."]}
+{"head": "Virgil gave up and threw the recliner away.", "relation": "oWant", "tails": [" none", " to get rid of the recliner", " to get rid of the furniture"]}
+{"head": "Virgil gave up and threw the recliner away.", "relation": "xReact", "tails": [" tired", " frustrated", " relieved"]}
+{"head": "Virgil gave up and threw the recliner away.", "relation": "oEffect", "tails": [" none", " they get a new chair", " they get a new one"]}
+{"head": "Virgil gave up and threw the recliner away.", "relation": "xIntent", "tails": [" to get rid of it", " to get rid of something", " to get rid of the chair"]}
+{"head": "Virgil gave up and threw the recliner away.", "relation": "oReact", "tails": [" none", " happy", " happy."]}
+{"head": "Virgil gave up and threw the recliner away.", "relation": "isBefore", "tails": [" PersonX throws the recliner away.", " PersonY throws the chair away.", " PersonX throws the chair away."]}
+{"head": "Virgil gave up and threw the recliner away.", "relation": "isAfter", "tails": [" the recliner is broken", " the recliner is too heavy to move", " the recliner to be thrown away"]}
+{"head": "Virgil gave up and threw the recliner away.", "relation": "HasSubEvent", "tails": [" get a new one", " get a new chair", " get out of the chair"]}
+{"head": "Virgil gave up and threw the recliner away.", "relation": "Causes", "tails": [" they are tired of sitting in the recliner", " they are tired of sitting in the recliner.", " they are tired of sitting in the recliner all day"]}
+{"head": "Virgil gave up and threw the recliner away.", "relation": "xReason", "tails": [" they can't find the recliner", " they can't find the recliner.", " they can't find the recliner again"]}
+{"head": "Virgil brought home a bright blue recliner he had found online.", "relation": "xAttr", "tails": [" happy", " excited", " stylish"]}
+{"head": "Virgil brought home a bright blue recliner he had found online.", "relation": "xWant", "tails": [" to put the recliner in the living room", " to put it in the living room", " to put the recliner in the living room."]}
+{"head": "Virgil brought home a bright blue recliner he had found online.", "relation": "xNeed", "tails": [" to go to the store", " to go to the furniture store", " to go to a furniture store"]}
+{"head": "Virgil brought home a bright blue recliner he had found online.", "relation": "xEffect", "tails": [" buys a new one", " buys a new chair", " buys a new couch"]}
+{"head": "Virgil brought home a bright blue recliner he had found online.", "relation": "HinderedBy", "tails": [" The recliner is too expensive.", " The furniture store is closed.", " The recliner is broken."]}
+{"head": "Virgil brought home a bright blue recliner he had found online.", "relation": "oWant", "tails": [" none", " to sit in the recliner", " to sit in the new recliner"]}
+{"head": "Virgil brought home a bright blue recliner he had found online.", "relation": "xReact", "tails": [" happy", " happy.", " satisfied"]}
+{"head": "Virgil brought home a bright blue recliner he had found online.", "relation": "oEffect", "tails": [" none", " get a new chair", " they get a new chair"]}
+{"head": "Virgil brought home a bright blue recliner he had found online.", "relation": "xIntent", "tails": [" to have a comfortable place to sit", " to have a place to sit", " to have a place to sleep"]}
+{"head": "Virgil brought home a bright blue recliner he had found online.", "relation": "oReact", "tails": [" none", " happy", " happy."]}
+{"head": "Virgil brought home a bright blue recliner he had found online.", "relation": "isBefore", "tails": [" The recliner is too small.", " The recliner is too expensive.", " The recliner is too small for them."]}
+{"head": "Virgil brought home a bright blue recliner he had found online.", "relation": "isAfter", "tails": [" PersonX buys the recliner.", " PersonX buys a new recliner.", " PersonX buys the recliner from PersonX"]}
+{"head": "Virgil brought home a bright blue recliner he had found online.", "relation": "HasSubEvent", "tails": [" buy a new one", " have a new place to sit", " have a new place to live"]}
+{"head": "Virgil brought home a bright blue recliner he had found online.", "relation": "Causes", "tails": [" happy to have a new chair", " happy to have a new chair.", " he has a new chair"]}
+{"head": "Virgil brought home a bright blue recliner he had found online.", "relation": "xReason", "tails": [" they have a new chair to sit in", " they have a new couch to sit in", " they have a new recliner"]}
+{"head": "Virgil bought some fabric and had it reupholstered.", "relation": "xAttr", "tails": [" crafty", " skilled with their hands", " creative"]}
+{"head": "Virgil bought some fabric and had it reupholstered.", "relation": "xWant", "tails": [" to use the fabric", " to use it", " to put it on the couch"]}
+{"head": "Virgil bought some fabric and had it reupholstered.", "relation": "xNeed", "tails": [" to go to the fabric store", " to go to the store", " to go to the fabric store."]}
+{"head": "Virgil bought some fabric and had it reupholstered.", "relation": "xEffect", "tails": [" has less money", " has a new couch", " has a new sofa"]}
+{"head": "Virgil bought some fabric and had it reupholstered.", "relation": "HinderedBy", "tails": [" The fabric store is closed.", " The fabric is too expensive.", " the fabric is too expensive"]}
+{"head": "Virgil bought some fabric and had it reupholstered.", "relation": "oWant", "tails": [" none", " to make a quilt", " to buy more fabric"]}
+{"head": "Virgil bought some fabric and had it reupholstered.", "relation": "xReact", "tails": [" happy", " satisfied", " proud"]}
+{"head": "Virgil bought some fabric and had it reupholstered.", "relation": "oEffect", "tails": [" none", " they get a new chair", " get a new couch"]}
+{"head": "Virgil bought some fabric and had it reupholstered.", "relation": "xIntent", "tails": [" to have a new couch", " to have a new sofa", " to use it as a chair"]}
+{"head": "Virgil bought some fabric and had it reupholstered.", "relation": "oReact", "tails": [" none", " happy", " happy."]}
+{"head": "Virgil bought some fabric and had it reupholstered.", "relation": "isBefore", "tails": [" PersonY buys the fabric.", " PersonX buys the fabric.", " PersonY buys the fabric"]}
+{"head": "Virgil bought some fabric and had it reupholstered.", "relation": "isAfter", "tails": [" PersonX is wearing the fabric.", " PersonX is wearing the new fabric.", " the chair is made of fabric"]}
+{"head": "Virgil bought some fabric and had it reupholstered.", "relation": "HasSubEvent", "tails": [" get a new couch", " get a new sofa", " have a new couch"]}
+{"head": "Virgil bought some fabric and had it reupholstered.", "relation": "Causes", "tails": [" they have a new couch", " they have a new sofa", " they have a new chair"]}
+{"head": "Virgil bought some fabric and had it reupholstered.", "relation": "xReason", "tails": [" they have a new sofa", " they have a new couch", " they have a new chair"]}
+{"head": "Virgil", "relation": "ObjectUse", "tails": [" have a good time", " have sex with", " have a good time with"]}
+{"head": "Virgil", "relation": "AtLocation", "tails": [" movie", " movie set", " movie theater"]}
+{"head": "Virgil", "relation": "CapableOf", "tails": [" get into a fight", " get into a car accident", " get into a fight with someone"]}
+{"head": "Virgil", "relation": "HasProperty", "tails": [" one of the main characters in the movie", " none", " one of the main characters in the play"]}
+{"head": "Virgil", "relation": "MadeUpOf", "tails": [" vase", " one of his arms", " one of the four arms"]}
+{"head": "Virgil", "relation": "NotDesires", "tails": [" none", " have sex with", " have sex with someone"]}
+{"head": "Virgil", "relation": "Desires", "tails": [" none", " have fun", " to be popular"]}
+{"head": "His wife thought it was hideous and clashed with the decor.", "relation": "xAttr", "tails": [" ugly", " annoyed", " angry"]}
+{"head": "His wife thought it was hideous and clashed with the decor.", "relation": "xWant", "tails": [" to get rid of it", " to get rid of it.", " to get rid of the thing"]}
+{"head": "His wife thought it was hideous and clashed with the decor.", "relation": "xNeed", "tails": [" none", " his wife to not like it", " to buy a new one"]}
+{"head": "His wife thought it was hideous and clashed with the decor.", "relation": "xEffect", "tails": [" his wife is not happy with him", " his wife is not happy with the decor", " his wife is not happy with it"]}
+{"head": "His wife thought it was hideous and clashed with the decor.", "relation": "HinderedBy", "tails": [" his wife would not like it", " his wife is a good person", " his wife would not like it."]}
+{"head": "His wife thought it was hideous and clashed with the decor.", "relation": "oWant", "tails": [" to get rid of it", " none", " to get rid of it."]}
+{"head": "His wife thought it was hideous and clashed with the decor.", "relation": "xReact", "tails": [" annoyed", " angry", " upset"]}
+{"head": "His wife thought it was hideous and clashed with the decor.", "relation": "oEffect", "tails": [" none", " his wife is disgusted", " his wife is upset"]}
+{"head": "His wife thought it was hideous and clashed with the decor.", "relation": "xIntent", "tails": [" none", " his wife to not like it", " his wife to not like it."]}
+{"head": "His wife thought it was hideous and clashed with the decor.", "relation": "oReact", "tails": [" none", " annoyed", " angry"]}
+{"head": "His wife thought it was hideous and clashed with the decor.", "relation": "isBefore", "tails": [" his wife to leave him alone", " his wife to leave the house", " his wife is not happy with it"]}
+{"head": "His wife thought it was hideous and clashed with the decor.", "relation": "isAfter", "tails": [" his wife to not like it", " his wife to not like it.", " his wife is not happy with it"]}
+{"head": "His wife thought it was hideous and clashed with the decor.", "relation": "HasSubEvent", "tails": [" his wife to not like it", " his wife to not like it.", " his wife to look at it"]}
+{"head": "His wife thought it was hideous and clashed with the decor.", "relation": "Causes", "tails": [" his wife to not like it", " his wife to not like it.", " his wife is not happy with it"]}
+{"head": "His wife thought it was hideous and clashed with the decor.", "relation": "xReason", "tails": [" his wife to not like it", " his wife to not like it.", " his wife to hate it"]}
+{"head": "His wife complained again, saying bright green still clashed.", "relation": "xAttr", "tails": [" angry", " annoyed", " unhappy"]}
+{"head": "His wife complained again, saying bright green still clashed.", "relation": "xWant", "tails": [" to get rid of it", " to get rid of the color", " to get rid of the problem"]}
+{"head": "His wife complained again, saying bright green still clashed.", "relation": "xNeed", "tails": [" none", " his wife to be happy", " his wife to be happy."]}
+{"head": "His wife complained again, saying bright green still clashed.", "relation": "xEffect", "tails": [" gets yelled at", " gets yelled at by wife", " gets yelled at by his wife"]}
+{"head": "His wife complained again, saying bright green still clashed.", "relation": "HinderedBy", "tails": [" his wife is not listening to him", " his wife is not happy with him", " his wife is too nice to complain."]}
+{"head": "His wife complained again, saying bright green still clashed.", "relation": "oWant", "tails": [" none", " to tell their husband to stop complaining", " to tell their husband that he is wrong"]}
+{"head": "His wife complained again, saying bright green still clashed.", "relation": "xReact", "tails": [" angry", " annoyed", " happy"]}
+{"head": "His wife complained again, saying bright green still clashed.", "relation": "oEffect", "tails": [" none", " his wife is upset", " his wife is upset."]}
+{"head": "His wife complained again, saying bright green still clashed.", "relation": "xIntent", "tails": [" none", " his wife to be happy", " his wife to be happy."]}
+{"head": "His wife complained again, saying bright green still clashed.", "relation": "oReact", "tails": [" none", " annoyed", " angry"]}
+{"head": "His wife complained again, saying bright green still clashed.", "relation": "isBefore", "tails": [" his wife to yell at him", " his wife to yell at him.", " his wife to get rid of it"]}
+{"head": "His wife complained again, saying bright green still clashed.", "relation": "isAfter", "tails": [" his wife is not happy with him", " his wife is not happy about it", " his wife is not happy"]}
+{"head": "His wife complained again, saying bright green still clashed.", "relation": "HasSubEvent", "tails": [" his wife to yell at him", " his wife to yell at him.", " none"]}
+{"head": "His wife complained again, saying bright green still clashed.", "relation": "Causes", "tails": [" his wife is not happy", " his wife to be happy", " his wife is not happy."]}
+{"head": "His wife complained again, saying bright green still clashed.", "relation": "xReason", "tails": [" his wife is not happy with him", " his wife is not happy", " his wife is not happy with the color"]}

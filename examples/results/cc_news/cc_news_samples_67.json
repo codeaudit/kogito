@@ -1,0 +1,41 @@
+{"head": "to find", "relation": "HinderedBy", "tails": [" to find ", " to find", " to find  to find "]}
+{"head": "to find", "relation": "isBefore", "tails": [" to find", " to find something", " to find "]}
+{"head": "to find", "relation": "isAfter", "tails": [" to find something", " to find something to eat", " to find"]}
+{"head": "to find", "relation": "HasSubEvent", "tails": [" to find", " to find ", " to look for it"]}
+{"head": "to find", "relation": "Causes", "tails": [" to find", " to find ", " to find something"]}
+{"head": "to find", "relation": "xReason", "tails": [" to find", " to find something", " to find "]}
+{"head": "to decompose", "relation": "HinderedBy", "tails": [" to decompose", " to decompose ", " to decompose  to decompose "]}
+{"head": "to decompose", "relation": "isBefore", "tails": [" to decompose", " to decompose in the ground", " to decompose in a lab"]}
+{"head": "to decompose", "relation": "isAfter", "tails": [" to decompose", " to decompose ", " decompose"]}
+{"head": "to decompose", "relation": "HasSubEvent", "tails": [" to decompose", " to decompose ", " to decompose in the ground"]}
+{"head": "to decompose", "relation": "Causes", "tails": [" to decompose", " to decompose ", " decomposing"]}
+{"head": "to decompose", "relation": "xReason", "tails": [" to decompose", " to decompose ", " to decompose in a lab"]}
+{"head": "body", "relation": "ObjectUse", "tails": [" have sex with", " body parts", " have sex"]}
+{"head": "body", "relation": "AtLocation", "tails": [" body", " medicine chest", " body parts"]}
+{"head": "body", "relation": "CapableOf", "tails": [" lie down on bed", " lie on bed", " lie down in bed"]}
+{"head": "body", "relation": "HasProperty", "tails": [" found in body", " body", " found in human body"]}
+{"head": "body", "relation": "MadeUpOf", "tails": [" body", " body part", " body parts"]}
+{"head": "body", "relation": "NotDesires", "tails": [" dead", " death", " body parts"]}
+{"head": "body", "relation": "Desires", "tails": [" body", " body parts", " feel good"]}
+{"head": "badly decomposed body", "relation": "ObjectUse", "tails": [" hide in the woods", " kill someone", " hide in a closet"]}
+{"head": "badly decomposed body", "relation": "AtLocation", "tails": [" dead body", " body bag", " corpse"]}
+{"head": "badly decomposed body", "relation": "CapableOf", "tails": [" dead body", " kill yourself", " bury in grave"]}
+{"head": "badly decomposed body", "relation": "HasProperty", "tails": [" embalmed", " dead body", " dead"]}
+{"head": "badly decomposed body", "relation": "MadeUpOf", "tails": [" embalmed", " dead body", " embalmed body"]}
+{"head": "badly decomposed body", "relation": "NotDesires", "tails": [" embalmed", " dead body", " bad smell"]}
+{"head": "badly decomposed body", "relation": "Desires", "tails": [" dead body", " death", " bad smell"]}
+{"head": "The badly decomposed body was found near...", "relation": "xAttr", "tails": [" dead", " morbid", " sadistic"]}
+{"head": "The badly decomposed body was found near...", "relation": "xWant", "tails": [" to bury the body", " to bury the body.", " to bury the dead body"]}
+{"head": "The badly decomposed body was found near...", "relation": "xNeed", "tails": [" find a body", " find a dead body", " none"]}
+{"head": "The badly decomposed body was found near...", "relation": "xEffect", "tails": [" is buried in a grave", " is buried", " the body is found"]}
+{"head": "The badly decomposed body was found near...", "relation": "HinderedBy", "tails": [" The body was found in the woods.", " The body was found in the middle of the road.", " The body was found in the middle of nowhere."]}
+{"head": "The badly decomposed body was found near...", "relation": "oWant", "tails": [" to bury the body", " none", " to bury the body."]}
+{"head": "The badly decomposed body was found near...", "relation": "xReact", "tails": [" sad", " dead", " scared"]}
+{"head": "The badly decomposed body was found near...", "relation": "oEffect", "tails": [" none", " the police are called to the scene", " the police find the body"]}
+{"head": "The badly decomposed body was found near...", "relation": "xIntent", "tails": [" none", " the body to be found", " the body to be buried"]}
+{"head": "The badly decomposed body was found near...", "relation": "oReact", "tails": [" none", " sad", " dead"]}
+{"head": "The badly decomposed body was found near...", "relation": "isBefore", "tails": [" the body to be buried", " the body to be found", " the body is buried"]}
+{"head": "The badly decomposed body was found near...", "relation": "isAfter", "tails": [" the body to be buried", " the body to be found", " the body was found"]}
+{"head": "The badly decomposed body was found near...", "relation": "HasSubEvent", "tails": [" the body to be found", " the body to be buried", " find a body"]}
+{"head": "The badly decomposed body was found near...", "relation": "Causes", "tails": [" the body to be found", " the body to be buried", " the body was found"]}
+{"head": "The badly decomposed body was found near...", "relation": "xReason", "tails": [" the body to be buried", " the body to be found", " the body was found"]}

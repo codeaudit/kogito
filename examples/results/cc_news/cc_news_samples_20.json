@@ -1,0 +1,117 @@
+{"head": "to pay", "relation": "HinderedBy", "tails": [" to pay", " to pay ", " to pay  to pay "]}
+{"head": "to pay", "relation": "isBefore", "tails": [" to pay", " to pay for the food", " to pay the bill"]}
+{"head": "to pay", "relation": "isAfter", "tails": [" pay for the item", " to pay for the food", " to pay for the item"]}
+{"head": "to pay", "relation": "HasSubEvent", "tails": [" to pay", " pay for the item", " to pay for the item"]}
+{"head": "to pay", "relation": "Causes", "tails": [" to pay", " to pay for something", " to pay for the food"]}
+{"head": "to pay", "relation": "xReason", "tails": [" to pay", " to pay for something", " to pay for the food"]}
+{"head": "to include", "relation": "HinderedBy", "tails": [" to include", " to include ", " to include  to include "]}
+{"head": "to include", "relation": "isBefore", "tails": [" to include", " to include ", " to include in the story"]}
+{"head": "to include", "relation": "isAfter", "tails": [" to include", " to include in the list", " to include in the story"]}
+{"head": "to include", "relation": "HasSubEvent", "tails": [" to include", " to include ", " to include  include"]}
+{"head": "to include", "relation": "Causes", "tails": [" to include", " to include ", " to include  in"]}
+{"head": "to include", "relation": "xReason", "tails": [" to include", " to include ", " to include in the story"]}
+{"head": "to get", "relation": "HinderedBy", "tails": [" to get ", " to get", " to get  to get "]}
+{"head": "to get", "relation": "isBefore", "tails": [" to get", " to get ", " to get  to get "]}
+{"head": "to get", "relation": "isAfter", "tails": [" to get", " to get something", " to get "]}
+{"head": "to get", "relation": "HasSubEvent", "tails": [" to get", " to get ", " to get  to get"]}
+{"head": "to get", "relation": "Causes", "tails": [" to get", " to get  to get ", " to get "]}
+{"head": "to get", "relation": "xReason", "tails": [" to get", " to get something", " to get "]}
+{"head": "specialisms", "relation": "ObjectUse", "tails": [" make money", " make a living", " learn from"]}
+{"head": "specialisms", "relation": "AtLocation", "tails": [" doctor's office", " medical school", " doctorate"]}
+{"head": "specialisms", "relation": "CapableOf", "tails": [" learn new skills", " learn new things", " learn from"]}
+{"head": "specialisms", "relation": "HasProperty", "tails": [" specializations", " specialities", " one of many"]}
+{"head": "specialisms", "relation": "MadeUpOf", "tails": [" specialties", " specializations", " specialities"]}
+{"head": "specialisms", "relation": "NotDesires", "tails": [" have to learn", " have to do", " have to pay for"]}
+{"head": "specialisms", "relation": "Desires", "tails": [" learn new things", " learn new skills", " make money"]}
+{"head": "information", "relation": "ObjectUse", "tails": [" know what to do", " know what to do next", " learn about a subject"]}
+{"head": "information", "relation": "AtLocation", "tails": [" information", " computer", " book"]}
+{"head": "information", "relation": "CapableOf", "tails": [" know what to do", " know what to do next", " know what to do with"]}
+{"head": "information", "relation": "HasProperty", "tails": [" information", " useful", " important"]}
+{"head": "information", "relation": "MadeUpOf", "tails": [" information", " knowledge", " information source"]}
+{"head": "information", "relation": "NotDesires", "tails": [" information", " learn new things", " learn new information"]}
+{"head": "information", "relation": "Desires", "tails": [" information", " learn new things", " know what to do"]}
+{"head": "get information", "relation": "HinderedBy", "tails": [" get information", " learn new things", " find out more information"]}
+{"head": "get information", "relation": "isBefore", "tails": [" learn new things", " learn new information", " learn more about something"]}
+{"head": "get information", "relation": "isAfter", "tails": [" learn new things", " learn new information", " learn about subject"]}
+{"head": "get information", "relation": "HasSubEvent", "tails": [" learn new things", " learn new information", " learn about subject"]}
+{"head": "get information", "relation": "Causes", "tails": [" learn new things", " learn new information", " get information"]}
+{"head": "get information", "relation": "xReason", "tails": [" learn new things", " learn new information", " learn about subject"]}
+{"head": "details", "relation": "ObjectUse", "tails": [" make sure it's correct", " make sure it's right", " make sure it is correct"]}
+{"head": "details", "relation": "AtLocation", "tails": [" book", " details", " information"]}
+{"head": "details", "relation": "CapableOf", "tails": [" write down", " know what to do", " know what to do next"]}
+{"head": "details", "relation": "HasProperty", "tails": [" details", " many details", " important"]}
+{"head": "details", "relation": "MadeUpOf", "tails": [" details", " detail", " information"]}
+{"head": "details", "relation": "NotDesires", "tails": [" details", " make a mistake", " make sure they understand"]}
+{"head": "details", "relation": "Desires", "tails": [" know what's going on", " know what to do", " know what is going on"]}
+{"head": "contact details", "relation": "ObjectUse", "tails": [" give to the police", " get a job", " give to the police officer"]}
+{"head": "contact details", "relation": "AtLocation", "tails": [" mail box", " mail", " phone book"]}
+{"head": "contact details", "relation": "CapableOf", "tails": [" write down", " give to personY", " write down on paper"]}
+{"head": "contact details", "relation": "HasProperty", "tails": [" found in mail box", " found in mailboxes", " found in mailbox"]}
+{"head": "contact details", "relation": "MadeUpOf", "tails": [" contact information", " email address", " contact info"]}
+{"head": "contact details", "relation": "NotDesires", "tails": [" contact person", " contact information", " have to remember"]}
+{"head": "contact details", "relation": "Desires", "tails": [" make a phone call", " get a new job", " get a job"]}
+{"head": "contact", "relation": "ObjectUse", "tails": [" contact someone", " contact person", " contact the person"]}
+{"head": "contact", "relation": "AtLocation", "tails": [" mail box", " phone", " contact person"]}
+{"head": "contact", "relation": "CapableOf", "tails": [" contact person", " talk to", " talk to person"]}
+{"head": "contact", "relation": "HasProperty", "tails": [" contact information", " contact", " contact with person"]}
+{"head": "contact", "relation": "MadeUpOf", "tails": [" contact number", " contact card", " contact"]}
+{"head": "contact", "relation": "NotDesires", "tails": [" contact person", " contact", " contact with person"]}
+{"head": "contact", "relation": "Desires", "tails": [" contact person", " contact with", " contact with person"]}
+{"head": "care specialisms", "relation": "ObjectUse", "tails": [" learn about", " make money", " make a living"]}
+{"head": "care specialisms", "relation": "AtLocation", "tails": [" doctor's office", " hospital", " medicine chest"]}
+{"head": "care specialisms", "relation": "CapableOf", "tails": [" learn about", " learn from", " teach to patients"]}
+{"head": "care specialisms", "relation": "HasProperty", "tails": [" many different types of medicine", " many different types of care", " specialised"]}
+{"head": "care specialisms", "relation": "MadeUpOf", "tails": [" medicine", " care", " caregiving"]}
+{"head": "care specialisms", "relation": "NotDesires", "tails": [" care of patients", " care for patients", " care"]}
+{"head": "care specialisms", "relation": "Desires", "tails": [" care for others", " care for patients", " care for people"]}
+{"head": "care", "relation": "ObjectUse", "tails": [" take care of a sick loved one", " take care of a sick person", " take care of the sick"]}
+{"head": "care", "relation": "AtLocation", "tails": [" doctor's office", " hospital", " medicine chest"]}
+{"head": "care", "relation": "CapableOf", "tails": [" care for others", " take care of", " care for sick people"]}
+{"head": "care", "relation": "HasProperty", "tails": [" cared for", " cared for by doctor", " good for health"]}
+{"head": "care", "relation": "MadeUpOf", "tails": [" care", " caregiving", " medicine"]}
+{"head": "care", "relation": "NotDesires", "tails": [" care of others", " care for others", " get sick"]}
+{"head": "care", "relation": "Desires", "tails": [" care for others", " care of others", " good health"]}
+{"head": "Priority Care ( Shropshire ) Limited", "relation": "ObjectUse", "tails": [" make money", " to provide a service", " to provide care to patients"]}
+{"head": "Priority Care ( Shropshire ) Limited", "relation": "AtLocation", "tails": [" Shropshire", " Shropshire.", " hospital"]}
+{"head": "Priority Care ( Shropshire ) Limited", "relation": "CapableOf", "tails": [" care for sick people", " care for the sick", " care for the elderly"]}
+{"head": "Priority Care ( Shropshire ) Limited", "relation": "HasProperty", "tails": [" responsible", " good", " concerned"]}
+{"head": "Priority Care ( Shropshire ) Limited", "relation": "MadeUpOf", "tails": [" care home", " a car", " money"]}
+{"head": "Priority Care ( Shropshire ) Limited", "relation": "NotDesires", "tails": [" none", " they have to pay for it", " they have to pay for the care"]}
+{"head": "Priority Care ( Shropshire ) Limited", "relation": "Desires", "tails": [" none", " to help people", " to be helpful"]}
+{"head": "Get information from Which?", "relation": "xAttr", "tails": [" curious", " knowledgeable", " informed"]}
+{"head": "Get information from Which?", "relation": "xWant", "tails": [" to find out more information", " to find out more about it", " to find out more about the product"]}
+{"head": "Get information from Which?", "relation": "xNeed", "tails": [" find out what to buy", " find out more about it", " find out more information"]}
+{"head": "Get information from Which?", "relation": "xEffect", "tails": [" find out what they need to know", " find out what they need to do", " find out more information"]}
+{"head": "Get information from Which?", "relation": "HinderedBy", "tails": [" get information from", " get information", " find out more information"]}
+{"head": "Get information from Which?", "relation": "oWant", "tails": [" to find out more information", " to find out more about it", " to find out more about the product"]}
+{"head": "Get information from Which?", "relation": "xReact", "tails": [" informed", " satisfied", " knowledgeable"]}
+{"head": "Get information from Which?", "relation": "oEffect", "tails": [" none", " get information", " find out more"]}
+{"head": "Get information from Which?", "relation": "xIntent", "tails": [" to know what to buy", " to find information", " to find out about a product"]}
+{"head": "Get information from Which?", "relation": "oReact", "tails": [" none", " informed", " informed."]}
+{"head": "Get information from Which?", "relation": "isBefore", "tails": [" find out what to buy", " find out more about a product", " find out more information"]}
+{"head": "Get information from Which?", "relation": "isAfter", "tails": [" find out what to buy", " find out more information", " find out what to do"]}
+{"head": "Get information from Which?", "relation": "HasSubEvent", "tails": [" find out what they need to know", " find out more information", " find out what they need to do"]}
+{"head": "Get information from Which?", "relation": "Causes", "tails": [" get information from", " get information", " find out more information"]}
+{"head": "Get information from Which?", "relation": "xReason", "tails": [" find out more information", " get information from", " get information"]}
+{"head": "Elderly Care about Priority Care (Shropshire) Limited including contact details, care specialisms and how to pay for care.", "relation": "xAttr", "tails": [" helpful", " responsible", " knowledgeable"]}
+{"head": "Elderly Care about Priority Care (Shropshire) Limited including contact details, care specialisms and how to pay for care.", "relation": "xWant", "tails": [" learn about the company", " learn about the services", " learn about the services offered"]}
+{"head": "Elderly Care about Priority Care (Shropshire) Limited including contact details, care specialisms and how to pay for care.", "relation": "xNeed", "tails": [" learn more about the company", " learn about the company", " learn more about the business"]}
+{"head": "Elderly Care about Priority Care (Shropshire) Limited including contact details, care specialisms and how to pay for care.", "relation": "xEffect", "tails": [" learn more about the company", " learn more about care", " learn more about the business"]}
+{"head": "Elderly Care about Priority Care (Shropshire) Limited including contact details, care specialisms and how to pay for care.", "relation": "HinderedBy", "tails": [" know how to pay for care", " know how to pay for the care", " know how to pay for it"]}
+{"head": "Elderly Care about Priority Care (Shropshire) Limited including contact details, care specialisms and how to pay for care.", "relation": "oWant", "tails": [" learn about the company", " learn about the services", " learn about the services offered"]}
+{"head": "Elderly Care about Priority Care (Shropshire) Limited including contact details, care specialisms and how to pay for care.", "relation": "xReact", "tails": [" helpful", " knowledgeable", " informative"]}
+{"head": "Elderly Care about Priority Care (Shropshire) Limited including contact details, care specialisms and how to pay for care.", "relation": "oEffect", "tails": [" learn more about the company", " learn more about care", " learn more about the business"]}
+{"head": "Elderly Care about Priority Care (Shropshire) Limited including contact details, care specialisms and how to pay for care.", "relation": "xIntent", "tails": [" learn about the company", " learn about the care system", " learn about the services"]}
+{"head": "Elderly Care about Priority Care (Shropshire) Limited including contact details, care specialisms and how to pay for care.", "relation": "oReact", "tails": [" none", " informed", " helpful"]}
+{"head": "Elderly Care about Priority Care (Shropshire) Limited including contact details, care specialisms and how to pay for care.", "relation": "isBefore", "tails": [" learn more about the company", " learn more about the business", " learn more about care"]}
+{"head": "Elderly Care about Priority Care (Shropshire) Limited including contact details, care specialisms and how to pay for care.", "relation": "isAfter", "tails": [" learn more about the company", " learn more about the business", " learn more about care"]}
+{"head": "Elderly Care about Priority Care (Shropshire) Limited including contact details, care specialisms and how to pay for care.", "relation": "HasSubEvent", "tails": [" learn more about the company", " learn more about care", " learn more about the business"]}
+{"head": "Elderly Care about Priority Care (Shropshire) Limited including contact details, care specialisms and how to pay for care.", "relation": "Causes", "tails": [" helpful", " informative", " caregiving"]}
+{"head": "Elderly Care about Priority Care (Shropshire) Limited including contact details, care specialisms and how to pay for care.", "relation": "xReason", "tails": [" learn more about the company", " learn more about care", " learn more about the business"]}
+{"head": "Elderly Care", "relation": "ObjectUse", "tails": [" provide care to the elderly", " provide care to elderly people", " provide care for elderly people"]}
+{"head": "Elderly Care", "relation": "AtLocation", "tails": [" nursing home", " hospital", " care home"]}
+{"head": "Elderly Care", "relation": "CapableOf", "tails": [" take care of the elderly", " take care of elderly", " care for elderly"]}
+{"head": "Elderly Care", "relation": "HasProperty", "tails": [" cared for", " caring for elderly", " caring for elderly people"]}
+{"head": "Elderly Care", "relation": "MadeUpOf", "tails": [" nursing home", " caretaker", " care"]}
+{"head": "Elderly Care", "relation": "NotDesires", "tails": [" care for elderly", " care of elderly", " care for elderly people"]}
+{"head": "Elderly Care", "relation": "Desires", "tails": [" to be a good caregiver", " care for elderly", " to be a good neighbor"]}

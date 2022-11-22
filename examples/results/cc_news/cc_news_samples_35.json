@@ -1,0 +1,49 @@
+{"head": "to work", "relation": "HinderedBy", "tails": [" to work", " to work ", " to work  to work"]}
+{"head": "to work", "relation": "isBefore", "tails": [" go to office", " go to work", " to work"]}
+{"head": "to work", "relation": "isAfter", "tails": [" go to office", " go to work", " drive to work"]}
+{"head": "to work", "relation": "HasSubEvent", "tails": [" go to office", " go to work", " to work"]}
+{"head": "to work", "relation": "Causes", "tails": [" get paid", " get paid for work", " have to do"]}
+{"head": "to work", "relation": "xReason", "tails": [" get paid", " get paid for work", " have to do"]}
+{"head": "time", "relation": "ObjectUse", "tails": [" get to the event on time", " have a good time", " get to the destination on time"]}
+{"head": "time", "relation": "AtLocation", "tails": [" clock", " time", " time machine"]}
+{"head": "time", "relation": "CapableOf", "tails": [" clock in", " clock out", " time"]}
+{"head": "time", "relation": "HasProperty", "tails": [" time", " one day", " one hour"]}
+{"head": "time", "relation": "MadeUpOf", "tails": [" time", " clock", " time zone"]}
+{"head": "time", "relation": "NotDesires", "tails": [" time", " have to wait for", " have to wait"]}
+{"head": "time", "relation": "Desires", "tails": [" time", " time to be spent", " time of day"]}
+{"head": "proof", "relation": "ObjectUse", "tails": [" prove innocence", " prove a point", " proof of innocence"]}
+{"head": "proof", "relation": "AtLocation", "tails": [" proof of innocence", " proof of crime", " proof"]}
+{"head": "proof", "relation": "CapableOf", "tails": [" prove innocence", " proof of innocence", " proof of crime"]}
+{"head": "proof", "relation": "HasProperty", "tails": [" found in many places", " proof of innocence", " proof"]}
+{"head": "proof", "relation": "MadeUpOf", "tails": [" proof", " proof of innocence", " evidence"]}
+{"head": "proof", "relation": "NotDesires", "tails": [" proof of innocence", " prove innocence", " proof"]}
+{"head": "proof", "relation": "Desires", "tails": [" prove innocence", " proof of innocence", " proof"]}
+{"head": "hacks", "relation": "ObjectUse", "tails": [" hack into a computer", " use as a weapon", " hack into a website"]}
+{"head": "hacks", "relation": "AtLocation", "tails": [" computer", " store", " computer game"]}
+{"head": "hacks", "relation": "CapableOf", "tails": [" hack into computer", " use as a weapon", " hack into computers"]}
+{"head": "hacks", "relation": "HasProperty", "tails": [" found in computer", " found in hacker's toolbox", " found in computer science books"]}
+{"head": "hacks", "relation": "MadeUpOf", "tails": [" hacktivism", " hacktivists", " hacktivist website"]}
+{"head": "hacks", "relation": "NotDesires", "tails": [" hack into computer", " hack a computer", " hack into a computer"]}
+{"head": "hacks", "relation": "Desires", "tails": [" make money", " hack into a computer", " use to make money"]}
+{"head": "Fail-proof hacks that work each time", "relation": "xAttr", "tails": [" successful", " smart", " clever"]}
+{"head": "Fail-proof hacks that work each time", "relation": "xWant", "tails": [" to be successful", " to make money", " to make sure it works"]}
+{"head": "Fail-proof hacks that work each time", "relation": "xNeed", "tails": [" to know how to do it", " to learn how to do it", " to know how to hack"]}
+{"head": "Fail-proof hacks that work each time", "relation": "xEffect", "tails": [" get the job done", " get the job done faster", " get the job done more easily"]}
+{"head": "Fail-proof hacks that work each time", "relation": "HinderedBy", "tails": [" Fail-proof hacks that work each time", " Fail-proof hacks that work each time.", " Fail-proof hacks are hard to come by."]}
+{"head": "Fail-proof hacks that work each time", "relation": "oWant", "tails": [" to use the hacks", " none", " to use it again"]}
+{"head": "Fail-proof hacks that work each time", "relation": "xReact", "tails": [" successful", " happy", " good"]}
+{"head": "Fail-proof hacks that work each time", "relation": "oEffect", "tails": [" none", " get a new job", " get a promotion"]}
+{"head": "Fail-proof hacks that work each time", "relation": "xIntent", "tails": [" none", " to be successful", " to be able to do something"]}
+{"head": "Fail-proof hacks that work each time", "relation": "oReact", "tails": [" none", " happy", " happy."]}
+{"head": "Fail-proof hacks that work each time", "relation": "isBefore", "tails": [" fail miserably", " fail", " make money"]}
+{"head": "Fail-proof hacks that work each time", "relation": "isAfter", "tails": [" fail-proof hacks that work each time", " fail-proof hacks", " fail-proof hacks that work each time "]}
+{"head": "Fail-proof hacks that work each time", "relation": "HasSubEvent", "tails": [" get a new job", " learn from it", " learn from the mistakes"]}
+{"head": "Fail-proof hacks that work each time", "relation": "Causes", "tails": [" Fail-proof hacks that work each time", " fail-proof hacks that work each time", " Fail-proof hacks that work each time."]}
+{"head": "Fail-proof hacks that work each time", "relation": "xReason", "tails": [" fail-proof hacks that work each time", " fail-proof hacks", " fail-proof hacks that work every time"]}
+{"head": "Fail proof hacks", "relation": "ObjectUse", "tails": [" use as a prop in a movie", " use as a weapon in a war", " use as a prop in a play"]}
+{"head": "Fail proof hacks", "relation": "AtLocation", "tails": [" computer", " hacktivists", " fail proof hacks"]}
+{"head": "Fail proof hacks", "relation": "CapableOf", "tails": [" hack into computer", " hack into computer system", " hack into computers"]}
+{"head": "Fail proof hacks", "relation": "HasProperty", "tails": [" fail proof", " none", " fail safe"]}
+{"head": "Fail proof hacks", "relation": "MadeUpOf", "tails": [" fail proof", " hacktivists", " hacktivist"]}
+{"head": "Fail proof hacks", "relation": "NotDesires", "tails": [" fail", " fail to hack", " lose money"]}
+{"head": "Fail proof hacks", "relation": "Desires", "tails": [" none", " fail proof hacks", " fail proof"]}

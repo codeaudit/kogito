@@ -1,0 +1,112 @@
+{"head": "to work", "relation": "HinderedBy", "tails": [" to work", " to work ", " to work  to work"]}
+{"head": "to work", "relation": "isBefore", "tails": [" go to office", " go to work", " to work"]}
+{"head": "to work", "relation": "isAfter", "tails": [" go to office", " go to work", " drive to work"]}
+{"head": "to work", "relation": "HasSubEvent", "tails": [" go to office", " go to work", " to work"]}
+{"head": "to work", "relation": "Causes", "tails": [" get paid", " get paid for work", " have to do"]}
+{"head": "to work", "relation": "xReason", "tails": [" get paid", " get paid for work", " have to do"]}
+{"head": "to tell", "relation": "HinderedBy", "tails": [" to tell", " to tell ", " to tell  to tell "]}
+{"head": "to tell", "relation": "isBefore", "tails": [" to tell", " to tell the truth", " to tell "]}
+{"head": "to tell", "relation": "isAfter", "tails": [" to tell the truth", " to tell", " to be heard"]}
+{"head": "to tell", "relation": "HasSubEvent", "tails": [" to tell", " to tell ", " to tell  tell "]}
+{"head": "to tell", "relation": "Causes", "tails": [" to tell", " to tell  to  tell ", " to tell  to  tell  "]}
+{"head": "to tell", "relation": "xReason", "tails": [" to tell", " to be honest", " none"]}
+{"head": "to pursue", "relation": "HinderedBy", "tails": [" to pursue", " to pursue ", " to pursue  to pursue"]}
+{"head": "to pursue", "relation": "isBefore", "tails": [" to pursue", " get a job", " to pursue "]}
+{"head": "to pursue", "relation": "isAfter", "tails": [" to get a good job", " to get a job", " to be successful"]}
+{"head": "to pursue", "relation": "HasSubEvent", "tails": [" to pursue", " to pursue  pursue ", " to pursue  pursue"]}
+{"head": "to pursue", "relation": "Causes", "tails": [" to pursue", " get a job", " to pursue "]}
+{"head": "to pursue", "relation": "xReason", "tails": [" to pursue", " get a job", " to pursue something"]}
+{"head": "to avoid", "relation": "HinderedBy", "tails": [" to avoid", " to avoid ", " to avoid something"]}
+{"head": "to avoid", "relation": "isBefore", "tails": [" to avoid", " to avoid something", " to avoid a problem"]}
+{"head": "to avoid", "relation": "isAfter", "tails": [" to avoid", " to avoid something", " to avoid a problem"]}
+{"head": "to avoid", "relation": "HasSubEvent", "tails": [" to avoid", " avoid", " to avoid something"]}
+{"head": "to avoid", "relation": "Causes", "tails": [" to avoid  avoid  avoid  avoid  avoid  avoid  avoid  avoid  avoid  avoid  avoid", " to avoid  avoid  avoid  avoid  avoid  avoid  avoid  avoid  avoid  avoid", " to avoid"]}
+{"head": "to avoid", "relation": "xReason", "tails": [" to avoid", " to avoid something", " avoid"]}
+{"head": "tell buzz", "relation": "HinderedBy", "tails": [" tell a secret", " tell story", " tell buzz"]}
+{"head": "tell buzz", "relation": "isBefore", "tails": [" tell story", " listen to", " hear buzz"]}
+{"head": "tell buzz", "relation": "isAfter", "tails": [" tell story", " hear buzz", " talk to"]}
+{"head": "tell buzz", "relation": "HasSubEvent", "tails": [" hear buzz buzz buzz buzz buzz buzz", " hear buzz buzz buzz buzz buzz", " hear buzz buzz buzz buzz"]}
+{"head": "tell buzz", "relation": "Causes", "tails": [" hear buzz buzz buzz buzz buzz buzz buzz buzz buzz buzz buzz buzz buzz buzz buzz buzz buzz buzz buzz buzz buzz", " hear buzz buzz buzz buzz buzz buzz buzz buzz buzz buzz buzz buzz buzz buzz buzz buzz buzz buzz buzz buzz", " hear buzz buzz buzz buzz buzz buzz buzz buzz buzz buzz buzz buzz buzz buzz buzz buzz buzz buzz buzz"]}
+{"head": "tell buzz", "relation": "xReason", "tails": [" hear buzz buzz buzz buzz buzz buzz buzz", " hear buzz buzz buzz buzz buzz buzz", " hear buzz buzz buzz buzz buzz buzz buzz buzz"]}
+{"head": "tell Prog", "relation": "HinderedBy", "tails": [" listen to music", " tell others", " listen to"]}
+{"head": "tell Prog", "relation": "isBefore", "tails": [" listen to music", " listen to", " listen to Prog"]}
+{"head": "tell Prog", "relation": "isAfter", "tails": [" listen to music", " listen to", " listen to Prog"]}
+{"head": "tell Prog", "relation": "HasSubEvent", "tails": [" listen to", " listen to music", " listen to what they say"]}
+{"head": "tell Prog", "relation": "Causes", "tails": [" listen to music", " listen to", " tell others"]}
+{"head": "tell Prog", "relation": "xReason", "tails": [" listen to music", " listen to", " listen to the music"]}
+{"head": "pursue take", "relation": "HinderedBy", "tails": [" get a job", " take a risk", " take a chance"]}
+{"head": "pursue take", "relation": "isBefore", "tails": [" get a job", " get to destination", " get to the destination"]}
+{"head": "pursue take", "relation": "isAfter", "tails": [" get a job", " find out what it is", " find out more about it"]}
+{"head": "pursue take", "relation": "HasSubEvent", "tails": [" find out what it is", " find out what is going on", " get a job"]}
+{"head": "pursue take", "relation": "Causes", "tails": [" take a risk", " take a chance", " take action"]}
+{"head": "pursue take", "relation": "xReason", "tails": [" get a job", " take action", " have a goal"]}
+{"head": "post album blues", "relation": "ObjectUse", "tails": [" sing along to", " sing along with", " sing along to."]}
+{"head": "post album blues", "relation": "AtLocation", "tails": [" music store", " rock band", " album"]}
+{"head": "post album blues", "relation": "CapableOf", "tails": [" sing along to", " play guitar", " sing along with"]}
+{"head": "post album blues", "relation": "HasProperty", "tails": [" made up of songs", " made up of many songs", " made up of many different songs"]}
+{"head": "post album blues", "relation": "MadeUpOf", "tails": [" post album blues", " music", " post album blues blues"]}
+{"head": "post album blues", "relation": "NotDesires", "tails": [" post album blues", " have to listen to", " have to listen to again"]}
+{"head": "post album blues", "relation": "Desires", "tails": [" have a good time", " get out of the house", " get out of the way"]}
+{"head": "perfect", "relation": "ObjectUse", "tails": [" get a promotion", " make someone happy", " get a job"]}
+{"head": "perfect", "relation": "AtLocation", "tails": [" kitchen", " house", " kitchen table"]}
+{"head": "perfect", "relation": "CapableOf", "tails": [" perfect", " perfect life", " make perfect things"]}
+{"head": "perfect", "relation": "HasProperty", "tails": [" perfect", " perfection", " beautiful"]}
+{"head": "perfect", "relation": "MadeUpOf", "tails": [" perfect", " perfection", " perfect body"]}
+{"head": "perfect", "relation": "NotDesires", "tails": [" perfect", " perfection", " perfect life"]}
+{"head": "perfect", "relation": "Desires", "tails": [" have a good time", " have a good life", " perfect life"]}
+{"head": "heroes", "relation": "ObjectUse", "tails": [" make a good impression", " make a movie about", " make a movie"]}
+{"head": "heroes", "relation": "AtLocation", "tails": [" movie", " hero's home", " movie set"]}
+{"head": "heroes", "relation": "CapableOf", "tails": [" fight evil", " save world", " save people"]}
+{"head": "heroes", "relation": "HasProperty", "tails": [" heroic", " hero", " heroes"]}
+{"head": "heroes", "relation": "MadeUpOf", "tails": [" hero's cape", " hero", " hero's hat"]}
+{"head": "heroes", "relation": "NotDesires", "tails": [" hero worship", " heroics", " heroes"]}
+{"head": "heroes", "relation": "Desires", "tails": [" help people", " help others", " hero's stories"]}
+{"head": "buzz", "relation": "ObjectUse", "tails": [" make noise", " make a noise", " get excited about something"]}
+{"head": "buzz", "relation": "AtLocation", "tails": [" radio station", " air conditioning unit", " air conditioner"]}
+{"head": "buzz", "relation": "CapableOf", "tails": [" make noise", " get excited", " hear buzzer"]}
+{"head": "buzz", "relation": "HasProperty", "tails": [" made up of particles", " made up of many particles", " made up of atoms"]}
+{"head": "buzz", "relation": "MadeUpOf", "tails": [" air", " sound", " sound waves"]}
+{"head": "buzz", "relation": "NotDesires", "tails": [" bad news", " get excited", " get excited about"]}
+{"head": "buzz", "relation": "Desires", "tails": [" feel good", " make noise", " get excited"]}
+{"head": "blues", "relation": "ObjectUse", "tails": [" wear in a costume", " wear on a dress", " wear in a dress"]}
+{"head": "blues", "relation": "AtLocation", "tails": [" music store", " blues band", " band"]}
+{"head": "blues", "relation": "CapableOf", "tails": [" play guitar", " wear on head", " wear on stage"]}
+{"head": "blues", "relation": "HasProperty", "tails": [" blues", " blues", " bluegrass"]}
+{"head": "blues", "relation": "MadeUpOf", "tails": [" blazers", " blues", " blues"]}
+{"head": "blues", "relation": "NotDesires", "tails": [" blisters on feet", " wear on head", " blues"]}
+{"head": "blues", "relation": "Desires", "tails": [" music", " wear on stage", " wear on head"]}
+{"head": "avoid blues", "relation": "HinderedBy", "tails": [" avoid blues", " avoid the blues", " avoid blues music"]}
+{"head": "avoid blues", "relation": "isBefore", "tails": [" avoid blues music", " avoid blues", " avoid bad music"]}
+{"head": "avoid blues", "relation": "isAfter", "tails": [" avoid blues music", " avoid blues", " avoid bad music"]}
+{"head": "avoid blues", "relation": "HasSubEvent", "tails": [" avoid blues", " avoid blues music", " avoid bad music"]}
+{"head": "avoid blues", "relation": "Causes", "tails": [" avoid blues music", " avoid bad music", " avoid blues"]}
+{"head": "avoid blues", "relation": "xReason", "tails": [" avoid blues music", " avoid bad music", " avoid blues"]}
+{"head": "Tim Bowness tells Prog about pursuing the perfect take, the buzz of working with his heroes and avoiding the post-album blues.", "relation": "xAttr", "tails": [" creative", " talented", " happy"]}
+{"head": "Tim Bowness tells Prog about pursuing the perfect take, the buzz of working with his heroes and avoiding the post-album blues.", "relation": "xWant", "tails": [" to write a new album", " to make a new album", " to write another album"]}
+{"head": "Tim Bowness tells Prog about pursuing the perfect take, the buzz of working with his heroes and avoiding the post-album blues.", "relation": "xNeed", "tails": [" to write a song", " to have a good time", " to be a musician"]}
+{"head": "Tim Bowness tells Prog about pursuing the perfect take, the buzz of working with his heroes and avoiding the post-album blues.", "relation": "xEffect", "tails": [" none", " get a new job", " get a new album"]}
+{"head": "Tim Bowness tells Prog about pursuing the perfect take, the buzz of working with his heroes and avoiding the post-album blues.", "relation": "HinderedBy", "tails": [" Tim Bowness talks to Prog", " Tim Bowness talks to Prog.", " Tim Bowness talks to Prog about the album"]}
+{"head": "Tim Bowness tells Prog about pursuing the perfect take, the buzz of working with his heroes and avoiding the post-album blues.", "relation": "oWant", "tails": [" to make a new album", " to tell everyone about it", " to make a good album"]}
+{"head": "Tim Bowness tells Prog about pursuing the perfect take, the buzz of working with his heroes and avoiding the post-album blues.", "relation": "xReact", "tails": [" happy", " proud", " happy."]}
+{"head": "Tim Bowness tells Prog about pursuing the perfect take, the buzz of working with his heroes and avoiding the post-album blues.", "relation": "oEffect", "tails": [" none", " get a new job", " make a good album"]}
+{"head": "Tim Bowness tells Prog about pursuing the perfect take, the buzz of working with his heroes and avoiding the post-album blues.", "relation": "xIntent", "tails": [" to make a good album", " to be successful", " to make a good record"]}
+{"head": "Tim Bowness tells Prog about pursuing the perfect take, the buzz of working with his heroes and avoiding the post-album blues.", "relation": "oReact", "tails": [" none", " happy", " proud"]}
+{"head": "Tim Bowness tells Prog about pursuing the perfect take, the buzz of working with his heroes and avoiding the post-album blues.", "relation": "isBefore", "tails": [" Tim Bowness talks to Prog about making a great album", " Tim Bowness talks to Prog about making the perfect take", " Tim Bowness talks to Prog"]}
+{"head": "Tim Bowness tells Prog about pursuing the perfect take, the buzz of working with his heroes and avoiding the post-album blues.", "relation": "isAfter", "tails": [" Tim Bowness talks to Prog about making a great album", " Tim Bowness talks to Prog about making the perfect take", " Tim Bowness talks to Prog"]}
+{"head": "Tim Bowness tells Prog about pursuing the perfect take, the buzz of working with his heroes and avoiding the post-album blues.", "relation": "HasSubEvent", "tails": [" get a new job", " make a good album", " make a good impression"]}
+{"head": "Tim Bowness tells Prog about pursuing the perfect take, the buzz of working with his heroes and avoiding the post-album blues.", "relation": "Causes", "tails": [" creative", " happy", " talented"]}
+{"head": "Tim Bowness tells Prog about pursuing the perfect take, the buzz of working with his heroes and avoiding the post-album blues.", "relation": "xReason", "tails": [" they have a good time with their friends", " they have a good time", " they have a good time with it"]}
+{"head": "Tim Bowness", "relation": "ObjectUse", "tails": [" Tim Bowness", " Tim Bowness.", " Tim Bowness on the show"]}
+{"head": "Tim Bowness", "relation": "AtLocation", "tails": [" movie theater", " house", " movie"]}
+{"head": "Tim Bowness", "relation": "CapableOf", "tails": [" get a new job", " get a job", " get a job at a restaurant"]}
+{"head": "Tim Bowness", "relation": "HasProperty", "tails": [" Tim Bowness", " Tim Bowness.", " none"]}
+{"head": "Tim Bowness", "relation": "MadeUpOf", "tails": [" Tim Bowness", " Tim Bowness ", " Tim Bowness on stage"]}
+{"head": "Tim Bowness", "relation": "NotDesires", "tails": [" Tim Bowness", " none", " Tim Bowness "]}
+{"head": "Tim Bowness", "relation": "Desires", "tails": [" none", " to have fun", " to make a good impression"]}
+{"head": "Prog", "relation": "ObjectUse", "tails": [" play in a band", " make music", " play music"]}
+{"head": "Prog", "relation": "AtLocation", "tails": [" music store", " rock band", " music shop"]}
+{"head": "Prog", "relation": "CapableOf", "tails": [" play music", " make music", " play guitar"]}
+{"head": "Prog", "relation": "HasProperty", "tails": [" found in music store", " found in music stores", " found in music books"]}
+{"head": "Prog", "relation": "MadeUpOf", "tails": [" music", " Prog", " bass drum"]}
+{"head": "Prog", "relation": "NotDesires", "tails": [" play music", " make music", " make noise"]}
+{"head": "Prog", "relation": "Desires", "tails": [" make music", " play music", " music"]}

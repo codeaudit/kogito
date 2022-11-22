@@ -1,0 +1,83 @@
+{"head": "to involve", "relation": "HinderedBy", "tails": [" to involve", " to involve ", " to be involved"]}
+{"head": "to involve", "relation": "isBefore", "tails": [" to involve", " to be involved", " to involve "]}
+{"head": "to involve", "relation": "isAfter", "tails": [" to be involved", " to be involved in something", " to be involved in a project"]}
+{"head": "to involve", "relation": "HasSubEvent", "tails": [" to involve", " to involve ", " to be involved"]}
+{"head": "to involve", "relation": "Causes", "tails": [" to involve", " to be involved", " to involve "]}
+{"head": "to involve", "relation": "xReason", "tails": [" to involve", " to be involved", " to be involved in"]}
+{"head": "to investigate", "relation": "HinderedBy", "tails": [" to investigate", " to investigate ", " to investigate  to investigate "]}
+{"head": "to investigate", "relation": "isBefore", "tails": [" to investigate", " to find out what happened", " to find out the truth"]}
+{"head": "to investigate", "relation": "isAfter", "tails": [" to find out what is going on", " to find out what happened", " to find out the truth"]}
+{"head": "to investigate", "relation": "HasSubEvent", "tails": [" to investigate", " find out what is going on", " find out what happened"]}
+{"head": "to investigate", "relation": "Causes", "tails": [" to investigate", " find out what is going on", " find out what happened"]}
+{"head": "to investigate", "relation": "xReason", "tails": [" to investigate", " find out what is going on", " find out what happened"]}
+{"head": "street", "relation": "ObjectUse", "tails": [" street corner", " walk down", " walking on"]}
+{"head": "street", "relation": "AtLocation", "tails": [" street corner", " street", " city"]}
+{"head": "street", "relation": "CapableOf", "tails": [" walk down", " cross street", " walk on"]}
+{"head": "street", "relation": "HasProperty", "tails": [" street", " streets", " street sign"]}
+{"head": "street", "relation": "MadeUpOf", "tails": [" street", " street sign", " street corner"]}
+{"head": "street", "relation": "NotDesires", "tails": [" street corner", " street", " street signs"]}
+{"head": "street", "relation": "Desires", "tails": [" street corner", " street", " street signs"]}
+{"head": "police", "relation": "ObjectUse", "tails": [" make sure no one is hurt", " make sure no one is in trouble", " make sure no one gets hurt"]}
+{"head": "police", "relation": "AtLocation", "tails": [" police station", " police car", " city"]}
+{"head": "police", "relation": "CapableOf", "tails": [" police crime scene", " patrol streets", " police street"]}
+{"head": "police", "relation": "HasProperty", "tails": [" police car", " police station", " found in city"]}
+{"head": "police", "relation": "MadeUpOf", "tails": [" police car", " patrol car", " police badge"]}
+{"head": "police", "relation": "NotDesires", "tails": [" police car", " police officer", " police to arrest"]}
+{"head": "police", "relation": "Desires", "tails": [" police station", " police officer", " police"]}
+{"head": "marked police cars", "relation": "ObjectUse", "tails": [" drive around the city", " drive to the station", " drive around the neighborhood"]}
+{"head": "marked police cars", "relation": "AtLocation", "tails": [" police station", " street corner", " police car"]}
+{"head": "marked police cars", "relation": "CapableOf", "tails": [" drive to crime scene", " drive to the crime scene", " drive to the scene of crime"]}
+{"head": "marked police cars", "relation": "HasProperty", "tails": [" found at police station", " found in police station", " found at police stations"]}
+{"head": "marked police cars", "relation": "MadeUpOf", "tails": [" police car", " patrol car", " police badge"]}
+{"head": "marked police cars", "relation": "NotDesires", "tails": [" police cars", " police car", " see police cars"]}
+{"head": "marked police cars", "relation": "Desires", "tails": [" get to work on time", " to be a police officer", " to be safe"]}
+{"head": "downtown", "relation": "ObjectUse", "tails": [" downtown", " walk around", " downtown area"]}
+{"head": "downtown", "relation": "AtLocation", "tails": [" city", " downtown", " town"]}
+{"head": "downtown", "relation": "CapableOf", "tails": [" walk down street", " walk down main street", " walk around"]}
+{"head": "downtown", "relation": "HasProperty", "tails": [" downtown", " city", " downtown area"]}
+{"head": "downtown", "relation": "MadeUpOf", "tails": [" downtown", " city", " downtown area"]}
+{"head": "downtown", "relation": "NotDesires", "tails": [" downtown", " city", " downtown "]}
+{"head": "downtown", "relation": "Desires", "tails": [" downtown", " downtown area", " city"]}
+{"head": "collision", "relation": "ObjectUse", "tails": [" crash into another car", " get injured in", " crash into another vehicle"]}
+{"head": "collision", "relation": "AtLocation", "tails": [" car", " car accident", " car wreck"]}
+{"head": "collision", "relation": "CapableOf", "tails": [" hit car", " crash car", " crash into tree"]}
+{"head": "collision", "relation": "HasProperty", "tails": [" broken bones", " dangerous", " broken windshield"]}
+{"head": "collision", "relation": "MadeUpOf", "tails": [" car", " collision", " crash"]}
+{"head": "collision", "relation": "NotDesires", "tails": [" hit by car", " crash into tree", " crash into car"]}
+{"head": "collision", "relation": "Desires", "tails": [" get hurt", " get injured", " have to pay for"]}
+{"head": "cars", "relation": "ObjectUse", "tails": [" drive to work", " drive to the store", " get to the store"]}
+{"head": "cars", "relation": "AtLocation", "tails": [" car show", " carshop", " garage"]}
+{"head": "cars", "relation": "CapableOf", "tails": [" drive to work", " drive on road", " drive to destination"]}
+{"head": "cars", "relation": "HasProperty", "tails": [" two wheels", " used for transportation", " cars"]}
+{"head": "cars", "relation": "MadeUpOf", "tails": [" engine", " car engine", " car's engine"]}
+{"head": "cars", "relation": "NotDesires", "tails": [" drive to work", " drive on road", " drive in traffic"]}
+{"head": "cars", "relation": "Desires", "tails": [" drive to work", " drive to places", " get to work faster"]}
+{"head": "busy downtown street", "relation": "ObjectUse", "tails": [" walking", " walk down", " walk on"]}
+{"head": "busy downtown street", "relation": "AtLocation", "tails": [" city", " bus stop", " bus station"]}
+{"head": "busy downtown street", "relation": "CapableOf", "tails": [" get lost", " walk down", " walk on"]}
+{"head": "busy downtown street", "relation": "HasProperty", "tails": [" busy", " crowded", " busier"]}
+{"head": "busy downtown street", "relation": "MadeUpOf", "tails": [" busy", " bus stop", " bus"]}
+{"head": "busy downtown street", "relation": "NotDesires", "tails": [" busy", " walking", " bus stop"]}
+{"head": "busy downtown street", "relation": "Desires", "tails": [" busy", " downtown", " busy street"]}
+{"head": "Halifax Regional Police are investigating after one of their marked police cars was involved in a collision on a busy downtown street.", "relation": "xAttr", "tails": [" dangerous", " careless", " accident"]}
+{"head": "Halifax Regional Police are investigating after one of their marked police cars was involved in a collision on a busy downtown street.", "relation": "xWant", "tails": [" to determine the cause of the accident", " to determine the cause of the crash", " to determine the cause of the collision"]}
+{"head": "Halifax Regional Police are investigating after one of their marked police cars was involved in a collision on a busy downtown street.", "relation": "xNeed", "tails": [" to be driving a police car", " get in the car", " to be driving a police car."]}
+{"head": "Halifax Regional Police are investigating after one of their marked police cars was involved in a collision on a busy downtown street.", "relation": "xEffect", "tails": [" gets injured", " police car is damaged", " police cars get damaged"]}
+{"head": "Halifax Regional Police are investigating after one of their marked police cars was involved in a collision on a busy downtown street.", "relation": "HinderedBy", "tails": [" Police are on the scene of the accident.", " Police are on the scene of the crash.", " police cars are not allowed on the street."]}
+{"head": "Halifax Regional Police are investigating after one of their marked police cars was involved in a collision on a busy downtown street.", "relation": "oWant", "tails": [" to find out what happened", " to find out what caused the accident", " to find out what caused the accident."]}
+{"head": "Halifax Regional Police are investigating after one of their marked police cars was involved in a collision on a busy downtown street.", "relation": "xReact", "tails": [" hurt", " scared", " worried"]}
+{"head": "Halifax Regional Police are investigating after one of their marked police cars was involved in a collision on a busy downtown street.", "relation": "oEffect", "tails": [" get injured", " none", " police car"]}
+{"head": "Halifax Regional Police are investigating after one of their marked police cars was involved in a collision on a busy downtown street.", "relation": "xIntent", "tails": [" to investigate the cause of the accident", " to get to the scene of the accident", " to investigate the cause of the accident."]}
+{"head": "Halifax Regional Police are investigating after one of their marked police cars was involved in a collision on a busy downtown street.", "relation": "oReact", "tails": [" none", " hurt", " injured"]}
+{"head": "Halifax Regional Police are investigating after one of their marked police cars was involved in a collision on a busy downtown street.", "relation": "isBefore", "tails": [" police car", " police car is damaged", " police car crashes"]}
+{"head": "Halifax Regional Police are investigating after one of their marked police cars was involved in a collision on a busy downtown street.", "relation": "isAfter", "tails": [" police car", " police car crashes", " police car in collision"]}
+{"head": "Halifax Regional Police are investigating after one of their marked police cars was involved in a collision on a busy downtown street.", "relation": "HasSubEvent", "tails": [" get out of the car", " get out of car", " get injured in the accident"]}
+{"head": "Halifax Regional Police are investigating after one of their marked police cars was involved in a collision on a busy downtown street.", "relation": "Causes", "tails": [" police car", " hurt", " injured"]}
+{"head": "Halifax Regional Police are investigating after one of their marked police cars was involved in a collision on a busy downtown street.", "relation": "xReason", "tails": [" police car", " police cars", " police car crashes"]}
+{"head": "Halifax Regional Police", "relation": "ObjectUse", "tails": [" make sure people are safe", " make sure no one is in trouble", " make sure no one is hurt"]}
+{"head": "Halifax Regional Police", "relation": "AtLocation", "tails": [" police station", " police car", " police cruiser"]}
+{"head": "Halifax Regional Police", "relation": "CapableOf", "tails": [" police crime scene", " police the area", " get arrested"]}
+{"head": "Halifax Regional Police", "relation": "HasProperty", "tails": [" police force", " police station", " police"]}
+{"head": "Halifax Regional Police", "relation": "MadeUpOf", "tails": [" police car", " Police car", " patrol car"]}
+{"head": "Halifax Regional Police", "relation": "NotDesires", "tails": [" police car", " Police car", " get arrested"]}
+{"head": "Halifax Regional Police", "relation": "Desires", "tails": [" to keep the peace", " to be a police force", " to protect the public"]}

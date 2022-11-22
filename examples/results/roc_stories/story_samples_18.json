@@ -1,0 +1,219 @@
+{"head": "to wait", "relation": "HinderedBy", "tails": [" to wait", " to wait ", " to wait  to wait"]}
+{"head": "to wait", "relation": "isBefore", "tails": [" to wait", " have to wait", " to wait for something"]}
+{"head": "to wait", "relation": "isAfter", "tails": [" have to wait", " to be patient", " to wait"]}
+{"head": "to wait", "relation": "HasSubEvent", "tails": [" to wait", " have to wait", " to wait "]}
+{"head": "to wait", "relation": "Causes", "tails": [" have to wait", " to wait", " have to wait for"]}
+{"head": "to wait", "relation": "xReason", "tails": [" have to wait", " to wait", " have to wait for"]}
+{"head": "to shiver", "relation": "HinderedBy", "tails": [" to shiver", " to shiver ", " to shiver  to shiver "]}
+{"head": "to shiver", "relation": "isBefore", "tails": [" to shiver", " to shiver ", " to shiver in cold"]}
+{"head": "to shiver", "relation": "isAfter", "tails": [" to shiver", " to shiver in cold weather", " to shiver in the cold"]}
+{"head": "to shiver", "relation": "HasSubEvent", "tails": [" to shiver", " to shiver ", " to shiver in cold"]}
+{"head": "to shiver", "relation": "Causes", "tails": [" to shiver", " to shiver ", " to shivers"]}
+{"head": "to shiver", "relation": "xReason", "tails": [" to shiver", " to shiver ", " to shiver in cold"]}
+{"head": "to see", "relation": "HinderedBy", "tails": [" to see", " to see ", " to see something"]}
+{"head": "to see", "relation": "isBefore", "tails": [" to see", " to see what's going on", " to see what is going on"]}
+{"head": "to see", "relation": "isAfter", "tails": [" to see what's going on", " to see what they are looking at", " to see what is going on"]}
+{"head": "to see", "relation": "HasSubEvent", "tails": [" to see", " to see  see", " to see "]}
+{"head": "to see", "relation": "Causes", "tails": [" to see", " to see ", " to see something"]}
+{"head": "to see", "relation": "xReason", "tails": [" to see", " to see something", " look at"]}
+{"head": "to give", "relation": "HinderedBy", "tails": [" to give", " to give something to someone", " to give  to "]}
+{"head": "to give", "relation": "isBefore", "tails": [" to give", " to give something to someone", " to give to someone"]}
+{"head": "to give", "relation": "isAfter", "tails": [" to be generous", " to give", " to give to someone"]}
+{"head": "to give", "relation": "HasSubEvent", "tails": [" to give", " to give something to someone", " to give  give  give"]}
+{"head": "to give", "relation": "Causes", "tails": [" to give", " to give something to someone", " to give to others"]}
+{"head": "to give", "relation": "xReason", "tails": [" to give", " to be generous", " to give to others"]}
+{"head": "to die", "relation": "HinderedBy", "tails": [" to die", " to die ", " death"]}
+{"head": "to die", "relation": "isBefore", "tails": [" to die", " have heart attack", " death"]}
+{"head": "to die", "relation": "isAfter", "tails": [" death", " life", " death sentence"]}
+{"head": "to die", "relation": "HasSubEvent", "tails": [" die of old age", " have to go to heaven", " have to die"]}
+{"head": "to die", "relation": "Causes", "tails": [" death", " have no one to talk to", " have to go to heaven"]}
+{"head": "to die", "relation": "xReason", "tails": [" death", " have no one to talk to", " have to go to heaven"]}
+{"head": "to bring", "relation": "HinderedBy", "tails": [" to bring", " to bring ", " to bring  to the event"]}
+{"head": "to bring", "relation": "isBefore", "tails": [" to bring", " to bring ", " to bring  food"]}
+{"head": "to bring", "relation": "isAfter", "tails": [" to bring to the event", " to bring to the party", " to bring"]}
+{"head": "to bring", "relation": "HasSubEvent", "tails": [" to bring", " to bring ", " to bring  bring"]}
+{"head": "to bring", "relation": "Causes", "tails": [" to bring", " have to bring", " to bring  to  bring"]}
+{"head": "to bring", "relation": "xReason", "tails": [" to bring", " have to bring", " to bring  food"]}
+{"head": "shopper", "relation": "ObjectUse", "tails": [" shop for groceries", " shop for items", " shop for things"]}
+{"head": "shopper", "relation": "AtLocation", "tails": [" shopping mall", " shop", " mall"]}
+{"head": "shopper", "relation": "CapableOf", "tails": [" shop for items", " shop for groceries", " shop for things"]}
+{"head": "shopper", "relation": "HasProperty", "tails": [" shoplifter", " shopper", " shopped at"]}
+{"head": "shopper", "relation": "MadeUpOf", "tails": [" shoplifter", " shopping cart", " shopper"]}
+{"head": "shopper", "relation": "NotDesires", "tails": [" shoplift", " shop at mall", " shop for groceries"]}
+{"head": "shopper", "relation": "Desires", "tails": [" shop for items", " shop for groceries", " shop for things"]}
+{"head": "place", "relation": "ObjectUse", "tails": [" place to eat", " have a party at", " have a party in"]}
+{"head": "place", "relation": "AtLocation", "tails": [" place to live", " place to eat", " place to go to"]}
+{"head": "place", "relation": "CapableOf", "tails": [" place on map", " place object in", " place in"]}
+{"head": "place", "relation": "HasProperty", "tails": [" found in many places", " found in", " place to be"]}
+{"head": "place", "relation": "MadeUpOf", "tails": [" place", " place to be", " place to sit"]}
+{"head": "place", "relation": "NotDesires", "tails": [" place to be", " place to go", " place to go to"]}
+{"head": "place", "relation": "Desires", "tails": [" place to live", " place to be", " place to go"]}
+{"head": "nice warm blanket", "relation": "ObjectUse", "tails": [" keep warm in the winter", " keep warm", " keep warm in winter"]}
+{"head": "nice warm blanket", "relation": "AtLocation", "tails": [" bed", " warm bed", " warm house"]}
+{"head": "nice warm blanket", "relation": "CapableOf", "tails": [" wrap around self", " warm up", " wrap around themselves"]}
+{"head": "nice warm blanket", "relation": "HasProperty", "tails": [" warm", " comfortable", " cold"]}
+{"head": "nice warm blanket", "relation": "MadeUpOf", "tails": [" blanket", " warm", " blankets"]}
+{"head": "nice warm blanket", "relation": "NotDesires", "tails": [" snuggling", " warm", " snuggling with"]}
+{"head": "nice warm blanket", "relation": "Desires", "tails": [" warm", " warm body", " warm and cozy"]}
+{"head": "man", "relation": "ObjectUse", "tails": [" man of steel", " man's mouth", " man's place"]}
+{"head": "man", "relation": "AtLocation", "tails": [" mannequin", " man's house", " man's home"]}
+{"head": "man", "relation": "CapableOf", "tails": [" man of steel", " men to work", " men to be men"]}
+{"head": "man", "relation": "HasProperty", "tails": [" found in woods", " man", " man's body"]}
+{"head": "man", "relation": "MadeUpOf", "tails": [" man's mouth", " mannequin", " man's hand"]}
+{"head": "man", "relation": "NotDesires", "tails": [" man to die", " man to be dead", " man's body"]}
+{"head": "man", "relation": "Desires", "tails": [" man's best friend", " man's best interests at heart", " man's best interest at heart"]}
+{"head": "long line", "relation": "ObjectUse", "tails": [" wait in line", " wait in", " get to the store"]}
+{"head": "long line", "relation": "AtLocation", "tails": [" long line of people", " long line", " long lines of people"]}
+{"head": "long line", "relation": "CapableOf", "tails": [" wait in line", " wait in long line", " stand in line"]}
+{"head": "long line", "relation": "HasProperty", "tails": [" long", " long and slow", " long and thin"]}
+{"head": "long line", "relation": "MadeUpOf", "tails": [" long line", " short line", " long"]}
+{"head": "long line", "relation": "NotDesires", "tails": [" waiting in long line", " waiting in line", " wait in line"]}
+{"head": "long line", "relation": "Desires", "tails": [" waiting in long line", " waiting in line", " wait in line"]}
+{"head": "line", "relation": "ObjectUse", "tails": [" make a paper airplane", " line up with other lines", " line up with another line"]}
+{"head": "line", "relation": "AtLocation", "tails": [" boat", " water", " line"]}
+{"head": "line", "relation": "CapableOf", "tails": [" line up with other line", " line up with other lines", " line boat with rope"]}
+{"head": "line", "relation": "HasProperty", "tails": [" found in ocean", " found on boat", " found in boat"]}
+{"head": "line", "relation": "MadeUpOf", "tails": [" line", " linehead", " line of fish"]}
+{"head": "line", "relation": "NotDesires", "tails": [" line", " water", " water in"]}
+{"head": "line", "relation": "Desires", "tails": [" line", " water", " line up"]}
+{"head": "homeless man", "relation": "ObjectUse", "tails": [" sleep on the street", " sleep on the streets", " homeless"]}
+{"head": "homeless man", "relation": "AtLocation", "tails": [" homeless shelter", " homeless camp", " homeless man"]}
+{"head": "homeless man", "relation": "CapableOf", "tails": [" sleep on street", " sleep on street corner", " sleep on streets"]}
+{"head": "homeless man", "relation": "HasProperty", "tails": [" homeless", " homeless man", " homeless person"]}
+{"head": "homeless man", "relation": "MadeUpOf", "tails": [" homeless man", " homeless", " homeless person"]}
+{"head": "homeless man", "relation": "NotDesires", "tails": [" homeless", " homeless man", " homeless person"]}
+{"head": "homeless man", "relation": "Desires", "tails": [" homeless", " homeless person", " homeless people"]}
+{"head": "hard shopper", "relation": "ObjectUse", "tails": [" get a good deal", " make money", " get a discount"]}
+{"head": "hard shopper", "relation": "AtLocation", "tails": [" shopping mall", " mall", " shopping center"]}
+{"head": "hard shopper", "relation": "CapableOf", "tails": [" shop at mall", " shop at store", " shop for groceries"]}
+{"head": "hard shopper", "relation": "HasProperty", "tails": [" hard working", " hardworking", " hard to find"]}
+{"head": "hard shopper", "relation": "MadeUpOf", "tails": [" shopping cart", " shopper", " hard to find"]}
+{"head": "hard shopper", "relation": "NotDesires", "tails": [" hard to shop for", " hard to find", " hard to buy"]}
+{"head": "hard shopper", "relation": "Desires", "tails": [" hard working", " hardworking", " hard to find"]}
+{"head": "give place", "relation": "HinderedBy", "tails": [" give place", " give to person", " give away"]}
+{"head": "give place", "relation": "isBefore", "tails": [" give money to charity", " give money to poor people", " give money to homeless"]}
+{"head": "give place", "relation": "isAfter", "tails": [" give to person", " give away", " place to eat"]}
+{"head": "give place", "relation": "HasSubEvent", "tails": [" give money", " give money to person", " give money to"]}
+{"head": "give place", "relation": "Causes", "tails": [" give place", " give place to people", " give to person"]}
+{"head": "give place", "relation": "xReason", "tails": [" give place", " give place to people", " give to person"]}
+{"head": "give blanket", "relation": "HinderedBy", "tails": [" give to homeless", " give to homeless person", " give blanket to homeless"]}
+{"head": "give blanket", "relation": "isBefore", "tails": [" give to homeless", " give to homeless person", " give to child"]}
+{"head": "give blanket", "relation": "isAfter", "tails": [" give to homeless", " give to homeless person", " give to child"]}
+{"head": "give blanket", "relation": "HasSubEvent", "tails": [" give to homeless", " give to homeless person", " give to person"]}
+{"head": "give blanket", "relation": "Causes", "tails": [" give to homeless", " give to homeless person", " warm"]}
+{"head": "give blanket", "relation": "xReason", "tails": [" give to homeless", " give to homeless person", " warm"]}
+{"head": "gift", "relation": "ObjectUse", "tails": [" give to someone", " give to the person", " give to person Y"]}
+{"head": "gift", "relation": "AtLocation", "tails": [" gift box", " gift shop", " gift bag"]}
+{"head": "gift", "relation": "CapableOf", "tails": [" give to person", " give to friend", " give to someone"]}
+{"head": "gift", "relation": "HasProperty", "tails": [" given as gift", " given to person", " given to someone"]}
+{"head": "gift", "relation": "MadeUpOf", "tails": [" gift", " gift card", " give to person"]}
+{"head": "gift", "relation": "NotDesires", "tails": [" give to person", " give to someone", " give as gift"]}
+{"head": "gift", "relation": "Desires", "tails": [" give to person", " give to someone", " give to friend"]}
+{"head": "die shopper", "relation": "HinderedBy", "tails": [" die shopping", " die in a car accident", " die in a car crash"]}
+{"head": "die shopper", "relation": "isBefore", "tails": [" shop for groceries", " die in car accident", " die in car crash"]}
+{"head": "die shopper", "relation": "isAfter", "tails": [" shopper", " shop for groceries", " shopped at store"]}
+{"head": "die shopper", "relation": "HasSubEvent", "tails": [" shop for groceries", " shop for food", " buy groceries"]}
+{"head": "die shopper", "relation": "Causes", "tails": [" die shopper", " dead", " die shopping"]}
+{"head": "die shopper", "relation": "xReason", "tails": [" die in car accident", " die in car crash", " die at home"]}
+{"head": "car", "relation": "ObjectUse", "tails": [" drive to the store", " get to the store", " drive to work"]}
+{"head": "car", "relation": "AtLocation", "tails": [" car show", " car wash", " car dealership"]}
+{"head": "car", "relation": "CapableOf", "tails": [" drive to destination", " drive to store", " drive to place"]}
+{"head": "car", "relation": "HasProperty", "tails": [" found in car showrooms", " found in car showroom", " found in car dealership"]}
+{"head": "car", "relation": "MadeUpOf", "tails": [" engine", " drivetrain", " car engine"]}
+{"head": "car", "relation": "NotDesires", "tails": [" get into accident", " drive to work", " drive to store"]}
+{"head": "car", "relation": "Desires", "tails": [" drive to work", " get to destination", " get to work"]}
+{"head": "bring gift", "relation": "HinderedBy", "tails": [" bring gift", " give to someone", " give to person"]}
+{"head": "bring gift", "relation": "isBefore", "tails": [" give to person", " give to friend", " give to someone"]}
+{"head": "bring gift", "relation": "isAfter", "tails": [" give to person", " give to friend", " give to someone"]}
+{"head": "bring gift", "relation": "HasSubEvent", "tails": [" give to person", " give gift to person", " give gift"]}
+{"head": "bring gift", "relation": "Causes", "tails": [" give to person", " give to friend", " give to someone"]}
+{"head": "bring gift", "relation": "xReason", "tails": [" give to person", " give to someone", " give to friend"]}
+{"head": "blanket", "relation": "ObjectUse", "tails": [" keep warm", " cover up with", " cover the bed"]}
+{"head": "blanket", "relation": "AtLocation", "tails": [" bed", " bedroom", " house"]}
+{"head": "blanket", "relation": "CapableOf", "tails": [" put on bed", " cover body", " cover body with"]}
+{"head": "blanket", "relation": "HasProperty", "tails": [" warm", " used in bed", " used as a blanket"]}
+{"head": "blanket", "relation": "MadeUpOf", "tails": [" blanket", " blankets", " bedding"]}
+{"head": "blanket", "relation": "NotDesires", "tails": [" snuggling", " snuggling with", " snoring"]}
+{"head": "blanket", "relation": "Desires", "tails": [" snuggling", " snuggle with", " warm"]}
+{"head": "alleyway", "relation": "ObjectUse", "tails": [" walk down", " walking", " travel"]}
+{"head": "alleyway", "relation": "AtLocation", "tails": [" park", " street", " carpool"]}
+{"head": "alleyway", "relation": "CapableOf", "tails": [" walk down", " walk in", " walk through"]}
+{"head": "alleyway", "relation": "HasProperty", "tails": [" alleys", " found in rural areas", " found in many places"]}
+{"head": "alleyway", "relation": "MadeUpOf", "tails": [" alleys", " carpool lane", " alleysway"]}
+{"head": "alleyway", "relation": "NotDesires", "tails": [" walk down", " walk through", " walking"]}
+{"head": "alleyway", "relation": "Desires", "tails": [" travel", " walk down", " walk to house"]}
+{"head": "The shopper saw a homeless man shivering in the alleyway.", "relation": "xAttr", "tails": [" homeless", " cold", " poor"]}
+{"head": "The shopper saw a homeless man shivering in the alleyway.", "relation": "xWant", "tails": [" to help the homeless man", " to help the homeless", " to help the homeless person"]}
+{"head": "The shopper saw a homeless man shivering in the alleyway.", "relation": "xNeed", "tails": [" to go to the alleyway", " to go to the alley", " to walk down the alley"]}
+{"head": "The shopper saw a homeless man shivering in the alleyway.", "relation": "xEffect", "tails": [" the shopper sees a homeless man", " the shopper sees the homeless man", " the shopper sees a homeless man."]}
+{"head": "The shopper saw a homeless man shivering in the alleyway.", "relation": "HinderedBy", "tails": [" The homeless man is in the alleyway.", " The homeless man is in a wheelchair.", " The homeless man is in the alley."]}
+{"head": "The shopper saw a homeless man shivering in the alleyway.", "relation": "oWant", "tails": [" to ask for help", " to ask for money", " none"]}
+{"head": "The shopper saw a homeless man shivering in the alleyway.", "relation": "xReact", "tails": [" cold", " sad", " homeless"]}
+{"head": "The shopper saw a homeless man shivering in the alleyway.", "relation": "oEffect", "tails": [" none", " the shopper sees a homeless man", " the shopper sees the homeless man"]}
+{"head": "The shopper saw a homeless man shivering in the alleyway.", "relation": "xIntent", "tails": [" none", " the homeless man to be warm", " the homeless to be warm"]}
+{"head": "The shopper saw a homeless man shivering in the alleyway.", "relation": "oReact", "tails": [" none", " homeless", " cold"]}
+{"head": "The shopper saw a homeless man shivering in the alleyway.", "relation": "isBefore", "tails": [" the shopper helps the homeless man", " the shopper helps the homeless", " the shopper gives the homeless a dollar"]}
+{"head": "The shopper saw a homeless man shivering in the alleyway.", "relation": "isAfter", "tails": [" the homeless man to get out of the cold", " the shopper sees a homeless man", " the shopper sees a homeless man in the alley"]}
+{"head": "The shopper saw a homeless man shivering in the alleyway.", "relation": "HasSubEvent", "tails": [" the shopper sees a homeless man", " the shopper sees the homeless man", " the shopper sees a homeless person"]}
+{"head": "The shopper saw a homeless man shivering in the alleyway.", "relation": "Causes", "tails": [" the homeless man to get out of the cold", " the homeless man to get out of the cold.", " the homeless man to get out of the alleyway"]}
+{"head": "The shopper saw a homeless man shivering in the alleyway.", "relation": "xReason", "tails": [" the homeless man to get out of the cold", " the homeless man to get out of the cold.", " the homeless man to get out of the alleyway"]}
+{"head": "The shopper gave the homeless man a nice warm blanket.", "relation": "xAttr", "tails": [" generous", " kind", " giving"]}
+{"head": "The shopper gave the homeless man a nice warm blanket.", "relation": "xWant", "tails": [" to make sure the homeless man has a warm place to sleep", " to make sure the homeless man has a warm place to sleep.", " to make sure the homeless man has a place to sleep"]}
+{"head": "The shopper gave the homeless man a nice warm blanket.", "relation": "xNeed", "tails": [" to go to the homeless shelter", " to buy a blanket", " to go to the store"]}
+{"head": "The shopper gave the homeless man a nice warm blanket.", "relation": "xEffect", "tails": [" the homeless man to be warm", " is thanked by the homeless man", " the homeless man is warm"]}
+{"head": "The shopper gave the homeless man a nice warm blanket.", "relation": "HinderedBy", "tails": [" The homeless man is homeless.", " The homeless man is too cold.", " the homeless man to be warm"]}
+{"head": "The shopper gave the homeless man a nice warm blanket.", "relation": "oWant", "tails": [" to thank the shopper", " to thank the person who gave them the blanket.", " to thank the person who gave them the blanket"]}
+{"head": "The shopper gave the homeless man a nice warm blanket.", "relation": "xReact", "tails": [" warm", " good about themselves", " happy"]}
+{"head": "The shopper gave the homeless man a nice warm blanket.", "relation": "oEffect", "tails": [" the homeless man is warm", " the homeless man to be warm", " the homeless person is warm"]}
+{"head": "The shopper gave the homeless man a nice warm blanket.", "relation": "xIntent", "tails": [" to be nice", " to help the homeless", " to help someone"]}
+{"head": "The shopper gave the homeless man a nice warm blanket.", "relation": "oReact", "tails": [" grateful", " none", " thankful"]}
+{"head": "The shopper gave the homeless man a nice warm blanket.", "relation": "isBefore", "tails": [" the homeless man thanks the shopper", " the homeless man is grateful to the shopper", " the homeless man thanks the shopper."]}
+{"head": "The shopper gave the homeless man a nice warm blanket.", "relation": "isAfter", "tails": [" the homeless man thanks the shopper", " the homeless man to be warm", " the homeless man thanks the shopper."]}
+{"head": "The shopper gave the homeless man a nice warm blanket.", "relation": "HasSubEvent", "tails": [" the homeless man to have a warm place to sleep", " the homeless man to be warm", " the homeless man to have a warm place to sleep."]}
+{"head": "The shopper gave the homeless man a nice warm blanket.", "relation": "Causes", "tails": [" the homeless man to be warm", " the homeless man to have a warm place to sleep", " the homeless man to have a warm place to sleep."]}
+{"head": "The shopper gave the homeless man a nice warm blanket.", "relation": "xReason", "tails": [" the homeless man to be warm", " the homeless man to have a warm place to sleep", " the homeless man to have a warm place to sleep."]}
+{"head": "It was miserably cold.", "relation": "xAttr", "tails": [" cold", " chilly", " warm"]}
+{"head": "It was miserably cold.", "relation": "xWant", "tails": [" to take a shower", " to go to the bathroom", " to go outside"]}
+{"head": "It was miserably cold.", "relation": "xNeed", "tails": [" to go outside", " none", " to be outside"]}
+{"head": "It was miserably cold.", "relation": "xEffect", "tails": [" it was too hot", " it was too cold", " it is cold outside"]}
+{"head": "It was miserably cold.", "relation": "HinderedBy", "tails": [" It was too hot.", " it was too hot", " it was raining"]}
+{"head": "It was miserably cold.", "relation": "oWant", "tails": [" none", " to stay warm", " to go outside"]}
+{"head": "It was miserably cold.", "relation": "xReact", "tails": [" cold", " freezing", " warm"]}
+{"head": "It was miserably cold.", "relation": "oEffect", "tails": [" none", " cold", " they get cold"]}
+{"head": "It was miserably cold.", "relation": "xIntent", "tails": [" none", " it is cold outside", " it is too cold outside"]}
+{"head": "It was miserably cold.", "relation": "oReact", "tails": [" none", " cold", " cold."]}
+{"head": "It was miserably cold.", "relation": "isBefore", "tails": [" it snowed", " it was raining", " it was too hot"]}
+{"head": "It was miserably cold.", "relation": "isAfter", "tails": [" it was snowing", " it was snowing outside", " it snowed a lot"]}
+{"head": "It was miserably cold.", "relation": "HasSubEvent", "tails": [" get out of the house", " get out of the cold", " get out of the car"]}
+{"head": "It was miserably cold.", "relation": "Causes", "tails": [" it was too hot", " it is too hot outside", " it is too hot"]}
+{"head": "It was miserably cold.", "relation": "xReason", "tails": [" it was snowing", " it was snowing outside", " it was too hot"]}
+{"head": "He gave up his place in the line and brought a gift back from his car.", "relation": "xAttr", "tails": [" giving", " generous", " happy"]}
+{"head": "He gave up his place in the line and brought a gift back from his car.", "relation": "xWant", "tails": [" to give the gift to someone else", " to give it to someone else", " to give the gift to the other person"]}
+{"head": "He gave up his place in the line and brought a gift back from his car.", "relation": "xNeed", "tails": [" to get in the car", " to get in line", " to be in line"]}
+{"head": "He gave up his place in the line and brought a gift back from his car.", "relation": "xEffect", "tails": [" he gets a gift", " he gets a gift back", " he gets a hug"]}
+{"head": "He gave up his place in the line and brought a gift back from his car.", "relation": "HinderedBy", "tails": [" he has to go to work", " he has to wait in line", " he has to go to work."]}
+{"head": "He gave up his place in the line and brought a gift back from his car.", "relation": "oWant", "tails": [" to thank him", " to give the gift to someone else", " to thank him for it"]}
+{"head": "He gave up his place in the line and brought a gift back from his car.", "relation": "xReact", "tails": [" happy", " good about themselves", " good about themselves."]}
+{"head": "He gave up his place in the line and brought a gift back from his car.", "relation": "oEffect", "tails": [" none", " they get a gift back", " they get a gift"]}
+{"head": "He gave up his place in the line and brought a gift back from his car.", "relation": "xIntent", "tails": [" to give a gift", " to be nice", " to be helpful"]}
+{"head": "He gave up his place in the line and brought a gift back from his car.", "relation": "oReact", "tails": [" none", " happy", " grateful"]}
+{"head": "He gave up his place in the line and brought a gift back from his car.", "relation": "isBefore", "tails": [" he gets a hug from his friend", " he gets a hug from his girlfriend", " he gets a hug from his wife"]}
+{"head": "He gave up his place in the line and brought a gift back from his car.", "relation": "isAfter", "tails": [" he got a hug from his friend", " he got a hug from his girlfriend", " he got a hug from his wife"]}
+{"head": "He gave up his place in the line and brought a gift back from his car.", "relation": "HasSubEvent", "tails": [" get a gift back", " get a new one", " get a gift"]}
+{"head": "He gave up his place in the line and brought a gift back from his car.", "relation": "Causes", "tails": [" happy", " giving", " generous"]}
+{"head": "He gave up his place in the line and brought a gift back from his car.", "relation": "xReason", "tails": [" he got a gift", " he gets a gift", " he got a gift back"]}
+{"head": "A die hard shopper was waiting in the long line outside.", "relation": "xAttr", "tails": [" impatient", " patient", " eager"]}
+{"head": "A die hard shopper was waiting in the long line outside.", "relation": "xWant", "tails": [" to buy something", " to go home", " to buy something."]}
+{"head": "A die hard shopper was waiting in the long line outside.", "relation": "xNeed", "tails": [" to go to the store", " get in line", " a car"]}
+{"head": "A die hard shopper was waiting in the long line outside.", "relation": "xEffect", "tails": [" get in line", " a long line", " gets in line"]}
+{"head": "A die hard shopper was waiting in the long line outside.", "relation": "HinderedBy", "tails": [" The line is too long.", " The line is too long to get through.", " The line was too long."]}
+{"head": "A die hard shopper was waiting in the long line outside.", "relation": "oWant", "tails": [" to buy something", " to go home", " to buy something."]}
+{"head": "A die hard shopper was waiting in the long line outside.", "relation": "xReact", "tails": [" impatient", " satisfied", " aching"]}
+{"head": "A die hard shopper was waiting in the long line outside.", "relation": "oEffect", "tails": [" get in line", " a long line", " none"]}
+{"head": "A die hard shopper was waiting in the long line outside.", "relation": "xIntent", "tails": [" to buy something", " a good deal", " to buy something."]}
+{"head": "A die hard shopper was waiting in the long line outside.", "relation": "oReact", "tails": [" none", " annoyed", " impatient"]}
+{"head": "A die hard shopper was waiting in the long line outside.", "relation": "isBefore", "tails": [" a car breaks down", " a long line of people", " a long line"]}
+{"head": "A die hard shopper was waiting in the long line outside.", "relation": "isAfter", "tails": [" a car breaks down", " a long line of people", " a long line"]}
+{"head": "A die hard shopper was waiting in the long line outside.", "relation": "HasSubEvent", "tails": [" get in line", " get in the line", " go home"]}
+{"head": "A die hard shopper was waiting in the long line outside.", "relation": "Causes", "tails": [" a long line", " a long line of people", " a sense of urgency"]}
+{"head": "A die hard shopper was waiting in the long line outside.", "relation": "xReason", "tails": [" have to wait in line", " a long line", " a long line of people"]}

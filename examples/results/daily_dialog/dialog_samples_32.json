@@ -1,0 +1,245 @@
+{"head": "trip", "relation": "ObjectUse", "tails": [" travel to new places", " go on vacation", " go on"]}
+{"head": "trip", "relation": "AtLocation", "tails": [" vacation", " plane", " trip"]}
+{"head": "trip", "relation": "CapableOf", "tails": [" travel to destination", " go on vacation", " travel to new place"]}
+{"head": "trip", "relation": "HasProperty", "tails": [" trip to destination", " travel", " trip to other country"]}
+{"head": "trip", "relation": "MadeUpOf", "tails": [" trip", " travel", " plane ticket"]}
+{"head": "trip", "relation": "NotDesires", "tails": [" get lost", " trip to destination", " get lost in woods"]}
+{"head": "trip", "relation": "Desires", "tails": [" get away from home", " get away from family", " travel"]}
+{"head": "to meet", "relation": "HinderedBy", "tails": [" to meet", " to meet ", " to meet someone"]}
+{"head": "to meet", "relation": "isBefore", "tails": [" to meet someone", " to meet", " meet new people"]}
+{"head": "to meet", "relation": "isAfter", "tails": [" meet new people", " meet new person", " meet someone"]}
+{"head": "to meet", "relation": "HasSubEvent", "tails": [" to meet", " get ready for meeting", " to meet "]}
+{"head": "to meet", "relation": "Causes", "tails": [" meet new people", " to meet", " to meet someone"]}
+{"head": "to meet", "relation": "xReason", "tails": [" meet new people", " to meet someone", " meet new person"]}
+{"head": "to exhaust", "relation": "HinderedBy", "tails": [" to exhaust", " to exhaust ", " to exhaust  to exhaust"]}
+{"head": "to exhaust", "relation": "isBefore", "tails": [" to exhaust", " to exhaust  exhaust  exhaust  exhaust  exhaust  exhaust  exhaust  exhaust  exhaust  exhaust  exhaust", " to exhaust  exhaust  exhaust  exhaust  exhaust  exhaust  exhaust  exhaust  exhaust  exhaust"]}
+{"head": "to exhaust", "relation": "isAfter", "tails": [" to exhaust", " to exhaust themselves", " to exhaust the engine"]}
+{"head": "to exhaust", "relation": "HasSubEvent", "tails": [" to exhaust  exhaust  exhaust  exhaust  exhaust  exhaust  exhaust  exhaust  exhaust  exhaust  exhaust", " to exhaust  exhaust  exhaust  exhaust  exhaust  exhaust  exhaust  exhaust  exhaust  exhaust", " to exhaust  exhaust  exhaust  exhaust  exhaust  exhaust  exhaust  exhaust  exhaust"]}
+{"head": "to exhaust", "relation": "Causes", "tails": [" to exhaust  exhaust  exhaust  exhaust  exhaust  exhaust  exhaust  exhaust  exhaust  exhaust  exhaust", " to exhaust  exhaust  exhaust  exhaust  exhaust  exhaust  exhaust  exhaust  exhaust  exhaust", " to exhaust  exhaust  exhaust  exhaust  exhaust  exhaust  exhaust  exhaust  exhaust  exhaust "]}
+{"head": "to exhaust", "relation": "xReason", "tails": [" to exhaust", " to exhaust yourself", " to exhaust oneself"]}
+{"head": "president", "relation": "ObjectUse", "tails": [" govern the country", " president of united states", " president of the united states"]}
+{"head": "president", "relation": "AtLocation", "tails": [" president of united states", " president's mansion", " president's office"]}
+{"head": "president", "relation": "CapableOf", "tails": [" govern country", " rule country", " lead country"]}
+{"head": "president", "relation": "HasProperty", "tails": [" one of world's most powerful people", " one of world's most powerful men", " president of united states"]}
+{"head": "president", "relation": "MadeUpOf", "tails": [" president of united states", " president's hat", " president"]}
+{"head": "president", "relation": "NotDesires", "tails": [" president of united states of america", " president of united states", " president of united states of americas"]}
+{"head": "president", "relation": "Desires", "tails": [" president of united states of america", " president of united states", " president of the united states of america"]}
+{"head": "meet you", "relation": "HinderedBy", "tails": [" meet new people", " meet someone", " meet a new person"]}
+{"head": "meet you", "relation": "isBefore", "tails": [" meet new people", " have a good time", " meet someone"]}
+{"head": "meet you", "relation": "isAfter", "tails": [" meet new people", " meet someone", " get to know you"]}
+{"head": "meet you", "relation": "HasSubEvent", "tails": [" meet new people", " get to know you", " get to know person"]}
+{"head": "meet you", "relation": "Causes", "tails": [" meet new people", " meet someone", " get to know you"]}
+{"head": "meet you", "relation": "xReason", "tails": [" meet new people", " meet someone", " get to know you"]}
+{"head": "long trip", "relation": "ObjectUse", "tails": [" travel to new places", " get to the destination", " get to a destination"]}
+{"head": "long trip", "relation": "AtLocation", "tails": [" airplane", " plane", " long flight"]}
+{"head": "long trip", "relation": "CapableOf", "tails": [" travel to new place", " go to new place", " travel to new places"]}
+{"head": "long trip", "relation": "HasProperty", "tails": [" long trip", " long", " very long trip"]}
+{"head": "long trip", "relation": "MadeUpOf", "tails": [" long car ride", " long trip", " long car trip"]}
+{"head": "long trip", "relation": "NotDesires", "tails": [" get lost", " long flight", " travel to destination"]}
+{"head": "long trip", "relation": "Desires", "tails": [" get away from home", " travel to new places", " travel"]}
+{"head": "long flight", "relation": "ObjectUse", "tails": [" travel to another country", " get to the destination", " get to destination"]}
+{"head": "long flight", "relation": "AtLocation", "tails": [" airplane", " airport", " plane"]}
+{"head": "long flight", "relation": "CapableOf", "tails": [" fly long distance", " fly long distances", " fly on airplane"]}
+{"head": "long flight", "relation": "HasProperty", "tails": [" long flight", " very long flight", " long"]}
+{"head": "long flight", "relation": "MadeUpOf", "tails": [" long flight", " flight", " plane"]}
+{"head": "long flight", "relation": "NotDesires", "tails": [" long flight", " travel to another country", " flying long distances"]}
+{"head": "long flight", "relation": "Desires", "tails": [" long flight", " get to destination", " travel to another country"]}
+{"head": "flight", "relation": "ObjectUse", "tails": [" get to their destination", " get to the destination", " get to destination"]}
+{"head": "flight", "relation": "AtLocation", "tails": [" airplane", " airport", " plane"]}
+{"head": "flight", "relation": "CapableOf", "tails": [" board plane", " board airplane", " get to destination"]}
+{"head": "flight", "relation": "HasProperty", "tails": [" flying on airplane", " flying", " flying airplane"]}
+{"head": "flight", "relation": "MadeUpOf", "tails": [" flight", " flight deck", " airplane"]}
+{"head": "flight", "relation": "NotDesires", "tails": [" get on plane", " travel to another country", " flying airplane"]}
+{"head": "flight", "relation": "Desires", "tails": [" get to destination", " get to destination on time", " get to destination faster"]}
+{"head": "You must be exhausted after your long trip from Canada .", "relation": "xAttr", "tails": [" tired", " exhausted", " weary"]}
+{"head": "You must be exhausted after your long trip from Canada .", "relation": "xWant", "tails": [" to take a nap", " to get some rest", " to take a shower"]}
+{"head": "You must be exhausted after your long trip from Canada .", "relation": "xNeed", "tails": [" to go to the airport", " to go to the hotel", " to go to the bathroom"]}
+{"head": "You must be exhausted after your long trip from Canada .", "relation": "xEffect", "tails": [" get some rest", " get some sleep", " gets tired"]}
+{"head": "You must be exhausted after your long trip from Canada .", "relation": "HinderedBy", "tails": [" you have to get back to work.", " you have to go to work.", " you have to get back to work"]}
+{"head": "You must be exhausted after your long trip from Canada .", "relation": "oWant", "tails": [" none", " to get some rest", " to rest"]}
+{"head": "You must be exhausted after your long trip from Canada .", "relation": "xReact", "tails": [" tired", " exhausted", " tired."]}
+{"head": "You must be exhausted after your long trip from Canada .", "relation": "oEffect", "tails": [" none", " get some rest", " get some sleep"]}
+{"head": "You must be exhausted after your long trip from Canada .", "relation": "xIntent", "tails": [" none", " to rest", " to get rest"]}
+{"head": "You must be exhausted after your long trip from Canada .", "relation": "oReact", "tails": [" none", " tired", " exhausted"]}
+{"head": "You must be exhausted after your long trip from Canada .", "relation": "isBefore", "tails": [" get some rest", " get some sleep", " you are tired"]}
+{"head": "You must be exhausted after your long trip from Canada .", "relation": "isAfter", "tails": [" get some rest", " you have to go to work", " you have to go to the bathroom"]}
+{"head": "You must be exhausted after your long trip from Canada .", "relation": "HasSubEvent", "tails": [" go to bed", " get some rest", " go to sleep"]}
+{"head": "You must be exhausted after your long trip from Canada .", "relation": "Causes", "tails": [" you have been traveling for a long time", " you have been traveling for a long time.", " you have to go to work"]}
+{"head": "You must be exhausted after your long trip from Canada .", "relation": "xReason", "tails": [" you have to get up and go to work", " you have to get up and go to work.", " you have to go to work"]}
+{"head": "Yes , it was quite a long flight .", "relation": "xAttr", "tails": [" tired", " slow", " long flight"]}
+{"head": "Yes , it was quite a long flight .", "relation": "xWant", "tails": [" to go home", " to get home", " to get back home"]}
+{"head": "Yes , it was quite a long flight .", "relation": "xNeed", "tails": [" none", " to get on the plane", " to get on a plane"]}
+{"head": "Yes , it was quite a long flight .", "relation": "xEffect", "tails": [" none", " gets tired", " get off plane"]}
+{"head": "Yes , it was quite a long flight .", "relation": "HinderedBy", "tails": [" Yes, it was a long flight.", " yes it was a long flight", " Yes, it was a long flight"]}
+{"head": "Yes , it was quite a long flight .", "relation": "oWant", "tails": [" none", " to go home", " to rest"]}
+{"head": "Yes , it was quite a long flight .", "relation": "xReact", "tails": [" tired", " exhausted", " tired."]}
+{"head": "Yes , it was quite a long flight .", "relation": "oEffect", "tails": [" none", " they get to their destination", " get off the plane"]}
+{"head": "Yes , it was quite a long flight .", "relation": "xIntent", "tails": [" none", " to get to their destination", " to get to the destination"]}
+{"head": "Yes , it was quite a long flight .", "relation": "oReact", "tails": [" none", " happy", " tired"]}
+{"head": "Yes , it was quite a long flight .", "relation": "isBefore", "tails": [" none", " yes", " travel"]}
+{"head": "Yes , it was quite a long flight .", "relation": "isAfter", "tails": [" none", " yes", " travel"]}
+{"head": "Yes , it was quite a long flight .", "relation": "HasSubEvent", "tails": [" none", " get out of the plane", " get off the plane"]}
+{"head": "Yes , it was quite a long flight .", "relation": "Causes", "tails": [" yes", " none", " yes it was"]}
+{"head": "Yes , it was quite a long flight .", "relation": "xReason", "tails": [" none", " yes", " yes and no"]}
+{"head": "Wang .", "relation": "xAttr", "tails": [" friendly", " skilled", " caring"]}
+{"head": "Wang .", "relation": "xWant", "tails": [" to go home", " to go to the store", " to go to the party"]}
+{"head": "Wang .", "relation": "xNeed", "tails": [" none", " to know how to do it", " to know how to use it"]}
+{"head": "Wang .", "relation": "xEffect", "tails": [" none", " gets yelled at", " get a new job"]}
+{"head": "Wang .", "relation": "HinderedBy", "tails": [" PersonX is too far away from PersonX.", " PersonX is too far away from PersonY.", " PersonX is too far away."]}
+{"head": "Wang .", "relation": "oWant", "tails": [" none", " to talk to PersonY", " to talk to him"]}
+{"head": "Wang .", "relation": "xReact", "tails": [" happy", " satisfied", " happy."]}
+{"head": "Wang .", "relation": "oEffect", "tails": [" none", " have a good time", " have a conversation with"]}
+{"head": "Wang .", "relation": "xIntent", "tails": [" none", " to be a good person", " to have a good time"]}
+{"head": "Wang .", "relation": "oReact", "tails": [" none", " happy", " happy."]}
+{"head": "Wang .", "relation": "isBefore", "tails": [" PersonY asks PersonX what they want to do", " PersonY asks PersonX what they want to do.", " PersonY asks PersonX what they want to do next."]}
+{"head": "Wang .", "relation": "isAfter", "tails": [" PersonY", " PersonX", " none"]}
+{"head": "Wang .", "relation": "HasSubEvent", "tails": [" none", " get into trouble", " get into argument"]}
+{"head": "Wang .", "relation": "Causes", "tails": [" none", " like they are part of the group", " like they are part of a group"]}
+{"head": "Wang .", "relation": "xReason", "tails": [" none", " Wants to go to the movies.", " Wants to go to China."]}
+{"head": "Wang , this is Mr .", "relation": "xAttr", "tails": [" friendly", " helpful", " polite"]}
+{"head": "Wang , this is Mr .", "relation": "xWant", "tails": [" to introduce himself", " to introduce themselves", " to greet them"]}
+{"head": "Wang , this is Mr .", "relation": "xNeed", "tails": [" none", " to introduce himself", " to introduce themselves"]}
+{"head": "Wang , this is Mr .", "relation": "xEffect", "tails": [" none", " gets introduced", " gets a hug"]}
+{"head": "Wang , this is Mr .", "relation": "HinderedBy", "tails": [" none", " PersonX is too shy to talk to PersonX.", " PersonX is too shy to talk to PersonY."]}
+{"head": "Wang , this is Mr .", "relation": "oWant", "tails": [" to introduce themselves", " none", " to talk to him"]}
+{"head": "Wang , this is Mr .", "relation": "xReact", "tails": [" happy", " good", " friendly"]}
+{"head": "Wang , this is Mr .", "relation": "oEffect", "tails": [" none", " get to know person", " get to know them"]}
+{"head": "Wang , this is Mr .", "relation": "xIntent", "tails": [" none", " to get to know someone", " to get to know them"]}
+{"head": "Wang , this is Mr .", "relation": "oReact", "tails": [" none", " happy", " happy to meet"]}
+{"head": "Wang , this is Mr .", "relation": "isBefore", "tails": [" PersonX introduces PersonY to PersonX", " PersonX introduces PersonX to PersonY", " PersonY introduces PersonY to PersonX"]}
+{"head": "Wang , this is Mr .", "relation": "isAfter", "tails": [" PersonX introduces PersonY to PersonX", " PersonY introduces PersonY to PersonY", " PersonX introduces PersonX to PersonY"]}
+{"head": "Wang , this is Mr .", "relation": "HasSubEvent", "tails": [" none", " get to know them", " get to know person"]}
+{"head": "Wang , this is Mr .", "relation": "Causes", "tails": [" none", " PersonX introduces PersonY to PersonX", " PersonX introduces PersonX to PersonY"]}
+{"head": "Wang , this is Mr .", "relation": "xReason", "tails": [" none", " PersonX introduces PersonY to PersonX", " PersonX introduces PersonX to PersonY"]}
+{"head": "Wang", "relation": "ObjectUse", "tails": [" get a new job", " get a job at a restaurant", " get a drink of water"]}
+{"head": "Wang", "relation": "AtLocation", "tails": [" school", " house", " person"]}
+{"head": "Wang", "relation": "CapableOf", "tails": [" learn to read", " get into trouble", " learn to speak"]}
+{"head": "Wang", "relation": "HasProperty", "tails": [" found in China", " none", " one of the two"]}
+{"head": "Wang", "relation": "MadeUpOf", "tails": [" china", " chinese", " chinese language"]}
+{"head": "Wang", "relation": "NotDesires", "tails": [" none", " get into trouble", " get into fight"]}
+{"head": "Wang", "relation": "Desires", "tails": [" have a good time", " none", " get a job"]}
+{"head": "Nice to meet you , Ms .", "relation": "xAttr", "tails": [" friendly", " nice", " polite"]}
+{"head": "Nice to meet you , Ms .", "relation": "xWant", "tails": [" to get to know them", " to get to know her", " to get to know them better"]}
+{"head": "Nice to meet you , Ms .", "relation": "xNeed", "tails": [" none", " to have met them before", " to have met her before"]}
+{"head": "Nice to meet you , Ms .", "relation": "xEffect", "tails": [" none", " smiles", " gets introduced"]}
+{"head": "Nice to meet you , Ms .", "relation": "HinderedBy", "tails": [" nice to meet you", " Nice to meet you.", " Nice to meet you too."]}
+{"head": "Nice to meet you , Ms .", "relation": "oWant", "tails": [" to get to know them", " to get to know the other person", " to get to know PersonY"]}
+{"head": "Nice to meet you , Ms .", "relation": "xReact", "tails": [" happy", " friendly", " nice"]}
+{"head": "Nice to meet you , Ms .", "relation": "oEffect", "tails": [" none", " nice to meet you", " nice to meet you."]}
+{"head": "Nice to meet you , Ms .", "relation": "xIntent", "tails": [" none", " to get to know someone", " to get to know them"]}
+{"head": "Nice to meet you , Ms .", "relation": "oReact", "tails": [" none", " happy", " nice"]}
+{"head": "Nice to meet you , Ms .", "relation": "isBefore", "tails": [" nice to meet you", " nice to meet you too", " nice"]}
+{"head": "Nice to meet you , Ms .", "relation": "isAfter", "tails": [" nice to meet you", " PersonX introduces themselves to PersonY", " nice to meet you too"]}
+{"head": "Nice to meet you , Ms .", "relation": "HasSubEvent", "tails": [" nice to meet you", " none", " nice to meet you."]}
+{"head": "Nice to meet you , Ms .", "relation": "Causes", "tails": [" nice to meet you", " nice", " Nice to meet you."]}
+{"head": "Nice to meet you , Ms .", "relation": "xReason", "tails": [" nice to meet you", " nice", " nice to meet"]}
+{"head": "Ms .", "relation": "xAttr", "tails": [" responsible", " capable", " skilled"]}
+{"head": "Ms .", "relation": "xWant", "tails": [" to get a job", " to get a promotion", " to be a good person"]}
+{"head": "Ms .", "relation": "xNeed", "tails": [" none", " to have a job", " get a job"]}
+{"head": "Ms .", "relation": "xEffect", "tails": [" none", " gets yelled at", " gets yelled at by others"]}
+{"head": "Ms .", "relation": "HinderedBy", "tails": [" PersonX is not allowed to be in the room.", " PersonX is not allowed to leave the house.", " Missed the bus."]}
+{"head": "Ms .", "relation": "oWant", "tails": [" none", " to get a new job", " to get a job"]}
+{"head": "Ms .", "relation": "xReact", "tails": [" happy", " satisfied", " good"]}
+{"head": "Ms .", "relation": "oEffect", "tails": [" none", " have a good time", " have a conversation with someone"]}
+{"head": "Ms .", "relation": "xIntent", "tails": [" none", " to be a good person", " to be a good friend"]}
+{"head": "Ms .", "relation": "oReact", "tails": [" none", " happy", " sad"]}
+{"head": "Ms .", "relation": "isBefore", "tails": [" PersonY asks PersonY what they want to do", " PersonY asks PersonX to marry them", " PersonY asks PersonY to marry them"]}
+{"head": "Ms .", "relation": "isAfter", "tails": [" PersonX asks PersonY to marry them", " PersonY asks PersonY to marry them", " PersonY asks PersonX to marry them"]}
+{"head": "Ms .", "relation": "HasSubEvent", "tails": [" learn new skills", " learn new things", " learn new skill"]}
+{"head": "Ms .", "relation": "Causes", "tails": [" people to talk to", " Missed the bus.", " none"]}
+{"head": "Ms .", "relation": "xReason", "tails": [" none", " people to talk to", " people to like"]}
+{"head": "Ms", "relation": "ObjectUse", "tails": [" have a good time", " get a promotion at work", " get a promotion"]}
+{"head": "Ms", "relation": "AtLocation", "tails": [" office building", " office", " school"]}
+{"head": "Ms", "relation": "CapableOf", "tails": [" learn new skills", " learn new skill", " learn new things"]}
+{"head": "Ms", "relation": "HasProperty", "tails": [" one of the most important people in the world", " one of the main characters in the movie", " one of the most important people in the country"]}
+{"head": "Ms", "relation": "MadeUpOf", "tails": [" carpal tunnel", " chair", " carpal"]}
+{"head": "Ms", "relation": "NotDesires", "tails": [" have to go to work", " have to go to the bathroom", " get fired"]}
+{"head": "Ms", "relation": "Desires", "tails": [" none", " have a good time", " have a good job"]}
+{"head": "Mr", "relation": "ObjectUse", "tails": [" make a good impression", " get a new job", " none"]}
+{"head": "Mr", "relation": "AtLocation", "tails": [" office building", " office", " house"]}
+{"head": "Mr", "relation": "CapableOf", "tails": [" get a drink of water", " have a good time", " get a job done"]}
+{"head": "Mr", "relation": "HasProperty", "tails": [" none", " one of the most powerful men in the world", " one of the most important people in the world"]}
+{"head": "Mr", "relation": "MadeUpOf", "tails": [" mannequin", " mannequins", " mane"]}
+{"head": "Mr", "relation": "NotDesires", "tails": [" none", " get fired", " have to pay bills"]}
+{"head": "Mr", "relation": "Desires", "tails": [" none", " have a good time", " have a good reputation"]}
+{"head": "Ivy Publishing", "relation": "ObjectUse", "tails": [" publish books", " publish a book", " publishing books"]}
+{"head": "Ivy Publishing", "relation": "AtLocation", "tails": [" book store", " bookstore", " library"]}
+{"head": "Ivy Publishing", "relation": "CapableOf", "tails": [" publish books", " publish book", " write book"]}
+{"head": "Ivy Publishing", "relation": "HasProperty", "tails": [" found in bookstores", " published by", " Ivy Publishing"]}
+{"head": "Ivy Publishing", "relation": "MadeUpOf", "tails": [" publishing house", " book", " book cover"]}
+{"head": "Ivy Publishing", "relation": "NotDesires", "tails": [" I can't find a publisher.", " publish books", " I can't find a publisher"]}
+{"head": "Ivy Publishing", "relation": "Desires", "tails": [" to publish books", " publish books", " to be a publisher"]}
+{"head": "It's nice to meet you , Mr .", "relation": "xAttr", "tails": [" friendly", " nice", " social"]}
+{"head": "It's nice to meet you , Mr .", "relation": "xWant", "tails": [" to get to know them", " to get to know him", " to get to know them better"]}
+{"head": "It's nice to meet you , Mr .", "relation": "xNeed", "tails": [" none", " to have met him before", " to be in a meeting"]}
+{"head": "It's nice to meet you , Mr .", "relation": "xEffect", "tails": [" none", " smiles", " is greeted"]}
+{"head": "It's nice to meet you , Mr .", "relation": "HinderedBy", "tails": [" it's nice to meet you", " it's nice to meet someone", " it's nice to meet you."]}
+{"head": "It's nice to meet you , Mr .", "relation": "oWant", "tails": [" to get to know them", " to get to know him", " to get to know you"]}
+{"head": "It's nice to meet you , Mr .", "relation": "xReact", "tails": [" happy", " friendly", " happy."]}
+{"head": "It's nice to meet you , Mr .", "relation": "oEffect", "tails": [" none", " they get to know them", " they get to know them better"]}
+{"head": "It's nice to meet you , Mr .", "relation": "xIntent", "tails": [" none", " to get to know someone", " to get to know them"]}
+{"head": "It's nice to meet you , Mr .", "relation": "oReact", "tails": [" none", " happy", " happy to meet them"]}
+{"head": "It's nice to meet you , Mr .", "relation": "isBefore", "tails": [" it's nice to meet you", " it's good to meet you", " it's nice to meet you too"]}
+{"head": "It's nice to meet you , Mr .", "relation": "isAfter", "tails": [" it's nice to meet you", " it's nice to meet you too", " PersonX introduces themselves to PersonY"]}
+{"head": "It's nice to meet you , Mr .", "relation": "HasSubEvent", "tails": [" none", " get to know them", " have a conversation"]}
+{"head": "It's nice to meet you , Mr .", "relation": "Causes", "tails": [" it's nice to meet you", " It's nice to meet you.", " It's nice to meet you too."]}
+{"head": "It's nice to meet you , Mr .", "relation": "xReason", "tails": [" it's nice to meet you", " It's nice to meet you too.", " It's nice to meet you."]}
+{"head": "I'm glad to finally be here .", "relation": "xAttr", "tails": [" happy", " excited", " glad"]}
+{"head": "I'm glad to finally be here .", "relation": "xWant", "tails": [" to relax", " to go home", " to enjoy the moment"]}
+{"head": "I'm glad to finally be here .", "relation": "xNeed", "tails": [" none", " to have been waiting for a long time", " to have been waiting for a long time."]}
+{"head": "I'm glad to finally be here .", "relation": "xEffect", "tails": [" none", " gets a new job", " get's a job done"]}
+{"head": "I'm glad to finally be here .", "relation": "HinderedBy", "tails": [" I have a lot of work to do.", " I have to go to work.", " I have to go back to work."]}
+{"head": "I'm glad to finally be here .", "relation": "oWant", "tails": [" none", " to have a good time", " to have a good time."]}
+{"head": "I'm glad to finally be here .", "relation": "xReact", "tails": [" happy", " happy.", " excited"]}
+{"head": "I'm glad to finally be here .", "relation": "oEffect", "tails": [" none", " get to know each other", " get to know each other better"]}
+{"head": "I'm glad to finally be here .", "relation": "xIntent", "tails": [" none", " to be happy", " to be with family"]}
+{"head": "I'm glad to finally be here .", "relation": "oReact", "tails": [" none", " happy", " happy."]}
+{"head": "I'm glad to finally be here .", "relation": "isBefore", "tails": [" I have a new job", " I have a new job.", " I am happy to be home"]}
+{"head": "I'm glad to finally be here .", "relation": "isAfter", "tails": [" none", " I have a new job", " I have a new job."]}
+{"head": "I'm glad to finally be here .", "relation": "HasSubEvent", "tails": [" get out of the car", " get out of bed", " get out of the house"]}
+{"head": "I'm glad to finally be here .", "relation": "Causes", "tails": [" I have a lot of work to do.", " I have been waiting for a long time.", " I have a lot of work to do"]}
+{"head": "I'm glad to finally be here .", "relation": "xReason", "tails": [" I have a new job.", " I am happy to be here.", " I am happy to be home."]}
+{"head": "Cooper .", "relation": "xAttr", "tails": [" cooperative", " responsible", " friendly"]}
+{"head": "Cooper .", "relation": "xWant", "tails": [" to go home", " to go to the movies", " to go to sleep"]}
+{"head": "Cooper .", "relation": "xNeed", "tails": [" none", " to be in a relationship with someone", " to be in the same room as him"]}
+{"head": "Cooper .", "relation": "xEffect", "tails": [" none", " gets yelled at", " gets arrested"]}
+{"head": "Cooper .", "relation": "HinderedBy", "tails": [" PersonX is too far away from PersonX.", " PersonX is too far away from PersonY.", " PersonX is not allowed to be in the room."]}
+{"head": "Cooper .", "relation": "oWant", "tails": [" none", " to go home", " to be friends with"]}
+{"head": "Cooper .", "relation": "xReact", "tails": [" happy", " proud", " good"]}
+{"head": "Cooper .", "relation": "oEffect", "tails": [" none", " have a friend", " have to do chores"]}
+{"head": "Cooper .", "relation": "xIntent", "tails": [" none", " to have fun", " to be with someone"]}
+{"head": "Cooper .", "relation": "oReact", "tails": [" none", " happy", " loved"]}
+{"head": "Cooper .", "relation": "isBefore", "tails": [" PersonY", " co-workers", " co-worker"]}
+{"head": "Cooper .", "relation": "isAfter", "tails": [" PersonY", " PersonX", " PersonX is married to"]}
+{"head": "Cooper .", "relation": "HasSubEvent", "tails": [" none", " get arrested", " have to do"]}
+{"head": "Cooper .", "relation": "Causes", "tails": [" none", " co-operating", " co-op"]}
+{"head": "Cooper .", "relation": "xReason", "tails": [" none", " co-workers", " co-worker"]}
+{"head": "Cooper , president of Ivy Publishing .", "relation": "xAttr", "tails": [" responsible", " business-minded", " businesslike"]}
+{"head": "Cooper , president of Ivy Publishing .", "relation": "xWant", "tails": [" to make money", " to sell the book", " to sell the company"]}
+{"head": "Cooper , president of Ivy Publishing .", "relation": "xNeed", "tails": [" to be in charge of the company", " to get a job at the company", " to get a job at the publisher"]}
+{"head": "Cooper , president of Ivy Publishing .", "relation": "xEffect", "tails": [" none", " gets a promotion", " gets fired"]}
+{"head": "Cooper , president of Ivy Publishing .", "relation": "HinderedBy", "tails": [" co-founder of the company", " co-founder of Ivy Publishing", " co-founder of the company."]}
+{"head": "Cooper , president of Ivy Publishing .", "relation": "oWant", "tails": [" to make money", " none", " to make a profit"]}
+{"head": "Cooper , president of Ivy Publishing .", "relation": "xReact", "tails": [" good about themselves", " happy", " good about himself"]}
+{"head": "Cooper , president of Ivy Publishing .", "relation": "oEffect", "tails": [" none", " get a promotion", " get's a promotion"]}
+{"head": "Cooper , president of Ivy Publishing .", "relation": "xIntent", "tails": [" to make money", " to be a publisher", " to be successful"]}
+{"head": "Cooper , president of Ivy Publishing .", "relation": "oReact", "tails": [" none", " good about themselves", " good about themselves."]}
+{"head": "Cooper , president of Ivy Publishing .", "relation": "isBefore", "tails": [" co-founder of the company", " co-founder of Ivy Publishing", " co-founder of the magazine"]}
+{"head": "Cooper , president of Ivy Publishing .", "relation": "isAfter", "tails": [" PersonY", " company", " PersonX"]}
+{"head": "Cooper , president of Ivy Publishing .", "relation": "HasSubEvent", "tails": [" get a promotion", " get a raise", " get promoted"]}
+{"head": "Cooper , president of Ivy Publishing .", "relation": "Causes", "tails": [" co-founder of the company", " co-founder of Ivy Publishing", " co-founder of the publisher"]}
+{"head": "Cooper , president of Ivy Publishing .", "relation": "xReason", "tails": [" co-founder of the company", " co-founder of Ivy Publishing", " co-founder of the magazine"]}
+{"head": "Cooper", "relation": "ObjectUse", "tails": [" get a new job", " get a job", " play with"]}
+{"head": "Cooper", "relation": "AtLocation", "tails": [" coop's house", " cooper's house", " coop's home"]}
+{"head": "Cooper", "relation": "CapableOf", "tails": [" run away", " get into trouble", " get into fight"]}
+{"head": "Cooper", "relation": "HasProperty", "tails": [" one of two children", " one of three children", " none"]}
+{"head": "Cooper", "relation": "MadeUpOf", "tails": [" coop", " co-ordination", " co-op"]}
+{"head": "Cooper", "relation": "NotDesires", "tails": [" run out of gas", " run away", " none"]}
+{"head": "Cooper", "relation": "Desires", "tails": [" none", " have fun", " get a job"]}
+{"head": "Canada", "relation": "ObjectUse", "tails": [" Canada", " live in", " travel to"]}
+{"head": "Canada", "relation": "AtLocation", "tails": [" country", " Canada", " world"]}
+{"head": "Canada", "relation": "CapableOf", "tails": [" live in", " travel to other countries", " travel to different countries"]}
+{"head": "Canada", "relation": "HasProperty", "tails": [" one of world's great countries", " one of world's largest countries", " one of the world's great nations"]}
+{"head": "Canada", "relation": "MadeUpOf", "tails": [" Canada", " country", " country name"]}
+{"head": "Canada", "relation": "NotDesires", "tails": [" Canada", " live in", " live in Canada"]}
+{"head": "Canada", "relation": "Desires", "tails": [" live in", " Canada", " Canada's flag"]}

@@ -1,0 +1,75 @@
+{"head": "week", "relation": "ObjectUse", "tails": [" go on vacation", " go to the beach", " go to the doctor"]}
+{"head": "week", "relation": "AtLocation", "tails": [" week", " house", " vacation"]}
+{"head": "week", "relation": "CapableOf", "tails": [" go on vacation", " go to doctor", " go to work"]}
+{"head": "week", "relation": "HasProperty", "tails": [" one day a week", " one day per week", " two weeks"]}
+{"head": "week", "relation": "MadeUpOf", "tails": [" week", " weekdays", " week of work"]}
+{"head": "week", "relation": "NotDesires", "tails": [" get sick", " have to work", " week"]}
+{"head": "week", "relation": "Desires", "tails": [" have fun with friends", " have fun", " week of work"]}
+{"head": "unpredictable dramatic presidential campaigns", "relation": "ObjectUse", "tails": [" win the election", " make a movie about", " win election"]}
+{"head": "unpredictable dramatic presidential campaigns", "relation": "AtLocation", "tails": [" election", " political parties", " politics"]}
+{"head": "unpredictable dramatic presidential campaigns", "relation": "CapableOf", "tails": [" run for office", " win or lose", " run for president"]}
+{"head": "unpredictable dramatic presidential campaigns", "relation": "HasProperty", "tails": [" unscripted", " unhinged", " unpredictable"]}
+{"head": "unpredictable dramatic presidential campaigns", "relation": "MadeUpOf", "tails": [" win or lose", " win or lose the election", " win or lose the election."]}
+{"head": "unpredictable dramatic presidential campaigns", "relation": "NotDesires", "tails": [" win or lose", " win or lose the election", " win or lose election"]}
+{"head": "unpredictable dramatic presidential campaigns", "relation": "Desires", "tails": [" to win the election", " to win the election.", " to be a winner"]}
+{"head": "to remain", "relation": "HinderedBy", "tails": [" to remain", " to remain ", " to remain safe"]}
+{"head": "to remain", "relation": "isBefore", "tails": [" to remain", " to remain in place", " to remain safe"]}
+{"head": "to remain", "relation": "isAfter", "tails": [" to remain", " to stay", " to be safe"]}
+{"head": "to remain", "relation": "HasSubEvent", "tails": [" to remain", " to remain ", " to remain in place"]}
+{"head": "to remain", "relation": "Causes", "tails": [" to remain", " to remain in place", " to remain safe"]}
+{"head": "to remain", "relation": "xReason", "tails": [" to remain", " to remain in place", " to remain safe"]}
+{"head": "to go", "relation": "HinderedBy", "tails": [" to go", " to go ", " to go  to"]}
+{"head": "to go", "relation": "isBefore", "tails": [" to go", " get in car", " to go somewhere"]}
+{"head": "to go", "relation": "isAfter", "tails": [" get in the car", " get in car", " to go to the bathroom"]}
+{"head": "to go", "relation": "HasSubEvent", "tails": [" get in car", " to go", " to go  home"]}
+{"head": "to go", "relation": "Causes", "tails": [" to go", " get in car", " to go  home"]}
+{"head": "to go", "relation": "xReason", "tails": [" to go", " get in car", " to go somewhere"]}
+{"head": "to call", "relation": "HinderedBy", "tails": [" to call ", " to call", " to call  "]}
+{"head": "to call", "relation": "isBefore", "tails": [" dial number", " to call someone", " to call"]}
+{"head": "to call", "relation": "isAfter", "tails": [" dial number", " dial phone number", " call for help"]}
+{"head": "to call", "relation": "HasSubEvent", "tails": [" dial number", " to call", " dial phone number"]}
+{"head": "to call", "relation": "Causes", "tails": [" dial number", " call for help", " to call"]}
+{"head": "to call", "relation": "xReason", "tails": [" call for help", " to call someone", " to call"]}
+{"head": "outcome", "relation": "ObjectUse", "tails": [" win the lottery", " win the game", " win the race"]}
+{"head": "outcome", "relation": "AtLocation", "tails": [" win or lose", " win or loss", " office building"]}
+{"head": "outcome", "relation": "CapableOf", "tails": [" win the game", " win the lottery", " win game"]}
+{"head": "outcome", "relation": "HasProperty", "tails": [" win or lose", " found to be true", " win or loss"]}
+{"head": "outcome", "relation": "MadeUpOf", "tails": [" win or loss", " win or lose", " win"]}
+{"head": "outcome", "relation": "NotDesires", "tails": [" win or lose", " win or lose the game", " win or lose the race"]}
+{"head": "outcome", "relation": "Desires", "tails": [" win the game", " win or lose", " have a good time"]}
+{"head": "history", "relation": "ObjectUse", "tails": [" learn about", " learn from", " learn about history"]}
+{"head": "history", "relation": "AtLocation", "tails": [" history book", " history books", " museum"]}
+{"head": "history", "relation": "CapableOf", "tails": [" learn about", " learn from", " write book"]}
+{"head": "history", "relation": "HasProperty", "tails": [" history", " written down", " important to history"]}
+{"head": "history", "relation": "MadeUpOf", "tails": [" history book", " history", " history books"]}
+{"head": "history", "relation": "NotDesires", "tails": [" history", " history books", " history is boring"]}
+{"head": "history", "relation": "Desires", "tails": [" learn about", " history", " learn about history"]}
+{"head": "campaigns", "relation": "ObjectUse", "tails": [" run for office", " win elections", " get elected"]}
+{"head": "campaigns", "relation": "AtLocation", "tails": [" election", " political party", " political parties"]}
+{"head": "campaigns", "relation": "CapableOf", "tails": [" run for office", " win election", " campaign for office"]}
+{"head": "campaigns", "relation": "HasProperty", "tails": [" one of the most important things in life", " one of the most important aspects of politics", " one of the most important things in politics"]}
+{"head": "campaigns", "relation": "MadeUpOf", "tails": [" campaign", " election", " vote"]}
+{"head": "campaigns", "relation": "NotDesires", "tails": [" win election", " get elected", " campaign for office"]}
+{"head": "campaigns", "relation": "Desires", "tails": [" win election", " get elected", " win elections"]}
+{"head": "It has been one of the most unpredictable and dramatic presidential campaigns in French political history -- and with less than a week to go, the outcome remains too close to call.", "relation": "xAttr", "tails": [" nervous", " hopeful", " political"]}
+{"head": "It has been one of the most unpredictable and dramatic presidential campaigns in French political history -- and with less than a week to go, the outcome remains too close to call.", "relation": "xWant", "tails": [" to win the election", " to win the election.", " to win"]}
+{"head": "It has been one of the most unpredictable and dramatic presidential campaigns in French political history -- and with less than a week to go, the outcome remains too close to call.", "relation": "xNeed", "tails": [" win the election", " to be in the race", " win the election."]}
+{"head": "It has been one of the most unpredictable and dramatic presidential campaigns in French political history -- and with less than a week to go, the outcome remains too close to call.", "relation": "xEffect", "tails": [" win or lose the election", " win the election", " win or lose"]}
+{"head": "It has been one of the most unpredictable and dramatic presidential campaigns in French political history -- and with less than a week to go, the outcome remains too close to call.", "relation": "HinderedBy", "tails": [" it is too close to call", " it is too close to call.", " it has been a long time since the last election"]}
+{"head": "It has been one of the most unpredictable and dramatic presidential campaigns in French political history -- and with less than a week to go, the outcome remains too close to call.", "relation": "oWant", "tails": [" to win the election", " win the election", " to win the election."]}
+{"head": "It has been one of the most unpredictable and dramatic presidential campaigns in French political history -- and with less than a week to go, the outcome remains too close to call.", "relation": "xReact", "tails": [" nervous", " hopeful", " uncertain"]}
+{"head": "It has been one of the most unpredictable and dramatic presidential campaigns in French political history -- and with less than a week to go, the outcome remains too close to call.", "relation": "oEffect", "tails": [" win or lose the election", " win the election", " win or lose"]}
+{"head": "It has been one of the most unpredictable and dramatic presidential campaigns in French political history -- and with less than a week to go, the outcome remains too close to call.", "relation": "xIntent", "tails": [" to win the election", " win the election", " to win the election."]}
+{"head": "It has been one of the most unpredictable and dramatic presidential campaigns in French political history -- and with less than a week to go, the outcome remains too close to call.", "relation": "oReact", "tails": [" win or lose the election", " win or lose", " none"]}
+{"head": "It has been one of the most unpredictable and dramatic presidential campaigns in French political history -- and with less than a week to go, the outcome remains too close to call.", "relation": "isBefore", "tails": [" it is too close to call", " win or lose the election", " win or lose"]}
+{"head": "It has been one of the most unpredictable and dramatic presidential campaigns in French political history -- and with less than a week to go, the outcome remains too close to call.", "relation": "isAfter", "tails": [" win the election", " win the election.", " it's time to go"]}
+{"head": "It has been one of the most unpredictable and dramatic presidential campaigns in French political history -- and with less than a week to go, the outcome remains too close to call.", "relation": "HasSubEvent", "tails": [" win or lose the election", " win the election", " win or lose"]}
+{"head": "It has been one of the most unpredictable and dramatic presidential campaigns in French political history -- and with less than a week to go, the outcome remains too close to call.", "relation": "Causes", "tails": [" nervous", " hopeful", " nervousness"]}
+{"head": "It has been one of the most unpredictable and dramatic presidential campaigns in French political history -- and with less than a week to go, the outcome remains too close to call.", "relation": "xReason", "tails": [" it is too close to call", " win or lose the election", " win or lose"]}
+{"head": "French political history", "relation": "ObjectUse", "tails": [" learn about history", " learning about history", " learn about the past"]}
+{"head": "French political history", "relation": "AtLocation", "tails": [" history book", " history books", " history textbook"]}
+{"head": "French political history", "relation": "CapableOf", "tails": [" learn about history", " learn about French history", " write history book"]}
+{"head": "French political history", "relation": "HasProperty", "tails": [" historical", " history", " history books"]}
+{"head": "French political history", "relation": "MadeUpOf", "tails": [" history book", " French history", " French language"]}
+{"head": "French political history", "relation": "NotDesires", "tails": [" learn about history", " history books", " learn about French history"]}
+{"head": "French political history", "relation": "Desires", "tails": [" learn about history", " learn about the past", " learning about history"]}

@@ -1,0 +1,49 @@
+{"head": "to injure", "relation": "HinderedBy", "tails": [" to injure", " to injure ", " to injure someone"]}
+{"head": "to injure", "relation": "isBefore", "tails": [" to injure", " to injure someone", " to injure "]}
+{"head": "to injure", "relation": "isAfter", "tails": [" to injure", " to hurt someone", " to hurt"]}
+{"head": "to injure", "relation": "HasSubEvent", "tails": [" to injure", " to injure  injure ", " to injure  injure  person"]}
+{"head": "to injure", "relation": "Causes", "tails": [" to injure", " hurt someone", " to injure "]}
+{"head": "to injure", "relation": "xReason", "tails": [" to injure", " hurt someone", " to injure someone"]}
+{"head": "rolls", "relation": "ObjectUse", "tails": [" roll up and use as a paperweight", " roll up and use as a paper weight", " roll up and use as a pillow"]}
+{"head": "rolls", "relation": "AtLocation", "tails": [" rollerskate", " rollerskates", " rollerskating"]}
+{"head": "rolls", "relation": "CapableOf", "tails": [" roll into ball", " roll up into ball", " use as a paperweight"]}
+{"head": "rolls", "relation": "HasProperty", "tails": [" rolled into ball", " rolled up", " rolled into balls"]}
+{"head": "rolls", "relation": "MadeUpOf", "tails": [" rollerskate", " rollerskates", " rollers"]}
+{"head": "rolls", "relation": "NotDesires", "tails": [" roll up", " roll into ball", " roll up into ball"]}
+{"head": "rolls", "relation": "Desires", "tails": [" roll up and use as a paperweight", " roll up and use as a paper weight", " roll up and use it as a paperweight"]}
+{"head": "car rolls", "relation": "ObjectUse", "tails": [" get out of car", " get out of the car", " get into accident"]}
+{"head": "car rolls", "relation": "AtLocation", "tails": [" car", " car accident", " car wreck"]}
+{"head": "car rolls", "relation": "CapableOf", "tails": [" roll down hill", " drive car", " roll over"]}
+{"head": "car rolls", "relation": "HasProperty", "tails": [" wheels", " wheels on ground", " one of the wheels"]}
+{"head": "car rolls", "relation": "MadeUpOf", "tails": [" car", " engine", " car engine"]}
+{"head": "car rolls", "relation": "NotDesires", "tails": [" roll down hill", " roll over", " get hurt"]}
+{"head": "car rolls", "relation": "Desires", "tails": [" get out of car", " get into accident", " get out of the car"]}
+{"head": "car", "relation": "ObjectUse", "tails": [" drive to the store", " get to the store", " drive to work"]}
+{"head": "car", "relation": "AtLocation", "tails": [" car show", " car wash", " car dealership"]}
+{"head": "car", "relation": "CapableOf", "tails": [" drive to destination", " drive to store", " drive to place"]}
+{"head": "car", "relation": "HasProperty", "tails": [" found in car showrooms", " found in car showroom", " found in car dealership"]}
+{"head": "car", "relation": "MadeUpOf", "tails": [" engine", " drivetrain", " car engine"]}
+{"head": "car", "relation": "NotDesires", "tails": [" get into accident", " drive to work", " drive to store"]}
+{"head": "car", "relation": "Desires", "tails": [" drive to work", " get to destination", " get to work"]}
+{"head": "One injured after car rolls on Manukau Rd.", "relation": "xAttr", "tails": [" injured", " hurt", " careless"]}
+{"head": "One injured after car rolls on Manukau Rd.", "relation": "xWant", "tails": [" to get out of the car", " to get out of the car.", " go to hospital"]}
+{"head": "One injured after car rolls on Manukau Rd.", "relation": "xNeed", "tails": [" get out of car", " get out of the car", " get in the car"]}
+{"head": "One injured after car rolls on Manukau Rd.", "relation": "xEffect", "tails": [" one injured", " gets hurt", " one person injured"]}
+{"head": "One injured after car rolls on Manukau Rd.", "relation": "HinderedBy", "tails": [" one person is injured", " one injured", " one person injured"]}
+{"head": "One injured after car rolls on Manukau Rd.", "relation": "oWant", "tails": [" to get out of the car", " to get out of the car.", " to get out of car"]}
+{"head": "One injured after car rolls on Manukau Rd.", "relation": "xReact", "tails": [" hurt", " injured", " scared"]}
+{"head": "One injured after car rolls on Manukau Rd.", "relation": "oEffect", "tails": [" none", " one is injured", " one injured"]}
+{"head": "One injured after car rolls on Manukau Rd.", "relation": "xIntent", "tails": [" none", " one person to be injured", " one to be injured"]}
+{"head": "One injured after car rolls on Manukau Rd.", "relation": "oReact", "tails": [" none", " hurt", " injured"]}
+{"head": "One injured after car rolls on Manukau Rd.", "relation": "isBefore", "tails": [" one injured", " one person is injured", " one person injured"]}
+{"head": "One injured after car rolls on Manukau Rd.", "relation": "isAfter", "tails": [" PersonX drives the car.", " one injured", " PersonX drives the car"]}
+{"head": "One injured after car rolls on Manukau Rd.", "relation": "HasSubEvent", "tails": [" get out of car", " get out of the car", " one injured"]}
+{"head": "One injured after car rolls on Manukau Rd.", "relation": "Causes", "tails": [" one injured", " one person is injured", " one is injured"]}
+{"head": "One injured after car rolls on Manukau Rd.", "relation": "xReason", "tails": [" one injured", " one person injured", " one person is injured"]}
+{"head": "Manukau Rd", "relation": "ObjectUse", "tails": [" Manukau", " manukau road", " manukau"]}
+{"head": "Manukau Rd", "relation": "AtLocation", "tails": [" manukau", " manukau town", " manuau"]}
+{"head": "Manukau Rd", "relation": "CapableOf", "tails": [" drive on", " drive down", " get lost"]}
+{"head": "Manukau Rd", "relation": "HasProperty", "tails": [" Manukau", " manukau road", " manukau"]}
+{"head": "Manukau Rd", "relation": "MadeUpOf", "tails": [" manukau", " manukau road", " manukau rd"]}
+{"head": "Manukau Rd", "relation": "NotDesires", "tails": [" Manukau", " manukau road", " manukau"]}
+{"head": "Manukau Rd", "relation": "Desires", "tails": [" manukau road", " manukau", " to get to the beach"]}

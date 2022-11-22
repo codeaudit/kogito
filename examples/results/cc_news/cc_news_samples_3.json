@@ -1,0 +1,71 @@
+{"head": "season", "relation": "ObjectUse", "tails": [" season", " play football", " play baseball"]}
+{"head": "season", "relation": "AtLocation", "tails": [" baseball game", " football game", " baseball"]}
+{"head": "season", "relation": "CapableOf", "tails": [" play game", " season", " play football"]}
+{"head": "season", "relation": "HasProperty", "tails": [" season", " seasons", " one season"]}
+{"head": "season", "relation": "MadeUpOf", "tails": [" season", " seasons", " game"]}
+{"head": "season", "relation": "NotDesires", "tails": [" season to end", " season ends", " season"]}
+{"head": "season", "relation": "Desires", "tails": [" season", " season to end", " have fun"]}
+{"head": "hurricane season", "relation": "ObjectUse", "tails": [" keep track of", " keep track of the weather", " make a movie about"]}
+{"head": "hurricane season", "relation": "AtLocation", "tails": [" hurricane season", " beach", " hurricane"]}
+{"head": "hurricane season", "relation": "CapableOf", "tails": [" go to beach", " go to hurricane shelter", " go to hurricane season"]}
+{"head": "hurricane season", "relation": "HasProperty", "tails": [" hurricane season", " dangerous", " very dangerous"]}
+{"head": "hurricane season", "relation": "MadeUpOf", "tails": [" hurricane season", " hurricane", " hurricane force winds"]}
+{"head": "hurricane season", "relation": "NotDesires", "tails": [" hurricane season", " bad weather", " hurricane"]}
+{"head": "hurricane season", "relation": "Desires", "tails": [" hurricane season", " make sure no one gets hurt", " make sure no one is hurt"]}
+{"head": "hurricane", "relation": "ObjectUse", "tails": [" hurricane", " storm", " storming"]}
+{"head": "hurricane", "relation": "AtLocation", "tails": [" hurricane", " beach", " storm"]}
+{"head": "hurricane", "relation": "CapableOf", "tails": [" storm ocean", " storm sea", " storm"]}
+{"head": "hurricane", "relation": "HasProperty", "tails": [" very dangerous", " hurricane", " dangerous"]}
+{"head": "hurricane", "relation": "MadeUpOf", "tails": [" hurricane", " storm", " storm surge"]}
+{"head": "hurricane", "relation": "NotDesires", "tails": [" hurricane", " storm", " hurricane season"]}
+{"head": "hurricane", "relation": "Desires", "tails": [" hurricane force winds", " hurricane", " hurricane season"]}
+{"head": "distribution", "relation": "ObjectUse", "tails": [" make money", " distribute goods", " make money from"]}
+{"head": "distribution", "relation": "AtLocation", "tails": [" grocery store", " store", " warehouse"]}
+{"head": "distribution", "relation": "CapableOf", "tails": [" distribute goods", " distribute food", " make money"]}
+{"head": "distribution", "relation": "HasProperty", "tails": [" distribution of goods", " found in grocery stores", " distribution system"]}
+{"head": "distribution", "relation": "MadeUpOf", "tails": [" distribution system", " distribution channel", " distribution network"]}
+{"head": "distribution", "relation": "NotDesires", "tails": [" distribution of goods", " distribute goods", " distribute goods to people"]}
+{"head": "distribution", "relation": "Desires", "tails": [" distribution of goods", " distribute goods", " distribute goods to people"]}
+{"head": "center", "relation": "ObjectUse", "tails": [" center of action", " center of universe", " center of attention"]}
+{"head": "center", "relation": "AtLocation", "tails": [" city", " building", " town"]}
+{"head": "center", "relation": "CapableOf", "tails": [" center of universe", " center of event", " center of action"]}
+{"head": "center", "relation": "HasProperty", "tails": [" center of universe", " found in many places", " center of gravity"]}
+{"head": "center", "relation": "MadeUpOf", "tails": [" center of circle", " center", " center of triangle"]}
+{"head": "center", "relation": "NotDesires", "tails": [" center of gravity", " center of universe", " center of attention"]}
+{"head": "center", "relation": "Desires", "tails": [" center of gravity", " center of universe", " center of attention"]}
+{"head": "braces", "relation": "ObjectUse", "tails": [" wear as a necklace", " wear as a bracelet", " wear as a belt"]}
+{"head": "braces", "relation": "AtLocation", "tails": [" bracelets", " jewelry store", " jewelry box"]}
+{"head": "braces", "relation": "CapableOf", "tails": [" wear on head", " brace leg", " wear on feet"]}
+{"head": "braces", "relation": "HasProperty", "tails": [" bracelets", " made from metal", " worn on feet"]}
+{"head": "braces", "relation": "MadeUpOf", "tails": [" bracelets", " braces", " bracing"]}
+{"head": "braces", "relation": "NotDesires", "tails": [" bracelets", " wear on feet", " bracelets on feet"]}
+{"head": "braces", "relation": "Desires", "tails": [" bracelets", " put on their feet", " put on a dog"]}
+{"head": "Puerto Rico braces", "relation": "ObjectUse", "tails": [" use as a prop in a play", " use as a weapon", " use as a prop in a movie"]}
+{"head": "Puerto Rico braces", "relation": "AtLocation", "tails": [" braces", " braces", " teeth"]}
+{"head": "Puerto Rico braces", "relation": "CapableOf", "tails": [" get braces", " get braces removed", " get braces on"]}
+{"head": "Puerto Rico braces", "relation": "HasProperty", "tails": [" broken teeth", " teeth", " teeth are broken"]}
+{"head": "Puerto Rico braces", "relation": "MadeUpOf", "tails": [" teeth", " braces", " braces"]}
+{"head": "Puerto Rico braces", "relation": "NotDesires", "tails": [" get braces", " none", " get braces removed"]}
+{"head": "Puerto Rico braces", "relation": "Desires", "tails": [" none", " to get braces", " to be safe"]}
+{"head": "Inside a FEMA distribution center as Puerto Rico braces for hurricane season.", "relation": "xAttr", "tails": [" prepared", " helpful", " safe"]}
+{"head": "Inside a FEMA distribution center as Puerto Rico braces for hurricane season.", "relation": "xWant", "tails": [" to make sure they have enough food and water.", " to make sure they have enough food and water", " to make sure everyone is safe"]}
+{"head": "Inside a FEMA distribution center as Puerto Rico braces for hurricane season.", "relation": "xNeed", "tails": [" inside of a shelter", " inside of a building", " inside of the shelter"]}
+{"head": "Inside a FEMA distribution center as Puerto Rico braces for hurricane season.", "relation": "xEffect", "tails": [" inside of a shelter", " inside a shelter", " inside of the shelter"]}
+{"head": "Inside a FEMA distribution center as Puerto Rico braces for hurricane season.", "relation": "HinderedBy", "tails": [" inside a FEMA distribution center", " inside of a FEMA distribution center", " inside a shelter"]}
+{"head": "Inside a FEMA distribution center as Puerto Rico braces for hurricane season.", "relation": "oWant", "tails": [" to make sure they have enough food and water.", " to make sure they have enough food and water", " to make sure they have enough food to eat"]}
+{"head": "Inside a FEMA distribution center as Puerto Rico braces for hurricane season.", "relation": "xReact", "tails": [" safe", " relieved", " happy"]}
+{"head": "Inside a FEMA distribution center as Puerto Rico braces for hurricane season.", "relation": "oEffect", "tails": [" inside of a shelter", " inside of the shelter", " inside the shelter"]}
+{"head": "Inside a FEMA distribution center as Puerto Rico braces for hurricane season.", "relation": "xIntent", "tails": [" to help people in need", " inside a shelter", " inside of a shelter"]}
+{"head": "Inside a FEMA distribution center as Puerto Rico braces for hurricane season.", "relation": "oReact", "tails": [" none", " grateful", " safe"]}
+{"head": "Inside a FEMA distribution center as Puerto Rico braces for hurricane season.", "relation": "isBefore", "tails": [" inside of a shelter", " inside a shelter", " inside of a hurricane shelter"]}
+{"head": "Inside a FEMA distribution center as Puerto Rico braces for hurricane season.", "relation": "isAfter", "tails": [" inside of a FEMA distribution center", " inside of a shelter", " inside a shelter"]}
+{"head": "Inside a FEMA distribution center as Puerto Rico braces for hurricane season.", "relation": "HasSubEvent", "tails": [" get food and water", " inside of a shelter", " inside of building"]}
+{"head": "Inside a FEMA distribution center as Puerto Rico braces for hurricane season.", "relation": "Causes", "tails": [" inside", " inside a shelter", " inside of a shelter"]}
+{"head": "Inside a FEMA distribution center as Puerto Rico braces for hurricane season.", "relation": "xReason", "tails": [" inside of a shelter", " inside a shelter", " inside the shelter"]}
+{"head": "FEMA distribution center", "relation": "ObjectUse", "tails": [" get supplies from", " get food from", " get food"]}
+{"head": "FEMA distribution center", "relation": "AtLocation", "tails": [" warehouse", " store", " house"]}
+{"head": "FEMA distribution center", "relation": "CapableOf", "tails": [" store food items", " store food", " get food"]}
+{"head": "FEMA distribution center", "relation": "HasProperty", "tails": [" found in many places around the country", " found in many places in the country", " found in many places around the country."]}
+{"head": "FEMA distribution center", "relation": "MadeUpOf", "tails": [" warehouse", " food", " store"]}
+{"head": "FEMA distribution center", "relation": "NotDesires", "tails": [" get food", " have to pay for food", " get food and water"]}
+{"head": "FEMA distribution center", "relation": "Desires", "tails": [" to store food", " to get supplies", " to get food"]}

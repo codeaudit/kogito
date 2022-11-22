@@ -1,0 +1,77 @@
+{"head": "young people", "relation": "ObjectUse", "tails": [" have a good time", " get married", " have fun"]}
+{"head": "young people", "relation": "AtLocation", "tails": [" young people", " school", " college dorms"]}
+{"head": "young people", "relation": "CapableOf", "tails": [" learn new things", " learn new skills", " learn to play guitar"]}
+{"head": "young people", "relation": "HasProperty", "tails": [" young", " younger than older people", " younger than adults"]}
+{"head": "young people", "relation": "MadeUpOf", "tails": [" young people", " young children", " age"]}
+{"head": "young people", "relation": "NotDesires", "tails": [" young people to die", " young people to get pregnant", " young people to get old"]}
+{"head": "young people", "relation": "Desires", "tails": [" learn new things", " have fun", " learn new skills"]}
+{"head": "tournament", "relation": "ObjectUse", "tails": [" play in", " have fun", " win money"]}
+{"head": "tournament", "relation": "AtLocation", "tails": [" tournament", " sports event", " sports stadium"]}
+{"head": "tournament", "relation": "CapableOf", "tails": [" play in", " play game", " win"]}
+{"head": "tournament", "relation": "HasProperty", "tails": [" played by teams", " tournament", " played by players"]}
+{"head": "tournament", "relation": "MadeUpOf", "tails": [" tournament", " game", " play"]}
+{"head": "tournament", "relation": "NotDesires", "tails": [" win or lose", " win", " have to win"]}
+{"head": "tournament", "relation": "Desires", "tails": [" have fun", " win", " play in"]}
+{"head": "to gather", "relation": "HinderedBy", "tails": [" to gather", " to gather  to gather ", " to gather "]}
+{"head": "to gather", "relation": "isBefore", "tails": [" to gather", " to gather information", " to gather things together"]}
+{"head": "to gather", "relation": "isAfter", "tails": [" to gather", " to gather information", " to make a plan"]}
+{"head": "to gather", "relation": "HasSubEvent", "tails": [" to gather  gather  gather  gather  gather  gather  gather  gather  gather", " to gather  gather  gather  gather  gather  gather  gather  gather", " to gather  gather  gather  gather  gather  gather  gather"]}
+{"head": "to gather", "relation": "Causes", "tails": [" to gather  gather  gather  gather  gather  gather  gather  gather  gather  gather  gather", " to gather  gather  gather  gather  gather  gather  gather  gather  gather  gather", " to gather  gather  gather  gather  gather  gather  gather  gather  gather"]}
+{"head": "to gather", "relation": "xReason", "tails": [" to gather", " to gather things together", " to gather information"]}
+{"head": "people", "relation": "ObjectUse", "tails": [" people to do things for them", " people to do things with", " people to do things for"]}
+{"head": "people", "relation": "AtLocation", "tails": [" people to talk to", " people to talk to each other", " people to talk to eachother"]}
+{"head": "people", "relation": "CapableOf", "tails": [" people to do things for them", " people to get to know each other", " people to do things together"]}
+{"head": "people", "relation": "HasProperty", "tails": [" people who like other people", " people who like other people to like them", " people who like other people's company"]}
+{"head": "people", "relation": "MadeUpOf", "tails": [" people who like to play video games", " people who like to play with other people", " people who like to be alone"]}
+{"head": "people", "relation": "NotDesires", "tails": [" people to die", " people to get sick", " people to get hurt"]}
+{"head": "people", "relation": "Desires", "tails": [" people to like", " people to love", " people to be happy"]}
+{"head": "championship", "relation": "ObjectUse", "tails": [" win the game", " win", " win the competition"]}
+{"head": "championship", "relation": "AtLocation", "tails": [" championship", " sports event", " championship game"]}
+{"head": "championship", "relation": "CapableOf", "tails": [" win", " win the game", " win the championship"]}
+{"head": "championship", "relation": "HasProperty", "tails": [" win or lose", " championship", " good for the sport"]}
+{"head": "championship", "relation": "MadeUpOf", "tails": [" championship", " trophy", " championship trophy"]}
+{"head": "championship", "relation": "NotDesires", "tails": [" win or lose", " win", " win the game"]}
+{"head": "championship", "relation": "Desires", "tails": [" win the game", " win", " to win the game"]}
+{"head": "University", "relation": "ObjectUse", "tails": [" university", " study at", " learning about world"]}
+{"head": "University", "relation": "AtLocation", "tails": [" university", " college", " campus"]}
+{"head": "University", "relation": "CapableOf", "tails": [" learn new things", " study at", " study"]}
+{"head": "University", "relation": "HasProperty", "tails": [" found in many places", " found in many countries", " found in college"]}
+{"head": "University", "relation": "MadeUpOf", "tails": [" university", " university building", " campus"]}
+{"head": "University", "relation": "NotDesires", "tails": [" university", " college", " school"]}
+{"head": "University", "relation": "Desires", "tails": [" university", " education", " college"]}
+{"head": "Teams of young people gathered at the University of Regina Saturday for the\u00a0First Lego League provincial championship tournament.", "relation": "xAttr", "tails": [" competitive", " fun", " talented"]}
+{"head": "Teams of young people gathered at the University of Regina Saturday for the\u00a0First Lego League provincial championship tournament.", "relation": "xWant", "tails": [" to win the tournament", " to win the competition", " to win the championship"]}
+{"head": "Teams of young people gathered at the University of Regina Saturday for the\u00a0First Lego League provincial championship tournament.", "relation": "xNeed", "tails": [" play the game", " play in the tournament", " play in the game"]}
+{"head": "Teams of young people gathered at the University of Regina Saturday for the\u00a0First Lego League provincial championship tournament.", "relation": "xEffect", "tails": [" win the tournament", " wins the tournament", " win the competition"]}
+{"head": "Teams of young people gathered at the University of Regina Saturday for the\u00a0First Lego League provincial championship tournament.", "relation": "HinderedBy", "tails": [" play in the tournament", " play a game", " play in the game"]}
+{"head": "Teams of young people gathered at the University of Regina Saturday for the\u00a0First Lego League provincial championship tournament.", "relation": "oWant", "tails": [" to win the tournament", " to compete in the tournament", " to win the competition"]}
+{"head": "Teams of young people gathered at the University of Regina Saturday for the\u00a0First Lego League provincial championship tournament.", "relation": "xReact", "tails": [" competitive", " happy", " excited"]}
+{"head": "Teams of young people gathered at the University of Regina Saturday for the\u00a0First Lego League provincial championship tournament.", "relation": "oEffect", "tails": [" win the tournament", " win the competition", " play in tournament"]}
+{"head": "Teams of young people gathered at the University of Regina Saturday for the\u00a0First Lego League provincial championship tournament.", "relation": "xIntent", "tails": [" to win the tournament", " to win the competition", " to win"]}
+{"head": "Teams of young people gathered at the University of Regina Saturday for the\u00a0First Lego League provincial championship tournament.", "relation": "oReact", "tails": [" none", " play the game", " play with friends"]}
+{"head": "Teams of young people gathered at the University of Regina Saturday for the\u00a0First Lego League provincial championship tournament.", "relation": "isBefore", "tails": [" play in the tournament", " compete in the tournament", " play in the game"]}
+{"head": "Teams of young people gathered at the University of Regina Saturday for the\u00a0First Lego League provincial championship tournament.", "relation": "isAfter", "tails": [" play in the tournament", " compete in the tournament", " play in the game"]}
+{"head": "Teams of young people gathered at the University of Regina Saturday for the\u00a0First Lego League provincial championship tournament.", "relation": "HasSubEvent", "tails": [" win the tournament", " win the competition", " play in tournament"]}
+{"head": "Teams of young people gathered at the University of Regina Saturday for the\u00a0First Lego League provincial championship tournament.", "relation": "Causes", "tails": [" play with friends", " competitive", " play with other people"]}
+{"head": "Teams of young people gathered at the University of Regina Saturday for the\u00a0First Lego League provincial championship tournament.", "relation": "xReason", "tails": [" win the tournament", " compete in the tournament", " win the competition"]}
+{"head": "Teams", "relation": "ObjectUse", "tails": [" play a game", " play in a game", " play in the game"]}
+{"head": "Teams", "relation": "AtLocation", "tails": [" football game", " soccer game", " team room"]}
+{"head": "Teams", "relation": "CapableOf", "tails": [" play against each other", " play against other teams", " play game"]}
+{"head": "Teams", "relation": "HasProperty", "tails": [" played by teams", " played on field", " played on teams"]}
+{"head": "Teams", "relation": "MadeUpOf", "tails": [" team name", " team", " teams"]}
+{"head": "Teams", "relation": "NotDesires", "tails": [" play against each other", " play against one another", " play against other teams"]}
+{"head": "Teams", "relation": "Desires", "tails": [" win the game", " play together", " win the match"]}
+{"head": "Regina", "relation": "ObjectUse", "tails": [" have a good time", " have a party", " get a job"]}
+{"head": "Regina", "relation": "AtLocation", "tails": [" city", " town", " downtown"]}
+{"head": "Regina", "relation": "CapableOf", "tails": [" go to bed", " ride horse", " ride bike"]}
+{"head": "Regina", "relation": "HasProperty", "tails": [" one of Canada's most beautiful cities", " one of Canada's largest cities", " one of Canada's great cities"]}
+{"head": "Regina", "relation": "MadeUpOf", "tails": [" ice cream cone", " ice cream", " ice cream sundae"]}
+{"head": "Regina", "relation": "NotDesires", "tails": [" have to go to the bathroom", " have to go to the doctor", " have to go to the hospital"]}
+{"head": "Regina", "relation": "Desires", "tails": [" have a good time", " have a good life", " have a home"]}
+{"head": "Lego League provincial championship tournament", "relation": "ObjectUse", "tails": [" have fun with friends", " play with friends", " play in"]}
+{"head": "Lego League provincial championship tournament", "relation": "AtLocation", "tails": [" tournament", " game", " school"]}
+{"head": "Lego League provincial championship tournament", "relation": "CapableOf", "tails": [" win the tournament", " play with friends", " have fun"]}
+{"head": "Lego League provincial championship tournament", "relation": "HasProperty", "tails": [" competitive", " fun", " played with"]}
+{"head": "Lego League provincial championship tournament", "relation": "MadeUpOf", "tails": [" Legos", " lego", " legos"]}
+{"head": "Lego League provincial championship tournament", "relation": "NotDesires", "tails": [" have fun with friends", " play with other players", " play with friends"]}
+{"head": "Lego League provincial championship tournament", "relation": "Desires", "tails": [" to win", " to win the tournament", " to be the best"]}

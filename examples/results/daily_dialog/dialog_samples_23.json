@@ -1,0 +1,264 @@
+{"head": "worker", "relation": "ObjectUse", "tails": [" work in office", " work in factory", " work at home"]}
+{"head": "worker", "relation": "AtLocation", "tails": [" factory", " office building", " office"]}
+{"head": "worker", "relation": "CapableOf", "tails": [" work in office", " work in factory", " work hard"]}
+{"head": "worker", "relation": "HasProperty", "tails": [" hard-working", " hardworking", " hard working"]}
+{"head": "worker", "relation": "MadeUpOf", "tails": [" worker's hand", " worker's hands", " worker's foot"]}
+{"head": "worker", "relation": "NotDesires", "tails": [" lose job", " work too hard", " work too much"]}
+{"head": "worker", "relation": "Desires", "tails": [" work hard", " work for pay", " work in office"]}
+{"head": "to tell", "relation": "HinderedBy", "tails": [" to tell", " to tell ", " to tell  to tell "]}
+{"head": "to tell", "relation": "isBefore", "tails": [" to tell", " to tell the truth", " to tell "]}
+{"head": "to tell", "relation": "isAfter", "tails": [" to tell the truth", " to tell", " to be heard"]}
+{"head": "to tell", "relation": "HasSubEvent", "tails": [" to tell", " to tell ", " to tell  tell "]}
+{"head": "to tell", "relation": "Causes", "tails": [" to tell", " to tell  to  tell ", " to tell  to  tell  "]}
+{"head": "to tell", "relation": "xReason", "tails": [" to tell", " to be honest", " none"]}
+{"head": "to major", "relation": "HinderedBy", "tails": [" to major", " to major ", " to major  in"]}
+{"head": "to major", "relation": "isBefore", "tails": [" to major", " to major in", " to major in something"]}
+{"head": "to major", "relation": "isAfter", "tails": [" to major in", " to major", " to major in something"]}
+{"head": "to major", "relation": "HasSubEvent", "tails": [" to major", " to major in something", " to major in"]}
+{"head": "to major", "relation": "Causes", "tails": [" to major", " to major in", " to major in something"]}
+{"head": "to major", "relation": "xReason", "tails": [" to major", " to major in", " to major in something"]}
+{"head": "to live", "relation": "HinderedBy", "tails": [" to live", " to live a long time", " to live "]}
+{"head": "to live", "relation": "isBefore", "tails": [" to live", " to live a long time", " to live a good life"]}
+{"head": "to live", "relation": "isAfter", "tails": [" to live a long time", " to live", " to live a good life"]}
+{"head": "to live", "relation": "HasSubEvent", "tails": [" to live", " eat healthy", " eat healthy food"]}
+{"head": "to live", "relation": "Causes", "tails": [" to live", " live long", " to live life"]}
+{"head": "to live", "relation": "xReason", "tails": [" to live", " to live life to fullest", " to live a long time"]}
+{"head": "to graduate", "relation": "HinderedBy", "tails": [" to graduate", " to get a good job", " to get a degree"]}
+{"head": "to graduate", "relation": "isBefore", "tails": [" get a good job", " get a job", " to get a job"]}
+{"head": "to graduate", "relation": "isAfter", "tails": [" get a job", " get good grades", " get good job"]}
+{"head": "to graduate", "relation": "HasSubEvent", "tails": [" to graduate", " get diploma", " get a job"]}
+{"head": "to graduate", "relation": "Causes", "tails": [" get a job", " get good job", " get good grades"]}
+{"head": "to graduate", "relation": "xReason", "tails": [" get good job", " get good grades", " get a job"]}
+{"head": "to bear", "relation": "HinderedBy", "tails": [" to bear", " to bear ", " to bear  to bear"]}
+{"head": "to bear", "relation": "isBefore", "tails": [" to bear", " to bear the burden", " to bear the pain"]}
+{"head": "to bear", "relation": "isAfter", "tails": [" to bear", " to bear the burden", " to bear weight"]}
+{"head": "to bear", "relation": "HasSubEvent", "tails": [" to bear", " to bear ", " to bear  bear"]}
+{"head": "to bear", "relation": "Causes", "tails": [" to bear", " to bear ", " to bear weight"]}
+{"head": "to bear", "relation": "xReason", "tails": [" to bear", " to bear weight", " to bear pain"]}
+{"head": "to be", "relation": "HinderedBy", "tails": [" to be", " to be ", " to be a good person"]}
+{"head": "to be", "relation": "isBefore", "tails": [" to be", " to be a good person", " to be a good friend"]}
+{"head": "to be", "relation": "isAfter", "tails": [" to be", " to be good", " to be a leader"]}
+{"head": "to be", "relation": "HasSubEvent", "tails": [" to be", " to be ", " to be  happy"]}
+{"head": "to be", "relation": "Causes", "tails": [" to be", " to be a good person", " to be  good"]}
+{"head": "to be", "relation": "xReason", "tails": [" to be good at what they do", " to be", " to be a good person"]}
+{"head": "tell something", "relation": "HinderedBy", "tails": [" tell something to someone", " tell something to someone else", " tell something"]}
+{"head": "tell something", "relation": "isBefore", "tails": [" listen to", " listen", " tell story"]}
+{"head": "tell something", "relation": "isAfter", "tails": [" tell something to someone", " tell a secret", " tell something to someone else"]}
+{"head": "tell something", "relation": "HasSubEvent", "tails": [" listen to", " tell truth", " tell something"]}
+{"head": "tell something", "relation": "Causes", "tails": [" listen to", " tell story", " tell something"]}
+{"head": "tell something", "relation": "xReason", "tails": [" listen to", " tell story", " tell truth"]}
+{"head": "tell bit", "relation": "HinderedBy", "tails": [" tell a secret", " tell story", " tell bit"]}
+{"head": "tell bit", "relation": "isBefore", "tails": [" tell story", " listen to", " tell tale"]}
+{"head": "tell bit", "relation": "isAfter", "tails": [" tell story", " tell tale", " tell truth"]}
+{"head": "tell bit", "relation": "HasSubEvent", "tails": [" tell story", " tell truth", " talk to others"]}
+{"head": "tell bit", "relation": "Causes", "tails": [" tell story", " tell truth", " tell tale"]}
+{"head": "tell bit", "relation": "xReason", "tails": [" tell story", " tell truth", " tell tale"]}
+{"head": "teacher", "relation": "ObjectUse", "tails": [" teach a class", " teach students", " teach children"]}
+{"head": "teacher", "relation": "AtLocation", "tails": [" classroom", " school", " teacher's office"]}
+{"head": "teacher", "relation": "CapableOf", "tails": [" teach students", " teach children", " teach class"]}
+{"head": "teacher", "relation": "HasProperty", "tails": [" teacher", " school", " teaching children"]}
+{"head": "teacher", "relation": "MadeUpOf", "tails": [" teacher's hat", " classroom", " teacher's badge"]}
+{"head": "teacher", "relation": "NotDesires", "tails": [" teach students", " teach children", " teacher to teach"]}
+{"head": "teacher", "relation": "Desires", "tails": [" teach students", " teach children", " teach kids"]}
+{"head": "parents", "relation": "ObjectUse", "tails": [" have a relationship with", " give birth to child", " have a child"]}
+{"head": "parents", "relation": "AtLocation", "tails": [" parents house", " parents home", " children"]}
+{"head": "parents", "relation": "CapableOf", "tails": [" parent children", " parents to children", " have children"]}
+{"head": "parents", "relation": "HasProperty", "tails": [" parents", " parents and children", " parents children"]}
+{"head": "parents", "relation": "MadeUpOf", "tails": [" parents", " parents and children", " children"]}
+{"head": "parents", "relation": "NotDesires", "tails": [" parents to go to jail", " parents to die", " parents to go to prison"]}
+{"head": "parents", "relation": "Desires", "tails": [" parents to raise children", " parents to be happy", " parents to raise"]}
+{"head": "mother", "relation": "ObjectUse", "tails": [" mother", " mother child", " mother's children"]}
+{"head": "mother", "relation": "AtLocation", "tails": [" mother's house", " mother's home", " mother's arms"]}
+{"head": "mother", "relation": "CapableOf", "tails": [" mother to child", " mother child", " mother to children"]}
+{"head": "mother", "relation": "HasProperty", "tails": [" mother", " mother's hands", " mother's body"]}
+{"head": "mother", "relation": "MadeUpOf", "tails": [" mother's hands", " mother's hand", " mother"]}
+{"head": "mother", "relation": "NotDesires", "tails": [" mother to die", " mother's death", " mother to be dead"]}
+{"head": "mother", "relation": "Desires", "tails": [" motherly love", " mother's love", " mother"]}
+{"head": "little bit", "relation": "ObjectUse", "tails": [" use as a lubricant", " use as a weapon", " use as lubricant"]}
+{"head": "little bit", "relation": "AtLocation", "tails": [" little bit", " water", " little bit of"]}
+{"head": "little bit", "relation": "CapableOf", "tails": [" drink water", " drink from cup", " drink"]}
+{"head": "little bit", "relation": "HasProperty", "tails": [" little bit", " very small", " very little"]}
+{"head": "little bit", "relation": "MadeUpOf", "tails": [" little bit", " water", " little bit of"]}
+{"head": "little bit", "relation": "NotDesires", "tails": [" little bit at a time", " little bit", " little bit of something"]}
+{"head": "little bit", "relation": "Desires", "tails": [" little bit", " feel good", " little bit of"]}
+{"head": "father", "relation": "ObjectUse", "tails": [" father son", " father", " mother"]}
+{"head": "father", "relation": "AtLocation", "tails": [" father's house", " father's home", " mother"]}
+{"head": "father", "relation": "CapableOf", "tails": [" father son", " father child", " father children"]}
+{"head": "father", "relation": "HasProperty", "tails": [" father", " mother", " maternal"]}
+{"head": "father", "relation": "MadeUpOf", "tails": [" father", " mother", " father's hand"]}
+{"head": "father", "relation": "NotDesires", "tails": [" mother to die", " father to die", " father to be dead"]}
+{"head": "father", "relation": "Desires", "tails": [" mother", " fatherly love", " father"]}
+{"head": "family", "relation": "ObjectUse", "tails": [" have a good time", " have fun with", " have a good time with"]}
+{"head": "family", "relation": "AtLocation", "tails": [" family home", " family room", " family tree"]}
+{"head": "family", "relation": "CapableOf", "tails": [" live together", " live in same house", " live in house"]}
+{"head": "family", "relation": "HasProperty", "tails": [" family", " social group", " family tree"]}
+{"head": "family", "relation": "MadeUpOf", "tails": [" family tree", " family name", " family"]}
+{"head": "family", "relation": "NotDesires", "tails": [" family problems", " family", " feel lonely"]}
+{"head": "family", "relation": "Desires", "tails": [" have fun", " have a good time", " have fun with"]}
+{"head": "bit", "relation": "ObjectUse", "tails": [" use as a weapon", " use as a bookmark", " use as a paperweight"]}
+{"head": "bit", "relation": "AtLocation", "tails": [" bit of paper", " bit of bread", " bit of cheese"]}
+{"head": "bit", "relation": "CapableOf", "tails": [" bite into", " bite", " use as weapon"]}
+{"head": "bit", "relation": "HasProperty", "tails": [" found in hair", " bit of paper", " found in body"]}
+{"head": "bit", "relation": "MadeUpOf", "tails": [" bit", " bite", " bits"]}
+{"head": "bit", "relation": "NotDesires", "tails": [" bite", " bit", " bite into"]}
+{"head": "bit", "relation": "Desires", "tails": [" bit of cheese", " bit of cake", " bit of candy"]}
+{"head": "be three", "relation": "HinderedBy", "tails": [" be two", " be one", " be one person"]}
+{"head": "be three", "relation": "isBefore", "tails": [" be two", " be one", " be one person"]}
+{"head": "be three", "relation": "isAfter", "tails": [" be one", " be two", " be one person"]}
+{"head": "be three", "relation": "HasSubEvent", "tails": [" be two", " be one", " have two children"]}
+{"head": "be three", "relation": "Causes", "tails": [" be one", " be two", " be one person"]}
+{"head": "be three", "relation": "xReason", "tails": [" be one", " be one of three", " be one of many"]}
+{"head": "be parents", "relation": "HinderedBy", "tails": [" be a parent", " have children", " have a child"]}
+{"head": "be parents", "relation": "isBefore", "tails": [" have children", " have a child", " have a family"]}
+{"head": "be parents", "relation": "isAfter", "tails": [" have children", " parents to raise children", " parents to children"]}
+{"head": "be parents", "relation": "HasSubEvent", "tails": [" have children", " have kids", " get married"]}
+{"head": "be parents", "relation": "Causes", "tails": [" have children", " have a child", " have kids"]}
+{"head": "be parents", "relation": "xReason", "tails": [" have children", " be a parent", " be a good parent"]}
+{"head": "accounting", "relation": "ObjectUse", "tails": [" keep track of finances", " keep track of expenses", " keep track of money"]}
+{"head": "accounting", "relation": "AtLocation", "tails": [" accounting firm", " tax office", " bookkeeping"]}
+{"head": "accounting", "relation": "CapableOf", "tails": [" pay taxes", " write check", " pay bills"]}
+{"head": "accounting", "relation": "HasProperty", "tails": [" accountants", " accounting", " accountancy"]}
+{"head": "accounting", "relation": "MadeUpOf", "tails": [" accountants", " bookkeeping", " accountancy"]}
+{"head": "accounting", "relation": "NotDesires", "tails": [" accountants", " accountancy", " audit"]}
+{"head": "accounting", "relation": "Desires", "tails": [" accountants", " make money", " account for expenses"]}
+{"head": "Would you tell me something about your family ?", "relation": "xAttr", "tails": [" curious", " talkative", " open-minded"]}
+{"head": "Would you tell me something about your family ?", "relation": "xWant", "tails": [" to tell me more about their family", " to get to know their family", " to get to know them better"]}
+{"head": "Would you tell me something about your family ?", "relation": "xNeed", "tails": [" to know about your family", " to have a conversation with you", " to have a conversation with him"]}
+{"head": "Would you tell me something about your family ?", "relation": "xEffect", "tails": [" would like to know more", " would like to learn more", " gets asked questions"]}
+{"head": "Would you tell me something about your family ?", "relation": "HinderedBy", "tails": [" would you tell me something about your family", " would you tell me something about your family ?", " would you tell me something about their family"]}
+{"head": "Would you tell me something about your family ?", "relation": "oWant", "tails": [" to get to know their family", " to get to know them better", " to get to know them"]}
+{"head": "Would you tell me something about your family ?", "relation": "xReact", "tails": [" happy", " informed", " curious"]}
+{"head": "Would you tell me something about your family ?", "relation": "oEffect", "tails": [" none", " would like to know more", " would like to learn more"]}
+{"head": "Would you tell me something about your family ?", "relation": "xIntent", "tails": [" to be understood", " to be honest", " none"]}
+{"head": "Would you tell me something about your family ?", "relation": "oReact", "tails": [" none", " happy", " informed"]}
+{"head": "Would you tell me something about your family ?", "relation": "isBefore", "tails": [" would like to know more about your family", " would like to know more about their family", " would like to know more"]}
+{"head": "Would you tell me something about your family ?", "relation": "isAfter", "tails": [" would like to know more about your family", " would like to know more about their family", " would like to know more"]}
+{"head": "Would you tell me something about your family ?", "relation": "HasSubEvent", "tails": [" would like to know more about their family", " would like to know more", " would like to know more about family"]}
+{"head": "Would you tell me something about your family ?", "relation": "Causes", "tails": [" would you tell me something about your family", " would like to know more about their family", " would like to know more"]}
+{"head": "Would you tell me something about your family ?", "relation": "xReason", "tails": [" would you tell me something about your family", " would like to know more about their family", " would like to know more about your family"]}
+{"head": "There are three in my family , my parents and myself .", "relation": "xAttr", "tails": [" family-oriented", " loving", " family oriented"]}
+{"head": "There are three in my family , my parents and myself .", "relation": "xWant", "tails": [" to have a family", " to have children", " to be a good parent"]}
+{"head": "There are three in my family , my parents and myself .", "relation": "xNeed", "tails": [" none", " to have a family", " to have children"]}
+{"head": "There are three in my family , my parents and myself .", "relation": "xEffect", "tails": [" none", " there are three in my family", " there are three of them"]}
+{"head": "There are three in my family , my parents and myself .", "relation": "HinderedBy", "tails": [" there are three of them", " there are only three of us", " there are three of us"]}
+{"head": "There are three in my family , my parents and myself .", "relation": "oWant", "tails": [" none", " to have a family", " to have children"]}
+{"head": "There are three in my family , my parents and myself .", "relation": "xReact", "tails": [" happy", " proud", " happy."]}
+{"head": "There are three in my family , my parents and myself .", "relation": "oEffect", "tails": [" none", " have a family", " have a child"]}
+{"head": "There are three in my family , my parents and myself .", "relation": "xIntent", "tails": [" none", " to be a part of the family", " to be a part of a family"]}
+{"head": "There are three in my family , my parents and myself .", "relation": "oReact", "tails": [" none", " happy", " loved"]}
+{"head": "There are three in my family , my parents and myself .", "relation": "isBefore", "tails": [" there are three in my family", " there are three of them", " none"]}
+{"head": "There are three in my family , my parents and myself .", "relation": "isAfter", "tails": [" there are three in my family", " there are three of us", " there are three of them"]}
+{"head": "There are three in my family , my parents and myself .", "relation": "HasSubEvent", "tails": [" none", " there are three in my family", " there are three of them"]}
+{"head": "There are three in my family , my parents and myself .", "relation": "Causes", "tails": [" there are three in my family", " there are three of us", " there are three of them"]}
+{"head": "There are three in my family , my parents and myself .", "relation": "xReason", "tails": [" there are three in my family", " there are three of us", " none"]}
+{"head": "Tell me a little bit about yourself , please .", "relation": "xAttr", "tails": [" talkative", " curious", " open-minded"]}
+{"head": "Tell me a little bit about yourself , please .", "relation": "xWant", "tails": [" to get to know them", " to get to know them better", " to get to know someone"]}
+{"head": "Tell me a little bit about yourself , please .", "relation": "xNeed", "tails": [" to get to know them", " to get to know someone", " to get to know me"]}
+{"head": "Tell me a little bit about yourself , please .", "relation": "xEffect", "tails": [" get to know them better", " get to know you better", " get to know you"]}
+{"head": "Tell me a little bit about yourself , please .", "relation": "HinderedBy", "tails": [" tell me a little bit about yourself", " tell me a little more about yourself", " tell me about yourself"]}
+{"head": "Tell me a little bit about yourself , please .", "relation": "oWant", "tails": [" to get to know you", " to get to know you better", " to get to know them"]}
+{"head": "Tell me a little bit about yourself , please .", "relation": "xReact", "tails": [" good about themselves", " happy", " good about themselves."]}
+{"head": "Tell me a little bit about yourself , please .", "relation": "oEffect", "tails": [" none", " get to know you better", " get to know them better"]}
+{"head": "Tell me a little bit about yourself , please .", "relation": "xIntent", "tails": [" to get to know someone", " to get to know them", " to get to know you"]}
+{"head": "Tell me a little bit about yourself , please .", "relation": "oReact", "tails": [" none", " happy", " happy."]}
+{"head": "Tell me a little bit about yourself , please .", "relation": "isBefore", "tails": [" tell me about yourself", " get to know you", " get to know you better"]}
+{"head": "Tell me a little bit about yourself , please .", "relation": "isAfter", "tails": [" tell me about yourself", " tell me what you do", " tell me what you think"]}
+{"head": "Tell me a little bit about yourself , please .", "relation": "HasSubEvent", "tails": [" get to know you better", " get to know you", " get to know them better"]}
+{"head": "Tell me a little bit about yourself , please .", "relation": "Causes", "tails": [" tell me a little bit about yourself", " tell me a little more about yourself", " tell me about yourself"]}
+{"head": "Tell me a little bit about yourself , please .", "relation": "xReason", "tails": [" tell me about yourself", " get to know someone", " get to know you better"]}
+{"head": "Peking University", "relation": "ObjectUse", "tails": [" Peking", " Peking.", " learning about China"]}
+{"head": "Peking University", "relation": "AtLocation", "tails": [" university", " campus", " school"]}
+{"head": "Peking University", "relation": "CapableOf", "tails": [" learn new things", " learn about the world", " study"]}
+{"head": "Peking University", "relation": "HasProperty", "tails": [" found in China", " Peking", " found in many places"]}
+{"head": "Peking University", "relation": "MadeUpOf", "tails": [" Peking", " plexiglass", " plexiglass building"]}
+{"head": "Peking University", "relation": "NotDesires", "tails": [" Peking", " Peking.", " study"]}
+{"head": "Peking University", "relation": "Desires", "tails": [" to learn", " to learn new things", " to learn about the world"]}
+{"head": "My name is Dunlin and I live in Beijing .", "relation": "xAttr", "tails": [" adventurous", " curious", " friendly"]}
+{"head": "My name is Dunlin and I live in Beijing .", "relation": "xWant", "tails": [" to get a job", " to go to school", " to get a job in China"]}
+{"head": "My name is Dunlin and I live in Beijing .", "relation": "xNeed", "tails": [" none", " to be born in China", " to get a job in China"]}
+{"head": "My name is Dunlin and I live in Beijing .", "relation": "xEffect", "tails": [" none", " gets lost in the city", " gets a new job"]}
+{"head": "My name is Dunlin and I live in Beijing .", "relation": "HinderedBy", "tails": [" my parents won't let me live in China", " my parents won't let me live in China.", " my parents won't let me move to China."]}
+{"head": "My name is Dunlin and I live in Beijing .", "relation": "oWant", "tails": [" none", " to get to know me", " to get to know them"]}
+{"head": "My name is Dunlin and I live in Beijing .", "relation": "xReact", "tails": [" happy", " good about themselves", " happy to be there"]}
+{"head": "My name is Dunlin and I live in Beijing .", "relation": "oEffect", "tails": [" none", " have a new friend", " get a new job"]}
+{"head": "My name is Dunlin and I live in Beijing .", "relation": "xIntent", "tails": [" none", " to live in a different country", " to live in China"]}
+{"head": "My name is Dunlin and I live in Beijing .", "relation": "oReact", "tails": [" none", " happy", " happy."]}
+{"head": "My name is Dunlin and I live in Beijing .", "relation": "isBefore", "tails": [" PersonX asks PersonX to marry them.", " PersonX asks me to marry them.", " PersonX asks me to marry him."]}
+{"head": "My name is Dunlin and I live in Beijing .", "relation": "isAfter", "tails": [" my name is Dunlin and I live in Beijing", " my name is Dunlin and I live in China", " my name is Dunlin"]}
+{"head": "My name is Dunlin and I live in Beijing .", "relation": "HasSubEvent", "tails": [" get a job", " get a job in China", " get a job in the city"]}
+{"head": "My name is Dunlin and I live in Beijing .", "relation": "Causes", "tails": [" my name is not in the Chinese language", " my name is not in the Chinese language.", " my name is not in Chinese"]}
+{"head": "My name is Dunlin and I live in Beijing .", "relation": "xReason", "tails": [" my parents will not let me live in China", " my parents will not let me go to China", " my parents will not let me live in China."]}
+{"head": "My father is a teacher and my mother is a worker .", "relation": "xAttr", "tails": [" hardworking", " hard-working", " responsible"]}
+{"head": "My father is a teacher and my mother is a worker .", "relation": "xWant", "tails": [" to be a good parent", " to help their family", " to teach their children"]}
+{"head": "My father is a teacher and my mother is a worker .", "relation": "xNeed", "tails": [" to have a job", " to have a good job", " to have a job."]}
+{"head": "My father is a teacher and my mother is a worker .", "relation": "xEffect", "tails": [" my mother is a teacher", " my mother is a teacher.", " my father is a teacher"]}
+{"head": "My father is a teacher and my mother is a worker .", "relation": "HinderedBy", "tails": [" my father is a teacher and my mother is a worker.", " my father is a teacher and my mother is a worker", " my parents are both teachers."]}
+{"head": "My father is a teacher and my mother is a worker .", "relation": "oWant", "tails": [" to be a good parent", " to teach me", " to help me"]}
+{"head": "My father is a teacher and my mother is a worker .", "relation": "xReact", "tails": [" proud", " happy", " happy."]}
+{"head": "My father is a teacher and my mother is a worker .", "relation": "oEffect", "tails": [" none", " my mother is a teacher.", " my mother is a teacher"]}
+{"head": "My father is a teacher and my mother is a worker .", "relation": "xIntent", "tails": [" to be a good parent", " to be a good parent.", " to be a good person"]}
+{"head": "My father is a teacher and my mother is a worker .", "relation": "oReact", "tails": [" none", " happy", " proud"]}
+{"head": "My father is a teacher and my mother is a worker .", "relation": "isBefore", "tails": [" my mother is a teacher", " my father is a teacher", " my parents are both teachers"]}
+{"head": "My father is a teacher and my mother is a worker .", "relation": "isAfter", "tails": [" my mother is a teacher", " my parents are both teachers", " my parents have a job"]}
+{"head": "My father is a teacher and my mother is a worker .", "relation": "HasSubEvent", "tails": [" my mother is a teacher", " my mother is a teacher.", " my parents are both teachers"]}
+{"head": "My father is a teacher and my mother is a worker .", "relation": "Causes", "tails": [" my parents are both teachers", " my mother is a teacher", " my parents are both teachers."]}
+{"head": "My father is a teacher and my mother is a worker .", "relation": "xReason", "tails": [" my mother is a teacher", " my parents are both teachers", " my parents are both teachers."]}
+{"head": "I will graduate from Peking University this July .", "relation": "xAttr", "tails": [" smart", " proud", " educated"]}
+{"head": "I will graduate from Peking University this July .", "relation": "xWant", "tails": [" to get a good job", " to go to college", " to get a job"]}
+{"head": "I will graduate from Peking University this July .", "relation": "xNeed", "tails": [" to study hard", " to go to school", " to go to college"]}
+{"head": "I will graduate from Peking University this July .", "relation": "xEffect", "tails": [" gets a good job", " gets a job", " get a job"]}
+{"head": "I will graduate from Peking University this July .", "relation": "HinderedBy", "tails": [" I have to go to work.", " I have to go to college.", " I have to go to school."]}
+{"head": "I will graduate from Peking University this July .", "relation": "oWant", "tails": [" to congratulate me", " none", " to celebrate with me"]}
+{"head": "I will graduate from Peking University this July .", "relation": "xReact", "tails": [" happy", " proud", " excited"]}
+{"head": "I will graduate from Peking University this July .", "relation": "oEffect", "tails": [" none", " get a good job", " get a job"]}
+{"head": "I will graduate from Peking University this July .", "relation": "xIntent", "tails": [" to get a good job", " to get a good job.", " to go to college"]}
+{"head": "I will graduate from Peking University this July .", "relation": "oReact", "tails": [" none", " happy", " proud"]}
+{"head": "I will graduate from Peking University this July .", "relation": "isBefore", "tails": [" get a good job", " get a job", " I will go to college"]}
+{"head": "I will graduate from Peking University this July .", "relation": "isAfter", "tails": [" I will go to college", " I have a good job.", " I will go to college."]}
+{"head": "I will graduate from Peking University this July .", "relation": "HasSubEvent", "tails": [" get a good job", " get a job", " get a degree"]}
+{"head": "I will graduate from Peking University this July .", "relation": "Causes", "tails": [" I have a good job.", " I will go to college.", " I will go to college"]}
+{"head": "I will graduate from Peking University this July .", "relation": "xReason", "tails": [" I have a good job.", " I will go to college.", " I will go to college"]}
+{"head": "I was born in 1980 .", "relation": "xAttr", "tails": [" young", " youthful", " born"]}
+{"head": "I was born in 1980 .", "relation": "xWant", "tails": [" to grow up", " to grow old", " to have a baby"]}
+{"head": "I was born in 1980 .", "relation": "xNeed", "tails": [" none", " to have been born", " to be born"]}
+{"head": "I was born in 1980 .", "relation": "xEffect", "tails": [" none", " I was born in 1981.", " I was born in the year 1981"]}
+{"head": "I was born in 1980 .", "relation": "HinderedBy", "tails": [" I was born in 1981.", " I am too young.", " I was born in the year 2000."]}
+{"head": "I was born in 1980 .", "relation": "oWant", "tails": [" none", " to have a birthday party", " to have a baby"]}
+{"head": "I was born in 1980 .", "relation": "xReact", "tails": [" happy", " young", " happy."]}
+{"head": "I was born in 1980 .", "relation": "oEffect", "tails": [" none", " they have a baby", " they have a child"]}
+{"head": "I was born in 1980 .", "relation": "xIntent", "tails": [" none", " to be born", " to have a child"]}
+{"head": "I was born in 1980 .", "relation": "oReact", "tails": [" none", " happy", " happy."]}
+{"head": "I was born in 1980 .", "relation": "isBefore", "tails": [" I was born in 1981", " I was born in the year 1981", " I was born in the year 2000"]}
+{"head": "I was born in 1980 .", "relation": "isAfter", "tails": [" I was born in 1981", " I was born in the year 1981", " I was born in the year 1980"]}
+{"head": "I was born in 1980 .", "relation": "HasSubEvent", "tails": [" none", " get married", " get a job"]}
+{"head": "I was born in 1980 .", "relation": "Causes", "tails": [" I am not old enough to be born.", " I am not old enough to be born in 1980.", " I am not old enough to have a birthday."]}
+{"head": "I was born in 1980 .", "relation": "xReason", "tails": [" I was born in 1981", " I was born in 1981.", " I was born in the year 1981"]}
+{"head": "I have majored in accounting .", "relation": "xAttr", "tails": [" smart", " intelligent", " educated"]}
+{"head": "I have majored in accounting .", "relation": "xWant", "tails": [" to get a good job", " to go to college", " to get a job"]}
+{"head": "I have majored in accounting .", "relation": "xNeed", "tails": [" to go to college", " to go to school", " to study accounting"]}
+{"head": "I have majored in accounting .", "relation": "xEffect", "tails": [" get a good job", " gets a good job", " get a job"]}
+{"head": "I have majored in accounting .", "relation": "HinderedBy", "tails": [" I don't know how to do it.", " I don't have a degree.", " I don't have a degree in accounting."]}
+{"head": "I have majored in accounting .", "relation": "oWant", "tails": [" none", " to get a good job", " to teach me"]}
+{"head": "I have majored in accounting .", "relation": "xReact", "tails": [" smart", " proud", " educated"]}
+{"head": "I have majored in accounting .", "relation": "oEffect", "tails": [" none", " get a good job", " get a degree in accounting"]}
+{"head": "I have majored in accounting .", "relation": "xIntent", "tails": [" to get a good job", " to make money", " to be a good accountant"]}
+{"head": "I have majored in accounting .", "relation": "oReact", "tails": [" none", " educated", " happy"]}
+{"head": "I have majored in accounting .", "relation": "isBefore", "tails": [" I have a degree in accounting", " I have a degree in accounting.", " get a good job"]}
+{"head": "I have majored in accounting .", "relation": "isAfter", "tails": [" I have a degree in accounting", " get a good job", " I have a degree in accounting."]}
+{"head": "I have majored in accounting .", "relation": "HasSubEvent", "tails": [" get a good job", " get a job", " get a degree in accounting"]}
+{"head": "I have majored in accounting .", "relation": "Causes", "tails": [" I have a degree in accounting.", " I have to go to college.", " I have a degree in accounting"]}
+{"head": "I have majored in accounting .", "relation": "xReason", "tails": [" I have a degree in accounting.", " I have a degree in accounting", " I have a degree in Accounting."]}
+{"head": "Dunlin", "relation": "ObjectUse", "tails": [" have a good time", " have a good time with friends", " get a job at a restaurant"]}
+{"head": "Dunlin", "relation": "AtLocation", "tails": [" town", " lake", " water"]}
+{"head": "Dunlin", "relation": "CapableOf", "tails": [" drink beer", " drink water", " get drunk"]}
+{"head": "Dunlin", "relation": "HasProperty", "tails": [" one of the four moons of the moon", " one of the two main characters in the movie", " one of the two main characters in the play"]}
+{"head": "Dunlin", "relation": "MadeUpOf", "tails": ["                   ", "                  ", "                    "]}
+{"head": "Dunlin", "relation": "NotDesires", "tails": [" have to go to the bathroom", " have to go to work", " have to go to hospital"]}
+{"head": "Dunlin", "relation": "Desires", "tails": [" have a good time", " none", " have a good life"]}
+{"head": "Beijing", "relation": "ObjectUse", "tails": [" travel to", " be in", " be in China"]}
+{"head": "Beijing", "relation": "AtLocation", "tails": [" city", " town", " downtown"]}
+{"head": "Beijing", "relation": "CapableOf", "tails": [" travel to", " meet people", " travel to city"]}
+{"head": "Beijing", "relation": "HasProperty", "tails": [" beijing", " found in China", " found in many cities"]}
+{"head": "Beijing", "relation": "MadeUpOf", "tails": [" beijing", " city", " bejing"]}
+{"head": "Beijing", "relation": "NotDesires", "tails": [" beijing", " travel to China", " be in"]}
+{"head": "Beijing", "relation": "Desires", "tails": [" be in", " travel to", " be a city"]}

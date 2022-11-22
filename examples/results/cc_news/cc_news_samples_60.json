@@ -1,0 +1,78 @@
+{"head": "white squirrel", "relation": "ObjectUse", "tails": [" hide in the woods", " hide from the police", " hide in a tree"]}
+{"head": "white squirrel", "relation": "AtLocation", "tails": [" squirrels house", " squirrels", " squirrels nest"]}
+{"head": "white squirrel", "relation": "CapableOf", "tails": [" catch squirrels", " catch mice", " squirrels"]}
+{"head": "white squirrel", "relation": "HasProperty", "tails": [" found in woods", " found in forest", " squirrels"]}
+{"head": "white squirrel", "relation": "MadeUpOf", "tails": [" squirrels", " squirrel tail", " white squirrel"]}
+{"head": "white squirrel", "relation": "NotDesires", "tails": [" black squirrels", " squirrels", " white squirrels"]}
+{"head": "white squirrel", "relation": "Desires", "tails": [" white squirrels", " squirrels", " white squirrel"]}
+{"head": "squirrel", "relation": "ObjectUse", "tails": [" feed to the squirrels", " squirrels", " feed to the birds"]}
+{"head": "squirrel", "relation": "AtLocation", "tails": [" squirrels house", " squirrels nest", " squirrels"]}
+{"head": "squirrel", "relation": "CapableOf", "tails": [" squirrels", " catch mouse", " catch mice"]}
+{"head": "squirrel", "relation": "HasProperty", "tails": [" found in woods", " found in forest", " squirrels"]}
+{"head": "squirrel", "relation": "MadeUpOf", "tails": [" burrow", " squirrels", " squirrels tail"]}
+{"head": "squirrel", "relation": "NotDesires", "tails": [" squish squish squish squish squish squish squish squish squish squish squish", " squish squish squish squish squish squish squish squish squish squish", " squish squish squish squish squish squish squish squish squish"]}
+{"head": "squirrel", "relation": "Desires", "tails": [" squirrels", " squirrels food", " squirrel food"]}
+{"head": "sight", "relation": "ObjectUse", "tails": [" see things clearly", " see things", " look at something"]}
+{"head": "sight", "relation": "AtLocation", "tails": [" eye", " sight", " eyes"]}
+{"head": "sight", "relation": "CapableOf", "tails": [" see stars", " see things clearly", " see stars in sky"]}
+{"head": "sight", "relation": "HasProperty", "tails": [" found in telescope", " found in cave", " found in eye"]}
+{"head": "sight", "relation": "MadeUpOf", "tails": [" eye", " eyes", " sight"]}
+{"head": "sight", "relation": "NotDesires", "tails": [" see things clearly", " see in dark", " look at"]}
+{"head": "sight", "relation": "Desires", "tails": [" see things clearly", " see clearly", " look at"]}
+{"head": "parts", "relation": "ObjectUse", "tails": [" build a house", " build a car", " make the car"]}
+{"head": "parts", "relation": "AtLocation", "tails": [" car", " parts", " parts list"]}
+{"head": "parts", "relation": "CapableOf", "tails": [" use as a weapon", " make things", " use as weapon"]}
+{"head": "parts", "relation": "HasProperty", "tails": [" made up of", " found in car", " parts"]}
+{"head": "parts", "relation": "MadeUpOf", "tails": [" parts", " part of body", " parts of body"]}
+{"head": "parts", "relation": "NotDesires", "tails": [" parts", " parts of parts", " parts to be made"]}
+{"head": "parts", "relation": "Desires", "tails": [" parts", " make a car", " make things"]}
+{"head": "mutation", "relation": "ObjectUse", "tails": [" use as a weapon", " make a new person", " make things better"]}
+{"head": "mutation", "relation": "AtLocation", "tails": [" science fiction book", " science fiction novel", " science fiction"]}
+{"head": "mutation", "relation": "CapableOf", "tails": [" make new things", " make new thing", " make things better"]}
+{"head": "mutation", "relation": "HasProperty", "tails": [" found in science fiction movies", " found in science fiction novels", " found in science fiction books"]}
+{"head": "mutation", "relation": "MadeUpOf", "tails": [" mnucleus", " mnucleotide", " mutation"]}
+{"head": "mutation", "relation": "NotDesires", "tails": [" make mistakes", " have to fix", " have to change"]}
+{"head": "mutation", "relation": "Desires", "tails": [" make new things", " make things better", " have a new life"]}
+{"head": "genetic mutation", "relation": "ObjectUse", "tails": [" get cancer", " get sick", " make a baby"]}
+{"head": "genetic mutation", "relation": "AtLocation", "tails": [" genetic disorder", " gene pool", " genealogies"]}
+{"head": "genetic mutation", "relation": "CapableOf", "tails": [" make mistakes", " get sick", " get cancer"]}
+{"head": "genetic mutation", "relation": "HasProperty", "tails": [" genetic disorder", " one of many genetic diseases", " one of many genetic disorders"]}
+{"head": "genetic mutation", "relation": "MadeUpOf", "tails": [" genetic disorder", " genes", " genetic defect"]}
+{"head": "genetic mutation", "relation": "NotDesires", "tails": [" genetic disease", " bad genes", " genetic disorder"]}
+{"head": "genetic mutation", "relation": "Desires", "tails": [" genetic disorder", " none", " genetic disease"]}
+{"head": "eastern gray squirrel", "relation": "ObjectUse", "tails": [" squirrels", " squirrel food", " feed to birds"]}
+{"head": "eastern gray squirrel", "relation": "AtLocation", "tails": [" squirrels", " squirrels house", " squirrels nest"]}
+{"head": "eastern gray squirrel", "relation": "CapableOf", "tails": [" feed squirrels", " catch squirrels", " catch mice"]}
+{"head": "eastern gray squirrel", "relation": "HasProperty", "tails": [" squirrels", " found in woods", " found in forest"]}
+{"head": "eastern gray squirrel", "relation": "MadeUpOf", "tails": [" squirrels", " squirrels feet", " squirrels teeth"]}
+{"head": "eastern gray squirrel", "relation": "NotDesires", "tails": [" squirrels", " squirrels in the woods", " squirrel food"]}
+{"head": "eastern gray squirrel", "relation": "Desires", "tails": [" none", " squirrels", " squirrel food"]}
+{"head": "albino", "relation": "ObjectUse", "tails": [" hide from the police", " make a costume", " hide from the world"]}
+{"head": "albino", "relation": "AtLocation", "tails": [" albino", " albinos", " albino children"]}
+{"head": "albino", "relation": "CapableOf", "tails": [" see in dark places", " hide from others", " see in dark"]}
+{"head": "albino", "relation": "HasProperty", "tails": [" dark skin", " found in zoo", " found in tropical countries"]}
+{"head": "albino", "relation": "MadeUpOf", "tails": [" albino", " albinos", " albinoma"]}
+{"head": "albino", "relation": "NotDesires", "tails": [" dark skin", " skin color", " dark hair"]}
+{"head": "albino", "relation": "Desires", "tails": [" none", " have a different skin color", " have a different skin tone"]}
+{"head": "The white squirrel in Little Children\u2019s Park is a genetic mutation of the eastern gray squirrel, not as rare as an albino, but still not a common sight in these parts.", "relation": "xAttr", "tails": [" wild", " rare", " curious"]}
+{"head": "The white squirrel in Little Children\u2019s Park is a genetic mutation of the eastern gray squirrel, not as rare as an albino, but still not a common sight in these parts.", "relation": "xWant", "tails": [" to hide in the woods", " to hide from the police", " to eat the squirrels"]}
+{"head": "The white squirrel in Little Children\u2019s Park is a genetic mutation of the eastern gray squirrel, not as rare as an albino, but still not a common sight in these parts.", "relation": "xNeed", "tails": [" none", " to have been born with it", " to have been born with a mutation"]}
+{"head": "The white squirrel in Little Children\u2019s Park is a genetic mutation of the eastern gray squirrel, not as rare as an albino, but still not a common sight in these parts.", "relation": "xEffect", "tails": [" none", " the white squirrel is a rare animal", " the white squirrel is a rare sight"]}
+{"head": "The white squirrel in Little Children\u2019s Park is a genetic mutation of the eastern gray squirrel, not as rare as an albino, but still not a common sight in these parts.", "relation": "HinderedBy", "tails": [" the white squirrel is rare", " the white squirrel", " the white squirrel is a rare species"]}
+{"head": "The white squirrel in Little Children\u2019s Park is a genetic mutation of the eastern gray squirrel, not as rare as an albino, but still not a common sight in these parts.", "relation": "oWant", "tails": [" none", " to hide in the woods", " to hide from the police"]}
+{"head": "The white squirrel in Little Children\u2019s Park is a genetic mutation of the eastern gray squirrel, not as rare as an albino, but still not a common sight in these parts.", "relation": "xReact", "tails": [" none", " happy to see a friend", " happy to see it"]}
+{"head": "The white squirrel in Little Children\u2019s Park is a genetic mutation of the eastern gray squirrel, not as rare as an albino, but still not a common sight in these parts.", "relation": "oEffect", "tails": [" none", " the squirrel runs away from the park", " the squirrel runs away"]}
+{"head": "The white squirrel in Little Children\u2019s Park is a genetic mutation of the eastern gray squirrel, not as rare as an albino, but still not a common sight in these parts.", "relation": "xIntent", "tails": [" none", " the white squirrel to be a part of the park", " the white squirrel to be a part of the family"]}
+{"head": "The white squirrel in Little Children\u2019s Park is a genetic mutation of the eastern gray squirrel, not as rare as an albino, but still not a common sight in these parts.", "relation": "oReact", "tails": [" none", " the white squirrel is a rare animal", " the squirrel is a rare animal"]}
+{"head": "The white squirrel in Little Children\u2019s Park is a genetic mutation of the eastern gray squirrel, not as rare as an albino, but still not a common sight in these parts.", "relation": "isBefore", "tails": [" the white squirrel is not as rare as an albino", " the white squirrel is not as rare as the albino", " the white squirrel is not as rare as an albino."]}
+{"head": "The white squirrel in Little Children\u2019s Park is a genetic mutation of the eastern gray squirrel, not as rare as an albino, but still not a common sight in these parts.", "relation": "isAfter", "tails": [" the white squirrel", " none", " the white squirrel is a rare animal"]}
+{"head": "The white squirrel in Little Children\u2019s Park is a genetic mutation of the eastern gray squirrel, not as rare as an albino, but still not a common sight in these parts.", "relation": "HasSubEvent", "tails": [" none", " the white squirrel is a rare animal", " the white squirrel is a rare sight"]}
+{"head": "The white squirrel in Little Children\u2019s Park is a genetic mutation of the eastern gray squirrel, not as rare as an albino, but still not a common sight in these parts.", "relation": "Causes", "tails": [" the white squirrel", " the white squirrel is rare", " none"]}
+{"head": "The white squirrel in Little Children\u2019s Park is a genetic mutation of the eastern gray squirrel, not as rare as an albino, but still not a common sight in these parts.", "relation": "xReason", "tails": [" the white squirrel is rare", " the white squirrel", " none"]}
+{"head": "Little Children Park", "relation": "ObjectUse", "tails": [" play in", " play with friends", " play in the park"]}
+{"head": "Little Children Park", "relation": "AtLocation", "tails": [" park", " children's play area", " children's park"]}
+{"head": "Little Children Park", "relation": "CapableOf", "tails": [" have fun", " play ball", " play in"]}
+{"head": "Little Children Park", "relation": "HasProperty", "tails": [" little kids", " fun", " children"]}
+{"head": "Little Children Park", "relation": "MadeUpOf", "tails": [" park", " playground", " children"]}
+{"head": "Little Children Park", "relation": "NotDesires", "tails": [" children to play", " children to play in", " have fun"]}
+{"head": "Little Children Park", "relation": "Desires", "tails": [" have fun", " play with friends", " have fun with friends"]}

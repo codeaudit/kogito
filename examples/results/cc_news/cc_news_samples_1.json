@@ -1,0 +1,68 @@
+{"head": "\u201c True American Story", "relation": "ObjectUse", "tails": ["\u201d", "\u201c", "\u2019s"]}
+{"head": "\u201c True American Story", "relation": "AtLocation", "tails": [" movie", " movie theater", " book store"]}
+{"head": "\u201c True American Story", "relation": "CapableOf", "tails": [" learn about history", " learn about the past", " learn about the history"]}
+{"head": "\u201c True American Story", "relation": "HasProperty", "tails": ["\u201c", "\u2019", "\u2019s"]}
+{"head": "\u201c True American Story", "relation": "MadeUpOf", "tails": ["\u201cTrue American Story\u201d", "\u201cTrue American story\u201d", "\u201cTrue American Story\u201c"]}
+{"head": "\u201c True American Story", "relation": "NotDesires", "tails": ["\u201cTrue American Story\u201d", "\u201cTrue American Story\u201c", "\u201cTrue American Story"]}
+{"head": "\u201c True American Story", "relation": "Desires", "tails": [" none", " to tell a story", " to learn about history"]}
+{"head": "to form", "relation": "HinderedBy", "tails": [" to form", " to form ", " to form a team"]}
+{"head": "to form", "relation": "isBefore", "tails": [" to form", " to form a team", " to form an army"]}
+{"head": "to form", "relation": "isAfter", "tails": [" to form", " to form a team", " to form a group"]}
+{"head": "to form", "relation": "HasSubEvent", "tails": [" to form", " to form ", " to form a team"]}
+{"head": "to form", "relation": "Causes", "tails": [" to form", " to form a team", " to form "]}
+{"head": "to form", "relation": "xReason", "tails": [" to form", " to form a team", " to form a group"]}
+{"head": "to begin", "relation": "HinderedBy", "tails": [" to begin", " to start", " to begin "]}
+{"head": "to begin", "relation": "isBefore", "tails": [" to begin", " to start", " to get started"]}
+{"head": "to begin", "relation": "isAfter", "tails": [" to get started", " to start", " to begin"]}
+{"head": "to begin", "relation": "HasSubEvent", "tails": [" to begin", " to start", " to begin "]}
+{"head": "to begin", "relation": "Causes", "tails": [" to begin", " to start", " to begin "]}
+{"head": "to begin", "relation": "xReason", "tails": [" to begin", " to start", " to get started"]}
+{"head": "founder", "relation": "ObjectUse", "tails": [" start a business", " start a company", " start a new company"]}
+{"head": "founder", "relation": "AtLocation", "tails": [" company", " office building", " business"]}
+{"head": "founder", "relation": "CapableOf", "tails": [" start business", " start company", " build business"]}
+{"head": "founder", "relation": "HasProperty", "tails": [" one of the world's most powerful people", " one of the world's biggest companies", " one of the world's most famous people"]}
+{"head": "founder", "relation": "MadeUpOf", "tails": [" board of directors", " company name", " business plan"]}
+{"head": "founder", "relation": "NotDesires", "tails": [" start a business", " start a company", " start a new company"]}
+{"head": "founder", "relation": "Desires", "tails": [" start a business", " start business", " start a company"]}
+{"head": "form company", "relation": "HinderedBy", "tails": [" fill out", " fill out form", " fill out forms"]}
+{"head": "form company", "relation": "isBefore", "tails": [" computer", " form", " file paperwork"]}
+{"head": "form company", "relation": "isAfter", "tails": [" computer", " computer program", " file"]}
+{"head": "form company", "relation": "HasSubEvent", "tails": [" fill out", " fill out form", " fill out forms"]}
+{"head": "form company", "relation": "Causes", "tails": [" fill out", " fill out form", " fill out paperwork"]}
+{"head": "form company", "relation": "xReason", "tails": [" make money", " get job", " form letter"]}
+{"head": "company", "relation": "ObjectUse", "tails": [" work for", " make money", " work at"]}
+{"head": "company", "relation": "AtLocation", "tails": [" office building", " company", " business"]}
+{"head": "company", "relation": "CapableOf", "tails": [" work for", " work in", " work at"]}
+{"head": "company", "relation": "HasProperty", "tails": [" company", " company name", " business"]}
+{"head": "company", "relation": "MadeUpOf", "tails": [" company name", " company logo", " stock market"]}
+{"head": "company", "relation": "NotDesires", "tails": [" company to go out of business", " company to go bankrupt", " company to fail"]}
+{"head": "company", "relation": "Desires", "tails": [" work for", " company", " business"]}
+{"head": "Capt . Fred Bouchard", "relation": "ObjectUse", "tails": [" get a promotion", " to be a leader", " to be a good leader"]}
+{"head": "Capt . Fred Bouchard", "relation": "AtLocation", "tails": [" boat", " sea", " ship"]}
+{"head": "Capt . Fred Bouchard", "relation": "CapableOf", "tails": [" get a promotion", " to be a leader", " to be a good leader"]}
+{"head": "Capt . Fred Bouchard", "relation": "HasProperty", "tails": [" commanding officer", " captained", " captain"]}
+{"head": "Capt . Fred Bouchard", "relation": "MadeUpOf", "tails": [" Capt. Fred Bouchard", " Capt. Fred Bouchard ", " captainship"]}
+{"head": "Capt . Fred Bouchard", "relation": "NotDesires", "tails": [" none", " captainship", " captain"]}
+{"head": "Capt . Fred Bouchard", "relation": "Desires", "tails": [" none", " to be a leader", " to be a good leader"]}
+{"head": "Bouchard Transportation Co. began as a \u201cTrue American Story,\u201d when its founder, Capt. Fred Bouchard, formed the company with\u2026", "relation": "xAttr", "tails": [" adventurous", " responsible", " business"]}
+{"head": "Bouchard Transportation Co. began as a \u201cTrue American Story,\u201d when its founder, Capt. Fred Bouchard, formed the company with\u2026", "relation": "xWant", "tails": [" to make a lot of money", " to make money", " to make a lot of money."]}
+{"head": "Bouchard Transportation Co. began as a \u201cTrue American Story,\u201d when its founder, Capt. Fred Bouchard, formed the company with\u2026", "relation": "xNeed", "tails": [" to have a business plan", " to get a job", " to have a business"]}
+{"head": "Bouchard Transportation Co. began as a \u201cTrue American Story,\u201d when its founder, Capt. Fred Bouchard, formed the company with\u2026", "relation": "xEffect", "tails": [" get a job", " gets sued", " gets sued for fraud"]}
+{"head": "Bouchard Transportation Co. began as a \u201cTrue American Story,\u201d when its founder, Capt. Fred Bouchard, formed the company with\u2026", "relation": "HinderedBy", "tails": [" The Bouchard Transportation Co. began as a true story.", " The Bouchard Transportation Co. began as a true American story.", " The Bouchard Transportation Co. began as a business."]}
+{"head": "Bouchard Transportation Co. began as a \u201cTrue American Story,\u201d when its founder, Capt. Fred Bouchard, formed the company with\u2026", "relation": "oWant", "tails": [" to make a lot of money", " to make money", " to make a lot of money."]}
+{"head": "Bouchard Transportation Co. began as a \u201cTrue American Story,\u201d when its founder, Capt. Fred Bouchard, formed the company with\u2026", "relation": "xReact", "tails": [" good about themselves", " happy", " proud of his company"]}
+{"head": "Bouchard Transportation Co. began as a \u201cTrue American Story,\u201d when its founder, Capt. Fred Bouchard, formed the company with\u2026", "relation": "oEffect", "tails": [" none", " have a good reputation", " get a job"]}
+{"head": "Bouchard Transportation Co. began as a \u201cTrue American Story,\u201d when its founder, Capt. Fred Bouchard, formed the company with\u2026", "relation": "xIntent", "tails": [" to make money", " to be a success", " to make a difference"]}
+{"head": "Bouchard Transportation Co. began as a \u201cTrue American Story,\u201d when its founder, Capt. Fred Bouchard, formed the company with\u2026", "relation": "oReact", "tails": [" none", " happy to be a part of it", " happy to be a part of the company"]}
+{"head": "Bouchard Transportation Co. began as a \u201cTrue American Story,\u201d when its founder, Capt. Fred Bouchard, formed the company with\u2026", "relation": "isBefore", "tails": [" Bouchard's company is the best in the country.", " Bouchard's company is the best in the world.", " Bouchard's company is the best in the country"]}
+{"head": "Bouchard Transportation Co. began as a \u201cTrue American Story,\u201d when its founder, Capt. Fred Bouchard, formed the company with\u2026", "relation": "isAfter", "tails": [" Bouchard's company was founded by Fred Bouchard.", " Bouchard's company was founded by Fred Bouchard", " Bouchard's company was founded by Fred Bouchard's father."]}
+{"head": "Bouchard Transportation Co. began as a \u201cTrue American Story,\u201d when its founder, Capt. Fred Bouchard, formed the company with\u2026", "relation": "HasSubEvent", "tails": [" have a good reputation", " get a job", " get a promotion"]}
+{"head": "Bouchard Transportation Co. began as a \u201cTrue American Story,\u201d when its founder, Capt. Fred Bouchard, formed the company with\u2026", "relation": "Causes", "tails": [" good about themselves", " proud of his company", " proud of his company."]}
+{"head": "Bouchard Transportation Co. began as a \u201cTrue American Story,\u201d when its founder, Capt. Fred Bouchard, formed the company with\u2026", "relation": "xReason", "tails": [" Bouchard's company is a success.", " Bouchard's transportation company is a success.", " Bouchard's transportation company is a success story."]}
+{"head": "Bouchard Transportation Co.", "relation": "ObjectUse", "tails": [" get to their destination", " get to a destination", " get to the destination"]}
+{"head": "Bouchard Transportation Co.", "relation": "AtLocation", "tails": [" bus depot", " transportation company", " truck"]}
+{"head": "Bouchard Transportation Co.", "relation": "CapableOf", "tails": [" get to their destination", " get to destination", " get to the destination"]}
+{"head": "Bouchard Transportation Co.", "relation": "HasProperty", "tails": [" Bouchard Transportation Co.", " Bouchard Transportation", " Bouchard transportation company"]}
+{"head": "Bouchard Transportation Co.", "relation": "MadeUpOf", "tails": [" bus", " truck", " transportation"]}
+{"head": "Bouchard Transportation Co.", "relation": "NotDesires", "tails": [" Bouchard Transportation Co.", " Bouchard Transportation", " Bouchard transportation company"]}
+{"head": "Bouchard Transportation Co.", "relation": "Desires", "tails": [" to get to their destination on time", " to get to their destination", " to get to work on time"]}

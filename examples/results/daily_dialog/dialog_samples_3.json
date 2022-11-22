@@ -1,0 +1,467 @@
+{"head": "years", "relation": "ObjectUse", "tails": [" have a good life", " have a family", " have a child"]}
+{"head": "years", "relation": "AtLocation", "tails": [" old people's house", " old age home", " old people's home"]}
+{"head": "years", "relation": "CapableOf", "tails": [" spend time with family", " wait for marriage", " spend time with friends"]}
+{"head": "years", "relation": "HasProperty", "tails": [" many years", " long term", " years"]}
+{"head": "years", "relation": "MadeUpOf", "tails": [" years", " age", " time"]}
+{"head": "years", "relation": "NotDesires", "tails": [" have to go to doctor", " have to go to hospital", " get old"]}
+{"head": "years", "relation": "Desires", "tails": [" have a good life", " have a good time", " years of experience"]}
+{"head": "wind power", "relation": "ObjectUse", "tails": [" wind turbine", " windmill", " power a house"]}
+{"head": "wind power", "relation": "AtLocation", "tails": [" windmill", " power plant", " wind tunnel"]}
+{"head": "wind power", "relation": "CapableOf", "tails": [" power windmills", " wind turbine", " power wind turbine"]}
+{"head": "wind power", "relation": "HasProperty", "tails": [" windmills", " wind turbine", " wind turbines"]}
+{"head": "wind power", "relation": "MadeUpOf", "tails": [" wind turbine", " windmills", " windmill"]}
+{"head": "wind power", "relation": "NotDesires", "tails": [" wind turbine", " wind turbines", " windstorm"]}
+{"head": "wind power", "relation": "Desires", "tails": [" windmills", " windmill", " wind turbine"]}
+{"head": "wind", "relation": "ObjectUse", "tails": [" windmills", " blowing", " windmill"]}
+{"head": "wind", "relation": "AtLocation", "tails": [" wind chime", " windmill", " air"]}
+{"head": "wind", "relation": "CapableOf", "tails": [" wind", " blow", " heat up"]}
+{"head": "wind", "relation": "HasProperty", "tails": [" windmills", " wind", " strong"]}
+{"head": "wind", "relation": "MadeUpOf", "tails": [" windshear", " wind chime", " windchime"]}
+{"head": "wind", "relation": "NotDesires", "tails": [" windmills", " wind chill", " cold"]}
+{"head": "wind", "relation": "Desires", "tails": [" windmills", " warm air", " windy day"]}
+{"head": "use sources", "relation": "HinderedBy", "tails": [" learn from", " find out what is going on", " use as a reference"]}
+{"head": "use sources", "relation": "isBefore", "tails": [" learn from", " learn new things", " learn new information"]}
+{"head": "use sources", "relation": "isAfter", "tails": [" learn from", " learn new things", " learn new information"]}
+{"head": "use sources", "relation": "HasSubEvent", "tails": [" learn from", " learn new things", " learn about subject"]}
+{"head": "use sources", "relation": "Causes", "tails": [" learn from", " learn new things", " learn new information"]}
+{"head": "use sources", "relation": "xReason", "tails": [" learn from", " learn new things", " learn new information"]}
+{"head": "use power", "relation": "HinderedBy", "tails": [" power source", " power plant", " power"]}
+{"head": "use power", "relation": "isBefore", "tails": [" power plant", " power generator", " use electricity"]}
+{"head": "use power", "relation": "isAfter", "tails": [" power plant", " power source", " power"]}
+{"head": "use power", "relation": "HasSubEvent", "tails": [" get power from source", " get power back", " power plant"]}
+{"head": "use power", "relation": "Causes", "tails": [" power", " power plant", " power source"]}
+{"head": "use power", "relation": "xReason", "tails": [" power", " power plant", " power source"]}
+{"head": "use gases", "relation": "HinderedBy", "tails": [" use gas as a weapon", " use gas as fuel", " use gas as fuel in car"]}
+{"head": "use gases", "relation": "isBefore", "tails": [" burn fuel", " heat air", " heat up"]}
+{"head": "use gases", "relation": "isAfter", "tails": [" burn fuel", " heat up", " heat up air"]}
+{"head": "use gases", "relation": "HasSubEvent", "tails": [" burn fuel", " use oxygen", " burn"]}
+{"head": "use gases", "relation": "Causes", "tails": [" use as fuel", " use as a weapon", " use as fuel for engine"]}
+{"head": "use gases", "relation": "xReason", "tails": [" use as fuel", " use as a weapon", " use as fuel for engine"]}
+{"head": "use fuels", "relation": "HinderedBy", "tails": [" burn for fuel", " burn", " power vehicle"]}
+{"head": "use fuels", "relation": "isBefore", "tails": [" burn", " burn for fuel", " fuel vehicle"]}
+{"head": "use fuels", "relation": "isAfter", "tails": [" burn", " burn for fuel", " fuel train"]}
+{"head": "use fuels", "relation": "HasSubEvent", "tails": [" burn", " burn fuel", " fuel vehicle"]}
+{"head": "use fuels", "relation": "Causes", "tails": [" burn", " burn for fuel", " burn for energy"]}
+{"head": "use fuels", "relation": "xReason", "tails": [" burn", " burn for fuel", " burn for energy"]}
+{"head": "use energy", "relation": "HinderedBy", "tails": [" get out of house", " get out of debt", " get out of heat"]}
+{"head": "use energy", "relation": "isBefore", "tails": [" burn fuel", " burn", " power vehicle"]}
+{"head": "use energy", "relation": "isAfter", "tails": [" burn fuel", " burn calories", " use brain"]}
+{"head": "use energy", "relation": "HasSubEvent", "tails": [" get out of breath", " get out of bed", " get out of way"]}
+{"head": "use energy", "relation": "Causes", "tails": [" burn calories", " use brain", " use energy"]}
+{"head": "use energy", "relation": "xReason", "tails": [" burn fuel", " burn calories", " use energy"]}
+{"head": "to use", "relation": "HinderedBy", "tails": [" to use ", " to use", " to use  to use "]}
+{"head": "to use", "relation": "isBefore", "tails": [" to use", " to use ", " to use  to use "]}
+{"head": "to use", "relation": "isAfter", "tails": [" to use  to use ", " to use", " to use "]}
+{"head": "to use", "relation": "HasSubEvent", "tails": [" to use", " to use ", " to use  use "]}
+{"head": "to use", "relation": "Causes", "tails": [" to use", " to use ", " have to use"]}
+{"head": "to use", "relation": "xReason", "tails": [" to use", " to use  to use ", " to use "]}
+{"head": "to reduce", "relation": "HinderedBy", "tails": [" to reduce", " to reduce  to reduce ", " to reduce "]}
+{"head": "to reduce", "relation": "isBefore", "tails": [" to reduce carbon dioxide", " to reduce waste", " to reduce carbon emissions"]}
+{"head": "to reduce", "relation": "isAfter", "tails": [" to reduce carbon dioxide in air", " to reduce carbon dioxide", " to reduce the number of calories"]}
+{"head": "to reduce", "relation": "HasSubEvent", "tails": [" to reduce", " to reduce energy use", " to reduce energy consumption"]}
+{"head": "to reduce", "relation": "Causes", "tails": [" to reduce", " to reduce carbon dioxide", " to reduce carbon emissions"]}
+{"head": "to reduce", "relation": "xReason", "tails": [" to reduce carbon dioxide", " to reduce waste", " to reduce carbon emissions"]}
+{"head": "to provide", "relation": "HinderedBy", "tails": [" to provide", " to provide ", " to provide  to"]}
+{"head": "to provide", "relation": "isBefore", "tails": [" to provide", " to provide for others", " to provide "]}
+{"head": "to provide", "relation": "isAfter", "tails": [" to be able to provide", " to provide for others", " to provide"]}
+{"head": "to provide", "relation": "HasSubEvent", "tails": [" to provide", " to provide ", " to provide  provide"]}
+{"head": "to provide", "relation": "Causes", "tails": [" to provide", " to provide for others", " to provide "]}
+{"head": "to provide", "relation": "xReason", "tails": [" to provide", " to provide for others", " to provide for people"]}
+{"head": "to mean", "relation": "HinderedBy", "tails": [" to mean", " to mean ", " to mean something"]}
+{"head": "to mean", "relation": "isBefore", "tails": [" to mean", " to mean ", " to mean something"]}
+{"head": "to mean", "relation": "isAfter", "tails": [" to mean", " to mean something", " to mean "]}
+{"head": "to mean", "relation": "HasSubEvent", "tails": [" to mean", " to mean ", " to mean something"]}
+{"head": "to mean", "relation": "Causes", "tails": [" to mean", " to mean ", " none"]}
+{"head": "to mean", "relation": "xReason", "tails": [" to mean", " none", " to mean something"]}
+{"head": "to manage", "relation": "HinderedBy", "tails": [" to manage", " to manage ", " to manage  to manage"]}
+{"head": "to manage", "relation": "isBefore", "tails": [" to manage", " to manage the situation", " to manage things"]}
+{"head": "to manage", "relation": "isAfter", "tails": [" to be in charge", " to be in control", " to be organized"]}
+{"head": "to manage", "relation": "HasSubEvent", "tails": [" to manage", " learn how to do it", " learn how to do"]}
+{"head": "to manage", "relation": "Causes", "tails": [" to manage", " have to do", " to manage things"]}
+{"head": "to manage", "relation": "xReason", "tails": [" to manage", " to be in control", " to be in charge"]}
+{"head": "to invest", "relation": "HinderedBy", "tails": [" to invest", " to invest ", " to invest  money"]}
+{"head": "to invest", "relation": "isBefore", "tails": [" to invest", " buy stock", " to invest money"]}
+{"head": "to invest", "relation": "isAfter", "tails": [" invest in stock market", " buy stock", " to invest in stock market"]}
+{"head": "to invest", "relation": "HasSubEvent", "tails": [" to invest", " buy stock", " buy shares"]}
+{"head": "to invest", "relation": "Causes", "tails": [" buy stock", " have money", " invest in business"]}
+{"head": "to invest", "relation": "xReason", "tails": [" buy stock", " to invest", " have money"]}
+{"head": "to hope", "relation": "HinderedBy", "tails": [" to hope", " to hope for the best", " to hope for the future"]}
+{"head": "to hope", "relation": "isBefore", "tails": [" to hope for the best", " hope for the best", " to hope"]}
+{"head": "to hope", "relation": "isAfter", "tails": [" to hope for the best", " to be hopeful", " hope for the best"]}
+{"head": "to hope", "relation": "HasSubEvent", "tails": [" to hope for the best", " hope for the best", " to hope"]}
+{"head": "to hope", "relation": "Causes", "tails": [" to hope for the best", " to hope", " hope for the best"]}
+{"head": "to hope", "relation": "xReason", "tails": [" to hope for the best", " hope for the best", " to hope"]}
+{"head": "to heat", "relation": "HinderedBy", "tails": [" to heat", " to heat ", " to heat  up"]}
+{"head": "to heat", "relation": "isBefore", "tails": [" to heat up food", " boil water", " to heat food"]}
+{"head": "to heat", "relation": "isAfter", "tails": [" heat", " heat water", " boil water"]}
+{"head": "to heat", "relation": "HasSubEvent", "tails": [" to heat", " heat up food", " heat up"]}
+{"head": "to heat", "relation": "Causes", "tails": [" heat", " to heat", " heat source"]}
+{"head": "to heat", "relation": "xReason", "tails": [" heat", " to heat", " heat water"]}
+{"head": "to come", "relation": "HinderedBy", "tails": [" to come", " to come ", " to come  to"]}
+{"head": "to come", "relation": "isBefore", "tails": [" to come", " to come to the party", " to come back home"]}
+{"head": "to come", "relation": "isAfter", "tails": [" to go to the party", " to go to the concert", " to go to a concert"]}
+{"head": "to come", "relation": "HasSubEvent", "tails": [" to come", " get in car", " to come "]}
+{"head": "to come", "relation": "Causes", "tails": [" to come", " to come  to  come  to  come", " to come  to  come  to  come "]}
+{"head": "to come", "relation": "xReason", "tails": [" to come", " to come  to  come", " to come  to  come "]}
+{"head": "system", "relation": "ObjectUse", "tails": [" keep track of things", " keep track of data", " keep track of the data"]}
+{"head": "system", "relation": "AtLocation", "tails": [" computer", " office building", " computer system"]}
+{"head": "system", "relation": "CapableOf", "tails": [" check for errors", " use computer", " work on"]}
+{"head": "system", "relation": "HasProperty", "tails": [" found in computer", " found in computers", " computer"]}
+{"head": "system", "relation": "MadeUpOf", "tails": [" computer", " system", " computer system"]}
+{"head": "system", "relation": "NotDesires", "tails": [" computer crashes", " system failure", " system to fail"]}
+{"head": "system", "relation": "Desires", "tails": [" work well together", " work well", " computer"]}
+{"head": "sources", "relation": "ObjectUse", "tails": [" get information from", " use as a reference", " learn about the world"]}
+{"head": "sources", "relation": "AtLocation", "tails": [" book", " library", " newspaper"]}
+{"head": "sources", "relation": "CapableOf", "tails": [" use as reference material", " use as source material", " use as reference"]}
+{"head": "sources", "relation": "HasProperty", "tails": [" sources of information", " found in newspaper", " found in newspapers"]}
+{"head": "sources", "relation": "MadeUpOf", "tails": [" source code", " source of information", " sources"]}
+{"head": "sources", "relation": "NotDesires", "tails": [" find out what's going on", " find out what is going on", " get information from"]}
+{"head": "sources", "relation": "Desires", "tails": [" learn from", " get information from", " get information"]}
+{"head": "reduce consumption", "relation": "HinderedBy", "tails": [" eat less", " buy less food", " eat less food"]}
+{"head": "reduce consumption", "relation": "isBefore", "tails": [" eat less", " buy less food", " eat more healthy foods"]}
+{"head": "reduce consumption", "relation": "isAfter", "tails": [" eat less", " buy less food", " eat more healthy foods"]}
+{"head": "reduce consumption", "relation": "HasSubEvent", "tails": [" eat less", " buy less food", " eat more healthy foods"]}
+{"head": "reduce consumption", "relation": "Causes", "tails": [" eat less", " eat more healthy foods", " eat less food"]}
+{"head": "reduce consumption", "relation": "xReason", "tails": [" eat less", " buy less food", " eat less food"]}
+{"head": "recovery", "relation": "ObjectUse", "tails": [" recover from illness", " get a job", " make money"]}
+{"head": "recovery", "relation": "AtLocation", "tails": [" hospital", " bank", " hospital room"]}
+{"head": "recovery", "relation": "CapableOf", "tails": [" get out of debt", " recover from illness", " recover from injury"]}
+{"head": "recovery", "relation": "HasProperty", "tails": [" recover", " good", " recovery"]}
+{"head": "recovery", "relation": "MadeUpOf", "tails": [" recovery", " recover", " money"]}
+{"head": "recovery", "relation": "NotDesires", "tails": [" recover from illness", " recover from injury", " recover from depression"]}
+{"head": "recovery", "relation": "Desires", "tails": [" get back on track", " get back on their feet", " recover from illness"]}
+{"head": "provide energy", "relation": "HinderedBy", "tails": [" provide energy", " provide oxygen", " provide fuel"]}
+{"head": "provide energy", "relation": "isBefore", "tails": [" provide energy", " drink water", " power vehicle"]}
+{"head": "provide energy", "relation": "isAfter", "tails": [" drink water", " eat healthy food", " eat healthy foods"]}
+{"head": "provide energy", "relation": "HasSubEvent", "tails": [" get out of bed", " get out of breath", " drink water"]}
+{"head": "provide energy", "relation": "Causes", "tails": [" provide nourishment", " feel good", " provide energy"]}
+{"head": "provide energy", "relation": "xReason", "tails": [" provide nourishment", " provide energy", " provide energy to others"]}
+{"head": "printing presses", "relation": "ObjectUse", "tails": [" print a book", " print a magazine", " print out the magazine"]}
+{"head": "printing presses", "relation": "AtLocation", "tails": [" printer's shop", " printing press", " printer's office"]}
+{"head": "printing presses", "relation": "CapableOf", "tails": [" print magazine", " print newspaper", " press paper"]}
+{"head": "printing presses", "relation": "HasProperty", "tails": [" printed on paper", " printed on", " printed paper"]}
+{"head": "printing presses", "relation": "MadeUpOf", "tails": [" printing press", " printer's head", " printer"]}
+{"head": "printing presses", "relation": "NotDesires", "tails": [" print magazine", " printing paper", " print out magazine"]}
+{"head": "printing presses", "relation": "Desires", "tails": [" print magazine", " printing paper", " print out magazine"]}
+{"head": "printing", "relation": "ObjectUse", "tails": [" make a paper airplane", " make a paper mache airplane", " make a paper mache sculpture"]}
+{"head": "printing", "relation": "AtLocation", "tails": [" printer", " printing press", " computer"]}
+{"head": "printing", "relation": "CapableOf", "tails": [" print on paper", " print out", " print out document"]}
+{"head": "printing", "relation": "HasProperty", "tails": [" printed on paper", " printed on", " printed on metal"]}
+{"head": "printing", "relation": "MadeUpOf", "tails": [" printer", " print on paper", " printer ink"]}
+{"head": "printing", "relation": "NotDesires", "tails": [" print on paper", " print out of printer", " print out"]}
+{"head": "printing", "relation": "Desires", "tails": [" print on paper", " print out", " print out documents"]}
+{"head": "presses", "relation": "ObjectUse", "tails": [" make a paper airplane", " use as a paperweight", " use as a paper weight"]}
+{"head": "presses", "relation": "AtLocation", "tails": [" press box", " desk", " desk drawer"]}
+{"head": "presses", "relation": "CapableOf", "tails": [" press paper", " press button", " press buttons"]}
+{"head": "presses", "relation": "HasProperty", "tails": [" printed on paper", " printed on", " press paper"]}
+{"head": "presses", "relation": "MadeUpOf", "tails": [" press", " pressurization", " press paper"]}
+{"head": "presses", "relation": "NotDesires", "tails": [" press paper", " press", " press papers"]}
+{"head": "presses", "relation": "Desires", "tails": [" press paper", " make a paper airplane", " press paper to paper"]}
+{"head": "power", "relation": "ObjectUse", "tails": [" power the computer", " power a computer", " power the machine"]}
+{"head": "power", "relation": "AtLocation", "tails": [" power plant", " electricity", " power source"]}
+{"head": "power", "relation": "CapableOf", "tails": [" power computer", " power machine", " run computer"]}
+{"head": "power", "relation": "HasProperty", "tails": [" power source", " power", " power plant"]}
+{"head": "power", "relation": "MadeUpOf", "tails": [" power source", " power plant", " power supply"]}
+{"head": "power", "relation": "NotDesires", "tails": [" power", " power plant", " power outage"]}
+{"head": "power", "relation": "Desires", "tails": [" power", " power source", " power plant"]}
+{"head": "plants", "relation": "ObjectUse", "tails": [" plant in the garden", " grow in the garden", " plant in a garden"]}
+{"head": "plants", "relation": "AtLocation", "tails": [" garden", " plant nursery", " garden center"]}
+{"head": "plants", "relation": "CapableOf", "tails": [" plant in garden", " grow in garden", " plant seeds"]}
+{"head": "plants", "relation": "HasProperty", "tails": [" planted in garden", " planted in yard", " plants"]}
+{"head": "plants", "relation": "MadeUpOf", "tails": [" plant roots", " water", " plant root"]}
+{"head": "plants", "relation": "NotDesires", "tails": [" plants to die", " plants to grow", " grow in garden"]}
+{"head": "plants", "relation": "Desires", "tails": [" grow in garden", " plant in garden", " plant seeds in soil"]}
+{"head": "mean What", "relation": "HinderedBy", "tails": [" mean", " mean what", " mean something"]}
+{"head": "mean What", "relation": "isBefore", "tails": [" mean", " mean something", " mean what"]}
+{"head": "mean What", "relation": "isAfter", "tails": [" mean", " mean something", " none"]}
+{"head": "mean What", "relation": "HasSubEvent", "tails": [" mean", " think about", " understand"]}
+{"head": "mean What", "relation": "Causes", "tails": [" mean", " mean something", " none"]}
+{"head": "mean What", "relation": "xReason", "tails": [" mean", " none", " mean something"]}
+{"head": "manage that", "relation": "HinderedBy", "tails": [" make sure it's done right", " make sure it's done correctly", " make sure they don't get hurt"]}
+{"head": "manage that", "relation": "isBefore", "tails": [" get rid of it", " get rid of something", " get rid of the problem"]}
+{"head": "manage that", "relation": "isAfter", "tails": [" get rid of it", " get rid of something", " get rid of the problem"]}
+{"head": "manage that", "relation": "HasSubEvent", "tails": [" get out of the way", " get rid of it", " make sure it's done right"]}
+{"head": "manage that", "relation": "Causes", "tails": [" manage the situation", " have a good time", " manage things"]}
+{"head": "manage that", "relation": "xReason", "tails": [" have to do", " manage the situation", " have to pay for"]}
+{"head": "hydro electric plants", "relation": "ObjectUse", "tails": [" make electricity", " power a house", " power a home"]}
+{"head": "hydro electric plants", "relation": "AtLocation", "tails": [" power plant", " electricity", " power plants"]}
+{"head": "hydro electric plants", "relation": "CapableOf", "tails": [" heat water", " power electric vehicle", " power electric vehicles"]}
+{"head": "hydro electric plants", "relation": "HasProperty", "tails": [" electricity", " power", " power plants"]}
+{"head": "hydro electric plants", "relation": "MadeUpOf", "tails": [" electricity", " power", " power plant"]}
+{"head": "hydro electric plants", "relation": "NotDesires", "tails": [" power plants", " electricity", " power plant"]}
+{"head": "hydro electric plants", "relation": "Desires", "tails": [" power", " electricity", " power plants"]}
+{"head": "heat recovery system", "relation": "ObjectUse", "tails": [" use as a prop in a fire", " use as a prop in a movie", " heat up a car"]}
+{"head": "heat recovery system", "relation": "AtLocation", "tails": [" heat exchanger", " garage", " computer"]}
+{"head": "heat recovery system", "relation": "CapableOf", "tails": [" heat up food", " heat up water", " heat up"]}
+{"head": "heat recovery system", "relation": "HasProperty", "tails": [" heat exchanger", " heat pump", " heat exchangers"]}
+{"head": "heat recovery system", "relation": "MadeUpOf", "tails": [" heat exchanger", " heat shield", " heat pump"]}
+{"head": "heat recovery system", "relation": "NotDesires", "tails": [" heat exchanger", " heat", " heat shield"]}
+{"head": "heat recovery system", "relation": "Desires", "tails": [" heat exchanger", " heat", " cool down"]}
+{"head": "heat dryers", "relation": "HinderedBy", "tails": [" heat dryers", " heat dryer", " dry clothes"]}
+{"head": "heat dryers", "relation": "isBefore", "tails": [" dry clothes", " dry clothing", " dry clothes quickly"]}
+{"head": "heat dryers", "relation": "isAfter", "tails": [" dry clothes", " dry clothing", " dry clothes quickly"]}
+{"head": "heat dryers", "relation": "HasSubEvent", "tails": [" dry clothes", " dry clothing", " dry clothes with"]}
+{"head": "heat dryers", "relation": "Causes", "tails": [" dry clothes", " dry clothes quickly", " dry clothing"]}
+{"head": "heat dryers", "relation": "xReason", "tails": [" dry clothes", " dry clothes quickly", " dry clothing"]}
+{"head": "heat", "relation": "ObjectUse", "tails": [" heat up food", " heat food", " heat up"]}
+{"head": "heat", "relation": "AtLocation", "tails": [" heat exchanger", " refrigerator", " heat source"]}
+{"head": "heat", "relation": "CapableOf", "tails": [" heat up", " heat up food", " heat food"]}
+{"head": "heat", "relation": "HasProperty", "tails": [" heat", " hot", " cold"]}
+{"head": "heat", "relation": "MadeUpOf", "tails": [" heat", " heat exchanger", " heat source"]}
+{"head": "heat", "relation": "NotDesires", "tails": [" heat", " heat stroke", " heat wave"]}
+{"head": "heat", "relation": "Desires", "tails": [" heat", " heat water", " heat food"]}
+{"head": "gases", "relation": "ObjectUse", "tails": [" heat up food", " boil water", " heat up the food"]}
+{"head": "gases", "relation": "AtLocation", "tails": [" air", " gas tank", " gas station"]}
+{"head": "gases", "relation": "CapableOf", "tails": [" boil water", " heat water", " heat up"]}
+{"head": "gases", "relation": "HasProperty", "tails": [" made up of hydrogen and oxygen", " made up of atoms", " made up of atoms and molecules"]}
+{"head": "gases", "relation": "MadeUpOf", "tails": [" air", " heat", " gas"]}
+{"head": "gases", "relation": "NotDesires", "tails": [" heat", " boil water", " boil over"]}
+{"head": "gases", "relation": "Desires", "tails": [" boil water", " heat", " heat water"]}
+{"head": "future", "relation": "ObjectUse", "tails": [" plan for the future", " make a plan for the future", " plan for"]}
+{"head": "future", "relation": "AtLocation", "tails": [" future", " science fiction novel", " science fiction book"]}
+{"head": "future", "relation": "CapableOf", "tails": [" plan for future", " think about", " plan for"]}
+{"head": "future", "relation": "HasProperty", "tails": [" one day in the future", " future", " one day in the future."]}
+{"head": "future", "relation": "MadeUpOf", "tails": [" future", " time machine", " time"]}
+{"head": "future", "relation": "NotDesires", "tails": [" future", " bad news", " have to do"]}
+{"head": "future", "relation": "Desires", "tails": [" hope for the best", " hope for", " have a good life"]}
+{"head": "fuels", "relation": "ObjectUse", "tails": [" fuel the car", " fuel the vehicle", " fuel a car"]}
+{"head": "fuels", "relation": "AtLocation", "tails": [" fuel cell", " fuel", " fuel cells"]}
+{"head": "fuels", "relation": "CapableOf", "tails": [" burn for fuel", " fuel vehicle", " burn for energy"]}
+{"head": "fuels", "relation": "HasProperty", "tails": [" fuel cells", " fuel", " made from coal"]}
+{"head": "fuels", "relation": "MadeUpOf", "tails": [" fuel", " fuel cells", " fuel cell"]}
+{"head": "fuels", "relation": "NotDesires", "tails": [" fuel cell", " fuel", " fuel cells"]}
+{"head": "fuels", "relation": "Desires", "tails": [" fuel cars", " fuel vehicle", " fuel car"]}
+{"head": "fossil fuels", "relation": "ObjectUse", "tails": [" burn for fuel", " burn for heat", " fuel cars"]}
+{"head": "fossil fuels", "relation": "AtLocation", "tails": [" fossil fuel", " power plants", " fuel cell"]}
+{"head": "fossil fuels", "relation": "CapableOf", "tails": [" burn for fuel", " burn for energy", " burn for heat"]}
+{"head": "fossil fuels", "relation": "HasProperty", "tails": [" burned for fuel", " fuel cells", " burned for energy"]}
+{"head": "fossil fuels", "relation": "MadeUpOf", "tails": [" fuel", " fuel cells", " fuel cell"]}
+{"head": "fossil fuels", "relation": "NotDesires", "tails": [" power plants", " burn for fuel", " burn for energy"]}
+{"head": "fossil fuels", "relation": "Desires", "tails": [" fuel", " use in a power plant", " use in the future"]}
+{"head": "fossil", "relation": "ObjectUse", "tails": [" use as a weapon", " find in the desert", " find in the ground"]}
+{"head": "fossil", "relation": "AtLocation", "tails": [" fossils", " earth", " fossilized"]}
+{"head": "fossil", "relation": "CapableOf", "tails": [" dig for fossils", " dig up", " use as a weapon"]}
+{"head": "fossil", "relation": "HasProperty", "tails": [" fossils", " found in desert", " found on earth"]}
+{"head": "fossil", "relation": "MadeUpOf", "tails": [" fossils", " fossil", " fossilized"]}
+{"head": "fossil", "relation": "NotDesires", "tails": [" fossils", " fossilized", " found in museum"]}
+{"head": "fossil", "relation": "Desires", "tails": [" fossils", " fossilized", " find out more about"]}
+{"head": "factory", "relation": "ObjectUse", "tails": [" work in", " work at", " manufacturing products"]}
+{"head": "factory", "relation": "AtLocation", "tails": [" factory", " factory town", " factory building"]}
+{"head": "factory", "relation": "CapableOf", "tails": [" work in", " work in factory", " work at"]}
+{"head": "factory", "relation": "HasProperty", "tails": [" manufacturing plant", " found in factories", " factory"]}
+{"head": "factory", "relation": "MadeUpOf", "tails": [" factory floor", " manufacturing plant", " factory building"]}
+{"head": "factory", "relation": "NotDesires", "tails": [" factory", " work in", " manufacturing process"]}
+{"head": "factory", "relation": "Desires", "tails": [" work in", " manufacturing", " manufacturing process"]}
+{"head": "exhaust gases", "relation": "ObjectUse", "tails": [" exhaust fumes", " air pollution", " make a noise"]}
+{"head": "exhaust gases", "relation": "AtLocation", "tails": [" exhaust system", " exhaust pipe", " air conditioning unit"]}
+{"head": "exhaust gases", "relation": "CapableOf", "tails": [" exhaust from vehicle", " exhaust from car", " make noise"]}
+{"head": "exhaust gases", "relation": "HasProperty", "tails": [" exhaust gas", " exhaust fumes", " exhaust"]}
+{"head": "exhaust gases", "relation": "MadeUpOf", "tails": [" exhaust", " exhaust gas", " exhaust system"]}
+{"head": "exhaust gases", "relation": "NotDesires", "tails": [" exhaust fumes", " exhaust gas", " air pollution"]}
+{"head": "exhaust gases", "relation": "Desires", "tails": [" exhaust fumes", " exhaust gas", " air pollution"]}
+{"head": "exhaust", "relation": "ObjectUse", "tails": [" exhaust gas", " exhaust fumes", " use as a weapon"]}
+{"head": "exhaust", "relation": "AtLocation", "tails": [" exhaust pipe", " car", " exhaust system"]}
+{"head": "exhaust", "relation": "CapableOf", "tails": [" exhaust fumes", " exhaust gas", " blow nose"]}
+{"head": "exhaust", "relation": "HasProperty", "tails": [" exhaust gas", " exhaust pipe", " exhaust"]}
+{"head": "exhaust", "relation": "MadeUpOf", "tails": [" exhaust pipe", " exhaust", " exhaust gas"]}
+{"head": "exhaust", "relation": "NotDesires", "tails": [" get tired", " sleep", " get sick"]}
+{"head": "exhaust", "relation": "Desires", "tails": [" exhaust fumes", " exhaust gas", " feel tired"]}
+{"head": "energy consumption", "relation": "ObjectUse", "tails": [" power a car", " power the car", " power the house"]}
+{"head": "energy consumption", "relation": "AtLocation", "tails": [" power plant", " power plants", " electricity"]}
+{"head": "energy consumption", "relation": "CapableOf", "tails": [" heat up food", " power vehicle", " burn fuel"]}
+{"head": "energy consumption", "relation": "HasProperty", "tails": [" energy", " power plants", " energy consumption"]}
+{"head": "energy consumption", "relation": "MadeUpOf", "tails": [" energy", " power", " fuel cell"]}
+{"head": "energy consumption", "relation": "NotDesires", "tails": [" power plants", " power plant", " heat stroke"]}
+{"head": "energy consumption", "relation": "Desires", "tails": [" energy efficiency", " power vehicle", " energy efficient products"]}
+{"head": "energy", "relation": "ObjectUse", "tails": [" power the machine", " power a car", " power the car"]}
+{"head": "energy", "relation": "AtLocation", "tails": [" power plant", " electricity", " energy source"]}
+{"head": "energy", "relation": "CapableOf", "tails": [" heat up food", " power machine", " heat up water"]}
+{"head": "energy", "relation": "HasProperty", "tails": [" energy", " found in nature", " found in plants"]}
+{"head": "energy", "relation": "MadeUpOf", "tails": [" energy", " energy source", " power"]}
+{"head": "energy", "relation": "NotDesires", "tails": [" energy", " power", " heat"]}
+{"head": "energy", "relation": "Desires", "tails": [" energy", " feel good", " power"]}
+{"head": "dryers", "relation": "ObjectUse", "tails": [" dry clothes", " dry the clothes", " dry their clothes"]}
+{"head": "dryers", "relation": "AtLocation", "tails": [" dryer", " laundry room", " dryers"]}
+{"head": "dryers", "relation": "CapableOf", "tails": [" dry clothes", " dry wet clothes", " dry clothing"]}
+{"head": "dryers", "relation": "HasProperty", "tails": [" dry clothes", " dryer", " dryer sheets"]}
+{"head": "dryers", "relation": "MadeUpOf", "tails": [" dryer", " dryer sheets", " dryers"]}
+{"head": "dryers", "relation": "NotDesires", "tails": [" dry clothes", " dry clothes quickly", " drying clothes"]}
+{"head": "dryers", "relation": "Desires", "tails": [" dry clothes", " dry wet clothes", " dry clothing"]}
+{"head": "consumption", "relation": "ObjectUse", "tails": [" consume food", " get fat", " consume"]}
+{"head": "consumption", "relation": "AtLocation", "tails": [" food", " food store", " restaurant"]}
+{"head": "consumption", "relation": "CapableOf", "tails": [" eat food", " consume food", " drink water"]}
+{"head": "consumption", "relation": "HasProperty", "tails": [" food", " consumed", " eaten"]}
+{"head": "consumption", "relation": "MadeUpOf", "tails": [" food", " meat", " water"]}
+{"head": "consumption", "relation": "NotDesires", "tails": [" food poisoning", " have to pay for", " have to pay for it"]}
+{"head": "consumption", "relation": "Desires", "tails": [" have a good time", " food", " have a good life"]}
+{"head": "cent", "relation": "ObjectUse", "tails": [" pay for the item", " pay for the ticket", " pay for the food"]}
+{"head": "cent", "relation": "AtLocation", "tails": [" wallet", " dollar store", " penny"]}
+{"head": "cent", "relation": "CapableOf", "tails": [" pay for item", " pay for food", " pay for the item"]}
+{"head": "cent", "relation": "HasProperty", "tails": [" found in store", " found in vending machine", " found in vending machines"]}
+{"head": "cent", "relation": "MadeUpOf", "tails": [" penny", " dollar", " cents"]}
+{"head": "cent", "relation": "NotDesires", "tails": [" pay for something", " pay for item", " money"]}
+{"head": "cent", "relation": "Desires", "tails": [" pay for something", " money", " pay for the item"]}
+{"head": "alternative sources", "relation": "ObjectUse", "tails": [" find out what's going on in the world", " find out what is going on in the world", " find out what's going on"]}
+{"head": "alternative sources", "relation": "AtLocation", "tails": [" book store", " book", " computer"]}
+{"head": "alternative sources", "relation": "CapableOf", "tails": [" get information from", " find out more about alternative sources", " find out more about it"]}
+{"head": "alternative sources", "relation": "HasProperty", "tails": [" alternative to conventional sources", " alternative to traditional sources", " alternative to conventional information"]}
+{"head": "alternative sources", "relation": "MadeUpOf", "tails": [" source code", " alternative facts", " alternative to conventional sources"]}
+{"head": "alternative sources", "relation": "NotDesires", "tails": [" find out what is going on", " find out more about the subject", " get information from"]}
+{"head": "alternative sources", "relation": "Desires", "tails": [" learn new things", " learn new information", " find out more information"]}
+{"head": "What other sources of energy do you use ?", "relation": "xAttr", "tails": [" energy-hungry", " energy efficient", " power hungry"]}
+{"head": "What other sources of energy do you use ?", "relation": "xWant", "tails": [" to save energy", " to save money", " to make a fire"]}
+{"head": "What other sources of energy do you use ?", "relation": "xNeed", "tails": [" to have a source of energy", " to have a source of energy to use", " to have a source of energy to use."]}
+{"head": "What other sources of energy do you use ?", "relation": "xEffect", "tails": [" get energy from other sources of energy", " get energy from other sources", " get energy from other sources of energy."]}
+{"head": "What other sources of energy do you use ?", "relation": "HinderedBy", "tails": [" what other sources of energy do you use", " what other sources of energy do you use ?", " what other sources of energy do you have"]}
+{"head": "What other sources of energy do you use ?", "relation": "oWant", "tails": [" none", " to get a job", " to get a better job"]}
+{"head": "What other sources of energy do you use ?", "relation": "xReact", "tails": [" happy", " satisfied", " power"]}
+{"head": "What other sources of energy do you use ?", "relation": "oEffect", "tails": [" none", " get energy from other sources of energy", " get energy from other sources"]}
+{"head": "What other sources of energy do you use ?", "relation": "xIntent", "tails": [" power your home", " power the house", " power a home"]}
+{"head": "What other sources of energy do you use ?", "relation": "oReact", "tails": [" none", " like they have a better way to do things", " like they have a better way of doing things"]}
+{"head": "What other sources of energy do you use ?", "relation": "isBefore", "tails": [" what other sources of energy do you use", " what other sources of energy do you use ?", " what other sources of energy you use"]}
+{"head": "What other sources of energy do you use ?", "relation": "isAfter", "tails": [" what to use", " electricity", " what to do"]}
+{"head": "What other sources of energy do you use ?", "relation": "HasSubEvent", "tails": [" get energy from other sources of energy", " get energy from other sources", " get out of the house"]}
+{"head": "What other sources of energy do you use ?", "relation": "Causes", "tails": [" what other sources of energy do you use", " what other sources of energy do you use ?", " what other sources of energy you use"]}
+{"head": "What other sources of energy do you use ?", "relation": "xReason", "tails": [" what other sources of energy do you use", " what other sources of energy do you use ?", " what other sources of energy you use"]}
+{"head": "What does that mean exactly ?", "relation": "xAttr", "tails": [" understanding", " confused", " curious"]}
+{"head": "What does that mean exactly ?", "relation": "xWant", "tails": [" to understand what it means", " to understand what they mean", " to understand the meaning of it"]}
+{"head": "What does that mean exactly ?", "relation": "xNeed", "tails": [" none", " to think about what it means", " to think about it"]}
+{"head": "What does that mean exactly ?", "relation": "xEffect", "tails": [" none", " what does that mean exactly", " what does that mean exactly ?"]}
+{"head": "What does that mean exactly ?", "relation": "HinderedBy", "tails": [" what does that mean exactly", " what does that mean", " what does that mean exactly ?"]}
+{"head": "What does that mean exactly ?", "relation": "oWant", "tails": [" none", " to understand what it means", " to understand what they mean"]}
+{"head": "What does that mean exactly ?", "relation": "xReact", "tails": [" happy", " good", " confused"]}
+{"head": "What does that mean exactly ?", "relation": "oEffect", "tails": [" none", " they get a new job", " what is meant by it"]}
+{"head": "What does that mean exactly ?", "relation": "xIntent", "tails": [" none", " to be understood", " to be understood."]}
+{"head": "What does that mean exactly ?", "relation": "oReact", "tails": [" none", " confused", " happy"]}
+{"head": "What does that mean exactly ?", "relation": "isBefore", "tails": [" what does that mean", " what does that mean exactly", " what does it mean"]}
+{"head": "What does that mean exactly ?", "relation": "isAfter", "tails": [" what does that mean", " what does it mean", " what does that mean exactly"]}
+{"head": "What does that mean exactly ?", "relation": "HasSubEvent", "tails": [" understand what they are saying", " understand the meaning of the word", " understand what it means"]}
+{"head": "What does that mean exactly ?", "relation": "Causes", "tails": [" what does that mean", " what does that mean exactly", " what does that mean exactly ?"]}
+{"head": "What does that mean exactly ?", "relation": "xReason", "tails": [" what does that mean", " what does that mean exactly", " what does that mean exactly ?"]}
+{"head": "Well , we use the exhaust gases from our printing presses to provide energy to heat our dryers .", "relation": "xAttr", "tails": [" clean", " efficient", " creative"]}
+{"head": "Well , we use the exhaust gases from our printing presses to provide energy to heat our dryers .", "relation": "xWant", "tails": [" clean up the exhaust gas", " clean up the exhaust gases", " to make money"]}
+{"head": "Well , we use the exhaust gases from our printing presses to provide energy to heat our dryers .", "relation": "xNeed", "tails": [" to have a printer", " to have a press", " make a paper airplane"]}
+{"head": "Well , we use the exhaust gases from our printing presses to provide energy to heat our dryers .", "relation": "xEffect", "tails": [" heat the dryer", " heat up the dryer", " heat the dryers"]}
+{"head": "Well , we use the exhaust gases from our printing presses to provide energy to heat our dryers .", "relation": "HinderedBy", "tails": [" well , we use the exhaust gases from our printing presses to provide energy to heat our dryers", " well , we use the exhaust gases from our printing presses to provide energy to heat our dryers.", " well , we use the exhaust gases from our printing presses to provide energy to heat our dryers ."]}
+{"head": "Well , we use the exhaust gases from our printing presses to provide energy to heat our dryers .", "relation": "oWant", "tails": [" to heat the dryer", " to make money", " to heat the dryers"]}
+{"head": "Well , we use the exhaust gases from our printing presses to provide energy to heat our dryers .", "relation": "xReact", "tails": [" clean", " happy", " satisfied"]}
+{"head": "Well , we use the exhaust gases from our printing presses to provide energy to heat our dryers .", "relation": "oEffect", "tails": [" none", " heat the dryer", " heat up the dryer"]}
+{"head": "Well , we use the exhaust gases from our printing presses to provide energy to heat our dryers .", "relation": "xIntent", "tails": [" to make money", " to heat the house", " none"]}
+{"head": "Well , we use the exhaust gases from our printing presses to provide energy to heat our dryers .", "relation": "oReact", "tails": [" none", " clean", " clean air"]}
+{"head": "Well , we use the exhaust gases from our printing presses to provide energy to heat our dryers .", "relation": "isBefore", "tails": [" heat up the dryer", " heat up the dryers", " heat up the dryer."]}
+{"head": "Well , we use the exhaust gases from our printing presses to provide energy to heat our dryers .", "relation": "isAfter", "tails": [" dryer", " dryers", " dryer sheets"]}
+{"head": "Well , we use the exhaust gases from our printing presses to provide energy to heat our dryers .", "relation": "HasSubEvent", "tails": [" heat up the dryer", " heat up dryer", " heat up the dryers"]}
+{"head": "Well , we use the exhaust gases from our printing presses to provide energy to heat our dryers .", "relation": "Causes", "tails": [" well thought out", " well thought of", " clean"]}
+{"head": "Well , we use the exhaust gases from our printing presses to provide energy to heat our dryers .", "relation": "xReason", "tails": [" well , we use the exhaust gases from our printing presses to provide energy to heat our dryers", " well , we use the exhaust gases from our printing presses to provide energy to heat our dryers .", " well , we use the exhaust gases from our printing presses to provide energy to heat our dryers."]}
+{"head": "We've managed to reduce our energy consumption in our factory by about 15 per cent in the last two years .", "relation": "xAttr", "tails": [" efficient", " energy efficient", " responsible"]}
+{"head": "We've managed to reduce our energy consumption in our factory by about 15 per cent in the last two years .", "relation": "xWant", "tails": [" to make more money", " to make a profit", " to make more money."]}
+{"head": "We've managed to reduce our energy consumption in our factory by about 15 per cent in the last two years .", "relation": "xNeed", "tails": [" to make a plan to reduce energy consumption", " to make a plan to reduce the energy consumption", " to make a plan for reducing energy consumption"]}
+{"head": "We've managed to reduce our energy consumption in our factory by about 15 per cent in the last two years .", "relation": "xEffect", "tails": [" we are able to make more money", " we are able to make more money.", " we are able to produce more goods"]}
+{"head": "We've managed to reduce our energy consumption in our factory by about 15 per cent in the last two years .", "relation": "HinderedBy", "tails": [" we have a lot of energy in the factory", " we have a lot of energy in the factory.", " we have a lot of energy to use"]}
+{"head": "We've managed to reduce our energy consumption in our factory by about 15 per cent in the last two years .", "relation": "oWant", "tails": [" to be more efficient", " to be more efficient in the future", " to be more efficient in the future."]}
+{"head": "We've managed to reduce our energy consumption in our factory by about 15 per cent in the last two years .", "relation": "xReact", "tails": [" efficient", " happy", " satisfied"]}
+{"head": "We've managed to reduce our energy consumption in our factory by about 15 per cent in the last two years .", "relation": "oEffect", "tails": [" we are able to make more money", " we are able to make more money.", " we are able to produce more goods"]}
+{"head": "We've managed to reduce our energy consumption in our factory by about 15 per cent in the last two years .", "relation": "xIntent", "tails": [" to save money", " to be more efficient", " to save energy"]}
+{"head": "We've managed to reduce our energy consumption in our factory by about 15 per cent in the last two years .", "relation": "oReact", "tails": [" none", " energy efficient", " we have a lot of energy"]}
+{"head": "We've managed to reduce our energy consumption in our factory by about 15 per cent in the last two years .", "relation": "isBefore", "tails": [" we get a lot of work done at the factory", " we get a lot of work done", " we get a lot of work done in the factory"]}
+{"head": "We've managed to reduce our energy consumption in our factory by about 15 per cent in the last two years .", "relation": "isAfter", "tails": [" we are able to make more money", " we are able to do more with less", " we are able to make more money."]}
+{"head": "We've managed to reduce our energy consumption in our factory by about 15 per cent in the last two years .", "relation": "HasSubEvent", "tails": [" make more money", " get a new job", " get a raise"]}
+{"head": "We've managed to reduce our energy consumption in our factory by about 15 per cent in the last two years .", "relation": "Causes", "tails": [" energy efficient", " we are able to make more money", " we are able to do more with less"]}
+{"head": "We've managed to reduce our energy consumption in our factory by about 15 per cent in the last two years .", "relation": "xReason", "tails": [" have less money to spend on other things", " have less money to spend on other things.", " have less money to spend on things"]}
+{"head": "We're hoping to use even more energy from alternative sources in the future - perhaps even wind power .", "relation": "xAttr", "tails": [" energy efficient", " energy-efficient", " energy-hungry"]}
+{"head": "We're hoping to use even more energy from alternative sources in the future - perhaps even wind power .", "relation": "xWant", "tails": [" to save money", " to save money on electricity bills", " to save money on energy bills"]}
+{"head": "We're hoping to use even more energy from alternative sources in the future - perhaps even wind power .", "relation": "xNeed", "tails": [" to have a plan for how to use it", " to have a plan for how to use the energy", " to have a plan for how to use the energy."]}
+{"head": "We're hoping to use even more energy from alternative sources in the future - perhaps even wind power .", "relation": "xEffect", "tails": [" get a better job", " get a new job", " power plants"]}
+{"head": "We're hoping to use even more energy from alternative sources in the future - perhaps even wind power .", "relation": "HinderedBy", "tails": [" we need to save money for the future", " we need to save money for the future.", " we need to save money"]}
+{"head": "We're hoping to use even more energy from alternative sources in the future - perhaps even wind power .", "relation": "oWant", "tails": [" to get more energy from alternative sources", " to get a better deal", " to get more energy from alternative sources."]}
+{"head": "We're hoping to use even more energy from alternative sources in the future - perhaps even wind power .", "relation": "xReact", "tails": [" good about themselves", " happy", " hopeful"]}
+{"head": "We're hoping to use even more energy from alternative sources in the future - perhaps even wind power .", "relation": "oEffect", "tails": [" power plant", " power plants", " get a job"]}
+{"head": "We're hoping to use even more energy from alternative sources in the future - perhaps even wind power .", "relation": "xIntent", "tails": [" to save money", " to save energy", " to be more efficient"]}
+{"head": "We're hoping to use even more energy from alternative sources in the future - perhaps even wind power .", "relation": "oReact", "tails": [" none", " power plants", " power"]}
+{"head": "We're hoping to use even more energy from alternative sources in the future - perhaps even wind power .", "relation": "isBefore", "tails": [" power plants", " energy efficiency", " we are trying to save money"]}
+{"head": "We're hoping to use even more energy from alternative sources in the future - perhaps even wind power .", "relation": "isAfter", "tails": [" power plants", " power plant", " energy efficiency"]}
+{"head": "We're hoping to use even more energy from alternative sources in the future - perhaps even wind power .", "relation": "HasSubEvent", "tails": [" get more energy from alternative sources", " get a better job", " get a job"]}
+{"head": "We're hoping to use even more energy from alternative sources in the future - perhaps even wind power .", "relation": "Causes", "tails": [" energy efficient", " we need to save money", " we are trying to save money"]}
+{"head": "We're hoping to use even more energy from alternative sources in the future - perhaps even wind power .", "relation": "xReason", "tails": [" we need to save money for the future", " we need to save money", " we need to save money for the future."]}
+{"head": "We don't use any fossil fuels .", "relation": "xAttr", "tails": [" environmentally conscious", " environmentally friendly", " clean"]}
+{"head": "We don't use any fossil fuels .", "relation": "xWant", "tails": [" to save the planet", " to save the environment", " to be environmentally friendly"]}
+{"head": "We don't use any fossil fuels .", "relation": "xNeed", "tails": [" to be environmentally conscious", " to be environmentally friendly", " none"]}
+{"head": "We don't use any fossil fuels .", "relation": "xEffect", "tails": [" is environmentally friendly", " none", " is environmentally friendly."]}
+{"head": "We don't use any fossil fuels .", "relation": "HinderedBy", "tails": [" we don't have the money to pay for it.", " we don't have the money to pay for it", " we don't have to use any fossil fuel."]}
+{"head": "We don't use any fossil fuels .", "relation": "oWant", "tails": [" none", " to be environmentally friendly", " to get a job"]}
+{"head": "We don't use any fossil fuels .", "relation": "xReact", "tails": [" happy", " clean", " proud"]}
+{"head": "We don't use any fossil fuels .", "relation": "oEffect", "tails": [" none", " get a new job", " get a new car"]}
+{"head": "We don't use any fossil fuels .", "relation": "xIntent", "tails": [" to be environmentally friendly", " to save the planet", " to save the environment"]}
+{"head": "We don't use any fossil fuels .", "relation": "oReact", "tails": [" none", " like they have a better way to live", " like they are doing something good for the environment"]}
+{"head": "We don't use any fossil fuels .", "relation": "isBefore", "tails": [" we live in a world without fossil fuels", " we live in a clean environment", " we live in a world without fossil fuel"]}
+{"head": "We don't use any fossil fuels .", "relation": "isAfter", "tails": [" we live in a world without fossil fuels", " we live in a clean environment", " we live in a world without fossil fuel"]}
+{"head": "We don't use any fossil fuels .", "relation": "HasSubEvent", "tails": [" get a job", " get a new job", " use less energy"]}
+{"head": "We don't use any fossil fuels .", "relation": "Causes", "tails": [" we don't have to pay for it", " we don't have to pay for it.", " we don't have to use fossil fuel."]}
+{"head": "We don't use any fossil fuels .", "relation": "xReason", "tails": [" we live in a world without fossil fuels", " we live in a clean environment", " we live in a world without fossil fuels."]}
+{"head": "That's excellent .", "relation": "xAttr", "tails": [" happy", " proud", " good"]}
+{"head": "That's excellent .", "relation": "xWant", "tails": [" to celebrate", " to show off", " to be happy"]}
+{"head": "That's excellent .", "relation": "xNeed", "tails": [" none", " that's good", " to have a job"]}
+{"head": "That's excellent .", "relation": "xEffect", "tails": [" none", " that's good", " that's excellent"]}
+{"head": "That's excellent .", "relation": "HinderedBy", "tails": [" that's good", " that's excellent", " that's good."]}
+{"head": "That's excellent .", "relation": "oWant", "tails": [" none", " to tell others about it", " to tell everyone about it"]}
+{"head": "That's excellent .", "relation": "xReact", "tails": [" happy", " good", " satisfied"]}
+{"head": "That's excellent .", "relation": "oEffect", "tails": [" none", " they get a promotion", " that's excellent"]}
+{"head": "That's excellent .", "relation": "xIntent", "tails": [" none", " to be a good person", " to be a good person."]}
+{"head": "That's excellent .", "relation": "oReact", "tails": [" none", " happy", " happy."]}
+{"head": "That's excellent .", "relation": "isBefore", "tails": [" that's good", " that's excellent", " that's a good thing"]}
+{"head": "That's excellent .", "relation": "isAfter", "tails": [" that's good", " that's a good thing", " that's a good job"]}
+{"head": "That's excellent .", "relation": "HasSubEvent", "tails": [" get a promotion", " that's excellent", " that's good"]}
+{"head": "That's excellent .", "relation": "Causes", "tails": [" that's good", " that's excellent", " that's good."]}
+{"head": "That's excellent .", "relation": "xReason", "tails": [" that's good", " that it's a good thing", " that it's good"]}
+{"head": "Most of our power comes from hydro-electric plants .", "relation": "xAttr", "tails": [" power", " powerful", " capable"]}
+{"head": "Most of our power comes from hydro-electric plants .", "relation": "xWant", "tails": [" to run a business", " to run the power plant", " to make electricity"]}
+{"head": "Most of our power comes from hydro-electric plants .", "relation": "xNeed", "tails": [" power plants", " power plant", " none"]}
+{"head": "Most of our power comes from hydro-electric plants .", "relation": "xEffect", "tails": [" most of our power comes from hydro-electric plants", " most of our electricity comes from hydro-electric plants", " most of our electricity comes from hydro-electric plants."]}
+{"head": "Most of our power comes from hydro-electric plants .", "relation": "HinderedBy", "tails": [" most of our power comes from hydro-electric plants", " most of our power comes from hydro-electric plants.", " most of our power comes from hydroelectric plants"]}
+{"head": "Most of our power comes from hydro-electric plants .", "relation": "oWant", "tails": [" none", " to make money", " to make electricity"]}
+{"head": "Most of our power comes from hydro-electric plants .", "relation": "xReact", "tails": [" power", " happy", " powerful"]}
+{"head": "Most of our power comes from hydro-electric plants .", "relation": "oEffect", "tails": [" none", " power plant", " power plants"]}
+{"head": "Most of our power comes from hydro-electric plants .", "relation": "xIntent", "tails": [" power", " none", " power plants"]}
+{"head": "Most of our power comes from hydro-electric plants .", "relation": "oReact", "tails": [" none", " power", " power plants"]}
+{"head": "Most of our power comes from hydro-electric plants .", "relation": "isBefore", "tails": [" most of our electricity comes from hydro-electric plants", " most of our power comes from hydro-electric plants", " most of our electricity comes from hydroelectric plants"]}
+{"head": "Most of our power comes from hydro-electric plants .", "relation": "isAfter", "tails": [" power plants", " electricity", " power plant"]}
+{"head": "Most of our power comes from hydro-electric plants .", "relation": "HasSubEvent", "tails": [" most of our power comes from hydro-electric plants", " most of our electricity comes from hydro-electric plants", " most of our electricity comes from hydro-electric plants."]}
+{"head": "Most of our power comes from hydro-electric plants .", "relation": "Causes", "tails": [" most of our power comes from hydro-electric plants", " most of our electricity comes from hydro-electric plants", " most of our power comes from hydroelectric plants"]}
+{"head": "Most of our power comes from hydro-electric plants .", "relation": "xReason", "tails": [" most of our power comes from hydro-electric plants", " most of our electricity comes from hydro-electric plants", " most of our electricity comes from hydro-electric plants."]}
+{"head": "Mainly because we've invested in a heat recovery system .", "relation": "xAttr", "tails": [" warm", " cold", " smart"]}
+{"head": "Mainly because we've invested in a heat recovery system .", "relation": "xWant", "tails": [" to keep the house warm", " to save money", " to keep the house cool"]}
+{"head": "Mainly because we've invested in a heat recovery system .", "relation": "xNeed", "tails": [" make sure it works", " make sure the system is working properly", " make sure the system is working"]}
+{"head": "Mainly because we've invested in a heat recovery system .", "relation": "xEffect", "tails": [" gets hot", " gets cold", " heat is lost"]}
+{"head": "Mainly because we've invested in a heat recovery system .", "relation": "HinderedBy", "tails": [" mainly because we don't have the money to invest in a heat recovery system.", " mainly because we don't have the money to invest in a heat recovery system", " mainly because we don't have the money to invest in it."]}
+{"head": "Mainly because we've invested in a heat recovery system .", "relation": "oWant", "tails": [" none", " to make sure it works", " to make sure the system works"]}
+{"head": "Mainly because we've invested in a heat recovery system .", "relation": "xReact", "tails": [" warm", " happy", " cool"]}
+{"head": "Mainly because we've invested in a heat recovery system .", "relation": "oEffect", "tails": [" none", " heat is lost", " get's hot"]}
+{"head": "Mainly because we've invested in a heat recovery system .", "relation": "xIntent", "tails": [" to save money", " to save energy", " to keep warm"]}
+{"head": "Mainly because we've invested in a heat recovery system .", "relation": "oReact", "tails": [" none", " warm", " happy"]}
+{"head": "Mainly because we've invested in a heat recovery system .", "relation": "isBefore", "tails": [" cools the house down", " warm house", " cools down the house"]}
+{"head": "Mainly because we've invested in a heat recovery system .", "relation": "isAfter", "tails": [" heat in the house", " warm house", " heat in house"]}
+{"head": "Mainly because we've invested in a heat recovery system .", "relation": "HasSubEvent", "tails": [" get a good night's sleep", " heat up the house", " get a good night's rest"]}
+{"head": "Mainly because we've invested in a heat recovery system .", "relation": "Causes", "tails": [" warm house", " warm", " cool"]}
+{"head": "Mainly because we've invested in a heat recovery system .", "relation": "xReason", "tails": [" warm house", " warm", " heat loss"]}
+{"head": "How have you managed that ?", "relation": "xAttr", "tails": [" hardworking", " hard-working", " successful"]}
+{"head": "How have you managed that ?", "relation": "xWant", "tails": [" to be successful", " to get a promotion", " to show off"]}
+{"head": "How have you managed that ?", "relation": "xNeed", "tails": [" none", " to work hard", " to have a plan"]}
+{"head": "How have you managed that ?", "relation": "xEffect", "tails": [" get a promotion", " none", " gets a promotion"]}
+{"head": "How have you managed that ?", "relation": "HinderedBy", "tails": [" how to do it", " how to do that", " how do you do it"]}
+{"head": "How have you managed that ?", "relation": "oWant", "tails": [" none", " to thank you", " to thank him"]}
+{"head": "How have you managed that ?", "relation": "xReact", "tails": [" accomplished", " proud", " happy"]}
+{"head": "How have you managed that ?", "relation": "oEffect", "tails": [" none", " get a promotion", " get a raise"]}
+{"head": "How have you managed that ?", "relation": "xIntent", "tails": [" to be successful", " none", " to be a success"]}
+{"head": "How have you managed that ?", "relation": "oReact", "tails": [" none", " happy", " happy."]}
+{"head": "How have you managed that ?", "relation": "isBefore", "tails": [" how do you do it", " how to do it", " how do you do that"]}
+{"head": "How have you managed that ?", "relation": "isAfter", "tails": [" how to do it", " how to do that", " how to get there"]}
+{"head": "How have you managed that ?", "relation": "HasSubEvent", "tails": [" get a promotion", " get a raise", " how to do it"]}
+{"head": "How have you managed that ?", "relation": "Causes", "tails": [" how to do it", " how do you do it", " how to do that"]}
+{"head": "How have you managed that ?", "relation": "xReason", "tails": [" how to do it", " how do you do it", " how to do that"]}
+{"head": "15 cent", "relation": "ObjectUse", "tails": [" pay for the item", " pay for the ticket", " pay for the food"]}
+{"head": "15 cent", "relation": "AtLocation", "tails": [" wallet", " pocket", " penny"]}
+{"head": "15 cent", "relation": "CapableOf", "tails": [" pay for item", " pay for the item", " pay for the ticket"]}
+{"head": "15 cent", "relation": "HasProperty", "tails": [" found in vending machine", " found in store", " found in grocery store"]}
+{"head": "15 cent", "relation": "MadeUpOf", "tails": [" penny", " coins", " coinlet"]}
+{"head": "15 cent", "relation": "NotDesires", "tails": [" pay for something", " pay for the item", " pay for a ticket"]}
+{"head": "15 cent", "relation": "Desires", "tails": [" pay for something", " pay for a meal", " pay for the item"]}

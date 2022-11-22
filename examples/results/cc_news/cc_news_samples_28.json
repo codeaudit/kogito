@@ -1,0 +1,150 @@
+{"head": "use", "relation": "ObjectUse", "tails": [" use as a weapon", " use as a prop in a play", " use as a prop in a movie"]}
+{"head": "use", "relation": "AtLocation", "tails": [" use as a weapon", " use as toilet paper", " use as weapon"]}
+{"head": "use", "relation": "CapableOf", "tails": [" clean up mess", " use pencil to write", " use pencil to write letter"]}
+{"head": "use", "relation": "HasProperty", "tails": [" use as a weapon", " use as weapon", " use as a tool"]}
+{"head": "use", "relation": "MadeUpOf", "tails": [" use as a weapon", " use as weapon", " use as a tool"]}
+{"head": "use", "relation": "NotDesires", "tails": [" have to pay for", " get sick", " have to do"]}
+{"head": "use", "relation": "Desires", "tails": [" use as a weapon", " use as a tool", " use as a prop"]}
+{"head": "to meet", "relation": "HinderedBy", "tails": [" to meet", " to meet ", " to meet someone"]}
+{"head": "to meet", "relation": "isBefore", "tails": [" to meet someone", " to meet", " meet new people"]}
+{"head": "to meet", "relation": "isAfter", "tails": [" meet new people", " meet new person", " meet someone"]}
+{"head": "to meet", "relation": "HasSubEvent", "tails": [" to meet", " get ready for meeting", " to meet "]}
+{"head": "to meet", "relation": "Causes", "tails": [" meet new people", " to meet", " to meet someone"]}
+{"head": "to meet", "relation": "xReason", "tails": [" meet new people", " to meet someone", " meet new person"]}
+{"head": "to emerge", "relation": "HinderedBy", "tails": [" to emerge", " to emerge ", " to get out of the water"]}
+{"head": "to emerge", "relation": "isBefore", "tails": [" to get out of the water", " to go to the bathroom", " to get out of the car"]}
+{"head": "to emerge", "relation": "isAfter", "tails": [" to get out of the water", " to go to the bathroom", " to get out of the car"]}
+{"head": "to emerge", "relation": "HasSubEvent", "tails": [" to emerge", " get out of car", " get out of way"]}
+{"head": "to emerge", "relation": "Causes", "tails": [" to emerge", " to emerge ", " to emerge  from"]}
+{"head": "to emerge", "relation": "xReason", "tails": [" to emerge", " get out of water", " get out of way"]}
+{"head": "to discuss", "relation": "HinderedBy", "tails": [" to discuss", " to discuss ", " to discuss something"]}
+{"head": "to discuss", "relation": "isBefore", "tails": [" to discuss", " listen to", " have a meeting"]}
+{"head": "to discuss", "relation": "isAfter", "tails": [" meeting", " meeting with others", " meeting with people"]}
+{"head": "to discuss", "relation": "HasSubEvent", "tails": [" to discuss", " listen to", " talk to others"]}
+{"head": "to discuss", "relation": "Causes", "tails": [" to discuss", " listen to", " have a conversation"]}
+{"head": "to discuss", "relation": "xReason", "tails": [" to discuss", " listen to", " have a conversation"]}
+{"head": "threats", "relation": "ObjectUse", "tails": [" threaten someone with", " threaten someone", " scare people"]}
+{"head": "threats", "relation": "AtLocation", "tails": [" school", " prison", " movie"]}
+{"head": "threats", "relation": "CapableOf", "tails": [" threaten to do something", " threaten to hurt", " scare people"]}
+{"head": "threats", "relation": "HasProperty", "tails": [" dangerous", " threatening", " threatened with"]}
+{"head": "threats", "relation": "MadeUpOf", "tails": ["              ", "             ", "               "]}
+{"head": "threats", "relation": "NotDesires", "tails": [" threaten to do something", " threaten to do something bad", " threaten someone"]}
+{"head": "threats", "relation": "Desires", "tails": [" threaten someone", " scare people", " threaten someone with"]}
+{"head": "television", "relation": "ObjectUse", "tails": [" turn on", " watch the news", " watch news"]}
+{"head": "television", "relation": "AtLocation", "tails": [" television set", " tv show", " television"]}
+{"head": "television", "relation": "CapableOf", "tails": [" turn on", " watch news", " watch news programs"]}
+{"head": "television", "relation": "HasProperty", "tails": [" televisions", " television", " found in home"]}
+{"head": "television", "relation": "MadeUpOf", "tails": [" television set", " televisions", " television"]}
+{"head": "television", "relation": "NotDesires", "tails": [" watch tv", " watch", " watch movie"]}
+{"head": "television", "relation": "Desires", "tails": [" watch tv", " watch news", " watch"]}
+{"head": "protocol", "relation": "ObjectUse", "tails": [" follow the rules of the game", " follow the rules", " follow the rules of the business"]}
+{"head": "protocol", "relation": "AtLocation", "tails": [" office building", " office", " classroom"]}
+{"head": "protocol", "relation": "CapableOf", "tails": [" follow rules", " write down", " write down notes"]}
+{"head": "protocol", "relation": "HasProperty", "tails": [" protected by law", " protected by laws", " protected by law."]}
+{"head": "protocol", "relation": "MadeUpOf", "tails": ["             ", "              ", "            "]}
+{"head": "protocol", "relation": "NotDesires", "tails": [" have to follow", " have to follow rules", " get in trouble"]}
+{"head": "protocol", "relation": "Desires", "tails": [" have rules to follow", " follow rules", " protect person from harm"]}
+{"head": "property", "relation": "ObjectUse", "tails": [" rent out to others", " buy for money", " rent out to someone"]}
+{"head": "property", "relation": "AtLocation", "tails": [" apartment building", " house", " building"]}
+{"head": "property", "relation": "CapableOf", "tails": [" build house", " build house on", " buy from seller"]}
+{"head": "property", "relation": "HasProperty", "tails": [" built on", " found in many places", " found in house"]}
+{"head": "property", "relation": "MadeUpOf", "tails": [" property deed", " property tax", " property line"]}
+{"head": "property", "relation": "NotDesires", "tails": [" have to pay taxes on", " have to pay for", " have to pay rent"]}
+{"head": "property", "relation": "Desires", "tails": [" have a home", " buy for money", " buy and sell"]}
+{"head": "particularly illegal use", "relation": "ObjectUse", "tails": [" make money", " use drugs", " make money from"]}
+{"head": "particularly illegal use", "relation": "AtLocation", "tails": [" drug store", " drugstore", " drug dealer"]}
+{"head": "particularly illegal use", "relation": "CapableOf", "tails": [" use drugs", " get arrested", " get arrested for"]}
+{"head": "particularly illegal use", "relation": "HasProperty", "tails": [" illegal", " illegal drugs", " bad for health"]}
+{"head": "particularly illegal use", "relation": "MadeUpOf", "tails": [" illegal drugs", " drug", " illegal substances"]}
+{"head": "particularly illegal use", "relation": "NotDesires", "tails": [" get arrested", " get caught", " illegal drugs"]}
+{"head": "particularly illegal use", "relation": "Desires", "tails": [" get high", " use drugs", " have fun"]}
+{"head": "intellectual property crime", "relation": "ObjectUse", "tails": [" make money off of", " make money", " make money off of."]}
+{"head": "intellectual property crime", "relation": "AtLocation", "tails": [" criminal organization", " jail", " criminal activity"]}
+{"head": "intellectual property crime", "relation": "CapableOf", "tails": [" make money", " get caught", " get arrested"]}
+{"head": "intellectual property crime", "relation": "HasProperty", "tails": [" criminal activity", " illegal", " criminal"]}
+{"head": "intellectual property crime", "relation": "MadeUpOf", "tails": [" intellectual property", " criminal activity", " intellectual property theft"]}
+{"head": "intellectual property crime", "relation": "NotDesires", "tails": [" criminal activity", " get caught", " get arrested"]}
+{"head": "intellectual property crime", "relation": "Desires", "tails": [" make money", " make money from intellectual property", " make money off of stolen property"]}
+{"head": "emerging threats", "relation": "ObjectUse", "tails": [" scare people", " scare people with", " scare people away"]}
+{"head": "emerging threats", "relation": "AtLocation", "tails": [" terroristic attacks", " terroristic incidents", " terrorism"]}
+{"head": "emerging threats", "relation": "CapableOf", "tails": [" scare people", " warn of danger", " scare people with"]}
+{"head": "emerging threats", "relation": "HasProperty", "tails": [" dangerous", " scary", " threatened"]}
+{"head": "emerging threats", "relation": "MadeUpOf", "tails": [" scaremongers", " scare people", " scaremongering"]}
+{"head": "emerging threats", "relation": "NotDesires", "tails": [" scare people", " scare others", " scare people with"]}
+{"head": "emerging threats", "relation": "Desires", "tails": [" scare people", " warn others", " warn others of"]}
+{"head": "discuss use", "relation": "HinderedBy", "tails": [" talk about", " have a discussion", " talk to others"]}
+{"head": "discuss use", "relation": "isBefore", "tails": [" listen to", " listen to arguments", " listen to person"]}
+{"head": "discuss use", "relation": "isAfter", "tails": [" have discussion", " have conversation", " have discussion about"]}
+{"head": "discuss use", "relation": "HasSubEvent", "tails": [" talk to others", " get to know someone", " talk to others about use"]}
+{"head": "discuss use", "relation": "Causes", "tails": [" talk about", " talk to others", " talk to someone"]}
+{"head": "discuss use", "relation": "xReason", "tails": [" have discussion", " have a discussion", " have a conversation"]}
+{"head": "discuss threats", "relation": "HinderedBy", "tails": [" listen to", " talk about", " talk to people"]}
+{"head": "discuss threats", "relation": "isBefore", "tails": [" listen to", " talk to police", " talk to people"]}
+{"head": "discuss threats", "relation": "isAfter", "tails": [" listen to", " talk to police", " talk about"]}
+{"head": "discuss threats", "relation": "HasSubEvent", "tails": [" talk to others", " talk to people", " listen to"]}
+{"head": "discuss threats", "relation": "Causes", "tails": [" talk about", " listen to", " talk to someone"]}
+{"head": "discuss threats", "relation": "xReason", "tails": [" listen to", " talk about", " listen to person"]}
+{"head": "crime", "relation": "ObjectUse", "tails": [" get away with", " get arrested for", " get arrested"]}
+{"head": "crime", "relation": "AtLocation", "tails": [" jail", " prison", " jail cell"]}
+{"head": "crime", "relation": "CapableOf", "tails": [" commit crime", " run away", " run away from"]}
+{"head": "crime", "relation": "HasProperty", "tails": [" criminal activity", " criminal behavior", " guilty of crime"]}
+{"head": "crime", "relation": "MadeUpOf", "tails": [" crime", " criminal behavior", " criminal activity"]}
+{"head": "crime", "relation": "NotDesires", "tails": [" criminal behavior", " criminal activity", " crime"]}
+{"head": "crime", "relation": "Desires", "tails": [" run away from", " get caught", " run away"]}
+{"head": "Scottish Police College", "relation": "ObjectUse", "tails": [" learn about law enforcement", " learn about police work", " learning about police work"]}
+{"head": "Scottish Police College", "relation": "AtLocation", "tails": [" police academy", " police station", " school"]}
+{"head": "Scottish Police College", "relation": "CapableOf", "tails": [" learn to be a police officer", " learn about law enforcement", " learn about police work"]}
+{"head": "Scottish Police College", "relation": "HasProperty", "tails": [" taught by police officers", " found at police academy", " found at police station"]}
+{"head": "Scottish Police College", "relation": "MadeUpOf", "tails": [" police uniform", " police car", " police academy"]}
+{"head": "Scottish Police College", "relation": "NotDesires", "tails": [" learn new skills", " learn about police work", " learning about police"]}
+{"head": "Scottish Police College", "relation": "Desires", "tails": [" to be a police officer", " to be a police officer.", " to learn about police work"]}
+{"head": "Internet protocol television", "relation": "ObjectUse", "tails": [" access the internet", " watch a movie", " use as a flashlight"]}
+{"head": "Internet protocol television", "relation": "AtLocation", "tails": [" internet cafe", " television", " internet"]}
+{"head": "Internet protocol television", "relation": "CapableOf", "tails": [" watch television", " watch video", " use internet connection"]}
+{"head": "Internet protocol television", "relation": "HasProperty", "tails": [" connected to internet", " connected to the internet", " connected to computer"]}
+{"head": "Internet protocol television", "relation": "MadeUpOf", "tails": [" internet connection", " internet", " television"]}
+{"head": "Internet protocol television", "relation": "NotDesires", "tails": [" access to internet", " access to the internet", " internet connection"]}
+{"head": "Internet protocol television", "relation": "Desires", "tails": [" access to the internet", " access to internet", " access to the internet."]}
+{"head": "Internet", "relation": "ObjectUse", "tails": [" access the internet", " connect to the internet", " search for information"]}
+{"head": "Internet", "relation": "AtLocation", "tails": [" internet cafe", " computer", " internet connection"]}
+{"head": "Internet", "relation": "CapableOf", "tails": [" search for information", " connect to internet", " search for things online"]}
+{"head": "Internet", "relation": "HasProperty", "tails": [" found in many places", " found on internet", " found on computer"]}
+{"head": "Internet", "relation": "MadeUpOf", "tails": [" internet connection", " computer", " Internet connection"]}
+{"head": "Internet", "relation": "NotDesires", "tails": [" access to internet", " search for information", " access to information"]}
+{"head": "Internet", "relation": "Desires", "tails": [" access to world wide web", " search for information", " access to internet"]}
+{"head": "IPTV", "relation": "ObjectUse", "tails": [" watch a movie", " watch movies", " watch a movie on"]}
+{"head": "IPTV", "relation": "AtLocation", "tails": [" internet cafe", " tv", " television"]}
+{"head": "IPTV", "relation": "CapableOf", "tails": [" watch video", " watch tv", " watch TV"]}
+{"head": "IPTV", "relation": "HasProperty", "tails": [" connected to internet", " connected to the internet", " found in many homes"]}
+{"head": "IPTV", "relation": "MadeUpOf", "tails": [" internet connection", " video", " video card"]}
+{"head": "IPTV", "relation": "NotDesires", "tails": [" have to pay for", " have to turn on", " watch tv"]}
+{"head": "IPTV", "relation": "Desires", "tails": [" watch tv", " watch movies", " watch video"]}
+{"head": "Experts from across Europe are meeting at the Scottish Police College to discuss the emerging threats in intellectual property crime particularly the illegal use of Internet protocol television (IPTV).", "relation": "xAttr", "tails": [" intellectual property", " intellectual property crime", " intellectual property theft"]}
+{"head": "Experts from across Europe are meeting at the Scottish Police College to discuss the emerging threats in intellectual property crime particularly the illegal use of Internet protocol television (IPTV).", "relation": "xWant", "tails": [" to make a report", " to make a report on the situation", " to make a report on the threats"]}
+{"head": "Experts from across Europe are meeting at the Scottish Police College to discuss the emerging threats in intellectual property crime particularly the illegal use of Internet protocol television (IPTV).", "relation": "xNeed", "tails": [" to have a meeting", " to gather information", " learn about the threats"]}
+{"head": "Experts from across Europe are meeting at the Scottish Police College to discuss the emerging threats in intellectual property crime particularly the illegal use of Internet protocol television (IPTV).", "relation": "xEffect", "tails": [" learn new techniques", " learn about the new threats", " learn about the threats"]}
+{"head": "Experts from across Europe are meeting at the Scottish Police College to discuss the emerging threats in intellectual property crime particularly the illegal use of Internet protocol television (IPTV).", "relation": "HinderedBy", "tails": [" experts from across Europe are meeting at the Scottish Police College to discuss the emerging threats in intellectual property crime", " experts from across Europe are meeting at the Scottish Police College to discuss the emerging threats in intellectual property crime.", " experts from across Europe are meeting at the Scottish Police College to discuss the upcoming threats in intellectual property crime"]}
+{"head": "Experts from across Europe are meeting at the Scottish Police College to discuss the emerging threats in intellectual property crime particularly the illegal use of Internet protocol television (IPTV).", "relation": "oWant", "tails": [" to make a report", " to make a report on the situation", " to make a report on the threats"]}
+{"head": "Experts from across Europe are meeting at the Scottish Police College to discuss the emerging threats in intellectual property crime particularly the illegal use of Internet protocol television (IPTV).", "relation": "xReact", "tails": [" smart", " worried", " good"]}
+{"head": "Experts from across Europe are meeting at the Scottish Police College to discuss the emerging threats in intellectual property crime particularly the illegal use of Internet protocol television (IPTV).", "relation": "oEffect", "tails": [" learn from each other", " none", " learn new techniques"]}
+{"head": "Experts from across Europe are meeting at the Scottish Police College to discuss the emerging threats in intellectual property crime particularly the illegal use of Internet protocol television (IPTV).", "relation": "xIntent", "tails": [" to be prepared for the future", " to learn from each other", " to be prepared for the worst"]}
+{"head": "Experts from across Europe are meeting at the Scottish Police College to discuss the emerging threats in intellectual property crime particularly the illegal use of Internet protocol television (IPTV).", "relation": "oReact", "tails": [" none", " research", " criminals"]}
+{"head": "Experts from across Europe are meeting at the Scottish Police College to discuss the emerging threats in intellectual property crime particularly the illegal use of Internet protocol television (IPTV).", "relation": "isBefore", "tails": [" learn about the new threats", " learn new techniques", " learn about new threats"]}
+{"head": "Experts from across Europe are meeting at the Scottish Police College to discuss the emerging threats in intellectual property crime particularly the illegal use of Internet protocol television (IPTV).", "relation": "isAfter", "tails": [" research", " criminals to use the internet", " criminals to use the internet."]}
+{"head": "Experts from across Europe are meeting at the Scottish Police College to discuss the emerging threats in intellectual property crime particularly the illegal use of Internet protocol television (IPTV).", "relation": "HasSubEvent", "tails": [" learn from each other", " learn new techniques", " learn about the new threats"]}
+{"head": "Experts from across Europe are meeting at the Scottish Police College to discuss the emerging threats in intellectual property crime particularly the illegal use of Internet protocol television (IPTV).", "relation": "Causes", "tails": [" research", " criminals", " police"]}
+{"head": "Experts from across Europe are meeting at the Scottish Police College to discuss the emerging threats in intellectual property crime particularly the illegal use of Internet protocol television (IPTV).", "relation": "xReason", "tails": [" learn from each other", " learn from each other.", " learn new techniques"]}
+{"head": "Experts", "relation": "ObjectUse", "tails": [" learn about a subject", " help with a problem", " learn from"]}
+{"head": "Experts", "relation": "AtLocation", "tails": [" science lab", " science fair", " research lab"]}
+{"head": "Experts", "relation": "CapableOf", "tails": [" learn new things", " learn from experience", " learn new skills"]}
+{"head": "Experts", "relation": "HasProperty", "tails": [" experts in their field", " experts", " experts in a field"]}
+{"head": "Experts", "relation": "MadeUpOf", "tails": [" experts", " study", " science"]}
+{"head": "Experts", "relation": "NotDesires", "tails": [" learn new things", " learn something new", " learn from others"]}
+{"head": "Experts", "relation": "Desires", "tails": [" know what they are talking about", " know what they are doing", " know what to do"]}
+{"head": "Europe", "relation": "ObjectUse", "tails": [" Europe", " travel to", " travel"]}
+{"head": "Europe", "relation": "AtLocation", "tails": [" european states", " european countries", " europe"]}
+{"head": "Europe", "relation": "CapableOf", "tails": [" go to war", " travel to different countries", " travel to new places"]}
+{"head": "Europe", "relation": "HasProperty", "tails": [" european countries", " found in many countries", " Europe"]}
+{"head": "Europe", "relation": "MadeUpOf", "tails": [" europe", " Europe", " european"]}
+{"head": "Europe", "relation": "NotDesires", "tails": [" europeans", " european countries", " Europe to be destroyed"]}
+{"head": "Europe", "relation": "Desires", "tails": [" Europe", " travel", " Europe to live"]}

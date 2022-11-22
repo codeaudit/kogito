@@ -1,0 +1,22 @@
+{"head": "Gcl New Energy Holdings Ltd :", "relation": "xAttr", "tails": [" responsible", " energy-hungry", " energy-generating"]}
+{"head": "Gcl New Energy Holdings Ltd :", "relation": "xWant", "tails": [" to make money", " to sell the company", " to sell the business"]}
+{"head": "Gcl New Energy Holdings Ltd :", "relation": "xNeed", "tails": [" to invest in the company", " to invest in a company", " to invest in the business"]}
+{"head": "Gcl New Energy Holdings Ltd :", "relation": "xEffect", "tails": [" Gcl New Energy has a lot of debt.", " Gcl New Energy has a lot of money.", " Gcl New Energy has no money."]}
+{"head": "Gcl New Energy Holdings Ltd :", "relation": "HinderedBy", "tails": [" Gcl New Energy is not a company.", " Gcl New Energy is not profitable.", " Gcl New Energy has no money."]}
+{"head": "Gcl New Energy Holdings Ltd :", "relation": "oWant", "tails": [" none", " to make money", " to sell the company"]}
+{"head": "Gcl New Energy Holdings Ltd :", "relation": "xReact", "tails": [" good about themselves", " happy", " satisfied"]}
+{"head": "Gcl New Energy Holdings Ltd :", "relation": "oEffect", "tails": [" none", " Gcl New Energy has a lot of debt.", " Gcl New Energy has no money."]}
+{"head": "Gcl New Energy Holdings Ltd :", "relation": "xIntent", "tails": [" to make money", " to make money.", " to make a profit"]}
+{"head": "Gcl New Energy Holdings Ltd :", "relation": "oReact", "tails": [" none", " like they have something to do", " like they have a good company"]}
+{"head": "Gcl New Energy Holdings Ltd :", "relation": "isBefore", "tails": [" Gcl New Energy", " Gcl New Energy Holdings", " Gcl New Energy is a company"]}
+{"head": "Gcl New Energy Holdings Ltd :", "relation": "isAfter", "tails": [" Gcl New Energy", " Gcl New Energy Holdings", " Gcl New Energy Holdings Ltd"]}
+{"head": "Gcl New Energy Holdings Ltd :", "relation": "HasSubEvent", "tails": [" Gcl New Energy gets a loan from the bank.", " Gcl New Energy gets a loan from a bank.", " Gcl New Energy gets a loan from the bank"]}
+{"head": "Gcl New Energy Holdings Ltd :", "relation": "Causes", "tails": [" Gcl New Energy has no money.", " Gcl New Energy Holdings is not a company.", " Gcl New Energy Holdings is not a real company."]}
+{"head": "Gcl New Energy Holdings Ltd :", "relation": "xReason", "tails": [" Gcl New Energy is a private company.", " Gcl New Energy", " Gcl New Energy Holdings"]}
+{"head": "Gcl New Energy Holdings Ltd", "relation": "ObjectUse", "tails": [" to make money", " power plants", " to make a profit"]}
+{"head": "Gcl New Energy Holdings Ltd", "relation": "AtLocation", "tails": [" energy company", " electricity", " company"]}
+{"head": "Gcl New Energy Holdings Ltd", "relation": "CapableOf", "tails": [" get a loan", " power plants", " buy electricity"]}
+{"head": "Gcl New Energy Holdings Ltd", "relation": "HasProperty", "tails": [" Gcl New Energy Holdings", " Gcl New Energy", " Gcl New Energy is a company."]}
+{"head": "Gcl New Energy Holdings Ltd", "relation": "MadeUpOf", "tails": [" power plant", " electricity", " energy"]}
+{"head": "Gcl New Energy Holdings Ltd", "relation": "NotDesires", "tails": [" Gcl New Energy is a public company.", " Gcl New Energy is a private company.", " Gcl New Energy"]}
+{"head": "Gcl New Energy Holdings Ltd", "relation": "Desires", "tails": [" to make money", " none", " to make a profit"]}

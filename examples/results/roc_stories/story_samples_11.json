@@ -1,0 +1,217 @@
+{"head": "word", "relation": "ObjectUse", "tails": [" word", " use as a verb", " use in sentence"]}
+{"head": "word", "relation": "AtLocation", "tails": [" word salad", " wordplay", " dictionary"]}
+{"head": "word", "relation": "CapableOf", "tails": [" use in sentence", " use in speech", " word"]}
+{"head": "word", "relation": "HasProperty", "tails": [" found in dictionary", " word", " found in dictionaries"]}
+{"head": "word", "relation": "MadeUpOf", "tails": [" word", " word order", " word form"]}
+{"head": "word", "relation": "NotDesires", "tails": [" word", " word meaning", " word to mean"]}
+{"head": "word", "relation": "Desires", "tails": [" word", " word meaning", " wordplay"]}
+{"head": "to tell", "relation": "HinderedBy", "tails": [" to tell", " to tell ", " to tell  to tell "]}
+{"head": "to tell", "relation": "isBefore", "tails": [" to tell", " to tell the truth", " to tell "]}
+{"head": "to tell", "relation": "isAfter", "tails": [" to tell the truth", " to tell", " to be heard"]}
+{"head": "to tell", "relation": "HasSubEvent", "tails": [" to tell", " to tell ", " to tell  tell "]}
+{"head": "to tell", "relation": "Causes", "tails": [" to tell", " to tell  to  tell ", " to tell  to  tell  "]}
+{"head": "to tell", "relation": "xReason", "tails": [" to tell", " to be honest", " none"]}
+{"head": "to talk", "relation": "HinderedBy", "tails": [" to talk", " to talk to someone", " to talk to people"]}
+{"head": "to talk", "relation": "isBefore", "tails": [" to talk", " listen to", " to talk to"]}
+{"head": "to talk", "relation": "isAfter", "tails": [" listen to", " to talk to someone", " listen to person"]}
+{"head": "to talk", "relation": "HasSubEvent", "tails": [" to talk", " listen to", " talk to someone"]}
+{"head": "to talk", "relation": "Causes", "tails": [" to talk", " listen to", " to talk to"]}
+{"head": "to talk", "relation": "xReason", "tails": [" listen to", " to talk", " listen to person"]}
+{"head": "to say", "relation": "HinderedBy", "tails": [" to say", " to say ", " to say something"]}
+{"head": "to say", "relation": "isBefore", "tails": [" to say", " to say something", " to say "]}
+{"head": "to say", "relation": "isAfter", "tails": [" to be heard", " to say", " to say something"]}
+{"head": "to say", "relation": "HasSubEvent", "tails": [" to say", " to say ", " to say  something"]}
+{"head": "to say", "relation": "Causes", "tails": [" to say", " have to say", " to say something"]}
+{"head": "to say", "relation": "xReason", "tails": [" to say", " have to say", " to say something"]}
+{"head": "to have", "relation": "HinderedBy", "tails": [" to have", " to have ", " to have  to have"]}
+{"head": "to have", "relation": "isBefore", "tails": [" to have", " to have ", " to have  a good time"]}
+{"head": "to have", "relation": "isAfter", "tails": [" to have something to eat", " to have", " to have something to drink"]}
+{"head": "to have", "relation": "HasSubEvent", "tails": [" to have", " to have ", " to have  have"]}
+{"head": "to have", "relation": "Causes", "tails": [" to have", " to have ", " to have  "]}
+{"head": "to have", "relation": "xReason", "tails": [" to have", " to have something to eat", " to have "]}
+{"head": "to ground", "relation": "HinderedBy", "tails": [" to ground", " to ground  to ground ", " to ground  to ground"]}
+{"head": "to ground", "relation": "isBefore", "tails": [" to ground", " to ground ", " fall to ground"]}
+{"head": "to ground", "relation": "isAfter", "tails": [" to ground", " fall", " fall down"]}
+{"head": "to ground", "relation": "HasSubEvent", "tails": [" to ground", " fall to ground", " fall down"]}
+{"head": "to ground", "relation": "Causes", "tails": [" to ground", " to ground  to ground ", " to ground  ground  to ground"]}
+{"head": "to ground", "relation": "xReason", "tails": [" to ground", " fall to ground", " fall down"]}
+{"head": "to get", "relation": "HinderedBy", "tails": [" to get ", " to get", " to get  to get "]}
+{"head": "to get", "relation": "isBefore", "tails": [" to get", " to get ", " to get  to get "]}
+{"head": "to get", "relation": "isAfter", "tails": [" to get", " to get something", " to get "]}
+{"head": "to get", "relation": "HasSubEvent", "tails": [" to get", " to get ", " to get  to get"]}
+{"head": "to get", "relation": "Causes", "tails": [" to get", " to get  to get ", " to get "]}
+{"head": "to get", "relation": "xReason", "tails": [" to get", " to get something", " to get "]}
+{"head": "to bring", "relation": "HinderedBy", "tails": [" to bring", " to bring ", " to bring  to the event"]}
+{"head": "to bring", "relation": "isBefore", "tails": [" to bring", " to bring ", " to bring  food"]}
+{"head": "to bring", "relation": "isAfter", "tails": [" to bring to the event", " to bring to the party", " to bring"]}
+{"head": "to bring", "relation": "HasSubEvent", "tails": [" to bring", " to bring ", " to bring  bring"]}
+{"head": "to bring", "relation": "Causes", "tails": [" to bring", " have to bring", " to bring  to  bring"]}
+{"head": "to bring", "relation": "xReason", "tails": [" to bring", " have to bring", " to bring  food"]}
+{"head": "tell Joshua", "relation": "HinderedBy", "tails": [" tell the truth", " tell someone else", " tell someone"]}
+{"head": "tell Joshua", "relation": "isBefore", "tails": [" listen to", " tell others", " listen"]}
+{"head": "tell Joshua", "relation": "isAfter", "tails": [" tell them what they want to hear", " tell them what they want to know", " tell them what to do"]}
+{"head": "tell Joshua", "relation": "HasSubEvent", "tails": [" talk to person", " talk to someone", " talk to"]}
+{"head": "tell Joshua", "relation": "Causes", "tails": [" tell them what they want to hear", " tell someone else to tell someone else", " tell them what they want to know"]}
+{"head": "tell Joshua", "relation": "xReason", "tails": [" have a conversation with someone", " have a conversation with", " have a conversation with person"]}
+{"head": "teacher", "relation": "ObjectUse", "tails": [" teach a class", " teach students", " teach children"]}
+{"head": "teacher", "relation": "AtLocation", "tails": [" classroom", " school", " teacher's office"]}
+{"head": "teacher", "relation": "CapableOf", "tails": [" teach students", " teach children", " teach class"]}
+{"head": "teacher", "relation": "HasProperty", "tails": [" teacher", " school", " teaching children"]}
+{"head": "teacher", "relation": "MadeUpOf", "tails": [" teacher's hat", " classroom", " teacher's badge"]}
+{"head": "teacher", "relation": "NotDesires", "tails": [" teach students", " teach children", " teacher to teach"]}
+{"head": "teacher", "relation": "Desires", "tails": [" teach students", " teach children", " teach kids"]}
+{"head": "school", "relation": "ObjectUse", "tails": [" learn new things", " learn about the world", " learn new skills"]}
+{"head": "school", "relation": "AtLocation", "tails": [" school", " school bus", " classroom"]}
+{"head": "school", "relation": "CapableOf", "tails": [" learn to read and write", " learn to read", " learn math"]}
+{"head": "school", "relation": "HasProperty", "tails": [" found in", " school", " found in college"]}
+{"head": "school", "relation": "MadeUpOf", "tails": [" school bus", " classroom", " school building"]}
+{"head": "school", "relation": "NotDesires", "tails": [" learn new things", " get expelled", " learn new things in"]}
+{"head": "school", "relation": "Desires", "tails": [" learn new things", " learn new skills", " learning"]}
+{"head": "say word", "relation": "HinderedBy", "tails": [" say word", " say", " speak"]}
+{"head": "say word", "relation": "isBefore", "tails": [" speak", " say", " say word"]}
+{"head": "say word", "relation": "isAfter", "tails": [" say", " say word", " speak"]}
+{"head": "say word", "relation": "HasSubEvent", "tails": [" speak", " say", " speak clearly"]}
+{"head": "say word", "relation": "Causes", "tails": [" speak", " make statement", " say"]}
+{"head": "say word", "relation": "xReason", "tails": [" speak", " say", " say word"]}
+{"head": "parrot", "relation": "ObjectUse", "tails": [" parrot", " bird feeder", " parrot's nest"]}
+{"head": "parrot", "relation": "AtLocation", "tails": [" parrot's nest", " parrot's cage", " parrot"]}
+{"head": "parrot", "relation": "CapableOf", "tails": [" feed to parrot", " fly in air", " fly in sky"]}
+{"head": "parrot", "relation": "HasProperty", "tails": [" parrot", " two legs", " parrot's nest"]}
+{"head": "parrot", "relation": "MadeUpOf", "tails": [" parrot", " parrot's tail", " parrot's wings"]}
+{"head": "parrot", "relation": "NotDesires", "tails": [" parrot", " parrot's nest", " parrot's head"]}
+{"head": "parrot", "relation": "Desires", "tails": [" parrot", " parrot's nest", " parrot's wings"]}
+{"head": "home", "relation": "ObjectUse", "tails": [" have a place to sleep", " have a place to live", " have a place to stay"]}
+{"head": "home", "relation": "AtLocation", "tails": [" home", " house", " apartment building"]}
+{"head": "home", "relation": "CapableOf", "tails": [" go to", " go to bed", " leave house"]}
+{"head": "home", "relation": "HasProperty", "tails": [" home", " found in", " homes"]}
+{"head": "home", "relation": "MadeUpOf", "tails": [" home", " house", " home address"]}
+{"head": "home", "relation": "NotDesires", "tails": [" home to die in", " home to die", " home"]}
+{"head": "home", "relation": "Desires", "tails": [" have place to live", " home", " have place to sleep"]}
+{"head": "have parrot", "relation": "HinderedBy", "tails": [" have pet parrot", " have a pet parrot", " have parrot as pet"]}
+{"head": "have parrot", "relation": "isBefore", "tails": [" have pet parrot", " have parrot as pet", " have parrot for pet"]}
+{"head": "have parrot", "relation": "isAfter", "tails": [" have pet parrot", " have parrot as pet", " parrot"]}
+{"head": "have parrot", "relation": "HasSubEvent", "tails": [" have parrot as pet", " have parrot for pet", " have parrot in house"]}
+{"head": "have parrot", "relation": "Causes", "tails": [" have pet parrot", " have parrot as pet", " have parrot in house"]}
+{"head": "have parrot", "relation": "xReason", "tails": [" have pet parrot", " have parrot as pet", " have parrot in house"]}
+{"head": "bring parrot", "relation": "HinderedBy", "tails": [" bring parrot to zoo", " bring parrot", " bring parrot home"]}
+{"head": "bring parrot", "relation": "isBefore", "tails": [" bring parrot to zoo", " bring parrot to party", " bring parrot home"]}
+{"head": "bring parrot", "relation": "isAfter", "tails": [" bring parrot to zoo", " bring parrot to party", " bring parrot home"]}
+{"head": "bring parrot", "relation": "HasSubEvent", "tails": [" bring parrot home", " bring parrot to zoo", " bring parrot to party"]}
+{"head": "bring parrot", "relation": "Causes", "tails": [" bring parrot to zoo", " bring parrot to party", " bring parrot"]}
+{"head": "bring parrot", "relation": "xReason", "tails": [" bring parrot to zoo", " bring parrot to party", " bring parrot home"]}
+{"head": "bring bird", "relation": "HinderedBy", "tails": [" bring bird home", " bring bird to zoo", " bring bird"]}
+{"head": "bring bird", "relation": "isBefore", "tails": [" bring bird home", " bring bird to zoo", " bring bird to birdbath"]}
+{"head": "bring bird", "relation": "isAfter", "tails": [" bird feeder", " bring bird home", " bring bird to zoo"]}
+{"head": "bring bird", "relation": "HasSubEvent", "tails": [" bring bird home", " bring bird to zoo", " have bird to feed"]}
+{"head": "bring bird", "relation": "Causes", "tails": [" bring bird home", " bring bird to zoo", " bring to zoo"]}
+{"head": "bring bird", "relation": "xReason", "tails": [" bring bird home", " bring bird to zoo", " bring to zoo"]}
+{"head": "bird", "relation": "ObjectUse", "tails": [" bird feeder", " bird feeders", " birdseed"]}
+{"head": "bird", "relation": "AtLocation", "tails": [" bird cage", " birdbath", " birdhouse"]}
+{"head": "bird", "relation": "CapableOf", "tails": [" fly in air", " fly in sky", " fly to other birds"]}
+{"head": "bird", "relation": "HasProperty", "tails": [" one of many species of birds", " one of many species of bird", " one of many birds in the world"]}
+{"head": "bird", "relation": "MadeUpOf", "tails": [" bird's wing", " bird's nest", " bird's wings"]}
+{"head": "bird", "relation": "NotDesires", "tails": [" fly away", " bird's nest", " bird poop"]}
+{"head": "bird", "relation": "Desires", "tails": [" bird's nest", " bird feeder", " bird feeders"]}
+{"head": "bad word", "relation": "ObjectUse", "tails": [" bad name", " bad word", " bad"]}
+{"head": "bad word", "relation": "AtLocation", "tails": [" word salad", " bad word", " bad name"]}
+{"head": "bad word", "relation": "CapableOf", "tails": [" use in conversation", " use as a weapon", " use to insult someone"]}
+{"head": "bad word", "relation": "HasProperty", "tails": [" bad", " bad word", " bad name"]}
+{"head": "bad word", "relation": "MadeUpOf", "tails": [" bad word", " word", " bad"]}
+{"head": "bad word", "relation": "NotDesires", "tails": [" bad name", " bad word", " bad"]}
+{"head": "bad word", "relation": "Desires", "tails": [" bad name", " bad word", " bad"]}
+{"head": "When Josh got home, he was grounded.", "relation": "xAttr", "tails": [" grounded", " punished", " responsible"]}
+{"head": "When Josh got home, he was grounded.", "relation": "xWant", "tails": [" to go to bed", " to go to sleep", " go to bed"]}
+{"head": "When Josh got home, he was grounded.", "relation": "xNeed", "tails": [" go to school", " go to home", " to have been grounded"]}
+{"head": "When Josh got home, he was grounded.", "relation": "xEffect", "tails": [" gets yelled at", " gets grounded", " gets punished"]}
+{"head": "When Josh got home, he was grounded.", "relation": "HinderedBy", "tails": [" when they get home, they are grounded.", " when they get home, they are grounded", " when they get home, they get grounded"]}
+{"head": "When Josh got home, he was grounded.", "relation": "oWant", "tails": [" none", " to punish him", " to make sure they are safe"]}
+{"head": "When Josh got home, he was grounded.", "relation": "xReact", "tails": [" punished", " grounded", " sad"]}
+{"head": "When Josh got home, he was grounded.", "relation": "oEffect", "tails": [" none", " get punished", " get grounded"]}
+{"head": "When Josh got home, he was grounded.", "relation": "xIntent", "tails": [" none", " to be safe", " to be in control"]}
+{"head": "When Josh got home, he was grounded.", "relation": "oReact", "tails": [" none", " angry", " punished"]}
+{"head": "When Josh got home, he was grounded.", "relation": "isBefore", "tails": [" PersonX tells PersonX they are grounded.", " PersonX tells PersonX to go to bed.", " PersonX tells PersonX to go home."]}
+{"head": "When Josh got home, he was grounded.", "relation": "isAfter", "tails": [" PersonX is in jail.", " PersonX gets grounded.", " PersonX is grounded."]}
+{"head": "When Josh got home, he was grounded.", "relation": "HasSubEvent", "tails": [" go to bed", " go to sleep", " get punished"]}
+{"head": "When Josh got home, he was grounded.", "relation": "Causes", "tails": [" when they get home", " when they are grounded", " he is grounded"]}
+{"head": "When Josh got home, he was grounded.", "relation": "xReason", "tails": [" he gets grounded", " he is grounded", " they are grounded"]}
+{"head": "The teacher told Joshua not to bring his bird again.", "relation": "xAttr", "tails": [" mean", " angry", " scared"]}
+{"head": "The teacher told Joshua not to bring his bird again.", "relation": "xWant", "tails": [" to go back to school", " to go home", " to go back to class"]}
+{"head": "The teacher told Joshua not to bring his bird again.", "relation": "xNeed", "tails": [" to bring the bird to school", " to bring the bird to class", " to bring the bird to the school"]}
+{"head": "The teacher told Joshua not to bring his bird again.", "relation": "xEffect", "tails": [" gets yelled at", " gets yelled at by the teacher", " gets yelled at by teacher"]}
+{"head": "The teacher told Joshua not to bring his bird again.", "relation": "HinderedBy", "tails": [" the teacher tells the students not to bring the bird again", " the teacher tells the students not to bring the bird again.", " the teacher tells the students not to bring the bird"]}
+{"head": "The teacher told Joshua not to bring his bird again.", "relation": "oWant", "tails": [" to make sure they don't do it again", " to make sure the bird doesn't come back", " to make sure they don't do it again."]}
+{"head": "The teacher told Joshua not to bring his bird again.", "relation": "xReact", "tails": [" sad", " angry", " annoyed"]}
+{"head": "The teacher told Joshua not to bring his bird again.", "relation": "oEffect", "tails": [" none", " the bird is not allowed", " the teacher tells them to stop"]}
+{"head": "The teacher told Joshua not to bring his bird again.", "relation": "xIntent", "tails": [" the bird to not come back", " the bird to stay away", " the bird to stay away from them"]}
+{"head": "The teacher told Joshua not to bring his bird again.", "relation": "oReact", "tails": [" none", " angry", " sad"]}
+{"head": "The teacher told Joshua not to bring his bird again.", "relation": "isBefore", "tails": [" the teacher tells the students not to bring the bird again", " the teacher tells the students not to bring the bird again.", " the teacher tells the students not to bring it again"]}
+{"head": "The teacher told Joshua not to bring his bird again.", "relation": "isAfter", "tails": [" the teacher tells the students not to bring the bird again", " the teacher tells the students not to bring the bird again.", " the teacher tells the students not to bring it again"]}
+{"head": "The teacher told Joshua not to bring his bird again.", "relation": "HasSubEvent", "tails": [" the bird to go back to the pet store", " the bird to go back to the pet store.", " the bird to go back to it's owner"]}
+{"head": "The teacher told Joshua not to bring his bird again.", "relation": "Causes", "tails": [" the bird is not allowed", " the bird to be safe", " the bird to be returned"]}
+{"head": "The teacher told Joshua not to bring his bird again.", "relation": "xReason", "tails": [" the teacher tells them not to bring the bird again", " the teacher tells them not to bring it again", " the teacher tells them not to do it again"]}
+{"head": "Joshua", "relation": "ObjectUse", "tails": [" have a relationship with", " get married", " have a relationship with someone"]}
+{"head": "Joshua", "relation": "AtLocation", "tails": [" church", " synagogue", " temple"]}
+{"head": "Joshua", "relation": "CapableOf", "tails": [" get married", " get a job", " walk to church"]}
+{"head": "Joshua", "relation": "HasProperty", "tails": [" found in cave", " found in wilderness", " none"]}
+{"head": "Joshua", "relation": "MadeUpOf", "tails": ["              ", "             ", "            "]}
+{"head": "Joshua", "relation": "NotDesires", "tails": [" have to go to jail", " have to go to the bathroom", " have to go to the doctor"]}
+{"head": "Joshua", "relation": "Desires", "tails": [" have a good time", " have a good life", " none"]}
+{"head": "Josh parrot", "relation": "ObjectUse", "tails": [" have a pet", " make a paper airplane", " make a birdhouse"]}
+{"head": "Josh parrot", "relation": "AtLocation", "tails": [" parrot house", " parrot's cage", " parrot's nest"]}
+{"head": "Josh parrot", "relation": "CapableOf", "tails": [" feed to parrot", " learn to fly", " learn to sing"]}
+{"head": "Josh parrot", "relation": "HasProperty", "tails": [" parrot", " one of many parrots", " one of many parrot species"]}
+{"head": "Josh parrot", "relation": "MadeUpOf", "tails": [" parrot", " parrot's tail", " parrot's head"]}
+{"head": "Josh parrot", "relation": "NotDesires", "tails": [" parrot", " parrot's cage", " parrot's head"]}
+{"head": "Josh parrot", "relation": "Desires", "tails": [" to be a parrot", " none", " have a friend to talk to"]}
+{"head": "Josh had a parrot that talked.", "relation": "xAttr", "tails": [" talkative", " curious", " talkative."]}
+{"head": "Josh had a parrot that talked.", "relation": "xWant", "tails": [" to have a pet parrot", " to teach the parrot to speak", " to teach the parrot to sing"]}
+{"head": "Josh had a parrot that talked.", "relation": "xNeed", "tails": [" to buy a parrot", " to have a parrot", " talk to the parrot"]}
+{"head": "Josh had a parrot that talked.", "relation": "xEffect", "tails": [" none", " gets yelled at", " gets asked questions"]}
+{"head": "Josh had a parrot that talked.", "relation": "HinderedBy", "tails": [" They don't have the money to buy one.", " they don't have a parrot to talk to", " they don't have a parrot"]}
+{"head": "Josh had a parrot that talked.", "relation": "oWant", "tails": [" none", " to talk to the parrot", " to talk to the parrot."]}
+{"head": "Josh had a parrot that talked.", "relation": "xReact", "tails": [" happy", " happy to have a pet parrot", " happy to have a pet parrot."]}
+{"head": "Josh had a parrot that talked.", "relation": "oEffect", "tails": [" none", " they learn a new skill", " they learn a new language"]}
+{"head": "Josh had a parrot that talked.", "relation": "xIntent", "tails": [" none", " to talk to someone", " to be entertained"]}
+{"head": "Josh had a parrot that talked.", "relation": "oReact", "tails": [" none", " happy", " happy."]}
+{"head": "Josh had a parrot that talked.", "relation": "isBefore", "tails": [" PersonX buys the parrot a new home.", " PersonX buys a parrot for PersonX.", " PersonX buys a parrot."]}
+{"head": "Josh had a parrot that talked.", "relation": "isAfter", "tails": [" PersonX buys a parrot.", " PersonX buys a parrot", " PersonY buys a parrot."]}
+{"head": "Josh had a parrot that talked.", "relation": "HasSubEvent", "tails": [" talk to the parrot", " talk to parrot", " talk to the parrot."]}
+{"head": "Josh had a parrot that talked.", "relation": "Causes", "tails": [" the parrot to talk to them", " the parrot to talk", " the parrot to talk to him"]}
+{"head": "Josh had a parrot that talked.", "relation": "xReason", "tails": [" none", " persony is talking to persony", " person x is talking to person x"]}
+{"head": "Josh", "relation": "ObjectUse", "tails": [" get a new job", " get a job", " have sex with"]}
+{"head": "Josh", "relation": "AtLocation", "tails": [" house", " school", " car"]}
+{"head": "Josh", "relation": "CapableOf", "tails": [" get into fight", " get a job", " go to the store"]}
+{"head": "Josh", "relation": "HasProperty", "tails": [" one of two brothers", " one of three children", " one of two children"]}
+{"head": "Josh", "relation": "MadeUpOf", "tails": ["              ", "               ", "             "]}
+{"head": "Josh", "relation": "NotDesires", "tails": [" get in car accident", " have to go to the bathroom", " have to go to work"]}
+{"head": "Josh", "relation": "Desires", "tails": [" have a good time", " get a new job", " get a job"]}
+{"head": "He brought his parrot to school.", "relation": "xAttr", "tails": [" caring", " playful", " curious"]}
+{"head": "He brought his parrot to school.", "relation": "xWant", "tails": [" to take the parrot home", " to take the parrot to school", " to teach the parrot"]}
+{"head": "He brought his parrot to school.", "relation": "xNeed", "tails": [" to buy a parrot", " to have a parrot", " to get a parrot"]}
+{"head": "He brought his parrot to school.", "relation": "xEffect", "tails": [" gets yelled at", " gets yelled at by teacher", " he gets a new pet"]}
+{"head": "He brought his parrot to school.", "relation": "HinderedBy", "tails": [" he doesn't have a parrot", " he doesn't have a parrot at home", " he doesn't have a parrot in the house"]}
+{"head": "He brought his parrot to school.", "relation": "oWant", "tails": [" to play with the parrot", " to play with the parrot.", " none"]}
+{"head": "He brought his parrot to school.", "relation": "xReact", "tails": [" happy", " good about themselves", " proud"]}
+{"head": "He brought his parrot to school.", "relation": "oEffect", "tails": [" none", " they get to play with the parrot", " they get to know the parrot"]}
+{"head": "He brought his parrot to school.", "relation": "xIntent", "tails": [" to have a pet", " to have a pet parrot", " to have fun"]}
+{"head": "He brought his parrot to school.", "relation": "oReact", "tails": [" none", " happy", " happy."]}
+{"head": "He brought his parrot to school.", "relation": "isBefore", "tails": [" he gets a new pet parrot", " PersonX is a teacher.", " he gets a new pet"]}
+{"head": "He brought his parrot to school.", "relation": "isAfter", "tails": [" PersonX has a pet parrot.", " PersonX has a parrot.", " PersonX has a pet parrot"]}
+{"head": "He brought his parrot to school.", "relation": "HasSubEvent", "tails": [" he gets to know the parrot", " he gets to know the parrot better", " he gets to know his parrot"]}
+{"head": "He brought his parrot to school.", "relation": "Causes", "tails": [" he has a parrot", " he has a parrot in his class", " he has a parrot in his house"]}
+{"head": "He brought his parrot to school.", "relation": "xReason", "tails": [" he has a pet parrot", " he has a parrot", " he has a parrot at school"]}
+{"head": "During show and tell, Josh's parrot said a bad word.", "relation": "xAttr", "tails": [" funny", " silly", " rude"]}
+{"head": "During show and tell, Josh's parrot said a bad word.", "relation": "xWant", "tails": [" to make fun of the parrot", " to apologize to the parrot", " to make fun of the parrot."]}
+{"head": "During show and tell, Josh's parrot said a bad word.", "relation": "xNeed", "tails": [" to have a parrot", " to get the parrot's attention", " to get a parrot"]}
+{"head": "During show and tell, Josh's parrot said a bad word.", "relation": "xEffect", "tails": [" gets yelled at", " none", " get's yelled at"]}
+{"head": "During show and tell, Josh's parrot said a bad word.", "relation": "HinderedBy", "tails": [" during show and tell", " during the show", " during the show and tell"]}
+{"head": "During show and tell, Josh's parrot said a bad word.", "relation": "oWant", "tails": [" to get away from the parrot", " to laugh at the parrot", " to get away from the parrot."]}
+{"head": "During show and tell, Josh's parrot said a bad word.", "relation": "xReact", "tails": [" embarrassed", " sad", " angry"]}
+{"head": "During show and tell, Josh's parrot said a bad word.", "relation": "oEffect", "tails": [" none", " gets yelled at", " get yelled at"]}
+{"head": "During show and tell, Josh's parrot said a bad word.", "relation": "xIntent", "tails": [" none", " to make fun of someone", " to be funny"]}
+{"head": "During show and tell, Josh's parrot said a bad word.", "relation": "oReact", "tails": [" none", " angry", " embarrassed"]}
+{"head": "During show and tell, Josh's parrot said a bad word.", "relation": "isBefore", "tails": [" during the show, the parrot said a bad word.", " during the show, the parrot said a bad word", " during the show, the parrot said the bad word."]}
+{"head": "During show and tell, Josh's parrot said a bad word.", "relation": "isAfter", "tails": [" parrot", " show and tell", " none"]}
+{"head": "During show and tell, Josh's parrot said a bad word.", "relation": "HasSubEvent", "tails": [" make fun of the parrot", " make fun of parrot", " make fun of the parrot."]}
+{"head": "During show and tell, Josh's parrot said a bad word.", "relation": "Causes", "tails": [" embarrassed", " angry", " sad"]}
+{"head": "During show and tell, Josh's parrot said a bad word.", "relation": "xReason", "tails": [" during show and tell", " during the show", " none"]}

@@ -1,0 +1,55 @@
+{"head": "to correspond", "relation": "HinderedBy", "tails": [" to write a letter", " to write a book", " to communicate"]}
+{"head": "to correspond", "relation": "isBefore", "tails": [" to write a letter", " to write a book", " to communicate with others"]}
+{"head": "to correspond", "relation": "isAfter", "tails": [" to write a letter", " to communicate with others", " to write a book"]}
+{"head": "to correspond", "relation": "HasSubEvent", "tails": [" to write a letter", " to write letter", " write letter"]}
+{"head": "to correspond", "relation": "Causes", "tails": [" to communicate with others", " to write letter", " to write letters"]}
+{"head": "to correspond", "relation": "xReason", "tails": [" to communicate with other people", " to communicate with others", " to write letter"]}
+{"head": "to compare", "relation": "HinderedBy", "tails": [" to compare", " to compare two things", " to compare things"]}
+{"head": "to compare", "relation": "isBefore", "tails": [" to compare", " to compare two things", " to compare things"]}
+{"head": "to compare", "relation": "isAfter", "tails": [" to compare", " to compare two things", " to compare things"]}
+{"head": "to compare", "relation": "HasSubEvent", "tails": [" to compare", " to compare two things", " compare two things"]}
+{"head": "to compare", "relation": "Causes", "tails": [" to compare", " to compare two things", " compare two things"]}
+{"head": "to compare", "relation": "xReason", "tails": [" to compare", " to compare two things", " compare two things"]}
+{"head": "terms", "relation": "ObjectUse", "tails": [" make a contract", " make a deal", " get a job"]}
+{"head": "terms", "relation": "AtLocation", "tails": [" book", " court", " house"]}
+{"head": "terms", "relation": "CapableOf", "tails": [" write down", " sign contract", " write in book"]}
+{"head": "terms", "relation": "HasProperty", "tails": [" written on paper", " written in language", " written in"]}
+{"head": "terms", "relation": "MadeUpOf", "tails": [" terms and conditions", " terms of agreement", " terms of contract"]}
+{"head": "terms", "relation": "NotDesires", "tails": [" lose money", " have to pay for", " have to pay"]}
+{"head": "terms", "relation": "Desires", "tails": [" have a contract", " get a good deal", " get a job done"]}
+{"head": "real terms", "relation": "ObjectUse", "tails": [" make money", " pay for things", " make a living"]}
+{"head": "real terms", "relation": "AtLocation", "tails": [" real estate", " real estate market", " real world"]}
+{"head": "real terms", "relation": "CapableOf", "tails": [" pay for goods and services", " pay for things", " pay bills on time"]}
+{"head": "real terms", "relation": "HasProperty", "tails": [" real", " real money", " real estate"]}
+{"head": "real terms", "relation": "MadeUpOf", "tails": [" real estate", " real money", " real estate prices"]}
+{"head": "real terms", "relation": "NotDesires", "tails": [" have to pay for things", " have to live on", " have to pay"]}
+{"head": "real terms", "relation": "Desires", "tails": [" have a fair deal", " have a good life", " have a better life"]}
+{"head": "m", "relation": "ObjectUse", "tails": [" get out of bed", " get to work on time", " get out of the house"]}
+{"head": "m", "relation": "AtLocation", "tails": [" house", " bed", " school"]}
+{"head": "m", "relation": "CapableOf", "tails": [" get out of bed", " get out of car", " go to sleep"]}
+{"head": "m", "relation": "HasProperty", "tails": [" found in house", " found in church", " found in car"]}
+{"head": "m", "relation": "MadeUpOf", "tails": ["                ", "               ", "                 "]}
+{"head": "m", "relation": "NotDesires", "tails": [" go to sleep", " go to bed", " have to go to"]}
+{"head": "m", "relation": "Desires", "tails": [" get to work on time", " get out of bed", " get out of house"]}
+{"head": "cut", "relation": "ObjectUse", "tails": [" get rid of hair", " cut into pieces", " get rid of a wound"]}
+{"head": "cut", "relation": "AtLocation", "tails": [" knife", " kitchen", " kitchen drawer"]}
+{"head": "cut", "relation": "CapableOf", "tails": [" cut into pieces", " cut paper", " cut"]}
+{"head": "cut", "relation": "HasProperty", "tails": [" cut", " found in garden", " made from wood"]}
+{"head": "cut", "relation": "MadeUpOf", "tails": [" cut", " cut edge", " knife"]}
+{"head": "cut", "relation": "NotDesires", "tails": [" cut skin", " cut yourself", " cut"]}
+{"head": "cut", "relation": "Desires", "tails": [" get rid of pain", " get rid of hair", " cut into pieces"]}
+{"head": "This corresponds to a cut of \u00a32.7m in real terms compared to 2012/13", "relation": "xAttr", "tails": [" hard-working", " hardworking", " hard working"]}
+{"head": "This corresponds to a cut of \u00a32.7m in real terms compared to 2012/13", "relation": "xWant", "tails": [" to save more money", " to save money", " to make a profit"]}
+{"head": "This corresponds to a cut of \u00a32.7m in real terms compared to 2012/13", "relation": "xNeed", "tails": [" get a job", " to have a budget", " make a cut"]}
+{"head": "This corresponds to a cut of \u00a32.7m in real terms compared to 2012/13", "relation": "xEffect", "tails": [" this year will be cut in real terms", " this year will be cut in real terms.", " this year will be cut in half"]}
+{"head": "This corresponds to a cut of \u00a32.7m in real terms compared to 2012/13", "relation": "HinderedBy", "tails": [" this is not the case", " this is not the case in the past", " this is not the case in the past."]}
+{"head": "This corresponds to a cut of \u00a32.7m in real terms compared to 2012/13", "relation": "oWant", "tails": [" get a raise", " make a profit", " to make a profit"]}
+{"head": "This corresponds to a cut of \u00a32.7m in real terms compared to 2012/13", "relation": "xReact", "tails": [" happy", " good", " satisfied"]}
+{"head": "This corresponds to a cut of \u00a32.7m in real terms compared to 2012/13", "relation": "oEffect", "tails": [" this year is the first time the government has cut the budget in real terms", " this year is the first time the government has cut the budget in real terms.", " this year is the first time the government has cut the budget"]}
+{"head": "This corresponds to a cut of \u00a32.7m in real terms compared to 2012/13", "relation": "xIntent", "tails": [" have less money in their bank account", " have less money to spend on other things", " have less money in the bank"]}
+{"head": "This corresponds to a cut of \u00a32.7m in real terms compared to 2012/13", "relation": "oReact", "tails": [" none", " cut in real terms", " this is not the case"]}
+{"head": "This corresponds to a cut of \u00a32.7m in real terms compared to 2012/13", "relation": "isBefore", "tails": [" have less money in their bank account", " have less money to spend on other things", " have less money in the bank"]}
+{"head": "This corresponds to a cut of \u00a32.7m in real terms compared to 2012/13", "relation": "isAfter", "tails": [" this year's budget has been cut in half", " make more money", " this year's budget has been cut in half."]}
+{"head": "This corresponds to a cut of \u00a32.7m in real terms compared to 2012/13", "relation": "HasSubEvent", "tails": [" have less money in their bank account", " have less money to spend on other things", " have less money"]}
+{"head": "This corresponds to a cut of \u00a32.7m in real terms compared to 2012/13", "relation": "Causes", "tails": [" have less money in their bank account", " have less money to spend on other things", " have less money in the bank"]}
+{"head": "This corresponds to a cut of \u00a32.7m in real terms compared to 2012/13", "relation": "xReason", "tails": [" have less money in their bank account", " have less money to spend on other things", " have less money in the bank"]}

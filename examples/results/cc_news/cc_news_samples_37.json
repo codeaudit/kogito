@@ -1,0 +1,101 @@
+{"head": "traffic", "relation": "ObjectUse", "tails": [" get to work on time", " get to the store on time", " traffic jams"]}
+{"head": "traffic", "relation": "AtLocation", "tails": [" freeway", " city", " traffic jam"]}
+{"head": "traffic", "relation": "CapableOf", "tails": [" get stuck in", " get stuck in traffic", " drive car"]}
+{"head": "traffic", "relation": "HasProperty", "tails": [" traffic jams", " traffic lights", " traffic jam"]}
+{"head": "traffic", "relation": "MadeUpOf", "tails": [" traffic lights", " traffic signal", " traffic light"]}
+{"head": "traffic", "relation": "NotDesires", "tails": [" traffic jams", " traffic jam", " get stuck in"]}
+{"head": "traffic", "relation": "Desires", "tails": [" traffic jams", " traffic jam", " traffic"]}
+{"head": "to merge", "relation": "HinderedBy", "tails": [" to merge", " to merge ", " to merge  to merge "]}
+{"head": "to merge", "relation": "isBefore", "tails": [" to merge", " to merge into one", " to merge with other people"]}
+{"head": "to merge", "relation": "isAfter", "tails": [" to merge with another company", " to merge", " to merge with other people"]}
+{"head": "to merge", "relation": "HasSubEvent", "tails": [" to merge", " to merge ", " to merge  into one"]}
+{"head": "to merge", "relation": "Causes", "tails": [" to merge", " to merge ", " to merge two things"]}
+{"head": "to merge", "relation": "xReason", "tails": [" to merge", " to merge with other people", " to merge two things together"]}
+{"head": "to drive", "relation": "HinderedBy", "tails": [" to drive", " to drive ", " get license"]}
+{"head": "to drive", "relation": "isBefore", "tails": [" learn to drive", " to drive", " get license"]}
+{"head": "to drive", "relation": "isAfter", "tails": [" get license", " get in car", " to drive to work"]}
+{"head": "to drive", "relation": "HasSubEvent", "tails": [" get in car", " get in the car", " to drive"]}
+{"head": "to drive", "relation": "Causes", "tails": [" get in car", " get into accident", " get license"]}
+{"head": "to drive", "relation": "xReason", "tails": [" to drive", " get license", " to drive car"]}
+{"head": "to battle", "relation": "HinderedBy", "tails": [" to battle", " to battle ", " to battle  to battle"]}
+{"head": "to battle", "relation": "isBefore", "tails": [" to battle", " fight", " fight for freedom"]}
+{"head": "to battle", "relation": "isAfter", "tails": [" fight", " war", " battle"]}
+{"head": "to battle", "relation": "HasSubEvent", "tails": [" to battle", " fight", " fight for freedom"]}
+{"head": "to battle", "relation": "Causes", "tails": [" to battle", " fight", " fight for freedom"]}
+{"head": "to battle", "relation": "xReason", "tails": [" to battle", " fight", " fight for freedom"]}
+{"head": "suburbs", "relation": "ObjectUse", "tails": [" live in", " get to work", " get to work faster"]}
+{"head": "suburbs", "relation": "AtLocation", "tails": [" city", " suburbs", " suburbia"]}
+{"head": "suburbs", "relation": "CapableOf", "tails": [" live in", " live in suburbs", " live in city"]}
+{"head": "suburbs", "relation": "HasProperty", "tails": [" suburbs", " suburbia", " subways"]}
+{"head": "suburbs", "relation": "MadeUpOf", "tails": [" suburbs", " suburbs", " suburbia"]}
+{"head": "suburbs", "relation": "NotDesires", "tails": [" live in", " have to live in", " have to move to"]}
+{"head": "suburbs", "relation": "Desires", "tails": [" live in", " suburbs", " live in."]}
+{"head": "roundabout", "relation": "ObjectUse", "tails": [" driving on", " driving around", " driving on road"]}
+{"head": "roundabout", "relation": "AtLocation", "tails": [" city", " traffic circle", " street corner"]}
+{"head": "roundabout", "relation": "CapableOf", "tails": [" stop at stop sign", " stop at red light", " drive on"]}
+{"head": "roundabout", "relation": "HasProperty", "tails": [" roundabout", " traffic circle", " traffic"]}
+{"head": "roundabout", "relation": "MadeUpOf", "tails": [" roundabout", " traffic circle", " intersection"]}
+{"head": "roundabout", "relation": "NotDesires", "tails": [" traffic jam", " roundabout", " traffic jams"]}
+{"head": "roundabout", "relation": "Desires", "tails": [" traffic", " traffic flow", " traffic lights"]}
+{"head": "rebels", "relation": "ObjectUse", "tails": [" fight for freedom", " rebel against the government", " make a movie about"]}
+{"head": "rebels", "relation": "AtLocation", "tails": [" rebel army", " war", " rebel camp"]}
+{"head": "rebels", "relation": "CapableOf", "tails": [" fight for freedom", " rebel against government", " rebel against king"]}
+{"head": "rebels", "relation": "HasProperty", "tails": [" rebels", " rebel", " rebel army"]}
+{"head": "rebels", "relation": "MadeUpOf", "tails": [" rebel flag", " rebel army", " rebels"]}
+{"head": "rebels", "relation": "NotDesires", "tails": [" have to go to war", " have to go to jail", " have no friends"]}
+{"head": "rebels", "relation": "Desires", "tails": [" fight for freedom", " rebel", " rebel against government"]}
+{"head": "large roundabout", "relation": "ObjectUse", "tails": [" traffic jam", " driving on", " traffic flow"]}
+{"head": "large roundabout", "relation": "AtLocation", "tails": [" city", " large city", " street corner"]}
+{"head": "large roundabout", "relation": "CapableOf", "tails": [" drive on", " drive around", " drive down"]}
+{"head": "large roundabout", "relation": "HasProperty", "tails": [" one of the world's biggest cities", " one of the world's largest cities", " one of the world's most important cities"]}
+{"head": "large roundabout", "relation": "MadeUpOf", "tails": [" traffic circle", " traffic light", " traffic lights"]}
+{"head": "large roundabout", "relation": "NotDesires", "tails": [" traffic jam", " traffic jams", " large city"]}
+{"head": "large roundabout", "relation": "Desires", "tails": [" traffic", " traffic flow", " large city"]}
+{"head": "forces", "relation": "ObjectUse", "tails": [" make things move", " fight with", " make things happen"]}
+{"head": "forces", "relation": "AtLocation", "tails": [" military base", " war", " army"]}
+{"head": "forces", "relation": "CapableOf", "tails": [" fight with", " fight war", " fight back"]}
+{"head": "forces", "relation": "HasProperty", "tails": [" strong", " powerful", " hard to control"]}
+{"head": "forces", "relation": "MadeUpOf", "tails": [" force field", " force", " force of action"]}
+{"head": "forces", "relation": "NotDesires", "tails": [" force to do something", " force to be done", " force to do something bad"]}
+{"head": "forces", "relation": "Desires", "tails": [" power", " strong", " strong will"]}
+{"head": "drive himself", "relation": "HinderedBy", "tails": [" get to work on time", " drive car", " get to the doctor's office"]}
+{"head": "drive himself", "relation": "isBefore", "tails": [" get in car", " get into accident", " get into car"]}
+{"head": "drive himself", "relation": "isAfter", "tails": [" get in car", " get in the car", " get into car"]}
+{"head": "drive himself", "relation": "HasSubEvent", "tails": [" get in car", " get into accident", " get in accident"]}
+{"head": "drive himself", "relation": "Causes", "tails": [" get into accident", " get in accident", " get in car"]}
+{"head": "drive himself", "relation": "xReason", "tails": [" get into accident", " get in accident", " drive car"]}
+{"head": "battle rebels", "relation": "HinderedBy", "tails": [" fight for freedom", " fight in war", " defeat enemy"]}
+{"head": "battle rebels", "relation": "isBefore", "tails": [" fight for freedom", " battle for freedom", " battle army"]}
+{"head": "battle rebels", "relation": "isAfter", "tails": [" fight for freedom", " battle for freedom", " war"]}
+{"head": "battle rebels", "relation": "HasSubEvent", "tails": [" fight for freedom", " defeat enemy", " fight"]}
+{"head": "battle rebels", "relation": "Causes", "tails": [" fight for freedom", " battle for freedom", " defeat enemy"]}
+{"head": "battle rebels", "relation": "xReason", "tails": [" fight for freedom", " battle for freedom", " battle for independence"]}
+{"head": "Syrian President Bashar Assad", "relation": "ObjectUse", "tails": [" to be in power", " get rid of enemies", " get rid of the enemy"]}
+{"head": "Syrian President Bashar Assad", "relation": "AtLocation", "tails": [" president's office", " Syria", " president's house"]}
+{"head": "Syrian President Bashar Assad", "relation": "CapableOf", "tails": [" to be in power", " get killed", " get a new job"]}
+{"head": "Syrian President Bashar Assad", "relation": "HasProperty", "tails": [" controlled by the people", " controlled by the government", " controlled by military forces"]}
+{"head": "Syrian President Bashar Assad", "relation": "MadeUpOf", "tails": [" President of Syria", " Assad's flag", " Assad's face"]}
+{"head": "Syrian President Bashar Assad", "relation": "NotDesires", "tails": [" get killed", " none", " Syria"]}
+{"head": "Syrian President Bashar Assad", "relation": "Desires", "tails": [" to be in power", " to rule the country", " none"]}
+{"head": "Smoothly and confidently, Syrian President Bashar Assad merged into traffic at a large roundabout in Damascus before driving himself to the suburbs where his forces are battling rebels.", "relation": "xAttr", "tails": [" powerful", " confident", " skilled"]}
+{"head": "Smoothly and confidently, Syrian President Bashar Assad merged into traffic at a large roundabout in Damascus before driving himself to the suburbs where his forces are battling rebels.", "relation": "xWant", "tails": [" to win the war", " to win the war against the rebels", " to win the war against the rebels."]}
+{"head": "Smoothly and confidently, Syrian President Bashar Assad merged into traffic at a large roundabout in Damascus before driving himself to the suburbs where his forces are battling rebels.", "relation": "xNeed", "tails": [" to get in the car", " get in the car", " to be in control of the situation"]}
+{"head": "Smoothly and confidently, Syrian President Bashar Assad merged into traffic at a large roundabout in Damascus before driving himself to the suburbs where his forces are battling rebels.", "relation": "xEffect", "tails": [" get into a car accident", " get to their destination on time", " get to their destination"]}
+{"head": "Smoothly and confidently, Syrian President Bashar Assad merged into traffic at a large roundabout in Damascus before driving himself to the suburbs where his forces are battling rebels.", "relation": "HinderedBy", "tails": [" Smiling", " Smiles", " Smiles."]}
+{"head": "Smoothly and confidently, Syrian President Bashar Assad merged into traffic at a large roundabout in Damascus before driving himself to the suburbs where his forces are battling rebels.", "relation": "oWant", "tails": [" to win the war", " to be in control of the situation", " to be in control of the country"]}
+{"head": "Smoothly and confidently, Syrian President Bashar Assad merged into traffic at a large roundabout in Damascus before driving himself to the suburbs where his forces are battling rebels.", "relation": "xReact", "tails": [" powerful", " confident", " safe"]}
+{"head": "Smoothly and confidently, Syrian President Bashar Assad merged into traffic at a large roundabout in Damascus before driving himself to the suburbs where his forces are battling rebels.", "relation": "oEffect", "tails": [" get out of the car", " get out of the way", " get to their destination"]}
+{"head": "Smoothly and confidently, Syrian President Bashar Assad merged into traffic at a large roundabout in Damascus before driving himself to the suburbs where his forces are battling rebels.", "relation": "xIntent", "tails": [" to win the war", " to be in control", " to win the war."]}
+{"head": "Smoothly and confidently, Syrian President Bashar Assad merged into traffic at a large roundabout in Damascus before driving himself to the suburbs where his forces are battling rebels.", "relation": "oReact", "tails": [" none", " get to their destination on time", " to be in control of the situation"]}
+{"head": "Smoothly and confidently, Syrian President Bashar Assad merged into traffic at a large roundabout in Damascus before driving himself to the suburbs where his forces are battling rebels.", "relation": "isBefore", "tails": [" get out of the car", " get out of car", " get out of the way"]}
+{"head": "Smoothly and confidently, Syrian President Bashar Assad merged into traffic at a large roundabout in Damascus before driving himself to the suburbs where his forces are battling rebels.", "relation": "isAfter", "tails": [" get to their destination on time", " get to their destination", " drive to the suburbs"]}
+{"head": "Smoothly and confidently, Syrian President Bashar Assad merged into traffic at a large roundabout in Damascus before driving himself to the suburbs where his forces are battling rebels.", "relation": "HasSubEvent", "tails": [" get out of the car", " get into a car accident", " get out of the way"]}
+{"head": "Smoothly and confidently, Syrian President Bashar Assad merged into traffic at a large roundabout in Damascus before driving himself to the suburbs where his forces are battling rebels.", "relation": "Causes", "tails": [" Smiling", " driving fast", " Smiles"]}
+{"head": "Smoothly and confidently, Syrian President Bashar Assad merged into traffic at a large roundabout in Damascus before driving himself to the suburbs where his forces are battling rebels.", "relation": "xReason", "tails": [" get to their destination on time", " get to their destination", " get to their destination on time."]}
+{"head": "Damascus", "relation": "ObjectUse", "tails": [" Syria's capital city.", " Syria's capital", " Syria's capital city"]}
+{"head": "Damascus", "relation": "AtLocation", "tails": [" city", " town", " war"]}
+{"head": "Damascus", "relation": "CapableOf", "tails": [" go to war", " go to war zone", " go to hospital"]}
+{"head": "Damascus", "relation": "HasProperty", "tails": [" one of the main cities of Syria", " one of world's most important cities", " one of many cities in Syria"]}
+{"head": "Damascus", "relation": "MadeUpOf", "tails": [" damascus", " water", " Damascus"]}
+{"head": "Damascus", "relation": "NotDesires", "tails": [" have to go to war", " war", " have to go to hospital"]}
+{"head": "Damascus", "relation": "Desires", "tails": [" have a capital city", " have a good time", " Damascus"]}

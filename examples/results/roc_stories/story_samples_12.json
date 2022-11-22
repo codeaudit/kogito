@@ -1,0 +1,185 @@
+{"head": "walk dog", "relation": "HinderedBy", "tails": [" walk dog", " walk dog on leash", " walking dog"]}
+{"head": "walk dog", "relation": "isBefore", "tails": [" take dog for walk", " walk dog", " walk dog to house"]}
+{"head": "walk dog", "relation": "isAfter", "tails": [" walk dog", " walk on leash", " walk dog to house"]}
+{"head": "walk dog", "relation": "HasSubEvent", "tails": [" walk dog", " get leash", " take off leash"]}
+{"head": "walk dog", "relation": "Causes", "tails": [" take dog for walk", " walk dog", " walk dog to house"]}
+{"head": "walk dog", "relation": "xReason", "tails": [" walk dog", " walk dog on leash", " get exercise"]}
+{"head": "to walk", "relation": "HinderedBy", "tails": [" to walk", " to walk ", " to walk  to work"]}
+{"head": "to walk", "relation": "isBefore", "tails": [" to walk", " to get somewhere", " to get to destination"]}
+{"head": "to walk", "relation": "isAfter", "tails": [" to get somewhere", " to get to destination", " get up"]}
+{"head": "to walk", "relation": "HasSubEvent", "tails": [" to walk", " get up", " get out of car"]}
+{"head": "to walk", "relation": "Causes", "tails": [" to walk", " get exercise", " to walk "]}
+{"head": "to walk", "relation": "xReason", "tails": [" to walk", " get exercise", " to walk somewhere"]}
+{"head": "to strain", "relation": "HinderedBy", "tails": [" to strain", " to strain something", " to strain "]}
+{"head": "to strain", "relation": "isBefore", "tails": [" to strain", " to strain something", " to strain the muscles"]}
+{"head": "to strain", "relation": "isAfter", "tails": [" to strain", " to strain something", " to make a strain"]}
+{"head": "to strain", "relation": "HasSubEvent", "tails": [" to strain", " to strain ", " to strain something"]}
+{"head": "to strain", "relation": "Causes", "tails": [" to strain", " to strain something", " to strain "]}
+{"head": "to strain", "relation": "xReason", "tails": [" to strain", " to strain something", " to strain "]}
+{"head": "to run", "relation": "HinderedBy", "tails": [" to run", " to run fast", " to run "]}
+{"head": "to run", "relation": "isBefore", "tails": [" to run fast", " to run", " to run faster"]}
+{"head": "to run", "relation": "isAfter", "tails": [" to run fast", " to run faster", " to run"]}
+{"head": "to run", "relation": "HasSubEvent", "tails": [" get out of breath", " to run", " to run fast"]}
+{"head": "to run", "relation": "Causes", "tails": [" to run", " to run fast", " get exercise"]}
+{"head": "to run", "relation": "xReason", "tails": [" get exercise", " to run fast", " to run"]}
+{"head": "to lure", "relation": "HinderedBy", "tails": [" to lure", " to lure ", " use as bait"]}
+{"head": "to lure", "relation": "isBefore", "tails": [" bait trap", " to lure someone", " to lure"]}
+{"head": "to lure", "relation": "isAfter", "tails": [" bait", " bait trap", " bait fish"]}
+{"head": "to lure", "relation": "HasSubEvent", "tails": [" to lure", " bait trap", " to lure "]}
+{"head": "to lure", "relation": "Causes", "tails": [" bait", " bait trap", " to lure someone"]}
+{"head": "to lure", "relation": "xReason", "tails": [" bait", " bait trap", " to lure someone"]}
+{"head": "to chase", "relation": "HinderedBy", "tails": [" to chase", " to chase ", " to chase  to chase "]}
+{"head": "to chase", "relation": "isBefore", "tails": [" to chase", " to chase the dog", " to chase the animal"]}
+{"head": "to chase", "relation": "isAfter", "tails": [" to catch the animal", " to catch the dog", " to be chased"]}
+{"head": "to chase", "relation": "HasSubEvent", "tails": [" to chase", " to chase  chase  chase  chase  chase  chase  chase  chase  chase  chase  chase", " to chase  chase  chase  chase  chase  chase  chase  chase  chase  chase"]}
+{"head": "to chase", "relation": "Causes", "tails": [" to chase", " have to chase", " to chase the dog"]}
+{"head": "to chase", "relation": "xReason", "tails": [" to chase", " to chase a dog", " to chase the animal"]}
+{"head": "to break", "relation": "HinderedBy", "tails": [" to break", " to break ", " to break  to break "]}
+{"head": "to break", "relation": "isBefore", "tails": [" to break", " to break something", " to break "]}
+{"head": "to break", "relation": "isAfter", "tails": [" to break", " to break something", " to break the glass"]}
+{"head": "to break", "relation": "HasSubEvent", "tails": [" to break", " to break  break ", " to break "]}
+{"head": "to break", "relation": "Causes", "tails": [" to break", " to break ", " to break  to break"]}
+{"head": "to break", "relation": "xReason", "tails": [" to break", " to break something", " to break "]}
+{"head": "path", "relation": "ObjectUse", "tails": [" walk on", " walk along", " walk down"]}
+{"head": "path", "relation": "AtLocation", "tails": [" park", " trail", " path"]}
+{"head": "path", "relation": "CapableOf", "tails": [" walk on", " walk down", " walk along"]}
+{"head": "path", "relation": "HasProperty", "tails": [" found in woods", " found in forest", " found in garden"]}
+{"head": "path", "relation": "MadeUpOf", "tails": [" path", " walkway", " trail"]}
+{"head": "path", "relation": "NotDesires", "tails": [" walk on", " walking on", " walk down"]}
+{"head": "path", "relation": "Desires", "tails": [" walk on", " walking on", " walking"]}
+{"head": "morning", "relation": "ObjectUse", "tails": [" get out of bed", " wake up", " get out of bed in"]}
+{"head": "morning", "relation": "AtLocation", "tails": [" morning", " bed", " breakfast"]}
+{"head": "morning", "relation": "CapableOf", "tails": [" wake up", " get out of bed", " wake up early"]}
+{"head": "morning", "relation": "HasProperty", "tails": [" found in early morning", " found in morning", " morning"]}
+{"head": "morning", "relation": "MadeUpOf", "tails": [" morning", " wake up", " breakfast"]}
+{"head": "morning", "relation": "NotDesires", "tails": [" wake up", " morning sickness", " wake up early"]}
+{"head": "morning", "relation": "Desires", "tails": [" wake up", " wake up early", " wake up in"]}
+{"head": "minutes", "relation": "ObjectUse", "tails": [" take a shower", " take a nap", " take a shower in"]}
+{"head": "minutes", "relation": "AtLocation", "tails": [" movie theater", " clock", " room"]}
+{"head": "minutes", "relation": "CapableOf", "tails": [" wait in line", " wait for doctor", " take shower"]}
+{"head": "minutes", "relation": "HasProperty", "tails": [" found in movie theater", " found in church", " long"]}
+{"head": "minutes", "relation": "MadeUpOf", "tails": [" time", " clock", " minutes"]}
+{"head": "minutes", "relation": "NotDesires", "tails": [" have to go to the bathroom", " have to wait", " have to go to bathroom"]}
+{"head": "minutes", "relation": "Desires", "tails": [" have a good time", " have a break from work", " have a break"]}
+{"head": "lure him", "relation": "HinderedBy", "tails": [" bait trap", " catch him", " catch a fish"]}
+{"head": "lure him", "relation": "isBefore", "tails": [" bait trap", " bait the trap", " catch him"]}
+{"head": "lure him", "relation": "isAfter", "tails": [" bait trap", " bait the trap", " bait the bait"]}
+{"head": "lure him", "relation": "HasSubEvent", "tails": [" bait trap", " catch him", " catch the prey"]}
+{"head": "lure him", "relation": "Causes", "tails": [" lure him into a trap", " lure him in", " bait"]}
+{"head": "lure him", "relation": "xReason", "tails": [" lure him into a trap", " bait trap", " lure him in"]}
+{"head": "leash", "relation": "ObjectUse", "tails": [" use as a weapon", " walk the dog", " keep the dog safe"]}
+{"head": "leash", "relation": "AtLocation", "tails": [" dog's mouth", " leash", " dog house"]}
+{"head": "leash", "relation": "CapableOf", "tails": [" keep dog from running away", " walk dog", " keep dog safe"]}
+{"head": "leash", "relation": "HasProperty", "tails": [" leash", " used in dog training", " worn on head"]}
+{"head": "leash", "relation": "MadeUpOf", "tails": [" leash", " collar", " leash loop"]}
+{"head": "leash", "relation": "NotDesires", "tails": [" keep dog from running away", " keep dog safe", " keep dog from running off"]}
+{"head": "leash", "relation": "Desires", "tails": [" keep dog from running away", " keep dog safe", " keep dog from running off"]}
+{"head": "dog", "relation": "ObjectUse", "tails": [" play with", " play fetch with", " play fetch"]}
+{"head": "dog", "relation": "AtLocation", "tails": [" dog house", " pet store", " dog bowl"]}
+{"head": "dog", "relation": "CapableOf", "tails": [" walk on two legs", " walk on leash", " run around yard"]}
+{"head": "dog", "relation": "HasProperty", "tails": [" found in woods", " found in forest", " one of the four legs"]}
+{"head": "dog", "relation": "MadeUpOf", "tails": [" collar", " dog's mouth", " dog bone"]}
+{"head": "dog", "relation": "NotDesires", "tails": [" have to go to vet", " run away", " have to go to the vet"]}
+{"head": "dog", "relation": "Desires", "tails": [" have companionship", " dog food", " have fun"]}
+{"head": "chase cat", "relation": "HinderedBy", "tails": [" play with cat", " chase cat", " have fun with cat"]}
+{"head": "chase cat", "relation": "isBefore", "tails": [" catch cat", " chase cat", " get exercise"]}
+{"head": "chase cat", "relation": "isAfter", "tails": [" play with cat", " chase cat", " get exercise"]}
+{"head": "chase cat", "relation": "HasSubEvent", "tails": [" chase cat", " get exercise", " run away"]}
+{"head": "chase cat", "relation": "Causes", "tails": [" play with cat", " have fun", " have fun with cat"]}
+{"head": "chase cat", "relation": "xReason", "tails": [" play with cat", " chase cat", " run away from cat"]}
+{"head": "cat", "relation": "ObjectUse", "tails": [" play with", " have a pet", " cat litter box"]}
+{"head": "cat", "relation": "AtLocation", "tails": [" cat litter box", " pet store", " pet shop"]}
+{"head": "cat", "relation": "CapableOf", "tails": [" catch mouse", " run away", " run around house"]}
+{"head": "cat", "relation": "HasProperty", "tails": [" found in forest", " found in woods", " one of the cats"]}
+{"head": "cat", "relation": "MadeUpOf", "tails": [" catnip", " cat's tail", " cat litter box"]}
+{"head": "cat", "relation": "NotDesires", "tails": [" run away", " have to go to vet", " run away from people"]}
+{"head": "cat", "relation": "Desires", "tails": [" cat food", " cat litter box", " have a home"]}
+{"head": "He chased the cat for several minutes.", "relation": "xAttr", "tails": [" playful", " aggressive", " active"]}
+{"head": "He chased the cat for several minutes.", "relation": "xWant", "tails": [" to catch the cat", " to catch the cat.", " chase the cat"]}
+{"head": "He chased the cat for several minutes.", "relation": "xNeed", "tails": [" to find the cat", " to have a cat", " to find the cat."]}
+{"head": "He chased the cat for several minutes.", "relation": "xEffect", "tails": [" he gets a scratch on his leg", " he gets a scratch on his leg.", " he gets a scratch on his back"]}
+{"head": "He chased the cat for several minutes.", "relation": "HinderedBy", "tails": [" The cat ran away.", " The cat is too fast for the dog to catch.", " The cat is too fast for the dog to keep up."]}
+{"head": "He chased the cat for several minutes.", "relation": "oWant", "tails": [" to get away from the cat", " to run away from the cat", " none"]}
+{"head": "He chased the cat for several minutes.", "relation": "xReact", "tails": [" happy to have caught the cat.", " happy to have caught the cat", " happy to have found the cat."]}
+{"head": "He chased the cat for several minutes.", "relation": "oEffect", "tails": [" none", " the cat runs away", " the cat runs away."]}
+{"head": "He chased the cat for several minutes.", "relation": "xIntent", "tails": [" to catch the cat", " to play with the cat", " to get the cat"]}
+{"head": "He chased the cat for several minutes.", "relation": "oReact", "tails": [" none", " scared", " chased"]}
+{"head": "He chased the cat for several minutes.", "relation": "isBefore", "tails": [" the cat ran away", " the cat to run away", " the cat runs away"]}
+{"head": "He chased the cat for several minutes.", "relation": "isAfter", "tails": [" the cat ran away", " the cat to run away", " the cat ran away from him"]}
+{"head": "He chased the cat for several minutes.", "relation": "HasSubEvent", "tails": [" he gets a sore throat", " he gets a sore back", " he gets a cat"]}
+{"head": "He chased the cat for several minutes.", "relation": "Causes", "tails": [" the cat to run away", " the cat ran away", " the cat ran away from him"]}
+{"head": "He chased the cat for several minutes.", "relation": "xReason", "tails": [" the cat ran away", " the cat to run away", " the cat ran away from him"]}
+{"head": "Hal's dog strained so hard, the leash broke!", "relation": "xAttr", "tails": [" careless", " clumsy", " hurtful"]}
+{"head": "Hal's dog strained so hard, the leash broke!", "relation": "xWant", "tails": [" to put the leash on the dog", " to put the leash back on the dog", " to put the leash back on"]}
+{"head": "Hal's dog strained so hard, the leash broke!", "relation": "xNeed", "tails": [" none", " to walk the dog", " to be walking the dog"]}
+{"head": "Hal's dog strained so hard, the leash broke!", "relation": "xEffect", "tails": [" gets yelled at", " gets yelled at by the dog owner", " gets yelled at by the dog's owner"]}
+{"head": "Hal's dog strained so hard, the leash broke!", "relation": "HinderedBy", "tails": [" The dog is too heavy.", " The dog is too strong.", " The dog is too fast."]}
+{"head": "Hal's dog strained so hard, the leash broke!", "relation": "oWant", "tails": [" none", " to take the dog to the vet", " to take the dog to the vet."]}
+{"head": "Hal's dog strained so hard, the leash broke!", "relation": "xReact", "tails": [" hurt", " sad", " scared"]}
+{"head": "Hal's dog strained so hard, the leash broke!", "relation": "oEffect", "tails": [" none", " gets yelled at", " gets yelled at by person"]}
+{"head": "Hal's dog strained so hard, the leash broke!", "relation": "xIntent", "tails": [" none", " to play with the dog", " to play with the dog."]}
+{"head": "Hal's dog strained so hard, the leash broke!", "relation": "oReact", "tails": [" none", " hurt", " scared"]}
+{"head": "Hal's dog strained so hard, the leash broke!", "relation": "isBefore", "tails": [" the dog runs away", " the dog runs away from the dog", " the dog runs away from the leash"]}
+{"head": "Hal's dog strained so hard, the leash broke!", "relation": "isAfter", "tails": [" the dog ran away from the dog", " the dog ran away from the leash", " the dog ran away"]}
+{"head": "Hal's dog strained so hard, the leash broke!", "relation": "HasSubEvent", "tails": [" walk the dog", " get a new leash", " get a bandaid"]}
+{"head": "Hal's dog strained so hard, the leash broke!", "relation": "Causes", "tails": [" The dog is too heavy.", " the leash broke", " The dog is too fast."]}
+{"head": "Hal's dog strained so hard, the leash broke!", "relation": "xReason", "tails": [" The dog is running too fast for the leash to break.", " The dog is running too fast for the leash to be broken.", " The dog is running too fast."]}
+{"head": "Hal was walking his dog one morning.", "relation": "xAttr", "tails": [" friendly", " responsible", " active"]}
+{"head": "Hal was walking his dog one morning.", "relation": "xWant", "tails": [" to take the dog for a walk", " to take the dog for a walk.", " to take the dog home"]}
+{"head": "Hal was walking his dog one morning.", "relation": "xNeed", "tails": [" to put the leash on the dog", " walk the dog", " to put the leash on the dog."]}
+{"head": "Hal was walking his dog one morning.", "relation": "xEffect", "tails": [" gets exercise", " walks the dog", " walks dog"]}
+{"head": "Hal was walking his dog one morning.", "relation": "HinderedBy", "tails": [" The weather is too bad to walk the dog.", " The dog is sick.", " The weather is too bad to walk."]}
+{"head": "Hal was walking his dog one morning.", "relation": "oWant", "tails": [" none", " to go for a walk", " to greet the dog"]}
+{"head": "Hal was walking his dog one morning.", "relation": "xReact", "tails": [" happy", " tired", " relaxed"]}
+{"head": "Hal was walking his dog one morning.", "relation": "oEffect", "tails": [" none", " get exercise", " they get exercise"]}
+{"head": "Hal was walking his dog one morning.", "relation": "xIntent", "tails": [" to get exercise", " to get some exercise", " to exercise the dog"]}
+{"head": "Hal was walking his dog one morning.", "relation": "oReact", "tails": [" none", " happy", " happy."]}
+{"head": "Hal was walking his dog one morning.", "relation": "isBefore", "tails": [" PersonX takes the dog for a walk.", " PersonX takes the dog for a walk", " PersonY takes the dog home."]}
+{"head": "Hal was walking his dog one morning.", "relation": "isAfter", "tails": [" PersonX takes the dog for a walk.", " PersonX takes the dog for a walk", " PersonX takes the dog for a walk with PersonY"]}
+{"head": "Hal was walking his dog one morning.", "relation": "HasSubEvent", "tails": [" get exercise", " walk dog", " walks dog"]}
+{"head": "Hal was walking his dog one morning.", "relation": "Causes", "tails": [" the dog to go to the bathroom", " the dog to go to the park", " the dog to go to the bathroom."]}
+{"head": "Hal was walking his dog one morning.", "relation": "xReason", "tails": [" the dog to go to the bathroom", " the dog to go to the park", " the dog to go to the bathroom."]}
+{"head": "Hal dog", "relation": "ObjectUse", "tails": [" play fetch with", " play with", " play with the dog"]}
+{"head": "Hal dog", "relation": "AtLocation", "tails": [" dog house", " pet store", " dog bowl"]}
+{"head": "Hal dog", "relation": "CapableOf", "tails": [" walk on two legs", " walk on leash", " run around yard"]}
+{"head": "Hal dog", "relation": "HasProperty", "tails": [" two legs", " one of many dogs in the world", " one of the dogs in the family"]}
+{"head": "Hal dog", "relation": "MadeUpOf", "tails": [" dog bone", " dog's mouth", " dog's tail"]}
+{"head": "Hal dog", "relation": "NotDesires", "tails": [" run away", " run away from", " run away from dog"]}
+{"head": "Hal dog", "relation": "Desires", "tails": [" dog food", " have a good time", " have a good home"]}
+{"head": "Hal", "relation": "ObjectUse", "tails": [" get a new job", " get a job", " get a new job."]}
+{"head": "Hal", "relation": "AtLocation", "tails": [" house", " kitchen", " car"]}
+{"head": "Hal", "relation": "CapableOf", "tails": [" get into argument", " run away", " get into trouble"]}
+{"head": "Hal", "relation": "HasProperty", "tails": [" one of the main characters in the movie", " one of the main characters in the film", " one of the main characters in the play"]}
+{"head": "Hal", "relation": "MadeUpOf", "tails": ["            ", "             ", "              "]}
+{"head": "Hal", "relation": "NotDesires", "tails": ["                  ", "                   ", "                 "]}
+{"head": "Hal", "relation": "Desires", "tails": ["              ", "               ", "             "]}
+{"head": "Finally Hal lured him back to his side.", "relation": "xAttr", "tails": [" happy", " strong", " confident"]}
+{"head": "Finally Hal lured him back to his side.", "relation": "xWant", "tails": [" to make sure they are safe", " to make sure he is safe", " to make him happy"]}
+{"head": "Finally Hal lured him back to his side.", "relation": "xNeed", "tails": [" none", " to find him", " to have a plan"]}
+{"head": "Finally Hal lured him back to his side.", "relation": "xEffect", "tails": [" none", " gets yelled at", " gets a hug"]}
+{"head": "Finally Hal lured him back to his side.", "relation": "HinderedBy", "tails": [" They are too far away from each other.", " They are too far away from them.", " They are too far away."]}
+{"head": "Finally Hal lured him back to his side.", "relation": "oWant", "tails": [" to get away from him", " to get away from the situation", " none"]}
+{"head": "Finally Hal lured him back to his side.", "relation": "xReact", "tails": [" happy", " good about themselves", " good about themselves."]}
+{"head": "Finally Hal lured him back to his side.", "relation": "oEffect", "tails": [" none", " get's away from them", " get's away from him"]}
+{"head": "Finally Hal lured him back to his side.", "relation": "xIntent", "tails": [" to be with someone", " to be in control", " none"]}
+{"head": "Finally Hal lured him back to his side.", "relation": "oReact", "tails": [" none", " happy", " happy."]}
+{"head": "Finally Hal lured him back to his side.", "relation": "isBefore", "tails": [" he goes back to his side", " none", " he goes back to his place"]}
+{"head": "Finally Hal lured him back to his side.", "relation": "isAfter", "tails": [" PersonX is not comfortable with that.", " PersonX is too far away.", " PersonX is in a coma."]}
+{"head": "Finally Hal lured him back to his side.", "relation": "HasSubEvent", "tails": [" none", " get away from the other person", " get away from the situation"]}
+{"head": "Finally Hal lured him back to his side.", "relation": "Causes", "tails": [" he is in love with her", " none", " he is in love with her."]}
+{"head": "Finally Hal lured him back to his side.", "relation": "xReason", "tails": [" none", " he is in love with her", " he is in love with her."]}
+{"head": "A cat ran across their path.", "relation": "xAttr", "tails": [" scared", " startled", " friendly"]}
+{"head": "A cat ran across their path.", "relation": "xWant", "tails": [" to pet the cat", " to catch the cat", " to pet the cat."]}
+{"head": "A cat ran across their path.", "relation": "xNeed", "tails": [" none", " to be walking in the street", " to be walking in the woods"]}
+{"head": "A cat ran across their path.", "relation": "xEffect", "tails": [" none", " a dog", " a cat"]}
+{"head": "A cat ran across their path.", "relation": "HinderedBy", "tails": [" a dog ran into their path", " a dog ran across their path", " a dog ran into the path"]}
+{"head": "A cat ran across their path.", "relation": "oWant", "tails": [" none", " to pet the cat", " to chase the cat"]}
+{"head": "A cat ran across their path.", "relation": "xReact", "tails": [" scared", " happy", " a friend"]}
+{"head": "A cat ran across their path.", "relation": "oEffect", "tails": [" none", " a dog", " a cat"]}
+{"head": "A cat ran across their path.", "relation": "xIntent", "tails": [" none", " a friend", " a pet"]}
+{"head": "A cat ran across their path.", "relation": "oReact", "tails": [" none", " scared", " happy"]}
+{"head": "A cat ran across their path.", "relation": "isBefore", "tails": [" a dog ran into their path", " a dog", " a dog ran into the path"]}
+{"head": "A cat ran across their path.", "relation": "isAfter", "tails": [" a dog ran into their path", " a dog ran into the path", " a dog ran into the street"]}
+{"head": "A cat ran across their path.", "relation": "HasSubEvent", "tails": [" walk towards the cat", " walk towards cat", " walk down the street"]}
+{"head": "A cat ran across their path.", "relation": "Causes", "tails": [" a dog", " a cat", " a friend"]}
+{"head": "A cat ran across their path.", "relation": "xReason", "tails": [" a dog", " a cat", " a friend"]}

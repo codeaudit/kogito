@@ -1,0 +1,587 @@
+{"head": "world", "relation": "ObjectUse", "tails": [" live in", " world", " living in"]}
+{"head": "world", "relation": "AtLocation", "tails": [" world", " earth", " globe"]}
+{"head": "world", "relation": "CapableOf", "tails": [" live in", " world to end", " world"]}
+{"head": "world", "relation": "HasProperty", "tails": [" world", " earth", " world wide"]}
+{"head": "world", "relation": "MadeUpOf", "tails": [" world", " earth", " globe"]}
+{"head": "world", "relation": "NotDesires", "tails": [" world to end", " world war", " world to fall apart"]}
+{"head": "world", "relation": "Desires", "tails": [" live in", " world peace", " world"]}
+{"head": "water", "relation": "ObjectUse", "tails": [" water plants", " water plant", " drink"]}
+{"head": "water", "relation": "AtLocation", "tails": [" water fountain", " water cooler", " water bottle"]}
+{"head": "water", "relation": "CapableOf", "tails": [" water plants", " water plant", " drink"]}
+{"head": "water", "relation": "HasProperty", "tails": [" found in ocean", " water", " found in oceans"]}
+{"head": "water", "relation": "MadeUpOf", "tails": [" water", " watermelon", " water bottle"]}
+{"head": "water", "relation": "NotDesires", "tails": [" water", " water to drink", " water boils"]}
+{"head": "water", "relation": "Desires", "tails": [" water to drink", " water", " water plants"]}
+{"head": "to love", "relation": "HinderedBy", "tails": [" to love", " to love ", " to love someone"]}
+{"head": "to love", "relation": "isBefore", "tails": [" to love", " to be loved", " to love someone"]}
+{"head": "to love", "relation": "isAfter", "tails": [" to be loved", " to love", " to be happy"]}
+{"head": "to love", "relation": "HasSubEvent", "tails": [" to love", " to love others", " to love someone"]}
+{"head": "to love", "relation": "Causes", "tails": [" to love", " to be loved", " to love someone"]}
+{"head": "to love", "relation": "xReason", "tails": [" to love", " to be loved", " to love someone"]}
+{"head": "to live", "relation": "HinderedBy", "tails": [" to live", " to live a long time", " to live "]}
+{"head": "to live", "relation": "isBefore", "tails": [" to live", " to live a long time", " to live a good life"]}
+{"head": "to live", "relation": "isAfter", "tails": [" to live a long time", " to live", " to live a good life"]}
+{"head": "to live", "relation": "HasSubEvent", "tails": [" to live", " eat healthy", " eat healthy food"]}
+{"head": "to live", "relation": "Causes", "tails": [" to live", " live long", " to live life"]}
+{"head": "to live", "relation": "xReason", "tails": [" to live", " to live life to fullest", " to live a long time"]}
+{"head": "to like", "relation": "HinderedBy", "tails": [" to like", " to like ", " to like something"]}
+{"head": "to like", "relation": "isBefore", "tails": [" to like", " to like something", " to like it"]}
+{"head": "to like", "relation": "isAfter", "tails": [" to like", " to like something", " to be liked"]}
+{"head": "to like", "relation": "HasSubEvent", "tails": [" to like", " to like something", " to like  like"]}
+{"head": "to like", "relation": "Causes", "tails": [" to like", " to like something", " none"]}
+{"head": "to like", "relation": "xReason", "tails": [" to like", " to like something", " none"]}
+{"head": "to let", "relation": "HinderedBy", "tails": [" to let   let                 ", " to let  let                  ", " to let"]}
+{"head": "to let", "relation": "isBefore", "tails": [" to let  let  let  let  let  let  let  let ", " to let  let  let  let  let  let  let  let", " to let  let  let  let  let  let  let  let  let"]}
+{"head": "to let", "relation": "isAfter", "tails": [" to let someone else do something", " to let someone else in", " to let someone else do the work"]}
+{"head": "to let", "relation": "HasSubEvent", "tails": [" to let  let  let  let  let  let  let  let  let", " to let  let  let  let  let  let  let  let", " to let  let  let  let  let  let  let"]}
+{"head": "to let", "relation": "Causes", "tails": [" to let  let  let  let  let  let  let  let  let  let  let", " to let  let  let  let  let  let  let  let  let  let", " to let  let  let  let  let  let  let  let  let"]}
+{"head": "to let", "relation": "xReason", "tails": [" let go", " to let", " let go of"]}
+{"head": "to know", "relation": "HinderedBy", "tails": [" to know", " to know ", " to know  about "]}
+{"head": "to know", "relation": "isBefore", "tails": [" to know", " to know what to do", " to know what to do next"]}
+{"head": "to know", "relation": "isAfter", "tails": [" to know", " to know what is going on", " to know what to do"]}
+{"head": "to know", "relation": "HasSubEvent", "tails": [" to know", " to know ", " to know  about"]}
+{"head": "to know", "relation": "Causes", "tails": [" to know", " to know ", " to know  about"]}
+{"head": "to know", "relation": "xReason", "tails": [" to know", " to know about", " to know  about"]}
+{"head": "to hear", "relation": "HinderedBy", "tails": [" to hear", " to hear ", " to hear something"]}
+{"head": "to hear", "relation": "isBefore", "tails": [" to hear", " listen to", " to hear "]}
+{"head": "to hear", "relation": "isAfter", "tails": [" to hear what they are saying", " to hear what is being said", " to hear"]}
+{"head": "to hear", "relation": "HasSubEvent", "tails": [" to hear", " listen to", " listen to music"]}
+{"head": "to hear", "relation": "Causes", "tails": [" listen to", " listen to music", " hear"]}
+{"head": "to hear", "relation": "xReason", "tails": [" listen to", " listen to music", " hear music"]}
+{"head": "to go", "relation": "HinderedBy", "tails": [" to go", " to go ", " to go  to"]}
+{"head": "to go", "relation": "isBefore", "tails": [" to go", " get in car", " to go somewhere"]}
+{"head": "to go", "relation": "isAfter", "tails": [" get in the car", " get in car", " to go to the bathroom"]}
+{"head": "to go", "relation": "HasSubEvent", "tails": [" get in car", " to go", " to go  home"]}
+{"head": "to go", "relation": "Causes", "tails": [" to go", " get in car", " to go  home"]}
+{"head": "to go", "relation": "xReason", "tails": [" to go", " get in car", " to go somewhere"]}
+{"head": "to enjoy", "relation": "HinderedBy", "tails": [" to enjoy", " to enjoy ", " to enjoy something"]}
+{"head": "to enjoy", "relation": "isBefore", "tails": [" to enjoy", " have fun", " to enjoy life"]}
+{"head": "to enjoy", "relation": "isAfter", "tails": [" have fun", " to be happy", " to be entertained"]}
+{"head": "to enjoy", "relation": "HasSubEvent", "tails": [" to enjoy", " have fun", " enjoy yourself"]}
+{"head": "to enjoy", "relation": "Causes", "tails": [" to enjoy", " have fun", " have good time"]}
+{"head": "to enjoy", "relation": "xReason", "tails": [" to enjoy", " have fun", " have good time"]}
+{"head": "to drink", "relation": "HinderedBy", "tails": [" to drink", " to drink ", " to drink  "]}
+{"head": "to drink", "relation": "isBefore", "tails": [" to drink", " get drunk", " drink water"]}
+{"head": "to drink", "relation": "isAfter", "tails": [" water", " drink water", " get drunk"]}
+{"head": "to drink", "relation": "HasSubEvent", "tails": [" get drunk", " put in glass", " get thirsty"]}
+{"head": "to drink", "relation": "Causes", "tails": [" get drunk", " water", " drink from glass"]}
+{"head": "to drink", "relation": "xReason", "tails": [" get drunk", " have to drink", " drink water"]}
+{"head": "to do", "relation": "HinderedBy", "tails": [" to do", " to do ", " to do  to do "]}
+{"head": "to do", "relation": "isBefore", "tails": [" to do", " have to do", " to do "]}
+{"head": "to do", "relation": "isAfter", "tails": [" to do", " have to do", " to do something"]}
+{"head": "to do", "relation": "HasSubEvent", "tails": [" to do", " to do ", " get out of bed"]}
+{"head": "to do", "relation": "Causes", "tails": [" to do", " have to do", " to do "]}
+{"head": "to do", "relation": "xReason", "tails": [" to do", " have to do", " to do "]}
+{"head": "to claim", "relation": "HinderedBy", "tails": [" to claim", " to claim ", " to claim something"]}
+{"head": "to claim", "relation": "isBefore", "tails": [" to claim", " to claim something", " to claim "]}
+{"head": "to claim", "relation": "isAfter", "tails": [" to claim", " to get a job", " to get a new job"]}
+{"head": "to claim", "relation": "HasSubEvent", "tails": [" to claim", " to claim ", " to claim  claim "]}
+{"head": "to claim", "relation": "Causes", "tails": [" to claim", " to claim ", " to claim something"]}
+{"head": "to claim", "relation": "xReason", "tails": [" to claim", " to claim something", " to claim for themselves"]}
+{"head": "to chat", "relation": "HinderedBy", "tails": [" to chat", " to chat with someone", " to chat with"]}
+{"head": "to chat", "relation": "isBefore", "tails": [" have a conversation", " have a conversation with someone", " to talk to someone"]}
+{"head": "to chat", "relation": "isAfter", "tails": [" have a conversation", " socialize", " have a conversation with"]}
+{"head": "to chat", "relation": "HasSubEvent", "tails": [" get to know someone", " get to know other people", " get to know person"]}
+{"head": "to chat", "relation": "Causes", "tails": [" have a conversation", " have a conversation with someone", " have a conversation with another person"]}
+{"head": "to chat", "relation": "xReason", "tails": [" have a conversation with someone", " have a conversation", " have a conversation with another person"]}
+{"head": "to believe", "relation": "HinderedBy", "tails": [" to believe", " to believe ", " to believe in something"]}
+{"head": "to believe", "relation": "isBefore", "tails": [" to believe", " to believe in something", " to believe in god"]}
+{"head": "to believe", "relation": "isAfter", "tails": [" to believe in something", " to believe", " to believe in god"]}
+{"head": "to believe", "relation": "HasSubEvent", "tails": [" to believe", " to believe in something", " to believe in god"]}
+{"head": "to believe", "relation": "Causes", "tails": [" to believe", " to believe in something", " to believe in god"]}
+{"head": "to believe", "relation": "xReason", "tails": [" to believe", " to believe in something", " to believe in god"]}
+{"head": "to be", "relation": "HinderedBy", "tails": [" to be", " to be ", " to be a good person"]}
+{"head": "to be", "relation": "isBefore", "tails": [" to be", " to be a good person", " to be a good friend"]}
+{"head": "to be", "relation": "isAfter", "tails": [" to be", " to be good", " to be a leader"]}
+{"head": "to be", "relation": "HasSubEvent", "tails": [" to be", " to be ", " to be  happy"]}
+{"head": "to be", "relation": "Causes", "tails": [" to be", " to be a good person", " to be  good"]}
+{"head": "to be", "relation": "xReason", "tails": [" to be good at what they do", " to be", " to be a good person"]}
+{"head": "teas", "relation": "ObjectUse", "tails": [" give to the dog", " make a tea bag", " give to a friend"]}
+{"head": "teas", "relation": "AtLocation", "tails": [" cupboard", " coffee shop", " tea room"]}
+{"head": "teas", "relation": "CapableOf", "tails": [" drink", " make tea", " make tea bag"]}
+{"head": "teas", "relation": "HasProperty", "tails": [" made from tea leaves", " made from herbs and spices", " made from plants"]}
+{"head": "teas", "relation": "MadeUpOf", "tails": [" tea bag", " tea leaves", " tea"]}
+{"head": "teas", "relation": "NotDesires", "tails": [" drink", " get sick", " have caffeine in"]}
+{"head": "teas", "relation": "Desires", "tails": [" drink", " have energy", " make tea better"]}
+{"head": "teahouses", "relation": "ObjectUse", "tails": [" drink tea in", " drink tea from", " drink tea"]}
+{"head": "teahouses", "relation": "AtLocation", "tails": [" teahouse", " teah house", " teahouses"]}
+{"head": "teahouses", "relation": "CapableOf", "tails": [" drink tea", " drink tea in", " eat tea"]}
+{"head": "teahouses", "relation": "HasProperty", "tails": [" one of the most beautiful places in the world", " one of the most beautiful places in the world.", " one of the most popular places to eat in the world"]}
+{"head": "teahouses", "relation": "MadeUpOf", "tails": [" teahouses", " teacup", " teahouse"]}
+{"head": "teahouses", "relation": "NotDesires", "tails": [" drink tea", " drink tea in", " drink tea from"]}
+{"head": "teahouses", "relation": "Desires", "tails": [" have a good time", " drink tea", " have a place to eat"]}
+{"head": "tea", "relation": "ObjectUse", "tails": [" drink while watching tv", " drink", " make a tea bag"]}
+{"head": "tea", "relation": "AtLocation", "tails": [" cupboard", " coffee shop", " tea cup"]}
+{"head": "tea", "relation": "CapableOf", "tails": [" pour into cup", " drink", " pour into glass"]}
+{"head": "tea", "relation": "HasProperty", "tails": [" hot", " liquid", " tea"]}
+{"head": "tea", "relation": "MadeUpOf", "tails": [" tea bag", " water", " tea"]}
+{"head": "tea", "relation": "NotDesires", "tails": [" drink", " water", " tea leaves"]}
+{"head": "tea", "relation": "Desires", "tails": [" drink", " drink with breakfast", " drink to stay awake"]}
+{"head": "scented teas", "relation": "ObjectUse", "tails": [" use as a perfume", " use as a gift", " make a tea party"]}
+{"head": "scented teas", "relation": "AtLocation", "tails": [" tea room", " medicine chest", " tea shop"]}
+{"head": "scented teas", "relation": "CapableOf", "tails": [" make tea", " drink", " make a tea"]}
+{"head": "scented teas", "relation": "HasProperty", "tails": [" made from tea leaves", " made from herbs and spices", " made from herbs"]}
+{"head": "scented teas", "relation": "MadeUpOf", "tails": [" tea leaves", " tea bag", " tea bags"]}
+{"head": "scented teas", "relation": "NotDesires", "tails": [" smell good", " smell nice", " make a scent"]}
+{"head": "scented teas", "relation": "Desires", "tails": [" smell good", " make tea", " make a tea"]}
+{"head": "popular beverage", "relation": "ObjectUse", "tails": [" drink to stay hydrated", " drink at a party", " drink to stay awake"]}
+{"head": "popular beverage", "relation": "AtLocation", "tails": [" ice cream", " soda", " soda pop"]}
+{"head": "popular beverage", "relation": "CapableOf", "tails": [" drink", " serve to guests", " drink at parties"]}
+{"head": "popular beverage", "relation": "HasProperty", "tails": [" popular in many countries", " popular with many people", " found in many places"]}
+{"head": "popular beverage", "relation": "MadeUpOf", "tails": [" water", " soda", " drink"]}
+{"head": "popular beverage", "relation": "NotDesires", "tails": [" drink a lot of", " drink too much", " drink a lot of it"]}
+{"head": "popular beverage", "relation": "Desires", "tails": [" drink to stay hydrated", " drink", " drink to stay awake"]}
+{"head": "people", "relation": "ObjectUse", "tails": [" people to do things for them", " people to do things with", " people to do things for"]}
+{"head": "people", "relation": "AtLocation", "tails": [" people to talk to", " people to talk to each other", " people to talk to eachother"]}
+{"head": "people", "relation": "CapableOf", "tails": [" people to do things for them", " people to get to know each other", " people to do things together"]}
+{"head": "people", "relation": "HasProperty", "tails": [" people who like other people", " people who like other people to like them", " people who like other people's company"]}
+{"head": "people", "relation": "MadeUpOf", "tails": [" people who like to play video games", " people who like to play with other people", " people who like to be alone"]}
+{"head": "people", "relation": "NotDesires", "tails": [" people to die", " people to get sick", " people to get hurt"]}
+{"head": "people", "relation": "Desires", "tails": [" people to like", " people to love", " people to be happy"]}
+{"head": "lot", "relation": "ObjectUse", "tails": [" park the car in", " parking lot", " park the car"]}
+{"head": "lot", "relation": "AtLocation", "tails": [" parking lot", " park", " parking space"]}
+{"head": "lot", "relation": "CapableOf", "tails": [" park car in", " park car", " park car on"]}
+{"head": "lot", "relation": "HasProperty", "tails": [" parking lot", " found in city", " found in many cities"]}
+{"head": "lot", "relation": "MadeUpOf", "tails": [" parking lot", " lotteries", " parking space"]}
+{"head": "lot", "relation": "NotDesires", "tails": [" parking lot", " parking spaces", " parking space"]}
+{"head": "lot", "relation": "Desires", "tails": [" parking lot", " parking spaces", " parking space"]}
+{"head": "know lot", "relation": "HinderedBy", "tails": [" know a lot of things", " know a lot", " know lot of things"]}
+{"head": "know lot", "relation": "isBefore", "tails": [" learn a lot", " know lot of things", " learn new things"]}
+{"head": "know lot", "relation": "isAfter", "tails": [" know lot of things", " learn new things", " know many things"]}
+{"head": "know lot", "relation": "HasSubEvent", "tails": [" know lot of things", " learn new things", " learn a lot"]}
+{"head": "know lot", "relation": "Causes", "tails": [" know lot of things", " learn new things", " know many things"]}
+{"head": "know lot", "relation": "xReason", "tails": [" know lot of things", " learn new things", " know many things"]}
+{"head": "isn't it ?", "relation": "xAttr", "tails": [" intelligent", " thoughtful", " happy"]}
+{"head": "isn't it ?", "relation": "xWant", "tails": [" to make a good impression", " to be happy", " to get a job"]}
+{"head": "isn't it ?", "relation": "xNeed", "tails": [" none", " is a good thing", " is a good idea"]}
+{"head": "isn't it ?", "relation": "xEffect", "tails": [" none", " is a good thing", " is important in life"]}
+{"head": "isn't it ?", "relation": "HinderedBy", "tails": [" is a good thing", " is a good idea", " is a good thing."]}
+{"head": "isn't it ?", "relation": "oWant", "tails": [" none", " to have fun", " to be happy"]}
+{"head": "isn't it ?", "relation": "xReact", "tails": [" happy", " good", " satisfied"]}
+{"head": "isn't it ?", "relation": "oEffect", "tails": [" none", " is a good thing", " is a part of life"]}
+{"head": "isn't it ?", "relation": "xIntent", "tails": [" none", " to be happy", " to be happy."]}
+{"head": "isn't it ?", "relation": "oReact", "tails": [" none", " happy", " happy."]}
+{"head": "isn't it ?", "relation": "isBefore", "tails": [" is a good thing", " is a good idea", " is good for the world"]}
+{"head": "isn't it ?", "relation": "isAfter", "tails": [" is a good thing", " is a good idea", " is good for the environment"]}
+{"head": "isn't it ?", "relation": "HasSubEvent", "tails": [" none", " is a good thing", " is a good idea"]}
+{"head": "isn't it ?", "relation": "Causes", "tails": [" is a good thing", " is a good idea", " is a good thing."]}
+{"head": "isn't it ?", "relation": "xReason", "tails": [" is a good thing", " is a good idea", " is a good thing."]}
+{"head": "homeland", "relation": "ObjectUse", "tails": [" living in", " travel to", " war"]}
+{"head": "homeland", "relation": "AtLocation", "tails": [" america", " country", " american state"]}
+{"head": "homeland", "relation": "CapableOf", "tails": [" live in", " fight war", " travel to"]}
+{"head": "homeland", "relation": "HasProperty", "tails": [" found in many countries", " found in many places", " found in most countries"]}
+{"head": "homeland", "relation": "MadeUpOf", "tails": [" war", " country", " earth"]}
+{"head": "homeland", "relation": "NotDesires", "tails": [" war", " people to die", " people to be killed"]}
+{"head": "homeland", "relation": "Desires", "tails": [" war", " peace", " people"]}
+{"head": "health", "relation": "ObjectUse", "tails": [" eat healthy", " eat healthy foods", " eat healthy food"]}
+{"head": "health", "relation": "AtLocation", "tails": [" medicine chest", " doctor's office", " medicine cabinet"]}
+{"head": "health", "relation": "CapableOf", "tails": [" eat healthy foods", " eat healthy", " eat healthy food"]}
+{"head": "health", "relation": "HasProperty", "tails": [" healthy", " healthy body", " good for health"]}
+{"head": "health", "relation": "MadeUpOf", "tails": [" health", " medicine", " medicine chest"]}
+{"head": "health", "relation": "NotDesires", "tails": [" lose weight", " health problems", " health issues"]}
+{"head": "health", "relation": "Desires", "tails": [" eat healthy", " feel better", " feel good"]}
+{"head": "green teas", "relation": "ObjectUse", "tails": [" get rid of a cold", " get rid of stress", " get rid of a headache"]}
+{"head": "green teas", "relation": "AtLocation", "tails": [" tea room", " tea shop", " green tea"]}
+{"head": "green teas", "relation": "CapableOf", "tails": [" drink", " make tea", " make tea bag"]}
+{"head": "green teas", "relation": "HasProperty", "tails": [" green tea", " green tea leaves", " green"]}
+{"head": "green teas", "relation": "MadeUpOf", "tails": [" green tea", " green tea leaves", " tea bag"]}
+{"head": "green teas", "relation": "NotDesires", "tails": [" green tea", " green tea is good for you", " green tea leaves"]}
+{"head": "green teas", "relation": "Desires", "tails": [" green tea", " make tea", " make tea better"]}
+{"head": "enjoy tea", "relation": "HinderedBy", "tails": [" drink tea", " drink", " have tea"]}
+{"head": "enjoy tea", "relation": "isBefore", "tails": [" drink", " drink tea", " have tea"]}
+{"head": "enjoy tea", "relation": "isAfter", "tails": [" drink", " drink tea", " have tea"]}
+{"head": "enjoy tea", "relation": "HasSubEvent", "tails": [" drink tea", " drink", " have tea"]}
+{"head": "enjoy tea", "relation": "Causes", "tails": [" drink tea", " drink", " have tea"]}
+{"head": "enjoy tea", "relation": "xReason", "tails": [" drink tea", " drink", " have tea"]}
+{"head": "enjoy cup", "relation": "HinderedBy", "tails": [" drink from", " drink from cup", " drink"]}
+{"head": "enjoy cup", "relation": "isBefore", "tails": [" drink", " drink from", " drink cup"]}
+{"head": "enjoy cup", "relation": "isAfter", "tails": [" drink", " drink from", " drink coffee"]}
+{"head": "enjoy cup", "relation": "HasSubEvent", "tails": [" drink", " drink cup", " drink from cup"]}
+{"head": "enjoy cup", "relation": "Causes", "tails": [" drink", " drink from", " drink from cup"]}
+{"head": "enjoy cup", "relation": "xReason", "tails": [" drink", " drink from", " drink from cup"]}
+{"head": "drink tea", "relation": "HinderedBy", "tails": [" drink water", " drink tea", " drink"]}
+{"head": "drink tea", "relation": "isBefore", "tails": [" drink water", " drink", " drink tea"]}
+{"head": "drink tea", "relation": "isAfter", "tails": [" drink water", " drink", " drink tea"]}
+{"head": "drink tea", "relation": "HasSubEvent", "tails": [" drink", " drink water", " drink tea"]}
+{"head": "drink tea", "relation": "Causes", "tails": [" drink", " drink tea", " drink water"]}
+{"head": "drink tea", "relation": "xReason", "tails": [" drink", " drink tea", " drink water"]}
+{"head": "cup", "relation": "ObjectUse", "tails": [" drink from", " pour the liquid into", " hold the liquid"]}
+{"head": "cup", "relation": "AtLocation", "tails": [" cupboard", " cupboards", " cupcake"]}
+{"head": "cup", "relation": "CapableOf", "tails": [" drink from", " pour liquid into", " hold liquid"]}
+{"head": "cup", "relation": "HasProperty", "tails": [" found in cupboard", " found in kitchen cupboard", " found in kitchen"]}
+{"head": "cup", "relation": "MadeUpOf", "tails": [" cup", " cupcake", " cupboard"]}
+{"head": "cup", "relation": "NotDesires", "tails": [" cupboard", " cupcake", " drink from"]}
+{"head": "cup", "relation": "Desires", "tails": [" drink from", " drink water from", " hold liquid"]}
+{"head": "compressed tea", "relation": "ObjectUse", "tails": [" put in a tea bag", " make a tea bag", " make tea"]}
+{"head": "compressed tea", "relation": "AtLocation", "tails": [" tea bag", " cupboard", " tea cup"]}
+{"head": "compressed tea", "relation": "CapableOf", "tails": [" drink", " make tea", " heat up"]}
+{"head": "compressed tea", "relation": "HasProperty", "tails": [" made from tea leaves", " made from fermented tea leaves", " made from fermented tea"]}
+{"head": "compressed tea", "relation": "MadeUpOf", "tails": [" tea bag", " tea leaves", " tea bags"]}
+{"head": "compressed tea", "relation": "NotDesires", "tails": [" tea bag", " tea bags", " tea"]}
+{"head": "compressed tea", "relation": "Desires", "tails": [" tea", " make tea better", " make tea"]}
+{"head": "catagories", "relation": "ObjectUse", "tails": [" use as a paperweight", " organize items", " use as a paper weight"]}
+{"head": "catagories", "relation": "AtLocation", "tails": [" classroom", " computer", " school"]}
+{"head": "catagories", "relation": "CapableOf", "tails": [" organize items", " organize items into categories", " organize things into categories"]}
+{"head": "catagories", "relation": "HasProperty", "tails": [" organized", " made up of categories", " made up of different categories"]}
+{"head": "catagories", "relation": "MadeUpOf", "tails": [" classifications", " organize items", " organize the items"]}
+{"head": "catagories", "relation": "NotDesires", "tails": [" organize things", " organize items", " have to do"]}
+{"head": "catagories", "relation": "Desires", "tails": [" organize things", " organize items", " make a list"]}
+{"head": "black teas", "relation": "ObjectUse", "tails": [" make a tea bag", " make a tea party", " use as a weapon"]}
+{"head": "black teas", "relation": "AtLocation", "tails": [" tea room", " tea shop", " coffee shop"]}
+{"head": "black teas", "relation": "CapableOf", "tails": [" drink", " make tea", " wash hands"]}
+{"head": "black teas", "relation": "HasProperty", "tails": [" black tea", " blackberries", " made from black tea"]}
+{"head": "black teas", "relation": "MadeUpOf", "tails": [" black tea", " tea bag", " tea leaves"]}
+{"head": "black teas", "relation": "NotDesires", "tails": [" black tea", " blackberries", " black people"]}
+{"head": "black teas", "relation": "Desires", "tails": [" black tea", " make tea", " black people"]}
+{"head": "beverage", "relation": "ObjectUse", "tails": [" drink to get drunk", " drink while watching a movie", " drink to relax"]}
+{"head": "beverage", "relation": "AtLocation", "tails": [" ice cream", " soda", " water"]}
+{"head": "beverage", "relation": "CapableOf", "tails": [" drink", " get drunk", " drink from glass"]}
+{"head": "beverage", "relation": "HasProperty", "tails": [" water", " used in kitchen", " alcohol"]}
+{"head": "beverage", "relation": "MadeUpOf", "tails": [" water", " drink", " beer"]}
+{"head": "beverage", "relation": "NotDesires", "tails": [" drink", " get drunk", " water"]}
+{"head": "beverage", "relation": "Desires", "tails": [" drink", " drink to relax", " drink to get drunk"]}
+{"head": "believe it", "relation": "HinderedBy", "tails": [" believe in yourself", " believe it", " believe in something"]}
+{"head": "believe it", "relation": "isBefore", "tails": [" believe in yourself", " believe in themselves", " believe in god"]}
+{"head": "believe it", "relation": "isAfter", "tails": [" believe in yourself", " believe in themselves", " believe in something"]}
+{"head": "believe it", "relation": "HasSubEvent", "tails": [" believe in yourself", " get excited", " believe in god"]}
+{"head": "believe it", "relation": "Causes", "tails": [" believe in yourself", " believe in themselves", " believe in something"]}
+{"head": "believe it", "relation": "xReason", "tails": [" believe in yourself", " believe in something", " believe in themselves"]}
+{"head": "be teas", "relation": "HinderedBy", "tails": [" make tea", " be healthy", " make tea with"]}
+{"head": "be teas", "relation": "isBefore", "tails": [" drink", " drink from cup", " tea bags"]}
+{"head": "be teas", "relation": "isAfter", "tails": [" tea bags", " tea bag", " tea"]}
+{"head": "be teas", "relation": "HasSubEvent", "tails": [" make tea", " drink", " get drunk"]}
+{"head": "be teas", "relation": "Causes", "tails": [" be healthy", " drink", " be a tea"]}
+{"head": "be teas", "relation": "xReason", "tails": [" make tea", " drink", " be healthy"]}
+{"head": "be catagories", "relation": "HinderedBy", "tails": [" be organized", " be organized into categories", " be organized into groups"]}
+{"head": "be catagories", "relation": "isBefore", "tails": [" be organized", " organize items", " organize things"]}
+{"head": "be catagories", "relation": "isAfter", "tails": [" be organized", " organize things", " organize items"]}
+{"head": "be catagories", "relation": "HasSubEvent", "tails": [" organize things", " be organized", " organize items"]}
+{"head": "be catagories", "relation": "Causes", "tails": [" be organized", " organize things", " organize items"]}
+{"head": "be catagories", "relation": "xReason", "tails": [" be organized", " be organized into categories", " be organized into groups"]}
+{"head": "You surely know a lot about Chinese tea .", "relation": "xAttr", "tails": [" knowledgeable", " educated", " smart"]}
+{"head": "You surely know a lot about Chinese tea .", "relation": "xWant", "tails": [" to learn more about it", " to learn more about the tea", " to learn more about tea"]}
+{"head": "You surely know a lot about Chinese tea .", "relation": "xNeed", "tails": [" to learn about it", " to learn about tea", " none"]}
+{"head": "You surely know a lot about Chinese tea .", "relation": "xEffect", "tails": [" none", " gets asked questions", " gets asked for advice"]}
+{"head": "You surely know a lot about Chinese tea .", "relation": "HinderedBy", "tails": [" you are a tea connoisseur", " you are a tea connoisseur.", " you are a tea drinker."]}
+{"head": "You surely know a lot about Chinese tea .", "relation": "oWant", "tails": [" none", " to learn more about it", " to learn more about the tea"]}
+{"head": "You surely know a lot about Chinese tea .", "relation": "xReact", "tails": [" knowledgeable", " educated", " happy"]}
+{"head": "You surely know a lot about Chinese tea .", "relation": "oEffect", "tails": [" none", " learn new things", " learn about the tea"]}
+{"head": "You surely know a lot about Chinese tea .", "relation": "xIntent", "tails": [" none", " to be knowledgeable", " to learn about tea"]}
+{"head": "You surely know a lot about Chinese tea .", "relation": "oReact", "tails": [" none", " educated", " happy"]}
+{"head": "You surely know a lot about Chinese tea .", "relation": "isBefore", "tails": [" you know how to make it", " you know how to make tea", " you have a lot of knowledge"]}
+{"head": "You surely know a lot about Chinese tea .", "relation": "isAfter", "tails": [" you are a tea connoisseur", " you are a tea drinker", " you are a tea connoisseur."]}
+{"head": "You surely know a lot about Chinese tea .", "relation": "HasSubEvent", "tails": [" get a job in the tea business", " get a job as a tea maker", " get a job in the tea industry"]}
+{"head": "You surely know a lot about Chinese tea .", "relation": "Causes", "tails": [" you are a tea connoisseur", " you are a tea connoisseur.", " you are a tea drinker"]}
+{"head": "You surely know a lot about Chinese tea .", "relation": "xReason", "tails": [" you are a tea drinker", " you are a tea expert", " you have a lot of knowledge"]}
+{"head": "Yes , I believe there are green teas , black teas and scented teas .", "relation": "xAttr", "tails": [" happy", " herbalist", " green"]}
+{"head": "Yes , I believe there are green teas , black teas and scented teas .", "relation": "xWant", "tails": [" to drink the tea", " to make tea", " to drink tea"]}
+{"head": "Yes , I believe there are green teas , black teas and scented teas .", "relation": "xNeed", "tails": [" none", " get a cup of tea", " to learn about the tea"]}
+{"head": "Yes , I believe there are green teas , black teas and scented teas .", "relation": "xEffect", "tails": [" none", " get a headache", " get better at something"]}
+{"head": "Yes , I believe there are green teas , black teas and scented teas .", "relation": "HinderedBy", "tails": [" yes", " none", " yes and no"]}
+{"head": "Yes , I believe there are green teas , black teas and scented teas .", "relation": "oWant", "tails": [" none", " to drink the tea", " to drink the teas"]}
+{"head": "Yes , I believe there are green teas , black teas and scented teas .", "relation": "xReact", "tails": [" happy", " good", " satisfied"]}
+{"head": "Yes , I believe there are green teas , black teas and scented teas .", "relation": "oEffect", "tails": [" none", " have a good night's sleep", " have a good night's rest"]}
+{"head": "Yes , I believe there are green teas , black teas and scented teas .", "relation": "xIntent", "tails": [" none", " yes", " to drink"]}
+{"head": "Yes , I believe there are green teas , black teas and scented teas .", "relation": "oReact", "tails": [" none", " good for health", " good for the body"]}
+{"head": "Yes , I believe there are green teas , black teas and scented teas .", "relation": "isBefore", "tails": [" none", " have a tea party", " have a good time"]}
+{"head": "Yes , I believe there are green teas , black teas and scented teas .", "relation": "isAfter", "tails": [" none", " tea leaves", " drink tea"]}
+{"head": "Yes , I believe there are green teas , black teas and scented teas .", "relation": "HasSubEvent", "tails": [" none", " have a good night's sleep", " have a good night's rest"]}
+{"head": "Yes , I believe there are green teas , black teas and scented teas .", "relation": "Causes", "tails": [" none", " yes", " yes or no"]}
+{"head": "Yes , I believe there are green teas , black teas and scented teas .", "relation": "xReason", "tails": [" none", " yes or no", " have a good time"]}
+{"head": "Yes , Chinese people love drinking tea so much .", "relation": "xAttr", "tails": [" happy", " thirsty", " warm"]}
+{"head": "Yes , Chinese people love drinking tea so much .", "relation": "xWant", "tails": [" to drink tea", " to drink tea all the time", " to drink tea a lot"]}
+{"head": "Yes , Chinese people love drinking tea so much .", "relation": "xNeed", "tails": [" none", " have a cup of tea", " to buy tea"]}
+{"head": "Yes , Chinese people love drinking tea so much .", "relation": "xEffect", "tails": [" none", " drinks tea", " drinks tea a lot"]}
+{"head": "Yes , Chinese people love drinking tea so much .", "relation": "HinderedBy", "tails": [" They don't like the taste of the tea.", " They don't like the taste of tea.", " They don't like the taste of it."]}
+{"head": "Yes , Chinese people love drinking tea so much .", "relation": "oWant", "tails": [" none", " to drink tea", " to buy tea"]}
+{"head": "Yes , Chinese people love drinking tea so much .", "relation": "xReact", "tails": [" happy", " satisfied", " happy."]}
+{"head": "Yes , Chinese people love drinking tea so much .", "relation": "oEffect", "tails": [" none", " drink tea", " drink tea a lot"]}
+{"head": "Yes , Chinese people love drinking tea so much .", "relation": "xIntent", "tails": [" none", " to drink tea", " to be healthy"]}
+{"head": "Yes , Chinese people love drinking tea so much .", "relation": "oReact", "tails": [" none", " happy", " happy."]}
+{"head": "Yes , Chinese people love drinking tea so much .", "relation": "isBefore", "tails": [" none", " drink tea a lot", " drink tea"]}
+{"head": "Yes , Chinese people love drinking tea so much .", "relation": "isAfter", "tails": [" none", " drink tea", " tea leaves"]}
+{"head": "Yes , Chinese people love drinking tea so much .", "relation": "HasSubEvent", "tails": [" none", " drink tea", " get drunk"]}
+{"head": "Yes , Chinese people love drinking tea so much .", "relation": "Causes", "tails": [" none", " they like the taste of tea", " they love the taste of tea"]}
+{"head": "Yes , Chinese people love drinking tea so much .", "relation": "xReason", "tails": [" none", " yes", " tea leaves"]}
+{"head": "Why don't we go for one now ?", "relation": "xAttr", "tails": [" hungry", " excited", " happy"]}
+{"head": "Why don't we go for one now ?", "relation": "xWant", "tails": [" to have a good time", " to have fun", " to go for a ride"]}
+{"head": "Why don't we go for one now ?", "relation": "xNeed", "tails": [" none", " to be in a hurry", " to have a plan"]}
+{"head": "Why don't we go for one now ?", "relation": "xEffect", "tails": [" get out of the house", " get out of the car", " get out of bed"]}
+{"head": "Why don't we go for one now ?", "relation": "HinderedBy", "tails": [" why don't we go for one now", " why don't we go for one now ?", " why don't we go for one now?"]}
+{"head": "Why don't we go for one now ?", "relation": "oWant", "tails": [" to have fun", " none", " to go for one"]}
+{"head": "Why don't we go for one now ?", "relation": "xReact", "tails": [" happy", " excited", " good"]}
+{"head": "Why don't we go for one now ?", "relation": "oEffect", "tails": [" none", " get out of the car", " get out of the house"]}
+{"head": "Why don't we go for one now ?", "relation": "xIntent", "tails": [" to have a good time", " to have fun", " to go for a walk"]}
+{"head": "Why don't we go for one now ?", "relation": "oReact", "tails": [" none", " happy", " happy."]}
+{"head": "Why don't we go for one now ?", "relation": "isBefore", "tails": [" why not go for one now", " why not go for one now ?", " why not go for one now?"]}
+{"head": "Why don't we go for one now ?", "relation": "isAfter", "tails": [" PersonY asks PersonY if they want to go for a ride.", " PersonY asks PersonY if they want to go for a walk.", " PersonY asks PersonY if they want to go for one."]}
+{"head": "Why don't we go for one now ?", "relation": "HasSubEvent", "tails": [" have a good time", " have fun", " get a drink"]}
+{"head": "Why don't we go for one now ?", "relation": "Causes", "tails": [" why don't we go for one now", " why don't we go for one now ?", " why don't we go for one"]}
+{"head": "Why don't we go for one now ?", "relation": "xReason", "tails": [" why not go for one now", " why not go for one", " why not go for one now ?"]}
+{"head": "Well , people from Asia to Europe all enjoy tea .", "relation": "xAttr", "tails": [" happy", " warm", " friendly"]}
+{"head": "Well , people from Asia to Europe all enjoy tea .", "relation": "xWant", "tails": [" to drink tea", " drink tea", " to drink it"]}
+{"head": "Well , people from Asia to Europe all enjoy tea .", "relation": "xNeed", "tails": [" drink tea", " to buy tea", " none"]}
+{"head": "Well , people from Asia to Europe all enjoy tea .", "relation": "xEffect", "tails": [" drink tea", " none", " drink tea."]}
+{"head": "Well , people from Asia to Europe all enjoy tea .", "relation": "HinderedBy", "tails": [" well , people from Asia to Europe all enjoy tea", " well , people from Asia to Europe all enjoy tea.", " well , people from Asia to Europe all enjoy tea ."]}
+{"head": "Well , people from Asia to Europe all enjoy tea .", "relation": "oWant", "tails": [" none", " to drink tea", " to buy tea"]}
+{"head": "Well , people from Asia to Europe all enjoy tea .", "relation": "xReact", "tails": [" happy", " satisfied", " happy."]}
+{"head": "Well , people from Asia to Europe all enjoy tea .", "relation": "oEffect", "tails": [" none", " drink tea", " people drink tea"]}
+{"head": "Well , people from Asia to Europe all enjoy tea .", "relation": "xIntent", "tails": [" none", " to drink tea", " drink tea"]}
+{"head": "Well , people from Asia to Europe all enjoy tea .", "relation": "oReact", "tails": [" none", " happy", " happy."]}
+{"head": "Well , people from Asia to Europe all enjoy tea .", "relation": "isBefore", "tails": [" drink tea", " tea leaves", " drink tea."]}
+{"head": "Well , people from Asia to Europe all enjoy tea .", "relation": "isAfter", "tails": [" drink tea", " tea leaves", " tea"]}
+{"head": "Well , people from Asia to Europe all enjoy tea .", "relation": "HasSubEvent", "tails": [" drink tea", " none", " get drunk"]}
+{"head": "Well , people from Asia to Europe all enjoy tea .", "relation": "Causes", "tails": [" well , people from Asia to Europe all enjoy tea .           ", " well , people from Asia to Europe all enjoy tea .          ", " well , people from Asia to Europe all enjoy tea .         "]}
+{"head": "Well , people from Asia to Europe all enjoy tea .", "relation": "xReason", "tails": [" drink tea", " well liked", " well liked by others"]}
+{"head": "Well , have you ever heard of Oulong tea and compressed tea ?", "relation": "xAttr", "tails": [" curious", " well-liked", " well-known"]}
+{"head": "Well , have you ever heard of Oulong tea and compressed tea ?", "relation": "xWant", "tails": [" to drink the tea", " to drink it", " to make a tea"]}
+{"head": "Well , have you ever heard of Oulong tea and compressed tea ?", "relation": "xNeed", "tails": [" none", " to have a cup of Oulong tea", " to have a cup of Oulong tea."]}
+{"head": "Well , have you ever heard of Oulong tea and compressed tea ?", "relation": "xEffect", "tails": [" none", " get a headache", " get better at it"]}
+{"head": "Well , have you ever heard of Oulong tea and compressed tea ?", "relation": "HinderedBy", "tails": [" well , have you ever heard of oulong tea and compressed tea ?", " well , have you ever heard of oulong tea and compressed tea ?       ", " well , have you ever heard of Oulong tea and compressed tea ?"]}
+{"head": "Well , have you ever heard of Oulong tea and compressed tea ?", "relation": "oWant", "tails": [" none", " to learn more about it", " to learn more about the tea"]}
+{"head": "Well , have you ever heard of Oulong tea and compressed tea ?", "relation": "xReact", "tails": [" happy", " happy to be able to drink the tea.", " happy to be able to drink the tea"]}
+{"head": "Well , have you ever heard of Oulong tea and compressed tea ?", "relation": "oEffect", "tails": [" none", " drink the tea", " drink the tea."]}
+{"head": "Well , have you ever heard of Oulong tea and compressed tea ?", "relation": "xIntent", "tails": [" none", " to be healthy", " to make a tea"]}
+{"head": "Well , have you ever heard of Oulong tea and compressed tea ?", "relation": "oReact", "tails": [" none", " happy", " happy."]}
+{"head": "Well , have you ever heard of Oulong tea and compressed tea ?", "relation": "isBefore", "tails": [" have a cup of tea", " have a cup of tea with them", " have a cup of hot tea"]}
+{"head": "Well , have you ever heard of Oulong tea and compressed tea ?", "relation": "isAfter", "tails": [" tea bag", " tea leaves", " tea bags"]}
+{"head": "Well , have you ever heard of Oulong tea and compressed tea ?", "relation": "HasSubEvent", "tails": [" drink the tea", " drink it", " have a new experience"]}
+{"head": "Well , have you ever heard of Oulong tea and compressed tea ?", "relation": "Causes", "tails": [" well", " well known", " well-known"]}
+{"head": "Well , have you ever heard of Oulong tea and compressed tea ?", "relation": "xReason", "tails": [" well", " none", " well made"]}
+{"head": "We can chat while enjoying a cup there .", "relation": "xAttr", "tails": [" social", " chatty", " friendly"]}
+{"head": "We can chat while enjoying a cup there .", "relation": "xWant", "tails": [" to get to know each other", " to get to know each other better", " to get to know someone"]}
+{"head": "We can chat while enjoying a cup there .", "relation": "xNeed", "tails": [" to go to the coffee shop", " to buy a cup", " to go to the coffee shop."]}
+{"head": "We can chat while enjoying a cup there .", "relation": "xEffect", "tails": [" get to know each other", " get to know each other better", " get to know someone"]}
+{"head": "We can chat while enjoying a cup there .", "relation": "HinderedBy", "tails": [" we have to go to work", " we have to go to work.", " we have to go back to work"]}
+{"head": "We can chat while enjoying a cup there .", "relation": "oWant", "tails": [" to get to know each other", " to get to know each other better", " to get to know me"]}
+{"head": "We can chat while enjoying a cup there .", "relation": "xReact", "tails": [" happy", " social", " friendly"]}
+{"head": "We can chat while enjoying a cup there .", "relation": "oEffect", "tails": [" none", " get to know each other", " get to know each other better"]}
+{"head": "We can chat while enjoying a cup there .", "relation": "xIntent", "tails": [" to be sociable", " to have a conversation", " to be social"]}
+{"head": "We can chat while enjoying a cup there .", "relation": "oReact", "tails": [" none", " happy", " friendly"]}
+{"head": "We can chat while enjoying a cup there .", "relation": "isBefore", "tails": [" have a good time", " have a conversation", " have a conversation with someone"]}
+{"head": "We can chat while enjoying a cup there .", "relation": "isAfter", "tails": [" have a conversation", " drink the cup", " have a drink"]}
+{"head": "We can chat while enjoying a cup there .", "relation": "HasSubEvent", "tails": [" get to know each other", " get to know each other better", " get to know someone"]}
+{"head": "We can chat while enjoying a cup there .", "relation": "Causes", "tails": [" have a good time", " have a conversation", " have a conversation with someone"]}
+{"head": "We can chat while enjoying a cup there .", "relation": "xReason", "tails": [" have a good time", " have a conversation", " have a conversation with someone"]}
+{"head": "Sure , I like drinking tea at teahouses .", "relation": "xAttr", "tails": [" happy", " friendly", " relaxed"]}
+{"head": "Sure , I like drinking tea at teahouses .", "relation": "xWant", "tails": [" to go to a tea house", " to go to the tea house", " to go to tea house"]}
+{"head": "Sure , I like drinking tea at teahouses .", "relation": "xNeed", "tails": [" to go to the teahouse", " to go to a tea house", " to go to the teahouses"]}
+{"head": "Sure , I like drinking tea at teahouses .", "relation": "xEffect", "tails": [" none", " gets a headache", " gets thirsty"]}
+{"head": "Sure , I like drinking tea at teahouses .", "relation": "HinderedBy", "tails": [" I don't have the money to go to a teahouse.", " I don't have the money to go to the teahouse.", " I don't have the money to go to teahouses."]}
+{"head": "Sure , I like drinking tea at teahouses .", "relation": "oWant", "tails": [" none", " to have tea with them", " to have a good time"]}
+{"head": "Sure , I like drinking tea at teahouses .", "relation": "xReact", "tails": [" happy", " satisfied", " happy."]}
+{"head": "Sure , I like drinking tea at teahouses .", "relation": "oEffect", "tails": [" none", " get a drink of tea", " they get to know me better"]}
+{"head": "Sure , I like drinking tea at teahouses .", "relation": "xIntent", "tails": [" none", " to have a good time", " to have a good time."]}
+{"head": "Sure , I like drinking tea at teahouses .", "relation": "oReact", "tails": [" none", " happy", " happy."]}
+{"head": "Sure , I like drinking tea at teahouses .", "relation": "isBefore", "tails": [" drink tea at teahouses", " have a good time at teahouses", " drink tea at teahouse"]}
+{"head": "Sure , I like drinking tea at teahouses .", "relation": "isAfter", "tails": [" drink tea at teahouses", " drink tea at teahouse", " have tea at teahouses"]}
+{"head": "Sure , I like drinking tea at teahouses .", "relation": "HasSubEvent", "tails": [" drink tea", " have a cup of tea", " have a good time"]}
+{"head": "Sure , I like drinking tea at teahouses .", "relation": "Causes", "tails": [" I like the smell of the tea.", " I like the smell of tea.", " I like the taste of tea."]}
+{"head": "Sure , I like drinking tea at teahouses .", "relation": "xReason", "tails": [" none", " sure", " I like tea"]}
+{"head": "Some even claim they can't live without tea .", "relation": "xAttr", "tails": [" thirsty", " addicted", " hungry"]}
+{"head": "Some even claim they can't live without tea .", "relation": "xWant", "tails": [" to drink tea", " to drink tea all the time", " to get a cup of tea"]}
+{"head": "Some even claim they can't live without tea .", "relation": "xNeed", "tails": [" none", " to drink tea", " to have tea"]}
+{"head": "Some even claim they can't live without tea .", "relation": "xEffect", "tails": [" none", " some people are addicted to tea", " some people are addicted to tea."]}
+{"head": "Some even claim they can't live without tea .", "relation": "HinderedBy", "tails": [" some people are addicted to tea.", " some people are addicted to tea", " some people are addicted to it."]}
+{"head": "Some even claim they can't live without tea .", "relation": "oWant", "tails": [" none", " to drink tea", " to drink the tea"]}
+{"head": "Some even claim they can't live without tea .", "relation": "xReact", "tails": [" happy", " satisfied", " happy."]}
+{"head": "Some even claim they can't live without tea .", "relation": "oEffect", "tails": [" none", " some people are addicted to tea.", " some people are addicted to tea"]}
+{"head": "Some even claim they can't live without tea .", "relation": "xIntent", "tails": [" none", " some people are addicted to tea.", " some people are addicted to tea"]}
+{"head": "Some even claim they can't live without tea .", "relation": "oReact", "tails": [" none", " some people don't want to live without tea.", " some people don't want to live without tea"]}
+{"head": "Some even claim they can't live without tea .", "relation": "isBefore", "tails": [" some people drink tea all the time", " some people are addicted to tea", " some people are addicted to it"]}
+{"head": "Some even claim they can't live without tea .", "relation": "isAfter", "tails": [" some people drink tea all the time", " some people are addicted to tea", " some people are addicted to it"]}
+{"head": "Some even claim they can't live without tea .", "relation": "HasSubEvent", "tails": [" none", " some people drink tea all the time", " some people are addicted to tea"]}
+{"head": "Some even claim they can't live without tea .", "relation": "Causes", "tails": [" some people are addicted to tea.", " some people are addicted to tea", " some people are addicted to it."]}
+{"head": "Some even claim they can't live without tea .", "relation": "xReason", "tails": [" some people drink tea all the time", " some people are addicted to tea", " some people are addicted to tea."]}
+{"head": "Right .", "relation": "xAttr", "tails": [" right", " left out", " left-handed"]}
+{"head": "Right .", "relation": "xWant", "tails": [" to make a decision", " to get a good job", " to get a good grade"]}
+{"head": "Right .", "relation": "xNeed", "tails": [" none", " right to do", " right to do it"]}
+{"head": "Right .", "relation": "xEffect", "tails": [" none", " left alone", " left out"]}
+{"head": "Right .", "relation": "HinderedBy", "tails": [" right and wrong", " right", " Right is wrong."]}
+{"head": "Right .", "relation": "oWant", "tails": [" none", " to do their best", " to do what they want"]}
+{"head": "Right .", "relation": "xReact", "tails": [" right", " happy", " good"]}
+{"head": "Right .", "relation": "oEffect", "tails": [" none", " left alone", " left out"]}
+{"head": "Right .", "relation": "xIntent", "tails": [" none", " right to do", " right"]}
+{"head": "Right .", "relation": "oReact", "tails": [" none", " left out", " right"]}
+{"head": "Right .", "relation": "isBefore", "tails": [" right", " right or wrong", " left alone"]}
+{"head": "Right .", "relation": "isAfter", "tails": [" right", " right or wrong", " right and wrong"]}
+{"head": "Right .", "relation": "HasSubEvent", "tails": [" right to do", " left alone", " right to do it"]}
+{"head": "Right .", "relation": "Causes", "tails": [" right", " right to do", " left alone"]}
+{"head": "Right .", "relation": "xReason", "tails": [" right to do", " left alone", " right"]}
+{"head": "Oulong tea is good for one's health .", "relation": "xAttr", "tails": [" healthy", " healthful", " good for health"]}
+{"head": "Oulong tea is good for one's health .", "relation": "xWant", "tails": [" to drink the tea", " to drink it", " to drink the tea."]}
+{"head": "Oulong tea is good for one's health .", "relation": "xNeed", "tails": [" to drink it", " to make a tea", " to buy the tea"]}
+{"head": "Oulong tea is good for one's health .", "relation": "xEffect", "tails": [" gets rid of bad breath", " gets better health", " gets rid of toxins"]}
+{"head": "Oulong tea is good for one's health .", "relation": "HinderedBy", "tails": [" Oulong tea is bad for one's health.", " Oulong tea is not good for one's health.", " oulong tea"]}
+{"head": "Oulong tea is good for one's health .", "relation": "oWant", "tails": [" none", " to drink the tea", " to drink it"]}
+{"head": "Oulong tea is good for one's health .", "relation": "xReact", "tails": [" healthy", " happy", " good"]}
+{"head": "Oulong tea is good for one's health .", "relation": "oEffect", "tails": [" none", " get better health", " get better"]}
+{"head": "Oulong tea is good for one's health .", "relation": "xIntent", "tails": [" to be healthy", " none", " to be healthy."]}
+{"head": "Oulong tea is good for one's health .", "relation": "oReact", "tails": [" none", " good for health", " good about themselves"]}
+{"head": "Oulong tea is good for one's health .", "relation": "isBefore", "tails": [" oulong tea", " oulong tea is good for one's health", " oulong tea is good for health"]}
+{"head": "Oulong tea is good for one's health .", "relation": "isAfter", "tails": [" oulong tea", " oulong", " oulong tea leaves"]}
+{"head": "Oulong tea is good for one's health .", "relation": "HasSubEvent", "tails": [" get better health", " make tea", " get better"]}
+{"head": "Oulong tea is good for one's health .", "relation": "Causes", "tails": [" oulong tea", " oulong tea is good for one's health", " oulong tea is good for health"]}
+{"head": "Oulong tea is good for one's health .", "relation": "xReason", "tails": [" oulong tea", " oulong tea is good for one's health", " oulong tea is good for health"]}
+{"head": "Oulong tea", "relation": "ObjectUse", "tails": [" make a tea bag", " make tea", " make a tea"]}
+{"head": "Oulong tea", "relation": "AtLocation", "tails": [" tea bag", " tea shop", " tea room"]}
+{"head": "Oulong tea", "relation": "CapableOf", "tails": [" drink", " make tea", " drink with breakfast"]}
+{"head": "Oulong tea", "relation": "HasProperty", "tails": [" made from oulong tea leaves", " made from oulong", " made from oulong tea"]}
+{"head": "Oulong tea", "relation": "MadeUpOf", "tails": [" tea bag", " oolong tea", " tea leaves"]}
+{"head": "Oulong tea", "relation": "NotDesires", "tails": [" tea leaves", " tea bag", " make tea"]}
+{"head": "Oulong tea", "relation": "Desires", "tails": [" to be healthy", " make tea", " tea"]}
+{"head": "Oh , yeah .", "relation": "xAttr", "tails": [" happy", " aware", " good"]}
+{"head": "Oh , yeah .", "relation": "xWant", "tails": [" to have fun", " to have a good time", " to have a good time."]}
+{"head": "Oh , yeah .", "relation": "xNeed", "tails": [" none", " to know what they want", " to know what they are doing"]}
+{"head": "Oh , yeah .", "relation": "xEffect", "tails": [" none", " gets yelled at", " get a new job"]}
+{"head": "Oh , yeah .", "relation": "HinderedBy", "tails": [" none", " they don't have the money to pay for it", " they don't have the money to pay for it."]}
+{"head": "Oh , yeah .", "relation": "oWant", "tails": [" none", " to have a good time", " to have fun"]}
+{"head": "Oh , yeah .", "relation": "xReact", "tails": [" happy", " satisfied", " good"]}
+{"head": "Oh , yeah .", "relation": "oEffect", "tails": [" none", " they get a new job", " get a new job"]}
+{"head": "Oh , yeah .", "relation": "xIntent", "tails": [" none", " to be a part of something", " to have a good time"]}
+{"head": "Oh , yeah .", "relation": "oReact", "tails": [" none", " happy", " happy."]}
+{"head": "Oh , yeah .", "relation": "isBefore", "tails": [" none", " have a good time", " have fun with friends"]}
+{"head": "Oh , yeah .", "relation": "isAfter", "tails": [" none", " have a good time", " have fun with friends"]}
+{"head": "Oh , yeah .", "relation": "HasSubEvent", "tails": [" none", " have a good time", " have a conversation with someone"]}
+{"head": "Oh , yeah .", "relation": "Causes", "tails": [" none", " they want to go to the movies", " they want to go to the party"]}
+{"head": "Oh , yeah .", "relation": "xReason", "tails": [" none", " they have to go to work", " they have to go to the bathroom"]}
+{"head": "Oh , so do I .", "relation": "xAttr", "tails": [" happy", " friendly", " curious"]}
+{"head": "Oh , so do I .", "relation": "xWant", "tails": [" to have fun", " to have a good time", " to have a good life"]}
+{"head": "Oh , so do I .", "relation": "xNeed", "tails": [" none", " to be in a relationship with someone", " to be in a relationship with someone."]}
+{"head": "Oh , so do I .", "relation": "xEffect", "tails": [" none", " get a new job", " get a new job."]}
+{"head": "Oh , so do I .", "relation": "HinderedBy", "tails": [" none", " they have to go to work", " they have to go to work."]}
+{"head": "Oh , so do I .", "relation": "oWant", "tails": [" none", " to get to know me", " to get to know me better"]}
+{"head": "Oh , so do I .", "relation": "xReact", "tails": [" happy", " none", " satisfied"]}
+{"head": "Oh , so do I .", "relation": "oEffect", "tails": [" none", " have a good time", " they get a new job"]}
+{"head": "Oh , so do I .", "relation": "xIntent", "tails": [" none", " to have fun", " to be happy"]}
+{"head": "Oh , so do I .", "relation": "oReact", "tails": [" none", " happy", " happy."]}
+{"head": "Oh , so do I .", "relation": "isBefore", "tails": [" none", " they have to go to work", " they have to go to the bathroom"]}
+{"head": "Oh , so do I .", "relation": "isAfter", "tails": [" none", " PersonY is very jealous of PersonX.", " PersonY is very jealous of PersonY."]}
+{"head": "Oh , so do I .", "relation": "HasSubEvent", "tails": [" none", " feel happy", " feel sad"]}
+{"head": "Oh , so do I .", "relation": "Causes", "tails": [" none", " they want to do it themselves", " they want to do it too"]}
+{"head": "Oh , so do I .", "relation": "xReason", "tails": [" none", " have a good time", " have a good day"]}
+{"head": "Let's go !", "relation": "xAttr", "tails": [" excited", " adventurous", " energetic"]}
+{"head": "Let's go !", "relation": "xWant", "tails": [" to have fun", " to go somewhere", " to go somewhere else"]}
+{"head": "Let's go !", "relation": "xNeed", "tails": [" to get in the car", " to get ready to go", " to get in the car."]}
+{"head": "Let's go !", "relation": "xEffect", "tails": [" get in the car", " let's go", " get ready to go"]}
+{"head": "Let's go !", "relation": "HinderedBy", "tails": [" let's go", " Let's go.", " let's go."]}
+{"head": "Let's go !", "relation": "oWant", "tails": [" to have fun", " to go somewhere", " none"]}
+{"head": "Let's go !", "relation": "xReact", "tails": [" excited", " happy", " happy."]}
+{"head": "Let's go !", "relation": "oEffect", "tails": [" none", " let's go", " get ready to go"]}
+{"head": "Let's go !", "relation": "xIntent", "tails": [" to have fun", " to go somewhere", " to have fun."]}
+{"head": "Let's go !", "relation": "oReact", "tails": [" none", " happy", " excited"]}
+{"head": "Let's go !", "relation": "isBefore", "tails": [" let's go", " get ready to go", " have fun"]}
+{"head": "Let's go !", "relation": "isAfter", "tails": [" let's go", " get ready to go", " have fun"]}
+{"head": "Let's go !", "relation": "HasSubEvent", "tails": [" have fun", " let go", " get ready"]}
+{"head": "Let's go !", "relation": "Causes", "tails": [" let's go", " let's go.", " let go"]}
+{"head": "Let's go !", "relation": "xReason", "tails": [" let's go", " let's go.", " have fun"]}
+{"head": "Great .", "relation": "xAttr", "tails": [" great", " happy", " good"]}
+{"head": "Great .", "relation": "xWant", "tails": [" to have a good time", " to have a good life", " to have a party"]}
+{"head": "Great .", "relation": "xNeed", "tails": [" none", " have a lot of fun", " have a good time"]}
+{"head": "Great .", "relation": "xEffect", "tails": [" none", " great", " gets thanked"]}
+{"head": "Great .", "relation": "HinderedBy", "tails": [" great", " good", " great things"]}
+{"head": "Great .", "relation": "oWant", "tails": [" none", " to have a good time", " to have a good time."]}
+{"head": "Great .", "relation": "xReact", "tails": [" happy", " great", " good"]}
+{"head": "Great .", "relation": "oEffect", "tails": [" none", " get a new job", " get a promotion"]}
+{"head": "Great .", "relation": "xIntent", "tails": [" none", " great", " great things"]}
+{"head": "Great .", "relation": "oReact", "tails": [" none", " happy", " great"]}
+{"head": "Great .", "relation": "isBefore", "tails": [" great", " good", " great job"]}
+{"head": "Great .", "relation": "isAfter", "tails": [" great", " good", " great job"]}
+{"head": "Great .", "relation": "HasSubEvent", "tails": [" great", " feel good", " get a promotion"]}
+{"head": "Great .", "relation": "Causes", "tails": [" great", " good", " happy"]}
+{"head": "Great .", "relation": "xReason", "tails": [" great", " happy", " good"]}
+{"head": "Europe", "relation": "ObjectUse", "tails": [" Europe", " travel to", " travel"]}
+{"head": "Europe", "relation": "AtLocation", "tails": [" european states", " european countries", " europe"]}
+{"head": "Europe", "relation": "CapableOf", "tails": [" go to war", " travel to different countries", " travel to new places"]}
+{"head": "Europe", "relation": "HasProperty", "tails": [" european countries", " found in many countries", " Europe"]}
+{"head": "Europe", "relation": "MadeUpOf", "tails": [" europe", " Europe", " european"]}
+{"head": "Europe", "relation": "NotDesires", "tails": [" europeans", " european countries", " Europe to be destroyed"]}
+{"head": "Europe", "relation": "Desires", "tails": [" Europe", " travel", " Europe to live"]}
+{"head": "Do you know there are several catagories of Chinese tea ?", "relation": "xAttr", "tails": [" curious", " educated", " knowledgeable"]}
+{"head": "Do you know there are several catagories of Chinese tea ?", "relation": "xWant", "tails": [" to learn more about it", " to learn more about the tea", " to learn more about tea"]}
+{"head": "Do you know there are several catagories of Chinese tea ?", "relation": "xNeed", "tails": [" learn about tea", " learn about the tea", " to learn about it"]}
+{"head": "Do you know there are several catagories of Chinese tea ?", "relation": "xEffect", "tails": [" learn about tea", " none", " learn about the tea"]}
+{"head": "Do you know there are several catagories of Chinese tea ?", "relation": "HinderedBy", "tails": [" do not know", " do not know about", " do not know about it"]}
+{"head": "Do you know there are several catagories of Chinese tea ?", "relation": "oWant", "tails": [" to learn more about it", " to learn more about the tea", " to learn more about tea"]}
+{"head": "Do you know there are several catagories of Chinese tea ?", "relation": "xReact", "tails": [" happy", " curious", " satisfied"]}
+{"head": "Do you know there are several catagories of Chinese tea ?", "relation": "oEffect", "tails": [" none", " learn new things", " learn about tea"]}
+{"head": "Do you know there are several catagories of Chinese tea ?", "relation": "xIntent", "tails": [" none", " to learn about tea", " learn about tea"]}
+{"head": "Do you know there are several catagories of Chinese tea ?", "relation": "oReact", "tails": [" none", " happy", " happy."]}
+{"head": "Do you know there are several catagories of Chinese tea ?", "relation": "isBefore", "tails": [" do a research on the catagories", " do a research on the different catagories", " do a research on the catagories of tea"]}
+{"head": "Do you know there are several catagories of Chinese tea ?", "relation": "isAfter", "tails": [" tea bags", " tea bag", " tea"]}
+{"head": "Do you know there are several catagories of Chinese tea ?", "relation": "HasSubEvent", "tails": [" learn more about tea", " learn more about the tea", " learn about the tea"]}
+{"head": "Do you know there are several catagories of Chinese tea ?", "relation": "Causes", "tails": [" do not know", " do not know about it", " do not know about"]}
+{"head": "Do you know there are several catagories of Chinese tea ?", "relation": "xReason", "tails": [" do not know what to do with it", " do not drink tea", " do not know what they are drinking"]}
+{"head": "Chinese tea", "relation": "ObjectUse", "tails": [" make tea", " make a tea bag", " make a tea party"]}
+{"head": "Chinese tea", "relation": "AtLocation", "tails": [" tea shop", " tea room", " tea house"]}
+{"head": "Chinese tea", "relation": "CapableOf", "tails": [" drink", " make tea", " drink from cup"]}
+{"head": "Chinese tea", "relation": "HasProperty", "tails": [" Chinese tea", " tea leaves", " hot"]}
+{"head": "Chinese tea", "relation": "MadeUpOf", "tails": [" tea leaves", " tea bag", " tea"]}
+{"head": "Chinese tea", "relation": "NotDesires", "tails": [" tea leaves", " hot water", " hot tea"]}
+{"head": "Chinese tea", "relation": "Desires", "tails": [" tea", " tea leaves", " drink"]}
+{"head": "Chinese people", "relation": "ObjectUse", "tails": [" learn to speak Cantonese", " learn to speak Chinese", " learn to speak Cantonese language"]}
+{"head": "Chinese people", "relation": "AtLocation", "tails": [" people's homes", " Chinese restaurant", " people's home"]}
+{"head": "Chinese people", "relation": "CapableOf", "tails": [" eat lots of food", " learn to speak Chinese", " eat lots of vegetables"]}
+{"head": "Chinese people", "relation": "HasProperty", "tails": [" Chinese people", " none", " Chinese food"]}
+{"head": "Chinese people", "relation": "MadeUpOf", "tails": [" Chinese language", " Chinese people", " Chinese name"]}
+{"head": "Chinese people", "relation": "NotDesires", "tails": [" Chinese people are not allowed to vote in elections", " Chinese people are not allowed to speak English", " Chinese people are not allowed to speak English."]}
+{"head": "Chinese people", "relation": "Desires", "tails": [" eat lots of food", " eat lots of vegetables", " none"]}
+{"head": "China", "relation": "ObjectUse", "tails": [" China", " China's economy", " China is a country"]}
+{"head": "China", "relation": "AtLocation", "tails": [" country", " China", " world"]}
+{"head": "China", "relation": "CapableOf", "tails": [" go to China", " go to war", " buy goods from China"]}
+{"head": "China", "relation": "HasProperty", "tails": [" one of world's largest countries", " one of the world's largest countries", " one of the world's great civilizations"]}
+{"head": "China", "relation": "MadeUpOf", "tails": [" China", " China's currency", " China's flag"]}
+{"head": "China", "relation": "NotDesires", "tails": [" China to go bankrupt", " China's economy to collapse", " China's economy to decline"]}
+{"head": "China", "relation": "Desires", "tails": [" China", " none", " China's people"]}
+{"head": "Believe it or not , tea is the most popular beverage in the world after water .", "relation": "xAttr", "tails": [" thirsty", " happy", " tasty"]}
+{"head": "Believe it or not , tea is the most popular beverage in the world after water .", "relation": "xWant", "tails": [" to drink tea", " drink tea", " to drink the tea"]}
+{"head": "Believe it or not , tea is the most popular beverage in the world after water .", "relation": "xNeed", "tails": [" drink tea", " none", " to drink tea"]}
+{"head": "Believe it or not , tea is the most popular beverage in the world after water .", "relation": "xEffect", "tails": [" drink a lot of tea", " drink a lot of tea.", " drink a lot of it"]}
+{"head": "Believe it or not , tea is the most popular beverage in the world after water .", "relation": "HinderedBy", "tails": [" drinking tea", " drinking tea is very popular", " drinking tea is a good thing"]}
+{"head": "Believe it or not , tea is the most popular beverage in the world after water .", "relation": "oWant", "tails": [" to drink tea", " to drink the tea", " drink tea"]}
+{"head": "Believe it or not , tea is the most popular beverage in the world after water .", "relation": "xReact", "tails": [" happy", " satisfied", " happy."]}
+{"head": "Believe it or not , tea is the most popular beverage in the world after water .", "relation": "oEffect", "tails": [" drink a lot of tea", " none", " drink a lot of tea."]}
+{"head": "Believe it or not , tea is the most popular beverage in the world after water .", "relation": "xIntent", "tails": [" none", " to be healthy", " drink tea"]}
+{"head": "Believe it or not , tea is the most popular beverage in the world after water .", "relation": "oReact", "tails": [" none", " tea is good for health", " tea is very good for health"]}
+{"head": "Believe it or not , tea is the most popular beverage in the world after water .", "relation": "isBefore", "tails": [" tea is the most popular beverage in the world", " tea is the most popular drink in the world", " tea is the most popular beverage in the world."]}
+{"head": "Believe it or not , tea is the most popular beverage in the world after water .", "relation": "isAfter", "tails": [" tea leaves", " drink tea", " water"]}
+{"head": "Believe it or not , tea is the most popular beverage in the world after water .", "relation": "HasSubEvent", "tails": [" drink tea", " make tea", " get drunk"]}
+{"head": "Believe it or not , tea is the most popular beverage in the world after water .", "relation": "Causes", "tails": [" tea is the most popular beverage in the world", " tea is the most popular drink in the world", " tea is the most popular beverage in the world."]}
+{"head": "Believe it or not , tea is the most popular beverage in the world after water .", "relation": "xReason", "tails": [" tea is the most popular beverage in the world", " tea is the most popular drink in the world", " tea is the most popular beverage in the world."]}
+{"head": "Asia", "relation": "ObjectUse", "tails": [" travel to", " travel", " travel in"]}
+{"head": "Asia", "relation": "AtLocation", "tails": [" world", " country", " travel agency"]}
+{"head": "Asia", "relation": "CapableOf", "tails": [" travel to many places", " travel to many countries", " travel to different countries"]}
+{"head": "Asia", "relation": "HasProperty", "tails": [" one of the world's most populated places", " one of the world's most populated regions", " one of the world's great cultures"]}
+{"head": "Asia", "relation": "MadeUpOf", "tails": [" Asia", " water", " Europe"]}
+{"head": "Asia", "relation": "NotDesires", "tails": [" travel to far away places", " people to die", " travel to other countries"]}
+{"head": "Asia", "relation": "Desires", "tails": [" travel", " live in", " travel to"]}
+{"head": "Any Others ?", "relation": "xAttr", "tails": [" curious", " smart", " thoughtful"]}
+{"head": "Any Others ?", "relation": "xWant", "tails": [" to make a list of all of them", " to make a list of all the others", " to make a list of them"]}
+{"head": "Any Others ?", "relation": "xNeed", "tails": [" none", " make a list of them", " make a list"]}
+{"head": "Any Others ?", "relation": "xEffect", "tails": [" none", " any one of the others", " any of the others"]}
+{"head": "Any Others ?", "relation": "HinderedBy", "tails": [" none", " any of them", " any of the others"]}
+{"head": "Any Others ?", "relation": "oWant", "tails": [" none", " to have a good time", " to have fun"]}
+{"head": "Any Others ?", "relation": "xReact", "tails": [" happy", " good", " satisfied"]}
+{"head": "Any Others ?", "relation": "oEffect", "tails": [" none", " have to do", " have to pay for"]}
+{"head": "Any Others ?", "relation": "xIntent", "tails": [" none", " any one of the others", " any of the others"]}
+{"head": "Any Others ?", "relation": "oReact", "tails": [" none", " happy", " sad"]}
+{"head": "Any Others ?", "relation": "isBefore", "tails": [" none", " any of them", " any of the others"]}
+{"head": "Any Others ?", "relation": "isAfter", "tails": [" none", " any of them", " any of the others"]}
+{"head": "Any Others ?", "relation": "HasSubEvent", "tails": [" none", " make a decision", " make a list"]}
+{"head": "Any Others ?", "relation": "Causes", "tails": [" none", " any of them", " any of the others"]}
+{"head": "Any Others ?", "relation": "xReason", "tails": [" none", " any of them", " any of the others"]}
+{"head": "And China is the homeland of tea .", "relation": "xAttr", "tails": [" happy", " rich", " tea"]}
+{"head": "And China is the homeland of tea .", "relation": "xWant", "tails": [" to drink tea", " to make tea", " drink tea"]}
+{"head": "And China is the homeland of tea .", "relation": "xNeed", "tails": [" none", " to go to China", " make tea"]}
+{"head": "And China is the homeland of tea .", "relation": "xEffect", "tails": [" tea is the national drink of China.", " tea is the national beverage of China.", " tea is the national drink of China"]}
+{"head": "And China is the homeland of tea .", "relation": "HinderedBy", "tails": [" tea is the national drink of China.", " tea is the national beverage of China.", " tea is made in China."]}
+{"head": "And China is the homeland of tea .", "relation": "oWant", "tails": [" none", " to drink tea", " to buy tea"]}
+{"head": "And China is the homeland of tea .", "relation": "xReact", "tails": [" happy", " happy to have tea.", " happy to have tea"]}
+{"head": "And China is the homeland of tea .", "relation": "oEffect", "tails": [" none", " drink tea", " tea is made in China"]}
+{"head": "And China is the homeland of tea .", "relation": "xIntent", "tails": [" none", " to drink tea", " to make tea"]}
+{"head": "And China is the homeland of tea .", "relation": "oReact", "tails": [" none", " happy", " happy."]}
+{"head": "And China is the homeland of tea .", "relation": "isBefore", "tails": [" drink tea", " tea leaves", " tea"]}
+{"head": "And China is the homeland of tea .", "relation": "isAfter", "tails": [" tea is the national drink of China", " tea is the national beverage of China", " tea is made in China"]}
+{"head": "And China is the homeland of tea .", "relation": "HasSubEvent", "tails": [" drink tea", " tea is made in China.", " tea is made in China"]}
+{"head": "And China is the homeland of tea .", "relation": "Causes", "tails": [" tea is the national drink of China.", " tea is very popular in China.", " tea is the national drink of China"]}
+{"head": "And China is the homeland of tea .", "relation": "xReason", "tails": [" tea is the national drink of China.", " tea is the national drink of China", " tea is very popular in China."]}

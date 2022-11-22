@@ -1,0 +1,178 @@
+{"head": "win medal", "relation": "HinderedBy", "tails": [" win medal", " win the competition", " win the medal"]}
+{"head": "win medal", "relation": "isBefore", "tails": [" win medal", " win gold medal", " win"]}
+{"head": "win medal", "relation": "isAfter", "tails": [" win medal", " win gold medal", " win competition"]}
+{"head": "win medal", "relation": "HasSubEvent", "tails": [" win medal", " get medal", " win"]}
+{"head": "win medal", "relation": "Causes", "tails": [" win medal", " win gold medal", " win"]}
+{"head": "win medal", "relation": "xReason", "tails": [" win medal", " win", " win competition"]}
+{"head": "to win", "relation": "HinderedBy", "tails": [" to win", " to win ", " to win the game"]}
+{"head": "to win", "relation": "isBefore", "tails": [" to win", " to win the game", " win the game"]}
+{"head": "to win", "relation": "isAfter", "tails": [" to win", " to win the game", " win the game"]}
+{"head": "to win", "relation": "HasSubEvent", "tails": [" to win", " win the game", " win"]}
+{"head": "to win", "relation": "Causes", "tails": [" to win", " win or lose", " win the game"]}
+{"head": "to win", "relation": "xReason", "tails": [" to win", " win or lose", " to win the game"]}
+{"head": "to taste", "relation": "HinderedBy", "tails": [" to taste", " to taste something", " to taste "]}
+{"head": "to taste", "relation": "isBefore", "tails": [" to taste", " to taste the food", " to taste something"]}
+{"head": "to taste", "relation": "isAfter", "tails": [" to taste", " to eat", " to taste something"]}
+{"head": "to taste", "relation": "HasSubEvent", "tails": [" to taste", " to taste  taste  taste  taste", " to taste  taste  taste"]}
+{"head": "to taste", "relation": "Causes", "tails": [" to taste", " to taste  taste", " to taste  taste "]}
+{"head": "to taste", "relation": "xReason", "tails": [" to taste", " to taste something", " to taste the food"]}
+{"head": "to make", "relation": "HinderedBy", "tails": [" to make ", " to make", " to make  to make "]}
+{"head": "to make", "relation": "isBefore", "tails": [" to make", " to make a cake", " to make something"]}
+{"head": "to make", "relation": "isAfter", "tails": [" to make a cake", " to make", " to make something"]}
+{"head": "to make", "relation": "HasSubEvent", "tails": [" to make", " to make ", " to make something"]}
+{"head": "to make", "relation": "Causes", "tails": [" to make", " to make ", " to make something"]}
+{"head": "to make", "relation": "xReason", "tails": [" to make", " to make something", " to make  food"]}
+{"head": "to have", "relation": "HinderedBy", "tails": [" to have", " to have ", " to have  to have"]}
+{"head": "to have", "relation": "isBefore", "tails": [" to have", " to have ", " to have  a good time"]}
+{"head": "to have", "relation": "isAfter", "tails": [" to have something to eat", " to have", " to have something to drink"]}
+{"head": "to have", "relation": "HasSubEvent", "tails": [" to have", " to have ", " to have  have"]}
+{"head": "to have", "relation": "Causes", "tails": [" to have", " to have ", " to have  "]}
+{"head": "to have", "relation": "xReason", "tails": [" to have", " to have something to eat", " to have "]}
+{"head": "to decide", "relation": "HinderedBy", "tails": [" to decide", " to decide ", " to decide  to decide "]}
+{"head": "to decide", "relation": "isBefore", "tails": [" to decide", " to decide what to do", " to decide  what to do"]}
+{"head": "to decide", "relation": "isAfter", "tails": [" to make a decision", " to make a choice", " to make decision"]}
+{"head": "to decide", "relation": "HasSubEvent", "tails": [" to decide", " to decide ", " make decision"]}
+{"head": "to decide", "relation": "Causes", "tails": [" to decide", " have to make decision", " have to make a decision"]}
+{"head": "to decide", "relation": "xReason", "tails": [" to decide", " have to make decision", " have to make a decision"]}
+{"head": "to compete", "relation": "HinderedBy", "tails": [" to compete", " to compete ", " to compete  in"]}
+{"head": "to compete", "relation": "isBefore", "tails": [" to compete", " to win the competition", " to win"]}
+{"head": "to compete", "relation": "isAfter", "tails": [" to be the best", " to win the competition", " win the competition"]}
+{"head": "to compete", "relation": "HasSubEvent", "tails": [" to compete", " win the competition", " get ready for competition"]}
+{"head": "to compete", "relation": "Causes", "tails": [" to compete", " to win", " compete"]}
+{"head": "to compete", "relation": "xReason", "tails": [" to be the best", " to win", " to win the competition"]}
+{"head": "taste one", "relation": "HinderedBy", "tails": [" get a spoon", " taste the food", " smell one"]}
+{"head": "taste one", "relation": "isBefore", "tails": [" take a sip", " take a bite", " take bite"]}
+{"head": "taste one", "relation": "isAfter", "tails": [" smell one", " get a drink", " taste the food"]}
+{"head": "taste one", "relation": "HasSubEvent", "tails": [" smell it", " get sick", " get a drink"]}
+{"head": "taste one", "relation": "Causes", "tails": [" taste the food", " taste it", " taste something"]}
+{"head": "taste one", "relation": "xReason", "tails": [" taste the food", " smell it", " taste something"]}
+{"head": "medal", "relation": "ObjectUse", "tails": [" give to the winner", " give to the winner of the competition", " give as a gift"]}
+{"head": "medal", "relation": "AtLocation", "tails": [" medal case", " medal ceremony", " award ceremony"]}
+{"head": "medal", "relation": "CapableOf", "tails": [" wear on head", " wear on neck", " wear on chest"]}
+{"head": "medal", "relation": "HasProperty", "tails": [" awarded to winner of competition", " awarded to winner", " worn on head"]}
+{"head": "medal", "relation": "MadeUpOf", "tails": [" medallion", " medal", " medal plate"]}
+{"head": "medal", "relation": "NotDesires", "tails": [" wear on head", " win the competition", " win medal"]}
+{"head": "medal", "relation": "Desires", "tails": [" win the competition", " win a medal", " get a medal"]}
+{"head": "hot dog contest", "relation": "ObjectUse", "tails": [" eating hot dogs", " eat hot dogs", " eating hotdogs"]}
+{"head": "hot dog contest", "relation": "AtLocation", "tails": [" carnival", " hot dog contest", " hot dog place"]}
+{"head": "hot dog contest", "relation": "CapableOf", "tails": [" eat hot dogs", " eat hot dog", " eat hotdogs"]}
+{"head": "hot dog contest", "relation": "HasProperty", "tails": [" hot dogs", " hot dog", " hot dog contest"]}
+{"head": "hot dog contest", "relation": "MadeUpOf", "tails": [" hot dog", " hot dogs", " hotdog"]}
+{"head": "hot dog contest", "relation": "NotDesires", "tails": [" eating hot dogs", " eat hot dogs", " eat hot dog"]}
+{"head": "hot dog contest", "relation": "Desires", "tails": [" eat hot dogs", " have a good time", " have fun"]}
+{"head": "have contest", "relation": "HinderedBy", "tails": [" have contest", " have a contest", " have fun"]}
+{"head": "have contest", "relation": "isBefore", "tails": [" have fun", " win prize", " have competition"]}
+{"head": "have contest", "relation": "isAfter", "tails": [" win prize", " have contest", " have fun"]}
+{"head": "have contest", "relation": "HasSubEvent", "tails": [" have fun", " win", " win prize"]}
+{"head": "have contest", "relation": "Causes", "tails": [" have fun", " have competition", " have contest"]}
+{"head": "have contest", "relation": "xReason", "tails": [" have fun", " have competition", " win"]}
+{"head": "girls", "relation": "ObjectUse", "tails": [" have sex with", " girls to play with", " have sex"]}
+{"head": "girls", "relation": "AtLocation", "tails": [" girls school", " girls' house", " girls' room"]}
+{"head": "girls", "relation": "CapableOf", "tails": [" sing in choir", " wear dresses", " sing in chorus"]}
+{"head": "girls", "relation": "HasProperty", "tails": [" girls", " girls and boys", " girls with breasts"]}
+{"head": "girls", "relation": "MadeUpOf", "tails": [" girls", " girls hair", " girls' hair"]}
+{"head": "girls", "relation": "NotDesires", "tails": [" girls to get pregnant", " have sex with", " girls to get married"]}
+{"head": "girls", "relation": "Desires", "tails": [" girls to love", " girls to like", " girls"]}
+{"head": "friends", "relation": "ObjectUse", "tails": [" hang out with", " have a good time with", " have a good time"]}
+{"head": "friends", "relation": "AtLocation", "tails": [" friend's house", " friends house", " friends"]}
+{"head": "friends", "relation": "CapableOf", "tails": [" hang out with", " talk to", " talk to each other"]}
+{"head": "friends", "relation": "HasProperty", "tails": [" friends", " good friends", " socializing"]}
+{"head": "friends", "relation": "MadeUpOf", "tails": [" friends", " friendship", " socializing"]}
+{"head": "friends", "relation": "NotDesires", "tails": [" have to talk to", " have fun with", " have to go out with"]}
+{"head": "friends", "relation": "Desires", "tails": [" have a good time", " have a good time with", " have fun with"]}
+{"head": "dog", "relation": "ObjectUse", "tails": [" play with", " play fetch with", " play fetch"]}
+{"head": "dog", "relation": "AtLocation", "tails": [" dog house", " pet store", " dog bowl"]}
+{"head": "dog", "relation": "CapableOf", "tails": [" walk on two legs", " walk on leash", " run around yard"]}
+{"head": "dog", "relation": "HasProperty", "tails": [" found in woods", " found in forest", " one of the four legs"]}
+{"head": "dog", "relation": "MadeUpOf", "tails": [" collar", " dog's mouth", " dog bone"]}
+{"head": "dog", "relation": "NotDesires", "tails": [" have to go to vet", " run away", " have to go to the vet"]}
+{"head": "dog", "relation": "Desires", "tails": [" have companionship", " dog food", " have fun"]}
+{"head": "contest", "relation": "ObjectUse", "tails": [" win a prize", " have fun", " have fun with"]}
+{"head": "contest", "relation": "AtLocation", "tails": [" contest", " competition", " contest hall"]}
+{"head": "contest", "relation": "CapableOf", "tails": [" enter contest", " win prize", " enter"]}
+{"head": "contest", "relation": "HasProperty", "tails": [" one of many", " found in contest", " one of many contests"]}
+{"head": "contest", "relation": "MadeUpOf", "tails": [" contest", " win", " winnings"]}
+{"head": "contest", "relation": "NotDesires", "tails": [" win or lose", " have to pay for", " win"]}
+{"head": "contest", "relation": "Desires", "tails": [" have fun", " win", " win prize"]}
+{"head": "When it was over, Kelly won.", "relation": "xAttr", "tails": [" competitive", " victorious", " athletic"]}
+{"head": "When it was over, Kelly won.", "relation": "xWant", "tails": [" win the game", " to win the game", " win the competition"]}
+{"head": "When it was over, Kelly won.", "relation": "xNeed", "tails": [" win the game", " win the competition", " win the match"]}
+{"head": "When it was over, Kelly won.", "relation": "xEffect", "tails": [" win or lose", " win the game", " wins the game"]}
+{"head": "When it was over, Kelly won.", "relation": "HinderedBy", "tails": [" When it was over, it was over.", " when it was over, it was over", " when it was over, it was over."]}
+{"head": "When it was over, Kelly won.", "relation": "oWant", "tails": [" none", " win the game", " to congratulate him"]}
+{"head": "When it was over, Kelly won.", "relation": "xReact", "tails": [" happy", " victorious", " happy."]}
+{"head": "When it was over, Kelly won.", "relation": "oEffect", "tails": [" none", " win the game", " win or lose"]}
+{"head": "When it was over, Kelly won.", "relation": "xIntent", "tails": [" none", " win the game", " to win the game"]}
+{"head": "When it was over, Kelly won.", "relation": "oReact", "tails": [" none", " happy", " defeated"]}
+{"head": "When it was over, Kelly won.", "relation": "isBefore", "tails": [" win the game", " PersonX wins the game.", " PersonX wins the game"]}
+{"head": "When it was over, Kelly won.", "relation": "isAfter", "tails": [" win the game", " PersonX was the winner of the game.", " PersonX is not allowed to win."]}
+{"head": "When it was over, Kelly won.", "relation": "HasSubEvent", "tails": [" win the game", " win or lose", " win the match"]}
+{"head": "When it was over, Kelly won.", "relation": "Causes", "tails": [" when it was over", " when the game was over", " when it's over"]}
+{"head": "When it was over, Kelly won.", "relation": "xReason", "tails": [" when it was over", " when the game was over", " when the game is over"]}
+{"head": "They had to make the best tasting one.", "relation": "xAttr", "tails": [" talented", " skilled", " hungry"]}
+{"head": "They had to make the best tasting one.", "relation": "xWant", "tails": [" to eat it", " to eat the best one", " to eat the best"]}
+{"head": "They had to make the best tasting one.", "relation": "xNeed", "tails": [" to have a recipe", " to have the ingredients", " to have a good recipe"]}
+{"head": "They had to make the best tasting one.", "relation": "xEffect", "tails": [" they have to make the best tasting one", " they have to make the best one", " they have to eat it"]}
+{"head": "They had to make the best tasting one.", "relation": "HinderedBy", "tails": [" they had to make the best tasting one", " they had to make the best one", " they wanted to be the best"]}
+{"head": "They had to make the best tasting one.", "relation": "oWant", "tails": [" none", " to eat it", " to eat the best"]}
+{"head": "They had to make the best tasting one.", "relation": "xReact", "tails": [" good about themselves", " satisfied", " happy"]}
+{"head": "They had to make the best tasting one.", "relation": "oEffect", "tails": [" none", " they have to eat it", " they have to eat the best"]}
+{"head": "They had to make the best tasting one.", "relation": "xIntent", "tails": [" to be the best", " they wanted to be the best", " they want to be the best"]}
+{"head": "They had to make the best tasting one.", "relation": "oReact", "tails": [" none", " happy", " satisfied"]}
+{"head": "They had to make the best tasting one.", "relation": "isBefore", "tails": [" they had to make the best tasting one", " they had to make the best one", " they had to eat it"]}
+{"head": "They had to make the best tasting one.", "relation": "isAfter", "tails": [" they had to make the best tasting one", " they had to make the best one", " they had to make the best one they could"]}
+{"head": "They had to make the best tasting one.", "relation": "HasSubEvent", "tails": [" they eat the best tasting one", " they eat the best one", " they eat the best"]}
+{"head": "They had to make the best tasting one.", "relation": "Causes", "tails": [" they had to make the best tasting one", " they had to make the best one", " they had to make the best tasting one."]}
+{"head": "They had to make the best tasting one.", "relation": "xReason", "tails": [" they had to make the best tasting one", " they wanted to be the best", " they had to make the best one"]}
+{"head": "The girls competed against each other.", "relation": "xAttr", "tails": [" competitive", " athletic", " strong"]}
+{"head": "The girls competed against each other.", "relation": "xWant", "tails": [" to win the competition", " to win", " to show off their skills"]}
+{"head": "The girls competed against each other.", "relation": "xNeed", "tails": [" compete in a competition", " compete in the competition", " compete in the event"]}
+{"head": "The girls competed against each other.", "relation": "xEffect", "tails": [" compete against each other", " compete in a competition", " compete against each other."]}
+{"head": "The girls competed against each other.", "relation": "HinderedBy", "tails": [" the girls to compete against each other", " the girls to win the competition", " the girls to beat the boys"]}
+{"head": "The girls competed against each other.", "relation": "oWant", "tails": [" to win the competition", " to win", " to win the competition."]}
+{"head": "The girls competed against each other.", "relation": "xReact", "tails": [" competitive", " happy", " excited"]}
+{"head": "The girls competed against each other.", "relation": "oEffect", "tails": [" none", " compete", " compete against"]}
+{"head": "The girls competed against each other.", "relation": "xIntent", "tails": [" to win the competition", " to be the best", " to win"]}
+{"head": "The girls competed against each other.", "relation": "oReact", "tails": [" none", " defeated", " competitive"]}
+{"head": "The girls competed against each other.", "relation": "isBefore", "tails": [" the girls win the competition", " the girls won the competition", " win the competition"]}
+{"head": "The girls competed against each other.", "relation": "isAfter", "tails": [" the girls compete against each other", " win the competition", " the girls to win the competition"]}
+{"head": "The girls competed against each other.", "relation": "HasSubEvent", "tails": [" win the competition", " compete against each other", " win the game"]}
+{"head": "The girls competed against each other.", "relation": "Causes", "tails": [" the girls compete against each other", " the girls to win the competition", " the girls to win"]}
+{"head": "The girls competed against each other.", "relation": "xReason", "tails": [" the girls to win the competition", " the girls to win", " the girls to beat the boys"]}
+{"head": "She won a medal.", "relation": "xAttr", "tails": [" athletic", " proud", " talented"]}
+{"head": "She won a medal.", "relation": "xWant", "tails": [" to celebrate", " to win the competition", " to show off her skills"]}
+{"head": "She won a medal.", "relation": "xNeed", "tails": [" win the competition", " to compete in a competition", " to compete in the competition"]}
+{"head": "She won a medal.", "relation": "xEffect", "tails": [" she gets a medal", " gets a medal", " she gets a medal."]}
+{"head": "She won a medal.", "relation": "HinderedBy", "tails": [" she won the competition", " she got a medal", " she won a medal"]}
+{"head": "She won a medal.", "relation": "oWant", "tails": [" to congratulate her", " none", " to congratulate the winner"]}
+{"head": "She won a medal.", "relation": "xReact", "tails": [" proud", " accomplished", " happy"]}
+{"head": "She won a medal.", "relation": "oEffect", "tails": [" none", " she gets a medal", " she gets a medal."]}
+{"head": "She won a medal.", "relation": "xIntent", "tails": [" none", " to be the best", " to be the best."]}
+{"head": "She won a medal.", "relation": "oReact", "tails": [" none", " proud", " happy"]}
+{"head": "She won a medal.", "relation": "isBefore", "tails": [" she got a medal", " she gets a medal", " she got a trophy"]}
+{"head": "She won a medal.", "relation": "isAfter", "tails": [" PersonX wins the gold medal.", " PersonX wins the competition.", " PersonX wins a medal."]}
+{"head": "She won a medal.", "relation": "HasSubEvent", "tails": [" get a medal", " win the competition", " win medal"]}
+{"head": "She won a medal.", "relation": "Causes", "tails": [" she got a medal", " she won a medal", " she won the competition"]}
+{"head": "She won a medal.", "relation": "xReason", "tails": [" she got a medal", " she won the competition", " she won a medal"]}
+{"head": "Kelly and her friends decided to have a hot dog contest.", "relation": "xAttr", "tails": [" competitive", " fun", " friendly"]}
+{"head": "Kelly and her friends decided to have a hot dog contest.", "relation": "xWant", "tails": [" to have fun", " to eat hot dogs", " to win the contest"]}
+{"head": "Kelly and her friends decided to have a hot dog contest.", "relation": "xNeed", "tails": [" to buy hot dogs", " to buy a hot dog", " to buy hotdogs"]}
+{"head": "Kelly and her friends decided to have a hot dog contest.", "relation": "xEffect", "tails": [" gets a prize", " wins prize money", " wins money"]}
+{"head": "Kelly and her friends decided to have a hot dog contest.", "relation": "HinderedBy", "tails": [" They don't have any hot dogs.", " they don't have any hot dogs", " They don't have any hot dogs to eat."]}
+{"head": "Kelly and her friends decided to have a hot dog contest.", "relation": "oWant", "tails": [" to have fun", " to win the contest", " to eat hot dogs"]}
+{"head": "Kelly and her friends decided to have a hot dog contest.", "relation": "xReact", "tails": [" happy", " excited", " competitive"]}
+{"head": "Kelly and her friends decided to have a hot dog contest.", "relation": "oEffect", "tails": [" eat hot dogs", " eat the hot dogs", " none"]}
+{"head": "Kelly and her friends decided to have a hot dog contest.", "relation": "xIntent", "tails": [" to have fun", " to have a good time", " to have a good time."]}
+{"head": "Kelly and her friends decided to have a hot dog contest.", "relation": "oReact", "tails": [" none", " happy", " excited"]}
+{"head": "Kelly and her friends decided to have a hot dog contest.", "relation": "isBefore", "tails": [" PersonX wins the hot dog contest.", " PersonY wins the hot dog contest.", " PersonX wins the hot dog contest"]}
+{"head": "Kelly and her friends decided to have a hot dog contest.", "relation": "isAfter", "tails": [" PersonX wins the hot dog contest.", " PersonX wins the hot dog contest", " PersonX wins the hotdog contest."]}
+{"head": "Kelly and her friends decided to have a hot dog contest.", "relation": "HasSubEvent", "tails": [" eat hot dogs", " have fun", " eat hot dog"]}
+{"head": "Kelly and her friends decided to have a hot dog contest.", "relation": "Causes", "tails": [" have a good time", " have fun", " have fun with friends"]}
+{"head": "Kelly and her friends decided to have a hot dog contest.", "relation": "xReason", "tails": [" have a good time", " have fun", " have fun with friends"]}
+{"head": "Kelly", "relation": "ObjectUse", "tails": [" have a good time", " have a good time with", " have a good time with friends"]}
+{"head": "Kelly", "relation": "AtLocation", "tails": [" train station", " house", " car"]}
+{"head": "Kelly", "relation": "CapableOf", "tails": [" get a drink of water", " get a new job", " take shower"]}
+{"head": "Kelly", "relation": "HasProperty", "tails": [" one of the main characters in the movie", " one of the main characters in the film", " one of the main characters in the play"]}
+{"head": "Kelly", "relation": "MadeUpOf", "tails": ["              ", "               ", "                "]}
+{"head": "Kelly", "relation": "NotDesires", "tails": [" have to go to work", " have to go to the bathroom", " have to go to the doctor"]}
+{"head": "Kelly", "relation": "Desires", "tails": [" have a good time", " none", " have a good life"]}

@@ -1,0 +1,205 @@
+{"head": "work", "relation": "ObjectUse", "tails": [" get paid", " get a raise", " get paid for"]}
+{"head": "work", "relation": "AtLocation", "tails": [" office building", " office", " house"]}
+{"head": "work", "relation": "CapableOf", "tails": [" get job done", " get paid", " get paid for work"]}
+{"head": "work", "relation": "HasProperty", "tails": [" found in office", " hard work", " found in workplace"]}
+{"head": "work", "relation": "MadeUpOf", "tails": [" work", " get paid", " work hard"]}
+{"head": "work", "relation": "NotDesires", "tails": [" get fired", " have to pay bills", " have to do"]}
+{"head": "work", "relation": "Desires", "tails": [" get paid", " work hard", " get a raise"]}
+{"head": "weeks", "relation": "ObjectUse", "tails": [" go to the doctor", " have a baby", " get a job"]}
+{"head": "weeks", "relation": "AtLocation", "tails": [" hotel room", " office building", " house"]}
+{"head": "weeks", "relation": "CapableOf", "tails": [" go on vacation", " go to doctor", " go to hospital"]}
+{"head": "weeks", "relation": "HasProperty", "tails": [" one month", " two months", " two weeks"]}
+{"head": "weeks", "relation": "MadeUpOf", "tails": [" two weeks", " six months", " two months"]}
+{"head": "weeks", "relation": "NotDesires", "tails": [" have to go to doctor", " have to go to the doctor", " have to go back to work"]}
+{"head": "weeks", "relation": "Desires", "tails": [" have a good time", " have a break from work", " have a vacation"]}
+{"head": "tryouts", "relation": "ObjectUse", "tails": [" try out for a team", " try out for a job", " try out for the team"]}
+{"head": "tryouts", "relation": "AtLocation", "tails": [" gymnasium", " gym", " sports team"]}
+{"head": "tryouts", "relation": "CapableOf", "tails": [" try out for team", " try out for a team", " try out for"]}
+{"head": "tryouts", "relation": "HasProperty", "tails": [" tried out for", " try out for a team", " try out for a job"]}
+{"head": "tryouts", "relation": "MadeUpOf", "tails": [" tryouts", " tryout", " try out"]}
+{"head": "tryouts", "relation": "NotDesires", "tails": [" try out", " try out for team", " try out for a team"]}
+{"head": "tryouts", "relation": "Desires", "tails": [" try out for a team", " try out for team", " try out for"]}
+{"head": "to practice", "relation": "HinderedBy", "tails": [" to practice", " to practice ", " to practice  to practice"]}
+{"head": "to practice", "relation": "isBefore", "tails": [" to practice", " get better at something", " get better at it"]}
+{"head": "to practice", "relation": "isAfter", "tails": [" to learn a new skill", " get better at something", " get better at it"]}
+{"head": "to practice", "relation": "HasSubEvent", "tails": [" to practice", " get better at it", " get better at something"]}
+{"head": "to practice", "relation": "Causes", "tails": [" to practice", " get better at something", " get better at it"]}
+{"head": "to practice", "relation": "xReason", "tails": [" get better at something", " to practice", " get better at it"]}
+{"head": "to make", "relation": "HinderedBy", "tails": [" to make ", " to make", " to make  to make "]}
+{"head": "to make", "relation": "isBefore", "tails": [" to make", " to make a cake", " to make something"]}
+{"head": "to make", "relation": "isAfter", "tails": [" to make a cake", " to make", " to make something"]}
+{"head": "to make", "relation": "HasSubEvent", "tails": [" to make", " to make ", " to make something"]}
+{"head": "to make", "relation": "Causes", "tails": [" to make", " to make ", " to make something"]}
+{"head": "to make", "relation": "xReason", "tails": [" to make", " to make something", " to make  food"]}
+{"head": "to join", "relation": "HinderedBy", "tails": [" to join ", " to join", " to join  to join "]}
+{"head": "to join", "relation": "isBefore", "tails": [" to join", " to join the club", " to join a club"]}
+{"head": "to join", "relation": "isAfter", "tails": [" to join a club", " to join the club", " join a club"]}
+{"head": "to join", "relation": "HasSubEvent", "tails": [" to join", " to join ", " get in line"]}
+{"head": "to join", "relation": "Causes", "tails": [" have to pay membership fee", " have to pay dues", " join club"]}
+{"head": "to join", "relation": "xReason", "tails": [" join club", " have to pay membership fee", " have to pay dues"]}
+{"head": "to get", "relation": "HinderedBy", "tails": [" to get ", " to get", " to get  to get "]}
+{"head": "to get", "relation": "isBefore", "tails": [" to get", " to get ", " to get  to get "]}
+{"head": "to get", "relation": "isAfter", "tails": [" to get", " to get something", " to get "]}
+{"head": "to get", "relation": "HasSubEvent", "tails": [" to get", " to get ", " to get  to get"]}
+{"head": "to get", "relation": "Causes", "tails": [" to get", " to get  to get ", " to get "]}
+{"head": "to get", "relation": "xReason", "tails": [" to get", " to get something", " to get "]}
+{"head": "to decide", "relation": "HinderedBy", "tails": [" to decide", " to decide ", " to decide  to decide "]}
+{"head": "to decide", "relation": "isBefore", "tails": [" to decide", " to decide what to do", " to decide  what to do"]}
+{"head": "to decide", "relation": "isAfter", "tails": [" to make a decision", " to make a choice", " to make decision"]}
+{"head": "to decide", "relation": "HasSubEvent", "tails": [" to decide", " to decide ", " make decision"]}
+{"head": "to decide", "relation": "Causes", "tails": [" to decide", " have to make decision", " have to make a decision"]}
+{"head": "to decide", "relation": "xReason", "tails": [" to decide", " have to make decision", " have to make a decision"]}
+{"head": "to come", "relation": "HinderedBy", "tails": [" to come", " to come ", " to come  to"]}
+{"head": "to come", "relation": "isBefore", "tails": [" to come", " to come to the party", " to come back home"]}
+{"head": "to come", "relation": "isAfter", "tails": [" to go to the party", " to go to the concert", " to go to a concert"]}
+{"head": "to come", "relation": "HasSubEvent", "tails": [" to come", " get in car", " to come "]}
+{"head": "to come", "relation": "Causes", "tails": [" to come", " to come  to  come  to  come", " to come  to  come  to  come "]}
+{"head": "to come", "relation": "xReason", "tails": [" to come", " to come  to  come", " to come  to  come "]}
+{"head": "to accept", "relation": "HinderedBy", "tails": [" to accept", " to accept ", " to accept something"]}
+{"head": "to accept", "relation": "isBefore", "tails": [" to accept", " to be accepted", " to accept something"]}
+{"head": "to accept", "relation": "isAfter", "tails": [" to be accepted", " to accept", " to accept the offer"]}
+{"head": "to accept", "relation": "HasSubEvent", "tails": [" to accept", " to accept ", " to accept  accept"]}
+{"head": "to accept", "relation": "Causes", "tails": [" to accept", " to be accepted", " to accept something"]}
+{"head": "to accept", "relation": "xReason", "tails": [" to accept", " to be accepted", " to accept something"]}
+{"head": "marching band", "relation": "ObjectUse", "tails": [" marching band", " play music", " make music"]}
+{"head": "marching band", "relation": "AtLocation", "tails": [" marching band", " marching band band", " band room"]}
+{"head": "marching band", "relation": "CapableOf", "tails": [" march in parade", " marching band", " play music"]}
+{"head": "marching band", "relation": "HasProperty", "tails": [" marching band", " music", " marching bands"]}
+{"head": "marching band", "relation": "MadeUpOf", "tails": [" marching band", " march", " marching band band"]}
+{"head": "marching band", "relation": "NotDesires", "tails": [" marching band", " marching", " march in parade"]}
+{"head": "marching band", "relation": "Desires", "tails": [" marching band", " music", " marching bands"]}
+{"head": "marching", "relation": "ObjectUse", "tails": [" use as a weapon", " use as a prop in a play", " use as a weapon in a war"]}
+{"head": "marching", "relation": "AtLocation", "tails": [" marching band", " march", " gymnasium"]}
+{"head": "marching", "relation": "CapableOf", "tails": [" march in parade", " march to beat", " march"]}
+{"head": "marching", "relation": "HasProperty", "tails": [" used in marching band", " worn on feet", " marching band"]}
+{"head": "marching", "relation": "MadeUpOf", "tails": [" marching band", " march", " marching"]}
+{"head": "marching", "relation": "NotDesires", "tails": [" march in parade", " wear shoes", " get tired"]}
+{"head": "marching", "relation": "Desires", "tails": [" get exercise", " march in parade", " wear shoes"]}
+{"head": "make it", "relation": "HinderedBy", "tails": [" make it", " make it better", " make it work"]}
+{"head": "make it", "relation": "isBefore", "tails": [" have fun", " make it", " make it better"]}
+{"head": "make it", "relation": "isAfter", "tails": [" make a good impression", " get a job", " make a plan"]}
+{"head": "make it", "relation": "HasSubEvent", "tails": [" get it done", " make it last", " make it"]}
+{"head": "make it", "relation": "Causes", "tails": [" get a job", " make it", " make it happen"]}
+{"head": "make it", "relation": "xReason", "tails": [" get it done", " make it better", " make it"]}
+{"head": "join band", "relation": "HinderedBy", "tails": [" join band", " get a band membership", " get a band membership card"]}
+{"head": "join band", "relation": "isBefore", "tails": [" join band", " have fun", " get band membership"]}
+{"head": "join band", "relation": "isAfter", "tails": [" join band", " get band membership card", " get band membership"]}
+{"head": "join band", "relation": "HasSubEvent", "tails": [" join band", " get band membership card", " get band uniform"]}
+{"head": "join band", "relation": "Causes", "tails": [" join band", " get band membership card", " get band membership"]}
+{"head": "join band", "relation": "xReason", "tails": [" join band", " get band membership", " get band membership card"]}
+{"head": "instrument", "relation": "ObjectUse", "tails": [" make music", " play in orchestra", " play music"]}
+{"head": "instrument", "relation": "AtLocation", "tails": [" music store", " musical instrument", " instrument case"]}
+{"head": "instrument", "relation": "CapableOf", "tails": [" play in orchestra", " make music", " play in band"]}
+{"head": "instrument", "relation": "HasProperty", "tails": [" musical instrument", " music", " musical"]}
+{"head": "instrument", "relation": "MadeUpOf", "tails": [" musical instrument", " instrument body", " instrument case"]}
+{"head": "instrument", "relation": "NotDesires", "tails": [" play music", " musical instrument", " music"]}
+{"head": "instrument", "relation": "Desires", "tails": [" music", " play in orchestra", " play music"]}
+{"head": "get instrument", "relation": "HinderedBy", "tails": [" get instrument", " make music", " play instrument"]}
+{"head": "get instrument", "relation": "isBefore", "tails": [" listen to music", " play music", " listen to notes"]}
+{"head": "get instrument", "relation": "isAfter", "tails": [" music teacher", " play music", " get instrument from store"]}
+{"head": "get instrument", "relation": "HasSubEvent", "tails": [" play instrument", " make music", " get instrument out"]}
+{"head": "get instrument", "relation": "Causes", "tails": [" make music", " play music", " get instrument"]}
+{"head": "get instrument", "relation": "xReason", "tails": [" make music", " play music", " play instrument"]}
+{"head": "day", "relation": "ObjectUse", "tails": [" have a good time", " have a good day", " have a party"]}
+{"head": "day", "relation": "AtLocation", "tails": [" day", " office building", " day at work"]}
+{"head": "day", "relation": "CapableOf", "tails": [" sleep all day", " sleep all night", " sleep all day long"]}
+{"head": "day", "relation": "HasProperty", "tails": [" one day a week", " one day a year", " day"]}
+{"head": "day", "relation": "MadeUpOf", "tails": [" day", " day and night", " day of the week"]}
+{"head": "day", "relation": "NotDesires", "tails": [" have to go to work", " have to go to doctor", " have to go to school"]}
+{"head": "day", "relation": "Desires", "tails": [" have fun", " have good time", " have fun with friends"]}
+{"head": "band", "relation": "ObjectUse", "tails": [" wear on head", " wear as a costume", " wear as a necklace"]}
+{"head": "band", "relation": "AtLocation", "tails": [" music store", " bandstand", " music shop"]}
+{"head": "band", "relation": "CapableOf", "tails": [" wear on head", " wear around neck", " wear on wrist"]}
+{"head": "band", "relation": "HasProperty", "tails": [" worn on head", " worn on wrist", " worn on neck"]}
+{"head": "band", "relation": "MadeUpOf", "tails": [" bandage", " bandoette", " band"]}
+{"head": "band", "relation": "NotDesires", "tails": [" wear on head", " wear around neck", " wear on wrist"]}
+{"head": "band", "relation": "Desires", "tails": [" wear on head", " music", " wear on wrist"]}
+{"head": "auditions", "relation": "ObjectUse", "tails": [" audition for a job", " audition for a new job", " get a job"]}
+{"head": "auditions", "relation": "AtLocation", "tails": [" audition hall", " audition room", " theater"]}
+{"head": "auditions", "relation": "CapableOf", "tails": [" audition for job", " audition for a job", " audition for a new job"]}
+{"head": "auditions", "relation": "HasProperty", "tails": [" auditions", " audition", " auditioning"]}
+{"head": "auditions", "relation": "MadeUpOf", "tails": [" auditions", " audition tape", " audition"]}
+{"head": "auditions", "relation": "NotDesires", "tails": [" audition", " auditions", " audition for job"]}
+{"head": "auditions", "relation": "Desires", "tails": [" get a job", " audition for a job", " audition for job"]}
+{"head": "The day of tryouts came and all his work was for nothing.", "relation": "xAttr", "tails": [" nervous", " disappointed", " sad"]}
+{"head": "The day of tryouts came and all his work was for nothing.", "relation": "xWant", "tails": [" to get a new job", " to get a job", " to try again"]}
+{"head": "The day of tryouts came and all his work was for nothing.", "relation": "xNeed", "tails": [" to work hard", " none", " to have worked hard"]}
+{"head": "The day of tryouts came and all his work was for nothing.", "relation": "xEffect", "tails": [" none", " gets rejected", " gets nervous"]}
+{"head": "The day of tryouts came and all his work was for nothing.", "relation": "HinderedBy", "tails": [" the tryouts were cancelled", " the day of tryouts came", " the day of tryouts"]}
+{"head": "The day of tryouts came and all his work was for nothing.", "relation": "oWant", "tails": [" none", " to get a new job", " to get a job"]}
+{"head": "The day of tryouts came and all his work was for nothing.", "relation": "xReact", "tails": [" sad", " disappointed", " nervous"]}
+{"head": "The day of tryouts came and all his work was for nothing.", "relation": "oEffect", "tails": [" none", " the tryouts are cancelled", " the tryouts were cancelled"]}
+{"head": "The day of tryouts came and all his work was for nothing.", "relation": "xIntent", "tails": [" none", " to be successful", " to get a job"]}
+{"head": "The day of tryouts came and all his work was for nothing.", "relation": "oReact", "tails": [" none", " sad", " disappointed"]}
+{"head": "The day of tryouts came and all his work was for nothing.", "relation": "isBefore", "tails": [" the tryouts were cancelled", " the tryouts are cancelled", " the tryout was cancelled"]}
+{"head": "The day of tryouts came and all his work was for nothing.", "relation": "isAfter", "tails": [" the tryouts were cancelled", " the tryouts are cancelled", " the tryout was cancelled"]}
+{"head": "The day of tryouts came and all his work was for nothing.", "relation": "HasSubEvent", "tails": [" get a new job", " none", " get a job"]}
+{"head": "The day of tryouts came and all his work was for nothing.", "relation": "Causes", "tails": [" the tryouts were cancelled", " the tryouts are cancelled", " the tryout was cancelled"]}
+{"head": "The day of tryouts came and all his work was for nothing.", "relation": "xReason", "tails": [" none", " the tryouts were cancelled", " the tryouts are cancelled"]}
+{"head": "It wasn't that he didn't made it, it's that everyone got accepted.", "relation": "xAttr", "tails": [" successful", " happy", " proud"]}
+{"head": "It wasn't that he didn't made it, it's that everyone got accepted.", "relation": "xWant", "tails": [" to get a better job", " to get a new job", " to get a job"]}
+{"head": "It wasn't that he didn't made it, it's that everyone got accepted.", "relation": "xNeed", "tails": [" none", " to apply for it", " to apply for the job"]}
+{"head": "It wasn't that he didn't made it, it's that everyone got accepted.", "relation": "xEffect", "tails": [" none", " it's not the same as everyone else", " it's not the same as the other people"]}
+{"head": "It wasn't that he didn't made it, it's that everyone got accepted.", "relation": "HinderedBy", "tails": [" none", " it's not about them", " it's not that bad"]}
+{"head": "It wasn't that he didn't made it, it's that everyone got accepted.", "relation": "oWant", "tails": [" none", " to be accepted", " to get the job"]}
+{"head": "It wasn't that he didn't made it, it's that everyone got accepted.", "relation": "xReact", "tails": [" happy", " sad", " disappointed"]}
+{"head": "It wasn't that he didn't made it, it's that everyone got accepted.", "relation": "oEffect", "tails": [" none", " they get a new job", " they get to go to college"]}
+{"head": "It wasn't that he didn't made it, it's that everyone got accepted.", "relation": "xIntent", "tails": [" none", " to be accepted", " it's not about them"]}
+{"head": "It wasn't that he didn't made it, it's that everyone got accepted.", "relation": "oReact", "tails": [" none", " it's not about them", " it's not about the person"]}
+{"head": "It wasn't that he didn't made it, it's that everyone got accepted.", "relation": "isBefore", "tails": [" none", " it's not about them", " it's not the same"]}
+{"head": "It wasn't that he didn't made it, it's that everyone got accepted.", "relation": "isAfter", "tails": [" none", " it's not about them", " it's not the same"]}
+{"head": "It wasn't that he didn't made it, it's that everyone got accepted.", "relation": "HasSubEvent", "tails": [" none", " get rejected", " get a job"]}
+{"head": "It wasn't that he didn't made it, it's that everyone got accepted.", "relation": "Causes", "tails": [" happy", " sad", " disappointed"]}
+{"head": "It wasn't that he didn't made it, it's that everyone got accepted.", "relation": "xReason", "tails": [" none", " it's not about them", " it's not the same"]}
+{"head": "He practiced for weeks to make sure he made it past auditions.", "relation": "xAttr", "tails": [" determined", " talented", " skilled"]}
+{"head": "He practiced for weeks to make sure he made it past auditions.", "relation": "xWant", "tails": [" to be the best", " to win the competition", " to win the role"]}
+{"head": "He practiced for weeks to make sure he made it past auditions.", "relation": "xNeed", "tails": [" to be in a play", " to have a good audition", " to be prepared"]}
+{"head": "He practiced for weeks to make sure he made it past auditions.", "relation": "xEffect", "tails": [" he gets a good job", " he gets a job", " he gets the part"]}
+{"head": "He practiced for weeks to make sure he made it past auditions.", "relation": "HinderedBy", "tails": [" he got the part", " he got a good job", " he got the part he wanted"]}
+{"head": "He practiced for weeks to make sure he made it past auditions.", "relation": "oWant", "tails": [" to congratulate him", " to see how they did", " to see what they did"]}
+{"head": "He practiced for weeks to make sure he made it past auditions.", "relation": "xReact", "tails": [" accomplished", " proud", " happy"]}
+{"head": "He practiced for weeks to make sure he made it past auditions.", "relation": "oEffect", "tails": [" none", " he gets a good job", " he gets a new job"]}
+{"head": "He practiced for weeks to make sure he made it past auditions.", "relation": "xIntent", "tails": [" to be the best", " to be a good actor", " to be the best."]}
+{"head": "He practiced for weeks to make sure he made it past auditions.", "relation": "oReact", "tails": [" none", " happy", " proud"]}
+{"head": "He practiced for weeks to make sure he made it past auditions.", "relation": "isBefore", "tails": [" he gets a job", " he gets the part", " he got a job"]}
+{"head": "He practiced for weeks to make sure he made it past auditions.", "relation": "isAfter", "tails": [" he got the part", " he got a job", " he gets a job"]}
+{"head": "He practiced for weeks to make sure he made it past auditions.", "relation": "HasSubEvent", "tails": [" get a job", " get a good job", " he gets a job"]}
+{"head": "He practiced for weeks to make sure he made it past auditions.", "relation": "Causes", "tails": [" he got a good job", " he got the part he wanted", " he got the part"]}
+{"head": "He practiced for weeks to make sure he made it past auditions.", "relation": "xReason", "tails": [" he got the part", " he got a job", " he gets a job"]}
+{"head": "He even got his own instrument.", "relation": "xAttr", "tails": [" talented", " musical", " skilled"]}
+{"head": "He even got his own instrument.", "relation": "xWant", "tails": [" to play music", " to play the instrument", " to practice"]}
+{"head": "He even got his own instrument.", "relation": "xNeed", "tails": [" to go to the store", " to go to the music store", " to go to the store."]}
+{"head": "He even got his own instrument.", "relation": "xEffect", "tails": [" he plays music", " he plays the instrument", " he plays the music"]}
+{"head": "He even got his own instrument.", "relation": "HinderedBy", "tails": [" he has to learn how to play it", " he has to learn how to play", " he has to learn how to play the instrument"]}
+{"head": "He even got his own instrument.", "relation": "oWant", "tails": [" none", " to play with him", " to listen to him"]}
+{"head": "He even got his own instrument.", "relation": "xReact", "tails": [" happy", " accomplished", " proud"]}
+{"head": "He even got his own instrument.", "relation": "oEffect", "tails": [" none", " he gets to play his own instrument", " he gets to play his instrument"]}
+{"head": "He even got his own instrument.", "relation": "xIntent", "tails": [" to play music", " to be a musician", " to play the instrument"]}
+{"head": "He even got his own instrument.", "relation": "oReact", "tails": [" none", " happy", " proud"]}
+{"head": "He even got his own instrument.", "relation": "isBefore", "tails": [" he plays music", " he plays the music", " he plays the guitar"]}
+{"head": "He even got his own instrument.", "relation": "isAfter", "tails": [" PersonX plays the violin.", " PersonX plays the piano.", " PersonX plays the instrument."]}
+{"head": "He even got his own instrument.", "relation": "HasSubEvent", "tails": [" get a job as a musician", " get a job as a musician.", " get a job"]}
+{"head": "He even got his own instrument.", "relation": "Causes", "tails": [" he is a musician", " he has a new hobby", " he is a musician."]}
+{"head": "He even got his own instrument.", "relation": "xReason", "tails": [" he has a new hobby", " he plays music", " he has a band"]}
+{"head": "Greg decided to join marching band.", "relation": "xAttr", "tails": [" talented", " athletic", " brave"]}
+{"head": "Greg decided to join marching band.", "relation": "xWant", "tails": [" to play in the band", " to practice marching band", " to play in the marching band"]}
+{"head": "Greg decided to join marching band.", "relation": "xNeed", "tails": [" join marching band", " to apply for the band", " to go to school"]}
+{"head": "Greg decided to join marching band.", "relation": "xEffect", "tails": [" gets a scholarship", " get's a band uniform", " gets a band membership"]}
+{"head": "Greg decided to join marching band.", "relation": "HinderedBy", "tails": [" They don't have enough money.", " They don't have the money.", " The band director won't let them."]}
+{"head": "Greg decided to join marching band.", "relation": "oWant", "tails": [" to play in the band", " to play in the marching band", " to get a job in the band"]}
+{"head": "Greg decided to join marching band.", "relation": "xReact", "tails": [" excited", " happy", " proud"]}
+{"head": "Greg decided to join marching band.", "relation": "oEffect", "tails": [" none", " they get to play in the band", " they get to play in a band"]}
+{"head": "Greg decided to join marching band.", "relation": "xIntent", "tails": [" to be part of a band", " to be in a band", " to be part of something"]}
+{"head": "Greg decided to join marching band.", "relation": "oReact", "tails": [" none", " excited", " happy"]}
+{"head": "Greg decided to join marching band.", "relation": "isBefore", "tails": [" PersonX asks PersonX if they want to join the band.", " PersonX asks PersonX if they want to join the marching band.", " PersonX asks PersonX if they want to join the band"]}
+{"head": "Greg decided to join marching band.", "relation": "isAfter", "tails": [" PersonX wants to join the marching band.", " PersonX wants to be in the band.", " PersonX wants to join the marching band"]}
+{"head": "Greg decided to join marching band.", "relation": "HasSubEvent", "tails": [" join marching band", " get a band uniform", " get a band membership"]}
+{"head": "Greg decided to join marching band.", "relation": "Causes", "tails": [" he wants to be in a band", " he wants to be in the band", " he wants to be part of something"]}
+{"head": "Greg decided to join marching band.", "relation": "xReason", "tails": [" they get to play in a band", " they get a marching band uniform", " they get a marching band scholarship"]}
+{"head": "Greg", "relation": "ObjectUse", "tails": [" get a new job", " have sex with", " get a job"]}
+{"head": "Greg", "relation": "AtLocation", "tails": [" house", " family home", " home"]}
+{"head": "Greg", "relation": "CapableOf", "tails": [" get in car", " get into argument", " get into fight"]}
+{"head": "Greg", "relation": "HasProperty", "tails": [" none", " one of two brothers", " one of three brothers"]}
+{"head": "Greg", "relation": "MadeUpOf", "tails": ["             ", "            ", "              "]}
+{"head": "Greg", "relation": "NotDesires", "tails": [" get in car accident", " have to go to the bathroom", " have to go to the doctor"]}
+{"head": "Greg", "relation": "Desires", "tails": [" have a good time", " have a good life", " have fun"]}

@@ -1,0 +1,230 @@
+{"head": "turmoil", "relation": "ObjectUse", "tails": [" make a movie about", " make people angry", " make people mad"]}
+{"head": "turmoil", "relation": "AtLocation", "tails": [" world", " war", " war zone"]}
+{"head": "turmoil", "relation": "CapableOf", "tails": [" get into trouble", " get into fight", " cry"]}
+{"head": "turmoil", "relation": "HasProperty", "tails": [" unstable", " bad news", " chaos"]}
+{"head": "turmoil", "relation": "MadeUpOf", "tails": [" chaos", " war", "  chaos"]}
+{"head": "turmoil", "relation": "NotDesires", "tails": [" bad things to happen", " bad things to happen to people", " bad things happen to people"]}
+{"head": "turmoil", "relation": "Desires", "tails": [" have to deal with", " chaos", " have to deal with it"]}
+{"head": "today", "relation": "ObjectUse", "tails": [" have a good time", " have a good day", " have a party"]}
+{"head": "today", "relation": "AtLocation", "tails": [" office building", " school", " home"]}
+{"head": "today", "relation": "CapableOf", "tails": [" get out of bed", " go to work", " get out of house"]}
+{"head": "today", "relation": "HasProperty", "tails": [" one day a week", " one day a year", " one day a month"]}
+{"head": "today", "relation": "MadeUpOf", "tails": [" day", " clock", " today"]}
+{"head": "today", "relation": "NotDesires", "tails": [" have to go to work", " have to go to the bathroom", " have to go to the store"]}
+{"head": "today", "relation": "Desires", "tails": [" have a good time", " have a good day", " have fun with friends"]}
+{"head": "to prompt", "relation": "HinderedBy", "tails": [" to prompt", " to prompt ", " to prompt the person"]}
+{"head": "to prompt", "relation": "isBefore", "tails": [" to prompt", " to prompt person", " to prompt person y"]}
+{"head": "to prompt", "relation": "isAfter", "tails": [" prompt", " write down", " to prompt"]}
+{"head": "to prompt", "relation": "HasSubEvent", "tails": [" to prompt", " to prompt  prompt  prompt  prompt  prompt", " to prompt  prompt  prompt  prompt  prompt "]}
+{"head": "to prompt", "relation": "Causes", "tails": [" to prompt", " prompt", " to prompt person"]}
+{"head": "to prompt", "relation": "xReason", "tails": [" to prompt", " prompt", " to prompt person"]}
+{"head": "to overcome", "relation": "HinderedBy", "tails": [" to overcome", " to overcome ", " to overcome something"]}
+{"head": "to overcome", "relation": "isBefore", "tails": [" to overcome", " to overcome the obstacle", " to overcome something"]}
+{"head": "to overcome", "relation": "isAfter", "tails": [" to overcome", " to be strong", " to be successful"]}
+{"head": "to overcome", "relation": "HasSubEvent", "tails": [" to overcome", " get better at something", " to overcome "]}
+{"head": "to overcome", "relation": "Causes", "tails": [" to overcome", " get better at something", " get out of bed"]}
+{"head": "to overcome", "relation": "xReason", "tails": [" to overcome", " get better at something", " have to overcome"]}
+{"head": "to leave", "relation": "HinderedBy", "tails": [" to leave", " to leave ", " to leave  to leave "]}
+{"head": "to leave", "relation": "isBefore", "tails": [" get in car", " to go home", " to leave"]}
+{"head": "to leave", "relation": "isAfter", "tails": [" get in car", " to go home", " to go to work"]}
+{"head": "to leave", "relation": "HasSubEvent", "tails": [" get in car", " to leave", " get ready to leave"]}
+{"head": "to leave", "relation": "Causes", "tails": [" get in car", " to leave", " to go home"]}
+{"head": "to leave", "relation": "xReason", "tails": [" get in car", " to leave", " to go somewhere else"]}
+{"head": "to happen", "relation": "HinderedBy", "tails": [" to happen", " to happen ", " to happen  to happen"]}
+{"head": "to happen", "relation": "isBefore", "tails": [" to happen", " to happen ", " to happen  to happen"]}
+{"head": "to happen", "relation": "isAfter", "tails": [" to happen", " to happen ", " none"]}
+{"head": "to happen", "relation": "HasSubEvent", "tails": [" to happen", " to happen ", " get ready for it"]}
+{"head": "to happen", "relation": "Causes", "tails": [" to happen", " to happen ", " none"]}
+{"head": "to happen", "relation": "xReason", "tails": [" to happen", " none", " have to happen"]}
+{"head": "to form", "relation": "HinderedBy", "tails": [" to form", " to form ", " to form a team"]}
+{"head": "to form", "relation": "isBefore", "tails": [" to form", " to form a team", " to form an army"]}
+{"head": "to form", "relation": "isAfter", "tails": [" to form", " to form a team", " to form a group"]}
+{"head": "to form", "relation": "HasSubEvent", "tails": [" to form", " to form ", " to form a team"]}
+{"head": "to form", "relation": "Causes", "tails": [" to form", " to form a team", " to form "]}
+{"head": "to form", "relation": "xReason", "tails": [" to form", " to form a team", " to form a group"]}
+{"head": "to deepen", "relation": "HinderedBy", "tails": [" to deepen", " to deepen ", " to deepen the relationship"]}
+{"head": "to deepen", "relation": "isBefore", "tails": [" to deepen", " to deepen the relationship", " to deepen relationship"]}
+{"head": "to deepen", "relation": "isAfter", "tails": [" to deepen", " to deepen the relationship", " to deepen in depth"]}
+{"head": "to deepen", "relation": "HasSubEvent", "tails": [" to deepen", " to deepen ", " get better at something"]}
+{"head": "to deepen", "relation": "Causes", "tails": [" to deepen", " to deepen ", " to deepen the relationship"]}
+{"head": "to deepen", "relation": "xReason", "tails": [" to deepen", " to deepen the relationship", " to deepen relationship"]}
+{"head": "to begin", "relation": "HinderedBy", "tails": [" to begin", " to start", " to begin "]}
+{"head": "to begin", "relation": "isBefore", "tails": [" to begin", " to start", " to get started"]}
+{"head": "to begin", "relation": "isAfter", "tails": [" to get started", " to start", " to begin"]}
+{"head": "to begin", "relation": "HasSubEvent", "tails": [" to begin", " to start", " to begin "]}
+{"head": "to begin", "relation": "Causes", "tails": [" to begin", " to start", " to begin "]}
+{"head": "to begin", "relation": "xReason", "tails": [" to begin", " to start", " to get started"]}
+{"head": "talks", "relation": "ObjectUse", "tails": [" listen to", " talk to someone", " talk to"]}
+{"head": "talks", "relation": "AtLocation", "tails": [" talk to person", " talk to others", " talk to people"]}
+{"head": "talks", "relation": "CapableOf", "tails": [" talk to others", " talk to person", " talk to people"]}
+{"head": "talks", "relation": "HasProperty", "tails": [" spoken", " heard", " talk"]}
+{"head": "talks", "relation": "MadeUpOf", "tails": [" talk", " mouth", " talkative"]}
+{"head": "talks", "relation": "NotDesires", "tails": [" listen to", " talk to others", " talk to people"]}
+{"head": "talks", "relation": "Desires", "tails": [" listen to", " talk to people", " talk to others"]}
+{"head": "prompt concerns", "relation": "HinderedBy", "tails": [" have to deal with", " have to worry about", " have to deal with it"]}
+{"head": "prompt concerns", "relation": "isBefore", "tails": [" have to deal with", " make sure they are safe", " make sure they are okay"]}
+{"head": "prompt concerns", "relation": "isAfter", "tails": [" have to deal with", " make sure they are safe", " make sure they are okay"]}
+{"head": "prompt concerns", "relation": "HasSubEvent", "tails": [" worry about", " make a decision", " make a plan"]}
+{"head": "prompt concerns", "relation": "Causes", "tails": [" fear", " worry", " worry about"]}
+{"head": "prompt concerns", "relation": "xReason", "tails": [" have to deal with", " have to worry about", " have to deal with it"]}
+{"head": "populist parties", "relation": "ObjectUse", "tails": [" get elected", " have a good time", " make a political statement"]}
+{"head": "populist parties", "relation": "AtLocation", "tails": [" party", " political parties", " political party"]}
+{"head": "populist parties", "relation": "CapableOf", "tails": [" vote for", " get elected", " vote for candidate"]}
+{"head": "populist parties", "relation": "HasProperty", "tails": [" political parties", " popular in many countries", " popular in the country"]}
+{"head": "populist parties", "relation": "MadeUpOf", "tails": [" political parties", " party", " political party"]}
+{"head": "populist parties", "relation": "NotDesires", "tails": [" get elected", " make people angry", " make people feel bad"]}
+{"head": "populist parties", "relation": "Desires", "tails": [" to be in power", " to be popular", " have a party"]}
+{"head": "parties", "relation": "ObjectUse", "tails": [" have a good time", " have a good time at", " get drunk at"]}
+{"head": "parties", "relation": "AtLocation", "tails": [" party", " party room", " party hall"]}
+{"head": "parties", "relation": "CapableOf", "tails": [" have fun", " get drunk", " get drunk at"]}
+{"head": "parties", "relation": "HasProperty", "tails": [" socializing", " social events", " social gatherings"]}
+{"head": "parties", "relation": "MadeUpOf", "tails": [" party", " party favors", " socializing"]}
+{"head": "parties", "relation": "NotDesires", "tails": [" have to clean up after", " get drunk", " have to clean up"]}
+{"head": "parties", "relation": "Desires", "tails": [" have fun", " have a good time", " have fun with friends"]}
+{"head": "overcome turmoil", "relation": "HinderedBy", "tails": [" feel better about yourself", " feel good about yourself", " feel better"]}
+{"head": "overcome turmoil", "relation": "isBefore", "tails": [" feel better about yourself", " feel better", " feel good about yourself"]}
+{"head": "overcome turmoil", "relation": "isAfter", "tails": [" feel better about yourself", " feel better", " feel good about yourself"]}
+{"head": "overcome turmoil", "relation": "HasSubEvent", "tails": [" feel better about yourself", " feel better", " get over it"]}
+{"head": "overcome turmoil", "relation": "Causes", "tails": [" feel better about yourself", " feel better", " feel good about yourself"]}
+{"head": "overcome turmoil", "relation": "xReason", "tails": [" feel better about yourself", " feel better", " feel good about yourself"]}
+{"head": "news", "relation": "ObjectUse", "tails": [" make a point", " get information from", " get information"]}
+{"head": "news", "relation": "AtLocation", "tails": [" news", " news magazine", " newspaper"]}
+{"head": "news", "relation": "CapableOf", "tails": [" read", " write about", " read about"]}
+{"head": "news", "relation": "HasProperty", "tails": [" news", " found in newspaper", " found in newspapers"]}
+{"head": "news", "relation": "MadeUpOf", "tails": [" news", " news story", " news article"]}
+{"head": "news", "relation": "NotDesires", "tails": [" news", " bad news", " news stories"]}
+{"head": "news", "relation": "Desires", "tails": [" news", " read", " read about"]}
+{"head": "new concerns", "relation": "ObjectUse", "tails": [" learn new things", " learn about yourself", " make a decision"]}
+{"head": "new concerns", "relation": "AtLocation", "tails": [" new ideas", " new information", " new job"]}
+{"head": "new concerns", "relation": "CapableOf", "tails": [" learn new things", " worry about", " learn about yourself"]}
+{"head": "new concerns", "relation": "HasProperty", "tails": [" new ideas", " new information", " new things"]}
+{"head": "new concerns", "relation": "MadeUpOf", "tails": [" new information", " new ideas", " new things"]}
+{"head": "new concerns", "relation": "NotDesires", "tails": [" new information", " worry about", " new things"]}
+{"head": "new concerns", "relation": "Desires", "tails": [" new information", " new ideas", " learn about yourself"]}
+{"head": "leave Euro", "relation": "HinderedBy", "tails": [" leave euro", " get out of euro", " get out of the country"]}
+{"head": "leave Euro", "relation": "isBefore", "tails": [" get out of euro", " leave euro", " get out of euro zone"]}
+{"head": "leave Euro", "relation": "isAfter", "tails": [" leave euro", " leave country", " leave euro bank"]}
+{"head": "leave Euro", "relation": "HasSubEvent", "tails": [" get out of euro", " get out of country", " get out of euro zone"]}
+{"head": "leave Euro", "relation": "Causes", "tails": [" get out of euro", " get out of euro zone", " leave euro"]}
+{"head": "leave Euro", "relation": "xReason", "tails": [" get out of euro", " get out of euro zone", " leave euro"]}
+{"head": "latest news", "relation": "ObjectUse", "tails": [" read about", " get information", " learn about"]}
+{"head": "latest news", "relation": "AtLocation", "tails": [" newspaper", " news magazine", " news"]}
+{"head": "latest news", "relation": "CapableOf", "tails": [" read newspaper", " read news", " read news stories"]}
+{"head": "latest news", "relation": "HasProperty", "tails": [" found in newspaper", " found in newspapers", " news"]}
+{"head": "latest news", "relation": "MadeUpOf", "tails": [" news", " news story", " news item"]}
+{"head": "latest news", "relation": "NotDesires", "tails": [" news", " get excited about", " read news"]}
+{"head": "latest news", "relation": "Desires", "tails": [" learn new things", " learn new information", " learn about new things"]}
+{"head": "government", "relation": "ObjectUse", "tails": [" govern people", " govern the people", " control people's lives"]}
+{"head": "government", "relation": "AtLocation", "tails": [" government building", " office building", " state"]}
+{"head": "government", "relation": "CapableOf", "tails": [" govern people", " govern country", " rule country"]}
+{"head": "government", "relation": "HasProperty", "tails": [" controlled by government", " controlled by people", " government of people"]}
+{"head": "government", "relation": "MadeUpOf", "tails": [" government", " government of united states", " government of people"]}
+{"head": "government", "relation": "NotDesires", "tails": [" government to be in power", " government to govern people", " government to be in charge"]}
+{"head": "government", "relation": "Desires", "tails": [" govern people", " government of people", " government to govern people"]}
+{"head": "fresh talks", "relation": "ObjectUse", "tails": [" make a new friend", " talk to someone", " talk to someone else"]}
+{"head": "fresh talks", "relation": "AtLocation", "tails": [" talk show", " meeting", " talk"]}
+{"head": "fresh talks", "relation": "CapableOf", "tails": [" make new friends", " talk to others", " talk to people"]}
+{"head": "fresh talks", "relation": "HasProperty", "tails": [" made up of many people", " made up of different people", " made up of people"]}
+{"head": "fresh talks", "relation": "MadeUpOf", "tails": [" talk", " new ideas", " talkative"]}
+{"head": "fresh talks", "relation": "NotDesires", "tails": [" talk about themselves", " talk to people", " talk to someone"]}
+{"head": "fresh talks", "relation": "Desires", "tails": [" have a conversation", " talk to someone", " have a new perspective"]}
+{"head": "form government", "relation": "HinderedBy", "tails": [" form government", " make laws", " have a government"]}
+{"head": "form government", "relation": "isBefore", "tails": [" form government", " govern country", " vote for president"]}
+{"head": "form government", "relation": "isAfter", "tails": [" form government", " vote for president", " vote in election"]}
+{"head": "form government", "relation": "HasSubEvent", "tails": [" form government", " govern country", " vote for president"]}
+{"head": "form government", "relation": "Causes", "tails": [" form government", " govern country", " govern people"]}
+{"head": "form government", "relation": "xReason", "tails": [" form government", " govern country", " govern people"]}
+{"head": "crisis", "relation": "ObjectUse", "tails": [" have to deal with", " make a movie about", " have to do with"]}
+{"head": "crisis", "relation": "AtLocation", "tails": [" crisis", " world", " bank robbery"]}
+{"head": "crisis", "relation": "CapableOf", "tails": [" call for help", " call emergency services", " call for aid"]}
+{"head": "crisis", "relation": "HasProperty", "tails": [" bad news", " bad", " very bad"]}
+{"head": "crisis", "relation": "MadeUpOf", "tails": ["                   ", "                  ", "                 "]}
+{"head": "crisis", "relation": "NotDesires", "tails": [" have to deal with", " bad news", " have to make a decision"]}
+{"head": "crisis", "relation": "Desires", "tails": [" have to deal with", " have to deal with it", " have to deal with in future"]}
+{"head": "concerns", "relation": "ObjectUse", "tails": [" worry about", " make sure they are safe", " make sure you are safe"]}
+{"head": "concerns", "relation": "AtLocation", "tails": ["                      ", "                     ", "                    "]}
+{"head": "concerns", "relation": "CapableOf", "tails": [" worry about", " think about", " worry about future"]}
+{"head": "concerns", "relation": "HasProperty", "tails": [" concerned", " none", " worry"]}
+{"head": "concerns", "relation": "MadeUpOf", "tails": [" worry", " concern", " fear"]}
+{"head": "concerns", "relation": "NotDesires", "tails": [" have to deal with", " have to worry about", " worry about"]}
+{"head": "concerns", "relation": "Desires", "tails": [" none", " worry about", " worry"]}
+{"head": "coalition government", "relation": "ObjectUse", "tails": [" govern the country", " govern a country", " govern country"]}
+{"head": "coalition government", "relation": "AtLocation", "tails": [" government of united states of america", " government of united states", " government of united states of united states"]}
+{"head": "coalition government", "relation": "CapableOf", "tails": [" govern country", " govern nation", " vote for"]}
+{"head": "coalition government", "relation": "HasProperty", "tails": [" coalitions", " political parties", " government of people"]}
+{"head": "coalition government", "relation": "MadeUpOf", "tails": [" coalitions", " government of united states", " government of people"]}
+{"head": "coalition government", "relation": "NotDesires", "tails": [" power", " government", " govern country"]}
+{"head": "coalition government", "relation": "Desires", "tails": [" government of united states", " govern country", " government of people"]}
+{"head": "coalition", "relation": "ObjectUse", "tails": [" make a plan", " make a difference", " join together"]}
+{"head": "coalition", "relation": "AtLocation", "tails": [" political party", " military base", " political parties"]}
+{"head": "coalition", "relation": "CapableOf", "tails": [" join together", " vote for", " vote for candidate"]}
+{"head": "coalition", "relation": "HasProperty", "tails": [" coalitions", " political party", " political parties"]}
+{"head": "coalition", "relation": "MadeUpOf", "tails": [" coalitions", " coalition", " political party"]}
+{"head": "coalition", "relation": "NotDesires", "tails": [" coalitions", " power", " coalition"]}
+{"head": "coalition", "relation": "Desires", "tails": [" join together", " power", " make decisions together"]}
+{"head": "So what is happening in Italy?", "relation": "xAttr", "tails": [" curious", " interested", " nervous"]}
+{"head": "So what is happening in Italy?", "relation": "xWant", "tails": [" to find out what is going on", " to find out what is going on in Italy", " to find out what is happening in Italy"]}
+{"head": "So what is happening in Italy?", "relation": "xNeed", "tails": [" none", " to know what is going on in Italy", " to know what is happening in Italy"]}
+{"head": "So what is happening in Italy?", "relation": "xEffect", "tails": [" none", " get a job in Italy", " get a job in Italy."]}
+{"head": "So what is happening in Italy?", "relation": "HinderedBy", "tails": [" so what is happening in Italy", " so what is happening in Italy?", " so what is happening in Italy."]}
+{"head": "So what is happening in Italy?", "relation": "oWant", "tails": [" none", " to find out what is going on", " to find out what is happening in Italy"]}
+{"head": "So what is happening in Italy?", "relation": "xReact", "tails": [" happy", " informed", " curious"]}
+{"head": "So what is happening in Italy?", "relation": "oEffect", "tails": [" none", " people are worried about what is going on in Italy", " people are worried about what is going on in Italy."]}
+{"head": "So what is happening in Italy?", "relation": "xIntent", "tails": [" none", " to know what is going on", " to know what's going on"]}
+{"head": "So what is happening in Italy?", "relation": "oReact", "tails": [" none", " happy", " happy."]}
+{"head": "So what is happening in Italy?", "relation": "isBefore", "tails": [" so what is happening in Italy", " so what is happening in Italy?", " so what is going on in Italy"]}
+{"head": "So what is happening in Italy?", "relation": "isAfter", "tails": [" so what is happening in Italy", " so what is happening in Italy?", " so what is going on in Italy"]}
+{"head": "So what is happening in Italy?", "relation": "HasSubEvent", "tails": [" so what is happening in Italy", " so what is happening in Italy?", " so what is happening in Italy."]}
+{"head": "So what is happening in Italy?", "relation": "Causes", "tails": [" so what is happening in Italy", " so what is happening in Italy?", " so what is happening in Italy."]}
+{"head": "So what is happening in Italy?", "relation": "xReason", "tails": [" so what is happening in Italy", " so what is happening in Italy?", " so what is going on in Italy"]}
+{"head": "Italy", "relation": "ObjectUse", "tails": [" Italy", " travel to", " travel"]}
+{"head": "Italy", "relation": "AtLocation", "tails": [" european countries", " europe", " european states"]}
+{"head": "Italy", "relation": "CapableOf", "tails": [" travel to many places", " travel to many countries", " travel around world"]}
+{"head": "Italy", "relation": "HasProperty", "tails": [" Italy", " found in many countries", " found in Italy"]}
+{"head": "Italy", "relation": "MadeUpOf", "tails": [" Italy", " european", " europe"]}
+{"head": "Italy", "relation": "NotDesires", "tails": [" Italy", " travel to Italy", " travel to"]}
+{"head": "Italy", "relation": "Desires", "tails": [" Italy", " travel", " travel to"]}
+{"head": "ITALY\u2019S political crisis deepened further today as fresh talks to overcome the turmoil began, prompting new concerns that Italy could leave the Euro if its two populist parties are successful in forming a coalition government.", "relation": "xAttr", "tails": [" political", " worried", " angry"]}
+{"head": "ITALY\u2019S political crisis deepened further today as fresh talks to overcome the turmoil began, prompting new concerns that Italy could leave the Euro if its two populist parties are successful in forming a coalition government.", "relation": "xWant", "tails": [" to find a solution to the crisis", " to find a solution", " to find a way out of the crisis"]}
+{"head": "ITALY\u2019S political crisis deepened further today as fresh talks to overcome the turmoil began, prompting new concerns that Italy could leave the Euro if its two populist parties are successful in forming a coalition government.", "relation": "xNeed", "tails": [" to have a meeting with the other parties", " to be in power", " to have a meeting with the other political parties"]}
+{"head": "ITALY\u2019S political crisis deepened further today as fresh talks to overcome the turmoil began, prompting new concerns that Italy could leave the Euro if its two populist parties are successful in forming a coalition government.", "relation": "xEffect", "tails": [" get a new government", " get a deal done", " get a new government together"]}
+{"head": "ITALY\u2019S political crisis deepened further today as fresh talks to overcome the turmoil began, prompting new concerns that Italy could leave the Euro if its two populist parties are successful in forming a coalition government.", "relation": "HinderedBy", "tails": [" Italy is in the middle of a political crisis.", " Italy is in the middle of a political crisis", " Italy is in the middle of a crisis."]}
+{"head": "ITALY\u2019S political crisis deepened further today as fresh talks to overcome the turmoil began, prompting new concerns that Italy could leave the Euro if its two populist parties are successful in forming a coalition government.", "relation": "oWant", "tails": [" to find a solution to the crisis", " to find a solution", " to find a way to resolve the crisis"]}
+{"head": "ITALY\u2019S political crisis deepened further today as fresh talks to overcome the turmoil began, prompting new concerns that Italy could leave the Euro if its two populist parties are successful in forming a coalition government.", "relation": "xReact", "tails": [" worried", " nervous", " scared"]}
+{"head": "ITALY\u2019S political crisis deepened further today as fresh talks to overcome the turmoil began, prompting new concerns that Italy could leave the Euro if its two populist parties are successful in forming a coalition government.", "relation": "oEffect", "tails": [" none", " they have to find a solution", " get out of the way"]}
+{"head": "ITALY\u2019S political crisis deepened further today as fresh talks to overcome the turmoil began, prompting new concerns that Italy could leave the Euro if its two populist parties are successful in forming a coalition government.", "relation": "xIntent", "tails": [" get out of debt", " to be in power", " get out of the euro"]}
+{"head": "ITALY\u2019S political crisis deepened further today as fresh talks to overcome the turmoil began, prompting new concerns that Italy could leave the Euro if its two populist parties are successful in forming a coalition government.", "relation": "oReact", "tails": [" none", " worried about the future of the country", " worried about the future of the euro"]}
+{"head": "ITALY\u2019S political crisis deepened further today as fresh talks to overcome the turmoil began, prompting new concerns that Italy could leave the Euro if its two populist parties are successful in forming a coalition government.", "relation": "isBefore", "tails": [" Italy is in a state of political turmoil", " Italy is in a state of political crisis", " Italy is in a state of crisis"]}
+{"head": "ITALY\u2019S political crisis deepened further today as fresh talks to overcome the turmoil began, prompting new concerns that Italy could leave the Euro if its two populist parties are successful in forming a coalition government.", "relation": "isAfter", "tails": [" Italy to leave the euro", " Italy to leave the euro.", " Italy is in a political crisis"]}
+{"head": "ITALY\u2019S political crisis deepened further today as fresh talks to overcome the turmoil began, prompting new concerns that Italy could leave the Euro if its two populist parties are successful in forming a coalition government.", "relation": "HasSubEvent", "tails": [" get out of the way", " get out of debt", " get out of the country"]}
+{"head": "ITALY\u2019S political crisis deepened further today as fresh talks to overcome the turmoil began, prompting new concerns that Italy could leave the Euro if its two populist parties are successful in forming a coalition government.", "relation": "Causes", "tails": [" Italy to leave the euro", " Italy to leave the euro.", " Italy to leave the euro zone"]}
+{"head": "ITALY\u2019S political crisis deepened further today as fresh talks to overcome the turmoil began, prompting new concerns that Italy could leave the Euro if its two populist parties are successful in forming a coalition government.", "relation": "xReason", "tails": [" get out of the country", " get out of debt", " get out of the way"]}
+{"head": "ITALY political crisis", "relation": "ObjectUse", "tails": [" get out of the country", " get out of the way", " get rid of"]}
+{"head": "ITALY political crisis", "relation": "AtLocation", "tails": [" political parties", " political party", " Italy"]}
+{"head": "ITALY political crisis", "relation": "CapableOf", "tails": [" get into trouble", " vote for candidate", " get arrested"]}
+{"head": "ITALY political crisis", "relation": "HasProperty", "tails": [" important", " bad", " political"]}
+{"head": "ITALY political crisis", "relation": "MadeUpOf", "tails": [" political parties", " political party", " political violence"]}
+{"head": "ITALY political crisis", "relation": "NotDesires", "tails": [" have to make a decision", " have to go to court", " have to go to the polls"]}
+{"head": "ITALY political crisis", "relation": "Desires", "tails": [" none", " to be in power", " to change the government"]}
+{"head": "Here is the latest news.", "relation": "xAttr", "tails": [" informed", " newsworthy", " news"]}
+{"head": "Here is the latest news.", "relation": "xWant", "tails": [" to see what else is going on", " to see what else is going on in the world", " to see what else is going on in the world."]}
+{"head": "Here is the latest news.", "relation": "xNeed", "tails": [" to read the news", " read the news", " read the newspaper"]}
+{"head": "Here is the latest news.", "relation": "xEffect", "tails": [" read the news", " none", " read about the news"]}
+{"head": "Here is the latest news.", "relation": "HinderedBy", "tails": [" here is the latest news", " here is the latest news.", " here's the latest news"]}
+{"head": "Here is the latest news.", "relation": "oWant", "tails": [" none", " to read the news", " to be informed"]}
+{"head": "Here is the latest news.", "relation": "xReact", "tails": [" informed", " happy", " good"]}
+{"head": "Here is the latest news.", "relation": "oEffect", "tails": [" none", " read the news", " read about the news"]}
+{"head": "Here is the latest news.", "relation": "xIntent", "tails": [" none", " to know what is going on", " to know what's going on"]}
+{"head": "Here is the latest news.", "relation": "oReact", "tails": [" none", " informed", " happy"]}
+{"head": "Here is the latest news.", "relation": "isBefore", "tails": [" read the news", " read about it", " read about the news"]}
+{"head": "Here is the latest news.", "relation": "isAfter", "tails": [" read the news", " read the newspaper", " read about it"]}
+{"head": "Here is the latest news.", "relation": "HasSubEvent", "tails": [" read the news", " read about the latest news", " read about the news"]}
+{"head": "Here is the latest news.", "relation": "Causes", "tails": [" here is the latest news", " read the news", " here's the latest news"]}
+{"head": "Here is the latest news.", "relation": "xReason", "tails": [" read the news", " read about the latest news", " read about the news"]}
+{"head": "Euro", "relation": "ObjectUse", "tails": [" pay for the item", " pay for the ticket", " pay for the food"]}
+{"head": "Euro", "relation": "AtLocation", "tails": [" bank", " currency exchange", " currency exchange rate"]}
+{"head": "Euro", "relation": "CapableOf", "tails": [" pay for goods and services", " pay for goods", " pay for things"]}
+{"head": "Euro", "relation": "HasProperty", "tails": [" found in bank", " one euro", " found in euro coins"]}
+{"head": "Euro", "relation": "MadeUpOf", "tails": [" euro", " dollar", " currency"]}
+{"head": "Euro", "relation": "NotDesires", "tails": [" pay for goods and services", " pay for goods", " lose money"]}
+{"head": "Euro", "relation": "Desires", "tails": [" purchase goods and services", " buy things with", " purchase goods and services with"]}

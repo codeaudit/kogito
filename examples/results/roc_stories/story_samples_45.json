@@ -1,0 +1,179 @@
+{"head": "woodworker", "relation": "ObjectUse", "tails": [" build a house", " make furniture", " cut wood"]}
+{"head": "woodworker", "relation": "AtLocation", "tails": [" woodshop", " wood shop", " lumberyard"]}
+{"head": "woodworker", "relation": "CapableOf", "tails": [" cut wood", " build house", " make furniture"]}
+{"head": "woodworker", "relation": "HasProperty", "tails": [" woodworker", " woodworking", " found in woods"]}
+{"head": "woodworker", "relation": "MadeUpOf", "tails": [" wood", " woodworker", " woodworking tools"]}
+{"head": "woodworker", "relation": "NotDesires", "tails": [" cut wood", " woodworking", " woodworker"]}
+{"head": "woodworker", "relation": "Desires", "tails": [" woodworking", " woodworking skills", " make furniture"]}
+{"head": "use", "relation": "ObjectUse", "tails": [" use as a weapon", " use as a prop in a play", " use as a prop in a movie"]}
+{"head": "use", "relation": "AtLocation", "tails": [" use as a weapon", " use as toilet paper", " use as weapon"]}
+{"head": "use", "relation": "CapableOf", "tails": [" clean up mess", " use pencil to write", " use pencil to write letter"]}
+{"head": "use", "relation": "HasProperty", "tails": [" use as a weapon", " use as weapon", " use as a tool"]}
+{"head": "use", "relation": "MadeUpOf", "tails": [" use as a weapon", " use as weapon", " use as a tool"]}
+{"head": "use", "relation": "NotDesires", "tails": [" have to pay for", " get sick", " have to do"]}
+{"head": "use", "relation": "Desires", "tails": [" use as a weapon", " use as a tool", " use as a prop"]}
+{"head": "to wear", "relation": "HinderedBy", "tails": [" to wear", " to wear ", " to wear to work"]}
+{"head": "to wear", "relation": "isBefore", "tails": [" to wear", " to wear to work", " to wear to the party"]}
+{"head": "to wear", "relation": "isAfter", "tails": [" to wear to work", " to wear to a party", " to wear to the party"]}
+{"head": "to wear", "relation": "HasSubEvent", "tails": [" to wear", " look nice", " to wear "]}
+{"head": "to wear", "relation": "Causes", "tails": [" to wear", " to wear to work", " to wear to a party"]}
+{"head": "to wear", "relation": "xReason", "tails": [" to wear", " to wear to work", " to wear to a party"]}
+{"head": "to take", "relation": "HinderedBy", "tails": [" to take", " to take ", " to take  to take "]}
+{"head": "to take", "relation": "isBefore", "tails": [" to take", " to take a nap", " to take a picture"]}
+{"head": "to take", "relation": "isAfter", "tails": [" to take", " to take a nap", " to take a picture"]}
+{"head": "to take", "relation": "HasSubEvent", "tails": [" to take", " to take ", " to take  take "]}
+{"head": "to take", "relation": "Causes", "tails": [" to take", " to take  to take  to take  to take  take  to take  take  to take ", " to take  to take  to take  to take  take  to  take  take  to take"]}
+{"head": "to take", "relation": "xReason", "tails": [" to take", " to take a nap", " to take  to take "]}
+{"head": "to look", "relation": "HinderedBy", "tails": [" to look", " to look at something", " to look  at something"]}
+{"head": "to look", "relation": "isBefore", "tails": [" to look", " to look at something", " to look at"]}
+{"head": "to look", "relation": "isAfter", "tails": [" to look at something", " look at something", " to look at"]}
+{"head": "to look", "relation": "HasSubEvent", "tails": [" to look", " to look at something", " look at something"]}
+{"head": "to look", "relation": "Causes", "tails": [" to look", " to look at something", " to look at"]}
+{"head": "to look", "relation": "xReason", "tails": [" to look", " to look at something", " to look at"]}
+{"head": "to grind", "relation": "HinderedBy", "tails": [" to grind  grind  grind  grind  grind  grind  grind  grind  grind  grind  grind", " to grind  grind  grind  grind  grind  grind  grind  grind  grind  grind", " to grind"]}
+{"head": "to grind", "relation": "isBefore", "tails": [" to grind", " to grind on", " to grind the ground"]}
+{"head": "to grind", "relation": "isAfter", "tails": [" to get the job done", " to grind", " to get a job done"]}
+{"head": "to grind", "relation": "HasSubEvent", "tails": [" to grind  grind  grind  grind  grind  grind  grind  grind  grind  grind  grind", " to grind  grind  grind  grind  grind  grind  grind  grind  grind", " to grind  grind  grind  grind  grind  grind  grind  grind  grind  grind"]}
+{"head": "to grind", "relation": "Causes", "tails": [" to grind  grind  grind  grind  grind  grind  grind  grind  grind  grind  grind", " to grind  grind  grind  grind  grind  grind  grind  grind  grind  grind", " to grind  grind  grind  grind  grind  grind  grind  grind  grind"]}
+{"head": "to grind", "relation": "xReason", "tails": [" to grind  grind  grind  grind  grind  grind  grind  grind  grind  grind  grind", " to grind  grind  grind  grind  grind  grind  grind  grind  grind  grind", " to grind  grind  grind  grind  grind  grind  grind  grind  grind"]}
+{"head": "to begin", "relation": "HinderedBy", "tails": [" to begin", " to start", " to begin "]}
+{"head": "to begin", "relation": "isBefore", "tails": [" to begin", " to start", " to get started"]}
+{"head": "to begin", "relation": "isAfter", "tails": [" to get started", " to start", " to begin"]}
+{"head": "to begin", "relation": "HasSubEvent", "tails": [" to begin", " to start", " to begin "]}
+{"head": "to begin", "relation": "Causes", "tails": [" to begin", " to start", " to begin "]}
+{"head": "to begin", "relation": "xReason", "tails": [" to begin", " to start", " to get started"]}
+{"head": "take it", "relation": "HinderedBy", "tails": [" give it to someone else", " take it", " give it to someone"]}
+{"head": "take it", "relation": "isBefore", "tails": [" give it to someone else", " give it to someone", " give it to person"]}
+{"head": "take it", "relation": "isAfter", "tails": [" give it to someone", " give it to person", " give it to someone else"]}
+{"head": "take it", "relation": "HasSubEvent", "tails": [" give it to someone", " give it to person", " give it back"]}
+{"head": "take it", "relation": "Causes", "tails": [" give it to someone", " give it to someone else", " give it to person"]}
+{"head": "take it", "relation": "xReason", "tails": [" give it to someone", " give it to person", " give it to someone else"]}
+{"head": "take bit", "relation": "HinderedBy", "tails": [" take out of mouth", " take out of container", " take a bite"]}
+{"head": "take bit", "relation": "isBefore", "tails": [" bite into", " eat", " take bite"]}
+{"head": "take bit", "relation": "isAfter", "tails": [" bite into", " take bite", " eat"]}
+{"head": "take bit", "relation": "HasSubEvent", "tails": [" bite into", " take bite", " eat"]}
+{"head": "take bit", "relation": "Causes", "tails": [" bite into", " eat", " take bite"]}
+{"head": "take bit", "relation": "xReason", "tails": [" eat", " bite into", " take bite"]}
+{"head": "sharpener", "relation": "ObjectUse", "tails": [" sharpen pencils", " sharpen pencil", " sharpen the pencil"]}
+{"head": "sharpener", "relation": "AtLocation", "tails": [" drawer", " desk drawer", " sharpener"]}
+{"head": "sharpener", "relation": "CapableOf", "tails": [" sharpen pencil", " sharpen pencil", " sharpen pencils"]}
+{"head": "sharpener", "relation": "HasProperty", "tails": [" sharpener", " sharpening pencil", " sharpening"]}
+{"head": "sharpener", "relation": "MadeUpOf", "tails": [" sharpener", " sharpener blade", " sharpening pencil"]}
+{"head": "sharpener", "relation": "NotDesires", "tails": [" sharpen pencil", " sharpener", " sharpening pencil"]}
+{"head": "sharpener", "relation": "Desires", "tails": [" sharpen pencil", " sharpening pencil", " sharpen pencils"]}
+{"head": "old bit", "relation": "ObjectUse", "tails": [" use as a paperweight", " use as toilet paper", " use as a weapon"]}
+{"head": "old bit", "relation": "AtLocation", "tails": [" old house", " old clothes", " old car"]}
+{"head": "old bit", "relation": "CapableOf", "tails": [" throw away", " use as toilet paper", " use as a weapon"]}
+{"head": "old bit", "relation": "HasProperty", "tails": [" old", " used in medicine", " found in old house"]}
+{"head": "old bit", "relation": "MadeUpOf", "tails": [" old tooth", " old hair", " bit of cheese"]}
+{"head": "old bit", "relation": "NotDesires", "tails": [" bad taste in mouth", " old food", " old teeth"]}
+{"head": "old bit", "relation": "Desires", "tails": [" use as a paperweight", " use as a weapon", " use as a paper weight"]}
+{"head": "machine", "relation": "ObjectUse", "tails": [" machine parts", " machine shop", " machine"]}
+{"head": "machine", "relation": "AtLocation", "tails": [" machine shop", " factory", " computer"]}
+{"head": "machine", "relation": "CapableOf", "tails": [" machine parts", " make machine", " make machine parts"]}
+{"head": "machine", "relation": "HasProperty", "tails": [" found in factory", " machine", " found in factories"]}
+{"head": "machine", "relation": "MadeUpOf", "tails": [" machine parts", " machine", " machine gears"]}
+{"head": "machine", "relation": "NotDesires", "tails": [" machine parts", " machine", " machine to break"]}
+{"head": "machine", "relation": "Desires", "tails": [" machine parts", " machine", " power"]}
+{"head": "lot", "relation": "ObjectUse", "tails": [" park the car in", " parking lot", " park the car"]}
+{"head": "lot", "relation": "AtLocation", "tails": [" parking lot", " park", " parking space"]}
+{"head": "lot", "relation": "CapableOf", "tails": [" park car in", " park car", " park car on"]}
+{"head": "lot", "relation": "HasProperty", "tails": [" parking lot", " found in city", " found in many cities"]}
+{"head": "lot", "relation": "MadeUpOf", "tails": [" parking lot", " lotteries", " parking space"]}
+{"head": "lot", "relation": "NotDesires", "tails": [" parking lot", " parking spaces", " parking space"]}
+{"head": "lot", "relation": "Desires", "tails": [" parking lot", " parking spaces", " parking space"]}
+{"head": "grind it", "relation": "HinderedBy", "tails": [" grind it", " grind it up", " grind it with"]}
+{"head": "grind it", "relation": "isBefore", "tails": [" grind it", " grind it again", " grind it up"]}
+{"head": "grind it", "relation": "isAfter", "tails": [" grind it", " grind it up", " grind it into flour"]}
+{"head": "grind it", "relation": "HasSubEvent", "tails": [" grind it", " grind it again", " grind it up"]}
+{"head": "grind it", "relation": "Causes", "tails": [" grind it", " grind it up", " grind it into flour"]}
+{"head": "grind it", "relation": "xReason", "tails": [" grind it", " grind it up", " grind it into flour"]}
+{"head": "cuts", "relation": "ObjectUse", "tails": [" use as a weapon", " use as a paperweight", " make a paper airplane"]}
+{"head": "cuts", "relation": "AtLocation", "tails": [" knife", " kitchen", " scissors"]}
+{"head": "cuts", "relation": "CapableOf", "tails": [" cut into pieces", " use knife to cut", " cut into pieces of wood"]}
+{"head": "cuts", "relation": "HasProperty", "tails": [" found in kitchen", " found in garden", " found in woodwork"]}
+{"head": "cuts", "relation": "MadeUpOf", "tails": [" cuts", " knife", " cut"]}
+{"head": "cuts", "relation": "NotDesires", "tails": [" cut yourself", " cut skin", " cut themselves"]}
+{"head": "cuts", "relation": "Desires", "tails": [" get rid of pain", " get rid of hair", " cut hair"]}
+{"head": "bit", "relation": "ObjectUse", "tails": [" use as a weapon", " use as a bookmark", " use as a paperweight"]}
+{"head": "bit", "relation": "AtLocation", "tails": [" bit of paper", " bit of bread", " bit of cheese"]}
+{"head": "bit", "relation": "CapableOf", "tails": [" bite into", " bite", " use as weapon"]}
+{"head": "bit", "relation": "HasProperty", "tails": [" found in hair", " bit of paper", " found in body"]}
+{"head": "bit", "relation": "MadeUpOf", "tails": [" bit", " bite", " bits"]}
+{"head": "bit", "relation": "NotDesires", "tails": [" bite", " bit", " bite into"]}
+{"head": "bit", "relation": "Desires", "tails": [" bit of cheese", " bit of cake", " bit of candy"]}
+{"head": "The woodworker was not satisfied with the cuts from a bit.", "relation": "xAttr", "tails": [" crafty", " frustrated", " skilled"]}
+{"head": "The woodworker was not satisfied with the cuts from a bit.", "relation": "xWant", "tails": [" to make a new one", " to make a better one", " to make a new one."]}
+{"head": "The woodworker was not satisfied with the cuts from a bit.", "relation": "xNeed", "tails": [" to have a woodworking class", " to make the cut", " to have a woodworker"]}
+{"head": "The woodworker was not satisfied with the cuts from a bit.", "relation": "xEffect", "tails": [" the woodworker is not satisfied with the cuts from the bit.", " the woodworker is not satisfied with the cuts from the bit", " the woodworker is not satisfied with the cuts from a bit."]}
+{"head": "The woodworker was not satisfied with the cuts from a bit.", "relation": "HinderedBy", "tails": [" the woodworker is not satisfied with the cuts from the bit", " the woodworker is not satisfied with the cuts from the bit.", " the woodworker is not satisfied with the cuts"]}
+{"head": "The woodworker was not satisfied with the cuts from a bit.", "relation": "oWant", "tails": [" to make a new one", " to make a better one", " to get a new one"]}
+{"head": "The woodworker was not satisfied with the cuts from a bit.", "relation": "xReact", "tails": [" frustrated", " satisfied", " unhappy"]}
+{"head": "The woodworker was not satisfied with the cuts from a bit.", "relation": "oEffect", "tails": [" the woodworker is not satisfied with the cuts from the bit", " the woodworker is not satisfied with the cuts from the bit.", " none"]}
+{"head": "The woodworker was not satisfied with the cuts from a bit.", "relation": "xIntent", "tails": [" none", " the wood to be perfect", " the wood to look good"]}
+{"head": "The woodworker was not satisfied with the cuts from a bit.", "relation": "oReact", "tails": [" none", " frustrated", " frustrated."]}
+{"head": "The woodworker was not satisfied with the cuts from a bit.", "relation": "isBefore", "tails": [" The woodworker cuts the wood.", " the wood is not good enough", " The woodworker cuts the wood"]}
+{"head": "The woodworker was not satisfied with the cuts from a bit.", "relation": "isAfter", "tails": [" the wood is not sharp enough", " the wood is not good enough", " the wood is too thin"]}
+{"head": "The woodworker was not satisfied with the cuts from a bit.", "relation": "HasSubEvent", "tails": [" the wood to be cut", " the wood to be perfect", " the woodworker to be satisfied"]}
+{"head": "The woodworker was not satisfied with the cuts from a bit.", "relation": "Causes", "tails": [" the wood is not good enough", " the wood is too thin", " the wood to be cut"]}
+{"head": "The woodworker was not satisfied with the cuts from a bit.", "relation": "xReason", "tails": [" the wood is not good enough", " the wood is too thin", " the wood to be cut"]}
+{"head": "The bit had been worn away by a lot of use.", "relation": "xAttr", "tails": [" worn out", " hardworking", " worn down"]}
+{"head": "The bit had been worn away by a lot of use.", "relation": "xWant", "tails": [" to make sure it doesn't happen again", " to make sure it doesn't happen again.", " to make sure it doesn't get worn out again"]}
+{"head": "The bit had been worn away by a lot of use.", "relation": "xNeed", "tails": [" none", " to have a lot of use", " to use it a lot"]}
+{"head": "The bit had been worn away by a lot of use.", "relation": "xEffect", "tails": [" the bit to be worn away", " the bit is worn away", " the bit to be worn away."]}
+{"head": "The bit had been worn away by a lot of use.", "relation": "HinderedBy", "tails": [" the bit to be worn away", " the bit to be worn away.", " the bit was worn away"]}
+{"head": "The bit had been worn away by a lot of use.", "relation": "oWant", "tails": [" none", " to make sure it doesn't happen again", " to make sure it doesn't happen again."]}
+{"head": "The bit had been worn away by a lot of use.", "relation": "xReact", "tails": [" worn out", " worn down", " tired"]}
+{"head": "The bit had been worn away by a lot of use.", "relation": "oEffect", "tails": [" none", " the bit to be worn away", " the bit is worn away"]}
+{"head": "The bit had been worn away by a lot of use.", "relation": "xIntent", "tails": [" none", " the bit to be worn away", " the bit to be worn away."]}
+{"head": "The bit had been worn away by a lot of use.", "relation": "oReact", "tails": [" none", " the bit to be worn away", " the bit to be worn away."]}
+{"head": "The bit had been worn away by a lot of use.", "relation": "isBefore", "tails": [" the bit to be worn away", " the bit to be worn away.", " the bit is worn away"]}
+{"head": "The bit had been worn away by a lot of use.", "relation": "isAfter", "tails": [" the bit to be worn away", " the bit to be worn away.", " the bit to be worn"]}
+{"head": "The bit had been worn away by a lot of use.", "relation": "HasSubEvent", "tails": [" the bit to be worn away", " the bit to be worn away.", " get a new one"]}
+{"head": "The bit had been worn away by a lot of use.", "relation": "Causes", "tails": [" the bit to be worn away", " the bit is worn away", " the bit to be worn away."]}
+{"head": "The bit had been worn away by a lot of use.", "relation": "xReason", "tails": [" the bit to be worn away", " the bit to be worn away.", " the bit is worn away"]}
+{"head": "He took the bit from the machine and looked at it.", "relation": "xAttr", "tails": [" curious", " observant", " observant."]}
+{"head": "He took the bit from the machine and looked at it.", "relation": "xWant", "tails": [" to see what it is", " to see if it's broken", " to see if it is broken"]}
+{"head": "He took the bit from the machine and looked at it.", "relation": "xNeed", "tails": [" to get the bit from the machine", " to be in charge of the machine", " to get the bit from the machine."]}
+{"head": "He took the bit from the machine and looked at it.", "relation": "xEffect", "tails": [" he sees what he is looking at", " none", " he sees what he did wrong"]}
+{"head": "He took the bit from the machine and looked at it.", "relation": "HinderedBy", "tails": [" The machine is broken.", " The machine is not working.", " The machine was broken."]}
+{"head": "He took the bit from the machine and looked at it.", "relation": "oWant", "tails": [" none", " to see what it is", " to see if it's broken"]}
+{"head": "He took the bit from the machine and looked at it.", "relation": "xReact", "tails": [" curious", " satisfied", " informed"]}
+{"head": "He took the bit from the machine and looked at it.", "relation": "oEffect", "tails": [" none", " they get a new one", " they get a new job"]}
+{"head": "He took the bit from the machine and looked at it.", "relation": "xIntent", "tails": [" to see what it is", " to see what it is.", " to see if it is broken"]}
+{"head": "He took the bit from the machine and looked at it.", "relation": "oReact", "tails": [" none", " like they have something to look at", " like they have something to look at."]}
+{"head": "He took the bit from the machine and looked at it.", "relation": "isBefore", "tails": [" the machine to turn on", " the machine to turn on.", " the machine to work"]}
+{"head": "He took the bit from the machine and looked at it.", "relation": "isAfter", "tails": [" the machine to turn on", " the machine to turn on.", " the machine to work"]}
+{"head": "He took the bit from the machine and looked at it.", "relation": "HasSubEvent", "tails": [" look at the bit", " look at it", " look at the machine"]}
+{"head": "He took the bit from the machine and looked at it.", "relation": "Causes", "tails": [" curious", " none", " he saw it"]}
+{"head": "He took the bit from the machine and looked at it.", "relation": "xReason", "tails": [" none", " he saw it was broken", " he saw a piece of paper"]}
+{"head": "He took it to a sharpener and began to grind it.", "relation": "xAttr", "tails": [" sharp", " sharpener", " sharpening"]}
+{"head": "He took it to a sharpener and began to grind it.", "relation": "xWant", "tails": [" to sharpen it", " to sharpen the pencil", " to sharpen the knife"]}
+{"head": "He took it to a sharpener and began to grind it.", "relation": "xNeed", "tails": [" to buy a sharpener", " to get a sharpener", " to have a sharpener"]}
+{"head": "He took it to a sharpener and began to grind it.", "relation": "xEffect", "tails": [" sharpening", " sharpens it", " sharpens pencil"]}
+{"head": "He took it to a sharpener and began to grind it.", "relation": "HinderedBy", "tails": [" he found a sharpener", " he found a sharpener.", " he put it in the machine"]}
+{"head": "He took it to a sharpener and began to grind it.", "relation": "oWant", "tails": [" to sharpen it", " to sharpen the pencil", " to sharpen the knife"]}
+{"head": "He took it to a sharpener and began to grind it.", "relation": "xReact", "tails": [" sharp", " sharpening", " sharpened"]}
+{"head": "He took it to a sharpener and began to grind it.", "relation": "oEffect", "tails": [" none", " sharpening", " sharpens pencil"]}
+{"head": "He took it to a sharpener and began to grind it.", "relation": "xIntent", "tails": [" to sharpen the pencil", " to sharpen it", " to sharpen something"]}
+{"head": "He took it to a sharpener and began to grind it.", "relation": "oReact", "tails": [" none", " sharpening", " sharpened"]}
+{"head": "He took it to a sharpener and began to grind it.", "relation": "isBefore", "tails": [" he put it in the machine", " he put it on the table", " he put it in the drawer"]}
+{"head": "He took it to a sharpener and began to grind it.", "relation": "isAfter", "tails": [" he put it in the machine", " he put it on the table", " sharpening"]}
+{"head": "He took it to a sharpener and began to grind it.", "relation": "HasSubEvent", "tails": [" get a new one", " to grind it", " get a new pencil"]}
+{"head": "He took it to a sharpener and began to grind it.", "relation": "Causes", "tails": [" sharpening", " sharpened", " sharpening pencil"]}
+{"head": "He took it to a sharpener and began to grind it.", "relation": "xReason", "tails": [" sharpening", " sharpening pencil", " sharpening tools"]}
+{"head": "After a while the old bit was as good as new.", "relation": "xAttr", "tails": [" hardworking", " hard-working", " hard working"]}
+{"head": "After a while the old bit was as good as new.", "relation": "xWant", "tails": [" to use the new bit", " to use it again", " to use the old bit"]}
+{"head": "After a while the old bit was as good as new.", "relation": "xNeed", "tails": [" make a new one", " none", " make sure it works"]}
+{"head": "After a while the old bit was as good as new.", "relation": "xEffect", "tails": [" get a new one", " none", " get a new job"]}
+{"head": "After a while the old bit was as good as new.", "relation": "HinderedBy", "tails": [" after a while the old bit is no longer good.", " after a while the old bit was no longer good.", " after a while the old bit is no longer good"]}
+{"head": "After a while the old bit was as good as new.", "relation": "oWant", "tails": [" none", " to use the new bit", " to use it again"]}
+{"head": "After a while the old bit was as good as new.", "relation": "xReact", "tails": [" happy", " good", " satisfied"]}
+{"head": "After a while the old bit was as good as new.", "relation": "oEffect", "tails": [" none", " get a new one", " they get a new one"]}
+{"head": "After a while the old bit was as good as new.", "relation": "xIntent", "tails": [" none", " to be able to use it again", " to be able to do it again"]}
+{"head": "After a while the old bit was as good as new.", "relation": "oReact", "tails": [" none", " happy", " happy."]}
+{"head": "After a while the old bit was as good as new.", "relation": "isBefore", "tails": [" after a while the old bit was as good as new.", " after a while the old bit was as good as new", " after a while the old bit is no longer good."]}
+{"head": "After a while the old bit was as good as new.", "relation": "isAfter", "tails": [" after a while the old bit was as good as new.", " after a while the old bit was as good as new", " after a while the old bit is no longer good."]}
+{"head": "After a while the old bit was as good as new.", "relation": "HasSubEvent", "tails": [" get a new one", " make a new one", " get a new one."]}
+{"head": "After a while the old bit was as good as new.", "relation": "Causes", "tails": [" after a while the old bit is no longer as good as new.", " after a while the old bit is no longer as good as new", " after a while the old bit is as good as new."]}
+{"head": "After a while the old bit was as good as new.", "relation": "xReason", "tails": [" after a while the old bit is no longer good.", " after a while the old bit was no longer good.", " after a while the old bit is no longer good"]}

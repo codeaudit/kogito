@@ -1,0 +1,355 @@
+{"head": "yellow", "relation": "ObjectUse", "tails": [" color", " shade of green", " shade of red"]}
+{"head": "yellow", "relation": "AtLocation", "tails": [" yellow", " red", " color"]}
+{"head": "yellow", "relation": "CapableOf", "tails": [" color clothing", " color clothes", " color hair"]}
+{"head": "yellow", "relation": "HasProperty", "tails": [" yellow", " green", " yellowish"]}
+{"head": "yellow", "relation": "MadeUpOf", "tails": [" yellow", " color", " red"]}
+{"head": "yellow", "relation": "NotDesires", "tails": [" yellow", " red", " yellow hair"]}
+{"head": "yellow", "relation": "Desires", "tails": [" color", " yellow", " green"]}
+{"head": "write ticket", "relation": "HinderedBy", "tails": [" write ticket", " write ticket on paper", " write ticket on"]}
+{"head": "write ticket", "relation": "isBefore", "tails": [" write ticket on paper", " write ticket", " write down ticket number"]}
+{"head": "write ticket", "relation": "isAfter", "tails": [" ticket collector", " write ticket on paper", " write ticket"]}
+{"head": "write ticket", "relation": "HasSubEvent", "tails": [" write name on ticket", " write ticket on paper", " write ticket"]}
+{"head": "write ticket", "relation": "Causes", "tails": [" write ticket", " write ticket on paper", " write down ticket number"]}
+{"head": "write ticket", "relation": "xReason", "tails": [" write name on ticket", " write ticket", " write ticket on paper"]}
+{"head": "to write", "relation": "HinderedBy", "tails": [" to write", " to write a book", " to write a novel"]}
+{"head": "to write", "relation": "isBefore", "tails": [" to write a book", " learn how to write", " to write a novel"]}
+{"head": "to write", "relation": "isAfter", "tails": [" get a pen and paper", " to write a book", " to write a novel"]}
+{"head": "to write", "relation": "HasSubEvent", "tails": [" learn how to write", " learn to write", " learn how to read"]}
+{"head": "to write", "relation": "Causes", "tails": [" learn how to write", " learn to write", " learn how to read"]}
+{"head": "to write", "relation": "xReason", "tails": [" learn how to write", " learn to write", " learn to read"]}
+{"head": "to understand", "relation": "HinderedBy", "tails": [" to understand", " to understand ", " to understand something"]}
+{"head": "to understand", "relation": "isBefore", "tails": [" to understand", " to understand what is going on", " to understand the situation"]}
+{"head": "to understand", "relation": "isAfter", "tails": [" to understand", " to understand the situation", " to be understood"]}
+{"head": "to understand", "relation": "HasSubEvent", "tails": [" to understand", " to understand  understand", " to understand "]}
+{"head": "to understand", "relation": "Causes", "tails": [" to understand", " understand", " to understand "]}
+{"head": "to understand", "relation": "xReason", "tails": [" to understand", " understand", " to understand something"]}
+{"head": "to tell", "relation": "HinderedBy", "tails": [" to tell", " to tell ", " to tell  to tell "]}
+{"head": "to tell", "relation": "isBefore", "tails": [" to tell", " to tell the truth", " to tell "]}
+{"head": "to tell", "relation": "isAfter", "tails": [" to tell the truth", " to tell", " to be heard"]}
+{"head": "to tell", "relation": "HasSubEvent", "tails": [" to tell", " to tell ", " to tell  tell "]}
+{"head": "to tell", "relation": "Causes", "tails": [" to tell", " to tell  to  tell ", " to tell  to  tell  "]}
+{"head": "to tell", "relation": "xReason", "tails": [" to tell", " to be honest", " none"]}
+{"head": "to teach", "relation": "HinderedBy", "tails": [" to teach", " to teach ", " to teach  to teach "]}
+{"head": "to teach", "relation": "isBefore", "tails": [" to teach", " to teach others", " to teach to others"]}
+{"head": "to teach", "relation": "isAfter", "tails": [" to be a teacher", " to teach to others", " to teach to students"]}
+{"head": "to teach", "relation": "HasSubEvent", "tails": [" to teach", " learn new things", " learn new skills"]}
+{"head": "to teach", "relation": "Causes", "tails": [" learn new things", " have to teach", " learn new skills"]}
+{"head": "to teach", "relation": "xReason", "tails": [" learn new things", " learn new skills", " have to teach"]}
+{"head": "to speed", "relation": "HinderedBy", "tails": [" to speed", " to speed  up", " to speed "]}
+{"head": "to speed", "relation": "isBefore", "tails": [" to speed", " to speed up", " get to destination faster"]}
+{"head": "to speed", "relation": "isAfter", "tails": [" get to destination faster", " get to destination", " to speed"]}
+{"head": "to speed", "relation": "HasSubEvent", "tails": [" to speed", " get to destination", " get to destination faster"]}
+{"head": "to speed", "relation": "Causes", "tails": [" to speed", " get to destination faster", " get there faster"]}
+{"head": "to speed", "relation": "xReason", "tails": [" to speed", " get to destination faster", " get to destination"]}
+{"head": "to run", "relation": "HinderedBy", "tails": [" to run", " to run fast", " to run "]}
+{"head": "to run", "relation": "isBefore", "tails": [" to run fast", " to run", " to run faster"]}
+{"head": "to run", "relation": "isAfter", "tails": [" to run fast", " to run faster", " to run"]}
+{"head": "to run", "relation": "HasSubEvent", "tails": [" get out of breath", " to run", " to run fast"]}
+{"head": "to run", "relation": "Causes", "tails": [" to run", " to run fast", " get exercise"]}
+{"head": "to run", "relation": "xReason", "tails": [" get exercise", " to run fast", " to run"]}
+{"head": "to realize", "relation": "HinderedBy", "tails": [" to realize", " to realize ", " to realize something"]}
+{"head": "to realize", "relation": "isBefore", "tails": [" to realize", " to realize what is going on", " to realize what they are doing"]}
+{"head": "to realize", "relation": "isAfter", "tails": [" to understand the situation", " to be aware", " to be aware of reality"]}
+{"head": "to realize", "relation": "HasSubEvent", "tails": [" to realize", " to realize ", " to realize  realization"]}
+{"head": "to realize", "relation": "Causes", "tails": [" to realize", " none", " to realize "]}
+{"head": "to realize", "relation": "xReason", "tails": [" to realize", " none", " to realize something"]}
+{"head": "to pull", "relation": "HinderedBy", "tails": [" to pull", " to pull ", " to pull  to pull "]}
+{"head": "to pull", "relation": "isBefore", "tails": [" to pull", " to pull ", " to pull  to pull "]}
+{"head": "to pull", "relation": "isAfter", "tails": [" to pull", " to pull on", " to pull out"]}
+{"head": "to pull", "relation": "HasSubEvent", "tails": [" to pull", " to pull  pull  pull  pull  pull", " to pull  pull  pull  pull"]}
+{"head": "to pull", "relation": "Causes", "tails": [" to pull", " to pull ", " to pull  to pull"]}
+{"head": "to pull", "relation": "xReason", "tails": [" to pull", " to pull ", " to pull on"]}
+{"head": "to mean", "relation": "HinderedBy", "tails": [" to mean", " to mean ", " to mean something"]}
+{"head": "to mean", "relation": "isBefore", "tails": [" to mean", " to mean ", " to mean something"]}
+{"head": "to mean", "relation": "isAfter", "tails": [" to mean", " to mean something", " to mean "]}
+{"head": "to mean", "relation": "HasSubEvent", "tails": [" to mean", " to mean ", " to mean something"]}
+{"head": "to mean", "relation": "Causes", "tails": [" to mean", " to mean ", " none"]}
+{"head": "to mean", "relation": "xReason", "tails": [" to mean", " none", " to mean something"]}
+{"head": "to learn", "relation": "HinderedBy", "tails": [" to learn", " to learn ", " to learn  to learn "]}
+{"head": "to learn", "relation": "isBefore", "tails": [" to learn", " to learn something new", " learn new things"]}
+{"head": "to learn", "relation": "isAfter", "tails": [" learn new things", " learn new skills", " learn new skill"]}
+{"head": "to learn", "relation": "HasSubEvent", "tails": [" to learn", " learn new things", " learn new skill"]}
+{"head": "to learn", "relation": "Causes", "tails": [" learn new things", " to learn", " learn new skills"]}
+{"head": "to learn", "relation": "xReason", "tails": [" learn new things", " to learn", " learn new skill"]}
+{"head": "to know", "relation": "HinderedBy", "tails": [" to know", " to know ", " to know  about "]}
+{"head": "to know", "relation": "isBefore", "tails": [" to know", " to know what to do", " to know what to do next"]}
+{"head": "to know", "relation": "isAfter", "tails": [" to know", " to know what is going on", " to know what to do"]}
+{"head": "to know", "relation": "HasSubEvent", "tails": [" to know", " to know ", " to know  about"]}
+{"head": "to know", "relation": "Causes", "tails": [" to know", " to know ", " to know  about"]}
+{"head": "to know", "relation": "xReason", "tails": [" to know", " to know about", " to know  about"]}
+{"head": "to have", "relation": "HinderedBy", "tails": [" to have", " to have ", " to have  to have"]}
+{"head": "to have", "relation": "isBefore", "tails": [" to have", " to have ", " to have  a good time"]}
+{"head": "to have", "relation": "isAfter", "tails": [" to have something to eat", " to have", " to have something to drink"]}
+{"head": "to have", "relation": "HasSubEvent", "tails": [" to have", " to have ", " to have  have"]}
+{"head": "to have", "relation": "Causes", "tails": [" to have", " to have ", " to have  "]}
+{"head": "to have", "relation": "xReason", "tails": [" to have", " to have something to eat", " to have "]}
+{"head": "to go", "relation": "HinderedBy", "tails": [" to go", " to go ", " to go  to"]}
+{"head": "to go", "relation": "isBefore", "tails": [" to go", " get in car", " to go somewhere"]}
+{"head": "to go", "relation": "isAfter", "tails": [" get in the car", " get in car", " to go to the bathroom"]}
+{"head": "to go", "relation": "HasSubEvent", "tails": [" get in car", " to go", " to go  home"]}
+{"head": "to go", "relation": "Causes", "tails": [" to go", " get in car", " to go  home"]}
+{"head": "to go", "relation": "xReason", "tails": [" to go", " get in car", " to go somewhere"]}
+{"head": "to drive", "relation": "HinderedBy", "tails": [" to drive", " to drive ", " get license"]}
+{"head": "to drive", "relation": "isBefore", "tails": [" learn to drive", " to drive", " get license"]}
+{"head": "to drive", "relation": "isAfter", "tails": [" get license", " get in car", " to drive to work"]}
+{"head": "to drive", "relation": "HasSubEvent", "tails": [" get in car", " get in the car", " to drive"]}
+{"head": "to drive", "relation": "Causes", "tails": [" get in car", " get into accident", " get license"]}
+{"head": "to drive", "relation": "xReason", "tails": [" to drive", " get license", " to drive car"]}
+{"head": "to do", "relation": "HinderedBy", "tails": [" to do", " to do ", " to do  to do "]}
+{"head": "to do", "relation": "isBefore", "tails": [" to do", " have to do", " to do "]}
+{"head": "to do", "relation": "isAfter", "tails": [" to do", " have to do", " to do something"]}
+{"head": "to do", "relation": "HasSubEvent", "tails": [" to do", " to do ", " get out of bed"]}
+{"head": "to do", "relation": "Causes", "tails": [" to do", " have to do", " to do "]}
+{"head": "to do", "relation": "xReason", "tails": [" to do", " have to do", " to do "]}
+{"head": "to apologize", "relation": "HinderedBy", "tails": [" to apologize", " to apologize ", " to apologize to someone"]}
+{"head": "to apologize", "relation": "isBefore", "tails": [" to make amends", " to apologize", " to apologize to the other person"]}
+{"head": "to apologize", "relation": "isAfter", "tails": [" to make amends", " to be forgiven", " to apologize to the person"]}
+{"head": "to apologize", "relation": "HasSubEvent", "tails": [" to apologize", " apologize", " apologize to person"]}
+{"head": "to apologize", "relation": "Causes", "tails": [" to apologize", " apologize", " apologize to person"]}
+{"head": "to apologize", "relation": "xReason", "tails": [" to make amends", " to apologize", " to be forgiven"]}
+{"head": "ticket", "relation": "ObjectUse", "tails": [" get into the event", " get into the show", " get in to the event"]}
+{"head": "ticket", "relation": "AtLocation", "tails": [" ticket booth", " ticket machine", " ticket office"]}
+{"head": "ticket", "relation": "CapableOf", "tails": [" get into event", " board plane", " get in the door"]}
+{"head": "ticket", "relation": "HasProperty", "tails": [" bought at ticket counter", " bought at ticket booth", " bought at ticket machine"]}
+{"head": "ticket", "relation": "MadeUpOf", "tails": [" ticket stub", " ticket holder", " ticket booth"]}
+{"head": "ticket", "relation": "NotDesires", "tails": [" ticket stub", " get in line", " get in the car"]}
+{"head": "ticket", "relation": "Desires", "tails": [" get into event", " get into the event", " get into the show"]}
+{"head": "tell you", "relation": "HinderedBy", "tails": [" listen to", " tell someone", " tell someone something"]}
+{"head": "tell you", "relation": "isBefore", "tails": [" listen to", " tell me what to do", " tell me what you think"]}
+{"head": "tell you", "relation": "isAfter", "tails": [" listen to", " tell me what to do", " tell me what you think"]}
+{"head": "tell you", "relation": "HasSubEvent", "tails": [" listen to", " tell me what to do", " tell me what you think"]}
+{"head": "tell you", "relation": "Causes", "tails": [" listen to", " tell me what I want to hear", " tell me what I want to know"]}
+{"head": "tell you", "relation": "xReason", "tails": [" listen to", " tell you what you want to hear", " tell you what you want to know"]}
+{"head": "run light", "relation": "HinderedBy", "tails": [" run out of gas", " run out of light", " turn on"]}
+{"head": "run light", "relation": "isBefore", "tails": [" turn on", " turn off", " light bulb"]}
+{"head": "run light", "relation": "isAfter", "tails": [" turn on", " light bulb", " light switch"]}
+{"head": "run light", "relation": "HasSubEvent", "tails": [" turn on", " turn off", " turn on light"]}
+{"head": "run light", "relation": "Causes", "tails": [" turn on", " light bulb", " turn off"]}
+{"head": "run light", "relation": "xReason", "tails": [" run into wall", " run in dark", " run in rain"]}
+{"head": "red light", "relation": "ObjectUse", "tails": [" stop at a red light", " stop traffic", " stop at red light"]}
+{"head": "red light", "relation": "AtLocation", "tails": [" street", " street corner", " traffic light"]}
+{"head": "red light", "relation": "CapableOf", "tails": [" run red light", " stop at red light", " run red lights"]}
+{"head": "red light", "relation": "HasProperty", "tails": [" red light", " red", " yellow light"]}
+{"head": "red light", "relation": "MadeUpOf", "tails": [" red light", " traffic signal", " traffic light"]}
+{"head": "red light", "relation": "NotDesires", "tails": [" red light", " red light signal", " red lights"]}
+{"head": "red light", "relation": "Desires", "tails": [" red light", " traffic", " traffic lights"]}
+{"head": "pull me", "relation": "HinderedBy", "tails": [" pull me", " pull me out of the car", " pull me out of the water"]}
+{"head": "pull me", "relation": "isBefore", "tails": [" pull me", " pull me back", " pull me up"]}
+{"head": "pull me", "relation": "isAfter", "tails": [" pull me", " pull me out of the car", " pull me out of bed"]}
+{"head": "pull me", "relation": "HasSubEvent", "tails": [" pull me", " pull me back", " pull me down"]}
+{"head": "pull me", "relation": "Causes", "tails": [" pull me", " pull me down", " pull me to safety"]}
+{"head": "pull me", "relation": "xReason", "tails": [" pull me", " pull me down", " pull me to safety"]}
+{"head": "light", "relation": "ObjectUse", "tails": [" see in the dark", " light up room", " see in dark places"]}
+{"head": "light", "relation": "AtLocation", "tails": [" lightbulb", " light bulb", " dark room"]}
+{"head": "light", "relation": "CapableOf", "tails": [" turn on", " light way", " light up room"]}
+{"head": "light", "relation": "HasProperty", "tails": [" found in dark places", " found in cave", " found in room"]}
+{"head": "light", "relation": "MadeUpOf", "tails": [" light bulb", " lightbulb", " light source"]}
+{"head": "light", "relation": "NotDesires", "tails": [" see in dark", " see in dark places", " dark room"]}
+{"head": "light", "relation": "Desires", "tails": [" light", " see better", " light source"]}
+{"head": "learn that", "relation": "HinderedBy", "tails": [" learn something new", " learn new things", " learn something"]}
+{"head": "learn that", "relation": "isBefore", "tails": [" learn something new", " learn new things", " learn new information"]}
+{"head": "learn that", "relation": "isAfter", "tails": [" learn new things", " learn to do", " learn to read"]}
+{"head": "learn that", "relation": "HasSubEvent", "tails": [" learn new things", " learn new skill", " learn to do"]}
+{"head": "learn that", "relation": "Causes", "tails": [" learn something new", " learn new things", " learn new information"]}
+{"head": "learn that", "relation": "xReason", "tails": [" learn something new", " learn new things", " learn new information"]}
+{"head": "do that", "relation": "HinderedBy", "tails": [" do what they want to do", " do what you want to do", " do what they are told to do"]}
+{"head": "do that", "relation": "isBefore", "tails": [" have fun", " have fun with friends", " do it again"]}
+{"head": "do that", "relation": "isAfter", "tails": [" get a job done", " get a job", " have fun"]}
+{"head": "do that", "relation": "HasSubEvent", "tails": [" get out of the way", " get out of the car", " get out of way"]}
+{"head": "do that", "relation": "Causes", "tails": [" get a job done", " have fun", " get a job"]}
+{"head": "do that", "relation": "xReason", "tails": [" have fun", " do something", " do well"]}
+{"head": "Yes , you did .", "relation": "xAttr", "tails": [" curious", " responsible", " happy"]}
+{"head": "Yes , you did .", "relation": "xWant", "tails": [" to tell everyone they did it", " to tell everyone about it", " to tell them they did it"]}
+{"head": "Yes , you did .", "relation": "xNeed", "tails": [" none", " to have done something", " to have done something wrong"]}
+{"head": "Yes , you did .", "relation": "xEffect", "tails": [" none", " gets yelled at", " get a new job"]}
+{"head": "Yes , you did .", "relation": "HinderedBy", "tails": [" none", " yes", " yes you did"]}
+{"head": "Yes , you did .", "relation": "oWant", "tails": [" none", " to tell them what they did", " to tell them what they think"]}
+{"head": "Yes , you did .", "relation": "xReact", "tails": [" happy", " satisfied", " good"]}
+{"head": "Yes , you did .", "relation": "oEffect", "tails": [" none", " they get a new job", " get a new job"]}
+{"head": "Yes , you did .", "relation": "xIntent", "tails": [" none", " to be understood", " to be acknowledged"]}
+{"head": "Yes , you did .", "relation": "oReact", "tails": [" none", " happy", " happy."]}
+{"head": "Yes , you did .", "relation": "isBefore", "tails": [" none", " yes", " have fun"]}
+{"head": "Yes , you did .", "relation": "isAfter", "tails": [" none", " yes", " have fun"]}
+{"head": "Yes , you did .", "relation": "HasSubEvent", "tails": [" none", " have a good time", " have a conversation with someone"]}
+{"head": "Yes , you did .", "relation": "Causes", "tails": [" none", " yes", " no"]}
+{"head": "Yes , you did .", "relation": "xReason", "tails": [" none", " yes", " have fun"]}
+{"head": "Why'd you pull me over ?", "relation": "xAttr", "tails": [" angry", " curious", " scared"]}
+{"head": "Why'd you pull me over ?", "relation": "xWant", "tails": [" to get out of the car", " to get out of the car.", " to get away from the police"]}
+{"head": "Why'd you pull me over ?", "relation": "xNeed", "tails": [" to get in the car", " to be driving", " to be driving a car"]}
+{"head": "Why'd you pull me over ?", "relation": "xEffect", "tails": [" gets pulled over", " gets pulled over for speeding", " gets pulled over by police"]}
+{"head": "Why'd you pull me over ?", "relation": "HinderedBy", "tails": [" why did you pull me over", " why you pulled me over", " why did you pull me over ?"]}
+{"head": "Why'd you pull me over ?", "relation": "oWant", "tails": [" to get away from me", " none", " to get away from the scene"]}
+{"head": "Why'd you pull me over ?", "relation": "xReact", "tails": [" angry", " annoyed", " scared"]}
+{"head": "Why'd you pull me over ?", "relation": "oEffect", "tails": [" none", " get a ticket for speeding", " get a ticket"]}
+{"head": "Why'd you pull me over ?", "relation": "xIntent", "tails": [" none", " to make sure I'm safe", " to make sure they are safe"]}
+{"head": "Why'd you pull me over ?", "relation": "oReact", "tails": [" none", " angry", " annoyed"]}
+{"head": "Why'd you pull me over ?", "relation": "isBefore", "tails": [" get out of the car", " get out of car", " get a ticket"]}
+{"head": "Why'd you pull me over ?", "relation": "isAfter", "tails": [" PersonX gets pulled over by the police", " PersonX gets pulled over by the cop", " PersonX gets pulled over by the police."]}
+{"head": "Why'd you pull me over ?", "relation": "HasSubEvent", "tails": [" get a ticket", " get in trouble", " get ticket"]}
+{"head": "Why'd you pull me over ?", "relation": "Causes", "tails": [" why did you pull me over", " why did you pull me over ?", " why did you pull me over?"]}
+{"head": "Why'd you pull me over ?", "relation": "xReason", "tails": [" why did you pull me over", " why did you pull me over ?", " why did you pull me over?"]}
+{"head": "Weren't you taught that yellow means slow down , not speed up ?", "relation": "xAttr", "tails": [" slow", " careless", " careful"]}
+{"head": "Weren't you taught that yellow means slow down , not speed up ?", "relation": "xWant", "tails": [" to get to their destination on time", " to get to the destination on time", " to get to work on time"]}
+{"head": "Weren't you taught that yellow means slow down , not speed up ?", "relation": "xNeed", "tails": [" none", " to be in school", " to be in a hurry"]}
+{"head": "Weren't you taught that yellow means slow down , not speed up ?", "relation": "xEffect", "tails": [" none", " gets yelled at", " get a ticket"]}
+{"head": "Weren't you taught that yellow means slow down , not speed up ?", "relation": "HinderedBy", "tails": [" Weren't you taught that yellow means slow down.", " Weren't taught that yellow means slow down.", " Weren't you taught that yellow means slow down"]}
+{"head": "Weren't you taught that yellow means slow down , not speed up ?", "relation": "oWant", "tails": [" none", " to get to their destination on time", " to get to the destination on time"]}
+{"head": "Weren't you taught that yellow means slow down , not speed up ?", "relation": "xReact", "tails": [" slow down", " slow down.", " slow"]}
+{"head": "Weren't you taught that yellow means slow down , not speed up ?", "relation": "oEffect", "tails": [" none", " get a ticket", " get in trouble"]}
+{"head": "Weren't you taught that yellow means slow down , not speed up ?", "relation": "xIntent", "tails": [" none", " to be safe", " to slow down"]}
+{"head": "Weren't you taught that yellow means slow down , not speed up ?", "relation": "oReact", "tails": [" none", " confused", " annoyed"]}
+{"head": "Weren't you taught that yellow means slow down , not speed up ?", "relation": "isBefore", "tails": [" get out of the car", " get out of the way", " get a ticket for speeding"]}
+{"head": "Weren't you taught that yellow means slow down , not speed up ?", "relation": "isAfter", "tails": [" yellow", " none", " red"]}
+{"head": "Weren't you taught that yellow means slow down , not speed up ?", "relation": "HasSubEvent", "tails": [" get a ticket for speeding", " get in a car accident", " get a ticket"]}
+{"head": "Weren't you taught that yellow means slow down , not speed up ?", "relation": "Causes", "tails": [" get out of the car", " get out of the way", " get a speeding ticket"]}
+{"head": "Weren't you taught that yellow means slow down , not speed up ?", "relation": "xReason", "tails": [" Weren't you taught that yellow means slow down , not speed up ?", " Weren't you taught that yellow means slow down , not speed up.", " Weren't you taught that yellow means slow down , not speed up ? "]}
+{"head": "So , then why did you speed up ?", "relation": "xAttr", "tails": [" slow", " fast", " quick"]}
+{"head": "So , then why did you speed up ?", "relation": "xWant", "tails": [" to get to their destination", " to get to work on time", " to get to the destination"]}
+{"head": "So , then why did you speed up ?", "relation": "xNeed", "tails": [" none", " to be speeding", " to be driving"]}
+{"head": "So , then why did you speed up ?", "relation": "xEffect", "tails": [" get a speeding ticket", " gets yelled at", " none"]}
+{"head": "So , then why did you speed up ?", "relation": "HinderedBy", "tails": [" so why did you speed up ?", " so why did you speed up", " so why did you speed up?"]}
+{"head": "So , then why did you speed up ?", "relation": "oWant", "tails": [" none", " to ask you why you did it", " to ask you why you did that"]}
+{"head": "So , then why did you speed up ?", "relation": "xReact", "tails": [" good about themselves", " happy", " good about themselves."]}
+{"head": "So , then why did you speed up ?", "relation": "oEffect", "tails": [" none", " get tired", " they get tired"]}
+{"head": "So , then why did you speed up ?", "relation": "xIntent", "tails": [" none", " to be faster", " to get somewhere faster"]}
+{"head": "So , then why did you speed up ?", "relation": "oReact", "tails": [" none", " angry", " happy"]}
+{"head": "So , then why did you speed up ?", "relation": "isBefore", "tails": [" PersonY asks PersonY why they speed up.", " PersonY asks PersonY why they speed up", " PersonY asks PersonY why they speeded up."]}
+{"head": "So , then why did you speed up ?", "relation": "isAfter", "tails": [" none", " PersonX is driving fast.", " PersonX is speeding."]}
+{"head": "So , then why did you speed up ?", "relation": "HasSubEvent", "tails": [" get a speeding ticket", " none", " get a ticket for speeding"]}
+{"head": "So , then why did you speed up ?", "relation": "Causes", "tails": [" so why did you speed up", " so why did you speed up ?", " so why did you speed up?"]}
+{"head": "So , then why did you speed up ?", "relation": "xReason", "tails": [" so why did you speed up", " so why did you speed up ?", " so why did you speed up?"]}
+{"head": "I'm going to have to write you a ticket .", "relation": "xAttr", "tails": [" careless", " irresponsible", " mean"]}
+{"head": "I'm going to have to write you a ticket .", "relation": "xWant", "tails": [" to make sure you don't do it again", " to write a ticket", " to make sure you don't get in trouble again"]}
+{"head": "I'm going to have to write you a ticket .", "relation": "xNeed", "tails": [" to find out what is going on", " to find out what is wrong with you", " to find out what is wrong"]}
+{"head": "I'm going to have to write you a ticket .", "relation": "xEffect", "tails": [" gets yelled at", " gets yelled at by the cop", " gets yelled at by the officer"]}
+{"head": "I'm going to have to write you a ticket .", "relation": "HinderedBy", "tails": [" I don't have the authority to write a ticket.", " I don't have the authority to write tickets.", " I don't have the authority to do so."]}
+{"head": "I'm going to have to write you a ticket .", "relation": "oWant", "tails": [" to get out of the car", " to pay the ticket", " to get out of the car."]}
+{"head": "I'm going to have to write you a ticket .", "relation": "xReact", "tails": [" angry", " sad", " bad"]}
+{"head": "I'm going to have to write you a ticket .", "relation": "oEffect", "tails": [" none", " get in trouble", " get a ticket"]}
+{"head": "I'm going to have to write you a ticket .", "relation": "xIntent", "tails": [" none", " to punish you", " to be in control"]}
+{"head": "I'm going to have to write you a ticket .", "relation": "oReact", "tails": [" none", " angry", " annoyed"]}
+{"head": "I'm going to have to write you a ticket .", "relation": "isBefore", "tails": [" PersonY gets a ticket.", " PersonX gets a ticket.", " PersonY gets a ticket for speeding"]}
+{"head": "I'm going to have to write you a ticket .", "relation": "isAfter", "tails": [" PersonX gets a ticket for speeding.", " PersonX gets a ticket for speeding", " PersonX gets in trouble for speeding."]}
+{"head": "I'm going to have to write you a ticket .", "relation": "HasSubEvent", "tails": [" get in trouble", " get a ticket", " get angry"]}
+{"head": "I'm going to have to write you a ticket .", "relation": "Causes", "tails": [" I don't have the authority to write a ticket.", " I don't have the authority to write a ticket", " I don't want to get in trouble."]}
+{"head": "I'm going to have to write you a ticket .", "relation": "xReason", "tails": [" I can't afford to pay for the ticket.", " I can't afford to pay the ticket.", " I can't find the ticket."]}
+{"head": "I understand .", "relation": "xAttr", "tails": [" understanding", " understood", " understand"]}
+{"head": "I understand .", "relation": "xWant", "tails": [" to be understood", " to make sure they understand", " to understand the situation"]}
+{"head": "I understand .", "relation": "xNeed", "tails": [" none", " understand the situation", " to understand the situation"]}
+{"head": "I understand .", "relation": "xEffect", "tails": [" none", " understand", " I understand"]}
+{"head": "I understand .", "relation": "HinderedBy", "tails": [" I don't know what to say.", " I don't know how to explain it.", " I don't understand."]}
+{"head": "I understand .", "relation": "oWant", "tails": [" none", " to be understood", " to listen to me"]}
+{"head": "I understand .", "relation": "xReact", "tails": [" understanding", " understood", " understanding."]}
+{"head": "I understand .", "relation": "oEffect", "tails": [" none", " understand", " I understand"]}
+{"head": "I understand .", "relation": "xIntent", "tails": [" none", " to be understood", " to be understood."]}
+{"head": "I understand .", "relation": "oReact", "tails": [" none", " understood", " understanding"]}
+{"head": "I understand .", "relation": "isBefore", "tails": [" I understand", " I can understand", " understand"]}
+{"head": "I understand .", "relation": "isAfter", "tails": [" I understand", " understand", " none"]}
+{"head": "I understand .", "relation": "HasSubEvent", "tails": [" understand the situation", " understand", " none"]}
+{"head": "I understand .", "relation": "Causes", "tails": [" understanding", " understand", " I understand"]}
+{"head": "I understand .", "relation": "xReason", "tails": [" none", " understand", " I understand"]}
+{"head": "I ran a red light ?", "relation": "xAttr", "tails": [" careless", " reckless", " irresponsible"]}
+{"head": "I ran a red light ?", "relation": "xWant", "tails": [" to call the police", " to get a ticket", " to call the police."]}
+{"head": "I ran a red light ?", "relation": "xNeed", "tails": [" get out of the car", " get out of car", " to be driving"]}
+{"head": "I ran a red light ?", "relation": "xEffect", "tails": [" gets ticket", " get ticket", " gets ticketed"]}
+{"head": "I ran a red light ?", "relation": "HinderedBy", "tails": [" I don't want to get in trouble.", " I don't have a car.", " I don't want to get in trouble"]}
+{"head": "I ran a red light ?", "relation": "oWant", "tails": [" none", " to yell at me", " to call the police"]}
+{"head": "I ran a red light ?", "relation": "xReact", "tails": [" guilty", " scared", " angry"]}
+{"head": "I ran a red light ?", "relation": "oEffect", "tails": [" none", " get ticket", " get in trouble"]}
+{"head": "I ran a red light ?", "relation": "xIntent", "tails": [" none", " to avoid a ticket", " to get away from something"]}
+{"head": "I ran a red light ?", "relation": "oReact", "tails": [" none", " angry", " scared"]}
+{"head": "I ran a red light ?", "relation": "isBefore", "tails": [" I got a ticket", " I get a ticket", " I got in a wreck"]}
+{"head": "I ran a red light ?", "relation": "isAfter", "tails": [" I got in a car accident", " I got in an accident", " I got in a wreck"]}
+{"head": "I ran a red light ?", "relation": "HasSubEvent", "tails": [" run red light", " get ticket", " get in trouble"]}
+{"head": "I ran a red light ?", "relation": "Causes", "tails": [" I am in a car.", " I am in a hurry.", " I am in jail."]}
+{"head": "I ran a red light ?", "relation": "xReason", "tails": [" I got in a car accident", " I got in a car accident.", " I got a ticket for speeding."]}
+{"head": "I don't know what to tell you .", "relation": "xAttr", "tails": [" confused", " unsure", " uncertain"]}
+{"head": "I don't know what to tell you .", "relation": "xWant", "tails": [" to talk to someone else", " to talk to someone", " to talk to someone about it"]}
+{"head": "I don't know what to tell you .", "relation": "xNeed", "tails": [" none", " to think about what to say", " to think of what to say"]}
+{"head": "I don't know what to tell you .", "relation": "xEffect", "tails": [" none", " I don't know what to say.", " I don't know what to say"]}
+{"head": "I don't know what to tell you .", "relation": "HinderedBy", "tails": [" I don't know what to say.", " I don't know what to tell you.", " I don't know what to tell."]}
+{"head": "I don't know what to tell you .", "relation": "oWant", "tails": [" to listen to what they have to say", " to listen to what I have to say", " to listen to what he has to say"]}
+{"head": "I don't know what to tell you .", "relation": "xReact", "tails": [" confused", " sad", " confused."]}
+{"head": "I don't know what to tell you .", "relation": "oEffect", "tails": [" none", " I don't know what to say.", " I don't know what to tell you."]}
+{"head": "I don't know what to tell you .", "relation": "xIntent", "tails": [" none", " to be understood", " to be alone"]}
+{"head": "I don't know what to tell you .", "relation": "oReact", "tails": [" none", " confused", " sad"]}
+{"head": "I don't know what to tell you .", "relation": "isBefore", "tails": [" I don't know what to say", " I don't know what to say.", " I don't know what to say to you"]}
+{"head": "I don't know what to tell you .", "relation": "isAfter", "tails": [" I don't know what to say", " I don't know what to say to you", " I don't know what to say."]}
+{"head": "I don't know what to tell you .", "relation": "HasSubEvent", "tails": [" I don't know what to say.", " I don't know what to say", " I don't know what to tell you."]}
+{"head": "I don't know what to tell you .", "relation": "Causes", "tails": [" I don't know what to say.", " I don't know what to say", " I don't know what to tell you."]}
+{"head": "I don't know what to tell you .", "relation": "xReason", "tails": [" I don't know what to say.", " I don't know what to say", " I don't know what to tell you."]}
+{"head": "I did learn that .", "relation": "xAttr", "tails": [" smart", " intelligent", " learning"]}
+{"head": "I did learn that .", "relation": "xWant", "tails": [" to learn more", " to use it", " to use the information"]}
+{"head": "I did learn that .", "relation": "xNeed", "tails": [" none", " to have learned something", " to have been taught something"]}
+{"head": "I did learn that .", "relation": "xEffect", "tails": [" learns a new skill", " learns something new", " learn something new"]}
+{"head": "I did learn that .", "relation": "HinderedBy", "tails": [" I don't have the time to learn.", " I don't have the time to learn it.", " I don't have the time to study."]}
+{"head": "I did learn that .", "relation": "oWant", "tails": [" none", " to teach me more", " to teach me"]}
+{"head": "I did learn that .", "relation": "xReact", "tails": [" happy", " good", " proud"]}
+{"head": "I did learn that .", "relation": "oEffect", "tails": [" none", " learn something new", " learn new things"]}
+{"head": "I did learn that .", "relation": "xIntent", "tails": [" none", " to learn something", " to learn something new"]}
+{"head": "I did learn that .", "relation": "oReact", "tails": [" none", " happy", " happy."]}
+{"head": "I did learn that .", "relation": "isBefore", "tails": [" I learned a new skill", " I learned a lot of new things", " I learned a lot of things"]}
+{"head": "I did learn that .", "relation": "isAfter", "tails": [" learn something new", " I learned a new skill", " I learned a lot of things"]}
+{"head": "I did learn that .", "relation": "HasSubEvent", "tails": [" learn something new", " learn a new skill", " learn new things"]}
+{"head": "I did learn that .", "relation": "Causes", "tails": [" I have a learning disability.", " I am a good learner.", " I am a good learner"]}
+{"head": "I did learn that .", "relation": "xReason", "tails": [" I learned something new", " I learned something new.", " none"]}
+{"head": "I apologize , but I didn't realize that I did .", "relation": "xAttr", "tails": [" apologetic", " remorseful", " sorry"]}
+{"head": "I apologize , but I didn't realize that I did .", "relation": "xWant", "tails": [" to make amends", " to apologize again", " to make amends."]}
+{"head": "I apologize , but I didn't realize that I did .", "relation": "xNeed", "tails": [" to have done something wrong", " to make a mistake", " to have made a mistake"]}
+{"head": "I apologize , but I didn't realize that I did .", "relation": "xEffect", "tails": [" apologizes", " gets yelled at", " none"]}
+{"head": "I apologize , but I didn't realize that I did .", "relation": "HinderedBy", "tails": [" I know that I did something wrong.", " I know I did something wrong.", " I know I did something bad."]}
+{"head": "I apologize , but I didn't realize that I did .", "relation": "oWant", "tails": [" none", " to forgive me", " to forgive him"]}
+{"head": "I apologize , but I didn't realize that I did .", "relation": "xReact", "tails": [" sorry", " apologetic", " ashamed"]}
+{"head": "I apologize , but I didn't realize that I did .", "relation": "oEffect", "tails": [" none", " apologize", " get angry"]}
+{"head": "I apologize , but I didn't realize that I did .", "relation": "xIntent", "tails": [" none", " to make amends", " to make amends."]}
+{"head": "I apologize , but I didn't realize that I did .", "relation": "oReact", "tails": [" none", " sorry", " hurt"]}
+{"head": "I apologize , but I didn't realize that I did .", "relation": "isBefore", "tails": [" I am sorry for what I did", " I am sorry for what I did.", " apologize to the other person"]}
+{"head": "I apologize , but I didn't realize that I did .", "relation": "isAfter", "tails": [" apologizes", " apologize", " I am sorry"]}
+{"head": "I apologize , but I didn't realize that I did .", "relation": "HasSubEvent", "tails": [" apologize", " none", " apologize again"]}
+{"head": "I apologize , but I didn't realize that I did .", "relation": "Causes", "tails": [" apologizes", " I am sorry.", " apologizes for the mistake"]}
+{"head": "I apologize , but I didn't realize that I did .", "relation": "xReason", "tails": [" I am sorry for what I did.", " I am sorry for what I did", " I am sorry for what I said."]}
+{"head": "Here you go .", "relation": "xAttr", "tails": [" helpful", " thoughtful", " prepared"]}
+{"head": "Here you go .", "relation": "xWant", "tails": [" to make a good impression", " to get a drink of water", " to make a good impression."]}
+{"head": "Here you go .", "relation": "xNeed", "tails": [" none", " to have something to give", " to make a plan"]}
+{"head": "Here you go .", "relation": "xEffect", "tails": [" none", " get the job done", " get something to eat"]}
+{"head": "Here you go .", "relation": "HinderedBy", "tails": [" here you go", " here you go.", " here's what you need"]}
+{"head": "Here you go .", "relation": "oWant", "tails": [" none", " to give it to them", " to give it to him"]}
+{"head": "Here you go .", "relation": "xReact", "tails": [" happy", " satisfied", " good"]}
+{"head": "Here you go .", "relation": "oEffect", "tails": [" none", " get a new job", " they get a new job"]}
+{"head": "Here you go .", "relation": "xIntent", "tails": [" to have something to eat", " none", " to have something to eat."]}
+{"head": "Here you go .", "relation": "oReact", "tails": [" none", " happy", " happy."]}
+{"head": "Here you go .", "relation": "isBefore", "tails": [" here you go", " here it is", " here you go ."]}
+{"head": "Here you go .", "relation": "isAfter", "tails": [" here you go", " here it is", " here you go . "]}
+{"head": "Here you go .", "relation": "HasSubEvent", "tails": [" have something to eat", " have a good time", " have something to eat."]}
+{"head": "Here you go .", "relation": "Causes", "tails": [" here you go", " here", " here you go."]}
+{"head": "Here you go .", "relation": "xReason", "tails": [" here you go", " here", " here you go."]}
+{"head": "Don't do that again .", "relation": "xAttr", "tails": [" careless", " forgetful", " mean"]}
+{"head": "Don't do that again .", "relation": "xWant", "tails": [" to get away from the situation", " to get away from it", " to avoid it again"]}
+{"head": "Don't do that again .", "relation": "xNeed", "tails": [" to have done something bad", " to do something bad", " to have done something wrong"]}
+{"head": "Don't do that again .", "relation": "xEffect", "tails": [" don't do it again", " don't do that again", " don't do that again."]}
+{"head": "Don't do that again .", "relation": "HinderedBy", "tails": [" don't do that again", " don't do it again", " don't do that again."]}
+{"head": "Don't do that again .", "relation": "oWant", "tails": [" none", " to get away from the situation", " to get away from him"]}
+{"head": "Don't do that again .", "relation": "xReact", "tails": [" regretful", " regretful.", " sad"]}
+{"head": "Don't do that again .", "relation": "oEffect", "tails": [" none", " don't do it again", " don't do that again"]}
+{"head": "Don't do that again .", "relation": "xIntent", "tails": [" don't do it again", " don't do that again", " don't want to do it again"]}
+{"head": "Don't do that again .", "relation": "oReact", "tails": [" none", " angry", " sad"]}
+{"head": "Don't do that again .", "relation": "isBefore", "tails": [" don't do it again", " don't do that again", " don't make the same mistake again"]}
+{"head": "Don't do that again .", "relation": "isAfter", "tails": [" don't do that again", " don't do it again", " don't make the same mistake again"]}
+{"head": "Don't do that again .", "relation": "HasSubEvent", "tails": [" don't do it again", " don't do that again", " don't do that again."]}
+{"head": "Don't do that again .", "relation": "Causes", "tails": [" don't do that again", " don't do it again", " don't do that again."]}
+{"head": "Don't do that again .", "relation": "xReason", "tails": [" don't do that again", " don't do it again", " don't do that again."]}
+{"head": "Are you aware that you drove through a red light ?", "relation": "xAttr", "tails": [" aware", " careless", " distracted"]}
+{"head": "Are you aware that you drove through a red light ?", "relation": "xWant", "tails": [" to get out of the car", " to get out of the car.", " to get a ticket"]}
+{"head": "Are you aware that you drove through a red light ?", "relation": "xNeed", "tails": [" get in the car", " to be driving a car", " to be driving"]}
+{"head": "Are you aware that you drove through a red light ?", "relation": "xEffect", "tails": [" get ticket", " get in trouble", " get in a ticket"]}
+{"head": "Are you aware that you drove through a red light ?", "relation": "HinderedBy", "tails": [" Are you aware of the rules of the road.", " Are you aware of the rules of the road", " Are you aware of the red light."]}
+{"head": "Are you aware that you drove through a red light ?", "relation": "oWant", "tails": [" none", " to yell at you", " to yell at the driver"]}
+{"head": "Are you aware that you drove through a red light ?", "relation": "xReact", "tails": [" guilty", " annoyed", " angry"]}
+{"head": "Are you aware that you drove through a red light ?", "relation": "oEffect", "tails": [" none", " get a ticket", " get ticket"]}
+{"head": "Are you aware that you drove through a red light ?", "relation": "xIntent", "tails": [" none", " to avoid a ticket", " to avoid a traffic accident"]}
+{"head": "Are you aware that you drove through a red light ?", "relation": "oReact", "tails": [" none", " annoyed", " angry"]}
+{"head": "Are you aware that you drove through a red light ?", "relation": "isBefore", "tails": [" Are you aware of the rules of the road", " Are you aware of the rules of the road?", " Are you aware of the rules of the road ?"]}
+{"head": "Are you aware that you drove through a red light ?", "relation": "isAfter", "tails": [" are you aware of the red light", " are in a car accident", " are in a traffic jam"]}
+{"head": "Are you aware that you drove through a red light ?", "relation": "HasSubEvent", "tails": [" run red light", " get ticket", " get in trouble"]}
+{"head": "Are you aware that you drove through a red light ?", "relation": "Causes", "tails": [" Are you aware of the red light.", " Are you aware of the red light?", " Are you aware of the red light"]}
+{"head": "Are you aware that you drove through a red light ?", "relation": "xReason", "tails": [" are you aware of the red light", " Are you aware of the red light.", " Are you aware of the red light?"]}

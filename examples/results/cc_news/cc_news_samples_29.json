@@ -1,0 +1,57 @@
+{"head": "root", "relation": "ObjectUse", "tails": [" root vegetables", " root vegetable", " grow in garden"]}
+{"head": "root", "relation": "AtLocation", "tails": [" tree", " soil", " root"]}
+{"head": "root", "relation": "CapableOf", "tails": [" dig hole", " root plant", " plant seeds"]}
+{"head": "root", "relation": "HasProperty", "tails": [" root", " roots", " rootlets"]}
+{"head": "root", "relation": "MadeUpOf", "tails": [" root", " root stem", " rootlet"]}
+{"head": "root", "relation": "NotDesires", "tails": [" root", " soil", " rootlets"]}
+{"head": "root", "relation": "Desires", "tails": [" root of plant", " root of tree", " root vegetables"]}
+{"head": "friendship", "relation": "ObjectUse", "tails": [" socialize", " friendship", " socializing"]}
+{"head": "friendship", "relation": "AtLocation", "tails": [" friend's house", " friendship", " friends house"]}
+{"head": "friendship", "relation": "CapableOf", "tails": [" make new friends", " talk to", " make new friend"]}
+{"head": "friendship", "relation": "HasProperty", "tails": [" friendship", " good", " socializing"]}
+{"head": "friendship", "relation": "MadeUpOf", "tails": [" friendship", " friendship ring", " socializing"]}
+{"head": "friendship", "relation": "NotDesires", "tails": [" friendship", " have a good time", " have a relationship with someone"]}
+{"head": "friendship", "relation": "Desires", "tails": [" friendship", " have a good time", " have a good time with"]}
+{"head": "Saints", "relation": "ObjectUse", "tails": [" play football", " play football with", " play in the game"]}
+{"head": "Saints", "relation": "AtLocation", "tails": [" church", " football game", " christmas parade"]}
+{"head": "Saints", "relation": "CapableOf", "tails": [" play football", " play game of football", " play football game"]}
+{"head": "Saints", "relation": "HasProperty", "tails": [" one of the most important religions in the world", " one of the most important religions of the world", " one of the most important religions in the world."]}
+{"head": "Saints", "relation": "MadeUpOf", "tails": [" saints", " sainthood", " saints and saints"]}
+{"head": "Saints", "relation": "NotDesires", "tails": [" have to go to church", " lose game", " have to go to the bathroom"]}
+{"head": "Saints", "relation": "Desires", "tails": [" play football", " have fun", " play football with"]}
+{"head": "Migos root", "relation": "ObjectUse", "tails": [" put in a pie crust", " put in a salad", " put in a pie"]}
+{"head": "Migos root", "relation": "AtLocation", "tails": [" michigan", " jar", " marinade"]}
+{"head": "Migos root", "relation": "CapableOf", "tails": [" use as a weapon", " eat for breakfast", " eat for dinner"]}
+{"head": "Migos root", "relation": "HasProperty", "tails": [" made from corn", " made from root vegetables", " made from root vegetable"]}
+{"head": "Migos root", "relation": "MadeUpOf", "tails": [" michigan", " root", " mace"]}
+{"head": "Migos root", "relation": "NotDesires", "tails": [" eat for breakfast", " eat for dinner", " make tacos"]}
+{"head": "Migos root", "relation": "Desires", "tails": [" to eat", " to make tacos", " to make a drink"]}
+{"head": "Falcons", "relation": "ObjectUse", "tails": [" play football", " play in the NFL", " play in the game"]}
+{"head": "Falcons", "relation": "AtLocation", "tails": [" football stadium", " football game", " football field"]}
+{"head": "Falcons", "relation": "CapableOf", "tails": [" play football", " play football game", " play game"]}
+{"head": "Falcons", "relation": "HasProperty", "tails": [" one of the most popular sports in the world", " one of the most popular sports in the country", " one of the most popular teams in the NFL"]}
+{"head": "Falcons", "relation": "MadeUpOf", "tails": [" tail", " football", " air"]}
+{"head": "Falcons", "relation": "NotDesires", "tails": [" play football", " play in stadium", " have to win game"]}
+{"head": "Falcons", "relation": "Desires", "tails": [" play football", " have a good team", " play in stadium"]}
+{"head": "Can Migos root for both the Falcons and Saints because of their friendship with Alvin Kamara.", "relation": "xAttr", "tails": [" friendly", " happy", " social"]}
+{"head": "Can Migos root for both the Falcons and Saints because of their friendship with Alvin Kamara.", "relation": "xWant", "tails": [" to cheer for the team", " to win the game", " to cheer for the other team"]}
+{"head": "Can Migos root for both the Falcons and Saints because of their friendship with Alvin Kamara.", "relation": "xNeed", "tails": [" get a ticket to the game", " have a good time at the game", " have a good time"]}
+{"head": "Can Migos root for both the Falcons and Saints because of their friendship with Alvin Kamara.", "relation": "xEffect", "tails": [" can't wait for the game to start", " can't wait for the game", " can't wait for the game to be over"]}
+{"head": "Can Migos root for both the Falcons and Saints because of their friendship with Alvin Kamara.", "relation": "HinderedBy", "tails": [" can't decide which team to root for", " can't decide which team to root for.", " can't decide which team to cheer for"]}
+{"head": "Can Migos root for both the Falcons and Saints because of their friendship with Alvin Kamara.", "relation": "oWant", "tails": [" to win the game", " none", " to be friends with him"]}
+{"head": "Can Migos root for both the Falcons and Saints because of their friendship with Alvin Kamara.", "relation": "xReact", "tails": [" happy", " excited", " happy."]}
+{"head": "Can Migos root for both the Falcons and Saints because of their friendship with Alvin Kamara.", "relation": "oEffect", "tails": [" none", " get into trouble", " get a new friend"]}
+{"head": "Can Migos root for both the Falcons and Saints because of their friendship with Alvin Kamara.", "relation": "xIntent", "tails": [" to be a part of a team", " to be a part of the team", " to be a part of a team."]}
+{"head": "Can Migos root for both the Falcons and Saints because of their friendship with Alvin Kamara.", "relation": "oReact", "tails": [" none", " can't wait for the game to start", " can't wait for the game"]}
+{"head": "Can Migos root for both the Falcons and Saints because of their friendship with Alvin Kamara.", "relation": "isBefore", "tails": [" can't wait for the game", " can't wait for the game to start", " can't wait for the game to be over"]}
+{"head": "Can Migos root for both the Falcons and Saints because of their friendship with Alvin Kamara.", "relation": "isAfter", "tails": [" can't wait for the game", " can't wait for the game to start", " can't wait for the game to be over"]}
+{"head": "Can Migos root for both the Falcons and Saints because of their friendship with Alvin Kamara.", "relation": "HasSubEvent", "tails": [" none", " get into trouble", " get a new friend"]}
+{"head": "Can Migos root for both the Falcons and Saints because of their friendship with Alvin Kamara.", "relation": "Causes", "tails": [" can't wait for the game", " can't wait for the game to start", " can't wait for the game to be over"]}
+{"head": "Can Migos root for both the Falcons and Saints because of their friendship with Alvin Kamara.", "relation": "xReason", "tails": [" can't decide which team to root for", " can't wait for the game to start", " can't wait for the game"]}
+{"head": "Alvin Kamara", "relation": "ObjectUse", "tails": [" run for president of the United States", " run for president", " run for president of the country"]}
+{"head": "Alvin Kamara", "relation": "AtLocation", "tails": [" alvin kamara", " alvin kamara's house", " alvin kamara's home"]}
+{"head": "Alvin Kamara", "relation": "CapableOf", "tails": [" run a marathon", " run for president", " run a race"]}
+{"head": "Alvin Kamara", "relation": "HasProperty", "tails": [" one of the best runners in the world", " one of the best runners in the country", " none"]}
+{"head": "Alvin Kamara", "relation": "MadeUpOf", "tails": [" race", " shoe", " racecar"]}
+{"head": "Alvin Kamara", "relation": "NotDesires", "tails": [" none", " get a new job", " get a job"]}
+{"head": "Alvin Kamara", "relation": "Desires", "tails": [" none", " to be a leader", " to win the game"]}

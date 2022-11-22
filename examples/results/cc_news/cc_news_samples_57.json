@@ -1,0 +1,130 @@
+{"head": "year", "relation": "ObjectUse", "tails": [" have a birthday", " get a promotion", " have a good time"]}
+{"head": "year", "relation": "AtLocation", "tails": [" year", " office building", " school"]}
+{"head": "year", "relation": "CapableOf", "tails": [" pay bills on time", " pay rent", " pay taxes"]}
+{"head": "year", "relation": "HasProperty", "tails": [" year", " one year", " many years"]}
+{"head": "year", "relation": "MadeUpOf", "tails": [" year", " number of years", " number of days"]}
+{"head": "year", "relation": "NotDesires", "tails": [" year", " year to end", " have to pay bills"]}
+{"head": "year", "relation": "Desires", "tails": [" year", " year of life", " year to live"]}
+{"head": "to slam", "relation": "HinderedBy", "tails": [" to slam", " to slam the door", " to slam the door shut"]}
+{"head": "to slam", "relation": "isBefore", "tails": [" to slam", " to slam the door", " to slam the door shut"]}
+{"head": "to slam", "relation": "isAfter", "tails": [" to hit someone", " to slam", " to hit"]}
+{"head": "to slam", "relation": "HasSubEvent", "tails": [" to slam", " to slam  slam  slam  slam", " to slam  slam  slam  slam  slam"]}
+{"head": "to slam", "relation": "Causes", "tails": [" to slam", " to slam the door", " to slam the door shut"]}
+{"head": "to slam", "relation": "xReason", "tails": [" to slam", " to slam the door", " to slam the door shut"]}
+{"head": "to face", "relation": "HinderedBy", "tails": [" to face", " face to face", " to face the enemy"]}
+{"head": "to face", "relation": "isBefore", "tails": [" face to face", " to face", " to face the enemy"]}
+{"head": "to face", "relation": "isAfter", "tails": [" face to face", " face to face with another person", " face to face with other person"]}
+{"head": "to face", "relation": "HasSubEvent", "tails": [" to face", " turn head", " turn around"]}
+{"head": "to face", "relation": "Causes", "tails": [" face to face", " to face", " to face to face"]}
+{"head": "to face", "relation": "xReason", "tails": [" face to face", " to face", " face to face with"]}
+{"head": "structure", "relation": "ObjectUse", "tails": [" build a house", " make a house", " build a home"]}
+{"head": "structure", "relation": "AtLocation", "tails": [" building", " house", " buildings"]}
+{"head": "structure", "relation": "CapableOf", "tails": [" build house", " use as building material", " make house look nice"]}
+{"head": "structure", "relation": "HasProperty", "tails": [" found in buildings", " found in many places", " found in many countries"]}
+{"head": "structure", "relation": "MadeUpOf", "tails": [" structure", " building", " construction"]}
+{"head": "structure", "relation": "NotDesires", "tails": [" build a house", " build house", " building"]}
+{"head": "structure", "relation": "Desires", "tails": [" build a house", " make house look nice", " make house look good"]}
+{"head": "slam structure", "relation": "HinderedBy", "tails": [" use as a prop in a play", " use as a weapon", " use as a prop in a movie"]}
+{"head": "slam structure", "relation": "isBefore", "tails": [" use as a prop in a play", " use as a prop in a movie", " use as a doorstop"]}
+{"head": "slam structure", "relation": "isAfter", "tails": [" gymnasium", " use as a weapon", " use as a doorstop"]}
+{"head": "slam structure", "relation": "HasSubEvent", "tails": [" use as a weapon", " use as weapon", " get hurt"]}
+{"head": "slam structure", "relation": "Causes", "tails": [" use as a prop in a play", " use as a prop in a movie", " use as a weapon"]}
+{"head": "slam structure", "relation": "xReason", "tails": [" use as a prop in a play", " use as a weapon", " use as a prop in a movie"]}
+{"head": "resident", "relation": "ObjectUse", "tails": [" have a home to live in", " live in", " have a home to call their own"]}
+{"head": "resident", "relation": "AtLocation", "tails": [" apartment building", " city", " house"]}
+{"head": "resident", "relation": "CapableOf", "tails": [" live in house", " live in home", " stay in house"]}
+{"head": "resident", "relation": "HasProperty", "tails": [" living in house", " living in home", " one of many cities"]}
+{"head": "resident", "relation": "MadeUpOf", "tails": [" apartment building", " house", " apartment"]}
+{"head": "resident", "relation": "NotDesires", "tails": [" live in house", " stay in house", " stay in home"]}
+{"head": "resident", "relation": "Desires", "tails": [" live in house", " live in home", " live in"]}
+{"head": "pricing", "relation": "ObjectUse", "tails": [" get a good deal", " pay for the item", " pay for the product"]}
+{"head": "pricing", "relation": "AtLocation", "tails": [" store", " price tag", " shop"]}
+{"head": "pricing", "relation": "CapableOf", "tails": [" pay for goods and services", " pay for item", " pay for the item"]}
+{"head": "pricing", "relation": "HasProperty", "tails": [" good for business", " price of product", " expensive"]}
+{"head": "pricing", "relation": "MadeUpOf", "tails": [" price", " price of product", " price tag"]}
+{"head": "pricing", "relation": "NotDesires", "tails": [" have to pay", " have to pay for it", " have too much money"]}
+{"head": "pricing", "relation": "Desires", "tails": [" get a good deal", " make money", " get a better deal"]}
+{"head": "new pricing structure", "relation": "ObjectUse", "tails": [" make money", " get rid of the old one", " get rid of a bad employee"]}
+{"head": "new pricing structure", "relation": "AtLocation", "tails": [" new business model", " store", " new product"]}
+{"head": "new pricing structure", "relation": "CapableOf", "tails": [" get rid of old ones", " get rid of old prices", " get rid of old one"]}
+{"head": "new pricing structure", "relation": "HasProperty", "tails": [" made up of many parts", " made up of many different things", " made up of many different parts"]}
+{"head": "new pricing structure", "relation": "MadeUpOf", "tails": [" price", " new product", " new prices"]}
+{"head": "new pricing structure", "relation": "NotDesires", "tails": [" new product", " make money", " new products"]}
+{"head": "new pricing structure", "relation": "Desires", "tails": [" make money", " have more options", " have more choices"]}
+{"head": "membership", "relation": "ObjectUse", "tails": [" get into the club", " get into a club", " pay for"]}
+{"head": "membership", "relation": "AtLocation", "tails": [" membership card", " membership", " membership club"]}
+{"head": "membership", "relation": "CapableOf", "tails": [" sign up for", " sign up for membership", " pay for membership"]}
+{"head": "membership", "relation": "HasProperty", "tails": [" membership", " membership", " membership in club"]}
+{"head": "membership", "relation": "MadeUpOf", "tails": [" membership card", " membership", " membership card"]}
+{"head": "membership", "relation": "NotDesires", "tails": [" have to pay for", " have to pay", " have to pay membership fee"]}
+{"head": "membership", "relation": "Desires", "tails": [" membership in club", " membership", " membership in gym"]}
+{"head": "local resident", "relation": "ObjectUse", "tails": [" have a home to live in", " have a home", " have a good time"]}
+{"head": "local resident", "relation": "AtLocation", "tails": [" town", " city", " local restaurant"]}
+{"head": "local resident", "relation": "CapableOf", "tails": [" live in neighborhood", " live in town", " live in house"]}
+{"head": "local resident", "relation": "HasProperty", "tails": [" local to town", " one of many", " one of many people"]}
+{"head": "local resident", "relation": "MadeUpOf", "tails": [" local business", " local business owner", " neighbors house"]}
+{"head": "local resident", "relation": "NotDesires", "tails": [" have to pay rent", " live in neighborhood", " live in house"]}
+{"head": "local resident", "relation": "Desires", "tails": [" live in neighborhood", " live in town", " live in city"]}
+{"head": "leisure", "relation": "ObjectUse", "tails": [" wear to work", " wear to a party", " wear to the party"]}
+{"head": "leisure", "relation": "AtLocation", "tails": [" resturant", " rest area", " vacation"]}
+{"head": "leisure", "relation": "CapableOf", "tails": [" have fun", " get exercise", " enjoy yourself"]}
+{"head": "leisure", "relation": "HasProperty", "tails": [" good for health", " fun", " good for body"]}
+{"head": "leisure", "relation": "MadeUpOf", "tails": [" leisure time", " fun", " leisure"]}
+{"head": "leisure", "relation": "NotDesires", "tails": [" wear comfortable clothes", " have fun", " wear comfortable shoes"]}
+{"head": "leisure", "relation": "Desires", "tails": [" have fun", " have a good time", " have fun with friends"]}
+{"head": "increase", "relation": "ObjectUse", "tails": [" make money", " increase in value", " increase income"]}
+{"head": "increase", "relation": "AtLocation", "tails": [" increase in value", " increase in price", " store"]}
+{"head": "increase", "relation": "CapableOf", "tails": [" make more money", " increase in value", " increase value of things"]}
+{"head": "increase", "relation": "HasProperty", "tails": [" increase in value", " increase in price", " increase"]}
+{"head": "increase", "relation": "MadeUpOf", "tails": [" increase in volume", " increase", " increase in value"]}
+{"head": "increase", "relation": "NotDesires", "tails": [" increase in price", " increase in value", " increase in cost"]}
+{"head": "increase", "relation": "Desires", "tails": [" make more money", " increase in value", " increase"]}
+{"head": "families", "relation": "ObjectUse", "tails": [" live together", " live in", " have a family"]}
+{"head": "families", "relation": "AtLocation", "tails": [" family home", " family tree", " house"]}
+{"head": "families", "relation": "CapableOf", "tails": [" live together", " live in same house", " live in house"]}
+{"head": "families", "relation": "HasProperty", "tails": [" families", " one family", " family"]}
+{"head": "families", "relation": "MadeUpOf", "tails": [" family tree", " families", " family name"]}
+{"head": "families", "relation": "NotDesires", "tails": [" live together", " live in different places", " live in different states"]}
+{"head": "families", "relation": "Desires", "tails": [" live together", " have fun", " live in"]}
+{"head": "face increase", "relation": "HinderedBy", "tails": [" look better", " face", " face gets bigger"]}
+{"head": "face increase", "relation": "isBefore", "tails": [" face gets bigger", " face becomes more attractive", " face wrinkles"]}
+{"head": "face increase", "relation": "isAfter", "tails": [" face gets bigger", " face hair", " face becomes more attractive"]}
+{"head": "face increase", "relation": "HasSubEvent", "tails": [" look better", " face gets bigger", " face becomes more attractive"]}
+{"head": "face increase", "relation": "Causes", "tails": [" face gets bigger", " face wrinkles", " face becomes more attractive"]}
+{"head": "face increase", "relation": "xReason", "tails": [" face gets bigger", " look better", " face becomes more attractive"]}
+{"head": "centres", "relation": "ObjectUse", "tails": [" store things", " store things in", " buy things at"]}
+{"head": "centres", "relation": "AtLocation", "tails": [" shopping mall", " mall", " city"]}
+{"head": "centres", "relation": "CapableOf", "tails": [" shop for groceries", " shop for goods", " shop for food"]}
+{"head": "centres", "relation": "HasProperty", "tails": [" found in many cities", " shopping mall", " found in many countries"]}
+{"head": "centres", "relation": "MadeUpOf", "tails": [" shopping mall", " centre of gravity", " building"]}
+{"head": "centres", "relation": "NotDesires", "tails": [" shopping mall", " run out of money", " run out of gas"]}
+{"head": "centres", "relation": "Desires", "tails": [" shopping mall", " shopping malls", " shopping center"]}
+{"head": "area leisure centres", "relation": "ObjectUse", "tails": [" get exercise", " have a party", " have a party at"]}
+{"head": "area leisure centres", "relation": "AtLocation", "tails": [" gymnasium", " gymnasiums", " gym"]}
+{"head": "area leisure centres", "relation": "CapableOf", "tails": [" get exercise", " have fun", " get exercise in"]}
+{"head": "area leisure centres", "relation": "HasProperty", "tails": [" found in many areas of the country", " found in many areas of the world", " found in many areas of the world."]}
+{"head": "area leisure centres", "relation": "MadeUpOf", "tails": [" gymnasium", " gymnasiums", " area"]}
+{"head": "area leisure centres", "relation": "NotDesires", "tails": [" get exercise", " have free time", " have fun"]}
+{"head": "area leisure centres", "relation": "Desires", "tails": [" have a good time", " have fun", " have a place to relax"]}
+{"head": "area", "relation": "ObjectUse", "tails": [" have a place to sleep", " have a place to live", " have a place to sit"]}
+{"head": "area", "relation": "AtLocation", "tails": [" city", " town", " area"]}
+{"head": "area", "relation": "CapableOf", "tails": [" find place to sleep", " find place to live", " find place to sit"]}
+{"head": "area", "relation": "HasProperty", "tails": [" found in many places", " found in", " found in many countries"]}
+{"head": "area", "relation": "MadeUpOf", "tails": [" surface of earth", " area", " surface of body"]}
+{"head": "area", "relation": "NotDesires", "tails": [" have to clean up", " have to clean up after", " have to clean up after themselves"]}
+{"head": "area", "relation": "Desires", "tails": [" live in", " living in", " area of interest"]}
+{"head": "A local resident has slammed the new pricing structure for membership of the area\u2019s leisure centres with families facing an increase of up to \u00a3130 per year.", "relation": "xAttr", "tails": [" angry", " annoyed", " angry."]}
+{"head": "A local resident has slammed the new pricing structure for membership of the area\u2019s leisure centres with families facing an increase of up to \u00a3130 per year.", "relation": "xWant", "tails": [" to complain to the council", " to protest against the new pricing structure", " to complain about the new pricing structure"]}
+{"head": "A local resident has slammed the new pricing structure for membership of the area\u2019s leisure centres with families facing an increase of up to \u00a3130 per year.", "relation": "xNeed", "tails": [" get a membership", " a car", " get a membership card"]}
+{"head": "A local resident has slammed the new pricing structure for membership of the area\u2019s leisure centres with families facing an increase of up to \u00a3130 per year.", "relation": "xEffect", "tails": [" a family to be able to go to the leisure centre", " a family to be able to go to the leisure centres", " a family to be able to go to the leisure centre."]}
+{"head": "A local resident has slammed the new pricing structure for membership of the area\u2019s leisure centres with families facing an increase of up to \u00a3130 per year.", "relation": "HinderedBy", "tails": [" a local resident has slammed the new pricing structure for membership of the area's leisure centres", " a local resident has slammed the new pricing structure for membership of the area's leisure centres.", " a local resident has slammed the new pricing structure for membership of the leisure centres"]}
+{"head": "A local resident has slammed the new pricing structure for membership of the area\u2019s leisure centres with families facing an increase of up to \u00a3130 per year.", "relation": "oWant", "tails": [" to complain about the new pricing structure", " to complain to the council", " to complain to their local council"]}
+{"head": "A local resident has slammed the new pricing structure for membership of the area\u2019s leisure centres with families facing an increase of up to \u00a3130 per year.", "relation": "xReact", "tails": [" angry", " annoyed", " angry."]}
+{"head": "A local resident has slammed the new pricing structure for membership of the area\u2019s leisure centres with families facing an increase of up to \u00a3130 per year.", "relation": "oEffect", "tails": [" have to pay more", " have to pay more money", " have less money"]}
+{"head": "A local resident has slammed the new pricing structure for membership of the area\u2019s leisure centres with families facing an increase of up to \u00a3130 per year.", "relation": "xIntent", "tails": [" to save money", " to be able to go to the gym", " to be able to go to the park"]}
+{"head": "A local resident has slammed the new pricing structure for membership of the area\u2019s leisure centres with families facing an increase of up to \u00a3130 per year.", "relation": "oReact", "tails": [" none", " get a new membership", " get more money"]}
+{"head": "A local resident has slammed the new pricing structure for membership of the area\u2019s leisure centres with families facing an increase of up to \u00a3130 per year.", "relation": "isBefore", "tails": [" have to pay more", " have to pay more money", " have to pay more for it"]}
+{"head": "A local resident has slammed the new pricing structure for membership of the area\u2019s leisure centres with families facing an increase of up to \u00a3130 per year.", "relation": "isAfter", "tails": [" have to pay more", " have to pay more money", " have to pay more for it"]}
+{"head": "A local resident has slammed the new pricing structure for membership of the area\u2019s leisure centres with families facing an increase of up to \u00a3130 per year.", "relation": "HasSubEvent", "tails": [" have to pay more", " have to pay more money", " have to pay more for it"]}
+{"head": "A local resident has slammed the new pricing structure for membership of the area\u2019s leisure centres with families facing an increase of up to \u00a3130 per year.", "relation": "Causes", "tails": [" have to pay more", " have less money", " have to pay more money"]}
+{"head": "A local resident has slammed the new pricing structure for membership of the area\u2019s leisure centres with families facing an increase of up to \u00a3130 per year.", "relation": "xReason", "tails": [" have to pay more", " have to pay more money", " have less money"]}

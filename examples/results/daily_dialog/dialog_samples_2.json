@@ -1,0 +1,141 @@
+{"head": "to want", "relation": "HinderedBy", "tails": [" to want", " to want something", " to want "]}
+{"head": "to want", "relation": "isBefore", "tails": [" to want", " to want something", " to want to want"]}
+{"head": "to want", "relation": "isAfter", "tails": [" to want", " to want something", " to want to want"]}
+{"head": "to want", "relation": "HasSubEvent", "tails": [" to want", " to want something", " to want to want"]}
+{"head": "to want", "relation": "Causes", "tails": [" to want", " to want something", " to want to want"]}
+{"head": "to want", "relation": "xReason", "tails": [" to want", " to want something", " to want to want"]}
+{"head": "to reduce", "relation": "HinderedBy", "tails": [" to reduce", " to reduce  to reduce ", " to reduce "]}
+{"head": "to reduce", "relation": "isBefore", "tails": [" to reduce carbon dioxide", " to reduce waste", " to reduce carbon emissions"]}
+{"head": "to reduce", "relation": "isAfter", "tails": [" to reduce carbon dioxide in air", " to reduce carbon dioxide", " to reduce the number of calories"]}
+{"head": "to reduce", "relation": "HasSubEvent", "tails": [" to reduce", " to reduce energy use", " to reduce energy consumption"]}
+{"head": "to reduce", "relation": "Causes", "tails": [" to reduce", " to reduce carbon dioxide", " to reduce carbon emissions"]}
+{"head": "to reduce", "relation": "xReason", "tails": [" to reduce carbon dioxide", " to reduce waste", " to reduce carbon emissions"]}
+{"head": "taxi drivers", "relation": "ObjectUse", "tails": [" get a ride to work", " get a ride", " get a ride home"]}
+{"head": "taxi drivers", "relation": "AtLocation", "tails": [" taxi drivers", " taxi cab", " taxi cab drivers"]}
+{"head": "taxi drivers", "relation": "CapableOf", "tails": [" drive taxi", " pay fare", " drive taxi cab"]}
+{"head": "taxi drivers", "relation": "HasProperty", "tails": [" taxi drivers", " taxi cab drivers", " taxi driver"]}
+{"head": "taxi drivers", "relation": "MadeUpOf", "tails": [" taxi cab", " taxi", " taxi drivers"]}
+{"head": "taxi drivers", "relation": "NotDesires", "tails": [" taxi drivers", " taxi cab drivers", " taxi drivers to work"]}
+{"head": "taxi drivers", "relation": "Desires", "tails": [" taxi drivers", " get paid", " get a ride"]}
+{"head": "taxi", "relation": "ObjectUse", "tails": [" get to the store", " get to work", " get to the restaurant"]}
+{"head": "taxi", "relation": "AtLocation", "tails": [" taxi", " taxi cab", " bus station"]}
+{"head": "taxi", "relation": "CapableOf", "tails": [" get to destination", " ride in", " get to location"]}
+{"head": "taxi", "relation": "HasProperty", "tails": [" taxicab", " taxi", " taxi cab"]}
+{"head": "taxi", "relation": "MadeUpOf", "tails": [" taxi", " taxi cab", " taxicab"]}
+{"head": "taxi", "relation": "NotDesires", "tails": [" get lost", " ride in", " get robbed"]}
+{"head": "taxi", "relation": "Desires", "tails": [" get to destination", " get to work", " get to the store"]}
+{"head": "strike", "relation": "ObjectUse", "tails": [" strike back", " strike", " strike back at"]}
+{"head": "strike", "relation": "AtLocation", "tails": [" baseball game", " war", " baseball field"]}
+{"head": "strike", "relation": "CapableOf", "tails": [" strike ball", " strike back", " strike"]}
+{"head": "strike", "relation": "HasProperty", "tails": [" struck by lightning", " strike", " very violent"]}
+{"head": "strike", "relation": "MadeUpOf", "tails": [" strike", " strike line", " strike zone"]}
+{"head": "strike", "relation": "NotDesires", "tails": [" strike", " hit by ball", " hit by lightning"]}
+{"head": "strike", "relation": "Desires", "tails": [" strike", " strike back", " strike out"]}
+{"head": "reduce price", "relation": "HinderedBy", "tails": [" buy less", " reduce cost", " buy more things"]}
+{"head": "reduce price", "relation": "isBefore", "tails": [" get rid of unwanted items", " get rid of excess", " get rid of old ones"]}
+{"head": "reduce price", "relation": "isAfter", "tails": [" get rid of unwanted items", " get rid of excess", " get rid of unwanted item"]}
+{"head": "reduce price", "relation": "HasSubEvent", "tails": [" get rid of unwanted items", " get rid of excess", " get rid of unwanted item"]}
+{"head": "reduce price", "relation": "Causes", "tails": [" reduce cost", " buy less", " reduce costs"]}
+{"head": "reduce price", "relation": "xReason", "tails": [" buy less", " reduce cost", " buy more things"]}
+{"head": "price", "relation": "ObjectUse", "tails": [" pay for the item", " get a new car", " pay for the product"]}
+{"head": "price", "relation": "AtLocation", "tails": [" grocery store", " store", " car"]}
+{"head": "price", "relation": "CapableOf", "tails": [" pay for item", " pay for something", " pay for goods"]}
+{"head": "price", "relation": "HasProperty", "tails": [" found in many stores", " found in store", " found in stores"]}
+{"head": "price", "relation": "MadeUpOf", "tails": [" price", " price tag", " price of item"]}
+{"head": "price", "relation": "NotDesires", "tails": [" price of goods", " buy something", " price"]}
+{"head": "price", "relation": "Desires", "tails": [" get a good deal", " get a better deal", " buy something"]}
+{"head": "potato", "relation": "ObjectUse", "tails": [" put in the pot", " put in a pot", " put on the plate"]}
+{"head": "potato", "relation": "AtLocation", "tails": [" jar", " salad", " potato salad"]}
+{"head": "potato", "relation": "CapableOf", "tails": [" cook in pot", " put in pot", " put on plate"]}
+{"head": "potato", "relation": "HasProperty", "tails": [" potatoes", " boiled", " cooked"]}
+{"head": "potato", "relation": "MadeUpOf", "tails": [" potato", " potatoes", " pasta"]}
+{"head": "potato", "relation": "NotDesires", "tails": [" potatoes", " boiled", " potato"]}
+{"head": "potato", "relation": "Desires", "tails": [" cook on stove", " cook for dinner", " potatoes"]}
+{"head": "hot potato", "relation": "ObjectUse", "tails": [" use as a weapon", " play with a friend", " play with friends"]}
+{"head": "hot potato", "relation": "AtLocation", "tails": [" potato chip", " hot dog", " table"]}
+{"head": "hot potato", "relation": "CapableOf", "tails": [" play with", " play with friends", " throw at someone"]}
+{"head": "hot potato", "relation": "HasProperty", "tails": [" hot", " hot and sticky", " hot and spicy"]}
+{"head": "hot potato", "relation": "MadeUpOf", "tails": [" potato", " potato chips", " potato chip"]}
+{"head": "hot potato", "relation": "NotDesires", "tails": [" hot dogs", " hot potato", " hot"]}
+{"head": "hot potato", "relation": "Desires", "tails": [" have fun with", " have fun", " play with friends"]}
+{"head": "government", "relation": "ObjectUse", "tails": [" govern people", " govern the people", " control people's lives"]}
+{"head": "government", "relation": "AtLocation", "tails": [" government building", " office building", " state"]}
+{"head": "government", "relation": "CapableOf", "tails": [" govern people", " govern country", " rule country"]}
+{"head": "government", "relation": "HasProperty", "tails": [" controlled by government", " controlled by people", " government of people"]}
+{"head": "government", "relation": "MadeUpOf", "tails": [" government", " government of united states", " government of people"]}
+{"head": "government", "relation": "NotDesires", "tails": [" government to be in power", " government to govern people", " government to be in charge"]}
+{"head": "government", "relation": "Desires", "tails": [" govern people", " government of people", " government to govern people"]}
+{"head": "gasoline", "relation": "ObjectUse", "tails": [" fuel the car", " fuel the vehicle", " fuel a car"]}
+{"head": "gasoline", "relation": "AtLocation", "tails": [" gas station", " gasoline tank", " gasoline"]}
+{"head": "gasoline", "relation": "CapableOf", "tails": [" fill up tank", " fill up car", " fuel car"]}
+{"head": "gasoline", "relation": "HasProperty", "tails": [" gasoline", " gasoline", " fuel"]}
+{"head": "gasoline", "relation": "MadeUpOf", "tails": [" gasoline", " fuel", " gasoline"]}
+{"head": "gasoline", "relation": "NotDesires", "tails": [" fuel", " gasoline", " gasoline"]}
+{"head": "gasoline", "relation": "Desires", "tails": [" fuel", " gasoline", " power car"]}
+{"head": "drivers", "relation": "ObjectUse", "tails": [" get to work on time", " drive a car", " get to the store on time"]}
+{"head": "drivers", "relation": "AtLocation", "tails": [" carpool", " car", " drivers license"]}
+{"head": "drivers", "relation": "CapableOf", "tails": [" drive car", " drive cars", " drive to work"]}
+{"head": "drivers", "relation": "HasProperty", "tails": [" driven by other drivers", " driven by other people", " drivers of cars"]}
+{"head": "drivers", "relation": "MadeUpOf", "tails": [" drivers seatbelt", " drivers seat belt", " drivers seat"]}
+{"head": "drivers", "relation": "NotDesires", "tails": [" get hit by car", " get hit by drunk driver", " get hit by truck"]}
+{"head": "drivers", "relation": "Desires", "tails": [" drive car", " drive cars", " get to destination"]}
+{"head": "What for ?", "relation": "xAttr", "tails": [" curious", " determined", " what for"]}
+{"head": "What for ?", "relation": "xWant", "tails": [" to get a job", " to make money", " to make a plan"]}
+{"head": "What for ?", "relation": "xNeed", "tails": [" none", " what to do", " to have a job"]}
+{"head": "What for ?", "relation": "xEffect", "tails": [" none", " gets asked questions", " get a job"]}
+{"head": "What for ?", "relation": "HinderedBy", "tails": [" what for", " what for what", " what to do"]}
+{"head": "What for ?", "relation": "oWant", "tails": [" none", " to get a job done", " to get something done"]}
+{"head": "What for ?", "relation": "xReact", "tails": [" happy", " satisfied", " good"]}
+{"head": "What for ?", "relation": "oEffect", "tails": [" none", " what to do", " what for"]}
+{"head": "What for ?", "relation": "xIntent", "tails": [" none", " what to do", " what for"]}
+{"head": "What for ?", "relation": "oReact", "tails": [" none", " happy", " happy."]}
+{"head": "What for ?", "relation": "isBefore", "tails": [" what to do", " what for", " what for what"]}
+{"head": "What for ?", "relation": "isAfter", "tails": [" what to do", " what for", " what for what"]}
+{"head": "What for ?", "relation": "HasSubEvent", "tails": [" what to do", " what for", " ask for help"]}
+{"head": "What for ?", "relation": "Causes", "tails": [" what for", " what to do", " what for what"]}
+{"head": "What for ?", "relation": "xReason", "tails": [" what to do", " what for", " what for what"]}
+{"head": "They want the government to reduce the price of the gasoline .", "relation": "xAttr", "tails": [" greedy", " needy", " demanding"]}
+{"head": "They want the government to reduce the price of the gasoline .", "relation": "xWant", "tails": [" to buy a new car", " to protest", " to buy a car"]}
+{"head": "They want the government to reduce the price of the gasoline .", "relation": "xNeed", "tails": [" to have a car", " to get a petition together", " to get a petition"]}
+{"head": "They want the government to reduce the price of the gasoline .", "relation": "xEffect", "tails": [" get a new car", " they get a new car", " get a job"]}
+{"head": "They want the government to reduce the price of the gasoline .", "relation": "HinderedBy", "tails": [" They don't have the money to pay for it.", " They don't have enough money.", " They don't have the money to pay the price."]}
+{"head": "They want the government to reduce the price of the gasoline .", "relation": "oWant", "tails": [" to get the government's attention", " to get the government to do something", " to protest"]}
+{"head": "They want the government to reduce the price of the gasoline .", "relation": "xReact", "tails": [" happy", " satisfied", " good"]}
+{"head": "They want the government to reduce the price of the gasoline .", "relation": "oEffect", "tails": [" none", " they buy a new car", " they buy a car"]}
+{"head": "They want the government to reduce the price of the gasoline .", "relation": "xIntent", "tails": [" to save money", " to be able to travel", " to get a better deal"]}
+{"head": "They want the government to reduce the price of the gasoline .", "relation": "oReact", "tails": [" none", " they want to save money", " they want to buy a car"]}
+{"head": "They want the government to reduce the price of the gasoline .", "relation": "isBefore", "tails": [" they buy a new car", " they buy a car", " they get a new car"]}
+{"head": "They want the government to reduce the price of the gasoline .", "relation": "isAfter", "tails": [" they want to buy a new car", " they want to save money", " they want to buy a car"]}
+{"head": "They want the government to reduce the price of the gasoline .", "relation": "HasSubEvent", "tails": [" get a new car", " get a job", " they get a new car"]}
+{"head": "They want the government to reduce the price of the gasoline .", "relation": "Causes", "tails": [" they want to save money", " they have no money", " they want to buy a car"]}
+{"head": "They want the government to reduce the price of the gasoline .", "relation": "xReason", "tails": [" they want to save money", " they want to buy a new car", " they want to buy a car"]}
+{"head": "The taxi drivers are on strike again .", "relation": "xAttr", "tails": [" angry", " frustrated", " upset"]}
+{"head": "The taxi drivers are on strike again .", "relation": "xWant", "tails": [" to get a new job", " to get their money back", " to get a job"]}
+{"head": "The taxi drivers are on strike again .", "relation": "xNeed", "tails": [" get a taxi", " to get a taxi", " to have a contract"]}
+{"head": "The taxi drivers are on strike again .", "relation": "xEffect", "tails": [" the taxi drivers go on strike", " the taxi drivers go on strike again", " the taxi drivers are on strike again"]}
+{"head": "The taxi drivers are on strike again .", "relation": "HinderedBy", "tails": [" the taxi drivers are on strike", " the taxi drivers are on strike again", " the taxi drivers are not on strike"]}
+{"head": "The taxi drivers are on strike again .", "relation": "oWant", "tails": [" to get a new job", " to get paid", " to get a better deal"]}
+{"head": "The taxi drivers are on strike again .", "relation": "xReact", "tails": [" angry", " upset", " frustrated"]}
+{"head": "The taxi drivers are on strike again .", "relation": "oEffect", "tails": [" the taxi drivers lose their job", " the taxi drivers lose their jobs", " the taxi drivers lose their money"]}
+{"head": "The taxi drivers are on strike again .", "relation": "xIntent", "tails": [" none", " to make money", " to get paid"]}
+{"head": "The taxi drivers are on strike again .", "relation": "oReact", "tails": [" none", " angry", " annoyed"]}
+{"head": "The taxi drivers are on strike again .", "relation": "isBefore", "tails": [" the taxi drivers are on strike again", " the taxi drivers go on strike again", " the taxi drivers go on strike"]}
+{"head": "The taxi drivers are on strike again .", "relation": "isAfter", "tails": [" the taxi drivers are on strike again", " the taxi drivers are on strike", " the taxi drivers go on strike"]}
+{"head": "The taxi drivers are on strike again .", "relation": "HasSubEvent", "tails": [" the taxi drivers are on strike again", " the taxi drivers to go on strike", " the taxi drivers are on strike"]}
+{"head": "The taxi drivers are on strike again .", "relation": "Causes", "tails": [" the taxi drivers are on strike", " the taxi drivers are on strike again", " the taxi drivers are on strike."]}
+{"head": "The taxi drivers are on strike again .", "relation": "xReason", "tails": [" the taxi drivers are on strike again", " the taxi drivers are on strike", " The taxi drivers are on strike again."]}
+{"head": "It is really a hot potato .", "relation": "xAttr", "tails": [" hot", " careless", " cold"]}
+{"head": "It is really a hot potato .", "relation": "xWant", "tails": [" to get rid of it", " to get rid of the hot potato", " to throw the hot potato in the air"]}
+{"head": "It is really a hot potato .", "relation": "xNeed", "tails": [" none", " to have a hot potato", " to throw it at someone"]}
+{"head": "It is really a hot potato .", "relation": "xEffect", "tails": [" it is not a hot potato", " it is a hot potato", " none"]}
+{"head": "It is really a hot potato .", "relation": "HinderedBy", "tails": [" it is not a hot potato", " it is not a hot potato.", " it is a hot potato"]}
+{"head": "It is really a hot potato .", "relation": "oWant", "tails": [" none", " to get rid of it", " to get rid of the hot potato"]}
+{"head": "It is really a hot potato .", "relation": "xReact", "tails": [" it is not a hot potato", " it is a hot potato", " it is not a hot potato."]}
+{"head": "It is really a hot potato .", "relation": "oEffect", "tails": [" none", " it is not a hot potato", " it is a hot potato"]}
+{"head": "It is really a hot potato .", "relation": "xIntent", "tails": [" none", " it is a hot potato", " it is not a hot potato"]}
+{"head": "It is really a hot potato .", "relation": "oReact", "tails": [" none", " angry", " upset"]}
+{"head": "It is really a hot potato .", "relation": "isBefore", "tails": [" it is not a hot potato", " it is a hot potato", " it is not a hot potato."]}
+{"head": "It is really a hot potato .", "relation": "isAfter", "tails": [" it is not a hot potato", " it is a hot potato", " it is not a hot potato."]}
+{"head": "It is really a hot potato .", "relation": "HasSubEvent", "tails": [" it is not a hot potato", " throw at someone", " it is not a hot potato."]}
+{"head": "It is really a hot potato .", "relation": "Causes", "tails": [" it is not a hot potato", " it is not a hot potato.", " it is not a game"]}
+{"head": "It is really a hot potato .", "relation": "xReason", "tails": [" it is not a hot potato", " it is a hot potato", " it is not a hot potato."]}

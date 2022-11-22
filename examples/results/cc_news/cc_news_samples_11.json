@@ -1,0 +1,75 @@
+{"head": "to find", "relation": "HinderedBy", "tails": [" to find ", " to find", " to find  to find "]}
+{"head": "to find", "relation": "isBefore", "tails": [" to find", " to find something", " to find "]}
+{"head": "to find", "relation": "isAfter", "tails": [" to find something", " to find something to eat", " to find"]}
+{"head": "to find", "relation": "HasSubEvent", "tails": [" to find", " to find ", " to look for it"]}
+{"head": "to find", "relation": "Causes", "tails": [" to find", " to find ", " to find something"]}
+{"head": "to find", "relation": "xReason", "tails": [" to find", " to find something", " to find "]}
+{"head": "to disturb", "relation": "HinderedBy", "tails": [" to disturb", " to disturb ", " to wake someone up"]}
+{"head": "to disturb", "relation": "isBefore", "tails": [" to wake someone up", " to disturb", " to wake up someone"]}
+{"head": "to disturb", "relation": "isAfter", "tails": [" to wake someone up", " none", " to wake up someone"]}
+{"head": "to disturb", "relation": "HasSubEvent", "tails": [" to disturb", " make noise", " get up"]}
+{"head": "to disturb", "relation": "Causes", "tails": [" to disturb", " to wake someone up", " none"]}
+{"head": "to disturb", "relation": "xReason", "tails": [" to wake someone up", " to wake people up", " to disturb"]}
+{"head": "readers", "relation": "ObjectUse", "tails": [" read a book", " use as a paperweight", " use as a paper weight"]}
+{"head": "readers", "relation": "AtLocation", "tails": [" bookshelf", " book store", " book"]}
+{"head": "readers", "relation": "CapableOf", "tails": [" read book", " read books", " read newspaper"]}
+{"head": "readers", "relation": "HasProperty", "tails": [" found in library", " found in bookstores", " found in book store"]}
+{"head": "readers", "relation": "MadeUpOf", "tails": [" book", " nose", " read book"]}
+{"head": "readers", "relation": "NotDesires", "tails": [" read book", " read books", " have to read"]}
+{"head": "readers", "relation": "Desires", "tails": [" read books", " read book", " read"]}
+{"head": "images", "relation": "ObjectUse", "tails": [" make a collage", " use as a paperweight", " make a collage of"]}
+{"head": "images", "relation": "AtLocation", "tails": [" photo album", " computer", " gallery"]}
+{"head": "images", "relation": "CapableOf", "tails": [" use as paperweight", " use as a paperweight", " use as paper weight"]}
+{"head": "images", "relation": "HasProperty", "tails": [" found in photo albums", " found in computer", " found on computer"]}
+{"head": "images", "relation": "MadeUpOf", "tails": [" images", " image processing software", " image file format"]}
+{"head": "images", "relation": "NotDesires", "tails": [" have to look at", " images of people", " see in darkroom"]}
+{"head": "images", "relation": "Desires", "tails": [" use as a paperweight", " use for art", " use as a bookmark"]}
+{"head": "find images", "relation": "HinderedBy", "tails": [" find images", " look at", " search for images"]}
+{"head": "find images", "relation": "isBefore", "tails": [" look at", " find out what's going on", " find out what is going on"]}
+{"head": "find images", "relation": "isAfter", "tails": [" look at", " search for images", " find out what happened"]}
+{"head": "find images", "relation": "HasSubEvent", "tails": [" look at", " look at pictures", " find out what happened"]}
+{"head": "find images", "relation": "Causes", "tails": [" find out what's going on", " look at", " find out what is going on"]}
+{"head": "find images", "relation": "xReason", "tails": [" look at", " find out what's going on", " find out what is going on"]}
+{"head": "details", "relation": "ObjectUse", "tails": [" make sure it's correct", " make sure it's right", " make sure it is correct"]}
+{"head": "details", "relation": "AtLocation", "tails": [" book", " details", " information"]}
+{"head": "details", "relation": "CapableOf", "tails": [" write down", " know what to do", " know what to do next"]}
+{"head": "details", "relation": "HasProperty", "tails": [" details", " many details", " important"]}
+{"head": "details", "relation": "MadeUpOf", "tails": [" details", " detail", " information"]}
+{"head": "details", "relation": "NotDesires", "tails": [" details", " make a mistake", " make sure they understand"]}
+{"head": "details", "relation": "Desires", "tails": [" know what's going on", " know what to do", " know what is going on"]}
+{"head": "case", "relation": "ObjectUse", "tails": [" put the items in", " hold the items", " carry the items"]}
+{"head": "case", "relation": "AtLocation", "tails": [" suitcase", " store", " house"]}
+{"head": "case", "relation": "CapableOf", "tails": [" hold papers", " hold books", " carry books"]}
+{"head": "case", "relation": "HasProperty", "tails": [" found in house", " found in car", " found in office"]}
+{"head": "case", "relation": "MadeUpOf", "tails": [" case", " case handle", " case door"]}
+{"head": "case", "relation": "NotDesires", "tails": [" put things in", " hold papers", " put things into"]}
+{"head": "case", "relation": "Desires", "tails": [" put things in", " hold books and papers", " hold papers"]}
+{"head": "Warning readers", "relation": "ObjectUse", "tails": [" warn of danger", " warn others of danger", " warn others"]}
+{"head": "Warning readers", "relation": "AtLocation", "tails": [" warning signs", " warning", " warning sign"]}
+{"head": "Warning readers", "relation": "CapableOf", "tails": [" warn of danger", " warn about danger", " warn of dangers"]}
+{"head": "Warning readers", "relation": "HasProperty", "tails": [" warning", " warning signs", " warning sign"]}
+{"head": "Warning readers", "relation": "MadeUpOf", "tails": [" warning", " warning sign", " warning signs"]}
+{"head": "Warning readers", "relation": "NotDesires", "tails": [" warn of danger", " warning", " warn others of danger"]}
+{"head": "Warning readers", "relation": "Desires", "tails": [" warn of danger", " warning", " warn others of danger"]}
+{"head": "Warning - some readers may find the images and details of this case disturbing", "relation": "xAttr", "tails": [" violent", " scared", " sadistic"]}
+{"head": "Warning - some readers may find the images and details of this case disturbing", "relation": "xWant", "tails": [" to read more about the case", " to tell others about the case", " to read more about the case."]}
+{"head": "Warning - some readers may find the images and details of this case disturbing", "relation": "xNeed", "tails": [" to read about the case", " none", " find out what happened"]}
+{"head": "Warning - some readers may find the images and details of this case disturbing", "relation": "xEffect", "tails": [" none", " warning", " warning signs"]}
+{"head": "Warning - some readers may find the images and details of this case disturbing", "relation": "HinderedBy", "tails": [" warning", " warn of disturbing images", " warn about disturbing images"]}
+{"head": "Warning - some readers may find the images and details of this case disturbing", "relation": "oWant", "tails": [" none", " to tell others about the case", " to read more about the case"]}
+{"head": "Warning - some readers may find the images and details of this case disturbing", "relation": "xReact", "tails": [" sad", " scared", " upset"]}
+{"head": "Warning - some readers may find the images and details of this case disturbing", "relation": "oEffect", "tails": [" none", " read the case report", " read the case"]}
+{"head": "Warning - some readers may find the images and details of this case disturbing", "relation": "xIntent", "tails": [" none", " warn others", " to be entertained"]}
+{"head": "Warning - some readers may find the images and details of this case disturbing", "relation": "oReact", "tails": [" none", " sad", " scared"]}
+{"head": "Warning - some readers may find the images and details of this case disturbing", "relation": "isBefore", "tails": [" warning", " none", " warning signs"]}
+{"head": "Warning - some readers may find the images and details of this case disturbing", "relation": "isAfter", "tails": [" warning", " warning signs", " none"]}
+{"head": "Warning - some readers may find the images and details of this case disturbing", "relation": "HasSubEvent", "tails": [" get a restraining order", " get a lawyer", " get a restraining order against person"]}
+{"head": "Warning - some readers may find the images and details of this case disturbing", "relation": "Causes", "tails": [" warning", " warning signs", " warn others"]}
+{"head": "Warning - some readers may find the images and details of this case disturbing", "relation": "xReason", "tails": [" warning", " none", " warning signs"]}
+{"head": "Warning", "relation": "ObjectUse", "tails": [" warn of danger", " warning", " warn others of danger"]}
+{"head": "Warning", "relation": "AtLocation", "tails": [" warning sign", " warning signs", " warning"]}
+{"head": "Warning", "relation": "CapableOf", "tails": [" warn of danger", " warn about danger", " warn of consequences"]}
+{"head": "Warning", "relation": "HasProperty", "tails": [" warning", " warning sign", " warning signs"]}
+{"head": "Warning", "relation": "MadeUpOf", "tails": [" warning", " warning sign", " warning bell"]}
+{"head": "Warning", "relation": "NotDesires", "tails": [" warning", " warn of danger", " warning signs"]}
+{"head": "Warning", "relation": "Desires", "tails": [" warning", " warn of danger", " warning of danger"]}

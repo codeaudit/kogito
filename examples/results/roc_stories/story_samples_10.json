@@ -1,0 +1,263 @@
+{"head": "trap", "relation": "ObjectUse", "tails": [" trap the animal", " trap a mouse", " trap a rat"]}
+{"head": "trap", "relation": "AtLocation", "tails": [" trap", " trapdoor", " trap box"]}
+{"head": "trap", "relation": "CapableOf", "tails": [" catch fish", " trap animal", " bait trap"]}
+{"head": "trap", "relation": "HasProperty", "tails": [" caught in trap", " trap", " traps"]}
+{"head": "trap", "relation": "MadeUpOf", "tails": [" trap", " trap line", " trapdoor"]}
+{"head": "trap", "relation": "NotDesires", "tails": [" trap", " trap fish", " trap animal"]}
+{"head": "trap", "relation": "Desires", "tails": [" trap fish", " bait trap", " bait"]}
+{"head": "to watch", "relation": "HinderedBy", "tails": [" to watch", " to watch ", " to watch tv"]}
+{"head": "to watch", "relation": "isBefore", "tails": [" watch tv", " to watch tv", " to watch a movie"]}
+{"head": "to watch", "relation": "isAfter", "tails": [" watch tv", " watch movie", " watch tv show"]}
+{"head": "to watch", "relation": "HasSubEvent", "tails": [" turn on tv", " to watch", " watch tv"]}
+{"head": "to watch", "relation": "Causes", "tails": [" watch tv", " to watch", " to watch tv"]}
+{"head": "to watch", "relation": "xReason", "tails": [" watch tv", " to watch tv", " to watch"]}
+{"head": "to sneak", "relation": "HinderedBy", "tails": [" to sneak", " to sneak in", " to sneak "]}
+{"head": "to sneak", "relation": "isBefore", "tails": [" to sneak in", " to sneak out", " to sneak"]}
+{"head": "to sneak", "relation": "isAfter", "tails": [" to be sneaky", " to get away from the police", " to get away with something"]}
+{"head": "to sneak", "relation": "HasSubEvent", "tails": [" to sneak", " to sneak in", " to sneak out"]}
+{"head": "to sneak", "relation": "Causes", "tails": [" to sneak", " to sneak in", " to sneak into house"]}
+{"head": "to sneak", "relation": "xReason", "tails": [" to be sneaky", " to sneak in", " to sneak into house"]}
+{"head": "to pretend", "relation": "HinderedBy", "tails": [" to pretend", " to pretend to be someone else", " pretend to be someone else"]}
+{"head": "to pretend", "relation": "isBefore", "tails": [" pretend to be someone else", " to pretend to be someone else", " to pretend to be someone they are not"]}
+{"head": "to pretend", "relation": "isAfter", "tails": [" pretend to be someone else", " pretend to be something else", " pretend to be someone else."]}
+{"head": "to pretend", "relation": "HasSubEvent", "tails": [" pretend to be someone else", " to pretend", " to pretend to be someone else"]}
+{"head": "to pretend", "relation": "Causes", "tails": [" pretend to be someone else", " to pretend to be someone else", " to pretend"]}
+{"head": "to pretend", "relation": "xReason", "tails": [" pretend to be someone else", " pretend to be something else", " pretend to be someone else."]}
+{"head": "to pay", "relation": "HinderedBy", "tails": [" to pay", " to pay ", " to pay  to pay "]}
+{"head": "to pay", "relation": "isBefore", "tails": [" to pay", " to pay for the food", " to pay the bill"]}
+{"head": "to pay", "relation": "isAfter", "tails": [" pay for the item", " to pay for the food", " to pay for the item"]}
+{"head": "to pay", "relation": "HasSubEvent", "tails": [" to pay", " pay for the item", " to pay for the item"]}
+{"head": "to pay", "relation": "Causes", "tails": [" to pay", " to pay for something", " to pay for the food"]}
+{"head": "to pay", "relation": "xReason", "tails": [" to pay", " to pay for something", " to pay for the food"]}
+{"head": "to make", "relation": "HinderedBy", "tails": [" to make ", " to make", " to make  to make "]}
+{"head": "to make", "relation": "isBefore", "tails": [" to make", " to make a cake", " to make something"]}
+{"head": "to make", "relation": "isAfter", "tails": [" to make a cake", " to make", " to make something"]}
+{"head": "to make", "relation": "HasSubEvent", "tails": [" to make", " to make ", " to make something"]}
+{"head": "to make", "relation": "Causes", "tails": [" to make", " to make ", " to make something"]}
+{"head": "to make", "relation": "xReason", "tails": [" to make", " to make something", " to make  food"]}
+{"head": "to land", "relation": "HinderedBy", "tails": [" to land", " to land ", " to land on"]}
+{"head": "to land", "relation": "isBefore", "tails": [" to land", " to land on", " to land on ground"]}
+{"head": "to land", "relation": "isAfter", "tails": [" to land", " to land on", " land plane"]}
+{"head": "to land", "relation": "HasSubEvent", "tails": [" to land", " land on ground", " land plane"]}
+{"head": "to land", "relation": "Causes", "tails": [" to land", " to land on", " land plane"]}
+{"head": "to land", "relation": "xReason", "tails": [" to land", " to land on", " to land on ground"]}
+{"head": "to hit", "relation": "HinderedBy", "tails": [" to hit", " to hit ", " to hit the ball"]}
+{"head": "to hit", "relation": "isBefore", "tails": [" to hit", " to hit the ball", " to hit someone"]}
+{"head": "to hit", "relation": "isAfter", "tails": [" to hit", " to hit the ball", " to hit someone"]}
+{"head": "to hit", "relation": "HasSubEvent", "tails": [" to hit", " to hit the ball", " to hit "]}
+{"head": "to hit", "relation": "Causes", "tails": [" to hit", " to hit the ball", " to hit "]}
+{"head": "to hit", "relation": "xReason", "tails": [" to hit", " to hit the ball", " to hit something"]}
+{"head": "to go", "relation": "HinderedBy", "tails": [" to go", " to go ", " to go  to"]}
+{"head": "to go", "relation": "isBefore", "tails": [" to go", " get in car", " to go somewhere"]}
+{"head": "to go", "relation": "isAfter", "tails": [" get in the car", " get in car", " to go to the bathroom"]}
+{"head": "to go", "relation": "HasSubEvent", "tails": [" get in car", " to go", " to go  home"]}
+{"head": "to go", "relation": "Causes", "tails": [" to go", " get in car", " to go  home"]}
+{"head": "to go", "relation": "xReason", "tails": [" to go", " get in car", " to go somewhere"]}
+{"head": "to bounce", "relation": "HinderedBy", "tails": [" to bounce", " to bounce ", " to bounce on"]}
+{"head": "to bounce", "relation": "isBefore", "tails": [" to bounce", " to bounce on", " have fun"]}
+{"head": "to bounce", "relation": "isAfter", "tails": [" to bounce on", " have fun", " to dance"]}
+{"head": "to bounce", "relation": "HasSubEvent", "tails": [" to bounce", " to bounce back and forth", " get dizzy"]}
+{"head": "to bounce", "relation": "Causes", "tails": [" to bounce", " to bounce on", " to bounce off of"]}
+{"head": "to bounce", "relation": "xReason", "tails": [" to bounce", " to bounce on", " to bounce off of"]}
+{"head": "to believe", "relation": "HinderedBy", "tails": [" to believe", " to believe ", " to believe in something"]}
+{"head": "to believe", "relation": "isBefore", "tails": [" to believe", " to believe in something", " to believe in god"]}
+{"head": "to believe", "relation": "isAfter", "tails": [" to believe in something", " to believe", " to believe in god"]}
+{"head": "to believe", "relation": "HasSubEvent", "tails": [" to believe", " to believe in something", " to believe in god"]}
+{"head": "to believe", "relation": "Causes", "tails": [" to believe", " to believe in something", " to believe in god"]}
+{"head": "to believe", "relation": "xReason", "tails": [" to believe", " to believe in something", " to believe in god"]}
+{"head": "sneak ball", "relation": "HinderedBy", "tails": [" play with", " play with kids", " play catch"]}
+{"head": "sneak ball", "relation": "isBefore", "tails": [" throw at someone", " throw to someone", " throw to the dog"]}
+{"head": "sneak ball", "relation": "isAfter", "tails": [" throw to a friend", " throw at someone", " throw to the dog"]}
+{"head": "sneak ball", "relation": "HasSubEvent", "tails": [" throw at someone", " throw to someone", " throw at person"]}
+{"head": "sneak ball", "relation": "Causes", "tails": [" play with", " play with friends", " play with kids"]}
+{"head": "sneak ball", "relation": "xReason", "tails": [" have fun with", " play with", " have fun"]}
+{"head": "sand trap", "relation": "ObjectUse", "tails": [" catch a fish", " catch fish", " trap a rat"]}
+{"head": "sand trap", "relation": "AtLocation", "tails": [" beach", " fishing boat", " sand castle"]}
+{"head": "sand trap", "relation": "CapableOf", "tails": [" catch fish", " trap fish", " trap animal"]}
+{"head": "sand trap", "relation": "HasProperty", "tails": [" found in beach", " found in ocean", " sand"]}
+{"head": "sand trap", "relation": "MadeUpOf", "tails": [" sand", " sand trap", " sand and water"]}
+{"head": "sand trap", "relation": "NotDesires", "tails": [" sand in eyes", " trap fish in water", " sand in mouth"]}
+{"head": "sand trap", "relation": "Desires", "tails": [" catch fish", " bait trap", " bait"]}
+{"head": "sand", "relation": "ObjectUse", "tails": [" put in a sandbox", " put on the ground", " put in the sand box"]}
+{"head": "sand", "relation": "AtLocation", "tails": [" sand castle", " beach", " sandcastle"]}
+{"head": "sand", "relation": "CapableOf", "tails": [" sand beach", " put on beach", " put in water"]}
+{"head": "sand", "relation": "HasProperty", "tails": [" found in ocean", " sand", " found in beach"]}
+{"head": "sand", "relation": "MadeUpOf", "tails": [" sandpaper", " sand", " sandcastle"]}
+{"head": "sand", "relation": "NotDesires", "tails": [" sandpaper", " sand castles", " sand"]}
+{"head": "sand", "relation": "Desires", "tails": [" sandpaper", " sand castles", " sand castle"]}
+{"head": "putt", "relation": "ObjectUse", "tails": [" putt putt", " put in the hole", " play golf"]}
+{"head": "putt", "relation": "AtLocation", "tails": [" golf course", " golf club", " golf cart"]}
+{"head": "putt", "relation": "CapableOf", "tails": [" put ball in hole", " put ball into hole", " play golf"]}
+{"head": "putt", "relation": "HasProperty", "tails": [" putt", " found in golf course", " putter"]}
+{"head": "putt", "relation": "MadeUpOf", "tails": [" putter", " putt", " golf ball"]}
+{"head": "putt", "relation": "NotDesires", "tails": [" putt in hole", " putt", " putt on"]}
+{"head": "putt", "relation": "Desires", "tails": [" putt", " have fun", " putt on"]}
+{"head": "pay attention", "relation": "HinderedBy", "tails": [" pay attention", " pay attention to", " pay attention to something"]}
+{"head": "pay attention", "relation": "isBefore", "tails": [" pay attention", " learn new things", " pay attention to"]}
+{"head": "pay attention", "relation": "isAfter", "tails": [" learn new things", " listen to teacher", " listen to speaker"]}
+{"head": "pay attention", "relation": "HasSubEvent", "tails": [" pay attention", " learn new things", " pay attention to detail"]}
+{"head": "pay attention", "relation": "Causes", "tails": [" pay attention", " learn new things", " pay attention to"]}
+{"head": "pay attention", "relation": "xReason", "tails": [" pay attention", " learn new things", " pay attention to detail"]}
+{"head": "make putt", "relation": "HinderedBy", "tails": [" putt in hole", " make putt", " putt"]}
+{"head": "make putt", "relation": "isBefore", "tails": [" putt in hole", " putt on hole", " putt down"]}
+{"head": "make putt", "relation": "isAfter", "tails": [" putt in hole", " putt on hole", " putt on"]}
+{"head": "make putt", "relation": "HasSubEvent", "tails": [" put ball in hole", " putt in hole", " putt down"]}
+{"head": "make putt", "relation": "Causes", "tails": [" putt in hole", " putt", " putt down"]}
+{"head": "make putt", "relation": "xReason", "tails": [" putt in hole", " putt on hole", " putt"]}
+{"head": "hit ball", "relation": "HinderedBy", "tails": [" hit ball", " hit ball with bat", " hit with bat"]}
+{"head": "hit ball", "relation": "isBefore", "tails": [" hit ball", " hit ball with bat", " hit with bat"]}
+{"head": "hit ball", "relation": "isAfter", "tails": [" hit ball", " hit ball with bat", " hit batter with bat"]}
+{"head": "hit ball", "relation": "HasSubEvent", "tails": [" hit ball", " hit ball with bat", " hit ball again"]}
+{"head": "hit ball", "relation": "Causes", "tails": [" hit with bat", " hit ball", " hit by ball"]}
+{"head": "hit ball", "relation": "xReason", "tails": [" hit ball", " hit with bat", " hit by ball"]}
+{"head": "green", "relation": "ObjectUse", "tails": [" green vegetables", " green tea", " water plants"]}
+{"head": "green", "relation": "AtLocation", "tails": [" green house", " water", " greenhouses"]}
+{"head": "green", "relation": "CapableOf", "tails": [" water plants", " green leaves", " green grass"]}
+{"head": "green", "relation": "HasProperty", "tails": [" green", " green leaf", " green leaves"]}
+{"head": "green", "relation": "MadeUpOf", "tails": [" green leaf", " green", " green leaves"]}
+{"head": "green", "relation": "NotDesires", "tails": [" green hair", " green eyes", " green grass"]}
+{"head": "green", "relation": "Desires", "tails": [" green hair", " green food", " green vegetables"]}
+{"head": "grass", "relation": "ObjectUse", "tails": [" grow in the garden", " grow in the yard", " grass seed"]}
+{"head": "grass", "relation": "AtLocation", "tails": [" grassy meadow", " grassy field", " grassland"]}
+{"head": "grass", "relation": "CapableOf", "tails": [" grow in garden", " grow in field", " grow on lawn"]}
+{"head": "grass", "relation": "HasProperty", "tails": [" grasses", " grass", " grass seed"]}
+{"head": "grass", "relation": "MadeUpOf", "tails": [" grass seed", " grasses", " grass"]}
+{"head": "grass", "relation": "NotDesires", "tails": [" grasshoppers", " grasshopper", " grass"]}
+{"head": "grass", "relation": "Desires", "tails": [" grasses", " grass seeds", " grassy soil"]}
+{"head": "golf ball", "relation": "ObjectUse", "tails": [" use as a weapon", " play golf with", " throw at someone"]}
+{"head": "golf ball", "relation": "AtLocation", "tails": [" golf bag", " golf club", " golf course"]}
+{"head": "golf ball", "relation": "CapableOf", "tails": [" throw at target", " put in hole", " throw into air"]}
+{"head": "golf ball", "relation": "HasProperty", "tails": [" found in golf course", " found in golf bag", " found in golf cart"]}
+{"head": "golf ball", "relation": "MadeUpOf", "tails": [" golf ball", " golf club", " ball hole"]}
+{"head": "golf ball", "relation": "NotDesires", "tails": [" golf ball", " golf club", " putt on"]}
+{"head": "golf ball", "relation": "Desires", "tails": [" putt in hole", " play golf with", " play golf"]}
+{"head": "golf", "relation": "ObjectUse", "tails": [" have a good time", " have fun", " have fun with friends"]}
+{"head": "golf", "relation": "AtLocation", "tails": [" golf course", " golf club", " golf courses"]}
+{"head": "golf", "relation": "CapableOf", "tails": [" have fun", " play golf", " play with friends"]}
+{"head": "golf", "relation": "HasProperty", "tails": [" played on course", " fun to do", " fun to play"]}
+{"head": "golf", "relation": "MadeUpOf", "tails": [" golf ball", " golf balls", " golf clubs"]}
+{"head": "golf", "relation": "NotDesires", "tails": [" have fun", " play golf", " play golf course"]}
+{"head": "golf", "relation": "Desires", "tails": [" have fun", " have fun with friends", " play with friends"]}
+{"head": "friends", "relation": "ObjectUse", "tails": [" hang out with", " have a good time with", " have a good time"]}
+{"head": "friends", "relation": "AtLocation", "tails": [" friend's house", " friends house", " friends"]}
+{"head": "friends", "relation": "CapableOf", "tails": [" hang out with", " talk to", " talk to each other"]}
+{"head": "friends", "relation": "HasProperty", "tails": [" friends", " good friends", " socializing"]}
+{"head": "friends", "relation": "MadeUpOf", "tails": [" friends", " friendship", " socializing"]}
+{"head": "friends", "relation": "NotDesires", "tails": [" have to talk to", " have fun with", " have to go out with"]}
+{"head": "friends", "relation": "Desires", "tails": [" have a good time", " have a good time with", " have fun with"]}
+{"head": "feet", "relation": "ObjectUse", "tails": [" walk on", " run on", " put on the floor"]}
+{"head": "feet", "relation": "AtLocation", "tails": [" feet", " shoes", " foot"]}
+{"head": "feet", "relation": "CapableOf", "tails": [" walk on", " step on", " run fast"]}
+{"head": "feet", "relation": "HasProperty", "tails": [" feet", " found on feet", " found in feet"]}
+{"head": "feet", "relation": "MadeUpOf", "tails": [" feet", " foot pad", " footpad"]}
+{"head": "feet", "relation": "NotDesires", "tails": [" feet get wet", " walk on", " feet get dirty"]}
+{"head": "feet", "relation": "Desires", "tails": [" feet to walk on", " feet", " walk on"]}
+{"head": "believe him", "relation": "HinderedBy", "tails": [" believe him", " believe in god", " lie to people"]}
+{"head": "believe him", "relation": "isBefore", "tails": [" listen to him", " listen to", " believe him"]}
+{"head": "believe him", "relation": "isAfter", "tails": [" listen to him", " listen to", " believe in god"]}
+{"head": "believe him", "relation": "HasSubEvent", "tails": [" listen to him", " listen to", " believe him"]}
+{"head": "believe him", "relation": "Causes", "tails": [" believe him", " none", " trust him"]}
+{"head": "believe him", "relation": "xReason", "tails": [" none", " believe him", " believe in god"]}
+{"head": "ball", "relation": "ObjectUse", "tails": [" throw at someone", " throw at the target", " throw at the opponent"]}
+{"head": "ball", "relation": "AtLocation", "tails": [" baseball game", " baseball field", " soccer field"]}
+{"head": "ball", "relation": "CapableOf", "tails": [" throw to opponent", " throw at opponent", " throw into air"]}
+{"head": "ball", "relation": "HasProperty", "tails": [" played on field", " played with", " found in ball park"]}
+{"head": "ball", "relation": "MadeUpOf", "tails": [" ball", " ball handle", " ballhead"]}
+{"head": "ball", "relation": "NotDesires", "tails": [" throw at person", " throw at someone", " throw at opponent"]}
+{"head": "ball", "relation": "Desires", "tails": [" throw at person", " throw at someone", " play with"]}
+{"head": "attention", "relation": "ObjectUse", "tails": [" pay attention", " pay attention to", " pay attention to something"]}
+{"head": "attention", "relation": "AtLocation", "tails": [" attention span", " classroom", " attention"]}
+{"head": "attention", "relation": "CapableOf", "tails": [" pay attention", " pay attention to", " pay attention to something"]}
+{"head": "attention", "relation": "HasProperty", "tails": [" attentive", " attention", " important"]}
+{"head": "attention", "relation": "MadeUpOf", "tails": [" attention span", " attention", " pay attention"]}
+{"head": "attention", "relation": "NotDesires", "tails": [" pay attention", " pay attention to", " pay attention to something"]}
+{"head": "attention", "relation": "Desires", "tails": [" pay attention", " pay attention to", " learn new things"]}
+{"head": "The ball bounced on the grass and into the sand trap.", "relation": "xAttr", "tails": [" athletic", " playful", " careless"]}
+{"head": "The ball bounced on the grass and into the sand trap.", "relation": "xWant", "tails": [" to hit the ball again", " to hit the ball", " to throw the ball again"]}
+{"head": "The ball bounced on the grass and into the sand trap.", "relation": "xNeed", "tails": [" to throw the ball", " throw the ball", " to throw the ball."]}
+{"head": "The ball bounced on the grass and into the sand trap.", "relation": "xEffect", "tails": [" the ball hits the sand trap", " the ball hits the sand trap.", " hit the sand trap"]}
+{"head": "The ball bounced on the grass and into the sand trap.", "relation": "HinderedBy", "tails": [" the ball hit the sand trap", " the ball hit the sand trap.", " the ball hit the ground"]}
+{"head": "The ball bounced on the grass and into the sand trap.", "relation": "oWant", "tails": [" to hit the ball", " to throw the ball", " to throw the ball again"]}
+{"head": "The ball bounced on the grass and into the sand trap.", "relation": "xReact", "tails": [" happy", " happy.", " excited"]}
+{"head": "The ball bounced on the grass and into the sand trap.", "relation": "oEffect", "tails": [" the ball hits the sand trap", " the ball is in the sand trap", " the ball hits the sand trap."]}
+{"head": "The ball bounced on the grass and into the sand trap.", "relation": "xIntent", "tails": [" the ball to go into the sand trap", " the ball to be in the sand trap", " the ball to go in the sand trap"]}
+{"head": "The ball bounced on the grass and into the sand trap.", "relation": "oReact", "tails": [" none", " happy", " happy."]}
+{"head": "The ball bounced on the grass and into the sand trap.", "relation": "isBefore", "tails": [" the ball hits the sand trap", " the ball hit the sand trap", " the ball hits the ground"]}
+{"head": "The ball bounced on the grass and into the sand trap.", "relation": "isAfter", "tails": [" the ball hits the sand trap", " the ball to land in the sand trap", " the ball to land in the sand trap."]}
+{"head": "The ball bounced on the grass and into the sand trap.", "relation": "HasSubEvent", "tails": [" hit the ball in the sand trap", " hit the sand trap", " hit the ball"]}
+{"head": "The ball bounced on the grass and into the sand trap.", "relation": "Causes", "tails": [" the ball hits the sand trap", " the ball to go into the sand trap", " the ball to go into the sand trap."]}
+{"head": "The ball bounced on the grass and into the sand trap.", "relation": "xReason", "tails": [" the ball hits the sand trap", " the ball to go into the sand trap", " the ball to go into the sand trap."]}
+{"head": "His friends were not paying attention so they believed him.", "relation": "xAttr", "tails": [" gullible", " stupid", " honest"]}
+{"head": "His friends were not paying attention so they believed him.", "relation": "xWant", "tails": [" to get away from the situation", " to get away from them", " to get away with it"]}
+{"head": "His friends were not paying attention so they believed him.", "relation": "xNeed", "tails": [" his friends to listen to him", " none", " his friends to believe him"]}
+{"head": "His friends were not paying attention so they believed him.", "relation": "xEffect", "tails": [" none", " his friends to ignore him", " his friends to not pay attention"]}
+{"head": "His friends were not paying attention so they believed him.", "relation": "HinderedBy", "tails": [" his friends are not paying attention to him", " his friends were not paying attention to him", " his friends were not paying attention"]}
+{"head": "His friends were not paying attention so they believed him.", "relation": "oWant", "tails": [" none", " to laugh at him", " to ignore him"]}
+{"head": "His friends were not paying attention so they believed him.", "relation": "xReact", "tails": [" good about themselves", " good about themselves.", " good about himself"]}
+{"head": "His friends were not paying attention so they believed him.", "relation": "oEffect", "tails": [" none", " his friends to not pay attention to him", " his friends to listen to him"]}
+{"head": "His friends were not paying attention so they believed him.", "relation": "xIntent", "tails": [" none", " his friends to believe him", " his friends to listen to him"]}
+{"head": "His friends were not paying attention so they believed him.", "relation": "oReact", "tails": [" none", " betrayed", " ignored"]}
+{"head": "His friends were not paying attention so they believed him.", "relation": "isBefore", "tails": [" his friends to listen to him", " his friends to ignore him", " his friends to listen to him."]}
+{"head": "His friends were not paying attention so they believed him.", "relation": "isAfter", "tails": [" his friends to listen to him", " his friends to ignore him", " his friends to not pay attention"]}
+{"head": "His friends were not paying attention so they believed him.", "relation": "HasSubEvent", "tails": [" his friends to listen to him", " his friends to believe him", " his friends to ignore him"]}
+{"head": "His friends were not paying attention so they believed him.", "relation": "Causes", "tails": [" his friends are not paying attention to him", " his friends were not paying attention to him", " his friends were not paying attention"]}
+{"head": "His friends were not paying attention so they believed him.", "relation": "xReason", "tails": [" his friends are not paying attention to him", " his friends were not paying attention to him", " his friends were not paying attention"]}
+{"head": "Dan snuck a ball on the green and made his putt from 10 feet.", "relation": "xAttr", "tails": [" sneaky", " athletic", " skilled"]}
+{"head": "Dan snuck a ball on the green and made his putt from 10 feet.", "relation": "xWant", "tails": [" put the ball in the hole", " to win the tournament", " to win the game"]}
+{"head": "Dan snuck a ball on the green and made his putt from 10 feet.", "relation": "xNeed", "tails": [" to hit the ball", " to be playing golf", " to have a ball"]}
+{"head": "Dan snuck a ball on the green and made his putt from 10 feet.", "relation": "xEffect", "tails": [" wins the tournament", " they win the game", " wins the game"]}
+{"head": "Dan snuck a ball on the green and made his putt from 10 feet.", "relation": "HinderedBy", "tails": [" Dan is not a golfer.", " The ball is too heavy.", " The ball is too heavy to move."]}
+{"head": "Dan snuck a ball on the green and made his putt from 10 feet.", "relation": "oWant", "tails": [" to win the game", " to win the tournament", " to win the golf tournament"]}
+{"head": "Dan snuck a ball on the green and made his putt from 10 feet.", "relation": "xReact", "tails": [" happy", " proud", " accomplished"]}
+{"head": "Dan snuck a ball on the green and made his putt from 10 feet.", "relation": "oEffect", "tails": [" none", " hit the ball", " putt in hole"]}
+{"head": "Dan snuck a ball on the green and made his putt from 10 feet.", "relation": "xIntent", "tails": [" to win the game", " to win the golf tournament", " to win the tournament"]}
+{"head": "Dan snuck a ball on the green and made his putt from 10 feet.", "relation": "oReact", "tails": [" none", " happy", " putt"]}
+{"head": "Dan snuck a ball on the green and made his putt from 10 feet.", "relation": "isBefore", "tails": [" Dan wins the golf tournament", " Dan wins the tournament", " Dan wins the golf tournament."]}
+{"head": "Dan snuck a ball on the green and made his putt from 10 feet.", "relation": "isAfter", "tails": [" hit the ball", " putt in", " putt in hole"]}
+{"head": "Dan snuck a ball on the green and made his putt from 10 feet.", "relation": "HasSubEvent", "tails": [" hit the ball", " putt on the green", " putt in hole"]}
+{"head": "Dan snuck a ball on the green and made his putt from 10 feet.", "relation": "Causes", "tails": [" happy", " proud", " good"]}
+{"head": "Dan snuck a ball on the green and made his putt from 10 feet.", "relation": "xReason", "tails": [" put the ball in the hole", " put the ball in the hole.", " putt on the green"]}
+{"head": "Dan pretended that his ball actually landed on the green.", "relation": "xAttr", "tails": [" silly", " athletic", " playful"]}
+{"head": "Dan pretended that his ball actually landed on the green.", "relation": "xWant", "tails": [" to win the game", " to play a game", " to get a trophy"]}
+{"head": "Dan pretended that his ball actually landed on the green.", "relation": "xNeed", "tails": [" to hit the ball", " to have a ball", " to hit the ball."]}
+{"head": "Dan pretended that his ball actually landed on the green.", "relation": "xEffect", "tails": [" gets yelled at", " none", " gets a medal"]}
+{"head": "Dan pretended that his ball actually landed on the green.", "relation": "HinderedBy", "tails": [" The ball is too far away.", " The ball is too heavy.", " Dan is not a golfer."]}
+{"head": "Dan pretended that his ball actually landed on the green.", "relation": "oWant", "tails": [" none", " to laugh at him", " to play the game"]}
+{"head": "Dan pretended that his ball actually landed on the green.", "relation": "xReact", "tails": [" happy", " good about themselves", " happy to have won"]}
+{"head": "Dan pretended that his ball actually landed on the green.", "relation": "oEffect", "tails": [" none", " they get to play golf again", " they get to play again"]}
+{"head": "Dan pretended that his ball actually landed on the green.", "relation": "xIntent", "tails": [" none", " to make a joke", " to be funny"]}
+{"head": "Dan pretended that his ball actually landed on the green.", "relation": "oReact", "tails": [" none", " happy", " happy."]}
+{"head": "Dan pretended that his ball actually landed on the green.", "relation": "isBefore", "tails": [" Dan throws the ball in the air", " Dan throws the ball in the air.", " Dan throws the ball into the water"]}
+{"head": "Dan pretended that his ball actually landed on the green.", "relation": "isAfter", "tails": [" Dan hits the ball on the green", " Dan hits the ball into the hole", " Dan hits the golf ball on the green"]}
+{"head": "Dan pretended that his ball actually landed on the green.", "relation": "HasSubEvent", "tails": [" hit the ball", " hit ball", " hit the ball again"]}
+{"head": "Dan pretended that his ball actually landed on the green.", "relation": "Causes", "tails": [" The ball landed on the ground.", " The ball landed on the green.", " The ball is too heavy."]}
+{"head": "Dan pretended that his ball actually landed on the green.", "relation": "xReason", "tails": [" Dan's ball landed on the green.", " Dan's ball landed on the golf course.", " Dan's ball landed on the green"]}
+{"head": "Dan hit his golf ball and watched it go.", "relation": "xAttr", "tails": [" athletic", " relaxed", " curious"]}
+{"head": "Dan hit his golf ball and watched it go.", "relation": "xWant", "tails": [" to hit the ball again", " to take a nap", " to hit the ball"]}
+{"head": "Dan hit his golf ball and watched it go.", "relation": "xNeed", "tails": [" to hit the ball", " hit the ball", " to hit the golf ball"]}
+{"head": "Dan hit his golf ball and watched it go.", "relation": "xEffect", "tails": [" hit the ball", " hit the golf ball", " hit the ball again"]}
+{"head": "Dan hit his golf ball and watched it go.", "relation": "HinderedBy", "tails": [" The ball is too heavy.", " The ball is too far away.", " The ball is too heavy to swing."]}
+{"head": "Dan hit his golf ball and watched it go.", "relation": "oWant", "tails": [" none", " to hit the ball back", " to hit the ball again"]}
+{"head": "Dan hit his golf ball and watched it go.", "relation": "xReact", "tails": [" happy", " relaxed", " happy."]}
+{"head": "Dan hit his golf ball and watched it go.", "relation": "oEffect", "tails": [" none", " hit the ball", " hit golf ball"]}
+{"head": "Dan hit his golf ball and watched it go.", "relation": "xIntent", "tails": [" none", " to be entertained", " to play golf"]}
+{"head": "Dan hit his golf ball and watched it go.", "relation": "oReact", "tails": [" none", " happy", " happy."]}
+{"head": "Dan hit his golf ball and watched it go.", "relation": "isBefore", "tails": [" PersonX hits the ball back to PersonX.", " Dan hits the golf ball into the water", " PersonX hits the ball back to PersonX"]}
+{"head": "Dan hit his golf ball and watched it go.", "relation": "isAfter", "tails": [" PersonX hits the golf ball.", " PersonX hits the ball.", " PersonX hits the golf ball"]}
+{"head": "Dan hit his golf ball and watched it go.", "relation": "HasSubEvent", "tails": [" hit the ball", " hit golf ball", " hit the ball again"]}
+{"head": "Dan hit his golf ball and watched it go.", "relation": "Causes", "tails": [" Dan is a golfer.", " Dan's golf ball went over the green.", " Dan's golf ball went over the fence."]}
+{"head": "Dan hit his golf ball and watched it go.", "relation": "xReason", "tails": [" Dan hits the golf ball and watches it go.", " Dan hits the golf ball", " Dan hits the golf ball into the water."]}
+{"head": "Dan", "relation": "ObjectUse", "tails": [" Dan is a good friend of mine.", " Dan is a good friend of Dan's.", " Dan is a good friend of Dan's wife."]}
+{"head": "Dan", "relation": "AtLocation", "tails": [" house", " car", " home"]}
+{"head": "Dan", "relation": "CapableOf", "tails": [" hang out with friends", " hang out with Dan", " hang out with"]}
+{"head": "Dan", "relation": "HasProperty", "tails": [" Dan is a friend of Dan's.", " Dan is a friend of Dan's wife.", " Dan is the name of the dog."]}
+{"head": "Dan", "relation": "MadeUpOf", "tails": [" Dan's car broke down.", " Dan's car breaks down.", " Dan's car breaks down"]}
+{"head": "Dan", "relation": "NotDesires", "tails": [" Dan's wife will not let him out of the house.", " Dan's wife will not let him out of her sight.", " Dan's wife will not let him out of the house"]}
+{"head": "Dan", "relation": "Desires", "tails": [" Dan is a good person.", " none", " Dan is a good friend of mine"]}
+{"head": "10 feet", "relation": "ObjectUse", "tails": [" reach the top of the mountain", " reach the top of a mountain", " reach the top of a tree"]}
+{"head": "10 feet", "relation": "AtLocation", "tails": [" feet", " footbridge", " footpath"]}
+{"head": "10 feet", "relation": "CapableOf", "tails": [" walk on", " walk on the ground", " walk on floor"]}
+{"head": "10 feet", "relation": "HasProperty", "tails": [" 10 feet", " feet", " ten feet"]}
+{"head": "10 feet", "relation": "MadeUpOf", "tails": [" feet", " 10 feet", " 10 feet long"]}
+{"head": "10 feet", "relation": "NotDesires", "tails": [" feet", " walk on", " walk across"]}
+{"head": "10 feet", "relation": "Desires", "tails": [" reach the top of the mountain", " reach the top of a mountain", " reach the top of the tree"]}

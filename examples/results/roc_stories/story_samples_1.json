@@ -1,0 +1,165 @@
+{"head": "to understand", "relation": "HinderedBy", "tails": [" to understand", " to understand ", " to understand something"]}
+{"head": "to understand", "relation": "isBefore", "tails": [" to understand", " to understand what is going on", " to understand the situation"]}
+{"head": "to understand", "relation": "isAfter", "tails": [" to understand", " to understand the situation", " to be understood"]}
+{"head": "to understand", "relation": "HasSubEvent", "tails": [" to understand", " to understand  understand", " to understand "]}
+{"head": "to understand", "relation": "Causes", "tails": [" to understand", " understand", " to understand "]}
+{"head": "to understand", "relation": "xReason", "tails": [" to understand", " understand", " to understand something"]}
+{"head": "to tell", "relation": "HinderedBy", "tails": [" to tell", " to tell ", " to tell  to tell "]}
+{"head": "to tell", "relation": "isBefore", "tails": [" to tell", " to tell the truth", " to tell "]}
+{"head": "to tell", "relation": "isAfter", "tails": [" to tell the truth", " to tell", " to be heard"]}
+{"head": "to tell", "relation": "HasSubEvent", "tails": [" to tell", " to tell ", " to tell  tell "]}
+{"head": "to tell", "relation": "Causes", "tails": [" to tell", " to tell  to  tell ", " to tell  to  tell  "]}
+{"head": "to tell", "relation": "xReason", "tails": [" to tell", " to be honest", " none"]}
+{"head": "to make", "relation": "HinderedBy", "tails": [" to make ", " to make", " to make  to make "]}
+{"head": "to make", "relation": "isBefore", "tails": [" to make", " to make a cake", " to make something"]}
+{"head": "to make", "relation": "isAfter", "tails": [" to make a cake", " to make", " to make something"]}
+{"head": "to make", "relation": "HasSubEvent", "tails": [" to make", " to make ", " to make something"]}
+{"head": "to make", "relation": "Causes", "tails": [" to make", " to make ", " to make something"]}
+{"head": "to make", "relation": "xReason", "tails": [" to make", " to make something", " to make  food"]}
+{"head": "to get", "relation": "HinderedBy", "tails": [" to get ", " to get", " to get  to get "]}
+{"head": "to get", "relation": "isBefore", "tails": [" to get", " to get ", " to get  to get "]}
+{"head": "to get", "relation": "isAfter", "tails": [" to get", " to get something", " to get "]}
+{"head": "to get", "relation": "HasSubEvent", "tails": [" to get", " to get ", " to get  to get"]}
+{"head": "to get", "relation": "Causes", "tails": [" to get", " to get  to get ", " to get "]}
+{"head": "to get", "relation": "xReason", "tails": [" to get", " to get something", " to get "]}
+{"head": "to decide", "relation": "HinderedBy", "tails": [" to decide", " to decide ", " to decide  to decide "]}
+{"head": "to decide", "relation": "isBefore", "tails": [" to decide", " to decide what to do", " to decide  what to do"]}
+{"head": "to decide", "relation": "isAfter", "tails": [" to make a decision", " to make a choice", " to make decision"]}
+{"head": "to decide", "relation": "HasSubEvent", "tails": [" to decide", " to decide ", " make decision"]}
+{"head": "to decide", "relation": "Causes", "tails": [" to decide", " have to make decision", " have to make a decision"]}
+{"head": "to decide", "relation": "xReason", "tails": [" to decide", " have to make decision", " have to make a decision"]}
+{"head": "tell parents", "relation": "HinderedBy", "tails": [" parents will not listen to them", " parents will not listen to them.", " tell parents"]}
+{"head": "tell parents", "relation": "isBefore", "tails": [" tell parents what to do", " tell parents what they think", " tell parents what to do next"]}
+{"head": "tell parents", "relation": "isAfter", "tails": [" parents to know what's going on", " parents to know what is going on", " parents to be informed"]}
+{"head": "tell parents", "relation": "HasSubEvent", "tails": [" talk to parents", " talk to", " talk to kids"]}
+{"head": "tell parents", "relation": "Causes", "tails": [" parents to know what's going on", " parents to know what is going on", " parents to be informed"]}
+{"head": "tell parents", "relation": "xReason", "tails": [" parents to be informed", " have to tell parents", " parents to know"]}
+{"head": "parents", "relation": "ObjectUse", "tails": [" have a relationship with", " give birth to child", " have a child"]}
+{"head": "parents", "relation": "AtLocation", "tails": [" parents house", " parents home", " children"]}
+{"head": "parents", "relation": "CapableOf", "tails": [" parent children", " parents to children", " have children"]}
+{"head": "parents", "relation": "HasProperty", "tails": [" parents", " parents and children", " parents children"]}
+{"head": "parents", "relation": "MadeUpOf", "tails": [" parents", " parents and children", " children"]}
+{"head": "parents", "relation": "NotDesires", "tails": [" parents to go to jail", " parents to die", " parents to go to prison"]}
+{"head": "parents", "relation": "Desires", "tails": [" parents to raise children", " parents to be happy", " parents to raise"]}
+{"head": "make change", "relation": "HinderedBy", "tails": [" make change", " make money", " make a change"]}
+{"head": "make change", "relation": "isBefore", "tails": [" pay for item", " pay for the item", " pay for items"]}
+{"head": "make change", "relation": "isAfter", "tails": [" pay for item", " pay for the item", " pay for items"]}
+{"head": "make change", "relation": "HasSubEvent", "tails": [" make change", " pay for item", " pay for the change"]}
+{"head": "make change", "relation": "Causes", "tails": [" make change", " make money", " pay for things"]}
+{"head": "make change", "relation": "xReason", "tails": [" make change", " make money", " pay for things"]}
+{"head": "get themselves", "relation": "HinderedBy", "tails": [" get a job", " get out of debt", " get a new job"]}
+{"head": "get themselves", "relation": "isBefore", "tails": [" get a job", " get out of debt", " get a new job"]}
+{"head": "get themselves", "relation": "isAfter", "tails": [" get a job", " get out of debt", " get a new job"]}
+{"head": "get themselves", "relation": "HasSubEvent", "tails": [" get out of trouble", " get a job", " get out of house"]}
+{"head": "get themselves", "relation": "Causes", "tails": [" get out of debt", " get out of trouble", " get a job"]}
+{"head": "get themselves", "relation": "xReason", "tails": [" get out of trouble", " get out of debt", " get a job"]}
+{"head": "doctors", "relation": "ObjectUse", "tails": [" help with a disease", " help people with cancer", " help people with their illness"]}
+{"head": "doctors", "relation": "AtLocation", "tails": [" doctor's office", " medicine chest", " hospital"]}
+{"head": "doctors", "relation": "CapableOf", "tails": [" see patients", " help patients", " help with illness"]}
+{"head": "doctors", "relation": "HasProperty", "tails": [" doctors", " medicine", " medical school"]}
+{"head": "doctors", "relation": "MadeUpOf", "tails": [" medicine chest", " doctor's office", " medicine"]}
+{"head": "doctors", "relation": "NotDesires", "tails": [" see patients", " medicine", " see doctor"]}
+{"head": "doctors", "relation": "Desires", "tails": [" help with illness", " help patients", " help with disease"]}
+{"head": "diet", "relation": "ObjectUse", "tails": [" lose weight", " eat less", " eat healthy foods"]}
+{"head": "diet", "relation": "AtLocation", "tails": [" diet book", " weight loss program", " weight watcher"]}
+{"head": "diet", "relation": "CapableOf", "tails": [" lose weight", " eat less", " eat less food"]}
+{"head": "diet", "relation": "HasProperty", "tails": [" lost weight", " diet", " fat"]}
+{"head": "diet", "relation": "MadeUpOf", "tails": [" food", " diet", " fat"]}
+{"head": "diet", "relation": "NotDesires", "tails": [" lose weight", " eat less", " eat less food"]}
+{"head": "diet", "relation": "Desires", "tails": [" lose weight", " eat less junk food", " eat healthy foods"]}
+{"head": "change", "relation": "ObjectUse", "tails": [" give to the cashier", " give to a friend", " give to the homeless"]}
+{"head": "change", "relation": "AtLocation", "tails": [" wallet", " pocket", " bank account"]}
+{"head": "change", "relation": "CapableOf", "tails": [" pay for item", " make change", " pay for the item"]}
+{"head": "change", "relation": "HasProperty", "tails": [" made from one thing to another", " found in bank", " made from one thing and one thing"]}
+{"head": "change", "relation": "MadeUpOf", "tails": [" change", " change rate", " change of direction"]}
+{"head": "change", "relation": "NotDesires", "tails": [" lose money", " lose money in bank", " change to other things"]}
+{"head": "change", "relation": "Desires", "tails": [" make money", " change the world", " change"]}
+{"head": "They got themselves and Dan on a diet.", "relation": "xAttr", "tails": [" healthy", " hungry", " determined"]}
+{"head": "They got themselves and Dan on a diet.", "relation": "xWant", "tails": [" to lose weight", " to eat less", " to lose weight."]}
+{"head": "They got themselves and Dan on a diet.", "relation": "xNeed", "tails": [" to make a diet plan", " to make a plan", " eat less"]}
+{"head": "They got themselves and Dan on a diet.", "relation": "xEffect", "tails": [" they lose weight", " they lose a lot of weight", " They lose weight."]}
+{"head": "They got themselves and Dan on a diet.", "relation": "HinderedBy", "tails": [" they have to lose weight", " they have to lose weight.", " they have to eat less"]}
+{"head": "They got themselves and Dan on a diet.", "relation": "oWant", "tails": [" to lose weight", " to eat less", " to eat healthy"]}
+{"head": "They got themselves and Dan on a diet.", "relation": "xReact", "tails": [" they are healthier", " healthy", " they feel better"]}
+{"head": "They got themselves and Dan on a diet.", "relation": "oEffect", "tails": [" they lose weight", " none", " eat less"]}
+{"head": "They got themselves and Dan on a diet.", "relation": "xIntent", "tails": [" to lose weight", " they want to lose weight", " they want to be healthy"]}
+{"head": "They got themselves and Dan on a diet.", "relation": "oReact", "tails": [" none", " they are healthier", " they are healthy"]}
+{"head": "They got themselves and Dan on a diet.", "relation": "isBefore", "tails": [" they lose weight", " they eat less", " eat less"]}
+{"head": "They got themselves and Dan on a diet.", "relation": "isAfter", "tails": [" they lose weight", " PersonY is a dieter.", " PersonX is a dieter."]}
+{"head": "They got themselves and Dan on a diet.", "relation": "HasSubEvent", "tails": [" they lose weight", " eat less", " they lose weight."]}
+{"head": "They got themselves and Dan on a diet.", "relation": "Causes", "tails": [" they lose weight", " they lost weight", " they are healthier"]}
+{"head": "They got themselves and Dan on a diet.", "relation": "xReason", "tails": [" they lose weight", " they lose a lot of weight", " they lost weight"]}
+{"head": "The doctors told his parents it was unhealthy.", "relation": "xAttr", "tails": [" unhealthy", " sick", " sickly"]}
+{"head": "The doctors told his parents it was unhealthy.", "relation": "xWant", "tails": [" to make sure their son is healthy", " to make sure they are healthy", " to get a doctor's note"]}
+{"head": "The doctors told his parents it was unhealthy.", "relation": "xNeed", "tails": [" to go to the doctor", " to go to the doctor.", " to go to the hospital"]}
+{"head": "The doctors told his parents it was unhealthy.", "relation": "xEffect", "tails": [" the child to be healthy", " the child to be healthy.", " the child to get better"]}
+{"head": "The doctors told his parents it was unhealthy.", "relation": "HinderedBy", "tails": [" the doctor told the parents to stop smoking", " the doctor told the parents to stop smoking.", " the doctor told them to stop eating the food"]}
+{"head": "The doctors told his parents it was unhealthy.", "relation": "oWant", "tails": [" to make sure the child is healthy", " to make sure they are healthy", " to make sure the child is okay"]}
+{"head": "The doctors told his parents it was unhealthy.", "relation": "xReact", "tails": [" worried", " sick", " scared"]}
+{"head": "The doctors told his parents it was unhealthy.", "relation": "oEffect", "tails": [" none", " the child to be healthy", " the child to get better"]}
+{"head": "The doctors told his parents it was unhealthy.", "relation": "xIntent", "tails": [" the child to be healthy", " none", " the child to be healthy."]}
+{"head": "The doctors told his parents it was unhealthy.", "relation": "oReact", "tails": [" none", " worried", " scared"]}
+{"head": "The doctors told his parents it was unhealthy.", "relation": "isBefore", "tails": [" the child to be healthy", " the child to get better", " the child to eat healthy"]}
+{"head": "The doctors told his parents it was unhealthy.", "relation": "isAfter", "tails": [" the child to be healthy", " the child to get better", " the child to be healthy."]}
+{"head": "The doctors told his parents it was unhealthy.", "relation": "HasSubEvent", "tails": [" the child to be healthy", " the child to be healthy.", " the child to eat healthy"]}
+{"head": "The doctors told his parents it was unhealthy.", "relation": "Causes", "tails": [" the child to be healthy", " the child to get better", " the child to be healthy."]}
+{"head": "The doctors told his parents it was unhealthy.", "relation": "xReason", "tails": [" the child to be healthy", " the child to stop eating", " the child to be healthy."]}
+{"head": "His parents understood and decided to make a change.", "relation": "xAttr", "tails": [" responsible", " understanding", " happy"]}
+{"head": "His parents understood and decided to make a change.", "relation": "xWant", "tails": [" to make a change in their own life", " to make a change in their life", " to make a change"]}
+{"head": "His parents understood and decided to make a change.", "relation": "xNeed", "tails": [" to talk to their parents", " to talk to his parents", " to talk to them about it"]}
+{"head": "His parents understood and decided to make a change.", "relation": "xEffect", "tails": [" his life will be better", " gets a new job", " his life will be easier"]}
+{"head": "His parents understood and decided to make a change.", "relation": "HinderedBy", "tails": [" his parents to be happy", " his parents to be happy.", " his parents to be happy with him"]}
+{"head": "His parents understood and decided to make a change.", "relation": "oWant", "tails": [" to help him", " to help him succeed", " to make a change"]}
+{"head": "His parents understood and decided to make a change.", "relation": "xReact", "tails": [" happy", " good", " relieved"]}
+{"head": "His parents understood and decided to make a change.", "relation": "oEffect", "tails": [" none", " his parents to be happy", " his parents are happy"]}
+{"head": "His parents understood and decided to make a change.", "relation": "xIntent", "tails": [" his parents to be happy", " his parents to be happy.", " his parents to be happy with him"]}
+{"head": "His parents understood and decided to make a change.", "relation": "oReact", "tails": [" none", " happy", " happy."]}
+{"head": "His parents understood and decided to make a change.", "relation": "isBefore", "tails": [" his parents to be happy", " his life to be better", " his parents are happy"]}
+{"head": "His parents understood and decided to make a change.", "relation": "isAfter", "tails": [" his parents to make a change", " his parents to be happy", " his parents are happy"]}
+{"head": "His parents understood and decided to make a change.", "relation": "HasSubEvent", "tails": [" get a new job", " his parents to be happy", " his parents to be happy."]}
+{"head": "His parents understood and decided to make a change.", "relation": "Causes", "tails": [" his parents to be happy", " his parents are happy", " his parents to be happy."]}
+{"head": "His parents understood and decided to make a change.", "relation": "xReason", "tails": [" his parents to be happy", " his life to be better", " his parents to be happy."]}
+{"head": "Dan's parents were overweight.", "relation": "xAttr", "tails": [" unhealthy", " overweight", " obese"]}
+{"head": "Dan's parents were overweight.", "relation": "xWant", "tails": [" to eat less", " to eat healthy", " to eat healthier"]}
+{"head": "Dan's parents were overweight.", "relation": "xNeed", "tails": [" none", " to eat a lot", " to eat too much"]}
+{"head": "Dan's parents were overweight.", "relation": "xEffect", "tails": [" none", " gets fat", " they get fat"]}
+{"head": "Dan's parents were overweight.", "relation": "HinderedBy", "tails": [" Dan's parents are not overweight.", " Dan's parents are too skinny.", " Dan's parents are too fat."]}
+{"head": "Dan's parents were overweight.", "relation": "oWant", "tails": [" none", " to eat less", " to eat healthy"]}
+{"head": "Dan's parents were overweight.", "relation": "xReact", "tails": [" sad", " ashamed", " unhealthy"]}
+{"head": "Dan's parents were overweight.", "relation": "oEffect", "tails": [" none", " parents are overweight", " parents are obese"]}
+{"head": "Dan's parents were overweight.", "relation": "xIntent", "tails": [" none", " to be healthy", " to be healthy."]}
+{"head": "Dan's parents were overweight.", "relation": "oReact", "tails": [" none", " sad", " sad."]}
+{"head": "Dan's parents were overweight.", "relation": "isBefore", "tails": [" none", " Dan's parents are overweight", " Dan's parents are obese"]}
+{"head": "Dan's parents were overweight.", "relation": "isAfter", "tails": [" none", " Dan's parents are overweight", " Dan's parents are obese"]}
+{"head": "Dan's parents were overweight.", "relation": "HasSubEvent", "tails": [" eat too much", " none", " eat less"]}
+{"head": "Dan's parents were overweight.", "relation": "Causes", "tails": [" Dan's parents are obese.", " Dan's parents are overweight.", " Dan's parents are too fat."]}
+{"head": "Dan's parents were overweight.", "relation": "xReason", "tails": [" none", " Dan's parents are obese.", " Dan's parents are overweight."]}
+{"head": "Dan was overweight as well.", "relation": "xAttr", "tails": [" overweight", " fat", " unhealthy"]}
+{"head": "Dan was overweight as well.", "relation": "xWant", "tails": [" to lose weight", " to eat less", " to lose weight."]}
+{"head": "Dan was overweight as well.", "relation": "xNeed", "tails": [" none", " to eat too much", " to eat a lot"]}
+{"head": "Dan was overweight as well.", "relation": "xEffect", "tails": [" none", " gets fat", " is overweight"]}
+{"head": "Dan was overweight as well.", "relation": "HinderedBy", "tails": [" Dan is too skinny.", " Dan is too fat.", " Dan is too fat to exercise."]}
+{"head": "Dan was overweight as well.", "relation": "oWant", "tails": [" none", " to get rid of him", " to get rid of the weight"]}
+{"head": "Dan was overweight as well.", "relation": "xReact", "tails": [" sad", " ashamed", " unhealthy"]}
+{"head": "Dan was overweight as well.", "relation": "oEffect", "tails": [" none", " they have to go to the doctor", " they have to go to the gym"]}
+{"head": "Dan was overweight as well.", "relation": "xIntent", "tails": [" none", " to lose weight", " to be healthy"]}
+{"head": "Dan was overweight as well.", "relation": "oReact", "tails": [" none", " like they need to lose weight", " like they need to lose weight."]}
+{"head": "Dan was overweight as well.", "relation": "isBefore", "tails": [" PersonX eats a lot of junk food.", " PersonX eats a lot of junk food", " PersonX eats a lot of food."]}
+{"head": "Dan was overweight as well.", "relation": "isAfter", "tails": [" Dan is overweight", " none", " PersonX is overweight"]}
+{"head": "Dan was overweight as well.", "relation": "HasSubEvent", "tails": [" eat too much", " get a new job", " none"]}
+{"head": "Dan was overweight as well.", "relation": "Causes", "tails": [" Dan is too fat to be overweight.", " Dan is too fat.", " Dan is too fat to exercise."]}
+{"head": "Dan was overweight as well.", "relation": "xReason", "tails": [" none", " Dan is overweight.", " Dan is overweight"]}
+{"head": "Dan parents", "relation": "ObjectUse", "tails": [" have a good relationship with", " have a relationship with", " have a good relationship with parents"]}
+{"head": "Dan parents", "relation": "AtLocation", "tails": [" parents house", " parents home", " family home"]}
+{"head": "Dan parents", "relation": "CapableOf", "tails": [" have a good relationship with Dan's parents", " have a good relationship with Dan", " have a good relationship with parents"]}
+{"head": "Dan parents", "relation": "HasProperty", "tails": [" parents", " parents of Dan", " none"]}
+{"head": "Dan parents", "relation": "MadeUpOf", "tails": [" parents", " family tree", " parents' name"]}
+{"head": "Dan parents", "relation": "NotDesires", "tails": [" parents to die", " none", " parents to be unhappy"]}
+{"head": "Dan parents", "relation": "Desires", "tails": [" none", " parents to be happy", " parents to raise their children"]}
+{"head": "Dan", "relation": "ObjectUse", "tails": [" Dan is a good friend of mine.", " Dan is a good friend of Dan's.", " Dan is a good friend of Dan's wife."]}
+{"head": "Dan", "relation": "AtLocation", "tails": [" house", " car", " home"]}
+{"head": "Dan", "relation": "CapableOf", "tails": [" hang out with friends", " hang out with Dan", " hang out with"]}
+{"head": "Dan", "relation": "HasProperty", "tails": [" Dan is a friend of Dan's.", " Dan is a friend of Dan's wife.", " Dan is the name of the dog."]}
+{"head": "Dan", "relation": "MadeUpOf", "tails": [" Dan's car broke down.", " Dan's car breaks down.", " Dan's car breaks down"]}
+{"head": "Dan", "relation": "NotDesires", "tails": [" Dan's wife will not let him out of the house.", " Dan's wife will not let him out of her sight.", " Dan's wife will not let him out of the house"]}
+{"head": "Dan", "relation": "Desires", "tails": [" Dan is a good person.", " none", " Dan is a good friend of mine"]}

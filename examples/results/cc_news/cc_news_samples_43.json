@@ -1,0 +1,341 @@
+{"head": "tour", "relation": "ObjectUse", "tails": [" go on", " get to know someone", " get to know the area"]}
+{"head": "tour", "relation": "AtLocation", "tails": [" museum", " park", " tour guide"]}
+{"head": "tour", "relation": "CapableOf", "tails": [" learn about city", " learn about place", " learn about area"]}
+{"head": "tour", "relation": "HasProperty", "tails": [" found in museum", " found in museums", " good for learning"]}
+{"head": "tour", "relation": "MadeUpOf", "tails": [" tour guide", " tour group", " tour"]}
+{"head": "tour", "relation": "NotDesires", "tails": [" get lost", " have to pay for", " get lost in woods"]}
+{"head": "tour", "relation": "Desires", "tails": [" get to know new places", " get to know new place", " get to know new people"]}
+{"head": "to work", "relation": "HinderedBy", "tails": [" to work", " to work ", " to work  to work"]}
+{"head": "to work", "relation": "isBefore", "tails": [" go to office", " go to work", " to work"]}
+{"head": "to work", "relation": "isAfter", "tails": [" go to office", " go to work", " drive to work"]}
+{"head": "to work", "relation": "HasSubEvent", "tails": [" go to office", " go to work", " to work"]}
+{"head": "to work", "relation": "Causes", "tails": [" get paid", " get paid for work", " have to do"]}
+{"head": "to work", "relation": "xReason", "tails": [" get paid", " get paid for work", " have to do"]}
+{"head": "to start", "relation": "HinderedBy", "tails": [" to start", " to start ", " to start something"]}
+{"head": "to start", "relation": "isBefore", "tails": [" to start", " to start ", " to start the game"]}
+{"head": "to start", "relation": "isAfter", "tails": [" to start", " to get started", " to start the game"]}
+{"head": "to start", "relation": "HasSubEvent", "tails": [" to start", " get ready", " to start "]}
+{"head": "to start", "relation": "Causes", "tails": [" to start", " to start ", " to start something"]}
+{"head": "to start", "relation": "xReason", "tails": [" to start", " to start something", " get started"]}
+{"head": "to release", "relation": "HinderedBy", "tails": [" to release", " to release ", " to release  to release "]}
+{"head": "to release", "relation": "isBefore", "tails": [" to release", " to release ", " to release the prisoner"]}
+{"head": "to release", "relation": "isAfter", "tails": [" to be free", " to be released", " to release"]}
+{"head": "to release", "relation": "HasSubEvent", "tails": [" to release", " to release  release ", " to release "]}
+{"head": "to release", "relation": "Causes", "tails": [" to release", " to release ", " to be free"]}
+{"head": "to release", "relation": "xReason", "tails": [" to release", " to be free", " to be released"]}
+{"head": "to read", "relation": "HinderedBy", "tails": [" to read", " learn to read", " to read "]}
+{"head": "to read", "relation": "isBefore", "tails": [" to read", " to read a book", " to read book"]}
+{"head": "to read", "relation": "isAfter", "tails": [" learn to read", " to learn to read", " to read"]}
+{"head": "to read", "relation": "HasSubEvent", "tails": [" learn to read", " to read", " learn new words"]}
+{"head": "to read", "relation": "Causes", "tails": [" learn to read", " to read", " read book"]}
+{"head": "to read", "relation": "xReason", "tails": [" to read", " learn new things", " read book"]}
+{"head": "to permit", "relation": "HinderedBy", "tails": [" to permit", " to permit  to permit ", " to permit  to permit"]}
+{"head": "to permit", "relation": "isBefore", "tails": [" to permit", " to permit  to permit", " to permit  to permit "]}
+{"head": "to permit", "relation": "isAfter", "tails": [" to permit", " get a license", " get a permit"]}
+{"head": "to permit", "relation": "HasSubEvent", "tails": [" to permit", " to permit  permit  permit", " to permit  permit  to permit"]}
+{"head": "to permit", "relation": "Causes", "tails": [" to permit", " to permit  to permit", " to permit  to permit "]}
+{"head": "to permit", "relation": "xReason", "tails": [" to permit", " to permit  to permit", " to permit  to permit "]}
+{"head": "to kick", "relation": "HinderedBy", "tails": [" to kick", " to kick ", " to kick  to kick "]}
+{"head": "to kick", "relation": "isBefore", "tails": [" to kick", " to kick the ball", " to kick ball"]}
+{"head": "to kick", "relation": "isAfter", "tails": [" kick ball", " to kick", " to kick ball"]}
+{"head": "to kick", "relation": "HasSubEvent", "tails": [" to kick", " to kick  kick  kick  kick  kick  kick  kick  kick  kick", " to kick  kick  kick  kick  kick  kick  kick  kick"]}
+{"head": "to kick", "relation": "Causes", "tails": [" to kick", " to kick ball", " to kick  kick "]}
+{"head": "to kick", "relation": "xReason", "tails": [" to kick", " to kick ball", " to kick someone"]}
+{"head": "to interview", "relation": "HinderedBy", "tails": [" to interview", " to interview ", " get a job"]}
+{"head": "to interview", "relation": "isBefore", "tails": [" to interview for a job", " to interview", " to interview for a new job"]}
+{"head": "to interview", "relation": "isAfter", "tails": [" interviewers", " get job", " interview"]}
+{"head": "to interview", "relation": "HasSubEvent", "tails": [" to interview", " interview for job", " to interview for job"]}
+{"head": "to interview", "relation": "Causes", "tails": [" get job", " interviewers", " have to interview"]}
+{"head": "to interview", "relation": "xReason", "tails": [" interview for job", " get job", " interview for a job"]}
+{"head": "to go", "relation": "HinderedBy", "tails": [" to go", " to go ", " to go  to"]}
+{"head": "to go", "relation": "isBefore", "tails": [" to go", " get in car", " to go somewhere"]}
+{"head": "to go", "relation": "isAfter", "tails": [" get in the car", " get in car", " to go to the bathroom"]}
+{"head": "to go", "relation": "HasSubEvent", "tails": [" get in car", " to go", " to go  home"]}
+{"head": "to go", "relation": "Causes", "tails": [" to go", " get in car", " to go  home"]}
+{"head": "to go", "relation": "xReason", "tails": [" to go", " get in car", " to go somewhere"]}
+{"head": "to ask", "relation": "HinderedBy", "tails": [" to ask ", " to ask", " to ask  to ask "]}
+{"head": "to ask", "relation": "isBefore", "tails": [" to ask", " to ask for help", " to ask "]}
+{"head": "to ask", "relation": "isAfter", "tails": [" to know what to say", " to know the answer", " to know what to do"]}
+{"head": "to ask", "relation": "HasSubEvent", "tails": [" to ask", " to ask ", " to ask for help"]}
+{"head": "to ask", "relation": "Causes", "tails": [" to ask", " to ask ", " to ask for help"]}
+{"head": "to ask", "relation": "xReason", "tails": [" to know what to say", " to ask", " to know what to do"]}
+{"head": "release LPs", "relation": "HinderedBy", "tails": [" make a cd", " release vinyl albums", " release albums"]}
+{"head": "release LPs", "relation": "isBefore", "tails": [" release on vinyl", " buy from store", " release vinyl albums"]}
+{"head": "release LPs", "relation": "isAfter", "tails": [" release on vinyl", " make a cd", " make music"]}
+{"head": "release LPs", "relation": "HasSubEvent", "tails": [" put on cd player", " put on shelf", " put in cd player"]}
+{"head": "release LPs", "relation": "Causes", "tails": [" make a record", " release vinyl albums", " make music"]}
+{"head": "release LPs", "relation": "xReason", "tails": [" make music", " release vinyl albums", " make a cd"]}
+{"head": "read interviews", "relation": "HinderedBy", "tails": [" find out what they know", " find out who did what", " find out who did it"]}
+{"head": "read interviews", "relation": "isBefore", "tails": [" learn about person", " learn new information", " learn new things"]}
+{"head": "read interviews", "relation": "isAfter", "tails": [" get job", " interviewers", " read newspaper"]}
+{"head": "read interviews", "relation": "HasSubEvent", "tails": [" learn about other people", " learn about person", " learn about subject"]}
+{"head": "read interviews", "relation": "Causes", "tails": [" learn about person", " learn about people", " learn about subject"]}
+{"head": "read interviews", "relation": "xReason", "tails": [" find out who did what", " find out what they know", " find out what happened"]}
+{"head": "questions", "relation": "ObjectUse", "tails": [" ask a question", " answer questions", " make a paper airplane"]}
+{"head": "questions", "relation": "AtLocation", "tails": [" classroom", " school", " book"]}
+{"head": "questions", "relation": "CapableOf", "tails": [" ask questions", " answer questions", " answer"]}
+{"head": "questions", "relation": "HasProperty", "tails": [" found in school", " found in book", " found in newspaper"]}
+{"head": "questions", "relation": "MadeUpOf", "tails": [" answer", " question", " question mark"]}
+{"head": "questions", "relation": "NotDesires", "tails": [" answer questions", " ask questions", " answer"]}
+{"head": "questions", "relation": "Desires", "tails": [" answer questions", " ask questions", " answer"]}
+{"head": "pop", "relation": "ObjectUse", "tails": [" pop a balloon", " make a noise", " make a drink"]}
+{"head": "pop", "relation": "AtLocation", "tails": [" soda pop", " popcicle", " soda"]}
+{"head": "pop", "relation": "CapableOf", "tails": [" make noise", " pop balloon", " drink water"]}
+{"head": "pop", "relation": "HasProperty", "tails": [" made from sugar", " made from water", " made from corn"]}
+{"head": "pop", "relation": "MadeUpOf", "tails": [" pop", " soda pop", " water"]}
+{"head": "pop", "relation": "NotDesires", "tails": [" make noise", " pop balloon", " pop"]}
+{"head": "pop", "relation": "Desires", "tails": [" drink water", " drink", " make noise"]}
+{"head": "new LPs", "relation": "ObjectUse", "tails": [" sell at a flea market", " sell on ebay", " make a collage"]}
+{"head": "new LPs", "relation": "AtLocation", "tails": [" music store", " store", " music shop"]}
+{"head": "new LPs", "relation": "CapableOf", "tails": [" play on turntable", " buy at music store", " buy at store"]}
+{"head": "new LPs", "relation": "HasProperty", "tails": [" sold at flea market", " sold at flea markets", " sold at music stores"]}
+{"head": "new LPs", "relation": "MadeUpOf", "tails": [" vinyl", " record player", " record case"]}
+{"head": "new LPs", "relation": "NotDesires", "tails": [" make music", " buy at store", " make music with"]}
+{"head": "new LPs", "relation": "Desires", "tails": [" listen to music", " listen to", " listen to new music"]}
+{"head": "music", "relation": "ObjectUse", "tails": [" listen to", " listen to while driving", " play on the radio"]}
+{"head": "music", "relation": "AtLocation", "tails": [" music store", " music hall", " music room"]}
+{"head": "music", "relation": "CapableOf", "tails": [" listen to", " play on piano", " play guitar"]}
+{"head": "music", "relation": "HasProperty", "tails": [" played in orchestra", " played on piano", " music"]}
+{"head": "music", "relation": "MadeUpOf", "tails": [" music", " music box", " musical instrument"]}
+{"head": "music", "relation": "NotDesires", "tails": [" listen to", " listen to music", " listen to while driving"]}
+{"head": "music", "relation": "Desires", "tails": [" listen to", " music", " listen to music"]}
+{"head": "label", "relation": "ObjectUse", "tails": [" put on the package", " label the item", " put on the box"]}
+{"head": "label", "relation": "AtLocation", "tails": [" label box", " store", " label holder"]}
+{"head": "label", "relation": "CapableOf", "tails": [" label item", " label product", " put on label"]}
+{"head": "label", "relation": "HasProperty", "tails": [" found in grocery store", " labels", " found in grocery stores"]}
+{"head": "label", "relation": "MadeUpOf", "tails": [" label", " labels", " label letter"]}
+{"head": "label", "relation": "NotDesires", "tails": [" label", " labeling", " labels"]}
+{"head": "label", "relation": "Desires", "tails": [" label", " label of product", " label product"]}
+{"head": "kick tour", "relation": "HinderedBy", "tails": [" kick tour", " playing soccer", " playing football"]}
+{"head": "kick tour", "relation": "isBefore", "tails": [" soccer game", " kick ball", " kick off"]}
+{"head": "kick tour", "relation": "isAfter", "tails": [" soccer game", " kickball game", " soccer match"]}
+{"head": "kick tour", "relation": "HasSubEvent", "tails": [" make sure no one is watching", " make sure no one is hurt", " make sure no one is around"]}
+{"head": "kick tour", "relation": "Causes", "tails": [" soccer game", " kick ball", " kickball"]}
+{"head": "kick tour", "relation": "xReason", "tails": [" soccer game", " kick ball", " play soccer"]}
+{"head": "journalist", "relation": "ObjectUse", "tails": [" report on the news", " report news", " report on events"]}
+{"head": "journalist", "relation": "AtLocation", "tails": [" newspaper", " newsroom", " newsstand"]}
+{"head": "journalist", "relation": "CapableOf", "tails": [" write story", " report news", " write about event"]}
+{"head": "journalist", "relation": "HasProperty", "tails": [" news", " newsgazette", " newsgathering"]}
+{"head": "journalist", "relation": "MadeUpOf", "tails": [" news", " newspaper", " news story"]}
+{"head": "journalist", "relation": "NotDesires", "tails": [" news", " press conference", " get fired"]}
+{"head": "journalist", "relation": "Desires", "tails": [" news", " write story", " write stories"]}
+{"head": "interviews", "relation": "ObjectUse", "tails": [" get a job", " interview for a job", " get a new job"]}
+{"head": "interviews", "relation": "AtLocation", "tails": [" interview room", " newspaper", " interviewers"]}
+{"head": "interviews", "relation": "CapableOf", "tails": [" interview for job", " interview for a job", " talk to interviewer"]}
+{"head": "interviews", "relation": "HasProperty", "tails": [" found in newspaper", " found in newspapers", " found in job ads"]}
+{"head": "interviews", "relation": "MadeUpOf", "tails": [" interview", " interview questions", " interviewers"]}
+{"head": "interviews", "relation": "NotDesires", "tails": [" have to answer questions", " interview", " interviewers"]}
+{"head": "interviews", "relation": "Desires", "tails": [" interview for a job", " interview for job", " get a job"]}
+{"head": "freelancer music journalist", "relation": "ObjectUse", "tails": [" write music reviews", " write about music", " get paid for writing"]}
+{"head": "freelancer music journalist", "relation": "AtLocation", "tails": [" music magazine", " radio station", " music critic"]}
+{"head": "freelancer music journalist", "relation": "CapableOf", "tails": [" write music reviews", " write about music", " get paid for work"]}
+{"head": "freelancer music journalist", "relation": "HasProperty", "tails": [" freelancing", " freelancer", " free"]}
+{"head": "freelancer music journalist", "relation": "MadeUpOf", "tails": [" free time", " freelancing", " freelancer"]}
+{"head": "freelancer music journalist", "relation": "NotDesires", "tails": [" free time", " get paid", " music fan"]}
+{"head": "freelancer music journalist", "relation": "Desires", "tails": [" to make a living", " to make money", " to be a music journalist"]}
+{"head": "conversation", "relation": "ObjectUse", "tails": [" have a conversation with someone", " have a good time", " talk to someone"]}
+{"head": "conversation", "relation": "AtLocation", "tails": [" conversation", " classroom", " talk"]}
+{"head": "conversation", "relation": "CapableOf", "tails": [" talk to another person", " talk to someone", " talk to person"]}
+{"head": "conversation", "relation": "HasProperty", "tails": [" conversational", " understood by others", " understood"]}
+{"head": "conversation", "relation": "MadeUpOf", "tails": [" talkative", " conversational language", " conversational"]}
+{"head": "conversation", "relation": "NotDesires", "tails": [" listen to", " listen to person", " talk to someone"]}
+{"head": "conversation", "relation": "Desires", "tails": [" listen to", " talk to someone", " have fun"]}
+{"head": "band", "relation": "ObjectUse", "tails": [" wear on head", " wear as a costume", " wear as a necklace"]}
+{"head": "band", "relation": "AtLocation", "tails": [" music store", " bandstand", " music shop"]}
+{"head": "band", "relation": "CapableOf", "tails": [" wear on head", " wear around neck", " wear on wrist"]}
+{"head": "band", "relation": "HasProperty", "tails": [" worn on head", " worn on wrist", " worn on neck"]}
+{"head": "band", "relation": "MadeUpOf", "tails": [" bandage", " bandoette", " band"]}
+{"head": "band", "relation": "NotDesires", "tails": [" wear on head", " wear around neck", " wear on wrist"]}
+{"head": "band", "relation": "Desires", "tails": [" wear on head", " music", " wear on wrist"]}
+{"head": "ask questions", "relation": "HinderedBy", "tails": [" ask questions", " answer questions", " get answers"]}
+{"head": "ask questions", "relation": "isBefore", "tails": [" answer questions", " ask for answers", " ask questions"]}
+{"head": "ask questions", "relation": "isAfter", "tails": [" ask questions", " get answers", " get answer"]}
+{"head": "ask questions", "relation": "HasSubEvent", "tails": [" answer questions", " get answers", " ask questions"]}
+{"head": "ask questions", "relation": "Causes", "tails": [" answer questions", " ask questions", " answer question"]}
+{"head": "ask questions", "relation": "xReason", "tails": [" answer questions", " ask questions", " get answers"]}
+{"head": "ask Clarke", "relation": "HinderedBy", "tails": [" ask someone else", " ask for help", " they are too busy"]}
+{"head": "ask Clarke", "relation": "isBefore", "tails": [" answer the question", " ask for help", " ask for a favor"]}
+{"head": "ask Clarke", "relation": "isAfter", "tails": ["              ", "               ", "             "]}
+{"head": "ask Clarke", "relation": "HasSubEvent", "tails": [" find out answer", " ask for help", " get answer"]}
+{"head": "ask Clarke", "relation": "Causes", "tails": [" ask for help", " ask for a favor", " ask questions"]}
+{"head": "ask Clarke", "relation": "xReason", "tails": [" ask for help", " ask for a favor", " answer question"]}
+{"head": "artist", "relation": "ObjectUse", "tails": [" create art", " painting", " create artwork"]}
+{"head": "artist", "relation": "AtLocation", "tails": [" art gallery", " artist's studio", " art show"]}
+{"head": "artist", "relation": "CapableOf", "tails": [" paint picture", " draw picture", " paint portrait"]}
+{"head": "artist", "relation": "HasProperty", "tails": [" art", " painting", " artistic"]}
+{"head": "artist", "relation": "MadeUpOf", "tails": [" painting", " artist's pencil", " art"]}
+{"head": "artist", "relation": "NotDesires", "tails": [" paint on canvas", " painting", " paint on wall"]}
+{"head": "artist", "relation": "Desires", "tails": [" art", " painting", " paint picture"]}
+{"head": "You can read the interviews below.", "relation": "xAttr", "tails": [" talkative", " curious", " smart"]}
+{"head": "You can read the interviews below.", "relation": "xWant", "tails": [" read the interviews", " to learn more about them", " to learn more about the subject"]}
+{"head": "You can read the interviews below.", "relation": "xNeed", "tails": [" to read the interviews", " read the interviews", " to read the interviews."]}
+{"head": "You can read the interviews below.", "relation": "xEffect", "tails": [" read the interviews", " none", " read the interview"]}
+{"head": "You can read the interviews below.", "relation": "HinderedBy", "tails": [" read the interviews", " you can read the interviews", " you can read the interviews."]}
+{"head": "You can read the interviews below.", "relation": "oWant", "tails": [" none", " to talk about their experiences", " to talk about themselves"]}
+{"head": "You can read the interviews below.", "relation": "xReact", "tails": [" happy", " good about themselves", " happy to be there"]}
+{"head": "You can read the interviews below.", "relation": "oEffect", "tails": [" none", " read the interviews", " read the interview"]}
+{"head": "You can read the interviews below.", "relation": "xIntent", "tails": [" none", " to learn more about the subject", " to know what they think"]}
+{"head": "You can read the interviews below.", "relation": "oReact", "tails": [" none", " happy", " happy."]}
+{"head": "You can read the interviews below.", "relation": "isBefore", "tails": [" read the interviews", " you can read the interviews", " listen to interviews"]}
+{"head": "You can read the interviews below.", "relation": "isAfter", "tails": [" you can read the interviews", " read the interviews", " you can read the interviews."]}
+{"head": "You can read the interviews below.", "relation": "HasSubEvent", "tails": [" read the interviews", " read the interview", " get a job"]}
+{"head": "You can read the interviews below.", "relation": "Causes", "tails": [" you can read the interviews", " read the interviews", " you can read the interviews."]}
+{"head": "You can read the interviews below.", "relation": "xReason", "tails": [" you can read the interviews", " read the interviews", " you want to know more"]}
+{"head": "Vince Clarke", "relation": "ObjectUse", "tails": [" have a good time", " have a good time with", " have a good time with friends"]}
+{"head": "Vince Clarke", "relation": "AtLocation", "tails": [" vinceclar", " vinceclar's house", " vinceclar's home"]}
+{"head": "Vince Clarke", "relation": "CapableOf", "tails": [" get into a fight", " get into a car accident", " get a job"]}
+{"head": "Vince Clarke", "relation": "HasProperty", "tails": [" none", " one of the original members of the team", " one of the best players in the game"]}
+{"head": "Vince Clarke", "relation": "MadeUpOf", "tails": [" vase", " vengence", " vase of flowers"]}
+{"head": "Vince Clarke", "relation": "NotDesires", "tails": [" none", " have to go to the hospital", " have to go to the doctor"]}
+{"head": "Vince Clarke", "relation": "Desires", "tails": [" none", " to be a leader", " have a good time"]}
+{"head": "Vince", "relation": "ObjectUse", "tails": [" have a good time", " have a good time with", " get a job"]}
+{"head": "Vince", "relation": "AtLocation", "tails": [" house", " school", " vase"]}
+{"head": "Vince", "relation": "CapableOf", "tails": [" get a new job", " get a job", " get into trouble"]}
+{"head": "Vince", "relation": "HasProperty", "tails": [" one of the main characters in the movie", " one of the main characters in the film", " one of the main characters of the movie"]}
+{"head": "Vince", "relation": "MadeUpOf", "tails": ["             ", "            ", "              "]}
+{"head": "Vince", "relation": "NotDesires", "tails": [" have to go to the bathroom", " have to go to work", " have to go to the doctor"]}
+{"head": "Vince", "relation": "Desires", "tails": [" have a good time", " have fun", " none"]}
+{"head": "Reed Hays", "relation": "ObjectUse", "tails": [" get a new job", " get a job", " get a job at a restaurant"]}
+{"head": "Reed Hays", "relation": "AtLocation", "tails": [" house", " school", " rome"]}
+{"head": "Reed Hays", "relation": "CapableOf", "tails": [" go to jail", " get a job", " go to the store"]}
+{"head": "Reed Hays", "relation": "HasProperty", "tails": [" none", " Rene Hays", " Rene Hays."]}
+{"head": "Reed Hays", "relation": "MadeUpOf", "tails": [" rheumatoid arthritis", " rheumatism", " rheumatoid arthritis."]}
+{"head": "Reed Hays", "relation": "NotDesires", "tails": [" none", " get a restraining order", " get arrested"]}
+{"head": "Reed Hays", "relation": "Desires", "tails": [" none", " to have fun", " to be a leader"]}
+{"head": "Miami", "relation": "ObjectUse", "tails": [" travel to", " live in", " travel"]}
+{"head": "Miami", "relation": "AtLocation", "tails": [" city", " hotel", " hotel room"]}
+{"head": "Miami", "relation": "CapableOf", "tails": [" travel to", " go to beach", " travel to different cities"]}
+{"head": "Miami", "relation": "HasProperty", "tails": [" found in many places around the world", " found in many places in the world", " found in many cities around the world"]}
+{"head": "Miami", "relation": "MadeUpOf", "tails": [" city", " water", " beach"]}
+{"head": "Miami", "relation": "NotDesires", "tails": [" get mugged", " get mugged in", " travel to"]}
+{"head": "Miami", "relation": "Desires", "tails": [" live in", " travel to", " travel"]}
+{"head": "LPs", "relation": "ObjectUse", "tails": [" make a collage", " use as a paperweight", " use as a paper weight"]}
+{"head": "LPs", "relation": "AtLocation", "tails": [" music store", " store", " album case"]}
+{"head": "LPs", "relation": "CapableOf", "tails": [" make music", " play music", " record music"]}
+{"head": "LPs", "relation": "HasProperty", "tails": [" found in music store", " found in music stores", " used in music store"]}
+{"head": "LPs", "relation": "MadeUpOf", "tails": [" vinyl", " laminator", " librarian"]}
+{"head": "LPs", "relation": "NotDesires", "tails": [" listen to music", " listen to", " record player"]}
+{"head": "LPs", "relation": "Desires", "tails": [" listen to music", " listen to", " make music"]}
+{"head": "July", "relation": "ObjectUse", "tails": [" July", " have a party", " have a good time"]}
+{"head": "July", "relation": "AtLocation", "tails": [" summer", " summer solstice", " summertime"]}
+{"head": "July", "relation": "CapableOf", "tails": [" go on vacation", " go to the beach", " go to beach"]}
+{"head": "July", "relation": "HasProperty", "tails": [" July", " summer", " July "]}
+{"head": "July", "relation": "MadeUpOf", "tails": [" July", " summer", " water"]}
+{"head": "July", "relation": "NotDesires", "tails": [" July", " summer", " July "]}
+{"head": "July", "relation": "Desires", "tails": [" July", " summer", " have fun"]}
+{"head": "Janos Janurik, who works as a freelancer music journalist was permitted to ask Vince Clarke and Reed Hays a few questions before they kick off their tour together at the Fillmore in Miami.", "relation": "xAttr", "tails": [" inquisitive", " curious", " inquisitive."]}
+{"head": "Janos Janurik, who works as a freelancer music journalist was permitted to ask Vince Clarke and Reed Hays a few questions before they kick off their tour together at the Fillmore in Miami.", "relation": "xWant", "tails": [" to write a book about the band", " to write a story about the band", " to write a book about the band."]}
+{"head": "Janos Janurik, who works as a freelancer music journalist was permitted to ask Vince Clarke and Reed Hays a few questions before they kick off their tour together at the Fillmore in Miami.", "relation": "xNeed", "tails": [" to get permission from the band", " to have a meeting with the band", " to have a conversation with the band"]}
+{"head": "Janos Janurik, who works as a freelancer music journalist was permitted to ask Vince Clarke and Reed Hays a few questions before they kick off their tour together at the Fillmore in Miami.", "relation": "xEffect", "tails": [" gets asked a lot of questions", " get a good review of the band", " gets asked a question"]}
+{"head": "Janos Janurik, who works as a freelancer music journalist was permitted to ask Vince Clarke and Reed Hays a few questions before they kick off their tour together at the Fillmore in Miami.", "relation": "HinderedBy", "tails": [" Janos Janurik interviews the band", " Janos is not allowed to ask questions.", " Janos Janurik is a journalist."]}
+{"head": "Janos Janurik, who works as a freelancer music journalist was permitted to ask Vince Clarke and Reed Hays a few questions before they kick off their tour together at the Fillmore in Miami.", "relation": "oWant", "tails": [" to answer questions", " none", " to talk to the journalist"]}
+{"head": "Janos Janurik, who works as a freelancer music journalist was permitted to ask Vince Clarke and Reed Hays a few questions before they kick off their tour together at the Fillmore in Miami.", "relation": "xReact", "tails": [" happy", " curious", " excited"]}
+{"head": "Janos Janurik, who works as a freelancer music journalist was permitted to ask Vince Clarke and Reed Hays a few questions before they kick off their tour together at the Fillmore in Miami.", "relation": "oEffect", "tails": [" none", " get a good review", " they are asked questions"]}
+{"head": "Janos Janurik, who works as a freelancer music journalist was permitted to ask Vince Clarke and Reed Hays a few questions before they kick off their tour together at the Fillmore in Miami.", "relation": "xIntent", "tails": [" to learn about the band", " none", " to learn about the band."]}
+{"head": "Janos Janurik, who works as a freelancer music journalist was permitted to ask Vince Clarke and Reed Hays a few questions before they kick off their tour together at the Fillmore in Miami.", "relation": "oReact", "tails": [" none", " happy to be with each other", " happy to be with each other."]}
+{"head": "Janos Janurik, who works as a freelancer music journalist was permitted to ask Vince Clarke and Reed Hays a few questions before they kick off their tour together at the Fillmore in Miami.", "relation": "isBefore", "tails": [" they tell them they will be back in a few days", " they tell them they are going to do it again", " they tell them they will be back in a few weeks"]}
+{"head": "Janos Janurik, who works as a freelancer music journalist was permitted to ask Vince Clarke and Reed Hays a few questions before they kick off their tour together at the Fillmore in Miami.", "relation": "isAfter", "tails": [" get a good review of the band", " none", " they are going to play a concert"]}
+{"head": "Janos Janurik, who works as a freelancer music journalist was permitted to ask Vince Clarke and Reed Hays a few questions before they kick off their tour together at the Fillmore in Miami.", "relation": "HasSubEvent", "tails": [" to ask them a lot of questions", " to ask them a question", " get a good review of the band"]}
+{"head": "Janos Janurik, who works as a freelancer music journalist was permitted to ask Vince Clarke and Reed Hays a few questions before they kick off their tour together at the Fillmore in Miami.", "relation": "Causes", "tails": [" they get a chance to ask them a question", " they get a chance to ask them a few questions", " they get a chance to ask them questions"]}
+{"head": "Janos Janurik, who works as a freelancer music journalist was permitted to ask Vince Clarke and Reed Hays a few questions before they kick off their tour together at the Fillmore in Miami.", "relation": "xReason", "tails": [" none", " get a good review of the band", " get a good review of the show"]}
+{"head": "Janos Janurik", "relation": "ObjectUse", "tails": [" get a new job", " get a job", " get a job at a restaurant"]}
+{"head": "Janos Janurik", "relation": "AtLocation", "tails": [" janurik's house", " janurik's home", " janurik's office"]}
+{"head": "Janos Janurik", "relation": "CapableOf", "tails": [" get a new job", " get a job", " get into trouble"]}
+{"head": "Janos Janurik", "relation": "HasProperty", "tails": [" none", " Janos Janurik", " Janos Janurik."]}
+{"head": "Janos Janurik", "relation": "MadeUpOf", "tails": [" Janos Janurik", " Janurik", " ice cream"]}
+{"head": "Janos Janurik", "relation": "NotDesires", "tails": [" none", " Janos Janurik", " Janos Janurik "]}
+{"head": "Janos Janurik", "relation": "Desires", "tails": [" none", " to have fun", " to be a leader"]}
+{"head": "Interview with Vince Clarke (Erasure) and Reed Hays (Reed & Caroline) //", "relation": "xAttr", "tails": [" talkative", " musical", " creative"]}
+{"head": "Interview with Vince Clarke (Erasure) and Reed Hays (Reed & Caroline) //", "relation": "xWant", "tails": [" to talk about music", " to talk about their music", " talk about music"]}
+{"head": "Interview with Vince Clarke (Erasure) and Reed Hays (Reed & Caroline) //", "relation": "xNeed", "tails": [" to have a conversation with them", " to be in a band", " to have a conversation with someone"]}
+{"head": "Interview with Vince Clarke (Erasure) and Reed Hays (Reed & Caroline) //", "relation": "xEffect", "tails": [" interview", " interviews", " interviewers"]}
+{"head": "Interview with Vince Clarke (Erasure) and Reed Hays (Reed & Caroline) //", "relation": "HinderedBy", "tails": [" interview", " interview with", " interview with person"]}
+{"head": "Interview with Vince Clarke (Erasure) and Reed Hays (Reed & Caroline) //", "relation": "oWant", "tails": [" to talk about their music", " to talk about music", " to talk about the band"]}
+{"head": "Interview with Vince Clarke (Erasure) and Reed Hays (Reed & Caroline) //", "relation": "xReact", "tails": [" happy", " satisfied", " happy."]}
+{"head": "Interview with Vince Clarke (Erasure) and Reed Hays (Reed & Caroline) //", "relation": "oEffect", "tails": [" none", " interview", " interviewers"]}
+{"head": "Interview with Vince Clarke (Erasure) and Reed Hays (Reed & Caroline) //", "relation": "xIntent", "tails": [" talk about music", " interview", " interview for a song"]}
+{"head": "Interview with Vince Clarke (Erasure) and Reed Hays (Reed & Caroline) //", "relation": "oReact", "tails": [" none", " interviewed", " interview"]}
+{"head": "Interview with Vince Clarke (Erasure) and Reed Hays (Reed & Caroline) //", "relation": "isBefore", "tails": [" PersonY asks PersonY what PersonY thinks about PersonY's interview.", " PersonY asks PersonY what PersonY thinks of PersonY's music.", " PersonY asks PersonY what PersonY thinks about PersonY's interview"]}
+{"head": "Interview with Vince Clarke (Erasure) and Reed Hays (Reed & Caroline) //", "relation": "isAfter", "tails": [" PersonY asks PersonY what PersonY thinks of PersonY's music.", " interview", " PersonY asks PersonY what PersonY thinks about PersonY's interview."]}
+{"head": "Interview with Vince Clarke (Erasure) and Reed Hays (Reed & Caroline) //", "relation": "HasSubEvent", "tails": [" talk about music", " interview", " interviewers ask questions"]}
+{"head": "Interview with Vince Clarke (Erasure) and Reed Hays (Reed & Caroline) //", "relation": "Causes", "tails": [" interview", " interviewee", " interviewers"]}
+{"head": "Interview with Vince Clarke (Erasure) and Reed Hays (Reed & Caroline) //", "relation": "xReason", "tails": [" interview", " interview with the band", " interview with a band"]}
+{"head": "Iconic synth-pop band Erasure and VeryRecords label artist Reed & Caroline both release new LPs on the 6th of July and go together on tour in the US, starting in Miami.", "relation": "xAttr", "tails": [" musical", " excited", " music lover"]}
+{"head": "Iconic synth-pop band Erasure and VeryRecords label artist Reed & Caroline both release new LPs on the 6th of July and go together on tour in the US, starting in Miami.", "relation": "xWant", "tails": [" to perform at a concert", " to play a concert", " to perform at a concert."]}
+{"head": "Iconic synth-pop band Erasure and VeryRecords label artist Reed & Caroline both release new LPs on the 6th of July and go together on tour in the US, starting in Miami.", "relation": "xNeed", "tails": [" make a new album", " make a record", " make a new record"]}
+{"head": "Iconic synth-pop band Erasure and VeryRecords label artist Reed & Caroline both release new LPs on the 6th of July and go together on tour in the US, starting in Miami.", "relation": "xEffect", "tails": [" make a new album", " make a new record", " make a record"]}
+{"head": "Iconic synth-pop band Erasure and VeryRecords label artist Reed & Caroline both release new LPs on the 6th of July and go together on tour in the US, starting in Miami.", "relation": "HinderedBy", "tails": [" The band is going on a tour.", " The band is going on tour.", " The band will be playing in the US."]}
+{"head": "Iconic synth-pop band Erasure and VeryRecords label artist Reed & Caroline both release new LPs on the 6th of July and go together on tour in the US, starting in Miami.", "relation": "oWant", "tails": [" to perform at a concert", " to play a concert", " to perform at the concert"]}
+{"head": "Iconic synth-pop band Erasure and VeryRecords label artist Reed & Caroline both release new LPs on the 6th of July and go together on tour in the US, starting in Miami.", "relation": "xReact", "tails": [" excited", " happy", " happy."]}
+{"head": "Iconic synth-pop band Erasure and VeryRecords label artist Reed & Caroline both release new LPs on the 6th of July and go together on tour in the US, starting in Miami.", "relation": "oEffect", "tails": [" make a new album", " none", " make a record"]}
+{"head": "Iconic synth-pop band Erasure and VeryRecords label artist Reed & Caroline both release new LPs on the 6th of July and go together on tour in the US, starting in Miami.", "relation": "xIntent", "tails": [" to have a good time", " to have a good time with their friends", " to have a good time with friends"]}
+{"head": "Iconic synth-pop band Erasure and VeryRecords label artist Reed & Caroline both release new LPs on the 6th of July and go together on tour in the US, starting in Miami.", "relation": "oReact", "tails": [" none", " excited", " happy"]}
+{"head": "Iconic synth-pop band Erasure and VeryRecords label artist Reed & Caroline both release new LPs on the 6th of July and go together on tour in the US, starting in Miami.", "relation": "isBefore", "tails": [" PersonY buys the new album from PersonY.", " PersonY buys the new album from the store.", " PersonY buys the new album and listens to it."]}
+{"head": "Iconic synth-pop band Erasure and VeryRecords label artist Reed & Caroline both release new LPs on the 6th of July and go together on tour in the US, starting in Miami.", "relation": "isAfter", "tails": [" PersonY buys the album from PersonY.", " PersonY buys the album from the store.", " PersonY buys the album from PersonX."]}
+{"head": "Iconic synth-pop band Erasure and VeryRecords label artist Reed & Caroline both release new LPs on the 6th of July and go together on tour in the US, starting in Miami.", "relation": "HasSubEvent", "tails": [" make a new album", " make a record", " make a new record"]}
+{"head": "Iconic synth-pop band Erasure and VeryRecords label artist Reed & Caroline both release new LPs on the 6th of July and go together on tour in the US, starting in Miami.", "relation": "Causes", "tails": [" make a record", " make music", " make music together"]}
+{"head": "Iconic synth-pop band Erasure and VeryRecords label artist Reed & Caroline both release new LPs on the 6th of July and go together on tour in the US, starting in Miami.", "relation": "xReason", "tails": [" make a new album", " make a new record", " make a record"]}
+{"head": "Iconic synth pop band Erasure VeryRecords label artist Reed", "relation": "ObjectUse", "tails": [" make a record", " make music", " make music for others"]}
+{"head": "Iconic synth pop band Erasure VeryRecords label artist Reed", "relation": "AtLocation", "tails": [" music store", " music producer", " music publisher"]}
+{"head": "Iconic synth pop band Erasure VeryRecords label artist Reed", "relation": "CapableOf", "tails": [" make music", " record music", " record album"]}
+{"head": "Iconic synth pop band Erasure VeryRecords label artist Reed", "relation": "HasProperty", "tails": [" famous", " none", " very famous"]}
+{"head": "Iconic synth pop band Erasure VeryRecords label artist Reed", "relation": "MadeUpOf", "tails": [" music producer", " music", " artist"]}
+{"head": "Iconic synth pop band Erasure VeryRecords label artist Reed", "relation": "NotDesires", "tails": [" none", " music producer", " artist"]}
+{"head": "Iconic synth pop band Erasure VeryRecords label artist Reed", "relation": "Desires", "tails": [" none", " to make music", " to make a record"]}
+{"head": "First, the short conversation with Vince.", "relation": "xAttr", "tails": [" talkative", " friendly", " talkative."]}
+{"head": "First, the short conversation with Vince.", "relation": "xWant", "tails": [" to talk to someone else", " to talk to someone else.", " to talk to someone else about it"]}
+{"head": "First, the short conversation with Vince.", "relation": "xNeed", "tails": [" talk to someone", " to call him", " talk to person"]}
+{"head": "First, the short conversation with Vince.", "relation": "xEffect", "tails": [" none", " talk about things", " talk to person"]}
+{"head": "First, the short conversation with Vince.", "relation": "HinderedBy", "tails": [" first things first", " first things first.", " first to get a drink"]}
+{"head": "First, the short conversation with Vince.", "relation": "oWant", "tails": [" to talk to someone else", " to talk to someone else.", " to talk to someone else about it"]}
+{"head": "First, the short conversation with Vince.", "relation": "xReact", "tails": [" happy", " satisfied", " happy."]}
+{"head": "First, the short conversation with Vince.", "relation": "oEffect", "tails": [" none", " talk to person", " talk to someone"]}
+{"head": "First, the short conversation with Vince.", "relation": "xIntent", "tails": [" to talk to someone", " talk to someone", " none"]}
+{"head": "First, the short conversation with Vince.", "relation": "oReact", "tails": [" none", " happy", " happy."]}
+{"head": "First, the short conversation with Vince.", "relation": "isBefore", "tails": [" listen to what they have to say", " listen to what they have to say.", " listen to what they have to say about it"]}
+{"head": "First, the short conversation with Vince.", "relation": "isAfter", "tails": [" PersonX is talking to PersonY.", " PersonX is talking to PersonY", " PersonX is talking to PersonX."]}
+{"head": "First, the short conversation with Vince.", "relation": "HasSubEvent", "tails": [" talk to someone else", " talk to someone", " talk about things"]}
+{"head": "First, the short conversation with Vince.", "relation": "Causes", "tails": [" first things first", " first things first.", " first"]}
+{"head": "First, the short conversation with Vince.", "relation": "xReason", "tails": [" first time meeting", " none", " first time"]}
+{"head": "Fillmore", "relation": "ObjectUse", "tails": [" fill with water", " fill up with water", " fill up with beer"]}
+{"head": "Fillmore", "relation": "AtLocation", "tails": [" music festival", " concert hall", " concert"]}
+{"head": "Fillmore", "relation": "CapableOf", "tails": [" fill up with water", " fill up with beer", " fill up tank with water"]}
+{"head": "Fillmore", "relation": "HasProperty", "tails": [" one of the most famous places in the world", " one of the world's most famous cities", " one of the world's most famous places"]}
+{"head": "Fillmore", "relation": "MadeUpOf", "tails": [" water", " rock band", " wine"]}
+{"head": "Fillmore", "relation": "NotDesires", "tails": [" fillmore", " fillmores", " fillmore with people"]}
+{"head": "Fillmore", "relation": "Desires", "tails": [" water", " fillmores", " fill with water"]}
+{"head": "Erasure", "relation": "ObjectUse", "tails": [" make a paper airplane", " make a paper mache airplane", " make a paper mache sculpture"]}
+{"head": "Erasure", "relation": "AtLocation", "tails": [" computer", " desk drawer", " office supply store"]}
+{"head": "Erasure", "relation": "CapableOf", "tails": [" write down information", " write down notes", " write on paper"]}
+{"head": "Erasure", "relation": "HasProperty", "tails": [" erasing", " erasure", " found in book"]}
+{"head": "Erasure", "relation": "MadeUpOf", "tails": [" erasure", " erasing", " eraser"]}
+{"head": "Erasure", "relation": "NotDesires", "tails": [" erasing", " erasure", " erasing data"]}
+{"head": "Erasure", "relation": "Desires", "tails": [" clean up messes", " clean up mess", " clean up the mess"]}
+{"head": "Caroline", "relation": "ObjectUse", "tails": [" get a new job", " get a job", " to be a good friend"]}
+{"head": "Caroline", "relation": "AtLocation", "tails": [" car", " house", " carpool"]}
+{"head": "Caroline", "relation": "CapableOf", "tails": [" get a new job", " get a job", " get married"]}
+{"head": "Caroline", "relation": "HasProperty", "tails": [" one of three children", " none", " one of two children"]}
+{"head": "Caroline", "relation": "MadeUpOf", "tails": [" car", " carpal tunnel", " car seat"]}
+{"head": "Caroline", "relation": "NotDesires", "tails": [" car accident", " get in car accident", " carpal tunnel"]}
+{"head": "Caroline", "relation": "Desires", "tails": [" have a good time", " have a good time with friends", " to be a good friend"]}
+{"head": "6th", "relation": "ObjectUse", "tails": [" get a promotion", " get a job", " get married on"]}
+{"head": "6th", "relation": "AtLocation", "tails": [" school", " classroom", " school bus"]}
+{"head": "6th", "relation": "CapableOf", "tails": [" put on shoes", " learn new language", " learn to read"]}
+{"head": "6th", "relation": "HasProperty", "tails": [" 6th grade", " 5th grade", " 4th grade"]}
+{"head": "6th", "relation": "MadeUpOf", "tails": [" 5th", " 6th", " 4th"]}
+{"head": "6th", "relation": "NotDesires", "tails": [" put in jail", " get arrested", " get arrested for speeding"]}
+{"head": "6th", "relation": "Desires", "tails": [" get a good grade", " have a good time", " get a promotion"]}
+{"head": ", short conversation", "relation": "ObjectUse", "tails": [" have a good time", " have a conversation with someone", " have a conversation"]}
+{"head": ", short conversation", "relation": "AtLocation", "tails": [" conversation", " phone", " talk"]}
+{"head": ", short conversation", "relation": "CapableOf", "tails": [" talk to another person", " talk to someone", " talk to person"]}
+{"head": ", short conversation", "relation": "HasProperty", "tails": [" good for getting to know someone", " good for getting to know people", " good for getting to know someone."]}
+{"head": ", short conversation", "relation": "MadeUpOf", "tails": [" talkative", " conversation", " talk about things"]}
+{"head": ", short conversation", "relation": "NotDesires", "tails": [" listen to", " talk to someone", " talk to person"]}
+{"head": ", short conversation", "relation": "Desires", "tails": [" have a good time", " have a conversation with someone", " have a conversation"]}
+{"head": "( Reed", "relation": "ObjectUse", "tails": [" get a new job", " get a job", " get a job done"]}
+{"head": "( Reed", "relation": "AtLocation", "tails": [" house", " movie theater", " movie"]}
+{"head": "( Reed", "relation": "CapableOf", "tails": [" get into trouble", " get into fight", " get a job"]}
+{"head": "( Reed", "relation": "HasProperty", "tails": [" one of the main characters in the movie", " one of the main characters in the play", " one of the main characters of the movie"]}
+{"head": "( Reed", "relation": "MadeUpOf", "tails": [" (Reed) and (Reed) in the same sentence)", " (Reed) and (Reed) together)", " (Reed) and (Reed)"]}
+{"head": "( Reed", "relation": "NotDesires", "tails": [" get into trouble", " get in trouble", " none"]}
+{"head": "( Reed", "relation": "Desires", "tails": [" have a good time", " have a good life", " get a job"]}

@@ -1,0 +1,252 @@
+{"head": "turns", "relation": "ObjectUse", "tails": [" turn left", " get to destination", " get to the destination"]}
+{"head": "turns", "relation": "AtLocation", "tails": [" car", " turn left", " turn right"]}
+{"head": "turns", "relation": "CapableOf", "tails": [" turn left", " turn car", " turn"]}
+{"head": "turns", "relation": "HasProperty", "tails": [" turn", " turned", " turn left"]}
+{"head": "turns", "relation": "MadeUpOf", "tails": [" turn signal", " turn", " turn knob"]}
+{"head": "turns", "relation": "NotDesires", "tails": [" turn left", " turn", " turn around"]}
+{"head": "turns", "relation": "Desires", "tails": [" turn", " turn left", " turn around"]}
+{"head": "to take", "relation": "HinderedBy", "tails": [" to take", " to take ", " to take  to take "]}
+{"head": "to take", "relation": "isBefore", "tails": [" to take", " to take a nap", " to take a picture"]}
+{"head": "to take", "relation": "isAfter", "tails": [" to take", " to take a nap", " to take a picture"]}
+{"head": "to take", "relation": "HasSubEvent", "tails": [" to take", " to take ", " to take  take "]}
+{"head": "to take", "relation": "Causes", "tails": [" to take", " to take  to take  to take  to take  take  to take  take  to take ", " to take  to take  to take  to take  take  to  take  take  to take"]}
+{"head": "to take", "relation": "xReason", "tails": [" to take", " to take a nap", " to take  to take "]}
+{"head": "to spend", "relation": "HinderedBy", "tails": [" to spend", " to spend ", " to spend  money"]}
+{"head": "to spend", "relation": "isBefore", "tails": [" to spend", " to spend  money", " to spend money"]}
+{"head": "to spend", "relation": "isAfter", "tails": [" money", " to spend money", " to buy something"]}
+{"head": "to spend", "relation": "HasSubEvent", "tails": [" to spend", " to spend  spend  spend  spend  spend", " to spend  spend  spend  spend  spend "]}
+{"head": "to spend", "relation": "Causes", "tails": [" to spend", " have less money", " to spend  money"]}
+{"head": "to spend", "relation": "xReason", "tails": [" to spend", " have money", " to spend money"]}
+{"head": "to sit", "relation": "HinderedBy", "tails": [" to sit", " to sit ", " to sit  on"]}
+{"head": "to sit", "relation": "isBefore", "tails": [" to sit", " to sit down", " sit down"]}
+{"head": "to sit", "relation": "isAfter", "tails": [" sit down", " sit on chair", " sit down on chair"]}
+{"head": "to sit", "relation": "HasSubEvent", "tails": [" sit down", " to sit", " get up"]}
+{"head": "to sit", "relation": "Causes", "tails": [" to sit", " sit down", " sit on chair"]}
+{"head": "to sit", "relation": "xReason", "tails": [" sit down", " sit on chair", " to sit"]}
+{"head": "to play", "relation": "HinderedBy", "tails": [" to play", " to play ", " to play  with"]}
+{"head": "to play", "relation": "isBefore", "tails": [" have fun", " to play", " to have fun"]}
+{"head": "to play", "relation": "isAfter", "tails": [" have fun", " have a game to play", " have fun with friends"]}
+{"head": "to play", "relation": "HasSubEvent", "tails": [" have fun", " play game", " play with friends"]}
+{"head": "to play", "relation": "Causes", "tails": [" have fun", " have a good time", " have fun with friends"]}
+{"head": "to play", "relation": "xReason", "tails": [" have fun", " have fun with friends", " have fun with"]}
+{"head": "to invite", "relation": "HinderedBy", "tails": [" to invite", " to invite ", " to invite  to a party"]}
+{"head": "to invite", "relation": "isBefore", "tails": [" to invite", " to invite ", " to invite others"]}
+{"head": "to invite", "relation": "isAfter", "tails": [" to have a party", " to invite people to a party", " to invite people to the party"]}
+{"head": "to invite", "relation": "HasSubEvent", "tails": [" to invite", " to invite ", " to invite  people"]}
+{"head": "to invite", "relation": "Causes", "tails": [" invite someone to a party", " to invite people to a party", " to invite"]}
+{"head": "to invite", "relation": "xReason", "tails": [" to invite", " have a party", " to invite people"]}
+{"head": "to decide", "relation": "HinderedBy", "tails": [" to decide", " to decide ", " to decide  to decide "]}
+{"head": "to decide", "relation": "isBefore", "tails": [" to decide", " to decide what to do", " to decide  what to do"]}
+{"head": "to decide", "relation": "isAfter", "tails": [" to make a decision", " to make a choice", " to make decision"]}
+{"head": "to decide", "relation": "HasSubEvent", "tails": [" to decide", " to decide ", " make decision"]}
+{"head": "to decide", "relation": "Causes", "tails": [" to decide", " have to make decision", " have to make a decision"]}
+{"head": "to decide", "relation": "xReason", "tails": [" to decide", " have to make decision", " have to make a decision"]}
+{"head": "to arrive", "relation": "HinderedBy", "tails": [" to arrive", " to arrive ", " to arrive on time"]}
+{"head": "to arrive", "relation": "isBefore", "tails": [" to arrive", " to arrive at destination", " to arrive at the destination"]}
+{"head": "to arrive", "relation": "isAfter", "tails": [" get in car", " to arrive at destination", " to arrive at the destination"]}
+{"head": "to arrive", "relation": "HasSubEvent", "tails": [" to arrive", " get in car", " to arrive "]}
+{"head": "to arrive", "relation": "Causes", "tails": [" to arrive", " to arrive at destination", " have to wait for"]}
+{"head": "to arrive", "relation": "xReason", "tails": [" to arrive", " have to wait for", " to arrive at destination"]}
+{"head": "take turns", "relation": "HinderedBy", "tails": [" take turns", " have fun", " play game"]}
+{"head": "take turns", "relation": "isBefore", "tails": [" have fun", " play game", " take turns"]}
+{"head": "take turns", "relation": "isAfter", "tails": [" play game", " have fun", " take turns"]}
+{"head": "take turns", "relation": "HasSubEvent", "tails": [" play game", " have fun", " take turns"]}
+{"head": "take turns", "relation": "Causes", "tails": [" play game", " have fun", " take turns"]}
+{"head": "take turns", "relation": "xReason", "tails": [" play game", " have fun", " take turns"]}
+{"head": "table", "relation": "ObjectUse", "tails": [" put the food on", " set the food on", " put the book on"]}
+{"head": "table", "relation": "AtLocation", "tails": [" table cloth", " tablecloth", " kitchen"]}
+{"head": "table", "relation": "CapableOf", "tails": [" put food on", " place food on", " set down on"]}
+{"head": "table", "relation": "HasProperty", "tails": [" found in kitchen", " table cloth", " found in home"]}
+{"head": "table", "relation": "MadeUpOf", "tails": [" table cloth", " tablecloth", " table top"]}
+{"head": "table", "relation": "NotDesires", "tails": [" table cloth", " tablecloth", " table top"]}
+{"head": "table", "relation": "Desires", "tails": [" sit at", " table cloth", " sit on"]}
+{"head": "spend hours", "relation": "HinderedBy", "tails": [" spend time", " have to do", " spend money"]}
+{"head": "spend hours", "relation": "isBefore", "tails": [" spend money", " spend time", " get tired"]}
+{"head": "spend hours", "relation": "isAfter", "tails": [" spend money", " have to do", " spend money on things"]}
+{"head": "spend hours", "relation": "HasSubEvent", "tails": [" get tired", " go to sleep", " spend money"]}
+{"head": "spend hours", "relation": "Causes", "tails": [" spend time", " spend money", " have to do"]}
+{"head": "spend hours", "relation": "xReason", "tails": [" have to do", " spend money", " spend time"]}
+{"head": "play games", "relation": "HinderedBy", "tails": [" play video games", " have fun", " play games"]}
+{"head": "play games", "relation": "isBefore", "tails": [" have fun", " play with friends", " have fun with friends"]}
+{"head": "play games", "relation": "isAfter", "tails": [" have fun", " play with friends", " play video games"]}
+{"head": "play games", "relation": "HasSubEvent", "tails": [" have fun", " play with friends", " get bored"]}
+{"head": "play games", "relation": "Causes", "tails": [" have fun", " play video games", " play with friends"]}
+{"head": "play games", "relation": "xReason", "tails": [" have fun", " play with friends", " play video games"]}
+{"head": "play game", "relation": "HinderedBy", "tails": [" play game", " play video games", " play video game"]}
+{"head": "play game", "relation": "isBefore", "tails": [" have fun", " have fun with friends", " play with friends"]}
+{"head": "play game", "relation": "isAfter", "tails": [" have fun", " play with friends", " have fun with friends"]}
+{"head": "play game", "relation": "HasSubEvent", "tails": [" have fun", " get bored", " play game"]}
+{"head": "play game", "relation": "Causes", "tails": [" have fun", " play with friends", " play game"]}
+{"head": "play game", "relation": "xReason", "tails": [" have fun", " play with friends", " have fun with friends"]}
+{"head": "night", "relation": "ObjectUse", "tails": [" have a good night's sleep", " have a good time", " have a good night's rest"]}
+{"head": "night", "relation": "AtLocation", "tails": [" bed", " night", " night sky"]}
+{"head": "night", "relation": "CapableOf", "tails": [" wake up", " sleep all day", " wake up in morning"]}
+{"head": "night", "relation": "HasProperty", "tails": [" dark", " night", " light"]}
+{"head": "night", "relation": "MadeUpOf", "tails": [" night", " moon", " night sky"]}
+{"head": "night", "relation": "NotDesires", "tails": [" fall asleep", " sleep", " sleep during day"]}
+{"head": "night", "relation": "Desires", "tails": [" sleep", " sleep well", " have good sleep"]}
+{"head": "invite friends", "relation": "HinderedBy", "tails": [" invite friends", " invite friends to a party", " invite friends to party"]}
+{"head": "invite friends", "relation": "isBefore", "tails": [" invite friends to party", " have a party", " invite friends"]}
+{"head": "invite friends", "relation": "isAfter", "tails": [" invite friends to party", " have a party", " invite friends"]}
+{"head": "invite friends", "relation": "HasSubEvent", "tails": [" invite friends to party", " invite friends", " invite people to party"]}
+{"head": "invite friends", "relation": "Causes", "tails": [" invite friends", " have a party", " have a good time"]}
+{"head": "invite friends", "relation": "xReason", "tails": [" invite friends", " invite friends to party", " have a party"]}
+{"head": "house", "relation": "ObjectUse", "tails": [" live in", " living in", " house"]}
+{"head": "house", "relation": "AtLocation", "tails": [" house", " apartment building", " home"]}
+{"head": "house", "relation": "CapableOf", "tails": [" live in", " house", " house family"]}
+{"head": "house", "relation": "HasProperty", "tails": [" found in", " house", " built on land"]}
+{"head": "house", "relation": "MadeUpOf", "tails": [" house", " housewares", " house roof"]}
+{"head": "house", "relation": "NotDesires", "tails": [" house fire", " live in", " house to burn"]}
+{"head": "house", "relation": "Desires", "tails": [" live in", " house", " living in"]}
+{"head": "hours", "relation": "ObjectUse", "tails": [" work for", " work in", " work"]}
+{"head": "hours", "relation": "AtLocation", "tails": [" office", " clock", " office building"]}
+{"head": "hours", "relation": "CapableOf", "tails": [" work long hours", " work hard", " sleep"]}
+{"head": "hours", "relation": "HasProperty", "tails": [" many hours", " hours of work", " many hours of work"]}
+{"head": "hours", "relation": "MadeUpOf", "tails": [" hours worked", " hours", " clock"]}
+{"head": "hours", "relation": "NotDesires", "tails": [" have to go to work", " have to work", " have to go to doctor"]}
+{"head": "hours", "relation": "Desires", "tails": [" have fun", " sleep", " work"]}
+{"head": "games", "relation": "ObjectUse", "tails": [" play with friends", " play with others", " win money"]}
+{"head": "games", "relation": "AtLocation", "tails": [" video game store", " games store", " video games"]}
+{"head": "games", "relation": "CapableOf", "tails": [" play with friends", " have fun", " play"]}
+{"head": "games", "relation": "HasProperty", "tails": [" played with friends", " fun", " games"]}
+{"head": "games", "relation": "MadeUpOf", "tails": [" games", " game system", " games console"]}
+{"head": "games", "relation": "NotDesires", "tails": [" have fun", " have fun with", " have to play"]}
+{"head": "games", "relation": "Desires", "tails": [" have fun", " play with friends", " have fun with"]}
+{"head": "game", "relation": "ObjectUse", "tails": [" play with friends", " have fun", " have fun with"]}
+{"head": "game", "relation": "AtLocation", "tails": [" video game", " game console", " game store"]}
+{"head": "game", "relation": "CapableOf", "tails": [" play with friends", " play", " play with friend"]}
+{"head": "game", "relation": "HasProperty", "tails": [" played on tv", " game", " played by people"]}
+{"head": "game", "relation": "MadeUpOf", "tails": [" game", " game system", " video game"]}
+{"head": "game", "relation": "NotDesires", "tails": [" win or lose", " lose", " lose to opponent"]}
+{"head": "game", "relation": "Desires", "tails": [" have fun", " play with friends", " have fun with"]}
+{"head": "friends", "relation": "ObjectUse", "tails": [" hang out with", " have a good time with", " have a good time"]}
+{"head": "friends", "relation": "AtLocation", "tails": [" friend's house", " friends house", " friends"]}
+{"head": "friends", "relation": "CapableOf", "tails": [" hang out with", " talk to", " talk to each other"]}
+{"head": "friends", "relation": "HasProperty", "tails": [" friends", " good friends", " socializing"]}
+{"head": "friends", "relation": "MadeUpOf", "tails": [" friends", " friendship", " socializing"]}
+{"head": "friends", "relation": "NotDesires", "tails": [" have to talk to", " have fun with", " have to go out with"]}
+{"head": "friends", "relation": "Desires", "tails": [" have a good time", " have a good time with", " have fun with"]}
+{"head": "evening", "relation": "ObjectUse", "tails": [" have a good time", " have a party", " have a good time at"]}
+{"head": "evening", "relation": "AtLocation", "tails": [" bed", " night", " evening"]}
+{"head": "evening", "relation": "CapableOf", "tails": [" eat dinner", " watch tv", " light candles"]}
+{"head": "evening", "relation": "HasProperty", "tails": [" dark", " evening", " good weather"]}
+{"head": "evening", "relation": "MadeUpOf", "tails": [" evening", " night", " light"]}
+{"head": "evening", "relation": "NotDesires", "tails": [" have to go to work", " have to go to bed", " fall asleep"]}
+{"head": "evening", "relation": "Desires", "tails": [" watch tv", " have fun", " eat dinner"]}
+{"head": "different board games", "relation": "ObjectUse", "tails": [" play with friends", " use as a prop in a play", " use as a prop in a movie"]}
+{"head": "different board games", "relation": "AtLocation", "tails": [" game store", " board game", " board game store"]}
+{"head": "different board games", "relation": "CapableOf", "tails": [" play with friends", " play different games", " play with others"]}
+{"head": "different board games", "relation": "HasProperty", "tails": [" fun to play", " different rules", " fun"]}
+{"head": "different board games", "relation": "MadeUpOf", "tails": [" board", " game board", " game"]}
+{"head": "different board games", "relation": "NotDesires", "tails": [" play with friends", " have fun", " have fun with"]}
+{"head": "different board games", "relation": "Desires", "tails": [" have fun", " play with friends", " play different games"]}
+{"head": "board games", "relation": "ObjectUse", "tails": [" play with friends", " play with others", " use as a weapon"]}
+{"head": "board games", "relation": "AtLocation", "tails": [" game store", " board game", " board game store"]}
+{"head": "board games", "relation": "CapableOf", "tails": [" play with friends", " play with others", " play with family"]}
+{"head": "board games", "relation": "HasProperty", "tails": [" played with friends", " fun", " played in house"]}
+{"head": "board games", "relation": "MadeUpOf", "tails": [" board game", " board", " game board"]}
+{"head": "board games", "relation": "NotDesires", "tails": [" play with friends", " board games", " play with others"]}
+{"head": "board games", "relation": "Desires", "tails": [" play with friends", " have fun", " have fun with"]}
+{"head": "board", "relation": "ObjectUse", "tails": [" use as a doorstop", " use as a door stop", " use as a weapon"]}
+{"head": "board", "relation": "AtLocation", "tails": [" boat", " ship", " school bus"]}
+{"head": "board", "relation": "CapableOf", "tails": [" board ship", " board boat", " put on board"]}
+{"head": "board", "relation": "HasProperty", "tails": [" found on boat", " used in boat", " found in boat"]}
+{"head": "board", "relation": "MadeUpOf", "tails": [" shipboard", " boat", " board"]}
+{"head": "board", "relation": "NotDesires", "tails": [" boardwalk", " board game", " board"]}
+{"head": "board", "relation": "Desires", "tails": [" boardwalk", " ride on", " sailboat"]}
+{"head": "big table", "relation": "ObjectUse", "tails": [" eat dinner on", " use as a table", " eat dinner at"]}
+{"head": "big table", "relation": "AtLocation", "tails": [" kitchen", " house", " table"]}
+{"head": "big table", "relation": "CapableOf", "tails": [" sit at", " eat dinner on", " eat dinner at"]}
+{"head": "big table", "relation": "HasProperty", "tails": [" large", " big", " used for dining"]}
+{"head": "big table", "relation": "MadeUpOf", "tails": [" table cloth", " tablecloth", " table"]}
+{"head": "big table", "relation": "NotDesires", "tails": [" eat dinner on", " eat dinner at", " eat at"]}
+{"head": "big table", "relation": "Desires", "tails": [" eat dinner on", " eat dinner at", " eat at"]}
+{"head": "They took turns deciding which game to play.", "relation": "xAttr", "tails": [" competitive", " fun", " playful"]}
+{"head": "They took turns deciding which game to play.", "relation": "xWant", "tails": [" to have fun", " to win the game", " to play the game"]}
+{"head": "They took turns deciding which game to play.", "relation": "xNeed", "tails": [" have a game to play", " to have a game to play", " play the game"]}
+{"head": "They took turns deciding which game to play.", "relation": "xEffect", "tails": [" they have a good time", " they get to play the game", " they get to play a game"]}
+{"head": "They took turns deciding which game to play.", "relation": "HinderedBy", "tails": [" they had a good time", " they have to play the same game", " they have to play the game"]}
+{"head": "They took turns deciding which game to play.", "relation": "oWant", "tails": [" to have fun", " to win the game", " to play the game"]}
+{"head": "They took turns deciding which game to play.", "relation": "xReact", "tails": [" happy", " entertained", " happy."]}
+{"head": "They took turns deciding which game to play.", "relation": "oEffect", "tails": [" none", " they get to play the game", " they get to play a game"]}
+{"head": "They took turns deciding which game to play.", "relation": "xIntent", "tails": [" to have fun", " they want to have fun", " they want to have a good time"]}
+{"head": "They took turns deciding which game to play.", "relation": "oReact", "tails": [" none", " happy", " entertained"]}
+{"head": "They took turns deciding which game to play.", "relation": "isBefore", "tails": [" they play the game", " they play the game again", " they had fun"]}
+{"head": "They took turns deciding which game to play.", "relation": "isAfter", "tails": [" they play the game", " they play a game", " they play the game again"]}
+{"head": "They took turns deciding which game to play.", "relation": "HasSubEvent", "tails": [" have fun", " they play the game", " they play a game"]}
+{"head": "They took turns deciding which game to play.", "relation": "Causes", "tails": [" they get to play the game", " they get to play a game", " they have fun"]}
+{"head": "They took turns deciding which game to play.", "relation": "xReason", "tails": [" have fun", " they get to play the game", " they get to play a game"]}
+{"head": "They spent six hours playing different board games.", "relation": "xAttr", "tails": [" fun", " entertained", " playful"]}
+{"head": "They spent six hours playing different board games.", "relation": "xWant", "tails": [" to have a good time", " to have fun", " to win the game"]}
+{"head": "They spent six hours playing different board games.", "relation": "xNeed", "tails": [" to buy a board game", " to have a board game", " have a board game to play"]}
+{"head": "They spent six hours playing different board games.", "relation": "xEffect", "tails": [" they have a good time", " they have a lot of fun", " they have fun"]}
+{"head": "They spent six hours playing different board games.", "relation": "HinderedBy", "tails": [" they had a lot of fun", " they had a good time", " they have to go to work"]}
+{"head": "They spent six hours playing different board games.", "relation": "oWant", "tails": [" to have fun", " to have a good time", " to win the game"]}
+{"head": "They spent six hours playing different board games.", "relation": "xReact", "tails": [" entertained", " happy", " fun"]}
+{"head": "They spent six hours playing different board games.", "relation": "oEffect", "tails": [" have fun", " none", " they have fun"]}
+{"head": "They spent six hours playing different board games.", "relation": "xIntent", "tails": [" to have fun", " to have a good time", " to be entertained"]}
+{"head": "They spent six hours playing different board games.", "relation": "oReact", "tails": [" none", " entertained", " happy"]}
+{"head": "They spent six hours playing different board games.", "relation": "isBefore", "tails": [" they had a good time", " they had a lot of fun", " they had a great time"]}
+{"head": "They spent six hours playing different board games.", "relation": "isAfter", "tails": [" they had a lot of fun", " they had a good time", " they had a great time"]}
+{"head": "They spent six hours playing different board games.", "relation": "HasSubEvent", "tails": [" have fun", " get tired", " they get tired"]}
+{"head": "They spent six hours playing different board games.", "relation": "Causes", "tails": [" they have a lot of fun", " they have a good time", " they have fun"]}
+{"head": "They spent six hours playing different board games.", "relation": "xReason", "tails": [" they had a lot of fun", " they had a good time", " they had a great time"]}
+{"head": "They arrived at his house early that evening.", "relation": "xAttr", "tails": [" tired", " friendly", " happy"]}
+{"head": "They arrived at his house early that evening.", "relation": "xWant", "tails": [" to have dinner with him", " to go to sleep", " to have a conversation with him"]}
+{"head": "They arrived at his house early that evening.", "relation": "xNeed", "tails": [" to get in the car", " to drive to his house", " to drive to the house"]}
+{"head": "They arrived at his house early that evening.", "relation": "xEffect", "tails": [" they have a good time", " they go to sleep", " they go to bed"]}
+{"head": "They arrived at his house early that evening.", "relation": "HinderedBy", "tails": [" they have to go to work", " they have to go to the doctor", " they have to go to the movies"]}
+{"head": "They arrived at his house early that evening.", "relation": "oWant", "tails": [" to have a good time", " to have dinner with them", " to have dinner with him"]}
+{"head": "They arrived at his house early that evening.", "relation": "xReact", "tails": [" happy", " excited", " happy."]}
+{"head": "They arrived at his house early that evening.", "relation": "oEffect", "tails": [" none", " they have a good time", " they get to know each other"]}
+{"head": "They arrived at his house early that evening.", "relation": "xIntent", "tails": [" to spend time with him", " to spend time with his family", " to spend time with his family."]}
+{"head": "They arrived at his house early that evening.", "relation": "oReact", "tails": [" none", " happy to see them", " happy to see them."]}
+{"head": "They arrived at his house early that evening.", "relation": "isBefore", "tails": [" they go to sleep", " they go to bed", " they eat dinner"]}
+{"head": "They arrived at his house early that evening.", "relation": "isAfter", "tails": [" PersonX drives to PersonX's house.", " PersonX drives to PersonY's house.", " PersonX drives to PersonX's house"]}
+{"head": "They arrived at his house early that evening.", "relation": "HasSubEvent", "tails": [" have a good time", " get a drink", " have a conversation"]}
+{"head": "They arrived at his house early that evening.", "relation": "Causes", "tails": [" they have a good time", " they get to see their friend", " they get to see their friends"]}
+{"head": "They arrived at his house early that evening.", "relation": "xReason", "tails": [" they have a good time", " they go to sleep", " they go to the movies"]}
+{"head": "The six of them sat around a big table.", "relation": "xAttr", "tails": [" sociable", " social", " hungry"]}
+{"head": "The six of them sat around a big table.", "relation": "xWant", "tails": [" to eat", " to eat dinner", " to have a conversation"]}
+{"head": "The six of them sat around a big table.", "relation": "xNeed", "tails": [" to invite them to the table", " to invite people to the table", " to invite everyone to the table"]}
+{"head": "The six of them sat around a big table.", "relation": "xEffect", "tails": [" eat food", " eat dinner", " none"]}
+{"head": "The six of them sat around a big table.", "relation": "HinderedBy", "tails": [" the food to be eaten", " the food to be served", " the food to be served."]}
+{"head": "The six of them sat around a big table.", "relation": "oWant", "tails": [" to eat", " to have a good time", " to have a conversation"]}
+{"head": "The six of them sat around a big table.", "relation": "xReact", "tails": [" happy", " happy to be with his friends", " happy to be with his friends."]}
+{"head": "The six of them sat around a big table.", "relation": "oEffect", "tails": [" none", " eat food", " eat dinner"]}
+{"head": "The six of them sat around a big table.", "relation": "xIntent", "tails": [" to have a good time", " to eat", " to have a conversation"]}
+{"head": "The six of them sat around a big table.", "relation": "oReact", "tails": [" none", " happy", " satiated"]}
+{"head": "The six of them sat around a big table.", "relation": "isBefore", "tails": [" the food to be eaten", " the food to be served", " the table was full of food"]}
+{"head": "The six of them sat around a big table.", "relation": "isAfter", "tails": [" food", " the kids", " the table"]}
+{"head": "The six of them sat around a big table.", "relation": "HasSubEvent", "tails": [" eat food", " eat dinner", " eat"]}
+{"head": "The six of them sat around a big table.", "relation": "Causes", "tails": [" the food to be eaten", " the food to be served", " the table to be full"]}
+{"head": "The six of them sat around a big table.", "relation": "xReason", "tails": [" the food to be eaten", " the food to be served", " the food to be served."]}
+{"head": "Saturday night", "relation": "ObjectUse", "tails": [" have a party", " have a good time", " sleep in"]}
+{"head": "Saturday night", "relation": "AtLocation", "tails": [" bed and breakfast", " night club", " movie"]}
+{"head": "Saturday night", "relation": "CapableOf", "tails": [" sleep in", " sleep late", " get drunk"]}
+{"head": "Saturday night", "relation": "HasProperty", "tails": [" slept in", " Saturday night", " found in church"]}
+{"head": "Saturday night", "relation": "MadeUpOf", "tails": [" dinner", " night club", " night"]}
+{"head": "Saturday night", "relation": "NotDesires", "tails": [" have to go to work", " have to go to bed", " have to go to the bathroom"]}
+{"head": "Saturday night", "relation": "Desires", "tails": [" have a good time", " have fun", " have fun with friends"]}
+{"head": "Jeff invited his friends over to play board games on Saturday night.", "relation": "xAttr", "tails": [" social", " fun", " friendly"]}
+{"head": "Jeff invited his friends over to play board games on Saturday night.", "relation": "xWant", "tails": [" to have a good time", " to have fun", " to have fun with his friends"]}
+{"head": "Jeff invited his friends over to play board games on Saturday night.", "relation": "xNeed", "tails": [" to invite them over", " to invite friends over", " to invite them to play"]}
+{"head": "Jeff invited his friends over to play board games on Saturday night.", "relation": "xEffect", "tails": [" play games with friends", " play board games with friends", " play board games"]}
+{"head": "Jeff invited his friends over to play board games on Saturday night.", "relation": "HinderedBy", "tails": [" Jeff's friends don't like to play board games.", " Jeff's friends don't want to play games with him.", " Jeff's friends don't like to play games."]}
+{"head": "Jeff invited his friends over to play board games on Saturday night.", "relation": "oWant", "tails": [" to have a good time", " to have fun", " to have a good time."]}
+{"head": "Jeff invited his friends over to play board games on Saturday night.", "relation": "xReact", "tails": [" happy", " excited", " social"]}
+{"head": "Jeff invited his friends over to play board games on Saturday night.", "relation": "oEffect", "tails": [" have a good time", " have fun", " have fun with friends"]}
+{"head": "Jeff invited his friends over to play board games on Saturday night.", "relation": "xIntent", "tails": [" to have fun", " to have a good time", " to have fun with his friends"]}
+{"head": "Jeff invited his friends over to play board games on Saturday night.", "relation": "oReact", "tails": [" happy", " none", " entertained"]}
+{"head": "Jeff invited his friends over to play board games on Saturday night.", "relation": "isBefore", "tails": [" have fun", " play games with friends", " have fun with friends"]}
+{"head": "Jeff invited his friends over to play board games on Saturday night.", "relation": "isAfter", "tails": [" play games with friends", " have fun", " have fun with friends"]}
+{"head": "Jeff invited his friends over to play board games on Saturday night.", "relation": "HasSubEvent", "tails": [" have fun", " have a good time", " play games"]}
+{"head": "Jeff invited his friends over to play board games on Saturday night.", "relation": "Causes", "tails": [" play board games", " play games with friends", " play games"]}
+{"head": "Jeff invited his friends over to play board games on Saturday night.", "relation": "xReason", "tails": [" have a good time", " have fun", " have fun with friends"]}
+{"head": "Jeff", "relation": "ObjectUse", "tails": [" get a new job", " get a job", " Jeff's wife is pregnant"]}
+{"head": "Jeff", "relation": "AtLocation", "tails": [" house", " home", " apartment"]}
+{"head": "Jeff", "relation": "CapableOf", "tails": [" take shower", " get into argument", " get a job"]}
+{"head": "Jeff", "relation": "HasProperty", "tails": [" Jeff", " Jeffery", " none"]}
+{"head": "Jeff", "relation": "MadeUpOf", "tails": ["              ", "               ", "                "]}
+{"head": "Jeff", "relation": "NotDesires", "tails": [" Jeff's wife is pregnant with Jeff's child.", " Jeff's wife is pregnant with Jeff's child", " Jeff's wife is pregnant with Jeff's baby."]}
+{"head": "Jeff", "relation": "Desires", "tails": [" have a good time", " none", " have a good life"]}

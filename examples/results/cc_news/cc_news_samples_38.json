@@ -1,0 +1,82 @@
+{"head": "year", "relation": "ObjectUse", "tails": [" have a birthday", " get a promotion", " have a good time"]}
+{"head": "year", "relation": "AtLocation", "tails": [" year", " office building", " school"]}
+{"head": "year", "relation": "CapableOf", "tails": [" pay bills on time", " pay rent", " pay taxes"]}
+{"head": "year", "relation": "HasProperty", "tails": [" year", " one year", " many years"]}
+{"head": "year", "relation": "MadeUpOf", "tails": [" year", " number of years", " number of days"]}
+{"head": "year", "relation": "NotDesires", "tails": [" year", " year to end", " have to pay bills"]}
+{"head": "year", "relation": "Desires", "tails": [" year", " year of life", " year to live"]}
+{"head": "to go", "relation": "HinderedBy", "tails": [" to go", " to go ", " to go  to"]}
+{"head": "to go", "relation": "isBefore", "tails": [" to go", " get in car", " to go somewhere"]}
+{"head": "to go", "relation": "isAfter", "tails": [" get in the car", " get in car", " to go to the bathroom"]}
+{"head": "to go", "relation": "HasSubEvent", "tails": [" get in car", " to go", " to go  home"]}
+{"head": "to go", "relation": "Causes", "tails": [" to go", " get in car", " to go  home"]}
+{"head": "to go", "relation": "xReason", "tails": [" to go", " get in car", " to go somewhere"]}
+{"head": "to enter", "relation": "HinderedBy", "tails": [" to enter", " to enter ", " to enter the building"]}
+{"head": "to enter", "relation": "isBefore", "tails": [" to enter", " enter building", " to enter room"]}
+{"head": "to enter", "relation": "isAfter", "tails": [" to enter", " to enter the contest", " get in line"]}
+{"head": "to enter", "relation": "HasSubEvent", "tails": [" enter building", " to enter", " get in car"]}
+{"head": "to enter", "relation": "Causes", "tails": [" to enter", " enter building", " get in"]}
+{"head": "to enter", "relation": "xReason", "tails": [" to enter", " get in", " enter"]}
+{"head": "restaurants", "relation": "ObjectUse", "tails": [" eat at", " eat in", " have a party"]}
+{"head": "restaurants", "relation": "AtLocation", "tails": [" city", " restaurant", " town"]}
+{"head": "restaurants", "relation": "CapableOf", "tails": [" buy food", " eat food", " order food"]}
+{"head": "restaurants", "relation": "HasProperty", "tails": [" restaurants", " found in", " found in cities"]}
+{"head": "restaurants", "relation": "MadeUpOf", "tails": [" restaurants", " food", " restaurant"]}
+{"head": "restaurants", "relation": "NotDesires", "tails": [" eat at", " eat food", " eat in"]}
+{"head": "restaurants", "relation": "Desires", "tails": [" have a good meal", " have a place to eat", " have a good time"]}
+{"head": "renovations", "relation": "ObjectUse", "tails": [" make a house look nice", " make a home look nice", " make a house look better"]}
+{"head": "renovations", "relation": "AtLocation", "tails": [" house", " home", " garage"]}
+{"head": "renovations", "relation": "CapableOf", "tails": [" make room look nice", " get a new job", " have a new home"]}
+{"head": "renovations", "relation": "HasProperty", "tails": [" renovate a house", " needed for new home", " renovate a home"]}
+{"head": "renovations", "relation": "MadeUpOf", "tails": [" remodel", " remodeling", " renovate"]}
+{"head": "renovations", "relation": "NotDesires", "tails": [" have to pay for", " make room look nice", " have a new home"]}
+{"head": "renovations", "relation": "Desires", "tails": [" have a new place to live", " have a new home", " have a new place to call home"]}
+{"head": "number", "relation": "ObjectUse", "tails": [" make a phone call", " make a phone call with", " call the police"]}
+{"head": "number", "relation": "AtLocation", "tails": [" phone", " phone number", " phone book"]}
+{"head": "number", "relation": "CapableOf", "tails": [" know what to buy", " know what to do", " know what number to call"]}
+{"head": "number", "relation": "HasProperty", "tails": [" number", " found in phone book", " found on computer"]}
+{"head": "number", "relation": "MadeUpOf", "tails": [" number", " numbers", " number plate"]}
+{"head": "number", "relation": "NotDesires", "tails": [" number", " numbers", " call in"]}
+{"head": "number", "relation": "Desires", "tails": [" know what to do", " know what to buy", " know what number to call"]}
+{"head": "new year", "relation": "ObjectUse", "tails": [" make a new year's resolution", " have a good year", " make a new year's resolution."]}
+{"head": "new year", "relation": "AtLocation", "tails": [" new year", " christmas", " new year's eve"]}
+{"head": "new year", "relation": "CapableOf", "tails": [" make new year's resolution", " celebrate new year", " celebrate new year's eve"]}
+{"head": "new year", "relation": "HasProperty", "tails": [" new year", " happy", " good luck"]}
+{"head": "new year", "relation": "MadeUpOf", "tails": [" new year", " new year's eve", " new moon"]}
+{"head": "new year", "relation": "NotDesires", "tails": [" new year", " have new year's eve", " have a new year"]}
+{"head": "new year", "relation": "Desires", "tails": [" new year", " have a good year", " have a new year"]}
+{"head": "major renovations", "relation": "ObjectUse", "tails": [" have a new home", " get a new job", " get a new house"]}
+{"head": "major renovations", "relation": "AtLocation", "tails": [" house", " apartment building", " home"]}
+{"head": "major renovations", "relation": "CapableOf", "tails": [" make room look nice", " make house look nice", " make house look new"]}
+{"head": "major renovations", "relation": "HasProperty", "tails": [" needed for new house to be built", " needed for new house to be completed", " needed for new home to be built"]}
+{"head": "major renovations", "relation": "MadeUpOf", "tails": [" remodel", " remodeling", " house"]}
+{"head": "major renovations", "relation": "NotDesires", "tails": [" have to pay for", " have to pay rent", " have to clean up mess"]}
+{"head": "major renovations", "relation": "Desires", "tails": [" have a new place to live", " have a new place to call home", " have a new home"]}
+{"head": "enter year", "relation": "HinderedBy", "tails": [" enter new year", " enter year", " enter into year"]}
+{"head": "enter year", "relation": "isBefore", "tails": [" enter new year", " enter new school", " enter school"]}
+{"head": "enter year", "relation": "isAfter", "tails": [" enter new year", " enter school", " enter new school"]}
+{"head": "enter year", "relation": "HasSubEvent", "tails": [" enter new year", " enter into new year", " enter new school year"]}
+{"head": "enter year", "relation": "Causes", "tails": [" enter new year", " enter new school", " enter school"]}
+{"head": "enter year", "relation": "xReason", "tails": [" enter new year", " enter into new year", " enter new school"]}
+{"head": "Milwaukee restaurants", "relation": "ObjectUse", "tails": [" have a good meal", " eat at", " have a good time"]}
+{"head": "Milwaukee restaurants", "relation": "AtLocation", "tails": [" city", " restaurant", " restaurants"]}
+{"head": "Milwaukee restaurants", "relation": "CapableOf", "tails": [" eat at", " eat food", " buy food"]}
+{"head": "Milwaukee restaurants", "relation": "HasProperty", "tails": [" many different types of food", " many different types of food to choose from", " many different types of food to choose from."]}
+{"head": "Milwaukee restaurants", "relation": "MadeUpOf", "tails": [" food", " restaurant menu", " restaurants in Milwaukee"]}
+{"head": "Milwaukee restaurants", "relation": "NotDesires", "tails": [" eat at", " have to eat", " have to eat at"]}
+{"head": "Milwaukee restaurants", "relation": "Desires", "tails": [" have a good meal", " have a good time", " have good food to eat"]}
+{"head": "As we enter the new year, a number of Milwaukee restaurants are going through major renovations.", "relation": "xAttr", "tails": [" remodeling", " remodel", " happy"]}
+{"head": "As we enter the new year, a number of Milwaukee restaurants are going through major renovations.", "relation": "xWant", "tails": [" eat at the new restaurant", " eat at the new restaurants", " eat at new restaurants"]}
+{"head": "As we enter the new year, a number of Milwaukee restaurants are going through major renovations.", "relation": "xNeed", "tails": [" get a new job", " eat at new restaurants", " eat at new restaurant"]}
+{"head": "As we enter the new year, a number of Milwaukee restaurants are going through major renovations.", "relation": "xEffect", "tails": [" get a new look", " get a new job", " get a new job."]}
+{"head": "As we enter the new year, a number of Milwaukee restaurants are going through major renovations.", "relation": "HinderedBy", "tails": [" as a part of a remodel", " as a part of a remodel.", " as a part of a project"]}
+{"head": "As we enter the new year, a number of Milwaukee restaurants are going through major renovations.", "relation": "oWant", "tails": [" get a new job", " get a new look", " eat at new restaurants"]}
+{"head": "As we enter the new year, a number of Milwaukee restaurants are going through major renovations.", "relation": "xReact", "tails": [" happy", " remodeling", " remodel"]}
+{"head": "As we enter the new year, a number of Milwaukee restaurants are going through major renovations.", "relation": "oEffect", "tails": [" get a new look", " get a new job", " get a new restaurant"]}
+{"head": "As we enter the new year, a number of Milwaukee restaurants are going through major renovations.", "relation": "xIntent", "tails": [" as a part of a remodel", " as a part of a remodel.", " as a way to make money"]}
+{"head": "As we enter the new year, a number of Milwaukee restaurants are going through major renovations.", "relation": "oReact", "tails": [" remodeling", " remodel", " none"]}
+{"head": "As we enter the new year, a number of Milwaukee restaurants are going through major renovations.", "relation": "isBefore", "tails": [" as a new restaurant", " as a way to save money", " get a new job"]}
+{"head": "As we enter the new year, a number of Milwaukee restaurants are going through major renovations.", "relation": "isAfter", "tails": [" as a part of a remodel", " as a part of the remodel", " as a part of a remodel."]}
+{"head": "As we enter the new year, a number of Milwaukee restaurants are going through major renovations.", "relation": "HasSubEvent", "tails": [" get a new job", " get a new look", " eat at new restaurant"]}
+{"head": "As we enter the new year, a number of Milwaukee restaurants are going through major renovations.", "relation": "Causes", "tails": [" remodeling", " remodel", " as a new restaurant"]}
+{"head": "As we enter the new year, a number of Milwaukee restaurants are going through major renovations.", "relation": "xReason", "tails": [" get a new job", " get a new look", " eat at new restaurants"]}

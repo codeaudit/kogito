@@ -1,0 +1,101 @@
+{"head": "to overturn", "relation": "HinderedBy", "tails": [" to overturn ", " to overturn", " to win the case"]}
+{"head": "to overturn", "relation": "isBefore", "tails": [" to win the game", " to overturn", " to win the case"]}
+{"head": "to overturn", "relation": "isAfter", "tails": [" to win the game", " to win a game", " to win game"]}
+{"head": "to overturn", "relation": "HasSubEvent", "tails": [" to win the game", " to overturn", " to overturn "]}
+{"head": "to overturn", "relation": "Causes", "tails": [" to overturn", " to win the game", " to overturn "]}
+{"head": "to overturn", "relation": "xReason", "tails": [" to win the game", " to overturn", " to win game"]}
+{"head": "to fail", "relation": "HinderedBy", "tails": [" to fail", " to fail ", " to fail  to fail "]}
+{"head": "to fail", "relation": "isBefore", "tails": [" to fail", " to fail the test", " fail test"]}
+{"head": "to fail", "relation": "isAfter", "tails": [" fail test", " to fail", " failure"]}
+{"head": "to fail", "relation": "HasSubEvent", "tails": [" to fail", " fail test", " to fail "]}
+{"head": "to fail", "relation": "Causes", "tails": [" to fail", " fail test", " failure"]}
+{"head": "to fail", "relation": "xReason", "tails": [" to fail", " fail test", " failure"]}
+{"head": "to deal", "relation": "HinderedBy", "tails": [" to deal", " to deal ", " to deal with"]}
+{"head": "to deal", "relation": "isBefore", "tails": [" to deal with", " to deal", " to deal with problem"]}
+{"head": "to deal", "relation": "isAfter", "tails": [" to deal with", " to deal", " to deal with problem"]}
+{"head": "to deal", "relation": "HasSubEvent", "tails": [" to deal", " to deal with", " have to deal with"]}
+{"head": "to deal", "relation": "Causes", "tails": [" to deal", " to deal with", " have to deal with"]}
+{"head": "to deal", "relation": "xReason", "tails": [" to deal", " to deal with", " have to deal with"]}
+{"head": "skipper Katie Brennan", "relation": "ObjectUse", "tails": [" ski down the mountain", " ski down the hill", " ride a boat"]}
+{"head": "skipper Katie Brennan", "relation": "AtLocation", "tails": [" ice cream parlor", " ice cream parlour", " ice cream shop"]}
+{"head": "skipper Katie Brennan", "relation": "CapableOf", "tails": [" ski down the mountain", " ski down hill", " ski down the hill"]}
+{"head": "skipper Katie Brennan", "relation": "HasProperty", "tails": [" skydiving", " skydive", " skis"]}
+{"head": "skipper Katie Brennan", "relation": "MadeUpOf", "tails": [" skis", " ice skates", " skates"]}
+{"head": "skipper Katie Brennan", "relation": "NotDesires", "tails": [" skydive", " skydiving", " skydive with"]}
+{"head": "skipper Katie Brennan", "relation": "Desires", "tails": [" to have fun", " to be a good skipper", " to be a good skier"]}
+{"head": "skipper", "relation": "ObjectUse", "tails": [" get to the top of the mountain", " get to the top of a mountain", " ski down the mountain"]}
+{"head": "skipper", "relation": "AtLocation", "tails": [" boat", " beach", " ski resort"]}
+{"head": "skipper", "relation": "CapableOf", "tails": [" ski down river", " board boat", " ski down mountain"]}
+{"head": "skipper", "relation": "HasProperty", "tails": [" skydive", " skydiving", " skis"]}
+{"head": "skipper", "relation": "MadeUpOf", "tails": [" skis", " ski lift", " skiboard"]}
+{"head": "skipper", "relation": "NotDesires", "tails": [" ski down mountain", " ski down hill", " ski in snow"]}
+{"head": "skipper", "relation": "Desires", "tails": [" go to the top of mountain", " go to the top of the mountain", " go to the top of a mountain"]}
+{"head": "overturn ban", "relation": "HinderedBy", "tails": [" do what they say they are going to do", " do what they want to do", " do what they say they are going to do."]}
+{"head": "overturn ban", "relation": "isBefore", "tails": [" get out of jail", " get out of trouble", " have to follow rules"]}
+{"head": "overturn ban", "relation": "isAfter", "tails": [" have to follow rules", " have to obey law", " have to obey"]}
+{"head": "overturn ban", "relation": "HasSubEvent", "tails": [" make sure no one is affected", " make sure no one is around", " make sure no one gets hurt"]}
+{"head": "overturn ban", "relation": "Causes", "tails": [" have to obey the law", " have to follow rules", " have to obey the law."]}
+{"head": "overturn ban", "relation": "xReason", "tails": [" have to obey the law", " have to follow rules", " have to obey law"]}
+{"head": "match ban", "relation": "ObjectUse", "tails": [" get out of jail", " get out of trouble", " get out of a fight"]}
+{"head": "match ban", "relation": "AtLocation", "tails": [" match", " football field", " football game"]}
+{"head": "match ban", "relation": "CapableOf", "tails": [" hit opponent", " hit opponent in face", " hit opponent with ball"]}
+{"head": "match ban", "relation": "HasProperty", "tails": [" banned for life", " suspended for one year", " suspended for one match"]}
+{"head": "match ban", "relation": "MadeUpOf", "tails": [" match", " game", " ban"]}
+{"head": "match ban", "relation": "NotDesires", "tails": [" fight with opponent", " get suspended for a match", " get suspended for a year"]}
+{"head": "match ban", "relation": "Desires", "tails": [" get out of trouble", " win match", " get out of jail"]}
+{"head": "match", "relation": "ObjectUse", "tails": [" use as a weapon", " use as a prop in a play", " use as a weapon in a war"]}
+{"head": "match", "relation": "AtLocation", "tails": [" matchbook", " football game", " matchbox"]}
+{"head": "match", "relation": "CapableOf", "tails": [" match opponent", " play game", " throw ball"]}
+{"head": "match", "relation": "HasProperty", "tails": [" found in matchbook", " match", " found in match book"]}
+{"head": "match", "relation": "MadeUpOf", "tails": [" match", " matchstick", " matchmaker"]}
+{"head": "match", "relation": "NotDesires", "tails": [" win match", " match", " lose match"]}
+{"head": "match", "relation": "Desires", "tails": [" win match", " match", " match with opponent"]}
+{"head": "deal blow", "relation": "HinderedBy", "tails": [" deal blow", " deal with blow", " deal blow "]}
+{"head": "deal blow", "relation": "isBefore", "tails": [" deal blow", " deal with blow", " deal blow to blow"]}
+{"head": "deal blow", "relation": "isAfter", "tails": [" deal blow", " strike blow", " fight"]}
+{"head": "deal blow", "relation": "HasSubEvent", "tails": [" deal blow", " make deal", " deal with"]}
+{"head": "deal blow", "relation": "Causes", "tails": [" deal blow", " make deal", " deal with"]}
+{"head": "deal blow", "relation": "xReason", "tails": [" deal blow", " make deal", " deal with"]}
+{"head": "blow", "relation": "ObjectUse", "tails": [" blow air out of nose", " blow air out of mouth", " blow air out of nostrils"]}
+{"head": "blow", "relation": "AtLocation", "tails": [" air conditioner", " air conditioning unit", " gas station"]}
+{"head": "blow", "relation": "CapableOf", "tails": [" blow air out of mouth", " blow out of mouth", " blow air out of nose"]}
+{"head": "blow", "relation": "HasProperty", "tails": [" blow air out of mouth", " blow air out of nose", " blow air out of nostrils"]}
+{"head": "blow", "relation": "MadeUpOf", "tails": [" blowpipe", " blow nose", " blow"]}
+{"head": "blow", "relation": "NotDesires", "tails": [" blow air out of mouth", " blow air out of nose", " blow air out of nostrils"]}
+{"head": "blow", "relation": "Desires", "tails": [" blow air out of mouth", " blow air out of nose", " blow air out of nostrils"]}
+{"head": "big blow", "relation": "ObjectUse", "tails": [" hurt someone", " blow up", " make a statement"]}
+{"head": "big blow", "relation": "AtLocation", "tails": [" big house", " big game", " big city"]}
+{"head": "big blow", "relation": "CapableOf", "tails": [" blow up", " blow out candle", " hurt someone"]}
+{"head": "big blow", "relation": "HasProperty", "tails": [" big", " powerful", " big blow"]}
+{"head": "big blow", "relation": "MadeUpOf", "tails": [" blow to head", " blow to the head", " big blow"]}
+{"head": "big blow", "relation": "NotDesires", "tails": [" bad news", " hurt feelings", " hurt"]}
+{"head": "big blow", "relation": "Desires", "tails": [" feel pain", " hurt someone", " feel good"]}
+{"head": "ban", "relation": "ObjectUse", "tails": [" get into a fight", " get into a bar", " get into trouble"]}
+{"head": "ban", "relation": "AtLocation", "tails": [" prison", " ban book", " jail"]}
+{"head": "ban", "relation": "CapableOf", "tails": [" stop person from doing something", " stop person from doing thing", " stop person from doing it"]}
+{"head": "ban", "relation": "HasProperty", "tails": [" banned in many countries", " banned in many places", " banned in country of origin"]}
+{"head": "ban", "relation": "MadeUpOf", "tails": [" ban", " liscence", " liscense"]}
+{"head": "ban", "relation": "NotDesires", "tails": [" get in trouble", " get arrested", " stop doing something"]}
+{"head": "ban", "relation": "Desires", "tails": [" get out of trouble", " make sure no one does it again", " make sure no one gets in trouble"]}
+{"head": "Western Bulldogs", "relation": "ObjectUse", "tails": [" play in the NFL", " play football", " play in the game"]}
+{"head": "Western Bulldogs", "relation": "AtLocation", "tails": [" football stadium", " football field", " basketball game"]}
+{"head": "Western Bulldogs", "relation": "CapableOf", "tails": [" play football", " play football game", " play in football game"]}
+{"head": "Western Bulldogs", "relation": "HasProperty", "tails": [" one of the best teams in the country", " one of the most popular teams in the country", " one of the best teams in the world"]}
+{"head": "Western Bulldogs", "relation": "MadeUpOf", "tails": [" football field", " football team", " football"]}
+{"head": "Western Bulldogs", "relation": "NotDesires", "tails": [" lose game", " play football", " play in stadium"]}
+{"head": "Western Bulldogs", "relation": "Desires", "tails": [" have a good team", " play football", " play in the NFL"]}
+{"head": "The Western Bulldogs are dealt a big blow ahead of Saturday's AFLW grand final, with skipper Katie Brennan ineligible after failing to overturn a one-match ban.", "relation": "xAttr", "tails": [" upset", " sad", " angry"]}
+{"head": "The Western Bulldogs are dealt a big blow ahead of Saturday's AFLW grand final, with skipper Katie Brennan ineligible after failing to overturn a one-match ban.", "relation": "xWant", "tails": [" to win the game", " to win the match", " to win the game."]}
+{"head": "The Western Bulldogs are dealt a big blow ahead of Saturday's AFLW grand final, with skipper Katie Brennan ineligible after failing to overturn a one-match ban.", "relation": "xNeed", "tails": [" the team to win the game", " the team to win the match", " the team to play the game"]}
+{"head": "The Western Bulldogs are dealt a big blow ahead of Saturday's AFLW grand final, with skipper Katie Brennan ineligible after failing to overturn a one-match ban.", "relation": "xEffect", "tails": [" the team loses the game", " the team loses the match", " the team loses a player"]}
+{"head": "The Western Bulldogs are dealt a big blow ahead of Saturday's AFLW grand final, with skipper Katie Brennan ineligible after failing to overturn a one-match ban.", "relation": "HinderedBy", "tails": [" the team to win the game", " the team to win the match", " the team to play the game"]}
+{"head": "The Western Bulldogs are dealt a big blow ahead of Saturday's AFLW grand final, with skipper Katie Brennan ineligible after failing to overturn a one-match ban.", "relation": "oWant", "tails": [" the team to win the grand final", " the team to win the game", " the team to win the grand final."]}
+{"head": "The Western Bulldogs are dealt a big blow ahead of Saturday's AFLW grand final, with skipper Katie Brennan ineligible after failing to overturn a one-match ban.", "relation": "xReact", "tails": [" sad", " upset", " disappointed"]}
+{"head": "The Western Bulldogs are dealt a big blow ahead of Saturday's AFLW grand final, with skipper Katie Brennan ineligible after failing to overturn a one-match ban.", "relation": "oEffect", "tails": [" the team to lose the game", " the team to lose the match", " the team to lose the game."]}
+{"head": "The Western Bulldogs are dealt a big blow ahead of Saturday's AFLW grand final, with skipper Katie Brennan ineligible after failing to overturn a one-match ban.", "relation": "xIntent", "tails": [" the team to win the game", " the team to win the grand final", " the team to win"]}
+{"head": "The Western Bulldogs are dealt a big blow ahead of Saturday's AFLW grand final, with skipper Katie Brennan ineligible after failing to overturn a one-match ban.", "relation": "oReact", "tails": [" none", " the team to lose the game", " the team to lose the match"]}
+{"head": "The Western Bulldogs are dealt a big blow ahead of Saturday's AFLW grand final, with skipper Katie Brennan ineligible after failing to overturn a one-match ban.", "relation": "isBefore", "tails": [" the team to lose the game", " the game is cancelled", " the team to lose the match"]}
+{"head": "The Western Bulldogs are dealt a big blow ahead of Saturday's AFLW grand final, with skipper Katie Brennan ineligible after failing to overturn a one-match ban.", "relation": "isAfter", "tails": [" the team will not be able to compete in the grand final", " the team will not be able to play in the grand final", " the team will not be able to play in the grand final."]}
+{"head": "The Western Bulldogs are dealt a big blow ahead of Saturday's AFLW grand final, with skipper Katie Brennan ineligible after failing to overturn a one-match ban.", "relation": "HasSubEvent", "tails": [" the team to win the game", " the team to lose the game", " the team to lose the match"]}
+{"head": "The Western Bulldogs are dealt a big blow ahead of Saturday's AFLW grand final, with skipper Katie Brennan ineligible after failing to overturn a one-match ban.", "relation": "Causes", "tails": [" the team to lose the game", " the team to lose the match", " the team to lose the game."]}
+{"head": "The Western Bulldogs are dealt a big blow ahead of Saturday's AFLW grand final, with skipper Katie Brennan ineligible after failing to overturn a one-match ban.", "relation": "xReason", "tails": [" the team to lose the game", " the team to lose the match", " the game is cancelled"]}

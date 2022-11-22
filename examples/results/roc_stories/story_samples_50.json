@@ -1,0 +1,218 @@
+{"head": "wash hands", "relation": "HinderedBy", "tails": [" wash hands", " clean hands", " soap"]}
+{"head": "wash hands", "relation": "isBefore", "tails": [" wash hands", " wash face", " wash hands again"]}
+{"head": "wash hands", "relation": "isAfter", "tails": [" wash hands", " wash face", " soap and water"]}
+{"head": "wash hands", "relation": "HasSubEvent", "tails": [" wash hands", " wash face", " clean hands"]}
+{"head": "wash hands", "relation": "Causes", "tails": [" sanitize hands", " wash hands", " sanitize"]}
+{"head": "wash hands", "relation": "xReason", "tails": [" wash hands", " clean hands", " sanitize"]}
+{"head": "to wash", "relation": "HinderedBy", "tails": [" to wash", " to wash ", " to wash clothes"]}
+{"head": "to wash", "relation": "isBefore", "tails": [" to wash hands", " to wash the dishes", " to wash clothes"]}
+{"head": "to wash", "relation": "isAfter", "tails": [" soap and water", " soap", " shampoo"]}
+{"head": "to wash", "relation": "HasSubEvent", "tails": [" wash hands", " to wash", " to wash hands"]}
+{"head": "to wash", "relation": "Causes", "tails": [" soap and water", " soap", " to wash"]}
+{"head": "to wash", "relation": "xReason", "tails": [" to wash clothes", " to wash", " to wash hands"]}
+{"head": "to take", "relation": "HinderedBy", "tails": [" to take", " to take ", " to take  to take "]}
+{"head": "to take", "relation": "isBefore", "tails": [" to take", " to take a nap", " to take a picture"]}
+{"head": "to take", "relation": "isAfter", "tails": [" to take", " to take a nap", " to take a picture"]}
+{"head": "to take", "relation": "HasSubEvent", "tails": [" to take", " to take ", " to take  take "]}
+{"head": "to take", "relation": "Causes", "tails": [" to take", " to take  to take  to take  to take  take  to take  take  to take ", " to take  to take  to take  to take  take  to  take  take  to take"]}
+{"head": "to take", "relation": "xReason", "tails": [" to take", " to take a nap", " to take  to take "]}
+{"head": "to search", "relation": "HinderedBy", "tails": [" to search", " to search ", " to search  for something"]}
+{"head": "to search", "relation": "isBefore", "tails": [" to search", " to search for something", " to find something"]}
+{"head": "to search", "relation": "isAfter", "tails": [" to find something", " to search for something", " to search for the item"]}
+{"head": "to search", "relation": "HasSubEvent", "tails": [" to search", " to search for something", " look for something"]}
+{"head": "to search", "relation": "Causes", "tails": [" to search", " find something", " to search for"]}
+{"head": "to search", "relation": "xReason", "tails": [" to search", " to search for something", " to find something"]}
+{"head": "to notice", "relation": "HinderedBy", "tails": [" to notice", " to notice something", " to notice "]}
+{"head": "to notice", "relation": "isBefore", "tails": [" to notice", " to notice something", " to notice what's going on"]}
+{"head": "to notice", "relation": "isAfter", "tails": [" to notice something", " to notice", " none"]}
+{"head": "to notice", "relation": "HasSubEvent", "tails": [" to notice", " to notice something", " notice something"]}
+{"head": "to notice", "relation": "Causes", "tails": [" to notice", " none", " to notice something"]}
+{"head": "to notice", "relation": "xReason", "tails": [" none", " to notice", " to notice something"]}
+{"head": "to miss", "relation": "HinderedBy", "tails": [" to miss", " to miss ", " to miss something"]}
+{"head": "to miss", "relation": "isBefore", "tails": [" to miss", " to miss something", " to miss something important"]}
+{"head": "to miss", "relation": "isAfter", "tails": [" to miss", " to be missed", " none"]}
+{"head": "to miss", "relation": "HasSubEvent", "tails": [" to miss", " to miss something", " to miss something important"]}
+{"head": "to miss", "relation": "Causes", "tails": [" to miss", " to miss something", " none"]}
+{"head": "to miss", "relation": "xReason", "tails": [" to miss", " none", " to miss something"]}
+{"head": "to have", "relation": "HinderedBy", "tails": [" to have", " to have ", " to have  to have"]}
+{"head": "to have", "relation": "isBefore", "tails": [" to have", " to have ", " to have  a good time"]}
+{"head": "to have", "relation": "isAfter", "tails": [" to have something to eat", " to have", " to have something to drink"]}
+{"head": "to have", "relation": "HasSubEvent", "tails": [" to have", " to have ", " to have  have"]}
+{"head": "to have", "relation": "Causes", "tails": [" to have", " to have ", " to have  "]}
+{"head": "to have", "relation": "xReason", "tails": [" to have", " to have something to eat", " to have "]}
+{"head": "to find", "relation": "HinderedBy", "tails": [" to find ", " to find", " to find  to find "]}
+{"head": "to find", "relation": "isBefore", "tails": [" to find", " to find something", " to find "]}
+{"head": "to find", "relation": "isAfter", "tails": [" to find something", " to find something to eat", " to find"]}
+{"head": "to find", "relation": "HasSubEvent", "tails": [" to find", " to find ", " to look for it"]}
+{"head": "to find", "relation": "Causes", "tails": [" to find", " to find ", " to find something"]}
+{"head": "to find", "relation": "xReason", "tails": [" to find", " to find something", " to find "]}
+{"head": "take it", "relation": "HinderedBy", "tails": [" give it to someone else", " take it", " give it to someone"]}
+{"head": "take it", "relation": "isBefore", "tails": [" give it to someone else", " give it to someone", " give it to person"]}
+{"head": "take it", "relation": "isAfter", "tails": [" give it to someone", " give it to person", " give it to someone else"]}
+{"head": "take it", "relation": "HasSubEvent", "tails": [" give it to someone", " give it to person", " give it back"]}
+{"head": "take it", "relation": "Causes", "tails": [" give it to someone", " give it to someone else", " give it to person"]}
+{"head": "take it", "relation": "xReason", "tails": [" give it to someone", " give it to person", " give it to someone else"]}
+{"head": "sapphire", "relation": "ObjectUse", "tails": [" make jewelry", " use as a weapon", " use as jewelry"]}
+{"head": "sapphire", "relation": "AtLocation", "tails": [" jewelry", " jewelery", " jewelry box"]}
+{"head": "sapphire", "relation": "CapableOf", "tails": [" wear on head", " use as a weapon", " use as jewelry"]}
+{"head": "sapphire", "relation": "HasProperty", "tails": [" made from quartz", " made from gemstones", " beautiful"]}
+{"head": "sapphire", "relation": "MadeUpOf", "tails": [" sapphire", " sapphire or sapphire", " sapphire or sapphire pear"]}
+{"head": "sapphire", "relation": "NotDesires", "tails": [" sapphire", " made from quartz", " made from gemstones"]}
+{"head": "sapphire", "relation": "Desires", "tails": [" make jewelry", " beautiful", " jewelry"]}
+{"head": "ring", "relation": "ObjectUse", "tails": [" hang on the wall", " ring a bell", " put on the ring"]}
+{"head": "ring", "relation": "AtLocation", "tails": [" jewelry box", " ring box", " ring band"]}
+{"head": "ring", "relation": "CapableOf", "tails": [" ring bell", " put on ring finger", " put on finger"]}
+{"head": "ring", "relation": "HasProperty", "tails": [" worn on finger", " worn on ring finger", " worn on wrist"]}
+{"head": "ring", "relation": "MadeUpOf", "tails": [" ring finger", " ring", " ringhole"]}
+{"head": "ring", "relation": "NotDesires", "tails": [" wear on finger", " put on finger", " ring"]}
+{"head": "ring", "relation": "Desires", "tails": [" ring", " wear on finger", " put on ring finger"]}
+{"head": "have ring", "relation": "HinderedBy", "tails": [" wear on finger", " get married", " have no ring"]}
+{"head": "have ring", "relation": "isBefore", "tails": [" get married", " ring finger", " have wedding ring"]}
+{"head": "have ring", "relation": "isAfter", "tails": [" ring finger", " ring band", " get married"]}
+{"head": "have ring", "relation": "HasSubEvent", "tails": [" put on finger", " wear on finger", " put on ring finger"]}
+{"head": "have ring", "relation": "Causes", "tails": [" wear on finger", " wear ring on finger", " get married"]}
+{"head": "have ring", "relation": "xReason", "tails": [" wear on finger", " wear ring on finger", " get married"]}
+{"head": "hands", "relation": "ObjectUse", "tails": [" use as a weapon", " use as a paperweight", " use as a weapon to fight"]}
+{"head": "hands", "relation": "AtLocation", "tails": [" hands", " fingers", " handbag"]}
+{"head": "hands", "relation": "CapableOf", "tails": [" hold object in hands", " hand to other person", " hold object in hand"]}
+{"head": "hands", "relation": "HasProperty", "tails": [" fingers", " hands", " hand"]}
+{"head": "hands", "relation": "MadeUpOf", "tails": [" fingers", " hands", " hand"]}
+{"head": "hands", "relation": "NotDesires", "tails": [" hands get dirty", " hands are dirty", " hands get cold"]}
+{"head": "hands", "relation": "Desires", "tails": [" hands are warm", " hands are warm and soft", " hands to hold things"]}
+{"head": "floor", "relation": "ObjectUse", "tails": [" walk on", " standing on", " floor"]}
+{"head": "floor", "relation": "AtLocation", "tails": [" floor", " house", " flooring"]}
+{"head": "floor", "relation": "CapableOf", "tails": [" walk on", " lay down on", " lay on"]}
+{"head": "floor", "relation": "HasProperty", "tails": [" found in house", " found on floor", " floor"]}
+{"head": "floor", "relation": "MadeUpOf", "tails": [" floor", " flooring", " floor planks"]}
+{"head": "floor", "relation": "NotDesires", "tails": [" walk on", " floor", " flooring"]}
+{"head": "floor", "relation": "Desires", "tails": [" floor", " walk on", " flooring"]}
+{"head": "finger", "relation": "ObjectUse", "tails": [" finger nail", " finger nails", " finger nail polish"]}
+{"head": "finger", "relation": "AtLocation", "tails": [" finger nail clavicle", " finger nail", " finger nail polish"]}
+{"head": "finger", "relation": "CapableOf", "tails": [" finger nail", " finger nails", " pick up object"]}
+{"head": "finger", "relation": "HasProperty", "tails": [" fingernail", " fingernails", " finger nail"]}
+{"head": "finger", "relation": "MadeUpOf", "tails": [" fingernail", " finger nail", " finger pad"]}
+{"head": "finger", "relation": "NotDesires", "tails": [" fingernail", " fingernails", " finger nail"]}
+{"head": "finger", "relation": "Desires", "tails": [" finger nail", " finger nails", " finger nail polish"]}
+{"head": "find it", "relation": "HinderedBy", "tails": [" find it", " look for it", " find the item"]}
+{"head": "find it", "relation": "isBefore", "tails": [" find out where it came from", " find out what it is", " look for it"]}
+{"head": "find it", "relation": "isAfter", "tails": [" find it", " look for it", " search for it"]}
+{"head": "find it", "relation": "HasSubEvent", "tails": [" look for it", " find out what it is", " find it"]}
+{"head": "find it", "relation": "Causes", "tails": [" find it", " look for it", " look for"]}
+{"head": "find it", "relation": "xReason", "tails": [" find out what it is", " find out where it came from", " find it"]}
+{"head": "day", "relation": "ObjectUse", "tails": [" have a good time", " have a good day", " have a party"]}
+{"head": "day", "relation": "AtLocation", "tails": [" day", " office building", " day at work"]}
+{"head": "day", "relation": "CapableOf", "tails": [" sleep all day", " sleep all night", " sleep all day long"]}
+{"head": "day", "relation": "HasProperty", "tails": [" one day a week", " one day a year", " day"]}
+{"head": "day", "relation": "MadeUpOf", "tails": [" day", " day and night", " day of the week"]}
+{"head": "day", "relation": "NotDesires", "tails": [" have to go to work", " have to go to doctor", " have to go to school"]}
+{"head": "day", "relation": "Desires", "tails": [" have fun", " have good time", " have fun with friends"]}
+{"head": "beautiful sapphire ring", "relation": "ObjectUse", "tails": [" give to the bride", " make a statement", " give to a friend"]}
+{"head": "beautiful sapphire ring", "relation": "AtLocation", "tails": [" jewelry store", " jewelry shop", " jewelry box"]}
+{"head": "beautiful sapphire ring", "relation": "CapableOf", "tails": [" wear on finger", " wear on hand", " make a statement"]}
+{"head": "beautiful sapphire ring", "relation": "HasProperty", "tails": [" beautiful", " beautiful to look at", " beautiful to look at."]}
+{"head": "beautiful sapphire ring", "relation": "MadeUpOf", "tails": [" sapphire", " beautiful sapphire", " beautiful sapphire ring"]}
+{"head": "beautiful sapphire ring", "relation": "NotDesires", "tails": [" beautiful sapphire ring", " beautiful sapphire", " beautiful sapphire stone"]}
+{"head": "beautiful sapphire ring", "relation": "Desires", "tails": [" beautiful", " to show off", " to show their love"]}
+{"head": "bathroom floor", "relation": "ObjectUse", "tails": [" bathtub", " washing hands", " clean up"]}
+{"head": "bathroom floor", "relation": "AtLocation", "tails": [" bathroom", " bathtub", " house"]}
+{"head": "bathroom floor", "relation": "CapableOf", "tails": [" wash hands", " clean up", " clean up mess"]}
+{"head": "bathroom floor", "relation": "HasProperty", "tails": [" found in bathroom", " found in bathtub", " found in bathrooms"]}
+{"head": "bathroom floor", "relation": "MadeUpOf", "tails": [" bathtub", " bathroom", " bathroom floor"]}
+{"head": "bathroom floor", "relation": "NotDesires", "tails": [" bathtub", " water on bathroom floor", " water on floor"]}
+{"head": "bathroom floor", "relation": "Desires", "tails": [" bathtub", " clean", " bathroom"]}
+{"head": "bathroom", "relation": "ObjectUse", "tails": [" wash one's hands", " bathtub", " wash one's hands in"]}
+{"head": "bathroom", "relation": "AtLocation", "tails": [" bathroom", " bathtub", " hotel"]}
+{"head": "bathroom", "relation": "CapableOf", "tails": [" wash hands", " bathtub", " wash hands in"]}
+{"head": "bathroom", "relation": "HasProperty", "tails": [" bathroom", " found in house", " found in many places"]}
+{"head": "bathroom", "relation": "MadeUpOf", "tails": [" bathroom", " bathtub", " toilet"]}
+{"head": "bathroom", "relation": "NotDesires", "tails": [" bathroom", " bathtub", " toilet"]}
+{"head": "bathroom", "relation": "Desires", "tails": [" bathroom", " bathtub", " bath"]}
+{"head": "afternoon", "relation": "ObjectUse", "tails": [" have a good time", " have fun with friends", " eat lunch"]}
+{"head": "afternoon", "relation": "AtLocation", "tails": [" office building", " school", " park"]}
+{"head": "afternoon", "relation": "CapableOf", "tails": [" eat lunch", " go to bed", " go to sleep"]}
+{"head": "afternoon", "relation": "HasProperty", "tails": [" found in many parts of the world", " found in many parts of the world.", " found in many parts of world"]}
+{"head": "afternoon", "relation": "MadeUpOf", "tails": [" afternoontime", " afternoons", " afternoontide"]}
+{"head": "afternoon", "relation": "NotDesires", "tails": [" have to go to work", " have to go to office", " have to go to school"]}
+{"head": "afternoon", "relation": "Desires", "tails": [" have a good time", " have fun", " have fun with friends"]}
+{"head": "She was elated when she found it on the bathroom floor!", "relation": "xAttr", "tails": [" excited", " happy", " relieved"]}
+{"head": "She was elated when she found it on the bathroom floor!", "relation": "xWant", "tails": [" to find it again", " to look for it again", " to look for it"]}
+{"head": "She was elated when she found it on the bathroom floor!", "relation": "xNeed", "tails": [" to look for it", " to be looking for something", " to be looking for it"]}
+{"head": "She was elated when she found it on the bathroom floor!", "relation": "xEffect", "tails": [" she finds it in the bathroom", " she finds it in the bathroom.", " gets a hug from her mom"]}
+{"head": "She was elated when she found it on the bathroom floor!", "relation": "HinderedBy", "tails": [" She lost it.", " She lost it in the woods.", " she lost it in the woods."]}
+{"head": "She was elated when she found it on the bathroom floor!", "relation": "oWant", "tails": [" none", " to give it to her", " to give it back to her"]}
+{"head": "She was elated when she found it on the bathroom floor!", "relation": "xReact", "tails": [" happy", " excited", " relieved"]}
+{"head": "She was elated when she found it on the bathroom floor!", "relation": "oEffect", "tails": [" none", " they find it on the bathroom floor", " they find it on the floor"]}
+{"head": "She was elated when she found it on the bathroom floor!", "relation": "xIntent", "tails": [" none", " to find it", " to find something"]}
+{"head": "She was elated when she found it on the bathroom floor!", "relation": "oReact", "tails": [" none", " happy", " relieved"]}
+{"head": "She was elated when she found it on the bathroom floor!", "relation": "isBefore", "tails": [" she went to the bathroom to look for it", " she went to look for it", " she went to the bathroom to look for it."]}
+{"head": "She was elated when she found it on the bathroom floor!", "relation": "isAfter", "tails": [" she was looking for it in the bathroom", " she was looking for it", " she was looking for it in the bathroom."]}
+{"head": "She was elated when she found it on the bathroom floor!", "relation": "HasSubEvent", "tails": [" find it", " find the item", " find it again"]}
+{"head": "She was elated when she found it on the bathroom floor!", "relation": "Causes", "tails": [" she found it in the bathroom", " she found it in the bathroom.", " she found it in the bathroom floor"]}
+{"head": "She was elated when she found it on the bathroom floor!", "relation": "xReason", "tails": [" she was looking for it", " she was looking for it.", " she was looking for her phone."]}
+{"head": "She always takes it off to wash her hands.", "relation": "xAttr", "tails": [" clean", " dirty", " Clean"]}
+{"head": "She always takes it off to wash her hands.", "relation": "xWant", "tails": [" wash hands", " to wash their hands", " to wash her hands"]}
+{"head": "She always takes it off to wash her hands.", "relation": "xNeed", "tails": [" wash hands", " to put it on", " clean hands"]}
+{"head": "She always takes it off to wash her hands.", "relation": "xEffect", "tails": [" gets dirty", " gets a cold", " gets a rash"]}
+{"head": "She always takes it off to wash her hands.", "relation": "HinderedBy", "tails": [" She has a sore throat.", " She has a cold.", " She has a sore hand."]}
+{"head": "She always takes it off to wash her hands.", "relation": "oWant", "tails": [" to wash their hands", " none", " wash hands"]}
+{"head": "She always takes it off to wash her hands.", "relation": "xReact", "tails": [" clean", " clean hands", " clean hands."]}
+{"head": "She always takes it off to wash her hands.", "relation": "oEffect", "tails": [" none", " she is not allowed to touch her hands.", " she is not allowed to touch it."]}
+{"head": "She always takes it off to wash her hands.", "relation": "xIntent", "tails": [" clean hands", " wash hands", " to be clean"]}
+{"head": "She always takes it off to wash her hands.", "relation": "oReact", "tails": [" none", " clean", " clean hands"]}
+{"head": "She always takes it off to wash her hands.", "relation": "isBefore", "tails": [" she puts her hands in the sink", " she puts it back on", " she puts her hands in the sink."]}
+{"head": "She always takes it off to wash her hands.", "relation": "isAfter", "tails": [" she puts it on her head", " she puts it on her hands", " she puts it on her face"]}
+{"head": "She always takes it off to wash her hands.", "relation": "HasSubEvent", "tails": [" wash hands", " clean hands", " wash their hands"]}
+{"head": "She always takes it off to wash her hands.", "relation": "Causes", "tails": [" clean hands", " she is not allowed to touch it.", " she has to wash her hands."]}
+{"head": "She always takes it off to wash her hands.", "relation": "xReason", "tails": [" clean hands", " she is not allowed to touch it.", " she has to wash her hands."]}
+{"head": "One afternoon, she noticed it was missing from her finger!", "relation": "xAttr", "tails": [" absentminded", " careless", " absent minded"]}
+{"head": "One afternoon, she noticed it was missing from her finger!", "relation": "xWant", "tails": [" to look for it", " to find it", " to get it back"]}
+{"head": "One afternoon, she noticed it was missing from her finger!", "relation": "xNeed", "tails": [" none", " to pick it up", " to pick it up."]}
+{"head": "One afternoon, she noticed it was missing from her finger!", "relation": "xEffect", "tails": [" none", " gets a call from the police", " gets a call from the doctor"]}
+{"head": "One afternoon, she noticed it was missing from her finger!", "relation": "HinderedBy", "tails": [" one of her fingers is missing.", " one of her fingers was missing.", " one of her fingers is missing"]}
+{"head": "One afternoon, she noticed it was missing from her finger!", "relation": "oWant", "tails": [" none", " to find it", " to help her find it"]}
+{"head": "One afternoon, she noticed it was missing from her finger!", "relation": "xReact", "tails": [" sad", " worried", " surprised"]}
+{"head": "One afternoon, she noticed it was missing from her finger!", "relation": "oEffect", "tails": [" none", " they look for it", " get a new one"]}
+{"head": "One afternoon, she noticed it was missing from her finger!", "relation": "xIntent", "tails": [" none", " to look for it", " to find it"]}
+{"head": "One afternoon, she noticed it was missing from her finger!", "relation": "oReact", "tails": [" none", " sad", " worried"]}
+{"head": "One afternoon, she noticed it was missing from her finger!", "relation": "isBefore", "tails": [" one of her fingers is missing.", " one of her fingers was missing.", " one of her fingers is missing"]}
+{"head": "One afternoon, she noticed it was missing from her finger!", "relation": "isAfter", "tails": [" one of her fingers is missing.", " one of her fingers was missing.", " one of her fingers is missing"]}
+{"head": "One afternoon, she noticed it was missing from her finger!", "relation": "HasSubEvent", "tails": [" She goes to the doctor.", " none", " get a bandaid"]}
+{"head": "One afternoon, she noticed it was missing from her finger!", "relation": "Causes", "tails": [" one of her fingers is missing.", " one of her fingers is missing", " one of their fingers is missing."]}
+{"head": "One afternoon, she noticed it was missing from her finger!", "relation": "xReason", "tails": [" one of her fingers is missing.", " one of her fingers was missing.", " one of her fingers is missing"]}
+{"head": "Lisa searched everywhere she had been that day.", "relation": "xAttr", "tails": [" lost", " searching", " curious"]}
+{"head": "Lisa searched everywhere she had been that day.", "relation": "xWant", "tails": [" to find something", " to find their way back", " to find something they lost"]}
+{"head": "Lisa searched everywhere she had been that day.", "relation": "xNeed", "tails": [" to be looking for something", " to have lost something", " to have lost their phone"]}
+{"head": "Lisa searched everywhere she had been that day.", "relation": "xEffect", "tails": [" none", " gets lost", " finds something"]}
+{"head": "Lisa searched everywhere she had been that day.", "relation": "HinderedBy", "tails": [" They are too far away from each other.", " They are too far away to find them.", " They are too far away from home."]}
+{"head": "Lisa searched everywhere she had been that day.", "relation": "oWant", "tails": [" none", " to help them find it", " to find them"]}
+{"head": "Lisa searched everywhere she had been that day.", "relation": "xReact", "tails": [" lost", " relieved", " happy"]}
+{"head": "Lisa searched everywhere she had been that day.", "relation": "oEffect", "tails": [" none", " they find something they were looking for", " they find their way back to where they started"]}
+{"head": "Lisa searched everywhere she had been that day.", "relation": "xIntent", "tails": [" to find something", " to find something they lost", " to find something."]}
+{"head": "Lisa searched everywhere she had been that day.", "relation": "oReact", "tails": [" none", " lost", " happy"]}
+{"head": "Lisa searched everywhere she had been that day.", "relation": "isBefore", "tails": [" PersonY finds out where PersonY is.", " PersonY finds out where PersonY went.", " PersonY finds out where PersonY was."]}
+{"head": "Lisa searched everywhere she had been that day.", "relation": "isAfter", "tails": [" PersonY asks where PersonY is.", " PersonX asks where PersonX is.", " PersonY asks where PersonY is"]}
+{"head": "Lisa searched everywhere she had been that day.", "relation": "HasSubEvent", "tails": [" find something", " get lost", " none"]}
+{"head": "Lisa searched everywhere she had been that day.", "relation": "Causes", "tails": [" they are lost", " they find something", " they find their keys"]}
+{"head": "Lisa searched everywhere she had been that day.", "relation": "xReason", "tails": [" none", " find something", " they find something"]}
+{"head": "Lisa has a beautiful sapphire ring.", "relation": "xAttr", "tails": [" beautiful", " rich", " happy"]}
+{"head": "Lisa has a beautiful sapphire ring.", "relation": "xWant", "tails": [" to show it off", " to buy a ring", " to show off"]}
+{"head": "Lisa has a beautiful sapphire ring.", "relation": "xNeed", "tails": [" to buy a sapphire ring", " to buy a ring", " to buy a sapphire ring."]}
+{"head": "Lisa has a beautiful sapphire ring.", "relation": "xEffect", "tails": [" has a ring on their finger", " has a ring on her finger", " has a ring on their finger."]}
+{"head": "Lisa has a beautiful sapphire ring.", "relation": "HinderedBy", "tails": [" they don't have the money to buy one", " they don't have enough money to buy one", " they don't have enough money"]}
+{"head": "Lisa has a beautiful sapphire ring.", "relation": "oWant", "tails": [" none", " to propose to her", " to propose to him"]}
+{"head": "Lisa has a beautiful sapphire ring.", "relation": "xReact", "tails": [" happy", " beautiful", " happy."]}
+{"head": "Lisa has a beautiful sapphire ring.", "relation": "oEffect", "tails": [" none", " get a new ring", " get a ring"]}
+{"head": "Lisa has a beautiful sapphire ring.", "relation": "xIntent", "tails": [" none", " to show her love", " to show off"]}
+{"head": "Lisa has a beautiful sapphire ring.", "relation": "oReact", "tails": [" none", " happy", " loved"]}
+{"head": "Lisa has a beautiful sapphire ring.", "relation": "isBefore", "tails": [" PersonY gives the ring to PersonY.", " PersonY gives the ring to PersonY", " PersonY gives the ring to PersonX."]}
+{"head": "Lisa has a beautiful sapphire ring.", "relation": "isAfter", "tails": [" PersonY buys the ring for PersonY.", " PersonY buys the ring for PersonY", " PersonY buys the ring."]}
+{"head": "Lisa has a beautiful sapphire ring.", "relation": "HasSubEvent", "tails": [" get married", " get a new ring", " get a ring"]}
+{"head": "Lisa has a beautiful sapphire ring.", "relation": "Causes", "tails": [" they have a beautiful ring", " they like the ring", " none"]}
+{"head": "Lisa has a beautiful sapphire ring.", "relation": "xReason", "tails": [" none", " jewelry store", " they are married"]}
+{"head": "Lisa", "relation": "ObjectUse", "tails": [" get a new job", " get married to", " get married"]}
+{"head": "Lisa", "relation": "AtLocation", "tails": [" house", " kitchen", " apartment"]}
+{"head": "Lisa", "relation": "CapableOf", "tails": [" get a new job", " get a drink of water", " get married"]}
+{"head": "Lisa", "relation": "HasProperty", "tails": [" one of two sisters", " one of three children", " one of two daughters"]}
+{"head": "Lisa", "relation": "MadeUpOf", "tails": ["               ", "              ", "                "]}
+{"head": "Lisa", "relation": "NotDesires", "tails": [" get in car accident", " have to go to the bathroom", " have to go to the doctor"]}
+{"head": "Lisa", "relation": "Desires", "tails": [" have a good time", " have a good life", " have fun"]}

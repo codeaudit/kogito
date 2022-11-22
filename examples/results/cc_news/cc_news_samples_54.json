@@ -1,0 +1,121 @@
+{"head": "years", "relation": "ObjectUse", "tails": [" have a good life", " have a family", " have a child"]}
+{"head": "years", "relation": "AtLocation", "tails": [" old people's house", " old age home", " old people's home"]}
+{"head": "years", "relation": "CapableOf", "tails": [" spend time with family", " wait for marriage", " spend time with friends"]}
+{"head": "years", "relation": "HasProperty", "tails": [" many years", " long term", " years"]}
+{"head": "years", "relation": "MadeUpOf", "tails": [" years", " age", " time"]}
+{"head": "years", "relation": "NotDesires", "tails": [" have to go to doctor", " have to go to hospital", " get old"]}
+{"head": "years", "relation": "Desires", "tails": [" have a good life", " have a good time", " years of experience"]}
+{"head": "to lose", "relation": "HinderedBy", "tails": [" to lose", " to lose ", " to lose  to lose "]}
+{"head": "to lose", "relation": "isBefore", "tails": [" to lose", " to lose the game", " to lose "]}
+{"head": "to lose", "relation": "isAfter", "tails": [" to lose", " to win", " to win or lose"]}
+{"head": "to lose", "relation": "HasSubEvent", "tails": [" to lose", " win or lose", " to lose "]}
+{"head": "to lose", "relation": "Causes", "tails": [" to lose", " win or lose", " lose money"]}
+{"head": "to lose", "relation": "xReason", "tails": [" to lose", " lose money", " have to lose"]}
+{"head": "to have", "relation": "HinderedBy", "tails": [" to have", " to have ", " to have  to have"]}
+{"head": "to have", "relation": "isBefore", "tails": [" to have", " to have ", " to have  a good time"]}
+{"head": "to have", "relation": "isAfter", "tails": [" to have something to eat", " to have", " to have something to drink"]}
+{"head": "to have", "relation": "HasSubEvent", "tails": [" to have", " to have ", " to have  have"]}
+{"head": "to have", "relation": "Causes", "tails": [" to have", " to have ", " to have  "]}
+{"head": "to have", "relation": "xReason", "tails": [" to have", " to have something to eat", " to have "]}
+{"head": "to do", "relation": "HinderedBy", "tails": [" to do", " to do ", " to do  to do "]}
+{"head": "to do", "relation": "isBefore", "tails": [" to do", " have to do", " to do "]}
+{"head": "to do", "relation": "isAfter", "tails": [" to do", " have to do", " to do something"]}
+{"head": "to do", "relation": "HasSubEvent", "tails": [" to do", " to do ", " get out of bed"]}
+{"head": "to do", "relation": "Causes", "tails": [" to do", " have to do", " to do "]}
+{"head": "to do", "relation": "xReason", "tails": [" to do", " have to do", " to do "]}
+{"head": "to bring", "relation": "HinderedBy", "tails": [" to bring", " to bring ", " to bring  to the event"]}
+{"head": "to bring", "relation": "isBefore", "tails": [" to bring", " to bring ", " to bring  food"]}
+{"head": "to bring", "relation": "isAfter", "tails": [" to bring to the event", " to bring to the party", " to bring"]}
+{"head": "to bring", "relation": "HasSubEvent", "tails": [" to bring", " to bring ", " to bring  bring"]}
+{"head": "to bring", "relation": "Causes", "tails": [" to bring", " have to bring", " to bring  to  bring"]}
+{"head": "to bring", "relation": "xReason", "tails": [" to bring", " have to bring", " to bring  food"]}
+{"head": "tears", "relation": "ObjectUse", "tails": [" wipe away", " wipe away tears", " tear up"]}
+{"head": "tears", "relation": "AtLocation", "tails": [" tissue box", " tear duct", " tear ducts"]}
+{"head": "tears", "relation": "CapableOf", "tails": [" wipe away tears", " tear up", " wipe tears away"]}
+{"head": "tears", "relation": "HasProperty", "tails": [" made up of tears", " tear ducts", " made up of"]}
+{"head": "tears", "relation": "MadeUpOf", "tails": [" tear duct", " tears", " tear ducts"]}
+{"head": "tears", "relation": "NotDesires", "tails": [" tear up", " feel sad", " feel pain"]}
+{"head": "tears", "relation": "Desires", "tails": [" wipe away tears", " wipe away", " wipe tears away"]}
+{"head": "moment", "relation": "ObjectUse", "tails": [" have a good time", " have a moment", " make a decision"]}
+{"head": "moment", "relation": "AtLocation", "tails": [" moment in time", " movie", " picture frame"]}
+{"head": "moment", "relation": "CapableOf", "tails": [" look back at", " look at", " remember moment"]}
+{"head": "moment", "relation": "HasProperty", "tails": [" important", " moment", " one moment"]}
+{"head": "moment", "relation": "MadeUpOf", "tails": [" moment", " memory", " one moment"]}
+{"head": "moment", "relation": "NotDesires", "tails": [" moment", " have moment", " have to do"]}
+{"head": "moment", "relation": "Desires", "tails": [" feel good", " feel happy", " remember"]}
+{"head": "lose home", "relation": "HinderedBy", "tails": [" lose job", " lose house", " have to move"]}
+{"head": "lose home", "relation": "isBefore", "tails": [" lose job", " lose house", " lose money"]}
+{"head": "lose home", "relation": "isAfter", "tails": [" lose job", " lose house", " have to move"]}
+{"head": "lose home", "relation": "HasSubEvent", "tails": [" lose job", " lose money", " have to move"]}
+{"head": "lose home", "relation": "Causes", "tails": [" lose job", " lose money", " lose house"]}
+{"head": "lose home", "relation": "xReason", "tails": [" lose job", " lose house", " have to move"]}
+{"head": "house", "relation": "ObjectUse", "tails": [" live in", " living in", " house"]}
+{"head": "house", "relation": "AtLocation", "tails": [" house", " apartment building", " home"]}
+{"head": "house", "relation": "CapableOf", "tails": [" live in", " house", " house family"]}
+{"head": "house", "relation": "HasProperty", "tails": [" found in", " house", " built on land"]}
+{"head": "house", "relation": "MadeUpOf", "tails": [" house", " housewares", " house roof"]}
+{"head": "house", "relation": "NotDesires", "tails": [" house fire", " live in", " house to burn"]}
+{"head": "house", "relation": "Desires", "tails": [" live in", " house", " living in"]}
+{"head": "home", "relation": "ObjectUse", "tails": [" have a place to sleep", " have a place to live", " have a place to stay"]}
+{"head": "home", "relation": "AtLocation", "tails": [" home", " house", " apartment building"]}
+{"head": "home", "relation": "CapableOf", "tails": [" go to", " go to bed", " leave house"]}
+{"head": "home", "relation": "HasProperty", "tails": [" home", " found in", " homes"]}
+{"head": "home", "relation": "MadeUpOf", "tails": [" home", " house", " home address"]}
+{"head": "home", "relation": "NotDesires", "tails": [" home to die in", " home to die", " home"]}
+{"head": "home", "relation": "Desires", "tails": [" have place to live", " home", " have place to sleep"]}
+{"head": "have nothing", "relation": "HinderedBy", "tails": [" have nothing", " have no money", " have nothing to do"]}
+{"head": "have nothing", "relation": "isBefore", "tails": [" have nothing to live on", " have no money", " have no one to talk to"]}
+{"head": "have nothing", "relation": "isAfter", "tails": [" have no money", " have nothing to live on", " have no one to talk to"]}
+{"head": "have nothing", "relation": "HasSubEvent", "tails": [" have no money", " have nothing", " have nothing to do"]}
+{"head": "have nothing", "relation": "Causes", "tails": [" have nothing to live on", " have no money", " have no one to talk to"]}
+{"head": "have nothing", "relation": "xReason", "tails": [" have nothing to live on", " have no money", " have no one to talk to"]}
+{"head": "dad", "relation": "ObjectUse", "tails": [" have a conversation with", " have a good relationship with", " have a good time with"]}
+{"head": "dad", "relation": "AtLocation", "tails": [" dad's house", " mom's house", " dad's car"]}
+{"head": "dad", "relation": "CapableOf", "tails": [" father son", " step on dog", " father"]}
+{"head": "dad", "relation": "HasProperty", "tails": [" dad", " father", " good looking"]}
+{"head": "dad", "relation": "MadeUpOf", "tails": [" dad", " dad's hands", " father"]}
+{"head": "dad", "relation": "NotDesires", "tails": [" dad to die", " father to die", " dad to be dead"]}
+{"head": "dad", "relation": "Desires", "tails": [" fatherly love", " fatherly influence", " dad to be happy"]}
+{"head": "bring Gamble", "relation": "HinderedBy", "tails": [" bring to the party", " bring to a party", " bring with them"]}
+{"head": "bring Gamble", "relation": "isBefore", "tails": [" bring to the party", " bring to party", " bring to the meeting"]}
+{"head": "bring Gamble", "relation": "isAfter", "tails": [" bring to the party", " bring to the meeting", " bring to the event"]}
+{"head": "bring Gamble", "relation": "HasSubEvent", "tails": [" bring with you", " make sure it's safe", " bring to the party"]}
+{"head": "bring Gamble", "relation": "Causes", "tails": [" bring to the party", " bring to a party", " bring with you"]}
+{"head": "bring Gamble", "relation": "xReason", "tails": [" bring to party", " bring to a party", " bring with you"]}
+{"head": "Lagoon Pocket dad Col Gamble", "relation": "ObjectUse", "tails": [" get out of the water", " get out of jail", " get out of the car"]}
+{"head": "Lagoon Pocket dad Col Gamble", "relation": "AtLocation", "tails": [" boat", " mom", " dad"]}
+{"head": "Lagoon Pocket dad Col Gamble", "relation": "CapableOf", "tails": [" get into a car accident", " get into a fight", " get into trouble"]}
+{"head": "Lagoon Pocket dad Col Gamble", "relation": "HasProperty", "tails": [" good about themselves", " none", " father"]}
+{"head": "Lagoon Pocket dad Col Gamble", "relation": "MadeUpOf", "tails": [" father", " boat", " dad"]}
+{"head": "Lagoon Pocket dad Col Gamble", "relation": "NotDesires", "tails": [" none", " father", " dad"]}
+{"head": "Lagoon Pocket dad Col Gamble", "relation": "Desires", "tails": [" none", " to be a good father", " to be a good parent"]}
+{"head": "It was the moment that brought Lagoon Pocket dad Col Gamble to tears - and it had nothing to do with losing his home of five years.", "relation": "xAttr", "tails": [" sad", " emotional", " scared"]}
+{"head": "It was the moment that brought Lagoon Pocket dad Col Gamble to tears - and it had nothing to do with losing his home of five years.", "relation": "xWant", "tails": [" to cry", " to be comforted", " to get a new home"]}
+{"head": "It was the moment that brought Lagoon Pocket dad Col Gamble to tears - and it had nothing to do with losing his home of five years.", "relation": "xNeed", "tails": [" none", " to have lost their home", " to have lost their home."]}
+{"head": "It was the moment that brought Lagoon Pocket dad Col Gamble to tears - and it had nothing to do with losing his home of five years.", "relation": "xEffect", "tails": [" none", " to tears", " to tears."]}
+{"head": "It was the moment that brought Lagoon Pocket dad Col Gamble to tears - and it had nothing to do with losing his home of five years.", "relation": "HinderedBy", "tails": [" it was not the right thing to do", " it's not the same as losing a home", " it was not the right thing to do to do"]}
+{"head": "It was the moment that brought Lagoon Pocket dad Col Gamble to tears - and it had nothing to do with losing his home of five years.", "relation": "oWant", "tails": [" to cry", " to tell everyone what happened", " to tell everyone about it"]}
+{"head": "It was the moment that brought Lagoon Pocket dad Col Gamble to tears - and it had nothing to do with losing his home of five years.", "relation": "xReact", "tails": [" sad", " emotional", " sad."]}
+{"head": "It was the moment that brought Lagoon Pocket dad Col Gamble to tears - and it had nothing to do with losing his home of five years.", "relation": "oEffect", "tails": [" none", " they cry", " they are sad"]}
+{"head": "It was the moment that brought Lagoon Pocket dad Col Gamble to tears - and it had nothing to do with losing his home of five years.", "relation": "xIntent", "tails": [" none", " to show his sadness", " to be sad"]}
+{"head": "It was the moment that brought Lagoon Pocket dad Col Gamble to tears - and it had nothing to do with losing his home of five years.", "relation": "oReact", "tails": [" none", " sad", " sad."]}
+{"head": "It was the moment that brought Lagoon Pocket dad Col Gamble to tears - and it had nothing to do with losing his home of five years.", "relation": "isBefore", "tails": [" it was a sad moment", " none", " it was a sad moment."]}
+{"head": "It was the moment that brought Lagoon Pocket dad Col Gamble to tears - and it had nothing to do with losing his home of five years.", "relation": "isAfter", "tails": [" it was the moment that brought dad to tears", " it was the moment that brought them to tears", " it was the moment that brought dad to tears."]}
+{"head": "It was the moment that brought Lagoon Pocket dad Col Gamble to tears - and it had nothing to do with losing his home of five years.", "relation": "HasSubEvent", "tails": [" none", " to cry", " get emotional"]}
+{"head": "It was the moment that brought Lagoon Pocket dad Col Gamble to tears - and it had nothing to do with losing his home of five years.", "relation": "Causes", "tails": [" sad", " emotional", " happy"]}
+{"head": "It was the moment that brought Lagoon Pocket dad Col Gamble to tears - and it had nothing to do with losing his home of five years.", "relation": "xReason", "tails": [" none", " it was a sad moment", " it was a moment of sadness"]}
+{"head": "\"HE WAS still in the house.\"", "relation": "xAttr", "tails": [" scared", " quiet", " curious"]}
+{"head": "\"HE WAS still in the house.\"", "relation": "xWant", "tails": [" to find out what is going on", " to find out what's going on", " to find out what is going on."]}
+{"head": "\"HE WAS still in the house.\"", "relation": "xNeed", "tails": [" none", " to be in the house", " to have been in the house"]}
+{"head": "\"HE WAS still in the house.\"", "relation": "xEffect", "tails": [" none", " gets yelled at", " get out of the house"]}
+{"head": "\"HE WAS still in the house.\"", "relation": "HinderedBy", "tails": ["\"HE WAS still in the house.\"", "\"HE\" IS STILL IN THE HOUSE", "\"HE WAS still in the house\""]}
+{"head": "\"HE WAS still in the house.\"", "relation": "oWant", "tails": [" none", " to tell the truth", " to find out what happened"]}
+{"head": "\"HE WAS still in the house.\"", "relation": "xReact", "tails": [" happy", " relieved", " safe"]}
+{"head": "\"HE WAS still in the house.\"", "relation": "oEffect", "tails": [" none", " get yelled at", " get yelled at."]}
+{"head": "\"HE WAS still in the house.\"", "relation": "xIntent", "tails": [" none", " to stay in the house", " to stay in the house."]}
+{"head": "\"HE WAS still in the house.\"", "relation": "oReact", "tails": [" none", " scared", " happy"]}
+{"head": "\"HE WAS still in the house.\"", "relation": "isBefore", "tails": ["\"HE WAS still in the house.\"", "\"HE WAS STILL IN THE HOUSE\"", "\"HE WAS STILL IN THE HOUSE.\""]}
+{"head": "\"HE WAS still in the house.\"", "relation": "isAfter", "tails": ["\"HE IS STILL IN THE HOUSE\"", "\"HE WAS STILL IN THE HOUSE\"", "\"HE WAS still in the house.\""]}
+{"head": "\"HE WAS still in the house.\"", "relation": "HasSubEvent", "tails": [" get out of the house", " none", " get out of house"]}
+{"head": "\"HE WAS still in the house.\"", "relation": "Causes", "tails": ["\"HE WAS still in the house.\"", "\"HE WAS still in the house\"", "\"HE\" IS STILL IN THE HOUSE"]}
+{"head": "\"HE WAS still in the house.\"", "relation": "xReason", "tails": ["\"HE WAS still in the house.\"", "\"HE\" IS STILL IN THE HOUSE", "\"HE WAS still in the house\""]}

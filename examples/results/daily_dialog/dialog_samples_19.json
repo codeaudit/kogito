@@ -1,0 +1,286 @@
+{"head": "wife", "relation": "ObjectUse", "tails": [" have sex with", " have a relationship with", " marry"]}
+{"head": "wife", "relation": "AtLocation", "tails": [" wife", " wife's car", " wife's house"]}
+{"head": "wife", "relation": "CapableOf", "tails": [" marry husband", " marry", " marry man"]}
+{"head": "wife", "relation": "HasProperty", "tails": [" married", " married to", " married to husband"]}
+{"head": "wife", "relation": "MadeUpOf", "tails": [" wife", " wife's hand", " wife's name"]}
+{"head": "wife", "relation": "NotDesires", "tails": [" husband to die", " wife to die", " wife to be dead"]}
+{"head": "wife", "relation": "Desires", "tails": [" wife to be happy", " wife to love", " have a good time with"]}
+{"head": "today sale price", "relation": "ObjectUse", "tails": [" buy a new car", " buy a car", " buy a new house"]}
+{"head": "today sale price", "relation": "AtLocation", "tails": [" shopping mall", " garage sale", " store"]}
+{"head": "today sale price", "relation": "CapableOf", "tails": [" buy something", " buy item", " buy something new"]}
+{"head": "today sale price", "relation": "HasProperty", "tails": [" found in many stores", " found in store", " found in stores"]}
+{"head": "today sale price", "relation": "MadeUpOf", "tails": [" sale price", " price", " price tag"]}
+{"head": "today sale price", "relation": "NotDesires", "tails": [" have less money", " get a better deal", " have less money than before"]}
+{"head": "today sale price", "relation": "Desires", "tails": [" make money", " buy something", " buy something new"]}
+{"head": "today", "relation": "ObjectUse", "tails": [" have a good time", " have a good day", " have a party"]}
+{"head": "today", "relation": "AtLocation", "tails": [" office building", " school", " home"]}
+{"head": "today", "relation": "CapableOf", "tails": [" get out of bed", " go to work", " get out of house"]}
+{"head": "today", "relation": "HasProperty", "tails": [" one day a week", " one day a year", " one day a month"]}
+{"head": "today", "relation": "MadeUpOf", "tails": [" day", " clock", " today"]}
+{"head": "today", "relation": "NotDesires", "tails": [" have to go to work", " have to go to the bathroom", " have to go to the store"]}
+{"head": "today", "relation": "Desires", "tails": [" have a good time", " have a good day", " have fun with friends"]}
+{"head": "to thank", "relation": "HinderedBy", "tails": [" to thank", " to thank ", " to thank someone"]}
+{"head": "to thank", "relation": "isBefore", "tails": [" to say thank you", " to thank", " to thank them for it"]}
+{"head": "to thank", "relation": "isAfter", "tails": [" to show appreciation", " to show gratitude", " to be thanked"]}
+{"head": "to thank", "relation": "HasSubEvent", "tails": [" to thank", " to say thank you", " to say thank you."]}
+{"head": "to thank", "relation": "Causes", "tails": [" to thank", " none", " to be thanked"]}
+{"head": "to thank", "relation": "xReason", "tails": [" none", " to be thanked", " to thank"]}
+{"head": "to need", "relation": "HinderedBy", "tails": [" to need", " to need  to need ", " to need  to need"]}
+{"head": "to need", "relation": "isBefore", "tails": [" to need", " to need something", " to need to need"]}
+{"head": "to need", "relation": "isAfter", "tails": [" to have", " to need", " to have money"]}
+{"head": "to need", "relation": "HasSubEvent", "tails": [" to need", " to need to need", " to need something"]}
+{"head": "to need", "relation": "Causes", "tails": [" to need", " to have", " need to buy"]}
+{"head": "to need", "relation": "xReason", "tails": [" to need", " to have", " need to buy"]}
+{"head": "to make", "relation": "HinderedBy", "tails": [" to make ", " to make", " to make  to make "]}
+{"head": "to make", "relation": "isBefore", "tails": [" to make", " to make a cake", " to make something"]}
+{"head": "to make", "relation": "isAfter", "tails": [" to make a cake", " to make", " to make something"]}
+{"head": "to make", "relation": "HasSubEvent", "tails": [" to make", " to make ", " to make something"]}
+{"head": "to make", "relation": "Causes", "tails": [" to make", " to make ", " to make something"]}
+{"head": "to make", "relation": "xReason", "tails": [" to make", " to make something", " to make  food"]}
+{"head": "to like", "relation": "HinderedBy", "tails": [" to like", " to like ", " to like something"]}
+{"head": "to like", "relation": "isBefore", "tails": [" to like", " to like something", " to like it"]}
+{"head": "to like", "relation": "isAfter", "tails": [" to like", " to like something", " to be liked"]}
+{"head": "to like", "relation": "HasSubEvent", "tails": [" to like", " to like something", " to like  like"]}
+{"head": "to like", "relation": "Causes", "tails": [" to like", " to like something", " none"]}
+{"head": "to like", "relation": "xReason", "tails": [" to like", " to like something", " none"]}
+{"head": "to get", "relation": "HinderedBy", "tails": [" to get ", " to get", " to get  to get "]}
+{"head": "to get", "relation": "isBefore", "tails": [" to get", " to get ", " to get  to get "]}
+{"head": "to get", "relation": "isAfter", "tails": [" to get", " to get something", " to get "]}
+{"head": "to get", "relation": "HasSubEvent", "tails": [" to get", " to get ", " to get  to get"]}
+{"head": "to get", "relation": "Causes", "tails": [" to get", " to get  to get ", " to get "]}
+{"head": "to get", "relation": "xReason", "tails": [" to get", " to get something", " to get "]}
+{"head": "to cost", "relation": "HinderedBy", "tails": [" to cost", " to cost ", " to cost  "]}
+{"head": "to cost", "relation": "isBefore", "tails": [" to cost", " to cost ", " to cost  money"]}
+{"head": "to cost", "relation": "isAfter", "tails": [" to cost", " to cost ", " to cost  money"]}
+{"head": "to cost", "relation": "HasSubEvent", "tails": [" to cost", " to cost ", " pay for it"]}
+{"head": "to cost", "relation": "Causes", "tails": [" to cost", " to cost ", " to cost  to cost "]}
+{"head": "to cost", "relation": "xReason", "tails": [" to cost", " to cost ", " have to pay for"]}
+{"head": "to buy", "relation": "HinderedBy", "tails": [" to buy", " to buy ", " to buy  to buy"]}
+{"head": "to buy", "relation": "isBefore", "tails": [" to buy", " to buy something", " to buy "]}
+{"head": "to buy", "relation": "isAfter", "tails": [" to go to the store", " to go to the grocery store", " to go to the store to buy"]}
+{"head": "to buy", "relation": "HasSubEvent", "tails": [" to buy", " to buy ", " get money from bank"]}
+{"head": "to buy", "relation": "Causes", "tails": [" to buy", " to buy ", " to buy something"]}
+{"head": "to buy", "relation": "xReason", "tails": [" to buy", " to buy something", " have money"]}
+{"head": "thank you", "relation": "HinderedBy", "tails": [" thank you", " thank them for it", " thank you for the gift"]}
+{"head": "thank you", "relation": "isBefore", "tails": [" thank you", " thank them for it", " thank you for the gift"]}
+{"head": "thank you", "relation": "isAfter", "tails": [" thank you", " thank them for it", " thank you for the gift"]}
+{"head": "thank you", "relation": "HasSubEvent", "tails": [" say thank you", " thank them for it", " thank them"]}
+{"head": "thank you", "relation": "Causes", "tails": [" thank you", " thank you for the gift", " feel good about yourself"]}
+{"head": "thank you", "relation": "xReason", "tails": [" thank you", " thank them for it", " thank you for the gift"]}
+{"head": "sound", "relation": "ObjectUse", "tails": [" sound effects", " make noise", " make a noise"]}
+{"head": "sound", "relation": "AtLocation", "tails": [" sound system", " music store", " music"]}
+{"head": "sound", "relation": "CapableOf", "tails": [" make noise", " hear", " sound like thunder"]}
+{"head": "sound", "relation": "HasProperty", "tails": [" sound waves", " sound", " heard by many"]}
+{"head": "sound", "relation": "MadeUpOf", "tails": [" sound wave", " sound waves", " sound"]}
+{"head": "sound", "relation": "NotDesires", "tails": [" sound waves", " sound", " sound effects"]}
+{"head": "sound", "relation": "Desires", "tails": [" sound", " sound effects", " sound waves"]}
+{"head": "sale", "relation": "ObjectUse", "tails": [" buy a new car", " buy a car", " get a discount"]}
+{"head": "sale", "relation": "AtLocation", "tails": [" shopping mall", " store", " shopping center"]}
+{"head": "sale", "relation": "CapableOf", "tails": [" buy things", " buy item", " sell items"]}
+{"head": "sale", "relation": "HasProperty", "tails": [" sale of goods", " sale", " sale of products"]}
+{"head": "sale", "relation": "MadeUpOf", "tails": [" sale price", " sale", " salesperson"]}
+{"head": "sale", "relation": "NotDesires", "tails": [" sale of goods", " sale of product", " sale of items"]}
+{"head": "sale", "relation": "Desires", "tails": [" sale of goods", " sale of products", " sale of product"]}
+{"head": "roses", "relation": "ObjectUse", "tails": [" use as a weapon", " put on a cake", " use as a decoration"]}
+{"head": "roses", "relation": "AtLocation", "tails": [" flowers", " flower bed", " flowerbed"]}
+{"head": "roses", "relation": "CapableOf", "tails": [" use as a weapon", " use as decoration", " use as paint brushes"]}
+{"head": "roses", "relation": "HasProperty", "tails": [" flowers", " made up of flowers", " made up of"]}
+{"head": "roses", "relation": "MadeUpOf", "tails": [" flowers", " water", " flower"]}
+{"head": "roses", "relation": "NotDesires", "tails": [" smell like roses", " flowers", " smell bad"]}
+{"head": "roses", "relation": "Desires", "tails": [" flowers", " make a cake", " have a good time"]}
+{"head": "red roses", "relation": "ObjectUse", "tails": [" give as a gift", " give to a friend", " give to the bride"]}
+{"head": "red roses", "relation": "AtLocation", "tails": [" bouquet", " flower shop", " flowers"]}
+{"head": "red roses", "relation": "CapableOf", "tails": [" put on a bouquet", " put on a table", " use as a weapon"]}
+{"head": "red roses", "relation": "HasProperty", "tails": [" red and white", " red and yellow", " flowers"]}
+{"head": "red roses", "relation": "MadeUpOf", "tails": [" flowers", " red", " roses"]}
+{"head": "red roses", "relation": "NotDesires", "tails": [" put in a vase", " put in vase", " put in a vase."]}
+{"head": "red roses", "relation": "Desires", "tails": [" give as a gift", " give as a wedding gift", " give as gift"]}
+{"head": "price", "relation": "ObjectUse", "tails": [" pay for the item", " get a new car", " pay for the product"]}
+{"head": "price", "relation": "AtLocation", "tails": [" grocery store", " store", " car"]}
+{"head": "price", "relation": "CapableOf", "tails": [" pay for item", " pay for something", " pay for goods"]}
+{"head": "price", "relation": "HasProperty", "tails": [" found in many stores", " found in store", " found in stores"]}
+{"head": "price", "relation": "MadeUpOf", "tails": [" price", " price tag", " price of item"]}
+{"head": "price", "relation": "NotDesires", "tails": [" price of goods", " buy something", " price"]}
+{"head": "price", "relation": "Desires", "tails": [" get a good deal", " get a better deal", " buy something"]}
+{"head": "like sound", "relation": "HinderedBy", "tails": [" like music", " like sound", " sound"]}
+{"head": "like sound", "relation": "isBefore", "tails": [" sound waves", " sound", " sound of wind"]}
+{"head": "like sound", "relation": "isAfter", "tails": [" sound waves", " sound", " music"]}
+{"head": "like sound", "relation": "HasSubEvent", "tails": [" make noise", " make sound", " hear"]}
+{"head": "like sound", "relation": "Causes", "tails": [" sound waves", " sound", " sound of wind"]}
+{"head": "like sound", "relation": "xReason", "tails": [" heard by many people", " heard by others", " heard by many"]}
+{"head": "flowers", "relation": "ObjectUse", "tails": [" put in a vase", " put in the flower pot", " give to the bride"]}
+{"head": "flowers", "relation": "AtLocation", "tails": [" flower bed", " flowerbed", " garden"]}
+{"head": "flowers", "relation": "CapableOf", "tails": [" put in vase", " plant in garden", " put on table"]}
+{"head": "flowers", "relation": "HasProperty", "tails": [" flowers", " many colors", " one of many flowers"]}
+{"head": "flowers", "relation": "MadeUpOf", "tails": [" flower petals", " flowers", " florets"]}
+{"head": "flowers", "relation": "NotDesires", "tails": [" put in vase", " put in a vase", " flowers"]}
+{"head": "flowers", "relation": "Desires", "tails": [" put in a vase", " put in vase", " put in a vase."]}
+{"head": "dozen", "relation": "ObjectUse", "tails": [" give as a gift", " give as gifts", " give to a homeless person"]}
+{"head": "dozen", "relation": "AtLocation", "tails": [" house", " table", " kitchen table"]}
+{"head": "dozen", "relation": "CapableOf", "tails": [" count in order of number", " count in order of importance", " count to one hundred"]}
+{"head": "dozen", "relation": "HasProperty", "tails": [" one hundred and fifty", " one hundred and twenty one", " one hundred and fifty one"]}
+{"head": "dozen", "relation": "MadeUpOf", "tails": [" one hundred and fifty", " one hundred and twenty one", " one hundred and fifty one"]}
+{"head": "dozen", "relation": "NotDesires", "tails": [" have too many of them", " have too many", " have too many people"]}
+{"head": "dozen", "relation": "Desires", "tails": [" have a good time", " have many friends", " have a good time with"]}
+{"head": "cost me", "relation": "HinderedBy", "tails": [" cost me money", " cost me something", " cost me"]}
+{"head": "cost me", "relation": "isBefore", "tails": [" cost me money", " pay for it", " cost money"]}
+{"head": "cost me", "relation": "isAfter", "tails": [" cost me money", " pay for it", " cost money"]}
+{"head": "cost me", "relation": "HasSubEvent", "tails": [" pay for it", " pay for the item", " pay the bill"]}
+{"head": "cost me", "relation": "Causes", "tails": [" cost me a lot of money", " cost me money", " cost me a lot of time"]}
+{"head": "cost me", "relation": "xReason", "tails": [" cost me a lot of money", " cost me money", " cost me a lot of time"]}
+{"head": "buy flowers", "relation": "HinderedBy", "tails": [" buy flowers", " purchase flowers", " have money"]}
+{"head": "buy flowers", "relation": "isBefore", "tails": [" buy bouquet", " buy bouquet of flowers", " pay for the flowers"]}
+{"head": "buy flowers", "relation": "isAfter", "tails": [" buy bouquet", " pay for flowers", " pay for the flowers"]}
+{"head": "buy flowers", "relation": "HasSubEvent", "tails": [" put in vase", " put on vase", " buy flowers"]}
+{"head": "buy flowers", "relation": "Causes", "tails": [" pay for flowers", " pay for the flowers", " buy flowers"]}
+{"head": "buy flowers", "relation": "xReason", "tails": [" buy bouquet of flowers", " buy bouquet", " buy flowers"]}
+{"head": "Yes , that is today's sale price .", "relation": "xAttr", "tails": [" happy", " cheap", " greedy"]}
+{"head": "Yes , that is today's sale price .", "relation": "xWant", "tails": [" to make a profit", " to make money", " to buy something"]}
+{"head": "Yes , that is today's sale price .", "relation": "xNeed", "tails": [" none", " buy something", " buy a product"]}
+{"head": "Yes , that is today's sale price .", "relation": "xEffect", "tails": [" none", " buys a new item", " buys a new one"]}
+{"head": "Yes , that is today's sale price .", "relation": "HinderedBy", "tails": [" yes", " none", " yes it is"]}
+{"head": "Yes , that is today's sale price .", "relation": "oWant", "tails": [" none", " to buy the item", " to buy something"]}
+{"head": "Yes , that is today's sale price .", "relation": "xReact", "tails": [" happy", " good", " happy."]}
+{"head": "Yes , that is today's sale price .", "relation": "oEffect", "tails": [" none", " get a better deal", " get a discount"]}
+{"head": "Yes , that is today's sale price .", "relation": "xIntent", "tails": [" none", " to get rid of something", " to get a good deal"]}
+{"head": "Yes , that is today's sale price .", "relation": "oReact", "tails": [" none", " happy", " happy."]}
+{"head": "Yes , that is today's sale price .", "relation": "isBefore", "tails": [" none", " yes", " buy something"]}
+{"head": "Yes , that is today's sale price .", "relation": "isAfter", "tails": [" none", " yes", " buy something"]}
+{"head": "Yes , that is today's sale price .", "relation": "HasSubEvent", "tails": [" none", " get a discount", " buy the item"]}
+{"head": "Yes , that is today's sale price .", "relation": "Causes", "tails": [" yes", " none", " yes it is"]}
+{"head": "Yes , that is today's sale price .", "relation": "xReason", "tails": [" yes", " none", " buy something"]}
+{"head": "What would the roses cost me ?", "relation": "xAttr", "tails": [" cheap", " thoughtful", " expensive"]}
+{"head": "What would the roses cost me ?", "relation": "xWant", "tails": [" to buy a bouquet", " to buy a bouquet of roses", " to buy the roses"]}
+{"head": "What would the roses cost me ?", "relation": "xNeed", "tails": [" to go to the store", " to go to the flower shop", " to buy the roses"]}
+{"head": "What would the roses cost me ?", "relation": "xEffect", "tails": [" buys a bouquet of roses", " buys a bouquet", " none"]}
+{"head": "What would the roses cost me ?", "relation": "HinderedBy", "tails": [" what would the roses cost me", " what would the roses cost", " what the roses cost"]}
+{"head": "What would the roses cost me ?", "relation": "oWant", "tails": [" none", " to buy more roses", " to give me the roses"]}
+{"head": "What would the roses cost me ?", "relation": "xReact", "tails": [" happy", " good about themselves", " happy."]}
+{"head": "What would the roses cost me ?", "relation": "oEffect", "tails": [" none", " they buy a bouquet of roses", " they buy a bouquet"]}
+{"head": "What would the roses cost me ?", "relation": "xIntent", "tails": [" none", " to buy a gift", " to show appreciation"]}
+{"head": "What would the roses cost me ?", "relation": "oReact", "tails": [" none", " happy", " happy."]}
+{"head": "What would the roses cost me ?", "relation": "isBefore", "tails": [" what would the roses cost", " what would the roses cost me", " what would the price of the roses cost"]}
+{"head": "What would the roses cost me ?", "relation": "isAfter", "tails": [" what would the roses cost", " what would the price of the roses be", " what would the roses cost me"]}
+{"head": "What would the roses cost me ?", "relation": "HasSubEvent", "tails": [" get a bouquet of roses", " get a bouquet", " get a bouquet from the store"]}
+{"head": "What would the roses cost me ?", "relation": "Causes", "tails": [" what would the roses cost me", " what would the roses cost", " what the roses cost"]}
+{"head": "What would the roses cost me ?", "relation": "xReason", "tails": [" what would the roses cost", " what would the roses cost me", " what the roses cost"]}
+{"head": "They're only $ 20 a dozen .", "relation": "xAttr", "tails": [" cheap", " rich", " greedy"]}
+{"head": "They're only $ 20 a dozen .", "relation": "xWant", "tails": [" to buy a lot of them", " to buy more", " to buy them"]}
+{"head": "They're only $ 20 a dozen .", "relation": "xNeed", "tails": [" to go to the store", " to go to the grocery store", " to go to the store."]}
+{"head": "They're only $ 20 a dozen .", "relation": "xEffect", "tails": [" get a new one", " they get a discount", " they are sold out"]}
+{"head": "They're only $ 20 a dozen .", "relation": "HinderedBy", "tails": [" they are all sold out", " they are too expensive", " they're too expensive"]}
+{"head": "They're only $ 20 a dozen .", "relation": "oWant", "tails": [" to buy them", " to buy more", " none"]}
+{"head": "They're only $ 20 a dozen .", "relation": "xReact", "tails": [" happy", " cheap", " happy."]}
+{"head": "They're only $ 20 a dozen .", "relation": "oEffect", "tails": [" none", " they buy a lot of them", " they buy a lot of things"]}
+{"head": "They're only $ 20 a dozen .", "relation": "xIntent", "tails": [" to buy a lot of things", " none", " to get a good deal"]}
+{"head": "They're only $ 20 a dozen .", "relation": "oReact", "tails": [" none", " happy", " happy to have them"]}
+{"head": "They're only $ 20 a dozen .", "relation": "isBefore", "tails": [" they sell them for a lot of money", " they sell for a lot of money", " they sell them for a lot of money."]}
+{"head": "They're only $ 20 a dozen .", "relation": "isAfter", "tails": [" they sell them for a lot of money", " they sell for a lot of money", " they sell them at the store"]}
+{"head": "They're only $ 20 a dozen .", "relation": "HasSubEvent", "tails": [" buy a lot of them", " get a new one", " buy a lot of things"]}
+{"head": "They're only $ 20 a dozen .", "relation": "Causes", "tails": [" they are too expensive", " they are all sold out", " they're too expensive"]}
+{"head": "They're only $ 20 a dozen .", "relation": "xReason", "tails": [" they are too expensive", " they have to go to the store", " they are too expensive to buy"]}
+{"head": "These roses should make your wife very happy .", "relation": "xAttr", "tails": [" happy", " romantic", " loving"]}
+{"head": "These roses should make your wife very happy .", "relation": "xWant", "tails": [" to give her a bouquet", " to give them to her", " to give her a gift"]}
+{"head": "These roses should make your wife very happy .", "relation": "xNeed", "tails": [" to buy a bouquet of roses", " to buy a bouquet", " to buy them"]}
+{"head": "These roses should make your wife very happy .", "relation": "xEffect", "tails": [" give her a bouquet", " give to wife", " give her a bouquet of roses"]}
+{"head": "These roses should make your wife very happy .", "relation": "HinderedBy", "tails": [" these roses will make your wife happy", " these roses will make your wife very happy", " these roses will make your wife happy."]}
+{"head": "These roses should make your wife very happy .", "relation": "oWant", "tails": [" to give them to their husband", " to give them to her husband", " to give them to their wife"]}
+{"head": "These roses should make your wife very happy .", "relation": "xReact", "tails": [" happy", " good about themselves", " happy."]}
+{"head": "These roses should make your wife very happy .", "relation": "oEffect", "tails": [" none", " give to wife", " give her a bouquet"]}
+{"head": "These roses should make your wife very happy .", "relation": "xIntent", "tails": [" to make her happy", " to make his wife happy", " to make his wife happy."]}
+{"head": "These roses should make your wife very happy .", "relation": "oReact", "tails": [" none", " happy", " loved"]}
+{"head": "These roses should make your wife very happy .", "relation": "isBefore", "tails": [" give her a bouquet", " give to wife", " give her a bouquet of roses"]}
+{"head": "These roses should make your wife very happy .", "relation": "isAfter", "tails": [" flowers", " give to wife", " give to her"]}
+{"head": "These roses should make your wife very happy .", "relation": "HasSubEvent", "tails": [" give her a bouquet", " give to wife", " give her a bouquet of roses"]}
+{"head": "These roses should make your wife very happy .", "relation": "Causes", "tails": [" these roses will make your wife happy", " these roses will make your wife very happy", " these roses will make your wife happy."]}
+{"head": "These roses should make your wife very happy .", "relation": "xReason", "tails": [" give her a bouquet of roses", " give her a bouquet", " give to wife"]}
+{"head": "Perhaps you'd be interested in red roses .", "relation": "xAttr", "tails": [" considerate", " romantic", " attractive"]}
+{"head": "Perhaps you'd be interested in red roses .", "relation": "xWant", "tails": [" to buy a bouquet", " to give them to someone", " to give them to someone else"]}
+{"head": "Perhaps you'd be interested in red roses .", "relation": "xNeed", "tails": [" none", " to go to the store", " to go to the flower shop"]}
+{"head": "Perhaps you'd be interested in red roses .", "relation": "xEffect", "tails": [" none", " get a gift", " give a gift"]}
+{"head": "Perhaps you'd be interested in red roses .", "relation": "HinderedBy", "tails": [" perhaps you don't like red roses.", " none", " perhaps you don't like roses."]}
+{"head": "Perhaps you'd be interested in red roses .", "relation": "oWant", "tails": [" none", " to give them to you", " to give them to someone else"]}
+{"head": "Perhaps you'd be interested in red roses .", "relation": "xReact", "tails": [" happy", " good about themselves", " happy."]}
+{"head": "Perhaps you'd be interested in red roses .", "relation": "oEffect", "tails": [" none", " give a gift", " they get a gift"]}
+{"head": "Perhaps you'd be interested in red roses .", "relation": "xIntent", "tails": [" none", " to make someone happy", " to make someone happy."]}
+{"head": "Perhaps you'd be interested in red roses .", "relation": "oReact", "tails": [" none", " happy", " loved"]}
+{"head": "Perhaps you'd be interested in red roses .", "relation": "isBefore", "tails": [" PersonY gives PersonY a bouquet of red roses.", " PersonY gives PersonY a bouquet of red roses", " PersonY gives PersonY a bouquet of roses."]}
+{"head": "Perhaps you'd be interested in red roses .", "relation": "isAfter", "tails": [" PersonX buys a bouquet of red roses.", " PersonX buys a bouquet of red roses for PersonY.", " PersonX buys a bouquet of red roses for PersonY"]}
+{"head": "Perhaps you'd be interested in red roses .", "relation": "HasSubEvent", "tails": [" none", " buy red roses", " get a gift"]}
+{"head": "Perhaps you'd be interested in red roses .", "relation": "Causes", "tails": [" none", " perhaps you don't like red roses.", " perhaps you are allergic to roses."]}
+{"head": "Perhaps you'd be interested in red roses .", "relation": "xReason", "tails": [" none", " perhaps you don't like red roses.", " perhaps you are allergic to roses."]}
+{"head": "No , thank you .", "relation": "xAttr", "tails": [" rude", " polite", " mean"]}
+{"head": "No , thank you .", "relation": "xWant", "tails": [" to go home", " to leave", " to go away"]}
+{"head": "No , thank you .", "relation": "xNeed", "tails": [" none", " to say no", " to say no."]}
+{"head": "No , thank you .", "relation": "xEffect", "tails": [" none", " no", " is ignored"]}
+{"head": "No , thank you .", "relation": "HinderedBy", "tails": [" no", " no thank you", " No"]}
+{"head": "No , thank you .", "relation": "oWant", "tails": [" none", " to go home", " to go away"]}
+{"head": "No , thank you .", "relation": "xReact", "tails": [" good about themselves", " happy", " good about themselves."]}
+{"head": "No , thank you .", "relation": "oEffect", "tails": [" none", " no", " no thanks"]}
+{"head": "No , thank you .", "relation": "xIntent", "tails": [" none", " to not be bothered", " to be alone"]}
+{"head": "No , thank you .", "relation": "oReact", "tails": [" none", " sad", " happy"]}
+{"head": "No , thank you .", "relation": "isBefore", "tails": [" no", " none", " no thanks"]}
+{"head": "No , thank you .", "relation": "isAfter", "tails": [" no", " none", " no thanks"]}
+{"head": "No , thank you .", "relation": "HasSubEvent", "tails": [" no", " none", " no thanks"]}
+{"head": "No , thank you .", "relation": "Causes", "tails": [" no", " no thank you", " no thanks"]}
+{"head": "No , thank you .", "relation": "xReason", "tails": [" no", " none", " no thanks"]}
+{"head": "Is there anything else you'd like to get ?", "relation": "xAttr", "tails": [" thoughtful", " curious", " happy"]}
+{"head": "Is there anything else you'd like to get ?", "relation": "xWant", "tails": [" to go to the store", " to go to the store.", " to buy something else"]}
+{"head": "Is there anything else you'd like to get ?", "relation": "xNeed", "tails": [" to go to the store", " none", " to go to the store."]}
+{"head": "Is there anything else you'd like to get ?", "relation": "xEffect", "tails": [" none", " is asked to buy something else", " is asked for a favor"]}
+{"head": "Is there anything else you'd like to get ?", "relation": "HinderedBy", "tails": [" is too expensive", " is too expensive to get", " is too expensive for you"]}
+{"head": "Is there anything else you'd like to get ?", "relation": "oWant", "tails": [" none", " to give it to you", " to give it to him"]}
+{"head": "Is there anything else you'd like to get ?", "relation": "xReact", "tails": [" happy", " satisfied", " excited"]}
+{"head": "Is there anything else you'd like to get ?", "relation": "oEffect", "tails": [" none", " is asked what else they'd like to get", " is asked what else they want to get"]}
+{"head": "Is there anything else you'd like to get ?", "relation": "xIntent", "tails": [" none", " to have something to eat", " to have something to eat."]}
+{"head": "Is there anything else you'd like to get ?", "relation": "oReact", "tails": [" none", " happy", " happy."]}
+{"head": "Is there anything else you'd like to get ?", "relation": "isBefore", "tails": [" is there anything else you'd like to get", " is there anything else you'd like to get ?", " is there anything else you want to get"]}
+{"head": "Is there anything else you'd like to get ?", "relation": "isAfter", "tails": [" PersonX asks PersonY if they want anything else.", " PersonX asks PersonY if they want anything else", " PersonY asks PersonY what they want to get."]}
+{"head": "Is there anything else you'd like to get ?", "relation": "HasSubEvent", "tails": [" none", " get something else", " is asked to leave"]}
+{"head": "Is there anything else you'd like to get ?", "relation": "Causes", "tails": [" Is there anything else you'd like to get ?", " Is there anything else you'd like to get", " Is there anything else you'd like to get."]}
+{"head": "Is there anything else you'd like to get ?", "relation": "xReason", "tails": [" is happy with what they have", " is happy with what they got", " is happy with what he has"]}
+{"head": "I need to buy some flowers for my wife .", "relation": "xAttr", "tails": [" romantic", " thoughtful", " caring"]}
+{"head": "I need to buy some flowers for my wife .", "relation": "xWant", "tails": [" to go to the store", " to go to the flower shop", " to buy a bouquet"]}
+{"head": "I need to buy some flowers for my wife .", "relation": "xNeed", "tails": [" to go to the store", " to go to the flower shop", " to go to the store."]}
+{"head": "I need to buy some flowers for my wife .", "relation": "xEffect", "tails": [" buys a bouquet of flowers", " buys a bouquet", " buys flowers"]}
+{"head": "I need to buy some flowers for my wife .", "relation": "HinderedBy", "tails": [" I don't have any money.", " I have no money.", " I don't have the money."]}
+{"head": "I need to buy some flowers for my wife .", "relation": "oWant", "tails": [" to go to the store", " to thank me", " to thank me for the flowers"]}
+{"head": "I need to buy some flowers for my wife .", "relation": "xReact", "tails": [" happy", " good about themselves", " good about himself"]}
+{"head": "I need to buy some flowers for my wife .", "relation": "oEffect", "tails": [" none", " buy flowers", " get a gift"]}
+{"head": "I need to buy some flowers for my wife .", "relation": "xIntent", "tails": [" to make her happy", " to be nice", " to make her feel special"]}
+{"head": "I need to buy some flowers for my wife .", "relation": "oReact", "tails": [" none", " loved", " happy"]}
+{"head": "I need to buy some flowers for my wife .", "relation": "isBefore", "tails": [" PersonY buys flowers for PersonY's wife.", " PersonY buys flowers for PersonY", " PersonY buys flowers for PersonY's wife"]}
+{"head": "I need to buy some flowers for my wife .", "relation": "isAfter", "tails": [" PersonY buys the flowers for PersonY's wife.", " PersonY buys the flowers for PersonY's wife", " PersonY buys the flowers for PersonY"]}
+{"head": "I need to buy some flowers for my wife .", "relation": "HasSubEvent", "tails": [" buy a bouquet of flowers", " buy flowers", " buy a bouquet"]}
+{"head": "I need to buy some flowers for my wife .", "relation": "Causes", "tails": [" I have no money to buy flowers.", " I have no money.", " My wife is allergic to flowers."]}
+{"head": "I need to buy some flowers for my wife .", "relation": "xReason", "tails": [" I have no money to buy flowers for my wife.", " I have no money to buy flowers.", " I have no money to buy flowers for my wife"]}
+{"head": "I like the sound of that .", "relation": "xAttr", "tails": [" musical", " happy", " friendly"]}
+{"head": "I like the sound of that .", "relation": "xWant", "tails": [" to listen to it again", " to listen to the music", " to listen to it"]}
+{"head": "I like the sound of that .", "relation": "xNeed", "tails": [" none", " to listen to music", " to listen to the music"]}
+{"head": "I like the sound of that .", "relation": "xEffect", "tails": [" none", " I like the sound of it.", " I like the sound of that."]}
+{"head": "I like the sound of that .", "relation": "HinderedBy", "tails": [" I don't like the sound of that.", " I don't know what it is.", " I don't know what to say."]}
+{"head": "I like the sound of that .", "relation": "oWant", "tails": [" none", " to listen to it", " to listen to the music"]}
+{"head": "I like the sound of that .", "relation": "xReact", "tails": [" happy", " good", " happy."]}
+{"head": "I like the sound of that .", "relation": "oEffect", "tails": [" none", " listen to the sound", " listen to the music"]}
+{"head": "I like the sound of that .", "relation": "xIntent", "tails": [" none", " to be entertained", " to be heard"]}
+{"head": "I like the sound of that .", "relation": "oReact", "tails": [" none", " happy", " happy."]}
+{"head": "I like the sound of that .", "relation": "isBefore", "tails": [" I like the sound of that", " I like the sound of it", " I like the sound of that."]}
+{"head": "I like the sound of that .", "relation": "isAfter", "tails": [" I like the sound of that", " I like the sound of it", " none"]}
+{"head": "I like the sound of that .", "relation": "HasSubEvent", "tails": [" none", " listen to the sound", " listen to it"]}
+{"head": "I like the sound of that .", "relation": "Causes", "tails": [" I don't like the sound of that.", " I like the sound of that.", " I don't like the sound of it."]}
+{"head": "I like the sound of that .", "relation": "xReason", "tails": [" I like the sound of that.", " I like the sound of it.", " I like the sound of that"]}
+{"head": "A dozen will be fine .", "relation": "xAttr", "tails": [" competent", " happy", " a lot"]}
+{"head": "A dozen will be fine .", "relation": "xWant", "tails": [" to have a good time", " to have fun", " to have a good time."]}
+{"head": "A dozen will be fine .", "relation": "xNeed", "tails": [" none", " to buy a lot of them", " to have a lot of them"]}
+{"head": "A dozen will be fine .", "relation": "xEffect", "tails": [" none", " get a good grade", " get a new job"]}
+{"head": "A dozen will be fine .", "relation": "HinderedBy", "tails": [" a dozen will be fine", " a dozen will be fine.", " a dozen is too many."]}
+{"head": "A dozen will be fine .", "relation": "oWant", "tails": [" none", " to have a good time", " to have a good time."]}
+{"head": "A dozen will be fine .", "relation": "xReact", "tails": [" happy", " satisfied", " good"]}
+{"head": "A dozen will be fine .", "relation": "oEffect", "tails": [" none", " get a new job", " get tired of it"]}
+{"head": "A dozen will be fine .", "relation": "xIntent", "tails": [" none", " to have a good time", " to have a lot of people"]}
+{"head": "A dozen will be fine .", "relation": "oReact", "tails": [" none", " happy", " happy."]}
+{"head": "A dozen will be fine .", "relation": "isBefore", "tails": [" none", " a dozen", " a few"]}
+{"head": "A dozen will be fine .", "relation": "isAfter", "tails": [" none", " a few", " a dozen"]}
+{"head": "A dozen will be fine .", "relation": "HasSubEvent", "tails": [" none", " get a new job", " get a job done"]}
+{"head": "A dozen will be fine .", "relation": "Causes", "tails": [" a few", " none", " a dozen"]}
+{"head": "A dozen will be fine .", "relation": "xReason", "tails": [" none", " a lot of people", " a dozen will be fine"]}

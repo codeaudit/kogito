@@ -1,0 +1,158 @@
+{"head": "to leave", "relation": "HinderedBy", "tails": [" to leave", " to leave ", " to leave  to leave "]}
+{"head": "to leave", "relation": "isBefore", "tails": [" get in car", " to go home", " to leave"]}
+{"head": "to leave", "relation": "isAfter", "tails": [" get in car", " to go home", " to go to work"]}
+{"head": "to leave", "relation": "HasSubEvent", "tails": [" get in car", " to leave", " get ready to leave"]}
+{"head": "to leave", "relation": "Causes", "tails": [" get in car", " to leave", " to go home"]}
+{"head": "to leave", "relation": "xReason", "tails": [" get in car", " to leave", " to go somewhere else"]}
+{"head": "to hold", "relation": "HinderedBy", "tails": [" to hold", " to hold ", " to hold something"]}
+{"head": "to hold", "relation": "isBefore", "tails": [" to hold", " to hold hands", " to hold hands with"]}
+{"head": "to hold", "relation": "isAfter", "tails": [" to hold", " to hold hands with", " to hold hands"]}
+{"head": "to hold", "relation": "HasSubEvent", "tails": [" to hold", " to hold ", " hold on to"]}
+{"head": "to hold", "relation": "Causes", "tails": [" to hold", " to hold hands", " to hold something"]}
+{"head": "to hold", "relation": "xReason", "tails": [" to hold", " to hold hands", " to hold something"]}
+{"head": "to help", "relation": "HinderedBy", "tails": [" to help", " to help ", " to help  to help"]}
+{"head": "to help", "relation": "isBefore", "tails": [" to help", " to help others", " to help them"]}
+{"head": "to help", "relation": "isAfter", "tails": [" to help", " to be helpful", " to help others"]}
+{"head": "to help", "relation": "HasSubEvent", "tails": [" to help", " to help  help", " to help "]}
+{"head": "to help", "relation": "Causes", "tails": [" to help", " to help others", " to help  to help"]}
+{"head": "to help", "relation": "xReason", "tails": [" to help", " to help others", " to be helpful"]}
+{"head": "to have", "relation": "HinderedBy", "tails": [" to have", " to have ", " to have  to have"]}
+{"head": "to have", "relation": "isBefore", "tails": [" to have", " to have ", " to have  a good time"]}
+{"head": "to have", "relation": "isAfter", "tails": [" to have something to eat", " to have", " to have something to drink"]}
+{"head": "to have", "relation": "HasSubEvent", "tails": [" to have", " to have ", " to have  have"]}
+{"head": "to have", "relation": "Causes", "tails": [" to have", " to have ", " to have  "]}
+{"head": "to have", "relation": "xReason", "tails": [" to have", " to have something to eat", " to have "]}
+{"head": "man", "relation": "ObjectUse", "tails": [" man of steel", " man's mouth", " man's place"]}
+{"head": "man", "relation": "AtLocation", "tails": [" mannequin", " man's house", " man's home"]}
+{"head": "man", "relation": "CapableOf", "tails": [" man of steel", " men to work", " men to be men"]}
+{"head": "man", "relation": "HasProperty", "tails": [" found in woods", " man", " man's body"]}
+{"head": "man", "relation": "MadeUpOf", "tails": [" man's mouth", " mannequin", " man's hand"]}
+{"head": "man", "relation": "NotDesires", "tails": [" man to die", " man to be dead", " man's body"]}
+{"head": "man", "relation": "Desires", "tails": [" man's best friend", " man's best interests at heart", " man's best interest at heart"]}
+{"head": "hold it", "relation": "HinderedBy", "tails": [" hold on to", " hold it", " hold the object"]}
+{"head": "hold it", "relation": "isBefore", "tails": [" hold on to", " hold on to object", " hold on to it"]}
+{"head": "hold it", "relation": "isAfter", "tails": [" hold on to", " hold on to object", " hold on to it"]}
+{"head": "hold it", "relation": "HasSubEvent", "tails": [" hold on to", " hold on to object", " put down"]}
+{"head": "hold it", "relation": "Causes", "tails": [" hold on to", " hold on to object", " hold on to something"]}
+{"head": "hold it", "relation": "xReason", "tails": [" hold on to", " hold on to object", " hold on to something"]}
+{"head": "help you", "relation": "HinderedBy", "tails": [" help you", " help them", " help"]}
+{"head": "help you", "relation": "isBefore", "tails": [" help you", " help them", " help"]}
+{"head": "help you", "relation": "isAfter", "tails": [" help you", " help them", " help you with"]}
+{"head": "help you", "relation": "HasSubEvent", "tails": [" help you", " help others", " help"]}
+{"head": "help you", "relation": "Causes", "tails": [" help others", " help you", " help"]}
+{"head": "help you", "relation": "xReason", "tails": [" help you", " help others", " help"]}
+{"head": "have man", "relation": "HinderedBy", "tails": [" have sex", " have sex with", " have sex with man"]}
+{"head": "have man", "relation": "isBefore", "tails": [" have sex with", " have sex with man", " have sex"]}
+{"head": "have man", "relation": "isAfter", "tails": [" have sex with", " have sex with man", " have sex"]}
+{"head": "have man", "relation": "HasSubEvent", "tails": [" have sex with", " have sex", " have sex with man"]}
+{"head": "have man", "relation": "Causes", "tails": [" have sex with", " have sex", " have sex with man"]}
+{"head": "have man", "relation": "xReason", "tails": [" have sex with", " have sex", " have sex with man"]}
+{"head": "have copy", "relation": "HinderedBy", "tails": [" have copy", " have copy of copy", " make copies of"]}
+{"head": "have copy", "relation": "isBefore", "tails": [" have proof of purchase", " make copies of", " have proof of ownership"]}
+{"head": "have copy", "relation": "isAfter", "tails": [" have copy of book", " have copy of copy", " have copy"]}
+{"head": "have copy", "relation": "HasSubEvent", "tails": [" make copies of", " make copies", " make copies of yourself"]}
+{"head": "have copy", "relation": "Causes", "tails": [" make copies of", " make copies", " make copies of yourself"]}
+{"head": "have copy", "relation": "xReason", "tails": [" make copies of", " make copies of yourself", " make copies"]}
+{"head": "copy", "relation": "ObjectUse", "tails": [" make a paper airplane", " make a copy of the book", " make a copy of the document"]}
+{"head": "copy", "relation": "AtLocation", "tails": [" mail box", " computer", " book"]}
+{"head": "copy", "relation": "CapableOf", "tails": [" make copy", " make copy of", " make copy of document"]}
+{"head": "copy", "relation": "HasProperty", "tails": [" printed on paper", " found in computer", " found in office"]}
+{"head": "copy", "relation": "MadeUpOf", "tails": [" copy", " file", " copy machine"]}
+{"head": "copy", "relation": "NotDesires", "tails": [" copy and paste", " copy", " make copies of yourself"]}
+{"head": "copy", "relation": "Desires", "tails": [" make a paper airplane", " make copies of", " copy"]}
+{"head": "Yes , we have one copy left .", "relation": "xAttr", "tails": [" greedy", " organized", " lost"]}
+{"head": "Yes , we have one copy left .", "relation": "xWant", "tails": [" to make another copy", " to make a copy of it", " to make a new copy"]}
+{"head": "Yes , we have one copy left .", "relation": "xNeed", "tails": [" none", " have one copy left", " have a copy of it"]}
+{"head": "Yes , we have one copy left .", "relation": "xEffect", "tails": [" none", " gets thanked", " gets a receipt"]}
+{"head": "Yes , we have one copy left .", "relation": "HinderedBy", "tails": [" Yes, we have one copy left.", " none", " Yes, we have one copy left"]}
+{"head": "Yes , we have one copy left .", "relation": "oWant", "tails": [" none", " to buy another copy", " to buy more copies"]}
+{"head": "Yes , we have one copy left .", "relation": "xReact", "tails": [" none", " happy", " satisfied"]}
+{"head": "Yes , we have one copy left .", "relation": "oEffect", "tails": [" none", " get a new copy", " get a new one"]}
+{"head": "Yes , we have one copy left .", "relation": "xIntent", "tails": [" none", " to have one copy", " to have a copy"]}
+{"head": "Yes , we have one copy left .", "relation": "oReact", "tails": [" none", " happy to have a copy of the book.", " happy to have a copy of the book"]}
+{"head": "Yes , we have one copy left .", "relation": "isBefore", "tails": [" none", " have one copy left", " yes"]}
+{"head": "Yes , we have one copy left .", "relation": "isAfter", "tails": [" none", " PersonY asks if there is any more copies left.", " PersonY asks if there is one copy left."]}
+{"head": "Yes , we have one copy left .", "relation": "HasSubEvent", "tails": [" none", " have one copy left", " get a new copy"]}
+{"head": "Yes , we have one copy left .", "relation": "Causes", "tails": [" none", " yes", " Yes"]}
+{"head": "Yes , we have one copy left .", "relation": "xReason", "tails": [" none", " yes", " they are out of copies"]}
+{"head": "Sea", "relation": "ObjectUse", "tails": [" sea water", " swimming in", " sea"]}
+{"head": "Sea", "relation": "AtLocation", "tails": [" ocean", " sea", " sea floor"]}
+{"head": "Sea", "relation": "CapableOf", "tails": [" swim in ocean", " swim in sea", " swim in water"]}
+{"head": "Sea", "relation": "HasProperty", "tails": [" found in ocean", " found in oceans", " found in sea"]}
+{"head": "Sea", "relation": "MadeUpOf", "tails": [" sea floor", " water", " ocean"]}
+{"head": "Sea", "relation": "NotDesires", "tails": [" sea water", " sea life", " sea  fish"]}
+{"head": "Sea", "relation": "Desires", "tails": [" sea water", " sea life", " sea  fish"]}
+{"head": "Nani Book Store .", "relation": "xAttr", "tails": [" knowledgeable", " curious", " interested"]}
+{"head": "Nani Book Store .", "relation": "xWant", "tails": [" to buy books", " to buy a book", " to sell books"]}
+{"head": "Nani Book Store .", "relation": "xNeed", "tails": [" to go to the store", " to go to the bookstore", " to go to the store."]}
+{"head": "Nani Book Store .", "relation": "xEffect", "tails": [" buying books", " buys books", " gets robbed"]}
+{"head": "Nani Book Store .", "relation": "HinderedBy", "tails": [" The bookstore is closed.", " The bookstore is too far away.", " The store is closed."]}
+{"head": "Nani Book Store .", "relation": "oWant", "tails": [" to buy books", " to buy a book", " to buy books from the store"]}
+{"head": "Nani Book Store .", "relation": "xReact", "tails": [" happy", " satisfied", " happy."]}
+{"head": "Nani Book Store .", "relation": "oEffect", "tails": [" none", " buy books", " buy book"]}
+{"head": "Nani Book Store .", "relation": "xIntent", "tails": [" to sell books", " to buy books", " to sell books."]}
+{"head": "Nani Book Store .", "relation": "oReact", "tails": [" none", " happy", " happy."]}
+{"head": "Nani Book Store .", "relation": "isBefore", "tails": [" Nani", " Nani Book Store", " Nani Bookstore"]}
+{"head": "Nani Book Store .", "relation": "isAfter", "tails": [" Nani", " book store", " books"]}
+{"head": "Nani Book Store .", "relation": "HasSubEvent", "tails": [" buying books", " buy book", " buy books"]}
+{"head": "Nani Book Store .", "relation": "Causes", "tails": [" Nani's book store", " Nani's book store.", " The book store is closed."]}
+{"head": "Nani Book Store .", "relation": "xReason", "tails": [" Nani's book store", " Nani", " Nani's Bookstore"]}
+{"head": "Nani Book Store", "relation": "ObjectUse", "tails": [" buying books", " selling books", " buy books"]}
+{"head": "Nani Book Store", "relation": "AtLocation", "tails": [" bookstore", " shopping mall", " book store"]}
+{"head": "Nani Book Store", "relation": "CapableOf", "tails": [" buy books", " buy book", " get books from"]}
+{"head": "Nani Book Store", "relation": "HasProperty", "tails": [" found in many places", " found in many cities", " found in many places."]}
+{"head": "Nani Book Store", "relation": "MadeUpOf", "tails": [" bookstore", " books", " bookcase"]}
+{"head": "Nani Book Store", "relation": "NotDesires", "tails": [" Nani book store", " Nani Book Store", " Nani Bookstore"]}
+{"head": "Nani Book Store", "relation": "Desires", "tails": [" to buy books", " to buy a book", " to buy books."]}
+{"head": "How can I help you ?", "relation": "xAttr", "tails": [" helpful", " kind", " friendly"]}
+{"head": "How can I help you ?", "relation": "xWant", "tails": [" to help you", " to be helpful", " to help them"]}
+{"head": "How can I help you ?", "relation": "xNeed", "tails": [" to know how to help", " to know how to help you", " to know what they need"]}
+{"head": "How can I help you ?", "relation": "xEffect", "tails": [" none", " gets asked questions", " gets asked for help"]}
+{"head": "How can I help you ?", "relation": "HinderedBy", "tails": [" how can I help you", " how to help you", " how can I help you ?"]}
+{"head": "How can I help you ?", "relation": "oWant", "tails": [" to ask for help", " to help them", " to help you"]}
+{"head": "How can I help you ?", "relation": "xReact", "tails": [" helpful", " happy", " helpful."]}
+{"head": "How can I help you ?", "relation": "oEffect", "tails": [" none", " get help", " get a job"]}
+{"head": "How can I help you ?", "relation": "xIntent", "tails": [" to be helpful", " to help someone", " to help"]}
+{"head": "How can I help you ?", "relation": "oReact", "tails": [" none", " helpful", " grateful"]}
+{"head": "How can I help you ?", "relation": "isBefore", "tails": [" how to help you", " PersonX asks PersonY to help them.", " PersonY asks PersonY to help them"]}
+{"head": "How can I help you ?", "relation": "isAfter", "tails": [" PersonX asks PersonY for help", " PersonY asks PersonY for help", " PersonX asks PersonY to help them"]}
+{"head": "How can I help you ?", "relation": "HasSubEvent", "tails": [" ask for help", " get a job done", " get a job"]}
+{"head": "How can I help you ?", "relation": "Causes", "tails": [" how can I help you", " how to help you", " how to help"]}
+{"head": "How can I help you ?", "relation": "xReason", "tails": [" how can I help you", " how to help you", " how to help"]}
+{"head": "Ernest Hemingway", "relation": "ObjectUse", "tails": [" write a novel", " write a book", " to write a novel"]}
+{"head": "Ernest Hemingway", "relation": "AtLocation", "tails": [" book", " books", " book store"]}
+{"head": "Ernest Hemingway", "relation": "CapableOf", "tails": [" write a novel", " write a book", " to write a novel"]}
+{"head": "Ernest Hemingway", "relation": "HasProperty", "tails": [" famous", " none", " written by"]}
+{"head": "Ernest Hemingway", "relation": "MadeUpOf", "tails": [" book", " book cover", " book jacket"]}
+{"head": "Ernest Hemingway", "relation": "NotDesires", "tails": ["Ernest Hemingway", "Ernest Hemingway is dead", "Ernest Hemingway is dead."]}
+{"head": "Ernest Hemingway", "relation": "Desires", "tails": [" none", " to write a novel", " to be a writer"]}
+{"head": "Do you have the ' The man and the Sea ' by Ernest Hemingway ?", "relation": "xAttr", "tails": [" curious", " creative", " read"]}
+{"head": "Do you have the ' The man and the Sea ' by Ernest Hemingway ?", "relation": "xWant", "tails": [" to read the book", " read the book", " to read it"]}
+{"head": "Do you have the ' The man and the Sea ' by Ernest Hemingway ?", "relation": "xNeed", "tails": [" read the book", " find the book", " find a book"]}
+{"head": "Do you have the ' The man and the Sea ' by Ernest Hemingway ?", "relation": "xEffect", "tails": [" read the book", " read the story", " read the book."]}
+{"head": "Do you have the ' The man and the Sea ' by Ernest Hemingway ?", "relation": "HinderedBy", "tails": [" do not have the book", " do not have", " do you have the book"]}
+{"head": "Do you have the ' The man and the Sea ' by Ernest Hemingway ?", "relation": "oWant", "tails": [" to read the book", " to read it", " to read the story"]}
+{"head": "Do you have the ' The man and the Sea ' by Ernest Hemingway ?", "relation": "xReact", "tails": [" happy", " happy to have read the book.", " happy to have read the book"]}
+{"head": "Do you have the ' The man and the Sea ' by Ernest Hemingway ?", "relation": "oEffect", "tails": [" none", " read the book", " read the story"]}
+{"head": "Do you have the ' The man and the Sea ' by Ernest Hemingway ?", "relation": "xIntent", "tails": [" none", " read a book", " to read a book"]}
+{"head": "Do you have the ' The man and the Sea ' by Ernest Hemingway ?", "relation": "oReact", "tails": [" none", " read the book", " read the book."]}
+{"head": "Do you have the ' The man and the Sea ' by Ernest Hemingway ?", "relation": "isBefore", "tails": [" do you have the book", " do not want to read it again", " do not want to read the book"]}
+{"head": "Do you have the ' The man and the Sea ' by Ernest Hemingway ?", "relation": "isAfter", "tails": [" do you have the book", " do not want to read it", " do not have"]}
+{"head": "Do you have the ' The man and the Sea ' by Ernest Hemingway ?", "relation": "HasSubEvent", "tails": [" read the book", " read the story", " read it"]}
+{"head": "Do you have the ' The man and the Sea ' by Ernest Hemingway ?", "relation": "Causes", "tails": [" do not want to read it again", " do not want to read the book", " do not want to read it"]}
+{"head": "Do you have the ' The man and the Sea ' by Ernest Hemingway ?", "relation": "xReason", "tails": [" read the book", " do not want to read it again", " do not want to read it"]}
+{"head": "Can you hold it for me ?", "relation": "xAttr", "tails": [" helpful", " caring", " thoughtful"]}
+{"head": "Can you hold it for me ?", "relation": "xWant", "tails": [" to give it to someone else", " to give it to me", " to give it back to me"]}
+{"head": "Can you hold it for me ?", "relation": "xNeed", "tails": [" to ask for it", " to ask for help", " to ask someone for help"]}
+{"head": "Can you hold it for me ?", "relation": "xEffect", "tails": [" can't hold it", " can't find it", " none"]}
+{"head": "Can you hold it for me ?", "relation": "HinderedBy", "tails": [" can't hold it", " Can't hold it.", " can't hold it for me"]}
+{"head": "Can you hold it for me ?", "relation": "oWant", "tails": [" to give it to me", " to give it back to me", " to give it to someone else"]}
+{"head": "Can you hold it for me ?", "relation": "xReact", "tails": [" happy", " helpful", " good"]}
+{"head": "Can you hold it for me ?", "relation": "oEffect", "tails": [" none", " can't hold it", " can't find it"]}
+{"head": "Can you hold it for me ?", "relation": "xIntent", "tails": [" to be helpful", " to help", " to be helpful."]}
+{"head": "Can you hold it for me ?", "relation": "oReact", "tails": [" none", " happy", " grateful"]}
+{"head": "Can you hold it for me ?", "relation": "isBefore", "tails": [" can't hold it", " Can't hold it", " can't find it"]}
+{"head": "Can you hold it for me ?", "relation": "isAfter", "tails": [" can't hold it", " can't find it", " can't hold it anymore"]}
+{"head": "Can you hold it for me ?", "relation": "HasSubEvent", "tails": [" can't hold it", " can't find it", " can't hold it anymore"]}
+{"head": "Can you hold it for me ?", "relation": "Causes", "tails": [" can't hold it", " Can't hold it.", " can't hold it for me"]}
+{"head": "Can you hold it for me ?", "relation": "xReason", "tails": [" can't hold it", " Can't hold it.", " can't hold it for me"]}

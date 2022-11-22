@@ -1,0 +1,145 @@
+{"head": "torchlight march", "relation": "ObjectUse", "tails": [" light a bonfire", " light a fire", " light a candle"]}
+{"head": "torchlight march", "relation": "AtLocation", "tails": [" street corner", " march", " church"]}
+{"head": "torchlight march", "relation": "CapableOf", "tails": [" light on fire", " march in parade", " light up the night"]}
+{"head": "torchlight march", "relation": "HasProperty", "tails": [" made up of candles", " lighted", " made up of torches"]}
+{"head": "torchlight march", "relation": "MadeUpOf", "tails": [" light", " lights", " torch"]}
+{"head": "torchlight march", "relation": "NotDesires", "tails": [" light a fire", " light a candle", " get arrested"]}
+{"head": "torchlight march", "relation": "Desires", "tails": [" have fun", " to be a part of something", " to be a part of a protest"]}
+{"head": "torchlight", "relation": "ObjectUse", "tails": [" light up a room", " light up the room", " illuminate the room"]}
+{"head": "torchlight", "relation": "AtLocation", "tails": [" street corner", " light bulb", " dark room"]}
+{"head": "torchlight", "relation": "CapableOf", "tails": [" light way", " light up room", " use as flashlight"]}
+{"head": "torchlight", "relation": "HasProperty", "tails": [" found in dark places", " found in house", " light bulb"]}
+{"head": "torchlight", "relation": "MadeUpOf", "tails": [" light bulb", " lightbulb", " flashlight"]}
+{"head": "torchlight", "relation": "NotDesires", "tails": [" see in dark", " see in dark places", " light a fire"]}
+{"head": "torchlight", "relation": "Desires", "tails": [" light the way", " light up room", " light up the room"]}
+{"head": "to stage", "relation": "HinderedBy", "tails": [" to stage", " to stage ", " perform on stage"]}
+{"head": "to stage", "relation": "isBefore", "tails": [" to stage", " get on stage", " stage hand"]}
+{"head": "to stage", "relation": "isAfter", "tails": [" stage hand", " stagehand", " stagehands"]}
+{"head": "to stage", "relation": "HasSubEvent", "tails": [" get on stage", " to stage", " get up on stage"]}
+{"head": "to stage", "relation": "Causes", "tails": [" to stage", " perform on stage", " stage fright"]}
+{"head": "to stage", "relation": "xReason", "tails": [" to stage", " perform on stage", " to stage to perform"]}
+{"head": "to mark", "relation": "HinderedBy", "tails": [" to mark", " to mark something", " to mark "]}
+{"head": "to mark", "relation": "isBefore", "tails": [" to mark", " to mark the date", " to mark a spot"]}
+{"head": "to mark", "relation": "isAfter", "tails": [" to mark the date", " to mark a spot", " to mark a place"]}
+{"head": "to mark", "relation": "HasSubEvent", "tails": [" to mark", " to mark something", " to mark the date"]}
+{"head": "to mark", "relation": "Causes", "tails": [" to mark", " to mark something", " to mark a place"]}
+{"head": "to mark", "relation": "xReason", "tails": [" to mark a place", " to mark something", " to mark"]}
+{"head": "streets", "relation": "ObjectUse", "tails": [" walk down", " walk on", " walk along"]}
+{"head": "streets", "relation": "AtLocation", "tails": [" city", " street corner", " streets"]}
+{"head": "streets", "relation": "CapableOf", "tails": [" walk down", " walk on", " cross street"]}
+{"head": "streets", "relation": "HasProperty", "tails": [" streets", " found in cities", " found in city"]}
+{"head": "streets", "relation": "MadeUpOf", "tails": [" streets", " street corner", " street sign"]}
+{"head": "streets", "relation": "NotDesires", "tails": [" walk on", " walk down", " run over"]}
+{"head": "streets", "relation": "Desires", "tails": [" walk on", " walk down", " streets"]}
+{"head": "stage march", "relation": "HinderedBy", "tails": [" stage show", " stage hand", " stage"]}
+{"head": "stage march", "relation": "isBefore", "tails": [" stage hand", " stage show", " stage"]}
+{"head": "stage march", "relation": "isAfter", "tails": [" stage", " stage hand", " stage show"]}
+{"head": "stage march", "relation": "HasSubEvent", "tails": [" perform on stage", " get up and dance", " get up and walk"]}
+{"head": "stage march", "relation": "Causes", "tails": [" stage show", " stage fright", " stage"]}
+{"head": "stage march", "relation": "xReason", "tails": [" stage show", " stage fright", " stage hand"]}
+{"head": "mark anniversary", "relation": "HinderedBy", "tails": [" celebrate anniversary", " mark the date", " mark anniversary"]}
+{"head": "mark anniversary", "relation": "isBefore", "tails": [" celebrate", " celebrate with family", " have party"]}
+{"head": "mark anniversary", "relation": "isAfter", "tails": [" celebrate", " anniversary", " celebrate anniversary"]}
+{"head": "mark anniversary", "relation": "HasSubEvent", "tails": [" celebrate", " remember date", " celebrate with family"]}
+{"head": "mark anniversary", "relation": "Causes", "tails": [" celebrate", " celebrate anniversary", " celebrate with family"]}
+{"head": "mark anniversary", "relation": "xReason", "tails": [" celebrate", " have anniversary party", " celebrate with family"]}
+{"head": "march", "relation": "ObjectUse", "tails": [" get exercise", " wear shoes", " get to work"]}
+{"head": "march", "relation": "AtLocation", "tails": [" march", " marching band", " park"]}
+{"head": "march", "relation": "CapableOf", "tails": [" march in parade", " wear shoes", " march"]}
+{"head": "march", "relation": "HasProperty", "tails": [" found in many countries", " marching band", " found in march"]}
+{"head": "march", "relation": "MadeUpOf", "tails": [" march", " marching band", " march in parade"]}
+{"head": "march", "relation": "NotDesires", "tails": [" march in parade", " march", " get tired"]}
+{"head": "march", "relation": "Desires", "tails": [" have fun", " have fun with friends", " march in parade"]}
+{"head": "leader", "relation": "ObjectUse", "tails": [" lead the people", " lead people", " lead a group"]}
+{"head": "leader", "relation": "AtLocation", "tails": [" leader", " leadership position", " leader of army"]}
+{"head": "leader", "relation": "CapableOf", "tails": [" lead people", " lead army", " lead team"]}
+{"head": "leader", "relation": "HasProperty", "tails": [" leader of people", " leader", " important in society"]}
+{"head": "leader", "relation": "MadeUpOf", "tails": [" leader", " leadership position", " leadership role"]}
+{"head": "leader", "relation": "NotDesires", "tails": [" lead people", " leader of people", " leader to lead people"]}
+{"head": "leader", "relation": "Desires", "tails": [" leader of people", " lead people", " leadership"]}
+{"head": "late nationalist leader", "relation": "ObjectUse", "tails": [" lead a revolution", " lead the country", " dead"]}
+{"head": "late nationalist leader", "relation": "AtLocation", "tails": [" political party", " dead", " political rallies"]}
+{"head": "late nationalist leader", "relation": "CapableOf", "tails": [" lead revolution", " get killed", " lead people"]}
+{"head": "late nationalist leader", "relation": "HasProperty", "tails": [" dead", " important", " late"]}
+{"head": "late nationalist leader", "relation": "MadeUpOf", "tails": [" dead", " death", " late father"]}
+{"head": "late nationalist leader", "relation": "NotDesires", "tails": [" dead", " late in life", " death"]}
+{"head": "late nationalist leader", "relation": "Desires", "tails": [" dead", " none", " death"]}
+{"head": "birth", "relation": "ObjectUse", "tails": [" give birth", " give birth to child", " give birth to a child"]}
+{"head": "birth", "relation": "AtLocation", "tails": [" mother's womb", " mother's arms", " mother's body"]}
+{"head": "birth", "relation": "CapableOf", "tails": [" give birth", " give birth to child", " give birth to baby"]}
+{"head": "birth", "relation": "HasProperty", "tails": [" born to mother", " born in uterus", " birth"]}
+{"head": "birth", "relation": "MadeUpOf", "tails": [" birth canal", " mother and father", " baby"]}
+{"head": "birth", "relation": "NotDesires", "tails": [" death", " have baby", " birth"]}
+{"head": "birth", "relation": "Desires", "tails": [" give birth to child", " give birth", " birth of child"]}
+{"head": "anniversary", "relation": "ObjectUse", "tails": [" have a party", " celebrate", " celebrate a birthday"]}
+{"head": "anniversary", "relation": "AtLocation", "tails": [" wedding", " anniversary party", " birthday"]}
+{"head": "anniversary", "relation": "CapableOf", "tails": [" celebrate", " celebrate with spouse", " celebrate with family"]}
+{"head": "anniversary", "relation": "HasProperty", "tails": [" anniversaries", " happy", " anniversary"]}
+{"head": "anniversary", "relation": "MadeUpOf", "tails": [" anniversaries", " anniversary", " anniversary"]}
+{"head": "anniversary", "relation": "NotDesires", "tails": [" anniversaries", " anniversary", " have a party"]}
+{"head": "anniversary", "relation": "Desires", "tails": [" anniversaries", " have a good time", " anniversary"]}
+{"head": "Ukrainians staged a torchlight march through the streets of Kyiv to mark the 108th anniversary of the birth of the late nationalist leader, Stepan Bandera.", "relation": "xAttr", "tails": [" celebratory", " patriotic", " proud"]}
+{"head": "Ukrainians staged a torchlight march through the streets of Kyiv to mark the 108th anniversary of the birth of the late nationalist leader, Stepan Bandera.", "relation": "xWant", "tails": [" to celebrate the birthday of the late leader", " to celebrate the birth of a great leader", " to celebrate the birthday of the leader"]}
+{"head": "Ukrainians staged a torchlight march through the streets of Kyiv to mark the 108th anniversary of the birth of the late nationalist leader, Stepan Bandera.", "relation": "xNeed", "tails": [" get ready for the march", " get ready for the event", " celebrate the birthday of the leader"]}
+{"head": "Ukrainians staged a torchlight march through the streets of Kyiv to mark the 108th anniversary of the birth of the late nationalist leader, Stepan Bandera.", "relation": "xEffect", "tails": [" celebrate the birthday of the late leader", " celebrate the birthday of the leader", " to celebrate the birth of the leader"]}
+{"head": "Ukrainians staged a torchlight march through the streets of Kyiv to mark the 108th anniversary of the birth of the late nationalist leader, Stepan Bandera.", "relation": "HinderedBy", "tails": [" the people of Ukraine to celebrate the birth of their leader", " the people of Ukraine to celebrate the birth of their leader.", " the people of Ukraine to celebrate the birth of the late leader"]}
+{"head": "Ukrainians staged a torchlight march through the streets of Kyiv to mark the 108th anniversary of the birth of the late nationalist leader, Stepan Bandera.", "relation": "oWant", "tails": [" to celebrate the birthday of the late leader", " to celebrate the birth of a great leader", " to celebrate the birthday of the leader"]}
+{"head": "Ukrainians staged a torchlight march through the streets of Kyiv to mark the 108th anniversary of the birth of the late nationalist leader, Stepan Bandera.", "relation": "xReact", "tails": [" celebratory", " proud", " happy"]}
+{"head": "Ukrainians staged a torchlight march through the streets of Kyiv to mark the 108th anniversary of the birth of the late nationalist leader, Stepan Bandera.", "relation": "oEffect", "tails": [" celebrate the birthday of the late leader", " celebrate the birthday of the late nationalist leader", " celebrate the birthday of the leader of the revolution"]}
+{"head": "Ukrainians staged a torchlight march through the streets of Kyiv to mark the 108th anniversary of the birth of the late nationalist leader, Stepan Bandera.", "relation": "xIntent", "tails": [" to celebrate a historical event", " to celebrate the birth of their leader", " to celebrate the birth of a great leader"]}
+{"head": "Ukrainians staged a torchlight march through the streets of Kyiv to mark the 108th anniversary of the birth of the late nationalist leader, Stepan Bandera.", "relation": "oReact", "tails": [" none", " celebrate", " celebrate history"]}
+{"head": "Ukrainians staged a torchlight march through the streets of Kyiv to mark the 108th anniversary of the birth of the late nationalist leader, Stepan Bandera.", "relation": "isBefore", "tails": [" celebrate the birthday of the late leader", " celebrate the birthday of the late nationalist leader", " celebrate the birthday of the leader of the revolution"]}
+{"head": "Ukrainians staged a torchlight march through the streets of Kyiv to mark the 108th anniversary of the birth of the late nationalist leader, Stepan Bandera.", "relation": "isAfter", "tails": [" celebrate the birthday of the late nationalist leader", " celebrate the birthday of the late leader", " celebrate the birthday of the leader of the revolution"]}
+{"head": "Ukrainians staged a torchlight march through the streets of Kyiv to mark the 108th anniversary of the birth of the late nationalist leader, Stepan Bandera.", "relation": "HasSubEvent", "tails": [" celebrate the birthday of the leader", " celebrate the birthday of the leader of the revolution", " to celebrate the birth of the leader of the nation"]}
+{"head": "Ukrainians staged a torchlight march through the streets of Kyiv to mark the 108th anniversary of the birth of the late nationalist leader, Stepan Bandera.", "relation": "Causes", "tails": [" celebratory", " proud", " celebratory."]}
+{"head": "Ukrainians staged a torchlight march through the streets of Kyiv to mark the 108th anniversary of the birth of the late nationalist leader, Stepan Bandera.", "relation": "xReason", "tails": [" celebrate the birthday of the late nationalist leader", " celebrate the birthday of the late leader", " celebrate the birthday of the leader of the revolution"]}
+{"head": "Ukrainians", "relation": "ObjectUse", "tails": [" get a job in a new country", " get a job in the country", " get a job in Ukraine"]}
+{"head": "Ukrainians", "relation": "AtLocation", "tails": [" country", " house", " Ukraine"]}
+{"head": "Ukrainians", "relation": "CapableOf", "tails": [" get killed in war", " get into trouble", " eat meat"]}
+{"head": "Ukrainians", "relation": "HasProperty", "tails": [" one of many ethnic groups in Ukraine", " one of many ethnic groups in the country", " one of the world's largest peoples"]}
+{"head": "Ukrainians", "relation": "MadeUpOf", "tails": [" Ukrainian flag", " Ukrainian language", " Ukraine"]}
+{"head": "Ukrainians", "relation": "NotDesires", "tails": [" have no money", " get killed", " have no friends"]}
+{"head": "Ukrainians", "relation": "Desires", "tails": [" none", " to live in a country", " to live in Ukraine"]}
+{"head": "Stepan Bandera", "relation": "ObjectUse", "tails": [" to be a part of a movie", " to be a part of the show", " to be a part of the movie"]}
+{"head": "Stepan Bandera", "relation": "AtLocation", "tails": [" movie", " film", " movie theater"]}
+{"head": "Stepan Bandera", "relation": "CapableOf", "tails": [" to be a part of a movie", " to be a part of a band", " to be a part of a group"]}
+{"head": "Stepan Bandera", "relation": "HasProperty", "tails": [" one of the most famous actors in the world", " one of the most famous actors of all time", " one of the most popular singers in the world"]}
+{"head": "Stepan Bandera", "relation": "MadeUpOf", "tails": [" stage name", " film", " step"]}
+{"head": "Stepan Bandera", "relation": "NotDesires", "tails": [" none", " to be a part of a movie", " to be a part of the movie"]}
+{"head": "Stepan Bandera", "relation": "Desires", "tails": [" none", " to be famous", " to be a star"]}
+{"head": "Kyiv", "relation": "ObjectUse", "tails": [" travel to", " travel to and from", " get a job in"]}
+{"head": "Kyiv", "relation": "AtLocation", "tails": [" city", " kiev", " downtown"]}
+{"head": "Kyiv", "relation": "CapableOf", "tails": [" move to new city", " travel to different places", " move to new place"]}
+{"head": "Kyiv", "relation": "HasProperty", "tails": [" one of the capital cities of Ukraine", " one of many cities in Ukraine", " one of Ukraine's main cities"]}
+{"head": "Kyiv", "relation": "MadeUpOf", "tails": [" city", " downtown", " central city"]}
+{"head": "Kyiv", "relation": "NotDesires", "tails": [" get mugged", " get mugged by mob", " get mugged in"]}
+{"head": "Kyiv", "relation": "Desires", "tails": [" downtown", " travel to", " travel"]}
+{"head": "108th anniversary", "relation": "ObjectUse", "tails": [" celebrate", " celebrate a birthday", " have a party"]}
+{"head": "108th anniversary", "relation": "AtLocation", "tails": [" birthday party", " museum", " birthday cake"]}
+{"head": "108th anniversary", "relation": "CapableOf", "tails": [" celebrate", " celebrate with family", " celebrate birthday"]}
+{"head": "108th anniversary", "relation": "HasProperty", "tails": [" happy", " celebrated", " celebrated annually"]}
+{"head": "108th anniversary", "relation": "MadeUpOf", "tails": [" birthday", " celebration", " anniversary"]}
+{"head": "108th anniversary", "relation": "NotDesires", "tails": [" celebrate", " celebrating", " celebrate anniversary"]}
+{"head": "108th anniversary", "relation": "Desires", "tails": [" celebrate", " none", " celebrating"]}
+{"head": "(RFE/RL's Ukrainian Service)", "relation": "xAttr", "tails": [" responsible", " brave", " capable"]}
+{"head": "(RFE/RL's Ukrainian Service)", "relation": "xWant", "tails": [" to report on the situation", " to report on the event", " to report on what they found"]}
+{"head": "(RFE/RL's Ukrainian Service)", "relation": "xNeed", "tails": [" to be in contact with people in Ukraine", " to be in contact with people in the area", " to be in contact with people in the country"]}
+{"head": "(RFE/RL's Ukrainian Service)", "relation": "xEffect", "tails": [" none", " gets arrested", " get a job"]}
+{"head": "(RFE/RL's Ukrainian Service)", "relation": "HinderedBy", "tails": ["(RFE/RL's Ukrainian Service)             ", "(RFE/RL's Ukrainian Service)", "(RFE/RL's) Ukrainian Service)            "]}
+{"head": "(RFE/RL's Ukrainian Service)", "relation": "oWant", "tails": [" to tell the truth", " none", " to talk to people"]}
+{"head": "(RFE/RL's Ukrainian Service)", "relation": "xReact", "tails": [" happy", " satisfied", " good"]}
+{"head": "(RFE/RL's Ukrainian Service)", "relation": "oEffect", "tails": [" none", " get a new job", " get arrested for treason"]}
+{"head": "(RFE/RL's Ukrainian Service)", "relation": "xIntent", "tails": [" to be heard", " to inform people", " none"]}
+{"head": "(RFE/RL's Ukrainian Service)", "relation": "oReact", "tails": [" none", " like they have something to look forward to", " like they have something to look forward to."]}
+{"head": "(RFE/RL's Ukrainian Service)", "relation": "isBefore", "tails": ["(RFE/RL's Ukrainian Service)", "(RFE/RL's) Ukrainian Service)", "(RFE/RL's Ukrainian Service) is)"]}
+{"head": "(RFE/RL's Ukrainian Service)", "relation": "isAfter", "tails": ["                  ", "                   ", "                 "]}
+{"head": "(RFE/RL's Ukrainian Service)", "relation": "HasSubEvent", "tails": [" get a new job", " get a job", " get a job in Ukraine"]}
+{"head": "(RFE/RL's Ukrainian Service)", "relation": "Causes", "tails": ["(RFE/RL's Ukrainian Service)             ", "(RFE/RL's Ukrainian Service)            ", "(RFE/RL's Ukrainian Service)             )"]}
+{"head": "(RFE/RL's Ukrainian Service)", "relation": "xReason", "tails": ["(RFE/RL's Ukrainian Service)             ", "(RFE/RL's Ukrainian Service)", "(RFE/RL's Ukrainian Service)            "]}
+{"head": "( RFE / RL Ukrainian Service", "relation": "ObjectUse", "tails": [" get information from", " get information", " make a report"]}
+{"head": "( RFE / RL Ukrainian Service", "relation": "AtLocation", "tails": [" radio station", " news agency", " radio"]}
+{"head": "( RFE / RL Ukrainian Service", "relation": "CapableOf", "tails": [" get a new job", " get a job", " get a job in Ukraine"]}
+{"head": "( RFE / RL Ukrainian Service", "relation": "HasProperty", "tails": [" (RFE) / RL)", " (RFE) / RL Ukrainian Service)", " none"]}
+{"head": "( RFE / RL Ukrainian Service", "relation": "MadeUpOf", "tails": [" radio", " radio station", " news"]}
+{"head": "( RFE / RL Ukrainian Service", "relation": "NotDesires", "tails": [" none", " receive information", " get information from"]}
+{"head": "( RFE / RL Ukrainian Service", "relation": "Desires", "tails": [" none", " to inform the public", " to communicate with people"]}

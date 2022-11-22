@@ -1,0 +1,77 @@
+{"head": "weather predictions", "relation": "ObjectUse", "tails": [" use as a paperweight", " use as a paper weight", " use as a weather app"]}
+{"head": "weather predictions", "relation": "AtLocation", "tails": [" weather station", " weather channel", " weather forecast"]}
+{"head": "weather predictions", "relation": "CapableOf", "tails": [" keep track of weather", " see what's going to happen", " keep track of weather conditions"]}
+{"head": "weather predictions", "relation": "HasProperty", "tails": [" very accurate", " weather forecast", " forecast"]}
+{"head": "weather predictions", "relation": "MadeUpOf", "tails": [" weather station", " weather radar", " forecast"]}
+{"head": "weather predictions", "relation": "NotDesires", "tails": [" weather forecast", " get wet", " make a prediction"]}
+{"head": "weather predictions", "relation": "Desires", "tails": [" know what to do", " know what to expect", " know when to go outside"]}
+{"head": "weather", "relation": "ObjectUse", "tails": [" get wet", " get wet in the rain", " get wet and muddy"]}
+{"head": "weather", "relation": "AtLocation", "tails": [" air", " weather station", " weather report"]}
+{"head": "weather", "relation": "CapableOf", "tails": [" heat up", " heat up water", " heat up earth"]}
+{"head": "weather", "relation": "HasProperty", "tails": [" cold", " hot", " weather"]}
+{"head": "weather", "relation": "MadeUpOf", "tails": [" weather station", " weather system", " wind"]}
+{"head": "weather", "relation": "NotDesires", "tails": [" cold", " dry air", " dry and cold"]}
+{"head": "weather", "relation": "Desires", "tails": [" heat and humidity", " cool air", " heat and cold"]}
+{"head": "to look", "relation": "HinderedBy", "tails": [" to look", " to look at something", " to look  at something"]}
+{"head": "to look", "relation": "isBefore", "tails": [" to look", " to look at something", " to look at"]}
+{"head": "to look", "relation": "isAfter", "tails": [" to look at something", " look at something", " to look at"]}
+{"head": "to look", "relation": "HasSubEvent", "tails": [" to look", " to look at something", " look at something"]}
+{"head": "to look", "relation": "Causes", "tails": [" to look", " to look at something", " to look at"]}
+{"head": "to look", "relation": "xReason", "tails": [" to look", " to look at something", " to look at"]}
+{"head": "rest", "relation": "ObjectUse", "tails": [" lay down on", " lay down", " lay down and relax"]}
+{"head": "rest", "relation": "AtLocation", "tails": [" bed", " hotel room", " rest room"]}
+{"head": "rest", "relation": "CapableOf", "tails": [" lay down", " sit down", " lay down on"]}
+{"head": "rest", "relation": "HasProperty", "tails": [" found in hospital", " found in bed", " found in hotel room"]}
+{"head": "rest", "relation": "MadeUpOf", "tails": [" bed", " rest", " body"]}
+{"head": "rest", "relation": "NotDesires", "tails": [" fall asleep", " sleep", " rest of body"]}
+{"head": "rest", "relation": "Desires", "tails": [" rest", " relax", " take nap"]}
+{"head": "predictions", "relation": "ObjectUse", "tails": [" make money", " make a prediction", " make a list"]}
+{"head": "predictions", "relation": "AtLocation", "tails": [" book", " prediction market", " prediction jar"]}
+{"head": "predictions", "relation": "CapableOf", "tails": [" know what will happen", " know what to do", " know what to expect"]}
+{"head": "predictions", "relation": "HasProperty", "tails": [" good at predicting future events", " good for predicting future events", " made up of many things"]}
+{"head": "predictions", "relation": "MadeUpOf", "tails": [" predictability", " prediction", " predictors"]}
+{"head": "predictions", "relation": "NotDesires", "tails": [" make a prediction", " make a mistake", " make mistakes"]}
+{"head": "predictions", "relation": "Desires", "tails": [" make money", " make a prediction", " make a good decision"]}
+{"head": "nation", "relation": "ObjectUse", "tails": [" live in", " people to live in", " people to live with"]}
+{"head": "nation", "relation": "AtLocation", "tails": [" country", " europe", " world"]}
+{"head": "nation", "relation": "CapableOf", "tails": [" vote for president", " live in", " vote for candidate"]}
+{"head": "nation", "relation": "HasProperty", "tails": [" one nation", " one country", " country"]}
+{"head": "nation", "relation": "MadeUpOf", "tails": [" europe", " european", " european state"]}
+{"head": "nation", "relation": "NotDesires", "tails": [" people to die", " world to end", " people to suffer"]}
+{"head": "nation", "relation": "Desires", "tails": [" people to live in", " world to live in peace", " world to live in"]}
+{"head": "While the rest of the nation looks to Punxsutawney Phil for weather predictions on Groundhog Day, Beignet the Nutria ...", "relation": "xAttr", "tails": [" funny", " hopeful", " silly"]}
+{"head": "While the rest of the nation looks to Punxsutawney Phil for weather predictions on Groundhog Day, Beignet the Nutria ...", "relation": "xWant", "tails": [" to make a prediction about the weather", " to make a prediction", " to make a prediction for the future"]}
+{"head": "While the rest of the nation looks to Punxsutawney Phil for weather predictions on Groundhog Day, Beignet the Nutria ...", "relation": "xNeed", "tails": [" none", " to go to the ground", " to go to the zoo"]}
+{"head": "While the rest of the nation looks to Punxsutawney Phil for weather predictions on Groundhog Day, Beignet the Nutria ...", "relation": "xEffect", "tails": [" none", " get a new job", " get a new job."]}
+{"head": "While the rest of the nation looks to Punxsutawney Phil for weather predictions on Groundhog Day, Beignet the Nutria ...", "relation": "HinderedBy", "tails": [" beignet the nutria", " beignet the Nutria", " beignet the nutria."]}
+{"head": "While the rest of the nation looks to Punxsutawney Phil for weather predictions on Groundhog Day, Beignet the Nutria ...", "relation": "oWant", "tails": [" none", " to make a prediction", " to be a good friend"]}
+{"head": "While the rest of the nation looks to Punxsutawney Phil for weather predictions on Groundhog Day, Beignet the Nutria ...", "relation": "xReact", "tails": [" happy", " happy.", " excited"]}
+{"head": "While the rest of the nation looks to Punxsutawney Phil for weather predictions on Groundhog Day, Beignet the Nutria ...", "relation": "oEffect", "tails": [" none", " get a new job", " get a new pet"]}
+{"head": "While the rest of the nation looks to Punxsutawney Phil for weather predictions on Groundhog Day, Beignet the Nutria ...", "relation": "xIntent", "tails": [" none", " to predict the weather", " to make a prediction"]}
+{"head": "While the rest of the nation looks to Punxsutawney Phil for weather predictions on Groundhog Day, Beignet the Nutria ...", "relation": "oReact", "tails": [" none", " happy", " happy."]}
+{"head": "While the rest of the nation looks to Punxsutawney Phil for weather predictions on Groundhog Day, Beignet the Nutria ...", "relation": "isBefore", "tails": [" beignet the nutria", " beignet the Nutria", " none"]}
+{"head": "While the rest of the nation looks to Punxsutawney Phil for weather predictions on Groundhog Day, Beignet the Nutria ...", "relation": "isAfter", "tails": [" beignet the nutria", " beignet the Nutria", " beignet"]}
+{"head": "While the rest of the nation looks to Punxsutawney Phil for weather predictions on Groundhog Day, Beignet the Nutria ...", "relation": "HasSubEvent", "tails": [" none", " get a new job", " to be a good citizen"]}
+{"head": "While the rest of the nation looks to Punxsutawney Phil for weather predictions on Groundhog Day, Beignet the Nutria ...", "relation": "Causes", "tails": [" none", " happy", " weather"]}
+{"head": "While the rest of the nation looks to Punxsutawney Phil for weather predictions on Groundhog Day, Beignet the Nutria ...", "relation": "xReason", "tails": [" none", " beignet the nutria", " beignet the Nutria"]}
+{"head": "Punxsutawney Phil", "relation": "ObjectUse", "tails": [" get ready for the next day", " have a good time", " get ready for the day"]}
+{"head": "Punxsutawney Phil", "relation": "AtLocation", "tails": [" farm", " tree", " farmhouse"]}
+{"head": "Punxsutawney Phil", "relation": "CapableOf", "tails": [" get ready for the day", " get ready for the event", " get ready for the weather"]}
+{"head": "Punxsutawney Phil", "relation": "HasProperty", "tails": [" none", " good luck", " good"]}
+{"head": "Punxsutawney Phil", "relation": "MadeUpOf", "tails": [" snowman", " snowflake", " a hat"]}
+{"head": "Punxsutawney Phil", "relation": "NotDesires", "tails": [" none", " have a good time", " have a good day"]}
+{"head": "Punxsutawney Phil", "relation": "Desires", "tails": [" none", " to have a good time", " to be a good person"]}
+{"head": "Nutria", "relation": "ObjectUse", "tails": [" eat as a snack", " eat for breakfast", " eat for dessert"]}
+{"head": "Nutria", "relation": "AtLocation", "tails": [" ice cream", " ice cream sundae", " ice cream shop"]}
+{"head": "Nutria", "relation": "CapableOf", "tails": [" eat for dinner", " eat", " eat for breakfast"]}
+{"head": "Nutria", "relation": "HasProperty", "tails": [" nutria", " eaten by humans", " eaten in winter"]}
+{"head": "Nutria", "relation": "MadeUpOf", "tails": [" nutria", " milk", " water"]}
+{"head": "Nutria", "relation": "NotDesires", "tails": [" nutria", " eat for dinner", " eat for lunch"]}
+{"head": "Nutria", "relation": "Desires", "tails": [" eat for breakfast", " eat for dessert", " taste good"]}
+{"head": "Groundhog Day", "relation": "ObjectUse", "tails": [" laugh at", " make fun of yourself", " make a joke about"]}
+{"head": "Groundhog Day", "relation": "AtLocation", "tails": [" movie", " movie theater", " groundhog"]}
+{"head": "Groundhog Day", "relation": "CapableOf", "tails": [" laugh at", " laugh out loud", " laugh"]}
+{"head": "Groundhog Day", "relation": "HasProperty", "tails": [" Groundhog's Day", " Groundhog Day", " Groundhog's Punishment"]}
+{"head": "Groundhog Day", "relation": "MadeUpOf", "tails": [" ground", " Groundhog", " Ground"]}
+{"head": "Groundhog Day", "relation": "NotDesires", "tails": [" Groundhog's Day", " Groundhog Day", " Groundhog's day"]}
+{"head": "Groundhog Day", "relation": "Desires", "tails": [" none", " have a good time", " have a good day"]}

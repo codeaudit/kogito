@@ -1,0 +1,15 @@
+{"head": "LONDON LEAGUE", "relation": "xAttr", "tails": [" competitive", " athletic", " sporty"]}
+{"head": "LONDON LEAGUE", "relation": "xWant", "tails": [" to win the game", " to win the championship", " to play a game"]}
+{"head": "LONDON LEAGUE", "relation": "xNeed", "tails": [" find a team to play in", " find a place to play", " find a team to play for"]}
+{"head": "LONDON LEAGUE", "relation": "xEffect", "tails": [" wins the league", " wins the game", " wins the championship"]}
+{"head": "LONDON LEAGUE", "relation": "HinderedBy", "tails": [" LONDON LEAGUE", " LONDON LEAGUE  ", " LONDON LEAGUE "]}
+{"head": "LONDON LEAGUE", "relation": "oWant", "tails": [" to win the game", " to play in the league", " to play a game"]}
+{"head": "LONDON LEAGUE", "relation": "xReact", "tails": [" happy", " proud", " good"]}
+{"head": "LONDON LEAGUE", "relation": "oEffect", "tails": [" none", " play in", " play football"]}
+{"head": "LONDON LEAGUE", "relation": "xIntent", "tails": [" to be competitive", " to play football", " to play in"]}
+{"head": "LONDON LEAGUE", "relation": "oReact", "tails": [" none", " happy", " happy."]}
+{"head": "LONDON LEAGUE", "relation": "isBefore", "tails": [" LONDON LEAGUE", " LONDON FOOTBALL LEAGUE", " LONDON LONDON LEAGUE"]}
+{"head": "LONDON LEAGUE", "relation": "isAfter", "tails": [" LONDON LEAGUE", " LONDON FOOTBALL LEAGUE", " LONDON LONDON LEAGUE"]}
+{"head": "LONDON LEAGUE", "relation": "HasSubEvent", "tails": [" win the game", " play in", " win the match"]}
+{"head": "LONDON LEAGUE", "relation": "Causes", "tails": [" LONDON LEAGUE", " LONDON LEAGUE.", " LONDON LEAGUE "]}
+{"head": "LONDON LEAGUE", "relation": "xReason", "tails": [" LONDON LEAGUE", " LONDON LONDON LEAGUE", " LONDON LEAGUE."]}

@@ -1,0 +1,83 @@
+{"head": "to divide", "relation": "HinderedBy", "tails": [" to divide", " to divide ", " to divide the money"]}
+{"head": "to divide", "relation": "isBefore", "tails": [" to divide", " divide and conquer", " to divide things"]}
+{"head": "to divide", "relation": "isAfter", "tails": [" divide and conquer", " to divide", " to divide the money"]}
+{"head": "to divide", "relation": "HasSubEvent", "tails": [" to divide", " divide and conquer", " to divide "]}
+{"head": "to divide", "relation": "Causes", "tails": [" divide and conquer", " to divide", " to divide things"]}
+{"head": "to divide", "relation": "xReason", "tails": [" divide and conquer", " to divide", " to divide things"]}
+{"head": "to bring", "relation": "HinderedBy", "tails": [" to bring", " to bring ", " to bring  to the event"]}
+{"head": "to bring", "relation": "isBefore", "tails": [" to bring", " to bring ", " to bring  food"]}
+{"head": "to bring", "relation": "isAfter", "tails": [" to bring to the event", " to bring to the party", " to bring"]}
+{"head": "to bring", "relation": "HasSubEvent", "tails": [" to bring", " to bring ", " to bring  bring"]}
+{"head": "to bring", "relation": "Causes", "tails": [" to bring", " have to bring", " to bring  to  bring"]}
+{"head": "to bring", "relation": "xReason", "tails": [" to bring", " have to bring", " to bring  food"]}
+{"head": "story", "relation": "ObjectUse", "tails": [" tell a story", " write a novel", " write a book"]}
+{"head": "story", "relation": "AtLocation", "tails": [" book", " storybook", " story book"]}
+{"head": "story", "relation": "CapableOf", "tails": [" tell", " read", " tell story"]}
+{"head": "story", "relation": "HasProperty", "tails": [" written in rhyming couplets", " written in rhyming language", " written in rhyme"]}
+{"head": "story", "relation": "MadeUpOf", "tails": [" story line", " story", " book"]}
+{"head": "story", "relation": "NotDesires", "tails": [" story to be told", " story to end", " story to tell"]}
+{"head": "story", "relation": "Desires", "tails": [" tell story", " read", " read and enjoy"]}
+{"head": "residents", "relation": "ObjectUse", "tails": [" live in the city", " live in city", " live in a city"]}
+{"head": "residents", "relation": "AtLocation", "tails": [" city", " apartment building", " apartment complex"]}
+{"head": "residents", "relation": "CapableOf", "tails": [" live in city", " live in neighborhood", " live in house"]}
+{"head": "residents", "relation": "HasProperty", "tails": [" live in city", " live in town", " live in neighborhood"]}
+{"head": "residents", "relation": "MadeUpOf", "tails": [" house", " water", " land"]}
+{"head": "residents", "relation": "NotDesires", "tails": [" live in city", " have to pay rent", " live in house"]}
+{"head": "residents", "relation": "Desires", "tails": [" live in city", " live in town", " live in country"]}
+{"head": "inequality", "relation": "ObjectUse", "tails": [" make people feel inferior", " get rich", " make people feel bad"]}
+{"head": "inequality", "relation": "AtLocation", "tails": [" poverty", " poor countries", " social problems"]}
+{"head": "inequality", "relation": "CapableOf", "tails": [" make poor people poorer", " make poor people poor", " make poor people rich"]}
+{"head": "inequality", "relation": "HasProperty", "tails": [" unfairness", " immoral", " bad for people"]}
+{"head": "inequality", "relation": "MadeUpOf", "tails": [" poverty", " immoral behavior", " injustice"]}
+{"head": "inequality", "relation": "NotDesires", "tails": [" injustice", " immoral people", " immoral behavior"]}
+{"head": "inequality", "relation": "Desires", "tails": [" have to pay for", " injustice", " have to pay more"]}
+{"head": "homelessness", "relation": "ObjectUse", "tails": [" get a job", " make a living", " homeless people"]}
+{"head": "homelessness", "relation": "AtLocation", "tails": [" homeless shelter", " homeless people", " homeless"]}
+{"head": "homelessness", "relation": "CapableOf", "tails": [" sleep on street", " sleep on the street", " sleep on streets"]}
+{"head": "homelessness", "relation": "HasProperty", "tails": [" homeless", " homeless people", " homelessness"]}
+{"head": "homelessness", "relation": "MadeUpOf", "tails": [" homeless", " homeless person", " homeless people"]}
+{"head": "homelessness", "relation": "NotDesires", "tails": [" homeless", " homeless people", " homeless person"]}
+{"head": "homelessness", "relation": "Desires", "tails": [" have no place to live", " homeless", " have no place to sleep"]}
+{"head": "deep inequality", "relation": "ObjectUse", "tails": [" get rich", " make people feel bad", " make a living"]}
+{"head": "deep inequality", "relation": "AtLocation", "tails": [" poor countries", " poverty", " social unrest"]}
+{"head": "deep inequality", "relation": "CapableOf", "tails": [" make less money than rich people", " make less money than others", " get robbed by robber barons"]}
+{"head": "deep inequality", "relation": "HasProperty", "tails": [" bad for society", " bad for people", " poor people"]}
+{"head": "deep inequality", "relation": "MadeUpOf", "tails": [" deep poverty", " poor people", " poverty"]}
+{"head": "deep inequality", "relation": "NotDesires", "tails": [" poor people", " poverty", " bad things happen"]}
+{"head": "deep inequality", "relation": "Desires", "tails": [" poor people", " feel powerless", " bad people"]}
+{"head": "crime", "relation": "ObjectUse", "tails": [" get away with", " get arrested for", " get arrested"]}
+{"head": "crime", "relation": "AtLocation", "tails": [" jail", " prison", " jail cell"]}
+{"head": "crime", "relation": "CapableOf", "tails": [" commit crime", " run away", " run away from"]}
+{"head": "crime", "relation": "HasProperty", "tails": [" criminal activity", " criminal behavior", " guilty of crime"]}
+{"head": "crime", "relation": "MadeUpOf", "tails": [" crime", " criminal behavior", " criminal activity"]}
+{"head": "crime", "relation": "NotDesires", "tails": [" criminal behavior", " criminal activity", " crime"]}
+{"head": "crime", "relation": "Desires", "tails": [" run away from", " get caught", " run away"]}
+{"head": "city", "relation": "ObjectUse", "tails": [" city", " living in", " city or town"]}
+{"head": "city", "relation": "AtLocation", "tails": [" city", " countryside", " town"]}
+{"head": "city", "relation": "CapableOf", "tails": [" live in", " travel to", " city"]}
+{"head": "city", "relation": "HasProperty", "tails": [" city", " urban area", " cities"]}
+{"head": "city", "relation": "MadeUpOf", "tails": [" city", " city or town", " city or suburb"]}
+{"head": "city", "relation": "NotDesires", "tails": [" city", " urban area", " cities"]}
+{"head": "city", "relation": "Desires", "tails": [" city", " live in", " cities"]}
+{"head": "The story of two San Francisco residents brought together by a crime is illustrative of a city divided by deep inequality and homelessness", "relation": "xAttr", "tails": [" violent", " homeless", " social"]}
+{"head": "The story of two San Francisco residents brought together by a crime is illustrative of a city divided by deep inequality and homelessness", "relation": "xWant", "tails": [" to make amends", " to find a solution", " to find a way out"]}
+{"head": "The story of two San Francisco residents brought together by a crime is illustrative of a city divided by deep inequality and homelessness", "relation": "xNeed", "tails": [" none", " to be in a bad situation", " to have been robbed"]}
+{"head": "The story of two San Francisco residents brought together by a crime is illustrative of a city divided by deep inequality and homelessness", "relation": "xEffect", "tails": [" gets arrested for a crime", " gets arrested", " none"]}
+{"head": "The story of two San Francisco residents brought together by a crime is illustrative of a city divided by deep inequality and homelessness", "relation": "HinderedBy", "tails": [" the story of two people brought together by a crime is illustrative of a city divided by deep inequality and homelessness", " the story of two people brought together by a crime is illustrative of a city divided by deep inequality and poverty", " the story of two people brought together by a crime is illustrative of a city divided by deep inequality"]}
+{"head": "The story of two San Francisco residents brought together by a crime is illustrative of a city divided by deep inequality and homelessness", "relation": "oWant", "tails": [" to find a way out of the situation", " to find a solution to the problem", " to find a solution"]}
+{"head": "The story of two San Francisco residents brought together by a crime is illustrative of a city divided by deep inequality and homelessness", "relation": "xReact", "tails": [" sad", " happy", " angry"]}
+{"head": "The story of two San Francisco residents brought together by a crime is illustrative of a city divided by deep inequality and homelessness", "relation": "oEffect", "tails": [" none", " get arrested for a crime", " get arrested for the crime"]}
+{"head": "The story of two San Francisco residents brought together by a crime is illustrative of a city divided by deep inequality and homelessness", "relation": "xIntent", "tails": [" none", " to make a difference", " to make a statement"]}
+{"head": "The story of two San Francisco residents brought together by a crime is illustrative of a city divided by deep inequality and homelessness", "relation": "oReact", "tails": [" none", " sad", " happy"]}
+{"head": "The story of two San Francisco residents brought together by a crime is illustrative of a city divided by deep inequality and homelessness", "relation": "isBefore", "tails": [" PersonX is arrested for the crime.", " PersonX is arrested by the police", " PersonX is arrested by the police."]}
+{"head": "The story of two San Francisco residents brought together by a crime is illustrative of a city divided by deep inequality and homelessness", "relation": "isAfter", "tails": [" the story of two people brought together by a crime is illustrative of a city divided by deep inequality and homelessness", " the story of two people brought together by the crime is illustrative of a city divided by deep inequality and homelessness", " the story of two people brought together by a crime is illustrative of the city divided by deep inequality and homelessness"]}
+{"head": "The story of two San Francisco residents brought together by a crime is illustrative of a city divided by deep inequality and homelessness", "relation": "HasSubEvent", "tails": [" get a restraining order", " get arrested", " get a new job"]}
+{"head": "The story of two San Francisco residents brought together by a crime is illustrative of a city divided by deep inequality and homelessness", "relation": "Causes", "tails": [" the story of two people brought together by a crime is illustrative of a city divided by deep inequality and homelessness", " the story of two people brought together by the crime is illustrative of a city divided by deep inequality and homelessness", " the story of two people brought together by a crime is illustrative of a city divided by deep inequality and poverty"]}
+{"head": "The story of two San Francisco residents brought together by a crime is illustrative of a city divided by deep inequality and homelessness", "relation": "xReason", "tails": [" the story of two people brought together by a crime is illustrative of a city divided by deep inequality and homelessness", " the story of two people brought together by the crime is illustrative of a city divided by deep inequality and homelessness", " the story of two people brought together by a crime is illustrative of a city divided by deep inequality and poverty"]}
+{"head": "San Francisco residents", "relation": "ObjectUse", "tails": [" live in San Francisco", " live in the city", " live in a city"]}
+{"head": "San Francisco residents", "relation": "AtLocation", "tails": [" city", " apartment building", " house"]}
+{"head": "San Francisco residents", "relation": "CapableOf", "tails": [" live in San Francisco", " live in city", " live in a city"]}
+{"head": "San Francisco residents", "relation": "HasProperty", "tails": [" San Francisco", " live in city", " live in"]}
+{"head": "San Francisco residents", "relation": "MadeUpOf", "tails": [" san francisco", " San Francisco", " san francisco bay"]}
+{"head": "San Francisco residents", "relation": "NotDesires", "tails": [" live in city", " San Francisco", " live in"]}
+{"head": "San Francisco residents", "relation": "Desires", "tails": [" to live in the city", " live in a city", " live in city"]}

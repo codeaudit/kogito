@@ -1,0 +1,225 @@
+{"head": "wonderful surprise", "relation": "ObjectUse", "tails": [" have a good time", " surprise someone", " make someone happy"]}
+{"head": "wonderful surprise", "relation": "AtLocation", "tails": [" surprise party", " surprise", " store"]}
+{"head": "wonderful surprise", "relation": "CapableOf", "tails": [" have a good time", " have a great time", " surprise someone"]}
+{"head": "wonderful surprise", "relation": "HasProperty", "tails": [" happy", " surprise", " good"]}
+{"head": "wonderful surprise", "relation": "MadeUpOf", "tails": [" surprise", " happy", " joy"]}
+{"head": "wonderful surprise", "relation": "NotDesires", "tails": [" have a good time", " surprise", " have a great time"]}
+{"head": "wonderful surprise", "relation": "Desires", "tails": [" surprise", " none", " to be surprised"]}
+{"head": "want pet", "relation": "HinderedBy", "tails": [" want to have a pet", " have no one to love", " have no one to love them"]}
+{"head": "want pet", "relation": "isBefore", "tails": [" want to play with", " want to play with pet", " want to be a pet owner"]}
+{"head": "want pet", "relation": "isAfter", "tails": [" want to play with", " petting zoo", " want to play with pet"]}
+{"head": "want pet", "relation": "HasSubEvent", "tails": [" want to take care of pet", " want to take care of it", " want to take care of"]}
+{"head": "want pet", "relation": "Causes", "tails": [" want to play with", " want to play with pet", " want to be petted"]}
+{"head": "want pet", "relation": "xReason", "tails": [" want to play with", " want to play with pet", " want to be petted"]}
+{"head": "to want", "relation": "HinderedBy", "tails": [" to want", " to want something", " to want "]}
+{"head": "to want", "relation": "isBefore", "tails": [" to want", " to want something", " to want to want"]}
+{"head": "to want", "relation": "isAfter", "tails": [" to want", " to want something", " to want to want"]}
+{"head": "to want", "relation": "HasSubEvent", "tails": [" to want", " to want something", " to want to want"]}
+{"head": "to want", "relation": "Causes", "tails": [" to want", " to want something", " to want to want"]}
+{"head": "to want", "relation": "xReason", "tails": [" to want", " to want something", " to want to want"]}
+{"head": "to tell", "relation": "HinderedBy", "tails": [" to tell", " to tell ", " to tell  to tell "]}
+{"head": "to tell", "relation": "isBefore", "tails": [" to tell", " to tell the truth", " to tell "]}
+{"head": "to tell", "relation": "isAfter", "tails": [" to tell the truth", " to tell", " to be heard"]}
+{"head": "to tell", "relation": "HasSubEvent", "tails": [" to tell", " to tell ", " to tell  tell "]}
+{"head": "to tell", "relation": "Causes", "tails": [" to tell", " to tell  to  tell ", " to tell  to  tell  "]}
+{"head": "to tell", "relation": "xReason", "tails": [" to tell", " to be honest", " none"]}
+{"head": "to say", "relation": "HinderedBy", "tails": [" to say", " to say ", " to say something"]}
+{"head": "to say", "relation": "isBefore", "tails": [" to say", " to say something", " to say "]}
+{"head": "to say", "relation": "isAfter", "tails": [" to be heard", " to say", " to say something"]}
+{"head": "to say", "relation": "HasSubEvent", "tails": [" to say", " to say ", " to say  something"]}
+{"head": "to say", "relation": "Causes", "tails": [" to say", " have to say", " to say something"]}
+{"head": "to say", "relation": "xReason", "tails": [" to say", " have to say", " to say something"]}
+{"head": "to receive", "relation": "HinderedBy", "tails": [" to receive", " to receive ", " to receive something"]}
+{"head": "to receive", "relation": "isBefore", "tails": [" to receive", " to receive ", " to receive a gift"]}
+{"head": "to receive", "relation": "isAfter", "tails": [" to receive", " receive", " to receive something"]}
+{"head": "to receive", "relation": "HasSubEvent", "tails": [" to receive", " to receive ", " to receive  something"]}
+{"head": "to receive", "relation": "Causes", "tails": [" to receive", " receive", " to receive "]}
+{"head": "to receive", "relation": "xReason", "tails": [" to receive", " receive", " to receive something"]}
+{"head": "to listen", "relation": "HinderedBy", "tails": [" to listen", " to listen to", " to listen to music"]}
+{"head": "to listen", "relation": "isBefore", "tails": [" to listen", " to listen to", " to listen to music"]}
+{"head": "to listen", "relation": "isAfter", "tails": [" listen to music", " listen to", " listen to person"]}
+{"head": "to listen", "relation": "HasSubEvent", "tails": [" to listen", " listen to others", " listen to person"]}
+{"head": "to listen", "relation": "Causes", "tails": [" to listen", " listen to", " listen"]}
+{"head": "to listen", "relation": "xReason", "tails": [" to listen", " listen to", " listen to others"]}
+{"head": "to get", "relation": "HinderedBy", "tails": [" to get ", " to get", " to get  to get "]}
+{"head": "to get", "relation": "isBefore", "tails": [" to get", " to get ", " to get  to get "]}
+{"head": "to get", "relation": "isAfter", "tails": [" to get", " to get something", " to get "]}
+{"head": "to get", "relation": "HasSubEvent", "tails": [" to get", " to get ", " to get  to get"]}
+{"head": "to get", "relation": "Causes", "tails": [" to get", " to get  to get ", " to get "]}
+{"head": "to get", "relation": "xReason", "tails": [" to get", " to get something", " to get "]}
+{"head": "tell dad", "relation": "HinderedBy", "tails": [" talk to dad", " tell dad", " talk to dad about"]}
+{"head": "tell dad", "relation": "isBefore", "tails": [" talk to dad", " tell mom", " talk to"]}
+{"head": "tell dad", "relation": "isAfter", "tails": [" tell mom", " tell dad", " tell dad what"]}
+{"head": "tell dad", "relation": "HasSubEvent", "tails": [" talk to dad", " talk to father", " tell mom"]}
+{"head": "tell dad", "relation": "Causes", "tails": [" talk to dad", " tell mom", " talk to father"]}
+{"head": "tell dad", "relation": "xReason", "tails": [" talk to dad", " tell mom", " talk to father"]}
+{"head": "surprise", "relation": "ObjectUse", "tails": [" surprise someone", " surprise someone with", " surprise"]}
+{"head": "surprise", "relation": "AtLocation", "tails": [" surprise party", " birthday party", " surprise"]}
+{"head": "surprise", "relation": "CapableOf", "tails": [" surprise", " surprise guests", " surprise people"]}
+{"head": "surprise", "relation": "HasProperty", "tails": [" surprise", " surprised", " happy"]}
+{"head": "surprise", "relation": "MadeUpOf", "tails": [" surprise", " surprise party", " surprise to others"]}
+{"head": "surprise", "relation": "NotDesires", "tails": [" surprise", " have to clean up", " have to clean up mess"]}
+{"head": "surprise", "relation": "Desires", "tails": [" surprise", " surprise someone", " have fun"]}
+{"head": "shiny bow", "relation": "ObjectUse", "tails": [" put on a gift", " put on the gift", " put on the cake"]}
+{"head": "shiny bow", "relation": "AtLocation", "tails": [" jewelry box", " jewelry store", " bowlery"]}
+{"head": "shiny bow", "relation": "CapableOf", "tails": [" use as decoration", " put on the ribbon", " put on a gift"]}
+{"head": "shiny bow", "relation": "HasProperty", "tails": [" put on a gift", " made from wood", " put on a ribbon"]}
+{"head": "shiny bow", "relation": "MadeUpOf", "tails": [" bowtie", " ribbons", " bowstring"]}
+{"head": "shiny bow", "relation": "NotDesires", "tails": [" put on a gift", " put on a cake", " put on a ribbon"]}
+{"head": "shiny bow", "relation": "Desires", "tails": [" put on a gift", " put on a cake", " put on the gift"]}
+{"head": "say anything", "relation": "HinderedBy", "tails": [" say what they want to say", " say what they think", " say what you think"]}
+{"head": "say anything", "relation": "isBefore", "tails": [" say what you think", " listen to", " say what they think"]}
+{"head": "say anything", "relation": "isAfter", "tails": [" say what you want to say", " say what you think", " say what you feel"]}
+{"head": "say anything", "relation": "HasSubEvent", "tails": [" say what you want to say", " say what you think", " say what you feel"]}
+{"head": "say anything", "relation": "Causes", "tails": [" say what you think", " say what they think", " say what you feel"]}
+{"head": "say anything", "relation": "xReason", "tails": [" say what you want to say", " say what you think", " say what you feel"]}
+{"head": "receive puppy", "relation": "HinderedBy", "tails": [" buy puppy", " get puppy", " buy puppy food"]}
+{"head": "receive puppy", "relation": "isBefore", "tails": [" take puppy home", " have fun with puppy", " take puppy for walk"]}
+{"head": "receive puppy", "relation": "isAfter", "tails": [" buy puppy", " buy puppy food", " buy puppy toys"]}
+{"head": "receive puppy", "relation": "HasSubEvent", "tails": [" take puppy home", " have to feed puppy", " take puppy to vet"]}
+{"head": "receive puppy", "relation": "Causes", "tails": [" give puppy a name", " have fun with puppy", " have a pet"]}
+{"head": "receive puppy", "relation": "xReason", "tails": [" give puppy a name", " give puppy name", " give puppy a bath"]}
+{"head": "puppy", "relation": "ObjectUse", "tails": [" play with", " play fetch with", " have a pet"]}
+{"head": "puppy", "relation": "AtLocation", "tails": [" pet store", " pet shop", " dog bed"]}
+{"head": "puppy", "relation": "CapableOf", "tails": [" take care of", " take to the vet", " take bath"]}
+{"head": "puppy", "relation": "HasProperty", "tails": [" puppies", " pet", " petting"]}
+{"head": "puppy", "relation": "MadeUpOf", "tails": [" petting", " puppy ears", " pet"]}
+{"head": "puppy", "relation": "NotDesires", "tails": [" petting", " have a friend", " have to eat"]}
+{"head": "puppy", "relation": "Desires", "tails": [" have companionship", " to play with", " have a companion"]}
+{"head": "pet", "relation": "ObjectUse", "tails": [" play with", " keep company", " feed"]}
+{"head": "pet", "relation": "AtLocation", "tails": [" pet store", " pet shop", " dog house"]}
+{"head": "pet", "relation": "CapableOf", "tails": [" take care of", " take for walk", " take care of pet"]}
+{"head": "pet", "relation": "HasProperty", "tails": [" found in house", " found in home", " one of many pets"]}
+{"head": "pet", "relation": "MadeUpOf", "tails": [" petting zoo", " pet's name", " pet's tail"]}
+{"head": "pet", "relation": "NotDesires", "tails": [" pet to die", " have to care for", " have to feed"]}
+{"head": "pet", "relation": "Desires", "tails": [" have companionship", " love and care for", " have a companion"]}
+{"head": "morning", "relation": "ObjectUse", "tails": [" get out of bed", " wake up", " get out of bed in"]}
+{"head": "morning", "relation": "AtLocation", "tails": [" morning", " bed", " breakfast"]}
+{"head": "morning", "relation": "CapableOf", "tails": [" wake up", " get out of bed", " wake up early"]}
+{"head": "morning", "relation": "HasProperty", "tails": [" found in early morning", " found in morning", " morning"]}
+{"head": "morning", "relation": "MadeUpOf", "tails": [" morning", " wake up", " breakfast"]}
+{"head": "morning", "relation": "NotDesires", "tails": [" wake up", " morning sickness", " wake up early"]}
+{"head": "morning", "relation": "Desires", "tails": [" wake up", " wake up early", " wake up in"]}
+{"head": "head", "relation": "ObjectUse", "tails": [" head", " head and neck", " head to head"]}
+{"head": "head", "relation": "AtLocation", "tails": [" head", " body", " neck"]}
+{"head": "head", "relation": "CapableOf", "tails": [" head back and forth", " hear voice", " head to neck"]}
+{"head": "head", "relation": "HasProperty", "tails": [" head and neck", " found in skull", " found in head"]}
+{"head": "head", "relation": "MadeUpOf", "tails": [" head", " neck", " head hair"]}
+{"head": "head", "relation": "NotDesires", "tails": [" head hurts", " headache", " head to hurt"]}
+{"head": "head", "relation": "Desires", "tails": [" head and neck", " head", " head and shoulders"]}
+{"head": "get surprise", "relation": "HinderedBy", "tails": [" surprise someone", " surprise", " surprise someone with"]}
+{"head": "get surprise", "relation": "isBefore", "tails": [" surprise", " surprise someone", " have fun"]}
+{"head": "get surprise", "relation": "isAfter", "tails": [" surprise", " surprise someone", " have fun"]}
+{"head": "get surprise", "relation": "HasSubEvent", "tails": [" surprise", " have fun", " get surprised"]}
+{"head": "get surprise", "relation": "Causes", "tails": [" surprise", " have fun", " surprise someone"]}
+{"head": "get surprise", "relation": "xReason", "tails": [" surprise", " surprise someone", " have fun"]}
+{"head": "dad", "relation": "ObjectUse", "tails": [" have a conversation with", " have a good relationship with", " have a good time with"]}
+{"head": "dad", "relation": "AtLocation", "tails": [" dad's house", " mom's house", " dad's car"]}
+{"head": "dad", "relation": "CapableOf", "tails": [" father son", " step on dog", " father"]}
+{"head": "dad", "relation": "HasProperty", "tails": [" dad", " father", " good looking"]}
+{"head": "dad", "relation": "MadeUpOf", "tails": [" dad", " dad's hands", " father"]}
+{"head": "dad", "relation": "NotDesires", "tails": [" dad to die", " father to die", " dad to be dead"]}
+{"head": "dad", "relation": "Desires", "tails": [" fatherly love", " fatherly influence", " dad to be happy"]}
+{"head": "bow", "relation": "ObjectUse", "tails": [" use as a weapon", " use as a weapon in a fight", " use as a weapon in a war"]}
+{"head": "bow", "relation": "AtLocation", "tails": [" bowlery", " bowling alley", " bow tie"]}
+{"head": "bow", "relation": "CapableOf", "tails": [" put on head", " bow down", " put on bow"]}
+{"head": "bow", "relation": "HasProperty", "tails": [" bowstring", " used in bow and arrow", " found in bowels"]}
+{"head": "bow", "relation": "MadeUpOf", "tails": [" bowstring", " bow string", " bowhead"]}
+{"head": "bow", "relation": "NotDesires", "tails": [" bow and arrow", " bowels", " bow tie"]}
+{"head": "bow", "relation": "Desires", "tails": [" use as a weapon", " bow and arrow", " use as weapon"]}
+{"head": "So on Christmas morning, And got a wonderful surprise.", "relation": "xAttr", "tails": [" happy", " excited", " surprised"]}
+{"head": "So on Christmas morning, And got a wonderful surprise.", "relation": "xWant", "tails": [" to open the present", " to open the gift", " to see what they got"]}
+{"head": "So on Christmas morning, And got a wonderful surprise.", "relation": "xNeed", "tails": [" none", " to buy a present", " to open the present"]}
+{"head": "So on Christmas morning, And got a wonderful surprise.", "relation": "xEffect", "tails": [" none", " get a gift", " gets a gift"]}
+{"head": "So on Christmas morning, And got a wonderful surprise.", "relation": "HinderedBy", "tails": [" so happy", " so excited", " so happy."]}
+{"head": "So on Christmas morning, And got a wonderful surprise.", "relation": "oWant", "tails": [" none", " to open the present", " to open the gift"]}
+{"head": "So on Christmas morning, And got a wonderful surprise.", "relation": "xReact", "tails": [" happy", " excited", " surprised"]}
+{"head": "So on Christmas morning, And got a wonderful surprise.", "relation": "oEffect", "tails": [" none", " get a gift", " they get a gift"]}
+{"head": "So on Christmas morning, And got a wonderful surprise.", "relation": "xIntent", "tails": [" none", " to be surprised", " so happy"]}
+{"head": "So on Christmas morning, And got a wonderful surprise.", "relation": "oReact", "tails": [" none", " happy", " surprised"]}
+{"head": "So on Christmas morning, And got a wonderful surprise.", "relation": "isBefore", "tails": [" so happy", " so excited", " none"]}
+{"head": "So on Christmas morning, And got a wonderful surprise.", "relation": "isAfter", "tails": [" so happy", " none", " so excited"]}
+{"head": "So on Christmas morning, And got a wonderful surprise.", "relation": "HasSubEvent", "tails": [" get a gift", " get a present", " get excited"]}
+{"head": "So on Christmas morning, And got a wonderful surprise.", "relation": "Causes", "tails": [" so happy", " so excited", " so happy."]}
+{"head": "So on Christmas morning, And got a wonderful surprise.", "relation": "xReason", "tails": [" so happy", " so excited", " so happy."]}
+{"head": "His dad listened, but didn't say anything.", "relation": "xAttr", "tails": [" quiet", " attentive", " thoughtful"]}
+{"head": "His dad listened, but didn't say anything.", "relation": "xWant", "tails": [" to listen to what they have to say", " to listen to what he has to say", " to listen to what they have to say."]}
+{"head": "His dad listened, but didn't say anything.", "relation": "xNeed", "tails": [" to talk to his dad", " to talk to their dad", " to talk to him"]}
+{"head": "His dad listened, but didn't say anything.", "relation": "xEffect", "tails": [" his dad to listen to him", " his dad to be quiet", " his dad to listen to him."]}
+{"head": "His dad listened, but didn't say anything.", "relation": "HinderedBy", "tails": [" his dad to not say anything", " his dad to be quiet", " his dad to listen to him"]}
+{"head": "His dad listened, but didn't say anything.", "relation": "oWant", "tails": [" to listen to what he has to say", " to listen to what they have to say", " to listen to what he has to say."]}
+{"head": "His dad listened, but didn't say anything.", "relation": "xReact", "tails": [" his dad to listen to him", " his dad to be quiet", " his dad to listen to him."]}
+{"head": "His dad listened, but didn't say anything.", "relation": "oEffect", "tails": [" none", " his dad to not say anything", " his dad to listen to him"]}
+{"head": "His dad listened, but didn't say anything.", "relation": "xIntent", "tails": [" his dad to be quiet", " to be left alone", " his dad to listen to him"]}
+{"head": "His dad listened, but didn't say anything.", "relation": "oReact", "tails": [" none", " his dad to listen to him.", " his dad to listen to him"]}
+{"head": "His dad listened, but didn't say anything.", "relation": "isBefore", "tails": [" his dad to listen to him", " his dad to be quiet", " his dad to listen"]}
+{"head": "His dad listened, but didn't say anything.", "relation": "isAfter", "tails": [" his dad to listen to him", " his dad to be quiet", " his dad to talk to him"]}
+{"head": "His dad listened, but didn't say anything.", "relation": "HasSubEvent", "tails": [" his dad to not say anything", " his dad to listen to him", " his dad to be quiet"]}
+{"head": "His dad listened, but didn't say anything.", "relation": "Causes", "tails": [" his dad to be quiet", " his dad to not say anything", " his dad to listen to him"]}
+{"head": "His dad listened, but didn't say anything.", "relation": "xReason", "tails": [" his dad to not say anything", " his dad to be quiet", " his dad to listen to him"]}
+{"head": "He told his dad.", "relation": "xAttr", "tails": [" talkative", " informed", " honest"]}
+{"head": "He told his dad.", "relation": "xWant", "tails": [" to tell his dad something", " to go home", " to tell his dad what happened"]}
+{"head": "He told his dad.", "relation": "xNeed", "tails": [" to have a conversation with his dad", " to have a conversation with their dad", " to call his dad"]}
+{"head": "He told his dad.", "relation": "xEffect", "tails": [" gets yelled at", " gets yelled at by dad", " gets yelled at by his dad"]}
+{"head": "He told his dad.", "relation": "HinderedBy", "tails": [" he has to tell his dad", " he has to tell his dad.", " he has to go to work"]}
+{"head": "He told his dad.", "relation": "oWant", "tails": [" to listen to what he has to say", " to listen to what they have to say", " to listen to what he has to say."]}
+{"head": "He told his dad.", "relation": "xReact", "tails": [" happy", " informed", " happy."]}
+{"head": "He told his dad.", "relation": "oEffect", "tails": [" none", " he is told to go to bed", " he is told to go away"]}
+{"head": "He told his dad.", "relation": "xIntent", "tails": [" to tell his dad something", " to be honest", " to tell dad something"]}
+{"head": "He told his dad.", "relation": "oReact", "tails": [" none", " happy", " informed"]}
+{"head": "He told his dad.", "relation": "isBefore", "tails": [" he tells his dad", " he goes to the doctor", " his dad to tell him"]}
+{"head": "He told his dad.", "relation": "isAfter", "tails": [" his dad to tell his dad", " his dad to tell him the truth", " his dad to tell him"]}
+{"head": "He told his dad.", "relation": "HasSubEvent", "tails": [" he gets a hug from his dad", " he gets a hug from his dad.", " get a hug from dad"]}
+{"head": "He told his dad.", "relation": "Causes", "tails": [" he has to tell his dad", " he has to tell his dad.", " he has to tell his dad something"]}
+{"head": "He told his dad.", "relation": "xReason", "tails": [" he is going to tell his dad", " he is going to tell his dad about it", " he is going to tell his dad."]}
+{"head": "He received a puppy with a shiny bow on it's head!", "relation": "xAttr", "tails": [" excited", " happy", " caring"]}
+{"head": "He received a puppy with a shiny bow on it's head!", "relation": "xWant", "tails": [" to play with it", " to take it home", " to give it to his friend"]}
+{"head": "He received a puppy with a shiny bow on it's head!", "relation": "xNeed", "tails": [" to go to the pet store", " to ask for a puppy", " to go to the store"]}
+{"head": "He received a puppy with a shiny bow on it's head!", "relation": "xEffect", "tails": [" receives a gift in return", " receives a gift", " receives a thank you note"]}
+{"head": "He received a puppy with a shiny bow on it's head!", "relation": "HinderedBy", "tails": [" he is allergic to dogs", " he is allergic to it", " he has no money"]}
+{"head": "He received a puppy with a shiny bow on it's head!", "relation": "oWant", "tails": [" to play with the puppy", " none", " to give the puppy a name"]}
+{"head": "He received a puppy with a shiny bow on it's head!", "relation": "xReact", "tails": [" happy", " excited", " happy."]}
+{"head": "He received a puppy with a shiny bow on it's head!", "relation": "oEffect", "tails": [" none", " he gets a puppy", " he gets a new pet"]}
+{"head": "He received a puppy with a shiny bow on it's head!", "relation": "xIntent", "tails": [" none", " to have a pet", " to play with it"]}
+{"head": "He received a puppy with a shiny bow on it's head!", "relation": "oReact", "tails": [" none", " happy", " excited"]}
+{"head": "He received a puppy with a shiny bow on it's head!", "relation": "isBefore", "tails": [" PersonY gives the puppy to PersonY.", " PersonY gives the puppy to PersonY", " PersonY gives the puppy to PersonX."]}
+{"head": "He received a puppy with a shiny bow on it's head!", "relation": "isAfter", "tails": [" PersonY gives the puppy to PersonY.", " PersonY gives the puppy to PersonY", " PersonY gives the puppy to PersonX."]}
+{"head": "He received a puppy with a shiny bow on it's head!", "relation": "HasSubEvent", "tails": [" give it a name", " give it to the puppy", " give it a treat"]}
+{"head": "He received a puppy with a shiny bow on it's head!", "relation": "Causes", "tails": [" happy", " excited", " happy."]}
+{"head": "He received a puppy with a shiny bow on it's head!", "relation": "xReason", "tails": [" he gets a puppy to play with", " he gets a puppy to play with.", " he gets a puppy"]}
+{"head": "Dan wanted a pet for Christmas.", "relation": "xAttr", "tails": [" caring", " loving", " excited"]}
+{"head": "Dan wanted a pet for Christmas.", "relation": "xWant", "tails": [" to go to the pet store", " to buy a pet", " to go to the pet store."]}
+{"head": "Dan wanted a pet for Christmas.", "relation": "xNeed", "tails": [" to go to the pet store", " to go to the pet store.", " to go to a pet store"]}
+{"head": "Dan wanted a pet for Christmas.", "relation": "xEffect", "tails": [" get a pet", " none", " get a pet."]}
+{"head": "Dan wanted a pet for Christmas.", "relation": "HinderedBy", "tails": [" Dan is allergic to dogs.", " Dan is allergic to animals.", " Dan has no money."]}
+{"head": "Dan wanted a pet for Christmas.", "relation": "oWant", "tails": [" none", " to give it to him", " to buy a pet for him"]}
+{"head": "Dan wanted a pet for Christmas.", "relation": "xReact", "tails": [" happy", " excited", " happy."]}
+{"head": "Dan wanted a pet for Christmas.", "relation": "oEffect", "tails": [" none", " they buy a pet", " get a pet"]}
+{"head": "Dan wanted a pet for Christmas.", "relation": "xIntent", "tails": [" to have a pet", " to have a pet.", " none"]}
+{"head": "Dan wanted a pet for Christmas.", "relation": "oReact", "tails": [" none", " happy", " loved"]}
+{"head": "Dan wanted a pet for Christmas.", "relation": "isBefore", "tails": [" PersonY buys a pet for PersonY.", " PersonY buys a pet for PersonY", " PersonY buys a pet for PersonX."]}
+{"head": "Dan wanted a pet for Christmas.", "relation": "isAfter", "tails": [" PersonY buys a pet for PersonY.", " PersonX buys a pet for PersonX.", " PersonY buys a pet for PersonY"]}
+{"head": "Dan wanted a pet for Christmas.", "relation": "HasSubEvent", "tails": [" buy a pet", " get a pet", " get a dog"]}
+{"head": "Dan wanted a pet for Christmas.", "relation": "Causes", "tails": [" Dan is allergic to dogs.", " Dan is allergic to animals.", " they are allergic to dogs"]}
+{"head": "Dan wanted a pet for Christmas.", "relation": "xReason", "tails": [" they want a pet to play with", " they want to have a pet", " none"]}
+{"head": "Dan", "relation": "ObjectUse", "tails": [" Dan is a good friend of mine.", " Dan is a good friend of Dan's.", " Dan is a good friend of Dan's wife."]}
+{"head": "Dan", "relation": "AtLocation", "tails": [" house", " car", " home"]}
+{"head": "Dan", "relation": "CapableOf", "tails": [" hang out with friends", " hang out with Dan", " hang out with"]}
+{"head": "Dan", "relation": "HasProperty", "tails": [" Dan is a friend of Dan's.", " Dan is a friend of Dan's wife.", " Dan is the name of the dog."]}
+{"head": "Dan", "relation": "MadeUpOf", "tails": [" Dan's car broke down.", " Dan's car breaks down.", " Dan's car breaks down"]}
+{"head": "Dan", "relation": "NotDesires", "tails": [" Dan's wife will not let him out of the house.", " Dan's wife will not let him out of her sight.", " Dan's wife will not let him out of the house"]}
+{"head": "Dan", "relation": "Desires", "tails": [" Dan is a good person.", " none", " Dan is a good friend of mine"]}
+{"head": "Christmas morning", "relation": "ObjectUse", "tails": [" celebrate with family and friends", " celebrate with family", " give to the kids"]}
+{"head": "Christmas morning", "relation": "AtLocation", "tails": [" christmas tree", " Christmas tree", " christmas"]}
+{"head": "Christmas morning", "relation": "CapableOf", "tails": [" open presents", " wake up", " open gifts"]}
+{"head": "Christmas morning", "relation": "HasProperty", "tails": [" Christmas tree", " Christmas morning", " gifts"]}
+{"head": "Christmas morning", "relation": "MadeUpOf", "tails": [" Christmas tree", " gift", " Christmas morning"]}
+{"head": "Christmas morning", "relation": "NotDesires", "tails": [" have to clean up", " have to clean up mess", " have to wake up early"]}
+{"head": "Christmas morning", "relation": "Desires", "tails": [" give gifts", " have fun", " give to children"]}
+{"head": "Christmas", "relation": "ObjectUse", "tails": [" celebrate with family and friends", " celebrate with family", " celebrate"]}
+{"head": "Christmas", "relation": "AtLocation", "tails": [" Christmas tree", " christmas", " church"]}
+{"head": "Christmas", "relation": "CapableOf", "tails": [" celebrate with family", " give gifts", " celebrate"]}
+{"head": "Christmas", "relation": "HasProperty", "tails": [" Christmas", " Christmas tree", " celebrated by many"]}
+{"head": "Christmas", "relation": "MadeUpOf", "tails": [" Christmas tree", " christmas", " christmas tree"]}
+{"head": "Christmas", "relation": "NotDesires", "tails": [" have to clean up after", " have to clean up", " have to go to church"]}
+{"head": "Christmas", "relation": "Desires", "tails": [" celebrate with family and friends", " have a good time", " celebrate with family"]}

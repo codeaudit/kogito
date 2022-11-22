@@ -1,0 +1,219 @@
+{"head": "wall", "relation": "ObjectUse", "tails": [" wall paper", " building walls", " building"]}
+{"head": "wall", "relation": "AtLocation", "tails": [" wall", " building", " house"]}
+{"head": "wall", "relation": "CapableOf", "tails": [" hang picture on", " hang pictures on", " hang picture"]}
+{"head": "wall", "relation": "HasProperty", "tails": [" found in house", " found in building", " found in home"]}
+{"head": "wall", "relation": "MadeUpOf", "tails": [" wall", " wall panel", " wall paper"]}
+{"head": "wall", "relation": "NotDesires", "tails": [" wall", " wall paper", " wall to wall"]}
+{"head": "wall", "relation": "Desires", "tails": [" wall paper", " wall to wall", " wall"]}
+{"head": "to sneak", "relation": "HinderedBy", "tails": [" to sneak", " to sneak in", " to sneak "]}
+{"head": "to sneak", "relation": "isBefore", "tails": [" to sneak in", " to sneak out", " to sneak"]}
+{"head": "to sneak", "relation": "isAfter", "tails": [" to be sneaky", " to get away from the police", " to get away with something"]}
+{"head": "to sneak", "relation": "HasSubEvent", "tails": [" to sneak", " to sneak in", " to sneak out"]}
+{"head": "to sneak", "relation": "Causes", "tails": [" to sneak", " to sneak in", " to sneak into house"]}
+{"head": "to sneak", "relation": "xReason", "tails": [" to be sneaky", " to sneak in", " to sneak into house"]}
+{"head": "to ride", "relation": "HinderedBy", "tails": [" to ride", " to ride ", " to ride a bike"]}
+{"head": "to ride", "relation": "isBefore", "tails": [" to ride", " to ride the horse", " to ride the bike"]}
+{"head": "to ride", "relation": "isAfter", "tails": [" ride bike", " to ride a bike", " to ride a horse"]}
+{"head": "to ride", "relation": "HasSubEvent", "tails": [" to ride  ride  ride  ride  ride  ride  ride  ride  ride  ride  ride", " to ride  ride  ride  ride  ride  ride  ride  ride  ride  ride", " to ride  ride  ride  ride  ride  ride  ride  ride  ride"]}
+{"head": "to ride", "relation": "Causes", "tails": [" to ride", " ride bike", " ride horse"]}
+{"head": "to ride", "relation": "xReason", "tails": [" to ride", " have fun", " to ride horse"]}
+{"head": "to learn", "relation": "HinderedBy", "tails": [" to learn", " to learn ", " to learn  to learn "]}
+{"head": "to learn", "relation": "isBefore", "tails": [" to learn", " to learn something new", " learn new things"]}
+{"head": "to learn", "relation": "isAfter", "tails": [" learn new things", " learn new skills", " learn new skill"]}
+{"head": "to learn", "relation": "HasSubEvent", "tails": [" to learn", " learn new things", " learn new skill"]}
+{"head": "to learn", "relation": "Causes", "tails": [" learn new things", " to learn", " learn new skills"]}
+{"head": "to learn", "relation": "xReason", "tails": [" learn new things", " to learn", " learn new skill"]}
+{"head": "to have", "relation": "HinderedBy", "tails": [" to have", " to have ", " to have  to have"]}
+{"head": "to have", "relation": "isBefore", "tails": [" to have", " to have ", " to have  a good time"]}
+{"head": "to have", "relation": "isAfter", "tails": [" to have something to eat", " to have", " to have something to drink"]}
+{"head": "to have", "relation": "HasSubEvent", "tails": [" to have", " to have ", " to have  have"]}
+{"head": "to have", "relation": "Causes", "tails": [" to have", " to have ", " to have  "]}
+{"head": "to have", "relation": "xReason", "tails": [" to have", " to have something to eat", " to have "]}
+{"head": "to get", "relation": "HinderedBy", "tails": [" to get ", " to get", " to get  to get "]}
+{"head": "to get", "relation": "isBefore", "tails": [" to get", " to get ", " to get  to get "]}
+{"head": "to get", "relation": "isAfter", "tails": [" to get", " to get something", " to get "]}
+{"head": "to get", "relation": "HasSubEvent", "tails": [" to get", " to get ", " to get  to get"]}
+{"head": "to get", "relation": "Causes", "tails": [" to get", " to get  to get ", " to get "]}
+{"head": "to get", "relation": "xReason", "tails": [" to get", " to get something", " to get "]}
+{"head": "to crash", "relation": "HinderedBy", "tails": [" to crash", " to crash  crash  crash  crash  crash  crash  crash  crash  crash  crash  crash", " to crash  crash  crash  crash  crash  crash  crash  crash  crash  crash"]}
+{"head": "to crash", "relation": "isBefore", "tails": [" to crash", " crash car", " crash into tree"]}
+{"head": "to crash", "relation": "isAfter", "tails": [" to crash", " crash car", " crash into tree"]}
+{"head": "to crash", "relation": "HasSubEvent", "tails": [" to crash", " crash car", " crash into tree"]}
+{"head": "to crash", "relation": "Causes", "tails": [" to crash", " crash car", " to crash into"]}
+{"head": "to crash", "relation": "xReason", "tails": [" to crash", " crash car", " to crash into"]}
+{"head": "sneak rides", "relation": "HinderedBy", "tails": [" have fun", " get on a rollercoaster", " get on a roller coaster"]}
+{"head": "sneak rides", "relation": "isBefore", "tails": [" have fun", " have a good time", " ride on rollercoasters"]}
+{"head": "sneak rides", "relation": "isAfter", "tails": [" ride on rollercoasters", " ride on rollercoaster", " have fun"]}
+{"head": "sneak rides", "relation": "HasSubEvent", "tails": [" have fun", " have fun with friends", " get a ride"]}
+{"head": "sneak rides", "relation": "Causes", "tails": [" have fun", " have a good time", " have fun with friends"]}
+{"head": "sneak rides", "relation": "xReason", "tails": [" have fun", " have a good time", " have fun with friends"]}
+{"head": "sister bike", "relation": "ObjectUse", "tails": [" use as a weapon", " ride to work", " ride to the store"]}
+{"head": "sister bike", "relation": "AtLocation", "tails": [" bike shop", " bicycle shop", " bike rack"]}
+{"head": "sister bike", "relation": "CapableOf", "tails": [" ride to work", " use as a weapon", " ride to school"]}
+{"head": "sister bike", "relation": "HasProperty", "tails": [" two wheels", " one of two sisters", " one of two bikes"]}
+{"head": "sister bike", "relation": "MadeUpOf", "tails": [" bike chain", " bike seat", " bike tire"]}
+{"head": "sister bike", "relation": "NotDesires", "tails": [" have a sister bike", " have to ride", " ride with sister"]}
+{"head": "sister bike", "relation": "Desires", "tails": [" have a sister bike", " have a sibling", " have a sister"]}
+{"head": "sister", "relation": "ObjectUse", "tails": [" have sex with", " talk to", " have a sibling"]}
+{"head": "sister", "relation": "AtLocation", "tails": [" sister's house", " mother's house", " sister's home"]}
+{"head": "sister", "relation": "CapableOf", "tails": [" talk to", " talk to sister", " have sex with"]}
+{"head": "sister", "relation": "HasProperty", "tails": [" sisters", " sister", " one sister"]}
+{"head": "sister", "relation": "MadeUpOf", "tails": [" sister", " sister's hand", " sister's name"]}
+{"head": "sister", "relation": "NotDesires", "tails": [" have sex with", " have sex with sister", " have to go to school"]}
+{"head": "sister", "relation": "Desires", "tails": [" have a sister", " have a sibling", " have fun with"]}
+{"head": "rides", "relation": "ObjectUse", "tails": [" ride a bike", " ride a horse", " get to the store"]}
+{"head": "rides", "relation": "AtLocation", "tails": [" park", " train station", " ride on bike"]}
+{"head": "rides", "relation": "CapableOf", "tails": [" ride horse", " ride bike", " ride bicycle"]}
+{"head": "rides", "relation": "HasProperty", "tails": [" ride on horseback", " ride on bike", " ride on horse"]}
+{"head": "rides", "relation": "MadeUpOf", "tails": [" ride on horseback", " ride", " ride on horse"]}
+{"head": "rides", "relation": "NotDesires", "tails": [" get hurt", " ride bike", " have to pay for"]}
+{"head": "rides", "relation": "Desires", "tails": [" have fun", " get exercise", " ride bike"]}
+{"head": "ride bike", "relation": "HinderedBy", "tails": [" ride bike", " get on bike", " ride bike to work"]}
+{"head": "ride bike", "relation": "isBefore", "tails": [" ride bike", " ride", " ride to store"]}
+{"head": "ride bike", "relation": "isAfter", "tails": [" ride bike", " ride to store", " ride"]}
+{"head": "ride bike", "relation": "HasSubEvent", "tails": [" get on bike", " ride bike", " ride to destination"]}
+{"head": "ride bike", "relation": "Causes", "tails": [" ride bike", " ride", " ride to work"]}
+{"head": "ride bike", "relation": "xReason", "tails": [" ride bike", " fall off", " fall off bike"]}
+{"head": "leg", "relation": "ObjectUse", "tails": [" walk on", " leg", " walking on"]}
+{"head": "leg", "relation": "AtLocation", "tails": [" leg", " leg bone", " legs"]}
+{"head": "leg", "relation": "CapableOf", "tails": [" walk on", " sit on", " sit on chair"]}
+{"head": "leg", "relation": "HasProperty", "tails": [" two legs", " leg", " legs"]}
+{"head": "leg", "relation": "MadeUpOf", "tails": [" leg", " leg bone", " legbone"]}
+{"head": "leg", "relation": "NotDesires", "tails": [" leg amputation", " leg amputated", " leg pain"]}
+{"head": "leg", "relation": "Desires", "tails": [" leg muscles", " leg", " legs"]}
+{"head": "hill", "relation": "ObjectUse", "tails": [" hillside", " hillock", " hill"]}
+{"head": "hill", "relation": "AtLocation", "tails": [" countryside", " hillside", " mountain"]}
+{"head": "hill", "relation": "CapableOf", "tails": [" climb mountain", " hillside", " climb"]}
+{"head": "hill", "relation": "HasProperty", "tails": [" found on hillside", " hillside", " found in mountains"]}
+{"head": "hill", "relation": "MadeUpOf", "tails": [" hillside", " hillock", " hill"]}
+{"head": "hill", "relation": "NotDesires", "tails": [" hillside", " hill", " hillock"]}
+{"head": "hill", "relation": "Desires", "tails": [" hillside", " hill", " grassy hills"]}
+{"head": "have bike", "relation": "HinderedBy", "tails": [" have bike", " ride bike", " have to ride"]}
+{"head": "have bike", "relation": "isBefore", "tails": [" ride to work", " ride to store", " ride to school"]}
+{"head": "have bike", "relation": "isAfter", "tails": [" ride to work", " ride to store", " ride to school"]}
+{"head": "have bike", "relation": "HasSubEvent", "tails": [" ride to work", " get on bike", " ride bike"]}
+{"head": "have bike", "relation": "Causes", "tails": [" ride to work", " ride bike", " get to work"]}
+{"head": "have bike", "relation": "xReason", "tails": [" ride to work", " ride bike", " get to work"]}
+{"head": "get gash", "relation": "HinderedBy", "tails": [" get cut", " get blood on clothes", " get blood on clothing"]}
+{"head": "get gash", "relation": "isBefore", "tails": [" get cut", " cut yourself", " bleed"]}
+{"head": "get gash", "relation": "isAfter", "tails": [" get cut", " cut yourself", " bleed"]}
+{"head": "get gash", "relation": "HasSubEvent", "tails": [" cut yourself", " bleed", " get cut"]}
+{"head": "get gash", "relation": "Causes", "tails": [" get cut", " hurt themselves", " cut themselves"]}
+{"head": "get gash", "relation": "xReason", "tails": [" get cut", " cut yourself", " cut themselves"]}
+{"head": "gash", "relation": "ObjectUse", "tails": [" cut yourself", " cut", " bleeding"]}
+{"head": "gash", "relation": "AtLocation", "tails": [" gash", " blood", " wound"]}
+{"head": "gash", "relation": "CapableOf", "tails": [" cut skin", " open wound", " cut yourself"]}
+{"head": "gash", "relation": "HasProperty", "tails": [" found in wound", " found on body", " cut"]}
+{"head": "gash", "relation": "MadeUpOf", "tails": [" gash", " cut", " wound"]}
+{"head": "gash", "relation": "NotDesires", "tails": [" cut", " bleeding", " pain"]}
+{"head": "gash", "relation": "Desires", "tails": [" cut", " bleeding", " bleed"]}
+{"head": "frame", "relation": "ObjectUse", "tails": [" frame the book", " frame", " frame a picture"]}
+{"head": "frame", "relation": "AtLocation", "tails": [" house", " frame", " box"]}
+{"head": "frame", "relation": "CapableOf", "tails": [" frame", " frame picture", " hang picture on"]}
+{"head": "frame", "relation": "HasProperty", "tails": [" found in house", " frame", " found in building"]}
+{"head": "frame", "relation": "MadeUpOf", "tails": [" frame", " frame frame", " frame cloth"]}
+{"head": "frame", "relation": "NotDesires", "tails": [" frame", " frame of house", " frame frame"]}
+{"head": "frame", "relation": "Desires", "tails": [" frame", " frame of house", " frame frame"]}
+{"head": "deep gash", "relation": "ObjectUse", "tails": [" cut yourself", " hurt someone", " get a tattoo"]}
+{"head": "deep gash", "relation": "AtLocation", "tails": [" deep cut", " deep gash", " deep wound"]}
+{"head": "deep gash", "relation": "CapableOf", "tails": [" cut yourself", " cut yourself with knife", " cut yourself open"]}
+{"head": "deep gash", "relation": "HasProperty", "tails": [" painful", " deep", " hurt"]}
+{"head": "deep gash", "relation": "MadeUpOf", "tails": [" deep gash", " deep cut", " bleeding"]}
+{"head": "deep gash", "relation": "NotDesires", "tails": [" deep cut", " bleeding", " deep wound"]}
+{"head": "deep gash", "relation": "Desires", "tails": [" bleeding", " cut yourself", " hurt"]}
+{"head": "bike frame", "relation": "ObjectUse", "tails": [" use as a prop in a play", " use as a door stop", " use as a doorstop"]}
+{"head": "bike frame", "relation": "AtLocation", "tails": [" bike shop", " bicycle shop", " bike shed"]}
+{"head": "bike frame", "relation": "CapableOf", "tails": [" frame bike", " ride bike", " ride bike on"]}
+{"head": "bike frame", "relation": "HasProperty", "tails": [" used in bicycle", " used in bike", " found in bike"]}
+{"head": "bike frame", "relation": "MadeUpOf", "tails": [" bike seat", " framecloth", " bike frame"]}
+{"head": "bike frame", "relation": "NotDesires", "tails": [" ride bike", " ride on", " bike seat"]}
+{"head": "bike frame", "relation": "Desires", "tails": [" use as a prop in a play", " use as a prop in a movie", " use as a frame for a bike"]}
+{"head": "bike", "relation": "ObjectUse", "tails": [" ride to the store", " ride to work", " get to the store"]}
+{"head": "bike", "relation": "AtLocation", "tails": [" bike shop", " bicycle shop", " bike rack"]}
+{"head": "bike", "relation": "CapableOf", "tails": [" ride to work", " ride to store", " ride to school"]}
+{"head": "bike", "relation": "HasProperty", "tails": [" two wheels", " found in bike shop", " found in many places"]}
+{"head": "bike", "relation": "MadeUpOf", "tails": [" bike chain", " bike seat", " pedal"]}
+{"head": "bike", "relation": "NotDesires", "tails": [" ride to work", " ride", " ride on"]}
+{"head": "bike", "relation": "Desires", "tails": [" ride to work", " ride", " ride to the store"]}
+{"head": "The bike frame bent and Carrie got a deep gash on her leg.", "relation": "xAttr", "tails": [" hurt", " injured", " clumsy"]}
+{"head": "The bike frame bent and Carrie got a deep gash on her leg.", "relation": "xWant", "tails": [" the bike to be fixed", " to get medical attention", " the bike to be fixed."]}
+{"head": "The bike frame bent and Carrie got a deep gash on her leg.", "relation": "xNeed", "tails": [" get on the bike", " to be riding a bike", " to ride the bike"]}
+{"head": "The bike frame bent and Carrie got a deep gash on her leg.", "relation": "xEffect", "tails": [" the bike is broken", " the bike breaks", " the bike is damaged"]}
+{"head": "The bike frame bent and Carrie got a deep gash on her leg.", "relation": "HinderedBy", "tails": [" The bike is too heavy.", " The bike is too heavy to bend.", " The bike is too heavy for that."]}
+{"head": "The bike frame bent and Carrie got a deep gash on her leg.", "relation": "oWant", "tails": [" none", " to make sure they are okay", " to make sure they are ok"]}
+{"head": "The bike frame bent and Carrie got a deep gash on her leg.", "relation": "xReact", "tails": [" hurt", " injured", " scared"]}
+{"head": "The bike frame bent and Carrie got a deep gash on her leg.", "relation": "oEffect", "tails": [" none", " the bike is broken", " the bike breaks"]}
+{"head": "The bike frame bent and Carrie got a deep gash on her leg.", "relation": "xIntent", "tails": [" none", " the bike to be fixed", " the bike to break"]}
+{"head": "The bike frame bent and Carrie got a deep gash on her leg.", "relation": "oReact", "tails": [" none", " hurt", " scared"]}
+{"head": "The bike frame bent and Carrie got a deep gash on her leg.", "relation": "isBefore", "tails": [" the bike is broken", " the bike to be fixed", " the bike to break"]}
+{"head": "The bike frame bent and Carrie got a deep gash on her leg.", "relation": "isAfter", "tails": [" the bike broke", " the bike to break", " the bike to fall down"]}
+{"head": "The bike frame bent and Carrie got a deep gash on her leg.", "relation": "HasSubEvent", "tails": [" fall off the bike", " the bike to break", " the bike to be fixed"]}
+{"head": "The bike frame bent and Carrie got a deep gash on her leg.", "relation": "Causes", "tails": [" hurt", " the bike is broken", " the bike to be fixed"]}
+{"head": "The bike frame bent and Carrie got a deep gash on her leg.", "relation": "xReason", "tails": [" the bike is broken", " the bike broke", " the bike to fall down"]}
+{"head": "She got nervous on a hill and crashed into a wall.", "relation": "xAttr", "tails": [" nervous", " scared", " clumsy"]}
+{"head": "She got nervous on a hill and crashed into a wall.", "relation": "xWant", "tails": [" to get out of the car", " to get out of the car.", " go to the hospital"]}
+{"head": "She got nervous on a hill and crashed into a wall.", "relation": "xNeed", "tails": [" get in a car", " get in a car accident", " none"]}
+{"head": "She got nervous on a hill and crashed into a wall.", "relation": "xEffect", "tails": [" gets hurt", " gets injured", " she is injured"]}
+{"head": "She got nervous on a hill and crashed into a wall.", "relation": "HinderedBy", "tails": [" She was too nervous.", " She was too excited.", " She was too scared."]}
+{"head": "She got nervous on a hill and crashed into a wall.", "relation": "oWant", "tails": [" none", " to get out of the car", " to get out of the car."]}
+{"head": "She got nervous on a hill and crashed into a wall.", "relation": "xReact", "tails": [" scared", " nervous", " hurt"]}
+{"head": "She got nervous on a hill and crashed into a wall.", "relation": "oEffect", "tails": [" none", " get hurt", " get injured"]}
+{"head": "She got nervous on a hill and crashed into a wall.", "relation": "xIntent", "tails": [" none", " to get out of the car", " to get out of the way"]}
+{"head": "She got nervous on a hill and crashed into a wall.", "relation": "oReact", "tails": [" none", " scared", " hurt"]}
+{"head": "She got nervous on a hill and crashed into a wall.", "relation": "isBefore", "tails": [" she broke her leg", " she broke her arm", " she broke her ankle"]}
+{"head": "She got nervous on a hill and crashed into a wall.", "relation": "isAfter", "tails": [" PersonX is in a car accident.", " PersonX is driving a car.", " PersonX is in a wheelchair."]}
+{"head": "She got nervous on a hill and crashed into a wall.", "relation": "HasSubEvent", "tails": [" get out of the car", " get out of car", " get out of the car."]}
+{"head": "She got nervous on a hill and crashed into a wall.", "relation": "Causes", "tails": [" she broke her leg", " she broke her leg.", " she broke her arm"]}
+{"head": "She got nervous on a hill and crashed into a wall.", "relation": "xReason", "tails": [" she broke her leg", " she broke her leg.", " she broke her arm"]}
+{"head": "She didn't have a bike of her own.", "relation": "xAttr", "tails": [" poor", " irresponsible", " lazy"]}
+{"head": "She didn't have a bike of her own.", "relation": "xWant", "tails": [" to buy a bike", " to get a bike", " to buy a bike."]}
+{"head": "She didn't have a bike of her own.", "relation": "xNeed", "tails": [" to go to the store", " to go to the store to buy a bike", " to go to the store and buy a bike."]}
+{"head": "She didn't have a bike of her own.", "relation": "xEffect", "tails": [" She rides the bike to work.", " She rides the bike to school.", " She rides it to work."]}
+{"head": "She didn't have a bike of her own.", "relation": "HinderedBy", "tails": [" She has no money.", " She has to go to work.", " She has to go to school."]}
+{"head": "She didn't have a bike of her own.", "relation": "oWant", "tails": [" none", " to buy a bike", " to ride the bike"]}
+{"head": "She didn't have a bike of her own.", "relation": "xReact", "tails": [" poor", " sad", " frustrated"]}
+{"head": "She didn't have a bike of her own.", "relation": "oEffect", "tails": [" none", " get a new bike", " get a new one"]}
+{"head": "She didn't have a bike of her own.", "relation": "xIntent", "tails": [" none", " to get somewhere", " to get to work"]}
+{"head": "She didn't have a bike of her own.", "relation": "oReact", "tails": [" none", " hurt", " sad"]}
+{"head": "She didn't have a bike of her own.", "relation": "isBefore", "tails": [" She rides it to school.", " She rides it to work.", " She rides to work."]}
+{"head": "She didn't have a bike of her own.", "relation": "isAfter", "tails": [" bike is too expensive", " bike is too expensive.", " bike was stolen from the store"]}
+{"head": "She didn't have a bike of her own.", "relation": "HasSubEvent", "tails": [" get a new bike", " get a bike", " get a new one"]}
+{"head": "She didn't have a bike of her own.", "relation": "Causes", "tails": [" she has no money to buy a bike", " she has no money to buy a bike.", " she needs to buy a bike"]}
+{"head": "She didn't have a bike of her own.", "relation": "xReason", "tails": [" bike is too expensive for her to pay for.", " bike is too expensive for her to afford.", " bike is too expensive for her."]}
+{"head": "Carrie would sneak rides on her sister's bike.", "relation": "xAttr", "tails": [" sneaky", " naughty", " playful"]}
+{"head": "Carrie would sneak rides on her sister's bike.", "relation": "xWant", "tails": [" to ride the bike", " to go to the park", " to ride the bike home"]}
+{"head": "Carrie would sneak rides on her sister's bike.", "relation": "xNeed", "tails": [" to get their sister's permission", " to have a bike", " to get their sister's permission."]}
+{"head": "Carrie would sneak rides on her sister's bike.", "relation": "xEffect", "tails": [" gets dirty", " gets arrested", " none"]}
+{"head": "Carrie would sneak rides on her sister's bike.", "relation": "HinderedBy", "tails": [" They don't like each other.", " The bike is locked up.", " The bike is too heavy."]}
+{"head": "Carrie would sneak rides on her sister's bike.", "relation": "oWant", "tails": [" to ride the bike", " to ride the bike with their sister", " to ride the bike with them"]}
+{"head": "Carrie would sneak rides on her sister's bike.", "relation": "xReact", "tails": [" happy", " excited", " happy."]}
+{"head": "Carrie would sneak rides on her sister's bike.", "relation": "oEffect", "tails": [" none", " get hurt", " get a ride"]}
+{"head": "Carrie would sneak rides on her sister's bike.", "relation": "xIntent", "tails": [" to ride the bike", " to get away from home", " to get away from their parents"]}
+{"head": "Carrie would sneak rides on her sister's bike.", "relation": "oReact", "tails": [" none", " like they have a friend", " like they have a friend."]}
+{"head": "Carrie would sneak rides on her sister's bike.", "relation": "isBefore", "tails": [" they go to the store to buy a bike", " they go to the store to buy the bike", " they go to the store and buy a bike"]}
+{"head": "Carrie would sneak rides on her sister's bike.", "relation": "isAfter", "tails": [" PersonX gets a restraining order against PersonX.", " PersonX gets a restraining order on PersonX.", " PersonX gets a restraining order against PersonX"]}
+{"head": "Carrie would sneak rides on her sister's bike.", "relation": "HasSubEvent", "tails": [" ride the bike", " ride the bike to school", " ride the bike to the store"]}
+{"head": "Carrie would sneak rides on her sister's bike.", "relation": "Causes", "tails": [" they get to go to the park", " they get to ride the bike", " they get to go to the store"]}
+{"head": "Carrie would sneak rides on her sister's bike.", "relation": "xReason", "tails": [" they would go to the store to buy a new bike", " they would go to the store to buy a bike", " they would go to the store to buy a new bike."]}
+{"head": "Carrie had just learned how to ride a bike.", "relation": "xAttr", "tails": [" athletic", " skilled", " young"]}
+{"head": "Carrie had just learned how to ride a bike.", "relation": "xWant", "tails": [" to ride the bike", " to go to the park", " to ride the bike to school"]}
+{"head": "Carrie had just learned how to ride a bike.", "relation": "xNeed", "tails": [" to learn how to ride a bike", " learn how to ride a bike", " to learn how to ride a bike."]}
+{"head": "Carrie had just learned how to ride a bike.", "relation": "xEffect", "tails": [" learns to ride a bike", " learns to ride the bike", " learns to ride"]}
+{"head": "Carrie had just learned how to ride a bike.", "relation": "HinderedBy", "tails": [" The bike is broken.", " The bike was stolen.", " The bike is too heavy."]}
+{"head": "Carrie had just learned how to ride a bike.", "relation": "oWant", "tails": [" none", " to ride the bike", " to ride the bike with them"]}
+{"head": "Carrie had just learned how to ride a bike.", "relation": "xReact", "tails": [" happy", " excited", " proud"]}
+{"head": "Carrie had just learned how to ride a bike.", "relation": "oEffect", "tails": [" none", " learn how to ride a bike", " learn to ride a bike"]}
+{"head": "Carrie had just learned how to ride a bike.", "relation": "xIntent", "tails": [" to be able to ride a bike", " to learn to ride a bike", " to be able to ride a bike."]}
+{"head": "Carrie had just learned how to ride a bike.", "relation": "oReact", "tails": [" none", " happy", " happy."]}
+{"head": "Carrie had just learned how to ride a bike.", "relation": "isBefore", "tails": [" PersonX takes the bike to the store.", " PersonY takes the bike to the store.", " they go to the park"]}
+{"head": "Carrie had just learned how to ride a bike.", "relation": "isAfter", "tails": [" PersonX asks PersonX if they want to ride a bike.", " PersonX asks PersonX if they want to ride the bike.", " PersonX asks PersonX if they can ride the bike."]}
+{"head": "Carrie had just learned how to ride a bike.", "relation": "HasSubEvent", "tails": [" learn how to ride a bike", " learn to ride a bike", " learn how to ride"]}
+{"head": "Carrie had just learned how to ride a bike.", "relation": "Causes", "tails": [" they have a new hobby", " they have a bike to ride", " they have a bike to ride it"]}
+{"head": "Carrie had just learned how to ride a bike.", "relation": "xReason", "tails": [" they went to the park", " they go to the park", " they go for a ride"]}
+{"head": "Carrie", "relation": "ObjectUse", "tails": [" get a new job", " get married", " get a job"]}
+{"head": "Carrie", "relation": "AtLocation", "tails": [" car", " movie theater", " movie"]}
+{"head": "Carrie", "relation": "CapableOf", "tails": [" drive car", " get married", " drive to work"]}
+{"head": "Carrie", "relation": "HasProperty", "tails": [" one of the main characters in the movie", " one of the main characters of the movie", " one of the main characters in the film"]}
+{"head": "Carrie", "relation": "MadeUpOf", "tails": [" car", " carpal tunnel", " carpal tunnel syndrome"]}
+{"head": "Carrie", "relation": "NotDesires", "tails": [" car accident", " car breaks down", " none"]}
+{"head": "Carrie", "relation": "Desires", "tails": [" none", " car", " to be loved"]}

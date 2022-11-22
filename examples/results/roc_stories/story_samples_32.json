@@ -1,0 +1,229 @@
+{"head": "watch movie", "relation": "HinderedBy", "tails": [" watch movie", " watch tv", " watch movie on tv"]}
+{"head": "watch movie", "relation": "isBefore", "tails": [" watch movie", " sit down", " watch tv"]}
+{"head": "watch movie", "relation": "isAfter", "tails": [" watch movie", " watch tv", " sit down"]}
+{"head": "watch movie", "relation": "HasSubEvent", "tails": [" turn off tv", " turn on tv", " sit down"]}
+{"head": "watch movie", "relation": "Causes", "tails": [" watch movie", " watch tv", " have popcorn"]}
+{"head": "watch movie", "relation": "xReason", "tails": [" watch movie", " watch tv", " have popcorn"]}
+{"head": "to watch", "relation": "HinderedBy", "tails": [" to watch", " to watch ", " to watch tv"]}
+{"head": "to watch", "relation": "isBefore", "tails": [" watch tv", " to watch tv", " to watch a movie"]}
+{"head": "to watch", "relation": "isAfter", "tails": [" watch tv", " watch movie", " watch tv show"]}
+{"head": "to watch", "relation": "HasSubEvent", "tails": [" turn on tv", " to watch", " watch tv"]}
+{"head": "to watch", "relation": "Causes", "tails": [" watch tv", " to watch", " to watch tv"]}
+{"head": "to watch", "relation": "xReason", "tails": [" watch tv", " to watch tv", " to watch"]}
+{"head": "to sit", "relation": "HinderedBy", "tails": [" to sit", " to sit ", " to sit  on"]}
+{"head": "to sit", "relation": "isBefore", "tails": [" to sit", " to sit down", " sit down"]}
+{"head": "to sit", "relation": "isAfter", "tails": [" sit down", " sit on chair", " sit down on chair"]}
+{"head": "to sit", "relation": "HasSubEvent", "tails": [" sit down", " to sit", " get up"]}
+{"head": "to sit", "relation": "Causes", "tails": [" to sit", " sit down", " sit on chair"]}
+{"head": "to sit", "relation": "xReason", "tails": [" sit down", " sit on chair", " to sit"]}
+{"head": "to make", "relation": "HinderedBy", "tails": [" to make ", " to make", " to make  to make "]}
+{"head": "to make", "relation": "isBefore", "tails": [" to make", " to make a cake", " to make something"]}
+{"head": "to make", "relation": "isAfter", "tails": [" to make a cake", " to make", " to make something"]}
+{"head": "to make", "relation": "HasSubEvent", "tails": [" to make", " to make ", " to make something"]}
+{"head": "to make", "relation": "Causes", "tails": [" to make", " to make ", " to make something"]}
+{"head": "to make", "relation": "xReason", "tails": [" to make", " to make something", " to make  food"]}
+{"head": "to go", "relation": "HinderedBy", "tails": [" to go", " to go ", " to go  to"]}
+{"head": "to go", "relation": "isBefore", "tails": [" to go", " get in car", " to go somewhere"]}
+{"head": "to go", "relation": "isAfter", "tails": [" get in the car", " get in car", " to go to the bathroom"]}
+{"head": "to go", "relation": "HasSubEvent", "tails": [" get in car", " to go", " to go  home"]}
+{"head": "to go", "relation": "Causes", "tails": [" to go", " get in car", " to go  home"]}
+{"head": "to go", "relation": "xReason", "tails": [" to go", " get in car", " to go somewhere"]}
+{"head": "to find", "relation": "HinderedBy", "tails": [" to find ", " to find", " to find  to find "]}
+{"head": "to find", "relation": "isBefore", "tails": [" to find", " to find something", " to find "]}
+{"head": "to find", "relation": "isAfter", "tails": [" to find something", " to find something to eat", " to find"]}
+{"head": "to find", "relation": "HasSubEvent", "tails": [" to find", " to find ", " to look for it"]}
+{"head": "to find", "relation": "Causes", "tails": [" to find", " to find ", " to find something"]}
+{"head": "to find", "relation": "xReason", "tails": [" to find", " to find something", " to find "]}
+{"head": "to enter", "relation": "HinderedBy", "tails": [" to enter", " to enter ", " to enter the building"]}
+{"head": "to enter", "relation": "isBefore", "tails": [" to enter", " enter building", " to enter room"]}
+{"head": "to enter", "relation": "isAfter", "tails": [" to enter", " to enter the contest", " get in line"]}
+{"head": "to enter", "relation": "HasSubEvent", "tails": [" enter building", " to enter", " get in car"]}
+{"head": "to enter", "relation": "Causes", "tails": [" to enter", " enter building", " get in"]}
+{"head": "to enter", "relation": "xReason", "tails": [" to enter", " get in", " enter"]}
+{"head": "to decide", "relation": "HinderedBy", "tails": [" to decide", " to decide ", " to decide  to decide "]}
+{"head": "to decide", "relation": "isBefore", "tails": [" to decide", " to decide what to do", " to decide  what to do"]}
+{"head": "to decide", "relation": "isAfter", "tails": [" to make a decision", " to make a choice", " to make decision"]}
+{"head": "to decide", "relation": "HasSubEvent", "tails": [" to decide", " to decide ", " make decision"]}
+{"head": "to decide", "relation": "Causes", "tails": [" to decide", " have to make decision", " have to make a decision"]}
+{"head": "to decide", "relation": "xReason", "tails": [" to decide", " have to make decision", " have to make a decision"]}
+{"head": "to become", "relation": "HinderedBy", "tails": [" to become", " to become ", " to become a doctor"]}
+{"head": "to become", "relation": "isBefore", "tails": [" to become a doctor", " to become a lawyer", " to become a teacher"]}
+{"head": "to become", "relation": "isAfter", "tails": [" get a job", " to become a doctor", " to become a lawyer"]}
+{"head": "to become", "relation": "HasSubEvent", "tails": [" to become", " get a job", " to become "]}
+{"head": "to become", "relation": "Causes", "tails": [" to become", " become famous", " to become "]}
+{"head": "to become", "relation": "xReason", "tails": [" to become", " become famous", " to become famous"]}
+{"head": "to be", "relation": "HinderedBy", "tails": [" to be", " to be ", " to be a good person"]}
+{"head": "to be", "relation": "isBefore", "tails": [" to be", " to be a good person", " to be a good friend"]}
+{"head": "to be", "relation": "isAfter", "tails": [" to be", " to be good", " to be a leader"]}
+{"head": "to be", "relation": "HasSubEvent", "tails": [" to be", " to be ", " to be  happy"]}
+{"head": "to be", "relation": "Causes", "tails": [" to be", " to be a good person", " to be  good"]}
+{"head": "to be", "relation": "xReason", "tails": [" to be good at what they do", " to be", " to be a good person"]}
+{"head": "theater", "relation": "ObjectUse", "tails": [" play on stage", " play in", " theatre"]}
+{"head": "theater", "relation": "AtLocation", "tails": [" theater", " theatre", " movie theater"]}
+{"head": "theater", "relation": "CapableOf", "tails": [" watch play", " see play", " play musical"]}
+{"head": "theater", "relation": "HasProperty", "tails": [" theater", " theatre", " theaters"]}
+{"head": "theater", "relation": "MadeUpOf", "tails": [" theater", " theatre", " movie"]}
+{"head": "theater", "relation": "NotDesires", "tails": [" theatre", " theater", " movie"]}
+{"head": "theater", "relation": "Desires", "tails": [" theater", " entertainment", " theatre"]}
+{"head": "spot", "relation": "ObjectUse", "tails": [" sit on", " sit on while watching tv", " sit on in the sun"]}
+{"head": "spot", "relation": "AtLocation", "tails": [" park", " parking lot", " car dealership"]}
+{"head": "spot", "relation": "CapableOf", "tails": [" find out what's going on", " find place to sit", " find out what's wrong"]}
+{"head": "spot", "relation": "HasProperty", "tails": [" found in garden", " found in woods", " found on beach"]}
+{"head": "spot", "relation": "MadeUpOf", "tails": [" spot", " spot on map", " spot on ground"]}
+{"head": "spot", "relation": "NotDesires", "tails": [" spot on wall", " spot on ground", " spot on floor"]}
+{"head": "spot", "relation": "Desires", "tails": [" find out what's going on", " find out what is going on", " find out what is wrong"]}
+{"head": "noise", "relation": "ObjectUse", "tails": [" make noise", " make a noise", " make people think"]}
+{"head": "noise", "relation": "AtLocation", "tails": [" noise maker", " noise machine", " sound system"]}
+{"head": "noise", "relation": "CapableOf", "tails": [" make noise", " make sound", " hear"]}
+{"head": "noise", "relation": "HasProperty", "tails": [" loud", " noise", " heard"]}
+{"head": "noise", "relation": "MadeUpOf", "tails": [" noise", " noise maker", " sound waves"]}
+{"head": "noise", "relation": "NotDesires", "tails": [" noise", " loud", " noise pollution"]}
+{"head": "noise", "relation": "Desires", "tails": [" make noise", " noise", " make people think"]}
+{"head": "movie theater", "relation": "ObjectUse", "tails": [" watching movie", " watching movies", " watch movie"]}
+{"head": "movie theater", "relation": "AtLocation", "tails": [" movie theater", " movie theatre", " movie"]}
+{"head": "movie theater", "relation": "CapableOf", "tails": [" watch movie", " see movie", " sit in"]}
+{"head": "movie theater", "relation": "HasProperty", "tails": [" movie theater", " movie theatre", " theater"]}
+{"head": "movie theater", "relation": "MadeUpOf", "tails": [" theater", " movie theater", " movie theatre"]}
+{"head": "movie theater", "relation": "NotDesires", "tails": [" watching movie", " watch movie", " movie theater"]}
+{"head": "movie theater", "relation": "Desires", "tails": [" watch movie", " watching movie", " watching movies"]}
+{"head": "movie", "relation": "ObjectUse", "tails": [" watch on tv", " watch with friends", " watch with family"]}
+{"head": "movie", "relation": "AtLocation", "tails": [" movie theater", " movie theatre", " movies"]}
+{"head": "movie", "relation": "CapableOf", "tails": [" watch", " watch on tv", " watch tv"]}
+{"head": "movie", "relation": "HasProperty", "tails": [" found in movie theater", " found in theater", " found in library"]}
+{"head": "movie", "relation": "MadeUpOf", "tails": [" movie theater", " movie theatre", " film"]}
+{"head": "movie", "relation": "NotDesires", "tails": [" watch on tv", " watch", " watch in theater"]}
+{"head": "movie", "relation": "Desires", "tails": [" watch", " watch on tv", " watch in theater"]}
+{"head": "make lots", "relation": "HinderedBy", "tails": [" make lots of things", " make lots of money", " make a lot of things"]}
+{"head": "make lots", "relation": "isBefore", "tails": [" buy lots of things", " make lots of money", " make lots of things"]}
+{"head": "make lots", "relation": "isAfter", "tails": [" buy lots of things", " make lots of money", " make lots of things"]}
+{"head": "make lots", "relation": "HasSubEvent", "tails": [" buy lots of things", " make lots of money", " buy lots"]}
+{"head": "make lots", "relation": "Causes", "tails": [" make lots of money", " make lots of things", " make a lot of money"]}
+{"head": "make lots", "relation": "xReason", "tails": [" make lots of money", " buy lots of things", " make lots of things"]}
+{"head": "lots", "relation": "ObjectUse", "tails": [" use as a prop in a play", " use as a weapon", " use as a prop in a movie"]}
+{"head": "lots", "relation": "AtLocation", "tails": [" park", " garden", " beach"]}
+{"head": "lots", "relation": "CapableOf", "tails": [" use as toilet paper", " use as a weapon", " use as toilet paper."]}
+{"head": "lots", "relation": "HasProperty", "tails": [" lots and lots of things", " lots of things to do", " lots and lots of people"]}
+{"head": "lots", "relation": "MadeUpOf", "tails": [" lumps", " water", " lots of things"]}
+{"head": "lots", "relation": "NotDesires", "tails": [" have too many things to do at once", " have too many things to do in a day", " have too many things to do in one day"]}
+{"head": "lots", "relation": "Desires", "tails": [" have a place to sleep", " have a place to live", " have a place to sit"]}
+{"head": "kids", "relation": "ObjectUse", "tails": [" play with", " have fun with", " have fun"]}
+{"head": "kids", "relation": "AtLocation", "tails": [" children's room", " children's bedroom", " children's home"]}
+{"head": "kids", "relation": "CapableOf", "tails": [" learn to read", " have fun", " have fun with friends"]}
+{"head": "kids", "relation": "HasProperty", "tails": [" kids", " children", " parents"]}
+{"head": "kids", "relation": "MadeUpOf", "tails": [" kids", " children", " parents"]}
+{"head": "kids", "relation": "NotDesires", "tails": [" kids to play with", " have to do chores", " kids to play with them"]}
+{"head": "kids", "relation": "Desires", "tails": [" have fun", " have fun with", " play with"]}
+{"head": "find spot", "relation": "HinderedBy", "tails": [" find parking spot", " find parking space", " find out where"]}
+{"head": "find spot", "relation": "isBefore", "tails": [" find parking space", " find parking spot", " find out where"]}
+{"head": "find spot", "relation": "isAfter", "tails": [" park car", " walk around", " find out where"]}
+{"head": "find spot", "relation": "HasSubEvent", "tails": [" find out where to sit", " look around", " find out where to go"]}
+{"head": "find spot", "relation": "Causes", "tails": [" find parking space", " find parking spot", " find out where"]}
+{"head": "find spot", "relation": "xReason", "tails": [" find way to get there", " find out where to go", " find way to get to spot"]}
+{"head": "enter theater", "relation": "HinderedBy", "tails": [" enter theater", " watch movie", " exit theater"]}
+{"head": "enter theater", "relation": "isBefore", "tails": [" enter theater", " watch movie", " exit theater"]}
+{"head": "enter theater", "relation": "isAfter", "tails": [" enter theater", " watch movie", " theater"]}
+{"head": "enter theater", "relation": "HasSubEvent", "tails": [" enter theater", " exit theater", " watch movie"]}
+{"head": "enter theater", "relation": "Causes", "tails": [" enter theater", " watch movie", " exit theater"]}
+{"head": "enter theater", "relation": "xReason", "tails": [" watch movie", " enter theater", " watch show"]}
+{"head": "bunch", "relation": "ObjectUse", "tails": [" use as a prop in a play", " use as a prop in a movie", " use as a paperweight"]}
+{"head": "bunch", "relation": "AtLocation", "tails": [" house", " family home", " school"]}
+{"head": "bunch", "relation": "CapableOf", "tails": [" gather together", " have fun", " gather in group"]}
+{"head": "bunch", "relation": "HasProperty", "tails": [" found in barns", " found in barn", " one person"]}
+{"head": "bunch", "relation": "MadeUpOf", "tails": [" binder", " buns", " berry"]}
+{"head": "bunch", "relation": "NotDesires", "tails": [" have to clean up after", " have to clean up", " have to clean up after themselves"]}
+{"head": "bunch", "relation": "Desires", "tails": [" have a lot of fun", " have a good time", " have a lot of friends"]}
+{"head": "be no", "relation": "HinderedBy", "tails": [" be a good person", " be a part of something", " be a part of a group"]}
+{"head": "be no", "relation": "isBefore", "tails": [" have to do", " have no friends", " be alone"]}
+{"head": "be no", "relation": "isAfter", "tails": [" have to do", " be no", " have no friends"]}
+{"head": "be no", "relation": "HasSubEvent", "tails": [" stop doing something", " stop doing it", " stop doing"]}
+{"head": "be no", "relation": "Causes", "tails": [" have to do", " have no friends", " be alone"]}
+{"head": "be no", "relation": "xReason", "tails": [" have to do", " have no friends", " none"]}
+{"head": "aisle", "relation": "ObjectUse", "tails": [" walk down", " walk through", " standing in"]}
+{"head": "aisle", "relation": "AtLocation", "tails": [" church", " mall", " store"]}
+{"head": "aisle", "relation": "CapableOf", "tails": [" walk down", " walk down aisle", " stand on"]}
+{"head": "aisle", "relation": "HasProperty", "tails": [" found in church", " found in hallways", " found in mall"]}
+{"head": "aisle", "relation": "MadeUpOf", "tails": [" aisle", " floor", " seat"]}
+{"head": "aisle", "relation": "NotDesires", "tails": [" walk through", " walk down", " standing in"]}
+{"head": "aisle", "relation": "Desires", "tails": [" walk down", " walk down aisle", " walk through"]}
+{"head": "Homer decided to go watch a movie.", "relation": "xAttr", "tails": [" entertained", " lazy", " bored"]}
+{"head": "Homer decided to go watch a movie.", "relation": "xWant", "tails": [" to watch a movie", " to go to the movies", " to go to bed"]}
+{"head": "Homer decided to go watch a movie.", "relation": "xNeed", "tails": [" go to the movie theater", " find a movie to watch", " go to the theater"]}
+{"head": "Homer decided to go watch a movie.", "relation": "xEffect", "tails": [" gets tired", " has fun", " watch movie"]}
+{"head": "Homer decided to go watch a movie.", "relation": "HinderedBy", "tails": [" The movie theater is closed.", " The movie theater is closed for the night.", " The movie theater is too far away."]}
+{"head": "Homer decided to go watch a movie.", "relation": "oWant", "tails": [" none", " to watch the movie", " to watch the movie with them"]}
+{"head": "Homer decided to go watch a movie.", "relation": "xReact", "tails": [" entertained", " happy", " satisfied"]}
+{"head": "Homer decided to go watch a movie.", "relation": "oEffect", "tails": [" none", " watch the movie", " watch a movie"]}
+{"head": "Homer decided to go watch a movie.", "relation": "xIntent", "tails": [" to be entertained", " to have fun", " to relax"]}
+{"head": "Homer decided to go watch a movie.", "relation": "oReact", "tails": [" none", " entertained", " happy"]}
+{"head": "Homer decided to go watch a movie.", "relation": "isBefore", "tails": [" PersonX asks if they want to go to the movies.", " PersonX asks if they want to go to the movie.", " PersonX asks if they want to watch a movie."]}
+{"head": "Homer decided to go watch a movie.", "relation": "isAfter", "tails": [" PersonX has to go to work.", " PersonX has to go to work", " PersonX has to go to school."]}
+{"head": "Homer decided to go watch a movie.", "relation": "HasSubEvent", "tails": [" watch a movie", " watch movie", " have fun"]}
+{"head": "Homer decided to go watch a movie.", "relation": "Causes", "tails": [" watch a movie", " entertained", " they are bored"]}
+{"head": "Homer decided to go watch a movie.", "relation": "xReason", "tails": [" they go to the movie theater", " they go to the movies", " they go to the theater"]}
+{"head": "Homer became so annoyed, he decided to sit in the aisle.", "relation": "xAttr", "tails": [" annoyed", " angry", " irritated"]}
+{"head": "Homer became so annoyed, he decided to sit in the aisle.", "relation": "xWant", "tails": [" to get away from the crowd", " to get away from the situation", " to go to the bathroom"]}
+{"head": "Homer became so annoyed, he decided to sit in the aisle.", "relation": "xNeed", "tails": [" to get in the car", " to be in the aisle", " none"]}
+{"head": "Homer became so annoyed, he decided to sit in the aisle.", "relation": "xEffect", "tails": [" gets yelled at", " gets yelled at by other people", " gets yelled at by others"]}
+{"head": "Homer became so annoyed, he decided to sit in the aisle.", "relation": "HinderedBy", "tails": [" The aisle is too narrow.", " HAPPY", " The aisle is too crowded."]}
+{"head": "Homer became so annoyed, he decided to sit in the aisle.", "relation": "oWant", "tails": [" none", " to get away from him", " to talk to them"]}
+{"head": "Homer became so annoyed, he decided to sit in the aisle.", "relation": "xReact", "tails": [" annoyed", " angry", " upset"]}
+{"head": "Homer became so annoyed, he decided to sit in the aisle.", "relation": "oEffect", "tails": [" none", " get in the way", " get in a fight"]}
+{"head": "Homer became so annoyed, he decided to sit in the aisle.", "relation": "xIntent", "tails": [" to get away from the crowd", " to get away from someone", " to get away from the noise"]}
+{"head": "Homer became so annoyed, he decided to sit in the aisle.", "relation": "oReact", "tails": [" none", " annoyed", " angry"]}
+{"head": "Homer became so annoyed, he decided to sit in the aisle.", "relation": "isBefore", "tails": [" PersonY tells PersonY to sit down.", " PersonY tells PersonY to go away.", " PersonY tells PersonY to sit down"]}
+{"head": "Homer became so annoyed, he decided to sit in the aisle.", "relation": "isAfter", "tails": [" PersonY asked PersonY to sit in the aisle.", " PersonY asked PersonY to sit in the aisle with them.", " PersonY asked PersonY to sit in the front row."]}
+{"head": "Homer became so annoyed, he decided to sit in the aisle.", "relation": "HasSubEvent", "tails": [" sit in the aisle", " sit down", " sit in aisle"]}
+{"head": "Homer became so annoyed, he decided to sit in the aisle.", "relation": "Causes", "tails": [" annoyed", " angry", " satiated"]}
+{"head": "Homer became so annoyed, he decided to sit in the aisle.", "relation": "xReason", "tails": [" none", " they get yelled at", " they get in a fight"]}
+{"head": "Homer", "relation": "ObjectUse", "tails": [" play a game with", " play the role of king", " play a game"]}
+{"head": "Homer", "relation": "AtLocation", "tails": [" movie", " television show", " theater"]}
+{"head": "Homer", "relation": "CapableOf", "tails": [" laugh", " laugh at the joke", " laugh at themselves"]}
+{"head": "Homer", "relation": "HasProperty", "tails": [" one of the gods", " one of the characters in the play", " one of the four gods"]}
+{"head": "Homer", "relation": "MadeUpOf", "tails": [" chalice", " chalepsi", " chalet"]}
+{"head": "Homer", "relation": "NotDesires", "tails": [" have to go to the bathroom", " none", " have to go to the doctor"]}
+{"head": "Homer", "relation": "Desires", "tails": [" have a good time", " none", " to be a good person"]}
+{"head": "He found one spot by a bunch of kids.", "relation": "xAttr", "tails": [" happy", " friendly", " curious"]}
+{"head": "He found one spot by a bunch of kids.", "relation": "xWant", "tails": [" to play with the kids", " to play with the kids.", " to go to the park"]}
+{"head": "He found one spot by a bunch of kids.", "relation": "xNeed", "tails": [" find a place to sit", " to look for a place to sit", " to look for a place to sit down"]}
+{"head": "He found one spot by a bunch of kids.", "relation": "xEffect", "tails": [" none", " he goes to the park", " he goes to sleep"]}
+{"head": "He found one spot by a bunch of kids.", "relation": "HinderedBy", "tails": [" he has to find a place to sit", " he has to find a place to sit down", " he has to find a place to sleep"]}
+{"head": "He found one spot by a bunch of kids.", "relation": "oWant", "tails": [" none", " to have fun", " to play with him"]}
+{"head": "He found one spot by a bunch of kids.", "relation": "xReact", "tails": [" happy", " happy to have found it.", " happy to have found it"]}
+{"head": "He found one spot by a bunch of kids.", "relation": "oEffect", "tails": [" none", " they have a place to sit", " they have a place to sleep"]}
+{"head": "He found one spot by a bunch of kids.", "relation": "xIntent", "tails": [" none", " to have a place to sit", " to play with the kids"]}
+{"head": "He found one spot by a bunch of kids.", "relation": "oReact", "tails": [" none", " happy", " happy."]}
+{"head": "He found one spot by a bunch of kids.", "relation": "isBefore", "tails": [" he goes to the park", " he goes to sleep", " he went to the park"]}
+{"head": "He found one spot by a bunch of kids.", "relation": "isAfter", "tails": [" PersonX looks for a place to sit down.", " PersonX looks for a place to sit.", " he goes to the park"]}
+{"head": "He found one spot by a bunch of kids.", "relation": "HasSubEvent", "tails": [" none", " get a snack", " get a drink"]}
+{"head": "He found one spot by a bunch of kids.", "relation": "Causes", "tails": [" he finds a place to sit", " he finds a place to sit down", " he finds a spot to sit down"]}
+{"head": "He found one spot by a bunch of kids.", "relation": "xReason", "tails": [" he is in a group of kids", " none", " he gets to play with the kids"]}
+{"head": "But when he entered the movie theater, there was no where to sit.", "relation": "xAttr", "tails": [" satisifed", " satiated", " bored"]}
+{"head": "But when he entered the movie theater, there was no where to sit.", "relation": "xWant", "tails": [" to watch a movie", " to go to the movie", " to go to the movies"]}
+{"head": "But when he entered the movie theater, there was no where to sit.", "relation": "xNeed", "tails": [" to go to the movie theater", " to go to the theater", " find a place to sit"]}
+{"head": "But when he entered the movie theater, there was no where to sit.", "relation": "xEffect", "tails": [" he goes to the movie theater", " he goes to the movies", " he goes to the movie"]}
+{"head": "But when he entered the movie theater, there was no where to sit.", "relation": "HinderedBy", "tails": [" he wanted to go to the movies", " he wanted to go to the movie", " he wanted to go to a movie"]}
+{"head": "But when he entered the movie theater, there was no where to sit.", "relation": "oWant", "tails": [" none", " to watch the movie", " to go to the movie"]}
+{"head": "But when he entered the movie theater, there was no where to sit.", "relation": "xReact", "tails": [" satisifed", " happy to see the movie.", " happy to see the movie"]}
+{"head": "But when he entered the movie theater, there was no where to sit.", "relation": "oEffect", "tails": [" none", " sit down", " sit in theater"]}
+{"head": "But when he entered the movie theater, there was no where to sit.", "relation": "xIntent", "tails": [" to watch a movie", " to see a movie", " to watch a movie."]}
+{"head": "But when he entered the movie theater, there was no where to sit.", "relation": "oReact", "tails": [" none", " satiated", " sat on"]}
+{"head": "But when he entered the movie theater, there was no where to sit.", "relation": "isBefore", "tails": [" to go to the movie", " to go to the movies", " to go to the movie theater"]}
+{"head": "But when he entered the movie theater, there was no where to sit.", "relation": "isAfter", "tails": [" movie theater", " sit down", " sit in theater"]}
+{"head": "But when he entered the movie theater, there was no where to sit.", "relation": "HasSubEvent", "tails": [" watch a movie", " sit down", " watch movie"]}
+{"head": "But when he entered the movie theater, there was no where to sit.", "relation": "Causes", "tails": [" he wanted to go to the movies", " he wanted to see a movie", " he wanted to go to the movies."]}
+{"head": "But when he entered the movie theater, there was no where to sit.", "relation": "xReason", "tails": [" he wanted to go to the movies", " he wanted to go to the movie", " he wanted to see a movie"]}
+{"head": "And during the movie, they made lots of noise.", "relation": "xAttr", "tails": [" loud", " noisy", " annoying"]}
+{"head": "And during the movie, they made lots of noise.", "relation": "xWant", "tails": [" to be entertained", " to be heard", " to get attention"]}
+{"head": "And during the movie, they made lots of noise.", "relation": "xNeed", "tails": [" to be in a movie theater", " make noise", " to be in a theater"]}
+{"head": "And during the movie, they made lots of noise.", "relation": "xEffect", "tails": [" none", " they get tired of it", " they get a headache"]}
+{"head": "And during the movie, they made lots of noise.", "relation": "HinderedBy", "tails": [" They are too loud.", " They are too quiet.", " they are too loud"]}
+{"head": "And during the movie, they made lots of noise.", "relation": "oWant", "tails": [" to have fun", " none", " to be entertained"]}
+{"head": "And during the movie, they made lots of noise.", "relation": "xReact", "tails": [" entertained", " happy", " loud"]}
+{"head": "And during the movie, they made lots of noise.", "relation": "oEffect", "tails": [" none", " they get a headache from all the noise", " they get a headache from all the noise."]}
+{"head": "And during the movie, they made lots of noise.", "relation": "xIntent", "tails": [" to be heard", " make noise", " none"]}
+{"head": "And during the movie, they made lots of noise.", "relation": "oReact", "tails": [" none", " entertained", " happy"]}
+{"head": "And during the movie, they made lots of noise.", "relation": "isBefore", "tails": [" they were bored", " they were entertained", " they got a headache"]}
+{"head": "And during the movie, they made lots of noise.", "relation": "isAfter", "tails": [" the kids to be quiet", " the kids to sit down and watch the movie.", " the kids to sit down and watch the movie"]}
+{"head": "And during the movie, they made lots of noise.", "relation": "HasSubEvent", "tails": [" make noise", " make a noise", " make a mess"]}
+{"head": "And during the movie, they made lots of noise.", "relation": "Causes", "tails": [" they are too loud to be quiet", " they are too loud to be quiet.", " they are too loud"]}
+{"head": "And during the movie, they made lots of noise.", "relation": "xReason", "tails": [" they are too loud", " they were too loud", " they are too loud."]}

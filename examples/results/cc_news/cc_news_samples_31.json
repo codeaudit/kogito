@@ -1,0 +1,95 @@
+{"head": "to find", "relation": "HinderedBy", "tails": [" to find ", " to find", " to find  to find "]}
+{"head": "to find", "relation": "isBefore", "tails": [" to find", " to find something", " to find "]}
+{"head": "to find", "relation": "isAfter", "tails": [" to find something", " to find something to eat", " to find"]}
+{"head": "to find", "relation": "HasSubEvent", "tails": [" to find", " to find ", " to look for it"]}
+{"head": "to find", "relation": "Causes", "tails": [" to find", " to find ", " to find something"]}
+{"head": "to find", "relation": "xReason", "tails": [" to find", " to find something", " to find "]}
+{"head": "to battle", "relation": "HinderedBy", "tails": [" to battle", " to battle ", " to battle  to battle"]}
+{"head": "to battle", "relation": "isBefore", "tails": [" to battle", " fight", " fight for freedom"]}
+{"head": "to battle", "relation": "isAfter", "tails": [" fight", " war", " battle"]}
+{"head": "to battle", "relation": "HasSubEvent", "tails": [" to battle", " fight", " fight for freedom"]}
+{"head": "to battle", "relation": "Causes", "tails": [" to battle", " fight", " fight for freedom"]}
+{"head": "to battle", "relation": "xReason", "tails": [" to battle", " fight", " fight for freedom"]}
+{"head": "southern Colorado", "relation": "ObjectUse", "tails": [" live in", " travel to", " southern states"]}
+{"head": "southern Colorado", "relation": "AtLocation", "tails": [" south america", " southern states", " southern plains"]}
+{"head": "southern Colorado", "relation": "CapableOf", "tails": [" fly kite", " fly kites", " travel to"]}
+{"head": "southern Colorado", "relation": "HasProperty", "tails": [" found in the mountains", " found in mountains", " found in southern states"]}
+{"head": "southern Colorado", "relation": "MadeUpOf", "tails": [" sierras", " southern plains", " sierrania"]}
+{"head": "southern Colorado", "relation": "NotDesires", "tails": [" sierras", " air conditioning", " sierrania"]}
+{"head": "southern Colorado", "relation": "Desires", "tails": [" warm weather", " southern states", " south of mountains"]}
+{"head": "skeletal remains", "relation": "ObjectUse", "tails": [" use as a prop in a Halloween costume", " use as a prop in a play", " use as a weapon"]}
+{"head": "skeletal remains", "relation": "AtLocation", "tails": [" dead body", " bones", " body"]}
+{"head": "skeletal remains", "relation": "CapableOf", "tails": [" use as a weapon", " use as a prop in a play", " use as a prop in a horror movie"]}
+{"head": "skeletal remains", "relation": "HasProperty", "tails": [" found in morgue", " bones", " found in cemetery"]}
+{"head": "skeletal remains", "relation": "MadeUpOf", "tails": [" bones", " dead body", " bone"]}
+{"head": "skeletal remains", "relation": "NotDesires", "tails": [" bones", " dead body", " have to bury"]}
+{"head": "skeletal remains", "relation": "Desires", "tails": [" none", " to be buried", " have a body"]}
+{"head": "remains", "relation": "ObjectUse", "tails": [" use as a prop in a play", " use as a prop in a movie", " use as a weapon"]}
+{"head": "remains", "relation": "AtLocation", "tails": [" body", " ashes", " freezer"]}
+{"head": "remains", "relation": "CapableOf", "tails": [" leave behind", " keep in case of emergency", " keep in case of disaster"]}
+{"head": "remains", "relation": "HasProperty", "tails": [" found in grave", " found in cemetery", " found in body"]}
+{"head": "remains", "relation": "MadeUpOf", "tails": [" bone", " bone marrow", " bones"]}
+{"head": "remains", "relation": "NotDesires", "tails": [" have to live with", " have to move on", " have to live with it"]}
+{"head": "remains", "relation": "Desires", "tails": [" have a place to live", " have a place to sleep", " have a place to rest"]}
+{"head": "investigation", "relation": "ObjectUse", "tails": [" investigate a crime", " find out who did it", " find out what happened"]}
+{"head": "investigation", "relation": "AtLocation", "tails": [" police station", " police department", " criminal case"]}
+{"head": "investigation", "relation": "CapableOf", "tails": [" find out who did it", " find out what happened", " investigate crime"]}
+{"head": "investigation", "relation": "HasProperty", "tails": [" found to be true", " found in crime scene", " found to be false"]}
+{"head": "investigation", "relation": "MadeUpOf", "tails": [" investigation", " investigate crime", " police report"]}
+{"head": "investigation", "relation": "NotDesires", "tails": [" find out who did it", " find out what happened", " find out what is going on"]}
+{"head": "investigation", "relation": "Desires", "tails": [" find out who did it", " find out what happened", " investigate crime"]}
+{"head": "firefighters", "relation": "ObjectUse", "tails": [" get out of the fire", " burn down a house", " get out of a fire"]}
+{"head": "firefighters", "relation": "AtLocation", "tails": [" fire station", " fire department", " firehouse"]}
+{"head": "firefighters", "relation": "CapableOf", "tails": [" put out fire", " catch fire", " put out flames"]}
+{"head": "firefighters", "relation": "HasProperty", "tails": [" firefighting equipment", " fire engine", " smoke detector"]}
+{"head": "firefighters", "relation": "MadeUpOf", "tails": [" fire engine", " smoke detector", " fire hose"]}
+{"head": "firefighters", "relation": "NotDesires", "tails": [" burn house", " burn house down", " burn down house"]}
+{"head": "firefighters", "relation": "Desires", "tails": [" fire extinguisher", " burn down house", " burn down building"]}
+{"head": "fire", "relation": "ObjectUse", "tails": [" heat", " burn down house", " burning things"]}
+{"head": "fire", "relation": "AtLocation", "tails": [" fire", " heat", " firewood"]}
+{"head": "fire", "relation": "CapableOf", "tails": [" heat up earth", " burn down house", " burn things"]}
+{"head": "fire", "relation": "HasProperty", "tails": [" burned", " hot", " heat"]}
+{"head": "fire", "relation": "MadeUpOf", "tails": [" heat", " fire", " flame"]}
+{"head": "fire", "relation": "NotDesires", "tails": [" heat", " smoke", " burn house"]}
+{"head": "fire", "relation": "Desires", "tails": [" heat", " heat and smoke", " heat and light"]}
+{"head": "find remains", "relation": "HinderedBy", "tails": [" find a body", " find a dead body", " find remains"]}
+{"head": "find remains", "relation": "isBefore", "tails": [" search for remains", " find body", " find buried treasure"]}
+{"head": "find remains", "relation": "isAfter", "tails": [" search for remains", " find body", " find buried treasure"]}
+{"head": "find remains", "relation": "HasSubEvent", "tails": [" find dead body", " look for remains", " look for bones"]}
+{"head": "find remains", "relation": "Causes", "tails": [" find body", " find buried treasure", " find buried body"]}
+{"head": "find remains", "relation": "xReason", "tails": [" find dead body", " find buried treasure", " find buried body"]}
+{"head": "brush fire", "relation": "ObjectUse", "tails": [" burn down a house", " make a fire", " burn down the house"]}
+{"head": "brush fire", "relation": "AtLocation", "tails": [" forest", " hot weather", " fire pit"]}
+{"head": "brush fire", "relation": "CapableOf", "tails": [" burn brush", " burn down trees", " burn grass"]}
+{"head": "brush fire", "relation": "HasProperty", "tails": [" hot and dry", " dry and hot", " burned"]}
+{"head": "brush fire", "relation": "MadeUpOf", "tails": [" firewood", " brush fire", " brush"]}
+{"head": "brush fire", "relation": "NotDesires", "tails": [" brush fire", " dry grass", " brush fires"]}
+{"head": "brush fire", "relation": "Desires", "tails": [" dry grass", " burn down forest", " burn down trees"]}
+{"head": "brush", "relation": "ObjectUse", "tails": [" brush hair", " brush their hair", " brush the hair"]}
+{"head": "brush", "relation": "AtLocation", "tails": [" bathroom", " brush box", " brush case"]}
+{"head": "brush", "relation": "CapableOf", "tails": [" brush hair", " brush teeth", " brush brush"]}
+{"head": "brush", "relation": "HasProperty", "tails": [" found in bathroom", " used in bathroom", " used to clean hair"]}
+{"head": "brush", "relation": "MadeUpOf", "tails": [" brush handle", " brush bristles", " brush bristlet"]}
+{"head": "brush", "relation": "NotDesires", "tails": [" brush hair", " brush brush", " brush hair off"]}
+{"head": "brush", "relation": "Desires", "tails": [" brush hair", " brush hair with", " brush teeth"]}
+{"head": "battle fire", "relation": "HinderedBy", "tails": [" battle", " war", " battle field"]}
+{"head": "battle fire", "relation": "isBefore", "tails": [" battle", " war", " battle field"]}
+{"head": "battle fire", "relation": "isAfter", "tails": [" war", " battle", " battle field"]}
+{"head": "battle fire", "relation": "HasSubEvent", "tails": [" fight fire with fire", " fight fire with", " fight fire"]}
+{"head": "battle fire", "relation": "Causes", "tails": [" battle", " war", " battle field"]}
+{"head": "battle fire", "relation": "xReason", "tails": [" war", " battle", " battle field"]}
+{"head": "An investigation is underway after firefighters found skeletal remains while battling a brush fire in southern Colorado.", "relation": "xAttr", "tails": [" suspicious", " dead", " curious"]}
+{"head": "An investigation is underway after firefighters found skeletal remains while battling a brush fire in southern Colorado.", "relation": "xWant", "tails": [" to find out what happened", " find out what happened to the person", " find out what happened"]}
+{"head": "An investigation is underway after firefighters found skeletal remains while battling a brush fire in southern Colorado.", "relation": "xNeed", "tails": [" find out what happened", " find out what happened to the person", " find out what happened to them"]}
+{"head": "An investigation is underway after firefighters found skeletal remains while battling a brush fire in southern Colorado.", "relation": "xEffect", "tails": [" an investigation is underway", " find out what happened", " an autopsy is ordered"]}
+{"head": "An investigation is underway after firefighters found skeletal remains while battling a brush fire in southern Colorado.", "relation": "HinderedBy", "tails": [" an autopsy will be performed on the remains.", " an autopsy will be done on the remains.", " an investigation is underway"]}
+{"head": "An investigation is underway after firefighters found skeletal remains while battling a brush fire in southern Colorado.", "relation": "oWant", "tails": [" find out what happened", " find out what happened to the person", " find out what happened to the dead person"]}
+{"head": "An investigation is underway after firefighters found skeletal remains while battling a brush fire in southern Colorado.", "relation": "xReact", "tails": [" suspicious", " sad", " scared"]}
+{"head": "An investigation is underway after firefighters found skeletal remains while battling a brush fire in southern Colorado.", "relation": "oEffect", "tails": [" find out what happened to the dead person", " find out what happened to the person", " find out what happened to the person who died"]}
+{"head": "An investigation is underway after firefighters found skeletal remains while battling a brush fire in southern Colorado.", "relation": "xIntent", "tails": [" find out what happened to the person", " find out what happened to the dead person", " find out what happened"]}
+{"head": "An investigation is underway after firefighters found skeletal remains while battling a brush fire in southern Colorado.", "relation": "oReact", "tails": [" none", " dead", " burned"]}
+{"head": "An investigation is underway after firefighters found skeletal remains while battling a brush fire in southern Colorado.", "relation": "isBefore", "tails": [" an autopsy will be done", " an autopsy will be performed", " an autopsy"]}
+{"head": "An investigation is underway after firefighters found skeletal remains while battling a brush fire in southern Colorado.", "relation": "isAfter", "tails": [" an autopsy", " death", " an investigation"]}
+{"head": "An investigation is underway after firefighters found skeletal remains while battling a brush fire in southern Colorado.", "relation": "HasSubEvent", "tails": [" find out what happened to the person", " find out what happened to the dead person", " find out what happened"]}
+{"head": "An investigation is underway after firefighters found skeletal remains while battling a brush fire in southern Colorado.", "relation": "Causes", "tails": [" an autopsy", " death", " an investigation"]}
+{"head": "An investigation is underway after firefighters found skeletal remains while battling a brush fire in southern Colorado.", "relation": "xReason", "tails": [" an autopsy will be done", " an autopsy will be done.", " an autopsy will be performed"]}

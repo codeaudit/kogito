@@ -1,0 +1,714 @@
+{"head": "writing ability", "relation": "ObjectUse", "tails": [" write a book", " write a novel", " use as a paperweight"]}
+{"head": "writing ability", "relation": "AtLocation", "tails": [" writing book", " book", " writing paper"]}
+{"head": "writing ability", "relation": "CapableOf", "tails": [" learn to write", " write letter", " write book"]}
+{"head": "writing ability", "relation": "HasProperty", "tails": [" written words", " good at spelling", " good at writing"]}
+{"head": "writing ability", "relation": "MadeUpOf", "tails": [" pen and paper", " writing paper", " pen and ink"]}
+{"head": "writing ability", "relation": "NotDesires", "tails": [" write a book", " write a novel", " have to write"]}
+{"head": "writing ability", "relation": "Desires", "tails": [" learn how to write", " learn to write", " write a book"]}
+{"head": "writing", "relation": "ObjectUse", "tails": [" write a letter", " write a note", " write on paper"]}
+{"head": "writing", "relation": "AtLocation", "tails": [" writing utensil", " writing utensils", " book"]}
+{"head": "writing", "relation": "CapableOf", "tails": [" write letter", " write on paper", " write letter to editor"]}
+{"head": "writing", "relation": "HasProperty", "tails": [" written on paper", " found in book", " written in ink"]}
+{"head": "writing", "relation": "MadeUpOf", "tails": [" writing on paper", " writing ink", " ink"]}
+{"head": "writing", "relation": "NotDesires", "tails": [" write letter", " write down ideas", " write down notes"]}
+{"head": "writing", "relation": "Desires", "tails": [" write a book", " write a novel", " write a story"]}
+{"head": "write lot", "relation": "HinderedBy", "tails": [" write lot of things", " write a lot of things", " read lot of books"]}
+{"head": "write lot", "relation": "isBefore", "tails": [" read lot of books", " write book", " write lot of words"]}
+{"head": "write lot", "relation": "isAfter", "tails": [" write book", " write story", " book"]}
+{"head": "write lot", "relation": "HasSubEvent", "tails": [" write lot of words", " read lot of words", " write lot"]}
+{"head": "write lot", "relation": "Causes", "tails": [" read lot of books", " write lot of words", " read lot"]}
+{"head": "write lot", "relation": "xReason", "tails": [" read lot of books", " read lot", " write lot of words"]}
+{"head": "works", "relation": "ObjectUse", "tails": [" get a promotion", " get a raise", " get paid"]}
+{"head": "works", "relation": "AtLocation", "tails": [" office building", " office", " work place"]}
+{"head": "works", "relation": "CapableOf", "tails": [" get job done", " get paid", " work hard"]}
+{"head": "works", "relation": "HasProperty", "tails": [" hardworking", " hard working", " good at job"]}
+{"head": "works", "relation": "MadeUpOf", "tails": [" work", " hard work", " works well"]}
+{"head": "works", "relation": "NotDesires", "tails": [" get fired", " get tired", " have to do"]}
+{"head": "works", "relation": "Desires", "tails": [" get paid", " work hard", " get a promotion"]}
+{"head": "win prize", "relation": "HinderedBy", "tails": [" win prize", " win a prize", " win the prize"]}
+{"head": "win prize", "relation": "isBefore", "tails": [" win prize", " enter contest", " win"]}
+{"head": "win prize", "relation": "isAfter", "tails": [" enter contest", " win prize", " win"]}
+{"head": "win prize", "relation": "HasSubEvent", "tails": [" enter contest", " win prize", " enter competition"]}
+{"head": "win prize", "relation": "Causes", "tails": [" win prize", " enter contest", " win"]}
+{"head": "win prize", "relation": "xReason", "tails": [" win prize", " enter contest", " win"]}
+{"head": "to write", "relation": "HinderedBy", "tails": [" to write", " to write a book", " to write a novel"]}
+{"head": "to write", "relation": "isBefore", "tails": [" to write a book", " learn how to write", " to write a novel"]}
+{"head": "to write", "relation": "isAfter", "tails": [" get a pen and paper", " to write a book", " to write a novel"]}
+{"head": "to write", "relation": "HasSubEvent", "tails": [" learn how to write", " learn to write", " learn how to read"]}
+{"head": "to write", "relation": "Causes", "tails": [" learn how to write", " learn to write", " learn how to read"]}
+{"head": "to write", "relation": "xReason", "tails": [" learn how to write", " learn to write", " learn to read"]}
+{"head": "to work", "relation": "HinderedBy", "tails": [" to work", " to work ", " to work  to work"]}
+{"head": "to work", "relation": "isBefore", "tails": [" go to office", " go to work", " to work"]}
+{"head": "to work", "relation": "isAfter", "tails": [" go to office", " go to work", " drive to work"]}
+{"head": "to work", "relation": "HasSubEvent", "tails": [" go to office", " go to work", " to work"]}
+{"head": "to work", "relation": "Causes", "tails": [" get paid", " get paid for work", " have to do"]}
+{"head": "to work", "relation": "xReason", "tails": [" get paid", " get paid for work", " have to do"]}
+{"head": "to win", "relation": "HinderedBy", "tails": [" to win", " to win ", " to win the game"]}
+{"head": "to win", "relation": "isBefore", "tails": [" to win", " to win the game", " win the game"]}
+{"head": "to win", "relation": "isAfter", "tails": [" to win", " to win the game", " win the game"]}
+{"head": "to win", "relation": "HasSubEvent", "tails": [" to win", " win the game", " win"]}
+{"head": "to win", "relation": "Causes", "tails": [" to win", " win or lose", " win the game"]}
+{"head": "to win", "relation": "xReason", "tails": [" to win", " win or lose", " to win the game"]}
+{"head": "to study", "relation": "HinderedBy", "tails": [" to study", " to study ", " to study for test"]}
+{"head": "to study", "relation": "isBefore", "tails": [" get a good grade", " get good grades", " to study for a test"]}
+{"head": "to study", "relation": "isAfter", "tails": [" study book", " study notes", " study books"]}
+{"head": "to study", "relation": "HasSubEvent", "tails": [" get good grades", " to study", " get good grade"]}
+{"head": "to study", "relation": "Causes", "tails": [" get good grades", " learn new things", " get better at something"]}
+{"head": "to study", "relation": "xReason", "tails": [" get good grades", " learn new things", " get better at something"]}
+{"head": "to say", "relation": "HinderedBy", "tails": [" to say", " to say ", " to say something"]}
+{"head": "to say", "relation": "isBefore", "tails": [" to say", " to say something", " to say "]}
+{"head": "to say", "relation": "isAfter", "tails": [" to be heard", " to say", " to say something"]}
+{"head": "to say", "relation": "HasSubEvent", "tails": [" to say", " to say ", " to say  something"]}
+{"head": "to say", "relation": "Causes", "tails": [" to say", " have to say", " to say something"]}
+{"head": "to say", "relation": "xReason", "tails": [" to say", " have to say", " to say something"]}
+{"head": "to publish", "relation": "HinderedBy", "tails": [" to publish", " to publish ", " to publish a book"]}
+{"head": "to publish", "relation": "isBefore", "tails": [" to publish", " to publish book", " to publish a book"]}
+{"head": "to publish", "relation": "isAfter", "tails": [" to publish a book", " to publish book", " to publish"]}
+{"head": "to publish", "relation": "HasSubEvent", "tails": [" to publish", " publish book", " to publish "]}
+{"head": "to publish", "relation": "Causes", "tails": [" to publish", " to publish book", " publish book"]}
+{"head": "to publish", "relation": "xReason", "tails": [" to publish", " publish book", " to publish book"]}
+{"head": "to pay", "relation": "HinderedBy", "tails": [" to pay", " to pay ", " to pay  to pay "]}
+{"head": "to pay", "relation": "isBefore", "tails": [" to pay", " to pay for the food", " to pay the bill"]}
+{"head": "to pay", "relation": "isAfter", "tails": [" pay for the item", " to pay for the food", " to pay for the item"]}
+{"head": "to pay", "relation": "HasSubEvent", "tails": [" to pay", " pay for the item", " to pay for the item"]}
+{"head": "to pay", "relation": "Causes", "tails": [" to pay", " to pay for something", " to pay for the food"]}
+{"head": "to pay", "relation": "xReason", "tails": [" to pay", " to pay for something", " to pay for the food"]}
+{"head": "to love", "relation": "HinderedBy", "tails": [" to love", " to love ", " to love someone"]}
+{"head": "to love", "relation": "isBefore", "tails": [" to love", " to be loved", " to love someone"]}
+{"head": "to love", "relation": "isAfter", "tails": [" to be loved", " to love", " to be happy"]}
+{"head": "to love", "relation": "HasSubEvent", "tails": [" to love", " to love others", " to love someone"]}
+{"head": "to love", "relation": "Causes", "tails": [" to love", " to be loved", " to love someone"]}
+{"head": "to love", "relation": "xReason", "tails": [" to love", " to be loved", " to love someone"]}
+{"head": "to join", "relation": "HinderedBy", "tails": [" to join ", " to join", " to join  to join "]}
+{"head": "to join", "relation": "isBefore", "tails": [" to join", " to join the club", " to join a club"]}
+{"head": "to join", "relation": "isAfter", "tails": [" to join a club", " to join the club", " join a club"]}
+{"head": "to join", "relation": "HasSubEvent", "tails": [" to join", " to join ", " get in line"]}
+{"head": "to join", "relation": "Causes", "tails": [" have to pay membership fee", " have to pay dues", " join club"]}
+{"head": "to join", "relation": "xReason", "tails": [" join club", " have to pay membership fee", " have to pay dues"]}
+{"head": "to improve", "relation": "HinderedBy", "tails": [" to improve", " to improve ", " to improve themselves"]}
+{"head": "to improve", "relation": "isBefore", "tails": [" to improve", " to improve themselves", " learn new skills"]}
+{"head": "to improve", "relation": "isAfter", "tails": [" get better at something", " get better at what they do", " get better at what they are doing"]}
+{"head": "to improve", "relation": "HasSubEvent", "tails": [" get better at something", " get better", " get better at it"]}
+{"head": "to improve", "relation": "Causes", "tails": [" to improve", " learn new skills", " learn new skill"]}
+{"head": "to improve", "relation": "xReason", "tails": [" to improve", " learn new skill", " learn new skills"]}
+{"head": "to have", "relation": "HinderedBy", "tails": [" to have", " to have ", " to have  to have"]}
+{"head": "to have", "relation": "isBefore", "tails": [" to have", " to have ", " to have  a good time"]}
+{"head": "to have", "relation": "isAfter", "tails": [" to have something to eat", " to have", " to have something to drink"]}
+{"head": "to have", "relation": "HasSubEvent", "tails": [" to have", " to have ", " to have  have"]}
+{"head": "to have", "relation": "Causes", "tails": [" to have", " to have ", " to have  "]}
+{"head": "to have", "relation": "xReason", "tails": [" to have", " to have something to eat", " to have "]}
+{"head": "to give", "relation": "HinderedBy", "tails": [" to give", " to give something to someone", " to give  to "]}
+{"head": "to give", "relation": "isBefore", "tails": [" to give", " to give something to someone", " to give to someone"]}
+{"head": "to give", "relation": "isAfter", "tails": [" to be generous", " to give", " to give to someone"]}
+{"head": "to give", "relation": "HasSubEvent", "tails": [" to give", " to give something to someone", " to give  give  give"]}
+{"head": "to give", "relation": "Causes", "tails": [" to give", " to give something to someone", " to give to others"]}
+{"head": "to give", "relation": "xReason", "tails": [" to give", " to be generous", " to give to others"]}
+{"head": "to do", "relation": "HinderedBy", "tails": [" to do", " to do ", " to do  to do "]}
+{"head": "to do", "relation": "isBefore", "tails": [" to do", " have to do", " to do "]}
+{"head": "to do", "relation": "isAfter", "tails": [" to do", " have to do", " to do something"]}
+{"head": "to do", "relation": "HasSubEvent", "tails": [" to do", " to do ", " get out of bed"]}
+{"head": "to do", "relation": "Causes", "tails": [" to do", " have to do", " to do "]}
+{"head": "to do", "relation": "xReason", "tails": [" to do", " have to do", " to do "]}
+{"head": "to develop", "relation": "HinderedBy", "tails": [" to develop", " to develop ", " to develop  to develop "]}
+{"head": "to develop", "relation": "isBefore", "tails": [" to develop", " to develop a new product", " to develop something new"]}
+{"head": "to develop", "relation": "isAfter", "tails": [" to develop a new product", " to develop", " to develop a product"]}
+{"head": "to develop", "relation": "HasSubEvent", "tails": [" to develop", " to develop ", " learn new skills"]}
+{"head": "to develop", "relation": "Causes", "tails": [" to develop", " to develop something new", " to develop "]}
+{"head": "to develop", "relation": "xReason", "tails": [" to develop", " to develop something new", " to develop something"]}
+{"head": "to demand", "relation": "HinderedBy", "tails": [" to demand", " to demand ", " to demand something"]}
+{"head": "to demand", "relation": "isBefore", "tails": [" to demand", " to demand something", " to demand "]}
+{"head": "to demand", "relation": "isAfter", "tails": [" to be heard", " to get something done", " to demand something from someone"]}
+{"head": "to demand", "relation": "HasSubEvent", "tails": [" to demand", " to demand ", " to demand something"]}
+{"head": "to demand", "relation": "Causes", "tails": [" to demand", " to demand something", " to demand "]}
+{"head": "to demand", "relation": "xReason", "tails": [" to demand", " to be heard", " to demand something"]}
+{"head": "to believe", "relation": "HinderedBy", "tails": [" to believe", " to believe ", " to believe in something"]}
+{"head": "to believe", "relation": "isBefore", "tails": [" to believe", " to believe in something", " to believe in god"]}
+{"head": "to believe", "relation": "isAfter", "tails": [" to believe in something", " to believe", " to believe in god"]}
+{"head": "to believe", "relation": "HasSubEvent", "tails": [" to believe", " to believe in something", " to believe in god"]}
+{"head": "to believe", "relation": "Causes", "tails": [" to believe", " to believe in something", " to believe in god"]}
+{"head": "to believe", "relation": "xReason", "tails": [" to believe", " to believe in something", " to believe in god"]}
+{"head": "to attend", "relation": "HinderedBy", "tails": [" to attend", " to attend ", " to attend  to attend "]}
+{"head": "to attend", "relation": "isBefore", "tails": [" to attend", " to attend the event", " to attend "]}
+{"head": "to attend", "relation": "isAfter", "tails": [" to attend the event", " get ready for event", " to attend"]}
+{"head": "to attend", "relation": "HasSubEvent", "tails": [" to attend", " to attend ", " get ready for event"]}
+{"head": "to attend", "relation": "Causes", "tails": [" to attend", " to attend ", " get ready to go"]}
+{"head": "to attend", "relation": "xReason", "tails": [" to attend", " attend event", " to attend "]}
+{"head": "time journalist", "relation": "ObjectUse", "tails": [" interview people", " get a job", " get a story published"]}
+{"head": "time journalist", "relation": "AtLocation", "tails": [" newspaper", " newsroom", " news magazine"]}
+{"head": "time journalist", "relation": "CapableOf", "tails": [" read newspaper", " write story", " interview people"]}
+{"head": "time journalist", "relation": "HasProperty", "tails": [" time", " news", " time spent"]}
+{"head": "time journalist", "relation": "MadeUpOf", "tails": [" time", " news", " news magazine"]}
+{"head": "time journalist", "relation": "NotDesires", "tails": [" time spent in newsroom", " time to write story", " time to write"]}
+{"head": "time journalist", "relation": "Desires", "tails": [" time to write story", " time to write stories", " time to write"]}
+{"head": "time", "relation": "ObjectUse", "tails": [" get to the event on time", " have a good time", " get to the destination on time"]}
+{"head": "time", "relation": "AtLocation", "tails": [" clock", " time", " time machine"]}
+{"head": "time", "relation": "CapableOf", "tails": [" clock in", " clock out", " time"]}
+{"head": "time", "relation": "HasProperty", "tails": [" time", " one day", " one hour"]}
+{"head": "time", "relation": "MadeUpOf", "tails": [" time", " clock", " time zone"]}
+{"head": "time", "relation": "NotDesires", "tails": [" time", " have to wait for", " have to wait"]}
+{"head": "time", "relation": "Desires", "tails": [" time", " time to be spent", " time of day"]}
+{"head": "school", "relation": "ObjectUse", "tails": [" learn new things", " learn about the world", " learn new skills"]}
+{"head": "school", "relation": "AtLocation", "tails": [" school", " school bus", " classroom"]}
+{"head": "school", "relation": "CapableOf", "tails": [" learn to read and write", " learn to read", " learn math"]}
+{"head": "school", "relation": "HasProperty", "tails": [" found in", " school", " found in college"]}
+{"head": "school", "relation": "MadeUpOf", "tails": [" school bus", " classroom", " school building"]}
+{"head": "school", "relation": "NotDesires", "tails": [" learn new things", " get expelled", " learn new things in"]}
+{"head": "school", "relation": "Desires", "tails": [" learn new things", " learn new skills", " learning"]}
+{"head": "say something", "relation": "HinderedBy", "tails": [" say something", " say what they think", " say what you think"]}
+{"head": "say something", "relation": "isBefore", "tails": [" say what you think", " say something", " say something else"]}
+{"head": "say something", "relation": "isAfter", "tails": [" say what you think", " say something", " talk to someone"]}
+{"head": "say something", "relation": "HasSubEvent", "tails": [" say what you want to say", " say what you think", " say something"]}
+{"head": "say something", "relation": "Causes", "tails": [" say what you think", " say something", " talk to someone"]}
+{"head": "say something", "relation": "xReason", "tails": [" say what you think", " say something", " say what they think"]}
+{"head": "research ability", "relation": "ObjectUse", "tails": [" learn new things", " learn about a subject", " learn new information"]}
+{"head": "research ability", "relation": "AtLocation", "tails": [" research lab", " library", " university"]}
+{"head": "research ability", "relation": "CapableOf", "tails": [" learn new things", " read books", " learn new information"]}
+{"head": "research ability", "relation": "HasProperty", "tails": [" found in library", " found in book", " good at math"]}
+{"head": "research ability", "relation": "MadeUpOf", "tails": [" research skills", " research paper", " research"]}
+{"head": "research ability", "relation": "NotDesires", "tails": [" learn new things", " learn new information", " find out what is wrong"]}
+{"head": "research ability", "relation": "Desires", "tails": [" learn new things", " know what to look for", " know how to do it"]}
+{"head": "research", "relation": "ObjectUse", "tails": [" find out what's going on", " learn new things", " learn new information"]}
+{"head": "research", "relation": "AtLocation", "tails": [" research lab", " library", " computer"]}
+{"head": "research", "relation": "CapableOf", "tails": [" learn new things", " learn about subject", " learn new information"]}
+{"head": "research", "relation": "HasProperty", "tails": [" found in library", " found in university", " found in university library"]}
+{"head": "research", "relation": "MadeUpOf", "tails": [" research paper", " research method", " research"]}
+{"head": "research", "relation": "NotDesires", "tails": [" learn new things", " learn new information", " learn something new"]}
+{"head": "research", "relation": "Desires", "tails": [" learn new things", " learn new information", " research"]}
+{"head": "publish papers", "relation": "HinderedBy", "tails": [" publish papers", " publish paper", " publish"]}
+{"head": "publish papers", "relation": "isBefore", "tails": [" publish in newspaper", " publish papers", " publish paper"]}
+{"head": "publish papers", "relation": "isAfter", "tails": [" publish in newspaper", " publish papers", " publish paper"]}
+{"head": "publish papers", "relation": "HasSubEvent", "tails": [" publish", " publish papers", " get published"]}
+{"head": "publish papers", "relation": "Causes", "tails": [" publish papers", " publish", " publish paper"]}
+{"head": "publish papers", "relation": "xReason", "tails": [" publish papers", " publish", " publish paper"]}
+{"head": "publish Daily", "relation": "HinderedBy", "tails": [" publish daily", " publish a book", " publish a newspaper"]}
+{"head": "publish Daily", "relation": "isBefore", "tails": [" publish daily", " publish article", " publish story"]}
+{"head": "publish Daily", "relation": "isAfter", "tails": [" publish daily", " publish article", " publish in newspaper"]}
+{"head": "publish Daily", "relation": "HasSubEvent", "tails": [" publish daily", " publish article", " publish story"]}
+{"head": "publish Daily", "relation": "Causes", "tails": [" publish daily", " publish", " publish a story"]}
+{"head": "publish Daily", "relation": "xReason", "tails": [" publish daily", " publish in newspaper", " publish"]}
+{"head": "prize", "relation": "ObjectUse", "tails": [" give to the winner", " give as a gift", " give to winner"]}
+{"head": "prize", "relation": "AtLocation", "tails": [" prize car", " prize draw", " prize purse"]}
+{"head": "prize", "relation": "CapableOf", "tails": [" give to winner", " win", " give to winners"]}
+{"head": "prize", "relation": "HasProperty", "tails": [" prize", " won by winner", " prize money"]}
+{"head": "prize", "relation": "MadeUpOf", "tails": [" prize", " winnings", " prize purse"]}
+{"head": "prize", "relation": "NotDesires", "tails": [" prize", " win", " prize money"]}
+{"head": "prize", "relation": "Desires", "tails": [" give to winner", " win", " prize"]}
+{"head": "position", "relation": "ObjectUse", "tails": [" move to", " move around", " move around in"]}
+{"head": "position", "relation": "AtLocation", "tails": [" desk", " bed", " table"]}
+{"head": "position", "relation": "CapableOf", "tails": [" lie down in", " lie down on", " lie down"]}
+{"head": "position", "relation": "HasProperty", "tails": [" found in office", " found in room", " found in office building"]}
+{"head": "position", "relation": "MadeUpOf", "tails": [" position", " arm", " body"]}
+{"head": "position", "relation": "NotDesires", "tails": [" lie down in", " lie down on", " lie down"]}
+{"head": "position", "relation": "Desires", "tails": [" lie down in", " lie down on", " lie down"]}
+{"head": "period", "relation": "ObjectUse", "tails": [" use as toilet paper", " use as a paperweight", " use as a paper weight"]}
+{"head": "period", "relation": "AtLocation", "tails": [" school", " classroom", " bathroom"]}
+{"head": "period", "relation": "CapableOf", "tails": [" write on paper", " write letter", " write on board"]}
+{"head": "period", "relation": "HasProperty", "tails": [" used by women", " used in period", " period"]}
+{"head": "period", "relation": "MadeUpOf", "tails": [" puncture", " punctuation", " periodical thread"]}
+{"head": "period", "relation": "NotDesires", "tails": [" period", " have sex", " have period"]}
+{"head": "period", "relation": "Desires", "tails": [" have sex", " period", " have a period"]}
+{"head": "pay attention", "relation": "HinderedBy", "tails": [" pay attention", " pay attention to", " pay attention to something"]}
+{"head": "pay attention", "relation": "isBefore", "tails": [" pay attention", " learn new things", " pay attention to"]}
+{"head": "pay attention", "relation": "isAfter", "tails": [" learn new things", " listen to teacher", " listen to speaker"]}
+{"head": "pay attention", "relation": "HasSubEvent", "tails": [" pay attention", " learn new things", " pay attention to detail"]}
+{"head": "pay attention", "relation": "Causes", "tails": [" pay attention", " learn new things", " pay attention to"]}
+{"head": "pay attention", "relation": "xReason", "tails": [" pay attention", " learn new things", " pay attention to detail"]}
+{"head": "papers", "relation": "ObjectUse", "tails": [" make a paper airplane", " use as a paperweight", " use as paper weight"]}
+{"head": "papers", "relation": "AtLocation", "tails": [" desk drawer", " library", " desk"]}
+{"head": "papers", "relation": "CapableOf", "tails": [" use as paperweight", " use as paper weight", " use as paperweights"]}
+{"head": "papers", "relation": "HasProperty", "tails": [" printed on", " printed on paper", " found in library"]}
+{"head": "papers", "relation": "MadeUpOf", "tails": [" papers", " paperweight", " papers with ink"]}
+{"head": "papers", "relation": "NotDesires", "tails": [" papers to be printed on", " papers to be recycled", " papers to be printed with"]}
+{"head": "papers", "relation": "Desires", "tails": [" make a paper airplane", " make paper airplanes", " make a paper airplane."]}
+{"head": "old City", "relation": "ObjectUse", "tails": [" living in", " live in", " old city"]}
+{"head": "old City", "relation": "AtLocation", "tails": [" city", " new york", " new york city"]}
+{"head": "old City", "relation": "CapableOf", "tails": [" live in", " visit old city", " live in old city"]}
+{"head": "old City", "relation": "HasProperty", "tails": [" old city", " found in old city", " found in many places"]}
+{"head": "old City", "relation": "MadeUpOf", "tails": [" old city", " city", " old town"]}
+{"head": "old City", "relation": "NotDesires", "tails": [" old city", " old buildings", " living in"]}
+{"head": "old City", "relation": "Desires", "tails": [" live in", " old city", " living in"]}
+{"head": "new level", "relation": "ObjectUse", "tails": [" learn new skills", " get a promotion", " learn new things"]}
+{"head": "new level", "relation": "AtLocation", "tails": [" computer", " computer game", " game console"]}
+{"head": "new level", "relation": "CapableOf", "tails": [" learn new skill", " learn new skills", " play video games"]}
+{"head": "new level", "relation": "HasProperty", "tails": [" new skill", " new level", " found in game"]}
+{"head": "new level", "relation": "MadeUpOf", "tails": [" new level", " new skill", " level"]}
+{"head": "new level", "relation": "NotDesires", "tails": [" new skill", " gain knowledge", " new level"]}
+{"head": "new level", "relation": "Desires", "tails": [" learn new skill", " learn new things", " learn new skills"]}
+{"head": "national composition contest", "relation": "ObjectUse", "tails": [" write a poem", " write a song", " write a novel"]}
+{"head": "national composition contest", "relation": "AtLocation", "tails": [" music class", " art show", " art gallery"]}
+{"head": "national composition contest", "relation": "CapableOf", "tails": [" win", " enter contest", " write a poem"]}
+{"head": "national composition contest", "relation": "HasProperty", "tails": [" composed by students", " winning", " composed by student"]}
+{"head": "national composition contest", "relation": "MadeUpOf", "tails": [" competition", " music", " contest"]}
+{"head": "national composition contest", "relation": "NotDesires", "tails": [" winning", " win", " win prize"]}
+{"head": "national composition contest", "relation": "Desires", "tails": [" to be the best", " have a good time", " to be a winner"]}
+{"head": "middle school", "relation": "ObjectUse", "tails": [" get a good education", " get a good grade", " get a good grade in"]}
+{"head": "middle school", "relation": "AtLocation", "tails": [" school", " middle school", " elementary school"]}
+{"head": "middle school", "relation": "CapableOf", "tails": [" go to middle school", " go to school", " learn math"]}
+{"head": "middle school", "relation": "HasProperty", "tails": [" high school", " elementary school", " middle school"]}
+{"head": "middle school", "relation": "MadeUpOf", "tails": [" middle school", " high school", " school bus"]}
+{"head": "middle school", "relation": "NotDesires", "tails": [" middle school", " get expelled", " middle of school"]}
+{"head": "middle school", "relation": "Desires", "tails": [" have friends to hang out with", " learn new things", " get good grades"]}
+{"head": "master", "relation": "ObjectUse", "tails": [" teach a child how to read", " teach a class", " teach a child how to do things"]}
+{"head": "master", "relation": "AtLocation", "tails": [" school", " house", " master"]}
+{"head": "master", "relation": "CapableOf", "tails": [" teach students", " master people", " master children"]}
+{"head": "master", "relation": "HasProperty", "tails": [" one of the most powerful people in the world", " one of the most powerful men in the world", " one of the most powerful people in the world."]}
+{"head": "master", "relation": "MadeUpOf", "tails": [" master", " master's hand", " mastership"]}
+{"head": "master", "relation": "NotDesires", "tails": [" master", " master of people", " master of all things"]}
+{"head": "master", "relation": "Desires", "tails": [" master", " master of people", " master of art"]}
+{"head": "love writing", "relation": "HinderedBy", "tails": [" read a lot", " love to write", " love to read"]}
+{"head": "love writing", "relation": "isBefore", "tails": [" learn to write", " write story", " write stories"]}
+{"head": "love writing", "relation": "isAfter", "tails": [" write story", " write stories", " write book"]}
+{"head": "love writing", "relation": "HasSubEvent", "tails": [" learn to write", " write story", " write poem"]}
+{"head": "love writing", "relation": "Causes", "tails": [" learn to write", " write stories", " write story"]}
+{"head": "love writing", "relation": "xReason", "tails": [" write stories", " write story", " read books"]}
+{"head": "lot", "relation": "ObjectUse", "tails": [" park the car in", " parking lot", " park the car"]}
+{"head": "lot", "relation": "AtLocation", "tails": [" parking lot", " park", " parking space"]}
+{"head": "lot", "relation": "CapableOf", "tails": [" park car in", " park car", " park car on"]}
+{"head": "lot", "relation": "HasProperty", "tails": [" parking lot", " found in city", " found in many cities"]}
+{"head": "lot", "relation": "MadeUpOf", "tails": [" parking lot", " lotteries", " parking space"]}
+{"head": "lot", "relation": "NotDesires", "tails": [" parking lot", " parking spaces", " parking space"]}
+{"head": "lot", "relation": "Desires", "tails": [" parking lot", " parking spaces", " parking space"]}
+{"head": "little boy", "relation": "ObjectUse", "tails": [" play with", " have fun with", " have fun"]}
+{"head": "little boy", "relation": "AtLocation", "tails": [" little girl", " child's bedroom", " little girl's hand"]}
+{"head": "little boy", "relation": "CapableOf", "tails": [" play with dog", " play with friends", " play with"]}
+{"head": "little boy", "relation": "HasProperty", "tails": [" little girl", " very small", " little boy"]}
+{"head": "little boy", "relation": "MadeUpOf", "tails": [" little girl", " little boy", " child's hand"]}
+{"head": "little boy", "relation": "NotDesires", "tails": [" little girl", " little girl to play with", " play with other kids"]}
+{"head": "little boy", "relation": "Desires", "tails": [" have fun", " little girl", " play with"]}
+{"head": "level", "relation": "ObjectUse", "tails": [" get to the top of the mountain", " get to the next level", " get to the top of the ladder"]}
+{"head": "level", "relation": "AtLocation", "tails": [" floor", " level", " table"]}
+{"head": "level", "relation": "CapableOf", "tails": [" play game", " level up", " level table"]}
+{"head": "level", "relation": "HasProperty", "tails": [" one level higher than the other", " one level higher than the next", " one level higher than the next level"]}
+{"head": "level", "relation": "MadeUpOf", "tails": [" level", " level ", " level 1"]}
+{"head": "level", "relation": "NotDesires", "tails": [" level", " have to pay for", " have to work harder"]}
+{"head": "level", "relation": "Desires", "tails": [" get a good grade", " have a good time", " get a good job"]}
+{"head": "journalist", "relation": "ObjectUse", "tails": [" report on the news", " report news", " report on events"]}
+{"head": "journalist", "relation": "AtLocation", "tails": [" newspaper", " newsroom", " newsstand"]}
+{"head": "journalist", "relation": "CapableOf", "tails": [" write story", " report news", " write about event"]}
+{"head": "journalist", "relation": "HasProperty", "tails": [" news", " newsgazette", " newsgathering"]}
+{"head": "journalist", "relation": "MadeUpOf", "tails": [" news", " newspaper", " news story"]}
+{"head": "journalist", "relation": "NotDesires", "tails": [" news", " press conference", " get fired"]}
+{"head": "journalist", "relation": "Desires", "tails": [" news", " write story", " write stories"]}
+{"head": "job", "relation": "ObjectUse", "tails": [" get a raise", " get paid", " get paid for"]}
+{"head": "job", "relation": "AtLocation", "tails": [" office building", " job", " job interview"]}
+{"head": "job", "relation": "CapableOf", "tails": [" get paid", " pay bills", " get paid for"]}
+{"head": "job", "relation": "HasProperty", "tails": [" hard-working", " hard work", " hardworking"]}
+{"head": "job", "relation": "MadeUpOf", "tails": [" job title", " job", " job description"]}
+{"head": "job", "relation": "NotDesires", "tails": [" get fired", " have to pay bills", " get laid off"]}
+{"head": "job", "relation": "Desires", "tails": [" get paid", " get paid for", " get paid well"]}
+{"head": "improve ability", "relation": "HinderedBy", "tails": [" learn new skill", " learn new skills", " improve ability"]}
+{"head": "improve ability", "relation": "isBefore", "tails": [" learn new skill", " learn new skills", " get better at something"]}
+{"head": "improve ability", "relation": "isAfter", "tails": [" learn new skill", " learn new skills", " get better at something"]}
+{"head": "improve ability", "relation": "HasSubEvent", "tails": [" learn new skill", " learn new skills", " get better at something"]}
+{"head": "improve ability", "relation": "Causes", "tails": [" learn new skill", " learn new skills", " get better at something"]}
+{"head": "improve ability", "relation": "xReason", "tails": [" learn new skill", " get better at something", " learn new skills"]}
+{"head": "higher writing ability", "relation": "ObjectUse", "tails": [" write a novel", " get a job", " write a book"]}
+{"head": "higher writing ability", "relation": "AtLocation", "tails": [" writing book", " book", " school"]}
+{"head": "higher writing ability", "relation": "CapableOf", "tails": [" learn to write", " write well", " learn new words"]}
+{"head": "higher writing ability", "relation": "HasProperty", "tails": [" good at writing", " good at math", " good at spelling"]}
+{"head": "higher writing ability", "relation": "MadeUpOf", "tails": [" higher vocabulary", " higher IQ", " higher grade"]}
+{"head": "higher writing ability", "relation": "NotDesires", "tails": [" write a novel", " write a book", " have a good memory"]}
+{"head": "higher writing ability", "relation": "Desires", "tails": [" learn to write", " write a book", " have a good memory"]}
+{"head": "have confidence", "relation": "HinderedBy", "tails": [" feel good about themselves", " feel good about yourself", " have confidence"]}
+{"head": "have confidence", "relation": "isBefore", "tails": [" feel good about yourself", " feel good about themselves", " feel good about self"]}
+{"head": "have confidence", "relation": "isAfter", "tails": [" feel good about themselves", " feel good about yourself", " feel good about self"]}
+{"head": "have confidence", "relation": "HasSubEvent", "tails": [" feel good about yourself", " feel good about self", " feel good about themselves"]}
+{"head": "have confidence", "relation": "Causes", "tails": [" feel good about themselves", " feel good about yourself", " feel good about self"]}
+{"head": "have confidence", "relation": "xReason", "tails": [" feel good about themselves", " feel good about yourself", " feel good about self"]}
+{"head": "governance", "relation": "ObjectUse", "tails": [" govern people", " govern the people", " govern the country"]}
+{"head": "governance", "relation": "AtLocation", "tails": [" governorship", " state", " government"]}
+{"head": "governance", "relation": "CapableOf", "tails": [" govern people", " govern country", " govern nation"]}
+{"head": "governance", "relation": "HasProperty", "tails": [" governed by law", " governed by people", " governed by laws"]}
+{"head": "governance", "relation": "MadeUpOf", "tails": [" rule of law", " governorship", " governance"]}
+{"head": "governance", "relation": "NotDesires", "tails": [" rule of law", " govern people", " govern"]}
+{"head": "governance", "relation": "Desires", "tails": [" govern people", " rule of law", " govern country"]}
+{"head": "give writing", "relation": "HinderedBy", "tails": [" write a letter", " write a book", " give to person"]}
+{"head": "give writing", "relation": "isBefore", "tails": [" write letter", " give speech", " give to teacher"]}
+{"head": "give writing", "relation": "isAfter", "tails": [" write letter", " give speech", " give to teacher"]}
+{"head": "give writing", "relation": "HasSubEvent", "tails": [" write letter", " write down thoughts", " write down ideas"]}
+{"head": "give writing", "relation": "Causes", "tails": [" write letter", " write book", " give to person"]}
+{"head": "give writing", "relation": "xReason", "tails": [" write letter", " write book", " give to teacher"]}
+{"head": "doctor", "relation": "ObjectUse", "tails": [" see patients", " diagnose a patient", " help with a problem"]}
+{"head": "doctor", "relation": "AtLocation", "tails": [" doctor's office", " medicine chest", " doctor's house"]}
+{"head": "doctor", "relation": "CapableOf", "tails": [" doctor patient", " see patient", " see patients"]}
+{"head": "doctor", "relation": "HasProperty", "tails": [" doctorate", " doctor", " medical school"]}
+{"head": "doctor", "relation": "MadeUpOf", "tails": [" medicine chest", " doctor's office", " doctor's hands"]}
+{"head": "doctor", "relation": "NotDesires", "tails": [" doctor's office", " medicine", " doctor to prescribe medicine"]}
+{"head": "doctor", "relation": "Desires", "tails": [" medicine", " doctorate", " doctor's office"]}
+{"head": "do job", "relation": "HinderedBy", "tails": [" get job done", " get paid", " do well at job"]}
+{"head": "do job", "relation": "isBefore", "tails": [" get paid", " get job done", " do well at job"]}
+{"head": "do job", "relation": "isAfter", "tails": [" get paid", " get job done", " have to do"]}
+{"head": "do job", "relation": "HasSubEvent", "tails": [" get paid", " get job done", " get paid for work"]}
+{"head": "do job", "relation": "Causes", "tails": [" get paid", " have to do", " have to pay bills"]}
+{"head": "do job", "relation": "xReason", "tails": [" get paid", " have to do", " have to pay bills"]}
+{"head": "develop ability", "relation": "HinderedBy", "tails": [" learn new skill", " learn new skills", " develop skills"]}
+{"head": "develop ability", "relation": "isBefore", "tails": [" learn new skill", " learn new skills", " learn how to do"]}
+{"head": "develop ability", "relation": "isAfter", "tails": [" learn new skill", " learn new skills", " learn to do"]}
+{"head": "develop ability", "relation": "HasSubEvent", "tails": [" learn new skill", " learn new skills", " learn to do"]}
+{"head": "develop ability", "relation": "Causes", "tails": [" learn new skill", " learn new skills", " learn to do"]}
+{"head": "develop ability", "relation": "xReason", "tails": [" learn new skill", " learn new skills", " learn to do"]}
+{"head": "demand ability", "relation": "HinderedBy", "tails": [" demand", " demand ability", " make money"]}
+{"head": "demand ability", "relation": "isBefore", "tails": [" demand", " have more money", " demand for goods"]}
+{"head": "demand ability", "relation": "isAfter", "tails": [" demand", " money", " demand for"]}
+{"head": "demand ability", "relation": "HasSubEvent", "tails": [" get a job", " demand", " demand from others"]}
+{"head": "demand ability", "relation": "Causes", "tails": [" demand", " demand for goods", " demand and supply"]}
+{"head": "demand ability", "relation": "xReason", "tails": [" demand", " demand for goods", " demand and supply"]}
+{"head": "degrees", "relation": "ObjectUse", "tails": [" get a job", " get a good job", " get into college"]}
+{"head": "degrees", "relation": "AtLocation", "tails": [" college", " university", " school"]}
+{"head": "degrees", "relation": "CapableOf", "tails": [" get a job", " get into college", " get job"]}
+{"head": "degrees", "relation": "HasProperty", "tails": [" four years of college", " degrees", " many degrees"]}
+{"head": "degrees", "relation": "MadeUpOf", "tails": [" degrees", " degree", " four degrees"]}
+{"head": "degrees", "relation": "NotDesires", "tails": [" get into college", " get a job", " get a degree"]}
+{"head": "degrees", "relation": "Desires", "tails": [" get a good job", " get a job", " get good job"]}
+{"head": "contest", "relation": "ObjectUse", "tails": [" win a prize", " have fun", " have fun with"]}
+{"head": "contest", "relation": "AtLocation", "tails": [" contest", " competition", " contest hall"]}
+{"head": "contest", "relation": "CapableOf", "tails": [" enter contest", " win prize", " enter"]}
+{"head": "contest", "relation": "HasProperty", "tails": [" one of many", " found in contest", " one of many contests"]}
+{"head": "contest", "relation": "MadeUpOf", "tails": [" contest", " win", " winnings"]}
+{"head": "contest", "relation": "NotDesires", "tails": [" win or lose", " have to pay for", " win"]}
+{"head": "contest", "relation": "Desires", "tails": [" have fun", " win", " win prize"]}
+{"head": "confidence", "relation": "ObjectUse", "tails": [" feel good about yourself", " feel good about themselves", " feel good about oneself"]}
+{"head": "confidence", "relation": "AtLocation", "tails": [" self confidence", " confidence", " self esteem"]}
+{"head": "confidence", "relation": "CapableOf", "tails": [" feel good about yourself", " feel good about self", " feel good about themselves"]}
+{"head": "confidence", "relation": "HasProperty", "tails": [" good about themselves", " good about self", " confident"]}
+{"head": "confidence", "relation": "MadeUpOf", "tails": [" confidence", " self-esteem", " self-confidence"]}
+{"head": "confidence", "relation": "NotDesires", "tails": [" feel good about themselves", " feel good about yourself", " feel good about self"]}
+{"head": "confidence", "relation": "Desires", "tails": [" feel good about yourself", " feel good about themselves", " feel good about oneself"]}
+{"head": "composition", "relation": "ObjectUse", "tails": [" make music", " make a movie", " make music with"]}
+{"head": "composition", "relation": "AtLocation", "tails": [" music store", " music class", " music school"]}
+{"head": "composition", "relation": "CapableOf", "tails": [" write music", " make music", " play music"]}
+{"head": "composition", "relation": "HasProperty", "tails": [" music", " composed by musicians", " composed in orchestra"]}
+{"head": "composition", "relation": "MadeUpOf", "tails": [" music", " musical notation", " music notation"]}
+{"head": "composition", "relation": "NotDesires", "tails": [" music", " compose music", " make music"]}
+{"head": "composition", "relation": "Desires", "tails": [" music", " make music", " compose music"]}
+{"head": "comments", "relation": "ObjectUse", "tails": [" make a point", " leave a comment", " write a letter"]}
+{"head": "comments", "relation": "AtLocation", "tails": [" internet cafe", " newspaper", " internet"]}
+{"head": "comments", "relation": "CapableOf", "tails": [" read comments", " write on paper", " write down thoughts"]}
+{"head": "comments", "relation": "HasProperty", "tails": [" made up of many words", " made up of words", " written on paper"]}
+{"head": "comments", "relation": "MadeUpOf", "tails": ["                  ", "                   ", "                    "]}
+{"head": "comments", "relation": "NotDesires", "tails": [" leave a comment", " make fun of others", " make fun of someone"]}
+{"head": "comments", "relation": "Desires", "tails": [" have a good time", " make a good impression", " make a point"]}
+{"head": "boy", "relation": "ObjectUse", "tails": [" play with", " boy to play with", " have a good time"]}
+{"head": "boy", "relation": "AtLocation", "tails": [" boy's house", " boy's mouth", " boy's hand"]}
+{"head": "boy", "relation": "CapableOf", "tails": [" dress up for halloween", " dress up for halloween party", " dress up for christmas"]}
+{"head": "boy", "relation": "HasProperty", "tails": [" boy", " one of two sexes", " one of many children"]}
+{"head": "boy", "relation": "MadeUpOf", "tails": [" boy", " boy's hand", " boy's hands"]}
+{"head": "boy", "relation": "NotDesires", "tails": [" boy to do bad things", " boy to be boy", " boy to do wrong"]}
+{"head": "boy", "relation": "Desires", "tails": [" boy to love", " boy to marry", " have fun"]}
+{"head": "attention", "relation": "ObjectUse", "tails": [" pay attention", " pay attention to", " pay attention to something"]}
+{"head": "attention", "relation": "AtLocation", "tails": [" attention span", " classroom", " attention"]}
+{"head": "attention", "relation": "CapableOf", "tails": [" pay attention", " pay attention to", " pay attention to something"]}
+{"head": "attention", "relation": "HasProperty", "tails": [" attentive", " attention", " important"]}
+{"head": "attention", "relation": "MadeUpOf", "tails": [" attention span", " attention", " pay attention"]}
+{"head": "attention", "relation": "NotDesires", "tails": [" pay attention", " pay attention to", " pay attention to something"]}
+{"head": "attention", "relation": "Desires", "tails": [" pay attention", " pay attention to", " learn new things"]}
+{"head": "attend University", "relation": "HinderedBy", "tails": [" attend university", " attend college", " attend classes"]}
+{"head": "attend University", "relation": "isBefore", "tails": [" get good grades", " go to college", " go to class"]}
+{"head": "attend University", "relation": "isAfter", "tails": [" go to college", " get good grades", " go to school"]}
+{"head": "attend University", "relation": "HasSubEvent", "tails": [" get good grades", " go to class", " go to college"]}
+{"head": "attend University", "relation": "Causes", "tails": [" go to college", " go to school", " go to university"]}
+{"head": "attend University", "relation": "xReason", "tails": [" go to college", " get good grades", " go to school"]}
+{"head": "ability", "relation": "ObjectUse", "tails": [" get a job", " have a good job", " have a good time"]}
+{"head": "ability", "relation": "AtLocation", "tails": [" computer", " good health", " wheelchair"]}
+{"head": "ability", "relation": "CapableOf", "tails": [" learn new skills", " learn new skill", " learn new things"]}
+{"head": "ability", "relation": "HasProperty", "tails": [" useful for many tasks", " useful in life", " useful for many things"]}
+{"head": "ability", "relation": "MadeUpOf", "tails": [" ability to do things", " ability to do something", " one of the four limbs"]}
+{"head": "ability", "relation": "NotDesires", "tails": [" lack of", " lack of ability", " have to do"]}
+{"head": "ability", "relation": "Desires", "tails": [" have a good time", " have a good job", " feel good about yourself"]}
+{"head": "Yangzi Evening News", "relation": "ObjectUse", "tails": [" read the news", " read at night", " get information from"]}
+{"head": "Yangzi Evening News", "relation": "AtLocation", "tails": [" newsstand", " newspaper", " television"]}
+{"head": "Yangzi Evening News", "relation": "CapableOf", "tails": [" watch news", " read news stories", " read news"]}
+{"head": "Yangzi Evening News", "relation": "HasProperty", "tails": [" news", " none", " important news"]}
+{"head": "Yangzi Evening News", "relation": "MadeUpOf", "tails": [" news", " news item", " news story"]}
+{"head": "Yangzi Evening News", "relation": "NotDesires", "tails": [" read the news", " news", " watch news"]}
+{"head": "Yangzi Evening News", "relation": "Desires", "tails": [" to be entertained", " to be informed", " none"]}
+{"head": "Xuebao", "relation": "ObjectUse", "tails": [" get a job at a restaurant", " get a job at a restaurant.", " get a job in China"]}
+{"head": "Xuebao", "relation": "AtLocation", "tails": [" Xuebao", " xuebao's house", " Xuebao's house"]}
+{"head": "Xuebao", "relation": "CapableOf", "tails": [" get a new job", " get a job", " get married"]}
+{"head": "Xuebao", "relation": "HasProperty", "tails": [" one of China's most famous cities", " one of China's most important cities", " one of China's most famous cities."]}
+{"head": "Xuebao", "relation": "MadeUpOf", "tails": [" Xuebao is a Chinese name.", " X is the name of the dog.", " X is the name of a person."]}
+{"head": "Xuebao", "relation": "NotDesires", "tails": [" none", " X is in a coma.", " X is in jail."]}
+{"head": "Xuebao", "relation": "Desires", "tails": [" none", " to have a good time", " to have fun"]}
+{"head": "This position demands a higher writing ability , so please say something about your writing ability .", "relation": "xAttr", "tails": [" intelligent", " creative", " smart"]}
+{"head": "This position demands a higher writing ability , so please say something about your writing ability .", "relation": "xWant", "tails": [" to get a job", " to get the job", " to get a promotion"]}
+{"head": "This position demands a higher writing ability , so please say something about your writing ability .", "relation": "xNeed", "tails": [" write a novel", " none", " write a good story"]}
+{"head": "This position demands a higher writing ability , so please say something about your writing ability .", "relation": "xEffect", "tails": [" get a better job", " get a promotion", " get a job"]}
+{"head": "This position demands a higher writing ability , so please say something about your writing ability .", "relation": "HinderedBy", "tails": [" this position requires a higher writing ability", " this position requires a higher writing ability.", " this position requires a higher writing ability than others"]}
+{"head": "This position demands a higher writing ability , so please say something about your writing ability .", "relation": "oWant", "tails": [" to get a better job", " to get a job", " to get the job"]}
+{"head": "This position demands a higher writing ability , so please say something about your writing ability .", "relation": "xReact", "tails": [" good about themselves", " proud", " proud of their work"]}
+{"head": "This position demands a higher writing ability , so please say something about your writing ability .", "relation": "oEffect", "tails": [" none", " get a promotion", " write a good story"]}
+{"head": "This position demands a higher writing ability , so please say something about your writing ability .", "relation": "xIntent", "tails": [" to get a better job", " to get a promotion", " to get a job"]}
+{"head": "This position demands a higher writing ability , so please say something about your writing ability .", "relation": "oReact", "tails": [" none", " good about themselves", " proud of their work"]}
+{"head": "This position demands a higher writing ability , so please say something about your writing ability .", "relation": "isBefore", "tails": [" this is a job that requires a good writing ability", " this is a job that requires a higher writing ability", " this is a job that requires a good writing ability."]}
+{"head": "This position demands a higher writing ability , so please say something about your writing ability .", "relation": "isAfter", "tails": [" this position is very important", " write a book", " write a good story"]}
+{"head": "This position demands a higher writing ability , so please say something about your writing ability .", "relation": "HasSubEvent", "tails": [" get a promotion", " write a good story", " get a job"]}
+{"head": "This position demands a higher writing ability , so please say something about your writing ability .", "relation": "Causes", "tails": [" this position is very important", " proud of their work", " proud of their work."]}
+{"head": "This position demands a higher writing ability , so please say something about your writing ability .", "relation": "xReason", "tails": [" this position requires a higher writing ability", " this position requires a higher writing ability.", " this position requires a good writing ability"]}
+{"head": "Theory", "relation": "ObjectUse", "tails": [" make a point", " learn about something", " make a theory"]}
+{"head": "Theory", "relation": "AtLocation", "tails": [" science fiction book", " science fiction", " science fiction novel"]}
+{"head": "Theory", "relation": "CapableOf", "tails": [" think about", " think logically", " study"]}
+{"head": "Theory", "relation": "HasProperty", "tails": [" theory of things", " theory", " theory of the universe"]}
+{"head": "Theory", "relation": "MadeUpOf", "tails": [" theory", " theory", " theory of science"]}
+{"head": "Theory", "relation": "NotDesires", "tails": [" think about", " understand the situation", " thought process"]}
+{"head": "Theory", "relation": "Desires", "tails": [" know what is going on", " know what to do", " know what to do next"]}
+{"head": "The Impact of Internet in Chinese Political Participation , The Discipline of Remold , The Historical Direction of Chinese Administration Reform , Bribery Cases of Self governance in Chinese Villages are respectively published in Chinese Publish Administration , Beijing Due Xuebao , Theory and Society and Chinese Reform .", "relation": "xAttr", "tails": [" political", " responsible", " social"]}
+{"head": "The Impact of Internet in Chinese Political Participation , The Discipline of Remold , The Historical Direction of Chinese Administration Reform , Bribery Cases of Self governance in Chinese Villages are respectively published in Chinese Publish Administration , Beijing Due Xuebao , Theory and Society and Chinese Reform .", "relation": "xWant", "tails": [" to publish the book", " to make a report", " to publish the report"]}
+{"head": "The Impact of Internet in Chinese Political Participation , The Discipline of Remold , The Historical Direction of Chinese Administration Reform , Bribery Cases of Self governance in Chinese Villages are respectively published in Chinese Publish Administration , Beijing Due Xuebao , Theory and Society and Chinese Reform .", "relation": "xNeed", "tails": [" to study the history of the country", " to study the history of China", " to study the history of the reform"]}
+{"head": "The Impact of Internet in Chinese Political Participation , The Discipline of Remold , The Historical Direction of Chinese Administration Reform , Bribery Cases of Self governance in Chinese Villages are respectively published in Chinese Publish Administration , Beijing Due Xuebao , Theory and Society and Chinese Reform .", "relation": "xEffect", "tails": [" to be published in a book", " to be published in the future", " to be published in a journal"]}
+{"head": "The Impact of Internet in Chinese Political Participation , The Discipline of Remold , The Historical Direction of Chinese Administration Reform , Bribery Cases of Self governance in Chinese Villages are respectively published in Chinese Publish Administration , Beijing Due Xuebao , Theory and Society and Chinese Reform .", "relation": "HinderedBy", "tails": [" the book is published", " the report of the report", " the book is published in"]}
+{"head": "The Impact of Internet in Chinese Political Participation , The Discipline of Remold , The Historical Direction of Chinese Administration Reform , Bribery Cases of Self governance in Chinese Villages are respectively published in Chinese Publish Administration , Beijing Due Xuebao , Theory and Society and Chinese Reform .", "relation": "oWant", "tails": [" to write a book on the subject", " to write a book about it", " to write a book about the subject"]}
+{"head": "The Impact of Internet in Chinese Political Participation , The Discipline of Remold , The Historical Direction of Chinese Administration Reform , Bribery Cases of Self governance in Chinese Villages are respectively published in Chinese Publish Administration , Beijing Due Xuebao , Theory and Society and Chinese Reform .", "relation": "xReact", "tails": [" happy to be a part of the reform.", " happy to be a part of the reform process.", " happy to be a part of it."]}
+{"head": "The Impact of Internet in Chinese Political Participation , The Discipline of Remold , The Historical Direction of Chinese Administration Reform , Bribery Cases of Self governance in Chinese Villages are respectively published in Chinese Publish Administration , Beijing Due Xuebao , Theory and Society and Chinese Reform .", "relation": "oEffect", "tails": [" none", " the government to reform the country", " the government to be more efficient"]}
+{"head": "The Impact of Internet in Chinese Political Participation , The Discipline of Remold , The Historical Direction of Chinese Administration Reform , Bribery Cases of Self governance in Chinese Villages are respectively published in Chinese Publish Administration , Beijing Due Xuebao , Theory and Society and Chinese Reform .", "relation": "xIntent", "tails": [" the people to participate in the political process", " the people to participate in the political process.", " the people to participate in the reform"]}
+{"head": "The Impact of Internet in Chinese Political Participation , The Discipline of Remold , The Historical Direction of Chinese Administration Reform , Bribery Cases of Self governance in Chinese Villages are respectively published in Chinese Publish Administration , Beijing Due Xuebao , Theory and Society and Chinese Reform .", "relation": "oReact", "tails": [" none", " the government is corrupt", " the government to be corrupt"]}
+{"head": "The Impact of Internet in Chinese Political Participation , The Discipline of Remold , The Historical Direction of Chinese Administration Reform , Bribery Cases of Self governance in Chinese Villages are respectively published in Chinese Publish Administration , Beijing Due Xuebao , Theory and Society and Chinese Reform .", "relation": "isBefore", "tails": [" the book is published in China", " the book is published", " the book is published in a book"]}
+{"head": "The Impact of Internet in Chinese Political Participation , The Discipline of Remold , The Historical Direction of Chinese Administration Reform , Bribery Cases of Self governance in Chinese Villages are respectively published in Chinese Publish Administration , Beijing Due Xuebao , Theory and Society and Chinese Reform .", "relation": "isAfter", "tails": [" the history of Chinese government", " the history of Chinese people", " the history of the reform"]}
+{"head": "The Impact of Internet in Chinese Political Participation , The Discipline of Remold , The Historical Direction of Chinese Administration Reform , Bribery Cases of Self governance in Chinese Villages are respectively published in Chinese Publish Administration , Beijing Due Xuebao , Theory and Society and Chinese Reform .", "relation": "HasSubEvent", "tails": [" to be published in a book", " the government to be more transparent", " the government to be more efficient"]}
+{"head": "The Impact of Internet in Chinese Political Participation , The Discipline of Remold , The Historical Direction of Chinese Administration Reform , Bribery Cases of Self governance in Chinese Villages are respectively published in Chinese Publish Administration , Beijing Due Xuebao , Theory and Society and Chinese Reform .", "relation": "Causes", "tails": [" the law of the land", " the law of the land.", " the government to be more transparent"]}
+{"head": "The Impact of Internet in Chinese Political Participation , The Discipline of Remold , The Historical Direction of Chinese Administration Reform , Bribery Cases of Self governance in Chinese Villages are respectively published in Chinese Publish Administration , Beijing Due Xuebao , Theory and Society and Chinese Reform .", "relation": "xReason", "tails": [" the law of the land", " the law of the land.", " the government to be accountable"]}
+{"head": "Society", "relation": "ObjectUse", "tails": [" sociable", " socialize", " sociability"]}
+{"head": "Society", "relation": "AtLocation", "tails": [" society", " social group", " society"]}
+{"head": "Society", "relation": "CapableOf", "tails": [" socialize", " live in harmony with other people", " live in harmony with others"]}
+{"head": "Society", "relation": "HasProperty", "tails": [" sociable", " sociability", " society"]}
+{"head": "Society", "relation": "MadeUpOf", "tails": [" sociability", " society", " sociarity"]}
+{"head": "Society", "relation": "NotDesires", "tails": [" society to go down in history", " society to fall apart", " society to go to hell"]}
+{"head": "Society", "relation": "Desires", "tails": [" sociable", " sociability", " society"]}
+{"head": "Self governance", "relation": "ObjectUse", "tails": [" make a difference", " make a decision", " self-determination"]}
+{"head": "Self governance", "relation": "AtLocation", "tails": [" self-determination", " self-government", " self-rule"]}
+{"head": "Self governance", "relation": "CapableOf", "tails": [" make decisions", " make decisions for yourself", " get a job"]}
+{"head": "Self governance", "relation": "HasProperty", "tails": [" self-reliance", " self-reliant", " self-determination"]}
+{"head": "Self governance", "relation": "MadeUpOf", "tails": [" self-reliance", " self-determination", " self determination"]}
+{"head": "Self governance", "relation": "NotDesires", "tails": [" self-reliance", " self-determination", " self control"]}
+{"head": "Self governance", "relation": "Desires", "tails": [" self-reliance", " self-determination", " self-reliant"]}
+{"head": "Remold", "relation": "ObjectUse", "tails": [" use as a paperweight", " make a paper airplane", " use as a paper weight"]}
+{"head": "Remold", "relation": "AtLocation", "tails": [" store", " drawer", " box"]}
+{"head": "Remold", "relation": "CapableOf", "tails": [" use as paperweight", " use as a paperweight", " use as paper weight"]}
+{"head": "Remold", "relation": "HasProperty", "tails": [" made from wood", " made from clay", " found in old house"]}
+{"head": "Remold", "relation": "MadeUpOf", "tails": [" Remodel", " paper", " Remodeling"]}
+{"head": "Remold", "relation": "NotDesires", "tails": [" make a new one", " make sure it's right", " make sure it's correct"]}
+{"head": "Remold", "relation": "Desires", "tails": [" make a new one", " have a new look", " make a picture"]}
+{"head": "Open Air Cinema", "relation": "ObjectUse", "tails": [" watch movies", " watching movies", " have a party"]}
+{"head": "Open Air Cinema", "relation": "AtLocation", "tails": [" movie theater", " movie theatre", " city"]}
+{"head": "Open Air Cinema", "relation": "CapableOf", "tails": [" watch movie", " watch movies", " see movie"]}
+{"head": "Open Air Cinema", "relation": "HasProperty", "tails": [" open to the public", " open to public", " found in many cities"]}
+{"head": "Open Air Cinema", "relation": "MadeUpOf", "tails": [" open air", " open air cinema", " movie theater"]}
+{"head": "Open Air Cinema", "relation": "NotDesires", "tails": [" open to the public", " open to public", " watch movie"]}
+{"head": "Open Air Cinema", "relation": "Desires", "tails": [" watch movie", " watch movies", " have fun"]}
+{"head": "Of course .", "relation": "xAttr", "tails": [" understanding", " responsible", " smart"]}
+{"head": "Of course .", "relation": "xWant", "tails": [" to make sure everything is okay", " to make sure everything is ok", " to make sure it's ok"]}
+{"head": "Of course .", "relation": "xNeed", "tails": [" none", " of course", " to have a job"]}
+{"head": "Of course .", "relation": "xEffect", "tails": [" none", " of course", " is asked questions"]}
+{"head": "Of course .", "relation": "HinderedBy", "tails": [" of course", " of course.", " none"]}
+{"head": "Of course .", "relation": "oWant", "tails": [" none", " to have a good time", " to have a good time."]}
+{"head": "Of course .", "relation": "xReact", "tails": [" happy", " good", " satisfied"]}
+{"head": "Of course .", "relation": "oEffect", "tails": [" none", " have a good time", " have a good day"]}
+{"head": "Of course .", "relation": "xIntent", "tails": [" none", " to be able to do something", " to be a good person"]}
+{"head": "Of course .", "relation": "oReact", "tails": [" none", " happy", " happy."]}
+{"head": "Of course .", "relation": "isBefore", "tails": [" of course", " none", " have a good time"]}
+{"head": "Of course .", "relation": "isAfter", "tails": [" of course", " none", " have a good time"]}
+{"head": "Of course .", "relation": "HasSubEvent", "tails": [" none", " have a good time", " of course"]}
+{"head": "Of course .", "relation": "Causes", "tails": [" of course", " none", " of course."]}
+{"head": "Of course .", "relation": "xReason", "tails": [" none", " of course", " of course."]}
+{"head": "New Beijing", "relation": "ObjectUse", "tails": [" new city", " live in", " New York"]}
+{"head": "New Beijing", "relation": "AtLocation", "tails": [" new york", " new york city", " city"]}
+{"head": "New Beijing", "relation": "CapableOf", "tails": [" find new place to live", " find new places to live", " find new place to live in"]}
+{"head": "New Beijing", "relation": "HasProperty", "tails": [" new city", " new cities", " found in China"]}
+{"head": "New Beijing", "relation": "MadeUpOf", "tails": [" new city", " city", " new capital"]}
+{"head": "New Beijing", "relation": "NotDesires", "tails": [" new city", " new cities", " new buildings"]}
+{"head": "New Beijing", "relation": "Desires", "tails": [" new city", " live in", " new cities"]}
+{"head": "Nanjing University", "relation": "ObjectUse", "tails": [" NANJING UNIVERSITY", " have a place to live", " have a good education"]}
+{"head": "Nanjing University", "relation": "AtLocation", "tails": [" campus", " university", " city"]}
+{"head": "Nanjing University", "relation": "CapableOf", "tails": [" learn new things", " study", " study at"]}
+{"head": "Nanjing University", "relation": "HasProperty", "tails": [" N.Y.", " found in many places in China", " found in many places around the world"]}
+{"head": "Nanjing University", "relation": "MadeUpOf", "tails": [" study hall", " campus", " university building"]}
+{"head": "Nanjing University", "relation": "NotDesires", "tails": [" N.Y.", " N.Y.U.", " N.Y.Y."]}
+{"head": "Nanjing University", "relation": "Desires", "tails": [" to learn", " to study", " to be educated"]}
+{"head": "My works , such as Father's Tobacco Pipe , Open Air Cinema , The old City were respectively published China Youth Daily , Yangzi Evening News , and New Beijing .", "relation": "xAttr", "tails": [" creative", " artistic", " talented"]}
+{"head": "My works , such as Father's Tobacco Pipe , Open Air Cinema , The old City were respectively published China Youth Daily , Yangzi Evening News , and New Beijing .", "relation": "xWant", "tails": [" to publish more works", " to show off their work", " to be published"]}
+{"head": "My works , such as Father's Tobacco Pipe , Open Air Cinema , The old City were respectively published China Youth Daily , Yangzi Evening News , and New Beijing .", "relation": "xNeed", "tails": [" to write a story", " to write a book", " to write a novel"]}
+{"head": "My works , such as Father's Tobacco Pipe , Open Air Cinema , The old City were respectively published China Youth Daily , Yangzi Evening News , and New Beijing .", "relation": "xEffect", "tails": [" my works are published in newspapers", " my work is published in newspapers", " my work is published"]}
+{"head": "My works , such as Father's Tobacco Pipe , Open Air Cinema , The old City were respectively published China Youth Daily , Yangzi Evening News , and New Beijing .", "relation": "HinderedBy", "tails": [" my works were published in newspapers", " my work was published", " my work was published in the newspaper"]}
+{"head": "My works , such as Father's Tobacco Pipe , Open Air Cinema , The old City were respectively published China Youth Daily , Yangzi Evening News , and New Beijing .", "relation": "oWant", "tails": [" to publish my works", " to publish my work", " to read my works"]}
+{"head": "My works , such as Father's Tobacco Pipe , Open Air Cinema , The old City were respectively published China Youth Daily , Yangzi Evening News , and New Beijing .", "relation": "xReact", "tails": [" happy", " proud", " satisfied"]}
+{"head": "My works , such as Father's Tobacco Pipe , Open Air Cinema , The old City were respectively published China Youth Daily , Yangzi Evening News , and New Beijing .", "relation": "oEffect", "tails": [" none", " my work is published", " my works are published"]}
+{"head": "My works , such as Father's Tobacco Pipe , Open Air Cinema , The old City were respectively published China Youth Daily , Yangzi Evening News , and New Beijing .", "relation": "xIntent", "tails": [" to be famous", " none", " to show off"]}
+{"head": "My works , such as Father's Tobacco Pipe , Open Air Cinema , The old City were respectively published China Youth Daily , Yangzi Evening News , and New Beijing .", "relation": "oReact", "tails": [" none", " my work was published", " my work was published."]}
+{"head": "My works , such as Father's Tobacco Pipe , Open Air Cinema , The old City were respectively published China Youth Daily , Yangzi Evening News , and New Beijing .", "relation": "isBefore", "tails": [" my works were published in newspapers", " my work was published in newspapers", " my work was published"]}
+{"head": "My works , such as Father's Tobacco Pipe , Open Air Cinema , The old City were respectively published China Youth Daily , Yangzi Evening News , and New Beijing .", "relation": "isAfter", "tails": [" my works were published in newspapers", " my work was published in newspapers", " my work was published"]}
+{"head": "My works , such as Father's Tobacco Pipe , Open Air Cinema , The old City were respectively published China Youth Daily , Yangzi Evening News , and New Beijing .", "relation": "HasSubEvent", "tails": [" my work was published", " my works are published", " my work is published"]}
+{"head": "My works , such as Father's Tobacco Pipe , Open Air Cinema , The old City were respectively published China Youth Daily , Yangzi Evening News , and New Beijing .", "relation": "Causes", "tails": [" my work was published in newspapers", " my work was published", " my work was published in newspapers."]}
+{"head": "My works , such as Father's Tobacco Pipe , Open Air Cinema , The old City were respectively published China Youth Daily , Yangzi Evening News , and New Beijing .", "relation": "xReason", "tails": [" my work was published in newspapers", " my work was published", " my works are published in newspapers"]}
+{"head": "Internet", "relation": "ObjectUse", "tails": [" access the internet", " connect to the internet", " search for information"]}
+{"head": "Internet", "relation": "AtLocation", "tails": [" internet cafe", " computer", " internet connection"]}
+{"head": "Internet", "relation": "CapableOf", "tails": [" search for information", " connect to internet", " search for things online"]}
+{"head": "Internet", "relation": "HasProperty", "tails": [" found in many places", " found on internet", " found on computer"]}
+{"head": "Internet", "relation": "MadeUpOf", "tails": [" internet connection", " computer", " Internet connection"]}
+{"head": "Internet", "relation": "NotDesires", "tails": [" access to internet", " search for information", " access to information"]}
+{"head": "Internet", "relation": "Desires", "tails": [" access to world wide web", " search for information", " access to internet"]}
+{"head": "Impact", "relation": "ObjectUse", "tails": [" make a difference", " make a statement", " make a point"]}
+{"head": "Impact", "relation": "AtLocation", "tails": [" car accident", " car crash", " impact of event"]}
+{"head": "Impact", "relation": "CapableOf", "tails": [" cause damage", " make impact", " hit object"]}
+{"head": "Impact", "relation": "HasProperty", "tails": [" hard to measure", " impact on environment", " hard to break down"]}
+{"head": "Impact", "relation": "MadeUpOf", "tails": [" impactor", " impact", " impact of object"]}
+{"head": "Impact", "relation": "NotDesires", "tails": [" impact on other people", " impact on other person", " impact on others"]}
+{"head": "Impact", "relation": "Desires", "tails": [" make a difference in the world", " make a difference", " feel good about yourself"]}
+{"head": "I've loved writing since I was a very little boy .", "relation": "xAttr", "tails": [" creative", " talented", " expressive"]}
+{"head": "I've loved writing since I was a very little boy .", "relation": "xWant", "tails": [" to write a novel", " to write a book", " to be a writer"]}
+{"head": "I've loved writing since I was a very little boy .", "relation": "xNeed", "tails": [" to learn how to write", " to have a pen and paper", " to learn to write"]}
+{"head": "I've loved writing since I was a very little boy .", "relation": "xEffect", "tails": [" writes a novel", " writes a book", " gets published"]}
+{"head": "I've loved writing since I was a very little boy .", "relation": "HinderedBy", "tails": [" I love to write.", " I love writing.", " I love to read."]}
+{"head": "I've loved writing since I was a very little boy .", "relation": "oWant", "tails": [" none", " to read the book", " to read it"]}
+{"head": "I've loved writing since I was a very little boy .", "relation": "xReact", "tails": [" happy", " creative", " proud"]}
+{"head": "I've loved writing since I was a very little boy .", "relation": "oEffect", "tails": [" none", " write a novel", " write a book"]}
+{"head": "I've loved writing since I was a very little boy .", "relation": "xIntent", "tails": [" to be a writer", " to be creative", " to be a writer."]}
+{"head": "I've loved writing since I was a very little boy .", "relation": "oReact", "tails": [" none", " happy", " happy."]}
+{"head": "I've loved writing since I was a very little boy .", "relation": "isBefore", "tails": [" I write a lot of stories.", " I write a lot of stories", " write a novel"]}
+{"head": "I've loved writing since I was a very little boy .", "relation": "isAfter", "tails": [" I have a passion for writing", " I have a passion for writing.", " I love to write"]}
+{"head": "I've loved writing since I was a very little boy .", "relation": "HasSubEvent", "tails": [" write a novel", " write a book", " write a story"]}
+{"head": "I've loved writing since I was a very little boy .", "relation": "Causes", "tails": [" I love to write.", " I write a lot.", " I love to write"]}
+{"head": "I've loved writing since I was a very little boy .", "relation": "xReason", "tails": [" I love to write.", " I love to write", " I write a lot of stories"]}
+{"head": "I won the first prize in a national composition contest when I was in middle school .", "relation": "xAttr", "tails": [" talented", " creative", " artistic"]}
+{"head": "I won the first prize in a national composition contest when I was in middle school .", "relation": "xWant", "tails": [" to show off their talent", " write a song", " to show off their talents"]}
+{"head": "I won the first prize in a national composition contest when I was in middle school .", "relation": "xNeed", "tails": [" to write a song", " to write a poem", " to write a good song"]}
+{"head": "I won the first prize in a national composition contest when I was in middle school .", "relation": "xEffect", "tails": [" I got a scholarship to go to college.", " I got a scholarship to go to college", " I got a scholarship to go to school."]}
+{"head": "I won the first prize in a national composition contest when I was in middle school .", "relation": "HinderedBy", "tails": [" I am not talented enough to win the contest.", " I am not talented enough to win a contest.", " I am not talented enough to win the competition."]}
+{"head": "I won the first prize in a national composition contest when I was in middle school .", "relation": "oWant", "tails": [" to show off their talent", " to celebrate", " to show their talent"]}
+{"head": "I won the first prize in a national composition contest when I was in middle school .", "relation": "xReact", "tails": [" proud", " accomplished", " happy"]}
+{"head": "I won the first prize in a national composition contest when I was in middle school .", "relation": "oEffect", "tails": [" none", " get a scholarship", " I got a scholarship"]}
+{"head": "I won the first prize in a national composition contest when I was in middle school .", "relation": "xIntent", "tails": [" to be the best", " to be famous", " to be a musician"]}
+{"head": "I won the first prize in a national composition contest when I was in middle school .", "relation": "oReact", "tails": [" none", " proud", " happy"]}
+{"head": "I won the first prize in a national composition contest when I was in middle school .", "relation": "isBefore", "tails": [" I got a scholarship to go to college.", " I got a scholarship to go to college", " I got a scholarship to go to a music school"]}
+{"head": "I won the first prize in a national composition contest when I was in middle school .", "relation": "isAfter", "tails": [" I won a scholarship for the contest.", " I won a scholarship to study music.", " I won a scholarship to college."]}
+{"head": "I won the first prize in a national composition contest when I was in middle school .", "relation": "HasSubEvent", "tails": [" get a scholarship", " win the contest", " I got a trophy"]}
+{"head": "I won the first prize in a national composition contest when I was in middle school .", "relation": "Causes", "tails": [" proud", " talented", " accomplished"]}
+{"head": "I won the first prize in a national composition contest when I was in middle school .", "relation": "xReason", "tails": [" I got a scholarship to go to college.", " I got a scholarship to go to college", " I got a scholarship to go to school."]}
+{"head": "I joined in Yangzi Evening News to work as a part-time journalist in 2006 .", "relation": "xAttr", "tails": [" hardworking", " hard-working", " hard working"]}
+{"head": "I joined in Yangzi Evening News to work as a part-time journalist in 2006 .", "relation": "xWant", "tails": [" to get a job", " to get a good job", " to write a story"]}
+{"head": "I joined in Yangzi Evening News to work as a part-time journalist in 2006 .", "relation": "xNeed", "tails": [" get a job", " to apply for a job", " to apply for the job"]}
+{"head": "I joined in Yangzi Evening News to work as a part-time journalist in 2006 .", "relation": "xEffect", "tails": [" I get paid for my work.", " I get paid for the work.", " I get paid for my work"]}
+{"head": "I joined in Yangzi Evening News to work as a part-time journalist in 2006 .", "relation": "HinderedBy", "tails": [" I don't have a job.", " I don't have a job", " I don't have a degree."]}
+{"head": "I joined in Yangzi Evening News to work as a part-time journalist in 2006 .", "relation": "oWant", "tails": [" to get a job", " to get a good job", " to write a story"]}
+{"head": "I joined in Yangzi Evening News to work as a part-time journalist in 2006 .", "relation": "xReact", "tails": [" proud", " happy", " satisfied"]}
+{"head": "I joined in Yangzi Evening News to work as a part-time journalist in 2006 .", "relation": "oEffect", "tails": [" get paid for their work", " get paid for work", " get a promotion"]}
+{"head": "I joined in Yangzi Evening News to work as a part-time journalist in 2006 .", "relation": "xIntent", "tails": [" to make money", " to be a journalist", " to be a part of the team"]}
+{"head": "I joined in Yangzi Evening News to work as a part-time journalist in 2006 .", "relation": "oReact", "tails": [" none", " happy to be a part of the news team", " happy to be a part of the news team."]}
+{"head": "I joined in Yangzi Evening News to work as a part-time journalist in 2006 .", "relation": "isBefore", "tails": [" I get paid for my work.", " I get paid for my work", " I get paid for the work."]}
+{"head": "I joined in Yangzi Evening News to work as a part-time journalist in 2006 .", "relation": "isAfter", "tails": [" I work as a reporter.", " I work as a journalist.", " I am a journalist."]}
+{"head": "I joined in Yangzi Evening News to work as a part-time journalist in 2006 .", "relation": "HasSubEvent", "tails": [" get paid for the work", " get paid for work", " get a promotion"]}
+{"head": "I joined in Yangzi Evening News to work as a part-time journalist in 2006 .", "relation": "Causes", "tails": [" I am a journalist.", " I am a reporter.", " I have a job."]}
+{"head": "I joined in Yangzi Evening News to work as a part-time journalist in 2006 .", "relation": "xReason", "tails": [" I get paid for my work.", " I get paid for my work", " I get paid for the work."]}
+{"head": "Historical Direction", "relation": "ObjectUse", "tails": [" learn about the past", " write a book about", " learn about history"]}
+{"head": "Historical Direction", "relation": "AtLocation", "tails": [" history book", " historical museum", " history books"]}
+{"head": "Historical Direction", "relation": "CapableOf", "tails": [" learn about the past", " learn about history", " write history book"]}
+{"head": "Historical Direction", "relation": "HasProperty", "tails": [" historical facts", " written down", " history"]}
+{"head": "Historical Direction", "relation": "MadeUpOf", "tails": [" history book", " historical facts", " history lesson"]}
+{"head": "Historical Direction", "relation": "NotDesires", "tails": [" historical facts", " history books", " history"]}
+{"head": "Historical Direction", "relation": "Desires", "tails": [" history", " historical facts", " historical information"]}
+{"head": "Father Tobacco Pipe", "relation": "ObjectUse", "tails": [" use as a prop in a play", " use as a weapon", " use as a prop in a movie"]}
+{"head": "Father Tobacco Pipe", "relation": "AtLocation", "tails": [" tobacco shop", " smoking room", " church"]}
+{"head": "Father Tobacco Pipe", "relation": "CapableOf", "tails": [" smoke pipe", " smoke tobacco", " smoke"]}
+{"head": "Father Tobacco Pipe", "relation": "HasProperty", "tails": [" smoking tobacco", " smoked from pipe", " smoking"]}
+{"head": "Father Tobacco Pipe", "relation": "MadeUpOf", "tails": [" tobacco", " smoke", " pipe"]}
+{"head": "Father Tobacco Pipe", "relation": "NotDesires", "tails": [" smoke tobacco", " smoke", " smoking tobacco"]}
+{"head": "Father Tobacco Pipe", "relation": "Desires", "tails": [" to smoke", " smoke", " smoke tobacco"]}
+{"head": "During this period , I've written a lot of comments , which improved my writing ability to a new level , I have full confidence in my writing ability , and I believe I can do the job well .", "relation": "xAttr", "tails": [" confident", " competent", " intelligent"]}
+{"head": "During this period , I've written a lot of comments , which improved my writing ability to a new level , I have full confidence in my writing ability , and I believe I can do the job well .", "relation": "xWant", "tails": [" to be a good writer", " to get a good job", " to get a job"]}
+{"head": "During this period , I've written a lot of comments , which improved my writing ability to a new level , I have full confidence in my writing ability , and I believe I can do the job well .", "relation": "xNeed", "tails": [" to learn how to write", " to learn how to write well", " to learn how to write."]}
+{"head": "During this period , I've written a lot of comments , which improved my writing ability to a new level , I have full confidence in my writing ability , and I believe I can do the job well .", "relation": "xEffect", "tails": [" to be a good writer", " to be a good writer.", " to write a good review"]}
+{"head": "During this period , I've written a lot of comments , which improved my writing ability to a new level , I have full confidence in my writing ability , and I believe I can do the job well .", "relation": "HinderedBy", "tails": [" during this period , I've learned a lot of new skills.", " during this period I've learned a lot of new skills.", " during this period , I've learned a lot of new things."]}
+{"head": "During this period , I've written a lot of comments , which improved my writing ability to a new level , I have full confidence in my writing ability , and I believe I can do the job well .", "relation": "oWant", "tails": [" none", " to give me a raise", " to give me a promotion"]}
+{"head": "During this period , I've written a lot of comments , which improved my writing ability to a new level , I have full confidence in my writing ability , and I believe I can do the job well .", "relation": "xReact", "tails": [" confident", " accomplished", " proud"]}
+{"head": "During this period , I've written a lot of comments , which improved my writing ability to a new level , I have full confidence in my writing ability , and I believe I can do the job well .", "relation": "oEffect", "tails": [" none", " write a lot of comments", " write a lot of things"]}
+{"head": "During this period , I've written a lot of comments , which improved my writing ability to a new level , I have full confidence in my writing ability , and I believe I can do the job well .", "relation": "xIntent", "tails": [" to be a good writer", " to be a good writer.", " to be the best"]}
+{"head": "During this period , I've written a lot of comments , which improved my writing ability to a new level , I have full confidence in my writing ability , and I believe I can do the job well .", "relation": "oReact", "tails": [" none", " happy", " proud"]}
+{"head": "During this period , I've written a lot of comments , which improved my writing ability to a new level , I have full confidence in my writing ability , and I believe I can do the job well .", "relation": "isBefore", "tails": [" to be a good writer", " to be a good writer.", " to write a good review"]}
+{"head": "During this period , I've written a lot of comments , which improved my writing ability to a new level , I have full confidence in my writing ability , and I believe I can do the job well .", "relation": "isAfter", "tails": [" to be a good writer", " to be a good writer.", " I have a good job."]}
+{"head": "During this period , I've written a lot of comments , which improved my writing ability to a new level , I have full confidence in my writing ability , and I believe I can do the job well .", "relation": "HasSubEvent", "tails": [" to be a good writer", " to be a good writer.", " to write a good review"]}
+{"head": "During this period , I've written a lot of comments , which improved my writing ability to a new level , I have full confidence in my writing ability , and I believe I can do the job well .", "relation": "Causes", "tails": [" I have a lot of confidence in my writing ability.", " I have a lot of work to do.", " I have a lot of confidence in my writing abilities."]}
+{"head": "During this period , I've written a lot of comments , which improved my writing ability to a new level , I have full confidence in my writing ability , and I believe I can do the job well .", "relation": "xReason", "tails": [" to be a good writer", " to be a good writer.", " I have a good job."]}
+{"head": "During the period of studying for my degrees of master and doctor , I paid more attention to developing my research ability and published several papers .", "relation": "xAttr", "tails": [" smart", " intelligent", " educated"]}
+{"head": "During the period of studying for my degrees of master and doctor , I paid more attention to developing my research ability and published several papers .", "relation": "xWant", "tails": [" to get a good job", " to get a doctorate", " to get a degree"]}
+{"head": "During the period of studying for my degrees of master and doctor , I paid more attention to developing my research ability and published several papers .", "relation": "xNeed", "tails": [" to study hard", " to be a good student", " to be a good researcher"]}
+{"head": "During the period of studying for my degrees of master and doctor , I paid more attention to developing my research ability and published several papers .", "relation": "xEffect", "tails": [" get a good job", " get a degree", " get a job"]}
+{"head": "During the period of studying for my degrees of master and doctor , I paid more attention to developing my research ability and published several papers .", "relation": "HinderedBy", "tails": [" during the period of studying for master and doctor", " during the period of studying for master and doctor degree", " during the period of studying for master and doctor degrees"]}
+{"head": "During the period of studying for my degrees of master and doctor , I paid more attention to developing my research ability and published several papers .", "relation": "oWant", "tails": [" to get a good job", " to get a doctorate", " to get a degree"]}
+{"head": "During the period of studying for my degrees of master and doctor , I paid more attention to developing my research ability and published several papers .", "relation": "xReact", "tails": [" happy", " accomplished", " proud"]}
+{"head": "During the period of studying for my degrees of master and doctor , I paid more attention to developing my research ability and published several papers .", "relation": "oEffect", "tails": [" get a good job", " get a degree", " get a job"]}
+{"head": "During the period of studying for my degrees of master and doctor , I paid more attention to developing my research ability and published several papers .", "relation": "xIntent", "tails": [" to get a good job", " to be a good researcher", " to be a good scientist"]}
+{"head": "During the period of studying for my degrees of master and doctor , I paid more attention to developing my research ability and published several papers .", "relation": "oReact", "tails": [" none", " happy", " proud"]}
+{"head": "During the period of studying for my degrees of master and doctor , I paid more attention to developing my research ability and published several papers .", "relation": "isBefore", "tails": [" to get a good job", " to get a doctorate", " to get a degree"]}
+{"head": "During the period of studying for my degrees of master and doctor , I paid more attention to developing my research ability and published several papers .", "relation": "isAfter", "tails": [" to get a good job", " to get a degree", " to get a good job."]}
+{"head": "During the period of studying for my degrees of master and doctor , I paid more attention to developing my research ability and published several papers .", "relation": "HasSubEvent", "tails": [" get a good job", " get a degree", " get a job"]}
+{"head": "During the period of studying for my degrees of master and doctor , I paid more attention to developing my research ability and published several papers .", "relation": "Causes", "tails": [" successful", " proud", " research oriented"]}
+{"head": "During the period of studying for my degrees of master and doctor , I paid more attention to developing my research ability and published several papers .", "relation": "xReason", "tails": [" to get a good job", " to get a good job.", " to get a degree"]}
+{"head": "Discipline", "relation": "ObjectUse", "tails": [" discipline a child", " punish someone", " punish someone for something"]}
+{"head": "Discipline", "relation": "AtLocation", "tails": [" school", " discipline book", " classroom"]}
+{"head": "Discipline", "relation": "CapableOf", "tails": [" discipline children", " discipline child", " discipline"]}
+{"head": "Discipline", "relation": "HasProperty", "tails": [" disciplined", " disciplined people", " discipline"]}
+{"head": "Discipline", "relation": "MadeUpOf", "tails": [" discipline", " discipline rod", " discipline system"]}
+{"head": "Discipline", "relation": "NotDesires", "tails": [" get in trouble", " discipline", " get punished"]}
+{"head": "Discipline", "relation": "Desires", "tails": [" discipline", " have a good time", " discipline of others"]}
+{"head": "Chinese Villages", "relation": "ObjectUse", "tails": [" live in", " have a place to live", " to live in"]}
+{"head": "Chinese Villages", "relation": "AtLocation", "tails": [" countryside", " city", " town"]}
+{"head": "Chinese Villages", "relation": "CapableOf", "tails": [" live in", " live in villages", " learn to speak Chinese"]}
+{"head": "Chinese Villages", "relation": "HasProperty", "tails": [" one of the world's most beautiful places", " found in China", " one of the world's most famous cultures"]}
+{"head": "Chinese Villages", "relation": "MadeUpOf", "tails": [" Chinese villages", " Chinese village", " Chinese name"]}
+{"head": "Chinese Villages", "relation": "NotDesires", "tails": [" live in", " have to live in", " live in village"]}
+{"head": "Chinese Villages", "relation": "Desires", "tails": [" to live in", " live in", " to live in."]}
+{"head": "Chinese Reform", "relation": "ObjectUse", "tails": [" learn new things", " learn from", " learn about China"]}
+{"head": "Chinese Reform", "relation": "AtLocation", "tails": [" reformist movement", " reform movement", " school"]}
+{"head": "Chinese Reform", "relation": "CapableOf", "tails": [" learn new things", " learn new language", " learn about new things"]}
+{"head": "Chinese Reform", "relation": "HasProperty", "tails": [" Chinese government", " reform", " important to China"]}
+{"head": "Chinese Reform", "relation": "MadeUpOf", "tails": [" reform", " Chinese law", " Chinese language"]}
+{"head": "Chinese Reform", "relation": "NotDesires", "tails": [" learn new things", " learn new language", " learn new things from"]}
+{"head": "Chinese Reform", "relation": "Desires", "tails": [" learn new things", " learn new language", " learn about new things"]}
+{"head": "Chinese Publish Administration", "relation": "ObjectUse", "tails": [" write a book", " publish a book", " get a job"]}
+{"head": "Chinese Publish Administration", "relation": "AtLocation", "tails": [" office building", " book store", " newspaper"]}
+{"head": "Chinese Publish Administration", "relation": "CapableOf", "tails": [" write a book", " write book", " publish book"]}
+{"head": "Chinese Publish Administration", "relation": "HasProperty", "tails": [" published in newspapers", " published in China", " published in Chinese newspapers"]}
+{"head": "Chinese Publish Administration", "relation": "MadeUpOf", "tails": [" book", " paper", " Chinese word"]}
+{"head": "Chinese Publish Administration", "relation": "NotDesires", "tails": [" have to pay for it", " have to pay fees", " have to pay for the service"]}
+{"head": "Chinese Publish Administration", "relation": "Desires", "tails": [" to publish a book", " to make money", " to publish a book."]}
+{"head": "Chinese Political Participation", "relation": "ObjectUse", "tails": [" participate in political process", " participate in politics", " have a voice in politics"]}
+{"head": "Chinese Political Participation", "relation": "AtLocation", "tails": [" political party", " political parties", " Chinese political party"]}
+{"head": "Chinese Political Participation", "relation": "CapableOf", "tails": [" participate in political process", " participate in politics", " vote in election"]}
+{"head": "Chinese Political Participation", "relation": "HasProperty", "tails": [" involved in politics", " involved in political process", " Chinese political participation"]}
+{"head": "Chinese Political Participation", "relation": "MadeUpOf", "tails": [" political party", " Chinese language", " Chinese political party"]}
+{"head": "Chinese Political Participation", "relation": "NotDesires", "tails": [" Chinese people to participate in politics", " Chinese people to participate in the political process", " Chinese people to participate in political process"]}
+{"head": "Chinese Political Participation", "relation": "Desires", "tails": [" participate in politics", " participate in political process", " have a voice"]}
+{"head": "Chinese Administration Reform", "relation": "ObjectUse", "tails": [" learn new things", " learn from", " learn about the government"]}
+{"head": "Chinese Administration Reform", "relation": "AtLocation", "tails": [" government", " government building", " government office"]}
+{"head": "Chinese Administration Reform", "relation": "CapableOf", "tails": [" learn new things", " learn new laws", " learn new rules"]}
+{"head": "Chinese Administration Reform", "relation": "HasProperty", "tails": [" Chinese government", " Chinese government reform", " important for China"]}
+{"head": "Chinese Administration Reform", "relation": "MadeUpOf", "tails": [" reform", " Chinese government", " Chinese law"]}
+{"head": "Chinese Administration Reform", "relation": "NotDesires", "tails": [" learn new things", " learn new skills", " Chinese government to reform"]}
+{"head": "Chinese Administration Reform", "relation": "Desires", "tails": [" learn new things", " reform of government", " reform of society"]}
+{"head": "China Youth Daily", "relation": "ObjectUse", "tails": [" read in the morning", " get information from", " get information"]}
+{"head": "China Youth Daily", "relation": "AtLocation", "tails": [" newspaper", " magazine", " newspaper rack"]}
+{"head": "China Youth Daily", "relation": "CapableOf", "tails": [" read news stories", " read newspaper", " read news articles"]}
+{"head": "China Youth Daily", "relation": "HasProperty", "tails": [" found in newspapers", " found in newspapers and magazines", " found in newspaper rack"]}
+{"head": "China Youth Daily", "relation": "MadeUpOf", "tails": [" newspaper", " news", " magazine"]}
+{"head": "China Youth Daily", "relation": "NotDesires", "tails": [" none", " read in the morning", " get information from"]}
+{"head": "China Youth Daily", "relation": "Desires", "tails": [" to be informed", " none", " to inform people"]}
+{"head": "Bribery Cases", "relation": "ObjectUse", "tails": [" make a paper airplane", " make a paper airplane.", " hide money in"]}
+{"head": "Bribery Cases", "relation": "AtLocation", "tails": [" jail", " prison", " case file"]}
+{"head": "Bribery Cases", "relation": "CapableOf", "tails": [" get arrested", " bribe someone", " make money"]}
+{"head": "Bribery Cases", "relation": "HasProperty", "tails": [" made up of evidence", " found in jail", " made up of many things"]}
+{"head": "Bribery Cases", "relation": "MadeUpOf", "tails": [" case number", " case file", " bribe"]}
+{"head": "Bribery Cases", "relation": "NotDesires", "tails": [" get arrested", " get caught", " make money"]}
+{"head": "Bribery Cases", "relation": "Desires", "tails": [" make money", " to get justice", " to get a bribe"]}
+{"head": "After attending Nanjing University , I never give up writing .", "relation": "xAttr", "tails": [" creative", " determined", " educated"]}
+{"head": "After attending Nanjing University , I never give up writing .", "relation": "xWant", "tails": [" to write a novel", " to write a book", " to continue writing"]}
+{"head": "After attending Nanjing University , I never give up writing .", "relation": "xNeed", "tails": [" to have a passion for writing", " to study hard", " to have a lot of free time"]}
+{"head": "After attending Nanjing University , I never give up writing .", "relation": "xEffect", "tails": [" becomes a writer", " gets a degree", " gets a good grade"]}
+{"head": "After attending Nanjing University , I never give up writing .", "relation": "HinderedBy", "tails": [" after graduating from university", " after graduating from college", " after graduating from school"]}
+{"head": "After attending Nanjing University , I never give up writing .", "relation": "oWant", "tails": [" to teach me how to write", " to teach me", " to teach me how to write."]}
+{"head": "After attending Nanjing University , I never give up writing .", "relation": "xReact", "tails": [" accomplished", " happy", " proud"]}
+{"head": "After attending Nanjing University , I never give up writing .", "relation": "oEffect", "tails": [" none", " get a good job", " get a degree"]}
+{"head": "After attending Nanjing University , I never give up writing .", "relation": "xIntent", "tails": [" to be a writer", " to write a novel", " to be creative"]}
+{"head": "After attending Nanjing University , I never give up writing .", "relation": "oReact", "tails": [" none", " happy", " educated"]}
+{"head": "After attending Nanjing University , I never give up writing .", "relation": "isBefore", "tails": [" to write a novel", " after graduating from university", " to write a book"]}
+{"head": "After attending Nanjing University , I never give up writing .", "relation": "isAfter", "tails": [" to write a novel", " after graduating from university", " to write a book"]}
+{"head": "After attending Nanjing University , I never give up writing .", "relation": "HasSubEvent", "tails": [" write a novel", " get a degree", " get a job"]}
+{"head": "After attending Nanjing University , I never give up writing .", "relation": "Causes", "tails": [" after graduating from university", " after graduating from college", " after graduating from school"]}
+{"head": "After attending Nanjing University , I never give up writing .", "relation": "xReason", "tails": [" after graduating from university", " to write a novel", " to write a book"]}

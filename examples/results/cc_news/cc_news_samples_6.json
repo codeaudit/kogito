@@ -1,0 +1,174 @@
+{"head": "year", "relation": "ObjectUse", "tails": [" have a birthday", " get a promotion", " have a good time"]}
+{"head": "year", "relation": "AtLocation", "tails": [" year", " office building", " school"]}
+{"head": "year", "relation": "CapableOf", "tails": [" pay bills on time", " pay rent", " pay taxes"]}
+{"head": "year", "relation": "HasProperty", "tails": [" year", " one year", " many years"]}
+{"head": "year", "relation": "MadeUpOf", "tails": [" year", " number of years", " number of days"]}
+{"head": "year", "relation": "NotDesires", "tails": [" year", " year to end", " have to pay bills"]}
+{"head": "year", "relation": "Desires", "tails": [" year", " year of life", " year to live"]}
+{"head": "to spot", "relation": "HinderedBy", "tails": [" to spot", " to spot ", " to spot something"]}
+{"head": "to spot", "relation": "isBefore", "tails": [" to spot", " to spot something", " to spot a person"]}
+{"head": "to spot", "relation": "isAfter", "tails": [" to spot something", " to spot", " to spot a person"]}
+{"head": "to spot", "relation": "HasSubEvent", "tails": [" to spot", " to spot something", " look around"]}
+{"head": "to spot", "relation": "Causes", "tails": [" to spot", " to spot something", " to spot "]}
+{"head": "to spot", "relation": "xReason", "tails": [" to spot something", " to spot", " to spot person"]}
+{"head": "to pamper", "relation": "HinderedBy", "tails": [" to pamper", " to pamper them", " to pamper themselves"]}
+{"head": "to pamper", "relation": "isBefore", "tails": [" to pamper", " to pamper them", " to pamper themselves"]}
+{"head": "to pamper", "relation": "isAfter", "tails": [" to make them feel better", " to make them feel good", " to take care of themself"]}
+{"head": "to pamper", "relation": "HasSubEvent", "tails": [" to pamper", " to pamper them", " to pamper themselves"]}
+{"head": "to pamper", "relation": "Causes", "tails": [" to relax", " to be nice", " to be happy"]}
+{"head": "to pamper", "relation": "xReason", "tails": [" to pamper", " to pamper someone", " to pamper themselves"]}
+{"head": "to look", "relation": "HinderedBy", "tails": [" to look", " to look at something", " to look  at something"]}
+{"head": "to look", "relation": "isBefore", "tails": [" to look", " to look at something", " to look at"]}
+{"head": "to look", "relation": "isAfter", "tails": [" to look at something", " look at something", " to look at"]}
+{"head": "to look", "relation": "HasSubEvent", "tails": [" to look", " to look at something", " look at something"]}
+{"head": "to look", "relation": "Causes", "tails": [" to look", " to look at something", " to look at"]}
+{"head": "to look", "relation": "xReason", "tails": [" to look", " to look at something", " to look at"]}
+{"head": "to head", "relation": "HinderedBy", "tails": [" to head", " to head ", " to head  to head"]}
+{"head": "to head", "relation": "isBefore", "tails": [" to head", " to head to destination", " to head back home"]}
+{"head": "to head", "relation": "isAfter", "tails": [" to head", " head", " head to head"]}
+{"head": "to head", "relation": "HasSubEvent", "tails": [" get out of car", " get in car", " to head"]}
+{"head": "to head", "relation": "Causes", "tails": [" to head", " get out of car", " to head  to head"]}
+{"head": "to head", "relation": "xReason", "tails": [" to head", " to head  to head", " to head  to head "]}
+{"head": "to get", "relation": "HinderedBy", "tails": [" to get ", " to get", " to get  to get "]}
+{"head": "to get", "relation": "isBefore", "tails": [" to get", " to get ", " to get  to get "]}
+{"head": "to get", "relation": "isAfter", "tails": [" to get", " to get something", " to get "]}
+{"head": "to get", "relation": "HasSubEvent", "tails": [" to get", " to get ", " to get  to get"]}
+{"head": "to get", "relation": "Causes", "tails": [" to get", " to get  to get ", " to get "]}
+{"head": "to get", "relation": "xReason", "tails": [" to get", " to get something", " to get "]}
+{"head": "spa", "relation": "ObjectUse", "tails": [" get a pedicure", " get a tan", " get a massage"]}
+{"head": "spa", "relation": "AtLocation", "tails": [" spa", " bathtub", " hotel"]}
+{"head": "spa", "relation": "CapableOf", "tails": [" get massage", " wash hair", " wash hands"]}
+{"head": "spa", "relation": "HasProperty", "tails": [" hot tub", " spa", " found in hotel"]}
+{"head": "spa", "relation": "MadeUpOf", "tails": [" spa", " bathtub", " massage room"]}
+{"head": "spa", "relation": "NotDesires", "tails": [" get sunburned", " get sunburnt", " get sunburn"]}
+{"head": "spa", "relation": "Desires", "tails": [" get fresh air", " have a good time", " have a good time at"]}
+{"head": "morning", "relation": "ObjectUse", "tails": [" get out of bed", " wake up", " get out of bed in"]}
+{"head": "morning", "relation": "AtLocation", "tails": [" morning", " bed", " breakfast"]}
+{"head": "morning", "relation": "CapableOf", "tails": [" wake up", " get out of bed", " wake up early"]}
+{"head": "morning", "relation": "HasProperty", "tails": [" found in early morning", " found in morning", " morning"]}
+{"head": "morning", "relation": "MadeUpOf", "tails": [" morning", " wake up", " breakfast"]}
+{"head": "morning", "relation": "NotDesires", "tails": [" wake up", " morning sickness", " wake up early"]}
+{"head": "morning", "relation": "Desires", "tails": [" wake up", " wake up early", " wake up in"]}
+{"head": "model", "relation": "ObjectUse", "tails": [" show off to friends", " show off", " show off to others"]}
+{"head": "model", "relation": "AtLocation", "tails": [" car", " car show", " model"]}
+{"head": "model", "relation": "CapableOf", "tails": [" model for fashion magazine", " model for other models", " model for other people"]}
+{"head": "model", "relation": "HasProperty", "tails": [" found in car showroom", " one of the most popular models", " one of many models"]}
+{"head": "model", "relation": "MadeUpOf", "tails": [" model", " model number", " model name"]}
+{"head": "model", "relation": "NotDesires", "tails": [" model", " model car", " have to buy"]}
+{"head": "model", "relation": "Desires", "tails": [" show off", " model", " model car"]}
+{"head": "actress", "relation": "ObjectUse", "tails": [" act in movie", " act in a movie", " act in a play"]}
+{"head": "actress", "relation": "AtLocation", "tails": [" movie", " film", " theatre"]}
+{"head": "actress", "relation": "CapableOf", "tails": [" act in movie", " act in play", " act in film"]}
+{"head": "actress", "relation": "HasProperty", "tails": [" act in movie", " act in play", " acting role"]}
+{"head": "actress", "relation": "MadeUpOf", "tails": [" act", " film", " play"]}
+{"head": "actress", "relation": "NotDesires", "tails": [" act in movie", " act in play", " act on stage"]}
+{"head": "actress", "relation": "Desires", "tails": [" act in movie", " act in play", " act in movies"]}
+{"head": "The 18-year-old actress and model was spotted heading to a spa on Monday morning (April 23) in Los Angeles.", "relation": "xAttr", "tails": [" attractive", " beautiful", " fashionable"]}
+{"head": "The 18-year-old actress and model was spotted heading to a spa on Monday morning (April 23) in Los Angeles.", "relation": "xWant", "tails": [" to go to the spa", " to go to the gym", " to get a massage"]}
+{"head": "The 18-year-old actress and model was spotted heading to a spa on Monday morning (April 23) in Los Angeles.", "relation": "xNeed", "tails": [" go to the spa", " get in the car", " get ready for the day"]}
+{"head": "The 18-year-old actress and model was spotted heading to a spa on Monday morning (April 23) in Los Angeles.", "relation": "xEffect", "tails": [" get a pedicure", " gets a massage", " get a massage"]}
+{"head": "The 18-year-old actress and model was spotted heading to a spa on Monday morning (April 23) in Los Angeles.", "relation": "HinderedBy", "tails": [" the spa", " the model", " the beauty queen"]}
+{"head": "The 18-year-old actress and model was spotted heading to a spa on Monday morning (April 23) in Los Angeles.", "relation": "oWant", "tails": [" to go to the spa", " to go to a spa", " to go to the spa."]}
+{"head": "The 18-year-old actress and model was spotted heading to a spa on Monday morning (April 23) in Los Angeles.", "relation": "xReact", "tails": [" happy", " happy.", " excited"]}
+{"head": "The 18-year-old actress and model was spotted heading to a spa on Monday morning (April 23) in Los Angeles.", "relation": "oEffect", "tails": [" get a pedicure", " get a massage", " get a manicure"]}
+{"head": "The 18-year-old actress and model was spotted heading to a spa on Monday morning (April 23) in Los Angeles.", "relation": "xIntent", "tails": [" to get some fresh air", " to relax", " to get a massage"]}
+{"head": "The 18-year-old actress and model was spotted heading to a spa on Monday morning (April 23) in Los Angeles.", "relation": "oReact", "tails": [" none", " get a massage", " happy"]}
+{"head": "The 18-year-old actress and model was spotted heading to a spa on Monday morning (April 23) in Los Angeles.", "relation": "isBefore", "tails": [" get a pedicure", " get a manicure and pedicure", " get a manicure and pedicure."]}
+{"head": "The 18-year-old actress and model was spotted heading to a spa on Monday morning (April 23) in Los Angeles.", "relation": "isAfter", "tails": [" get a pedicure", " get a massage", " get a manicure"]}
+{"head": "The 18-year-old actress and model was spotted heading to a spa on Monday morning (April 23) in Los Angeles.", "relation": "HasSubEvent", "tails": [" get a pedicure", " get a massage", " get a manicure"]}
+{"head": "The 18-year-old actress and model was spotted heading to a spa on Monday morning (April 23) in Los Angeles.", "relation": "Causes", "tails": [" happy", " beautiful", " attractive"]}
+{"head": "The 18-year-old actress and model was spotted heading to a spa on Monday morning (April 23) in Los Angeles.", "relation": "xReason", "tails": [" get a pedicure", " get a massage", " get a manicure"]}
+{"head": "Patterned Dress", "relation": "ObjectUse", "tails": [" wear to a wedding", " wear to a party", " wear to the wedding"]}
+{"head": "Patterned Dress", "relation": "AtLocation", "tails": [" patterned dress", " clothing store", " patterned fabric"]}
+{"head": "Patterned Dress", "relation": "CapableOf", "tails": [" wear to party", " look nice", " wear to work"]}
+{"head": "Patterned Dress", "relation": "HasProperty", "tails": [" patterned", " patterned fabric", " worn on legs"]}
+{"head": "Patterned Dress", "relation": "MadeUpOf", "tails": [" pattern", " patterned fabric", " patterned"]}
+{"head": "Patterned Dress", "relation": "NotDesires", "tails": [" patterned dress", " patterned fabric", " patterned"]}
+{"head": "Patterned Dress", "relation": "Desires", "tails": [" patterned dress", " patterned clothes", " patterned clothing"]}
+{"head": "PHOTOS:\u2026", "relation": "xAttr", "tails": [" talented", " artistic", " creative"]}
+{"head": "PHOTOS:\u2026", "relation": "xWant", "tails": [" to show it off", " to show off", " to take pictures of themselves"]}
+{"head": "PHOTOS:\u2026", "relation": "xNeed", "tails": [" to take pictures", " to have a camera", " to take pictures of themselves"]}
+{"head": "PHOTOS:\u2026", "relation": "xEffect", "tails": [" none", " get a new job", " get a tattoo"]}
+{"head": "PHOTOS:\u2026", "relation": "HinderedBy", "tails": [" photos", " pictures", " photos are not allowed"]}
+{"head": "PHOTOS:\u2026", "relation": "oWant", "tails": [" to look at the pictures", " none", " to look at the photos"]}
+{"head": "PHOTOS:\u2026", "relation": "xReact", "tails": [" happy", " proud", " happy."]}
+{"head": "PHOTOS:\u2026", "relation": "oEffect", "tails": [" none", " have a good time", " get a new job"]}
+{"head": "PHOTOS:\u2026", "relation": "xIntent", "tails": [" to show off", " to show off their work", " to show off their body"]}
+{"head": "PHOTOS:\u2026", "relation": "oReact", "tails": [" none", " happy", " happy."]}
+{"head": "PHOTOS:\u2026", "relation": "isBefore", "tails": [" get a new job", " photos", " get a new one"]}
+{"head": "PHOTOS:\u2026", "relation": "isAfter", "tails": [" photos", " pictures", " photographs"]}
+{"head": "PHOTOS:\u2026", "relation": "HasSubEvent", "tails": [" look at", " look at the pictures", " see what they did"]}
+{"head": "PHOTOS:\u2026", "relation": "Causes", "tails": [" photos", " pictures", " photographs"]}
+{"head": "PHOTOS:\u2026", "relation": "xReason", "tails": [" none", " photos", " pictures"]}
+{"head": "PHOTOS", "relation": "ObjectUse", "tails": [" use as a prop in a play", " use as a prop in a movie", " use as a prop in a costume"]}
+{"head": "PHOTOS", "relation": "AtLocation", "tails": [" photo album", " photo albums", " photo book"]}
+{"head": "PHOTOS", "relation": "CapableOf", "tails": [" take picture", " take pictures of", " take pictures"]}
+{"head": "PHOTOS", "relation": "HasProperty", "tails": [" found in many places", " found in museum", " found in many different places"]}
+{"head": "PHOTOS", "relation": "MadeUpOf", "tails": [" photo album", " picture frame", " photo frame"]}
+{"head": "PHOTOS", "relation": "NotDesires", "tails": [" have to look at", " see what they did", " see what's inside"]}
+{"head": "PHOTOS", "relation": "Desires", "tails": [" take pictures of", " take a picture of", " take a picture"]}
+{"head": "Monday morning", "relation": "ObjectUse", "tails": [" wake up", " sleep in", " wake up early"]}
+{"head": "Monday morning", "relation": "AtLocation", "tails": [" office building", " school", " morning"]}
+{"head": "Monday morning", "relation": "CapableOf", "tails": [" wake up", " wake up early", " sleep in"]}
+{"head": "Monday morning", "relation": "HasProperty", "tails": [" morning", " found in church", " found in kitchen"]}
+{"head": "Monday morning", "relation": "MadeUpOf", "tails": [" morning", " breakfast", " wake up"]}
+{"head": "Monday morning", "relation": "NotDesires", "tails": [" wake up", " wake up early", " wake up late"]}
+{"head": "Monday morning", "relation": "Desires", "tails": [" wake up", " wake up early", " sleep in"]}
+{"head": "Los Angeles", "relation": "ObjectUse", "tails": [" Los Angeles", " live in", " Los Angeles."]}
+{"head": "Los Angeles", "relation": "AtLocation", "tails": [" city", " suburbia", " cities"]}
+{"head": "Los Angeles", "relation": "CapableOf", "tails": [" live in", " move to", " travel to"]}
+{"head": "Los Angeles", "relation": "HasProperty", "tails": [" Los Angeles", " Los Angeles.", " Los Angeles, California"]}
+{"head": "Los Angeles", "relation": "MadeUpOf", "tails": [" Los Angeles", " Los Angeles, California", " Los Angeles."]}
+{"head": "Los Angeles", "relation": "NotDesires", "tails": [" Los Angeles", " Los Angeles.", " cities to be in"]}
+{"head": "Los Angeles", "relation": "Desires", "tails": [" Los Angeles", " live in", " Los Angeles."]}
+{"head": "Lily-Rose Depp is getting her pampering on!", "relation": "xAttr", "tails": [" indulgent", " happy", " beautiful"]}
+{"head": "Lily-Rose Depp is getting her pampering on!", "relation": "xWant", "tails": [" to go to the spa", " to relax", " to go to a spa"]}
+{"head": "Lily-Rose Depp is getting her pampering on!", "relation": "xNeed", "tails": [" to go to the spa", " to go to the salon", " to go to a spa"]}
+{"head": "Lily-Rose Depp is getting her pampering on!", "relation": "xEffect", "tails": [" gets a manicure", " gets a massage", " has a good time"]}
+{"head": "Lily-Rose Depp is getting her pampering on!", "relation": "HinderedBy", "tails": [" They don't have any money.", " They don't have the money.", " They don't have a car."]}
+{"head": "Lily-Rose Depp is getting her pampering on!", "relation": "oWant", "tails": [" to go to the spa", " to have a good time", " to go to a spa"]}
+{"head": "Lily-Rose Depp is getting her pampering on!", "relation": "xReact", "tails": [" happy", " happy.", " satisfied"]}
+{"head": "Lily-Rose Depp is getting her pampering on!", "relation": "oEffect", "tails": [" none", " gets a manicure", " gets a massage"]}
+{"head": "Lily-Rose Depp is getting her pampering on!", "relation": "xIntent", "tails": [" to feel good", " to look good", " to look nice"]}
+{"head": "Lily-Rose Depp is getting her pampering on!", "relation": "oReact", "tails": [" none", " happy", " happy."]}
+{"head": "Lily-Rose Depp is getting her pampering on!", "relation": "isBefore", "tails": [" Loses weight", " Loses weight.", " Loses money"]}
+{"head": "Lily-Rose Depp is getting her pampering on!", "relation": "isAfter", "tails": [" Loses weight from the pampering.", " Loses weight from the pampering", " Loses weight from being pampered."]}
+{"head": "Lily-Rose Depp is getting her pampering on!", "relation": "HasSubEvent", "tails": [" get a manicure", " get a massage", " to get a manicure"]}
+{"head": "Lily-Rose Depp is getting her pampering on!", "relation": "Causes", "tails": [" happy", " LOVED", " lovable"]}
+{"head": "Lily-Rose Depp is getting her pampering on!", "relation": "xReason", "tails": [" Loses weight", " Loses weight.", " get a massage"]}
+{"head": "Lily-Rose Depp Looks Pretty in a Patterned Dress While Heading to the Spa!", "relation": "xAttr", "tails": [" fashionable", " stylish", " beautiful"]}
+{"head": "Lily-Rose Depp Looks Pretty in a Patterned Dress While Heading to the Spa!", "relation": "xWant", "tails": [" to go to the spa", " to get a massage", " to go to the spa."]}
+{"head": "Lily-Rose Depp Looks Pretty in a Patterned Dress While Heading to the Spa!", "relation": "xNeed", "tails": [" to go to the spa", " to wear a patterned dress", " to go to the spa."]}
+{"head": "Lily-Rose Depp Looks Pretty in a Patterned Dress While Heading to the Spa!", "relation": "xEffect", "tails": [" gets a massage", " get a massage", " gets a tan"]}
+{"head": "Lily-Rose Depp Looks Pretty in a Patterned Dress While Heading to the Spa!", "relation": "HinderedBy", "tails": [" They have to go to work.", " They have to go to the dentist.", " Loses weight."]}
+{"head": "Lily-Rose Depp Looks Pretty in a Patterned Dress While Heading to the Spa!", "relation": "oWant", "tails": [" to go to the spa", " to go to the spa.", " to get a massage"]}
+{"head": "Lily-Rose Depp Looks Pretty in a Patterned Dress While Heading to the Spa!", "relation": "xReact", "tails": [" happy", " happy.", " pretty"]}
+{"head": "Lily-Rose Depp Looks Pretty in a Patterned Dress While Heading to the Spa!", "relation": "oEffect", "tails": [" get a massage", " get a manicure", " gets a massage"]}
+{"head": "Lily-Rose Depp Looks Pretty in a Patterned Dress While Heading to the Spa!", "relation": "xIntent", "tails": [" to relax", " to look good", " to look nice"]}
+{"head": "Lily-Rose Depp Looks Pretty in a Patterned Dress While Heading to the Spa!", "relation": "oReact", "tails": [" none", " happy", " happy."]}
+{"head": "Lily-Rose Depp Looks Pretty in a Patterned Dress While Heading to the Spa!", "relation": "isBefore", "tails": [" Loses weight", " Loses weight.", " Loses weight from exercise"]}
+{"head": "Lily-Rose Depp Looks Pretty in a Patterned Dress While Heading to the Spa!", "relation": "isAfter", "tails": [" Loses weight", " get a massage", " Loses weight."]}
+{"head": "Lily-Rose Depp Looks Pretty in a Patterned Dress While Heading to the Spa!", "relation": "HasSubEvent", "tails": [" get a massage", " get a manicure", " look at the mirror"]}
+{"head": "Lily-Rose Depp Looks Pretty in a Patterned Dress While Heading to the Spa!", "relation": "Causes", "tails": [" happy", " beautiful", " pretty"]}
+{"head": "Lily-Rose Depp Looks Pretty in a Patterned Dress While Heading to the Spa!", "relation": "xReason", "tails": [" Loses weight", " Loses weight.", " Loses weight from exercise"]}
+{"head": "Lily Rose Depp", "relation": "ObjectUse", "tails": [" play in a movie", " play in the movie", " play in a play"]}
+{"head": "Lily Rose Depp", "relation": "AtLocation", "tails": [" movie", " movies", " film"]}
+{"head": "Lily Rose Depp", "relation": "CapableOf", "tails": [" go on a date", " go to the movies", " go on a date with"]}
+{"head": "Lily Rose Depp", "relation": "HasProperty", "tails": [" none", " lovable", " Loved"]}
+{"head": "Lily Rose Depp", "relation": "MadeUpOf", "tails": [" lily", " locket", " movie star"]}
+{"head": "Lily Rose Depp", "relation": "NotDesires", "tails": [" none", " Loses her voice.", " Loses her voice"]}
+{"head": "Lily Rose Depp", "relation": "Desires", "tails": [" none", " to be loved", " to have fun"]}
+{"head": "Dress", "relation": "ObjectUse", "tails": [" wear to the party", " wear to the event", " wear to the wedding"]}
+{"head": "Dress", "relation": "AtLocation", "tails": [" dresser", " dress shop", " closet"]}
+{"head": "Dress", "relation": "CapableOf", "tails": [" look nice", " look good", " wear to party"]}
+{"head": "Dress", "relation": "HasProperty", "tails": [" worn on legs", " worn on head", " worn by person"]}
+{"head": "Dress", "relation": "MadeUpOf", "tails": [" dress code", " dress", " look nice"]}
+{"head": "Dress", "relation": "NotDesires", "tails": [" look good", " look nice", " wear to party"]}
+{"head": "Dress", "relation": "Desires", "tails": [" look good", " look nice", " wear to party"]}
+{"head": "18 year old actress", "relation": "ObjectUse", "tails": [" get a part in a movie", " make a living as an actress", " get a part in a play"]}
+{"head": "18 year old actress", "relation": "AtLocation", "tails": [" movie", " theater", " movie set"]}
+{"head": "18 year old actress", "relation": "CapableOf", "tails": [" act in plays", " act in movie", " act in movies"]}
+{"head": "18 year old actress", "relation": "HasProperty", "tails": [" 18 years old", " made into a movie", " young"]}
+{"head": "18 year old actress", "relation": "MadeUpOf", "tails": [" 18 years old", " 18 year old", " 18 years of age"]}
+{"head": "18 year old actress", "relation": "NotDesires", "tails": [" make a lot of money", " get a part in a movie", " make a lot of money."]}
+{"head": "18 year old actress", "relation": "Desires", "tails": [" to be an actress", " to be famous", " to be a star"]}

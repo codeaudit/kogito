@@ -1,0 +1,152 @@
+{"head": "to stop", "relation": "HinderedBy", "tails": [" to stop", " to stop ", " to stop doing something"]}
+{"head": "to stop", "relation": "isBefore", "tails": [" to stop", " to stop doing something", " to stop the car"]}
+{"head": "to stop", "relation": "isAfter", "tails": [" to get out of the car", " to get out of the way", " to stop"]}
+{"head": "to stop", "relation": "HasSubEvent", "tails": [" to stop", " get out of the car", " get out of the way"]}
+{"head": "to stop", "relation": "Causes", "tails": [" to stop", " stop", " stop doing something"]}
+{"head": "to stop", "relation": "xReason", "tails": [" to stop", " stop doing something", " stop"]}
+{"head": "to realize", "relation": "HinderedBy", "tails": [" to realize", " to realize ", " to realize something"]}
+{"head": "to realize", "relation": "isBefore", "tails": [" to realize", " to realize what is going on", " to realize what they are doing"]}
+{"head": "to realize", "relation": "isAfter", "tails": [" to understand the situation", " to be aware", " to be aware of reality"]}
+{"head": "to realize", "relation": "HasSubEvent", "tails": [" to realize", " to realize ", " to realize  realization"]}
+{"head": "to realize", "relation": "Causes", "tails": [" to realize", " none", " to realize "]}
+{"head": "to realize", "relation": "xReason", "tails": [" to realize", " none", " to realize something"]}
+{"head": "to pick", "relation": "HinderedBy", "tails": [" to pick ", " to pick", " to pick  to pick "]}
+{"head": "to pick", "relation": "isBefore", "tails": [" to pick", " to pick ", " to pick up"]}
+{"head": "to pick", "relation": "isAfter", "tails": [" to pick the right one", " to pick the best one", " to pick"]}
+{"head": "to pick", "relation": "HasSubEvent", "tails": [" to pick  pick  pick  pick  pick  pick  pick  pick  pick", " to pick  pick  pick  pick  pick  pick  pick  pick  pick  pick", " to pick  pick  pick  pick  pick  pick  pick  pick"]}
+{"head": "to pick", "relation": "Causes", "tails": [" to pick  pick  pick  pick  pick  pick  pick  pick  pick  pick  pick", " to pick  pick  pick  pick  pick  pick  pick  pick  pick  pick ", " to pick  pick  pick  pick  pick  pick  pick  pick  pick  pick"]}
+{"head": "to pick", "relation": "xReason", "tails": [" to pick", " to pick something", " to pick the best"]}
+{"head": "to know", "relation": "HinderedBy", "tails": [" to know", " to know ", " to know  about "]}
+{"head": "to know", "relation": "isBefore", "tails": [" to know", " to know what to do", " to know what to do next"]}
+{"head": "to know", "relation": "isAfter", "tails": [" to know", " to know what is going on", " to know what to do"]}
+{"head": "to know", "relation": "HasSubEvent", "tails": [" to know", " to know ", " to know  about"]}
+{"head": "to know", "relation": "Causes", "tails": [" to know", " to know ", " to know  about"]}
+{"head": "to know", "relation": "xReason", "tails": [" to know", " to know about", " to know  about"]}
+{"head": "to feel", "relation": "HinderedBy", "tails": [" to feel", " to feel good", " to feel something"]}
+{"head": "to feel", "relation": "isBefore", "tails": [" to feel", " to feel good", " to feel something"]}
+{"head": "to feel", "relation": "isAfter", "tails": [" to feel good", " to feel", " to feel something"]}
+{"head": "to feel", "relation": "HasSubEvent", "tails": [" to feel", " to feel good", " to feel  good"]}
+{"head": "to feel", "relation": "Causes", "tails": [" to feel", " to feel good", " to feel something"]}
+{"head": "to feel", "relation": "xReason", "tails": [" to feel", " to feel good", " to feel something"]}
+{"head": "to begin", "relation": "HinderedBy", "tails": [" to begin", " to start", " to begin "]}
+{"head": "to begin", "relation": "isBefore", "tails": [" to begin", " to start", " to get started"]}
+{"head": "to begin", "relation": "isAfter", "tails": [" to get started", " to start", " to begin"]}
+{"head": "to begin", "relation": "HasSubEvent", "tails": [" to begin", " to start", " to begin "]}
+{"head": "to begin", "relation": "Causes", "tails": [" to begin", " to start", " to begin "]}
+{"head": "to begin", "relation": "xReason", "tails": [" to begin", " to start", " to get started"]}
+{"head": "to apologize", "relation": "HinderedBy", "tails": [" to apologize", " to apologize ", " to apologize to someone"]}
+{"head": "to apologize", "relation": "isBefore", "tails": [" to make amends", " to apologize", " to apologize to the other person"]}
+{"head": "to apologize", "relation": "isAfter", "tails": [" to make amends", " to be forgiven", " to apologize to the person"]}
+{"head": "to apologize", "relation": "HasSubEvent", "tails": [" to apologize", " apologize", " apologize to person"]}
+{"head": "to apologize", "relation": "Causes", "tails": [" to apologize", " apologize", " apologize to person"]}
+{"head": "to apologize", "relation": "xReason", "tails": [" to make amends", " to apologize", " to be forgiven"]}
+{"head": "new boy", "relation": "ObjectUse", "tails": [" make new friends", " get a date", " get a job"]}
+{"head": "new boy", "relation": "AtLocation", "tails": [" boy's house", " new school", " boy's room"]}
+{"head": "new boy", "relation": "CapableOf", "tails": [" change clothes", " new job", " change diapers"]}
+{"head": "new boy", "relation": "HasProperty", "tails": [" new job", " new", " one of many"]}
+{"head": "new boy", "relation": "MadeUpOf", "tails": [" new job", " new girl", " boy's hand"]}
+{"head": "new boy", "relation": "NotDesires", "tails": [" new job", " new friends", " have to deal with"]}
+{"head": "new boy", "relation": "Desires", "tails": [" new job", " new friends", " have fun"]}
+{"head": "class", "relation": "ObjectUse", "tails": [" learn a new skill", " learn new things", " learn a new language"]}
+{"head": "class", "relation": "AtLocation", "tails": [" classroom", " school", " class room"]}
+{"head": "class", "relation": "CapableOf", "tails": [" learn new things", " learn new material", " learn about subject"]}
+{"head": "class", "relation": "HasProperty", "tails": [" taught by teacher", " found in college", " found in school"]}
+{"head": "class", "relation": "MadeUpOf", "tails": [" classroom", " class", " class room"]}
+{"head": "class", "relation": "NotDesires", "tails": [" learn new things", " learn something new", " learn new information"]}
+{"head": "class", "relation": "Desires", "tails": [" learn new things", " learn new skills", " learn about subject"]}
+{"head": "bully", "relation": "ObjectUse", "tails": [" bully someone", " bully someone else", " bully"]}
+{"head": "bully", "relation": "AtLocation", "tails": [" school", " bully", " school yard"]}
+{"head": "bully", "relation": "CapableOf", "tails": [" bully", " bully person", " fight with"]}
+{"head": "bully", "relation": "HasProperty", "tails": [" mean", " hurtful", " bad"]}
+{"head": "bully", "relation": "MadeUpOf", "tails": [" bully", " mean", " fight"]}
+{"head": "bully", "relation": "NotDesires", "tails": [" bully", " bully person", " mean to person"]}
+{"head": "bully", "relation": "Desires", "tails": [" bully", " bully someone", " bully person"]}
+{"head": "boy", "relation": "ObjectUse", "tails": [" play with", " boy to play with", " have a good time"]}
+{"head": "boy", "relation": "AtLocation", "tails": [" boy's house", " boy's mouth", " boy's hand"]}
+{"head": "boy", "relation": "CapableOf", "tails": [" dress up for halloween", " dress up for halloween party", " dress up for christmas"]}
+{"head": "boy", "relation": "HasProperty", "tails": [" boy", " one of two sexes", " one of many children"]}
+{"head": "boy", "relation": "MadeUpOf", "tails": [" boy", " boy's hand", " boy's hands"]}
+{"head": "boy", "relation": "NotDesires", "tails": [" boy to do bad things", " boy to be boy", " boy to do wrong"]}
+{"head": "boy", "relation": "Desires", "tails": [" boy to love", " boy to marry", " have fun"]}
+{"head": "Then a bully began picking on Gina.", "relation": "xAttr", "tails": [" mean", " bullied", " bully"]}
+{"head": "Then a bully began picking on Gina.", "relation": "xWant", "tails": [" to get away from the bully", " to get away from the bullies", " to get away from the bully."]}
+{"head": "Then a bully began picking on Gina.", "relation": "xNeed", "tails": [" get in a fight", " get into a fight", " none"]}
+{"head": "Then a bully began picking on Gina.", "relation": "xEffect", "tails": [" gets yelled at", " gets bullied", " gets punched"]}
+{"head": "Then a bully began picking on Gina.", "relation": "HinderedBy", "tails": [" then the bully starts picking on someone else.", " then the bully starts picking on someone else", " then the bully starts picking on other people."]}
+{"head": "Then a bully began picking on Gina.", "relation": "oWant", "tails": [" to make fun of her", " to get away from the bully", " to make fun of them"]}
+{"head": "Then a bully began picking on Gina.", "relation": "xReact", "tails": [" sad", " bullied", " mean"]}
+{"head": "Then a bully began picking on Gina.", "relation": "oEffect", "tails": [" none", " get in trouble", " they get in trouble"]}
+{"head": "Then a bully began picking on Gina.", "relation": "xIntent", "tails": [" none", " to be mean", " to get attention"]}
+{"head": "Then a bully began picking on Gina.", "relation": "oReact", "tails": [" none", " hurt", " bullied"]}
+{"head": "Then a bully began picking on Gina.", "relation": "isBefore", "tails": [" PersonY tells PersonY to stop picking on PersonY.", " PersonY tells PersonY to stop picking on PersonY", " PersonY tells PersonY that PersonY is a bully."]}
+{"head": "Then a bully began picking on Gina.", "relation": "isAfter", "tails": [" PersonX is a bully.", " PersonY is a bully.", " PersonX is a bully"]}
+{"head": "Then a bully began picking on Gina.", "relation": "HasSubEvent", "tails": [" get in trouble", " get in trouble for picking on someone", " get in trouble for picking on someone else"]}
+{"head": "Then a bully began picking on Gina.", "relation": "Causes", "tails": [" then the bully gets mad at her.", " then the bully gets mad at her", " then the bully gets mad at the other person"]}
+{"head": "Then a bully began picking on Gina.", "relation": "xReason", "tails": [" they get punched in the face", " they get in a fight", " they get in trouble for being mean"]}
+{"head": "She realized she should also apologize to the new boy.", "relation": "xAttr", "tails": [" apologetic", " remorseful", " sorry"]}
+{"head": "She realized she should also apologize to the new boy.", "relation": "xWant", "tails": [" to apologize to the new boy", " apologize to the new boy", " to apologize to the new boy."]}
+{"head": "She realized she should also apologize to the new boy.", "relation": "xNeed", "tails": [" apologize to the new boy", " to have made a mistake", " to have made a mistake."]}
+{"head": "She realized she should also apologize to the new boy.", "relation": "xEffect", "tails": [" gets yelled at", " gets in trouble", " none"]}
+{"head": "She realized she should also apologize to the new boy.", "relation": "HinderedBy", "tails": [" She is too shy to speak up.", " She is too shy to say anything.", " she is a good person."]}
+{"head": "She realized she should also apologize to the new boy.", "relation": "oWant", "tails": [" to forgive her", " none", " to forgive him"]}
+{"head": "She realized she should also apologize to the new boy.", "relation": "xReact", "tails": [" apologetic", " remorseful", " sorry"]}
+{"head": "She realized she should also apologize to the new boy.", "relation": "oEffect", "tails": [" none", " they get to know each other better", " they get to know each other"]}
+{"head": "She realized she should also apologize to the new boy.", "relation": "xIntent", "tails": [" none", " to make amends", " to apologize to the new boy"]}
+{"head": "She realized she should also apologize to the new boy.", "relation": "oReact", "tails": [" none", " sad", " angry"]}
+{"head": "She realized she should also apologize to the new boy.", "relation": "isBefore", "tails": [" PersonX apologizes to PersonX.", " PersonX apologizes to the new boy.", " PersonX apologizes to PersonY."]}
+{"head": "She realized she should also apologize to the new boy.", "relation": "isAfter", "tails": [" PersonX apologizes to PersonY.", " PersonX apologizes to the new boy.", " PersonX apologizes to PersonX."]}
+{"head": "She realized she should also apologize to the new boy.", "relation": "HasSubEvent", "tails": [" apologize to the new boy", " apologize to new boy", " apologize to the new boy."]}
+{"head": "She realized she should also apologize to the new boy.", "relation": "Causes", "tails": [" she feels bad for her behavior", " she feels bad about it", " she feels bad for her behavior."]}
+{"head": "She realized she should also apologize to the new boy.", "relation": "xReason", "tails": [" none", " she feels bad", " she feels bad."]}
+{"head": "She now knew how the boy felt.", "relation": "xAttr", "tails": [" understanding", " emotional", " sad"]}
+{"head": "She now knew how the boy felt.", "relation": "xWant", "tails": [" to help the boy", " to help him", " to help the boy."]}
+{"head": "She now knew how the boy felt.", "relation": "xNeed", "tails": [" none", " to know what the boy is going through", " to know what the boy is feeling"]}
+{"head": "She now knew how the boy felt.", "relation": "xEffect", "tails": [" none", " she gets to know the boy better", " she gets to know the boy"]}
+{"head": "She now knew how the boy felt.", "relation": "HinderedBy", "tails": [" she was able to understand the boy's feelings", " she was able to understand the boy's feelings.", " she was able to understand the boy"]}
+{"head": "She now knew how the boy felt.", "relation": "oWant", "tails": [" none", " to get away from him", " to get away from the situation"]}
+{"head": "She now knew how the boy felt.", "relation": "xReact", "tails": [" sad", " happy", " relieved"]}
+{"head": "She now knew how the boy felt.", "relation": "oEffect", "tails": [" none", " the boy to feel better", " the boy to feel better."]}
+{"head": "She now knew how the boy felt.", "relation": "xIntent", "tails": [" none", " to be understood", " to understand the boy"]}
+{"head": "She now knew how the boy felt.", "relation": "oReact", "tails": [" none", " sad", " hurt"]}
+{"head": "She now knew how the boy felt.", "relation": "isBefore", "tails": [" PersonX tells PersonX to stop talking to the boy.", " she tells him she loves him", " PersonX tells PersonX to stop talking to PersonX."]}
+{"head": "She now knew how the boy felt.", "relation": "isAfter", "tails": [" PersonX tells PersonX what they feel.", " PersonX tells PersonX what they think.", " PersonX tells PersonX what they think about it."]}
+{"head": "She now knew how the boy felt.", "relation": "HasSubEvent", "tails": [" none", " She tells him to stop.", " she tells the boy to stop"]}
+{"head": "She now knew how the boy felt.", "relation": "Causes", "tails": [" she was able to understand the boy", " she was able to understand him", " she was able to help him"]}
+{"head": "She now knew how the boy felt.", "relation": "xReason", "tails": [" none", " she tells him she loves him", " she tells the boy she loves him"]}
+{"head": "Gina realized she should stop being mean.", "relation": "xAttr", "tails": [" mean", " sadistic", " sad"]}
+{"head": "Gina realized she should stop being mean.", "relation": "xWant", "tails": [" to stop being mean", " to make amends", " to stop being mean."]}
+{"head": "Gina realized she should stop being mean.", "relation": "xNeed", "tails": [" none", " to think about what they are doing", " to think about what they are saying"]}
+{"head": "Gina realized she should stop being mean.", "relation": "xEffect", "tails": [" gets yelled at", " none", " gets a new job"]}
+{"head": "Gina realized she should stop being mean.", "relation": "HinderedBy", "tails": [" Gina is a bully.", " Gina is too mean.", " They are too mean."]}
+{"head": "Gina realized she should stop being mean.", "relation": "oWant", "tails": [" none", " to tell them to stop being mean", " to tell them to stop being mean."]}
+{"head": "Gina realized she should stop being mean.", "relation": "xReact", "tails": [" sad", " good", " happy"]}
+{"head": "Gina realized she should stop being mean.", "relation": "oEffect", "tails": [" none", " get mad at them", " they get a new friend"]}
+{"head": "Gina realized she should stop being mean.", "relation": "xIntent", "tails": [" none", " to stop being mean", " to stop being mean."]}
+{"head": "Gina realized she should stop being mean.", "relation": "oReact", "tails": [" none", " sad", " happy"]}
+{"head": "Gina realized she should stop being mean.", "relation": "isBefore", "tails": [" PersonY tells PersonY to stop being mean.", " PersonY tells PersonY to stop being mean to PersonY.", " PersonY tells PersonY to stop being mean"]}
+{"head": "Gina realized she should stop being mean.", "relation": "isAfter", "tails": [" PersonY tells PersonY to stop being mean.", " PersonY tells PersonY to stop being mean to PersonY.", " PersonY tells PersonY to stop being mean"]}
+{"head": "Gina realized she should stop being mean.", "relation": "HasSubEvent", "tails": [" get a new job", " none", " get a new job."]}
+{"head": "Gina realized she should stop being mean.", "relation": "Causes", "tails": [" Gains a new friend.", " Gains a friend.", " Gains a new perspective."]}
+{"head": "Gina realized she should stop being mean.", "relation": "xReason", "tails": [" none", " Gains a new friend.", " Gains a friend."]}
+{"head": "Gina had been being mean to the new boy in her class.", "relation": "xAttr", "tails": [" mean", " Mean", " mean spirited"]}
+{"head": "Gina had been being mean to the new boy in her class.", "relation": "xWant", "tails": [" to get revenge on the new boy", " to get away from the new boy", " to get revenge on the new boy."]}
+{"head": "Gina had been being mean to the new boy in her class.", "relation": "xNeed", "tails": [" to be in the same class as the new boy", " to be in the same class as the new boy.", " to be mean to the new boy"]}
+{"head": "Gina had been being mean to the new boy in her class.", "relation": "xEffect", "tails": [" gets yelled at", " gets in trouble", " get in trouble"]}
+{"head": "Gina had been being mean to the new boy in her class.", "relation": "HinderedBy", "tails": [" GIRLFRIENDLY", " Gina is a good person.", " GIRLFRIEND"]}
+{"head": "Gina had been being mean to the new boy in her class.", "relation": "oWant", "tails": [" to get away from him", " to get away from her", " to get away from the bully"]}
+{"head": "Gina had been being mean to the new boy in her class.", "relation": "xReact", "tails": [" mean", " sad", " angry"]}
+{"head": "Gina had been being mean to the new boy in her class.", "relation": "oEffect", "tails": [" none", " gets yelled at", " get in trouble"]}
+{"head": "Gina had been being mean to the new boy in her class.", "relation": "xIntent", "tails": [" none", " to be mean", " to hurt the new boy"]}
+{"head": "Gina had been being mean to the new boy in her class.", "relation": "oReact", "tails": [" sad", " angry", " hurt"]}
+{"head": "Gina had been being mean to the new boy in her class.", "relation": "isBefore", "tails": [" get in trouble", " get in trouble for being mean", " get in trouble for being mean."]}
+{"head": "Gina had been being mean to the new boy in her class.", "relation": "isAfter", "tails": [" get in trouble", " get in trouble for being mean", " get in trouble for being mean."]}
+{"head": "Gina had been being mean to the new boy in her class.", "relation": "HasSubEvent", "tails": [" get in trouble", " get yelled at", " get into trouble"]}
+{"head": "Gina had been being mean to the new boy in her class.", "relation": "Causes", "tails": [" get in trouble", " get into trouble", " get in trouble."]}
+{"head": "Gina had been being mean to the new boy in her class.", "relation": "xReason", "tails": [" get in trouble", " none", " get into trouble"]}
+{"head": "Gina", "relation": "ObjectUse", "tails": [" get a new job", " have sex with", " get a job"]}
+{"head": "Gina", "relation": "AtLocation", "tails": [" germany", " gina's house", " gina's home"]}
+{"head": "Gina", "relation": "CapableOf", "tails": [" go to the bathroom", " go to sleep", " take shower"]}
+{"head": "Gina", "relation": "HasProperty", "tails": [" none", " Girlfriend", " one of two"]}
+{"head": "Gina", "relation": "MadeUpOf", "tails": [" gina", " germany", " Girlfriend"]}
+{"head": "Gina", "relation": "NotDesires", "tails": [" get in car accident", " have to go to the bathroom", " have to go to work"]}
+{"head": "Gina", "relation": "Desires", "tails": [" have a good time", " get a new job", " none"]}

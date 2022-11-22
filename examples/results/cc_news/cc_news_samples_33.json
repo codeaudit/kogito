@@ -1,0 +1,90 @@
+{"head": "to score", "relation": "HinderedBy", "tails": [" to score", " to score ", " to score a goal"]}
+{"head": "to score", "relation": "isBefore", "tails": [" to score", " to score a goal", " to score goal"]}
+{"head": "to score", "relation": "isAfter", "tails": [" to win the game", " to score a goal", " to score"]}
+{"head": "to score", "relation": "HasSubEvent", "tails": [" to score", " to score ", " score a goal"]}
+{"head": "to score", "relation": "Causes", "tails": [" to score", " to score ", " to score a goal"]}
+{"head": "to score", "relation": "xReason", "tails": [" to score", " to score a goal", " to score "]}
+{"head": "tie", "relation": "ObjectUse", "tails": [" tie a knot", " tie up the dress", " tie up the clothes"]}
+{"head": "tie", "relation": "AtLocation", "tails": [" tie", " tie box", " closet"]}
+{"head": "tie", "relation": "CapableOf", "tails": [" tie knot", " tie knots", " tie up"]}
+{"head": "tie", "relation": "HasProperty", "tails": [" tied around neck", " worn on neck", " tied around waist"]}
+{"head": "tie", "relation": "MadeUpOf", "tails": [" tie", " knot", " tie knot"]}
+{"head": "tie", "relation": "NotDesires", "tails": [" tie", " tie up", " tie up clothes"]}
+{"head": "tie", "relation": "Desires", "tails": [" tie", " put on head", " tie up"]}
+{"head": "striker", "relation": "ObjectUse", "tails": [" use as a weapon", " hit someone with", " strike a nail"]}
+{"head": "striker", "relation": "AtLocation", "tails": [" restaurant", " bar", " table"]}
+{"head": "striker", "relation": "CapableOf", "tails": [" strike match", " strike ball", " hit ball"]}
+{"head": "striker", "relation": "HasProperty", "tails": [" stripper", " found in strip club", " found in strip clubs"]}
+{"head": "striker", "relation": "MadeUpOf", "tails": [" ball", " strip", " stripclub"]}
+{"head": "striker", "relation": "NotDesires", "tails": [" hit by car", " hit with car", " hit with baton"]}
+{"head": "striker", "relation": "Desires", "tails": [" strike a match", " pay for food", " strike up a conversation"]}
+{"head": "score goals", "relation": "HinderedBy", "tails": [" score goals", " score a goal", " score goal"]}
+{"head": "score goals", "relation": "isBefore", "tails": [" score goal", " score goals", " score a goal"]}
+{"head": "score goals", "relation": "isAfter", "tails": [" score goal", " score goals", " score"]}
+{"head": "score goals", "relation": "HasSubEvent", "tails": [" score goal", " score a goal", " score"]}
+{"head": "score goals", "relation": "Causes", "tails": [" score goals", " score goal", " score a goal"]}
+{"head": "score goals", "relation": "xReason", "tails": [" score goals", " score goal", " score"]}
+{"head": "perfect form", "relation": "ObjectUse", "tails": [" show off", " show off to others", " show off to friends"]}
+{"head": "perfect form", "relation": "AtLocation", "tails": [" body", " gym", " gym class"]}
+{"head": "perfect form", "relation": "CapableOf", "tails": [" make sure not to get hurt", " make sure not to miss anything", " make sure not to fall down"]}
+{"head": "perfect form", "relation": "HasProperty", "tails": [" perfect body", " perfect form", " perfect shape"]}
+{"head": "perfect form", "relation": "MadeUpOf", "tails": [" perfect form", " perfect shape", " perfect body"]}
+{"head": "perfect form", "relation": "NotDesires", "tails": [" perfect body", " perfect posture", " perfect form"]}
+{"head": "perfect form", "relation": "Desires", "tails": [" perfect posture", " perfect body", " perfect body shape"]}
+{"head": "goals", "relation": "ObjectUse", "tails": [" set goals for yourself", " make a goal", " set for yourself"]}
+{"head": "goals", "relation": "AtLocation", "tails": [" soccer game", " goal posts", " goal"]}
+{"head": "goals", "relation": "CapableOf", "tails": [" set goals", " score goals", " score points"]}
+{"head": "goals", "relation": "HasProperty", "tails": [" goals", " set by person", " set by personx"]}
+{"head": "goals", "relation": "MadeUpOf", "tails": [" goalposts", " goal", " goalpost"]}
+{"head": "goals", "relation": "NotDesires", "tails": [" have to work hard to achieve", " make a goal", " have to work hard to reach"]}
+{"head": "goals", "relation": "Desires", "tails": [" have a good time", " have fun", " have a goal"]}
+{"head": "form", "relation": "ObjectUse", "tails": [" fill out", " fill out the application", " fill out for a job"]}
+{"head": "form", "relation": "AtLocation", "tails": [" office supply store", " mail box", " desk drawer"]}
+{"head": "form", "relation": "CapableOf", "tails": [" fill out", " fill out on", " fill in"]}
+{"head": "form", "relation": "HasProperty", "tails": [" filled out", " written on", " filled out on"]}
+{"head": "form", "relation": "MadeUpOf", "tails": [" fill out", " form", " paper"]}
+{"head": "form", "relation": "NotDesires", "tails": [" fill out", " filling out", " fill in"]}
+{"head": "form", "relation": "Desires", "tails": [" fill out", " fill out on", " fill in"]}
+{"head": "Thursday Europa League tie", "relation": "ObjectUse", "tails": [" play a game", " play in", " play a match"]}
+{"head": "Thursday Europa League tie", "relation": "AtLocation", "tails": [" european league", " european football", " european cup"]}
+{"head": "Thursday Europa League tie", "relation": "CapableOf", "tails": [" play against each other", " play against other team", " play against opponent"]}
+{"head": "Thursday Europa League tie", "relation": "HasProperty", "tails": [" played on the same day", " played at home", " played on the same day as"]}
+{"head": "Thursday Europa League tie", "relation": "MadeUpOf", "tails": [" Thursday night", " Thursday", " Thursday's match"]}
+{"head": "Thursday Europa League tie", "relation": "NotDesires", "tails": [" have to play", " have to play again", " have to win"]}
+{"head": "Thursday Europa League tie", "relation": "Desires", "tails": [" to win the match", " to win the game", " none"]}
+{"head": "The French striker has now scored six goals in April and is in perfect form ahead of Thursday's Europa League tie against Atletico Madrid", "relation": "xAttr", "tails": [" talented", " strong", " skilled"]}
+{"head": "The French striker has now scored six goals in April and is in perfect form ahead of Thursday's Europa League tie against Atletico Madrid", "relation": "xWant", "tails": [" to score more goals", " to win the match", " to win the game"]}
+{"head": "The French striker has now scored six goals in April and is in perfect form ahead of Thursday's Europa League tie against Atletico Madrid", "relation": "xNeed", "tails": [" to be playing well", " to have a good game", " to play well"]}
+{"head": "The French striker has now scored six goals in April and is in perfect form ahead of Thursday's Europa League tie against Atletico Madrid", "relation": "xEffect", "tails": [" the team to win the game", " the team to win the match", " the team to win the game."]}
+{"head": "The French striker has now scored six goals in April and is in perfect form ahead of Thursday's Europa League tie against Atletico Madrid", "relation": "HinderedBy", "tails": [" the team", " the team to win the game", " the team to win the match"]}
+{"head": "The French striker has now scored six goals in April and is in perfect form ahead of Thursday's Europa League tie against Atletico Madrid", "relation": "oWant", "tails": [" to score more goals", " to win the match", " to win the game"]}
+{"head": "The French striker has now scored six goals in April and is in perfect form ahead of Thursday's Europa League tie against Atletico Madrid", "relation": "xReact", "tails": [" happy", " happy.", " good"]}
+{"head": "The French striker has now scored six goals in April and is in perfect form ahead of Thursday's Europa League tie against Atletico Madrid", "relation": "oEffect", "tails": [" the team to win the game", " the team to win the match", " the team to win the game."]}
+{"head": "The French striker has now scored six goals in April and is in perfect form ahead of Thursday's Europa League tie against Atletico Madrid", "relation": "xIntent", "tails": [" to win the match", " to win the game", " to be the best"]}
+{"head": "The French striker has now scored six goals in April and is in perfect form ahead of Thursday's Europa League tie against Atletico Madrid", "relation": "oReact", "tails": [" the team to win the game", " the team to win the match", " the team to win the game."]}
+{"head": "The French striker has now scored six goals in April and is in perfect form ahead of Thursday's Europa League tie against Atletico Madrid", "relation": "isBefore", "tails": [" the team to win the game", " the team to win the match", " the team to win the cup"]}
+{"head": "The French striker has now scored six goals in April and is in perfect form ahead of Thursday's Europa League tie against Atletico Madrid", "relation": "isAfter", "tails": [" the team to win the game", " the team to win the match", " the team to win the game."]}
+{"head": "The French striker has now scored six goals in April and is in perfect form ahead of Thursday's Europa League tie against Atletico Madrid", "relation": "HasSubEvent", "tails": [" the team to win the game", " the team to win the match", " the team to win the game."]}
+{"head": "The French striker has now scored six goals in April and is in perfect form ahead of Thursday's Europa League tie against Atletico Madrid", "relation": "Causes", "tails": [" the team to win the game", " the team to win the match", " the team to win the competition"]}
+{"head": "The French striker has now scored six goals in April and is in perfect form ahead of Thursday's Europa League tie against Atletico Madrid", "relation": "xReason", "tails": [" the team to win the game", " the team to win the match", " the team to win the game."]}
+{"head": "French striker", "relation": "ObjectUse", "tails": [" play in a team", " play football", " play in the team"]}
+{"head": "French striker", "relation": "AtLocation", "tails": [" soccer game", " soccer match", " football game"]}
+{"head": "French striker", "relation": "CapableOf", "tails": [" score goal", " play football", " strike ball"]}
+{"head": "French striker", "relation": "HasProperty", "tails": [" one of the best players in the world", " one of the best strikers in the world", " one of the best in the world"]}
+{"head": "French striker", "relation": "MadeUpOf", "tails": [" soccer ball", " French football team", " goal"]}
+{"head": "French striker", "relation": "NotDesires", "tails": [" play football", " French team", " goal"]}
+{"head": "French striker", "relation": "Desires", "tails": [" play football", " play soccer", " play in team"]}
+{"head": "Atletico Madrid", "relation": "ObjectUse", "tails": [" Atletico", " atletico", " Atletico Madrid"]}
+{"head": "Atletico Madrid", "relation": "AtLocation", "tails": [" soccer stadium", " atletico", " atletico stadium"]}
+{"head": "Atletico Madrid", "relation": "CapableOf", "tails": [" play football", " play soccer", " play in stadium"]}
+{"head": "Atletico Madrid", "relation": "HasProperty", "tails": [" at the top of the world", " at the top of the league", " at the top of the table"]}
+{"head": "Atletico Madrid", "relation": "MadeUpOf", "tails": [" atletico", " Atletico", " atleti"]}
+{"head": "Atletico Madrid", "relation": "NotDesires", "tails": [" atletico", " Atletico", " Atletico Madrid"]}
+{"head": "Atletico Madrid", "relation": "Desires", "tails": [" at the top of the world", " at the top of the league", " at the top of the table"]}
+{"head": "April", "relation": "ObjectUse", "tails": [" have a party", " have a birthday party", " have a birthday"]}
+{"head": "April", "relation": "AtLocation", "tails": [" office building", " spring", " house"]}
+{"head": "April", "relation": "CapableOf", "tails": [" take shower", " get married", " go to work"]}
+{"head": "April", "relation": "HasProperty", "tails": [" one of the first months of the year", " one of the months of the year", " one of the first days of spring"]}
+{"head": "April", "relation": "MadeUpOf", "tails": ["                 ", "                ", "               "]}
+{"head": "April", "relation": "NotDesires", "tails": [" April                     ", " April                    ", " April                   "]}
+{"head": "April", "relation": "Desires", "tails": [" have a good time", " have a party", " have a good birthday"]}

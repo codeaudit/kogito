@@ -1,0 +1,184 @@
+{"head": "to see", "relation": "HinderedBy", "tails": [" to see", " to see ", " to see something"]}
+{"head": "to see", "relation": "isBefore", "tails": [" to see", " to see what's going on", " to see what is going on"]}
+{"head": "to see", "relation": "isAfter", "tails": [" to see what's going on", " to see what they are looking at", " to see what is going on"]}
+{"head": "to see", "relation": "HasSubEvent", "tails": [" to see", " to see  see", " to see "]}
+{"head": "to see", "relation": "Causes", "tails": [" to see", " to see ", " to see something"]}
+{"head": "to see", "relation": "xReason", "tails": [" to see", " to see something", " look at"]}
+{"head": "to put", "relation": "HinderedBy", "tails": [" to put", " to put ", " to put  to put "]}
+{"head": "to put", "relation": "isBefore", "tails": [" to put", " to put in a box", " to put in the box"]}
+{"head": "to put", "relation": "isAfter", "tails": [" to put in a box", " to put in the box", " to put"]}
+{"head": "to put", "relation": "HasSubEvent", "tails": [" to put", " to put ", " to put something in"]}
+{"head": "to put", "relation": "Causes", "tails": [" to put", " to put on", " to put in"]}
+{"head": "to put", "relation": "xReason", "tails": [" to put", " to put something in", " to put in a box"]}
+{"head": "to punch", "relation": "HinderedBy", "tails": [" to punch", " to punch ", " to punch someone"]}
+{"head": "to punch", "relation": "isBefore", "tails": [" to punch", " to punch someone", " to punch to punch"]}
+{"head": "to punch", "relation": "isAfter", "tails": [" to punch someone in the face", " to punch to punch", " to punch"]}
+{"head": "to punch", "relation": "HasSubEvent", "tails": [" to punch", " get punched back", " to punch back"]}
+{"head": "to punch", "relation": "Causes", "tails": [" to punch", " to punch someone", " to punch person"]}
+{"head": "to punch", "relation": "xReason", "tails": [" to punch", " to punch someone", " to punch person"]}
+{"head": "to love", "relation": "HinderedBy", "tails": [" to love", " to love ", " to love someone"]}
+{"head": "to love", "relation": "isBefore", "tails": [" to love", " to be loved", " to love someone"]}
+{"head": "to love", "relation": "isAfter", "tails": [" to be loved", " to love", " to be happy"]}
+{"head": "to love", "relation": "HasSubEvent", "tails": [" to love", " to love others", " to love someone"]}
+{"head": "to love", "relation": "Causes", "tails": [" to love", " to be loved", " to love someone"]}
+{"head": "to love", "relation": "xReason", "tails": [" to love", " to be loved", " to love someone"]}
+{"head": "to have", "relation": "HinderedBy", "tails": [" to have", " to have ", " to have  to have"]}
+{"head": "to have", "relation": "isBefore", "tails": [" to have", " to have ", " to have  a good time"]}
+{"head": "to have", "relation": "isAfter", "tails": [" to have something to eat", " to have", " to have something to drink"]}
+{"head": "to have", "relation": "HasSubEvent", "tails": [" to have", " to have ", " to have  have"]}
+{"head": "to have", "relation": "Causes", "tails": [" to have", " to have ", " to have  "]}
+{"head": "to have", "relation": "xReason", "tails": [" to have", " to have something to eat", " to have "]}
+{"head": "to flip", "relation": "HinderedBy", "tails": [" to flip", " to flip ", " to flip  flip "]}
+{"head": "to flip", "relation": "isBefore", "tails": [" to flip", " to flip over", " to flip the coin"]}
+{"head": "to flip", "relation": "isAfter", "tails": [" to flip", " to flip over", " flip"]}
+{"head": "to flip", "relation": "HasSubEvent", "tails": [" to flip", " to flip back and forth", " to flip  flip  flip  flip"]}
+{"head": "to flip", "relation": "Causes", "tails": [" to flip", " flip a coin", " to flip over"]}
+{"head": "to flip", "relation": "xReason", "tails": [" to flip", " to flip back and forth", " to flip on one's back"]}
+{"head": "to dip", "relation": "HinderedBy", "tails": [" to dip", " to dip ", " to dip  in"]}
+{"head": "to dip", "relation": "isBefore", "tails": [" to dip", " to dip in", " to dip in water"]}
+{"head": "to dip", "relation": "isAfter", "tails": [" to dip", " to dip in", " to dip in water"]}
+{"head": "to dip", "relation": "HasSubEvent", "tails": [" to dip dip dip dip dip dip dip dip dip dip dip dip dip dip dip dip dip dip dip dip dip", " to dip dip dip dip dip dip dip dip dip dip dip dip dip dip dip dip dip dip dip dip", " to dip dip dip dip dip dip dip dip dip dip dip dip dip dip dip dip dip dip dip"]}
+{"head": "to dip", "relation": "Causes", "tails": [" to dip dip dip dip dip dip dip dip dip dip dip dip dip dip dip dip dip dip dip dip dip", " to dip dip dip dip dip dip dip dip dip dip dip dip dip dip dip dip dip dip dip dip", " to dip dip dip dip dip dip dip dip dip dip dip dip dip dip dip dip dip dip dip"]}
+{"head": "to dip", "relation": "xReason", "tails": [" to dip", " to dip in water", " to dip in"]}
+{"head": "see dip", "relation": "HinderedBy", "tails": [" see water", " see dip", " see the water"]}
+{"head": "see dip", "relation": "isBefore", "tails": [" see fish in water", " swim in pool", " see fish"]}
+{"head": "see dip", "relation": "isAfter", "tails": [" swim in pool", " see fish in water", " swim in ocean"]}
+{"head": "see dip", "relation": "HasSubEvent", "tails": [" look down", " see water", " look at bottom"]}
+{"head": "see dip", "relation": "Causes", "tails": [" see water", " see fish in water", " swim in ocean"]}
+{"head": "see dip", "relation": "xReason", "tails": [" see water", " swim in ocean", " swim in pool"]}
+{"head": "put chip", "relation": "HinderedBy", "tails": [" put in computer", " put into computer", " put on computer"]}
+{"head": "put chip", "relation": "isBefore", "tails": [" put in computer", " put into computer", " put in machine"]}
+{"head": "put chip", "relation": "isAfter", "tails": [" put in computer", " put into computer", " put in machine"]}
+{"head": "put chip", "relation": "HasSubEvent", "tails": [" put in computer", " put into computer", " put in memory card"]}
+{"head": "put chip", "relation": "Causes", "tails": [" put in computer", " put into computer", " put in machine"]}
+{"head": "put chip", "relation": "xReason", "tails": [" put in computer", " put into computer", " put on computer"]}
+{"head": "punch Skip", "relation": "HinderedBy", "tails": [" punch someone else", " punch someone", " punch back"]}
+{"head": "punch Skip", "relation": "isBefore", "tails": [" punch back", " punch someone else", " punch person"]}
+{"head": "punch Skip", "relation": "isAfter", "tails": [" punch back", " punch person", " punch person y"]}
+{"head": "punch Skip", "relation": "HasSubEvent", "tails": [" punch back", " get punched back", " get hit back"]}
+{"head": "punch Skip", "relation": "Causes", "tails": [" hurt someone", " punch someone", " punch back"]}
+{"head": "punch Skip", "relation": "xReason", "tails": [" punch back", " punch someone", " punch person"]}
+{"head": "party", "relation": "ObjectUse", "tails": [" have a good time", " get drunk at", " have a good time at"]}
+{"head": "party", "relation": "AtLocation", "tails": [" party", " party room", " party hall"]}
+{"head": "party", "relation": "CapableOf", "tails": [" have fun", " party with friends", " drink beer"]}
+{"head": "party", "relation": "HasProperty", "tails": [" socializing", " fun", " social events"]}
+{"head": "party", "relation": "MadeUpOf", "tails": [" party", " party popper", " party favors"]}
+{"head": "party", "relation": "NotDesires", "tails": [" get drunk", " have fun", " get drunk at"]}
+{"head": "party", "relation": "Desires", "tails": [" have fun", " have good time", " get drunk"]}
+{"head": "lip", "relation": "ObjectUse", "tails": [" lip balm", " kiss someone", " put on the lips"]}
+{"head": "lip", "relation": "AtLocation", "tails": [" lip ring", " lip balm", " lips"]}
+{"head": "lip", "relation": "CapableOf", "tails": [" lip ring", " drink from", " kiss person"]}
+{"head": "lip", "relation": "HasProperty", "tails": [" lip ring", " found on lips", " found on nose"]}
+{"head": "lip", "relation": "MadeUpOf", "tails": [" lip ring", " laryngeal artery", " laryngeal opening"]}
+{"head": "lip", "relation": "NotDesires", "tails": [" lip ring", " lip piercing", " lisp"]}
+{"head": "lip", "relation": "Desires", "tails": [" lip balm", " lip ring", " lip gloss"]}
+{"head": "double dip", "relation": "ObjectUse", "tails": [" double dip", " use as a weapon", " use as toilet paper"]}
+{"head": "double dip", "relation": "AtLocation", "tails": [" swimming pool", " pool", " water park"]}
+{"head": "double dip", "relation": "CapableOf", "tails": [" double dip", " drink water", " get wet"]}
+{"head": "double dip", "relation": "HasProperty", "tails": [" double dip", " double dipping", " two fingers"]}
+{"head": "double dip", "relation": "MadeUpOf", "tails": [" double dip", " water", " double dipping"]}
+{"head": "double dip", "relation": "NotDesires", "tails": [" double dip", " have to clean up", " have to clean up after"]}
+{"head": "double dip", "relation": "Desires", "tails": [" have a good time", " double dip", " have fun"]}
+{"head": "dip", "relation": "ObjectUse", "tails": [" put in the bathtub", " use as a weapon", " put in the sink"]}
+{"head": "dip", "relation": "AtLocation", "tails": [" bathtub", " water", " water fountain"]}
+{"head": "dip", "relation": "CapableOf", "tails": [" get wet", " put on clothes", " put in sink"]}
+{"head": "dip", "relation": "HasProperty", "tails": [" water", " wet", " dry"]}
+{"head": "dip", "relation": "MadeUpOf", "tails": [" water", " dipstick", " dry skin"]}
+{"head": "dip", "relation": "NotDesires", "tails": [" get wet", " dry skin", " dry off"]}
+{"head": "dip", "relation": "Desires", "tails": [" get wet", " water", " drink water"]}
+{"head": "Skip saw Chip double dip.", "relation": "xAttr", "tails": [" curious", " greedy", " mean"]}
+{"head": "Skip saw Chip double dip.", "relation": "xWant", "tails": [" to see if they can do it again", " to get a drink", " to see if they can do it again."]}
+{"head": "Skip saw Chip double dip.", "relation": "xNeed", "tails": [" none", " to be in the same room as him", " to be in the same room as Chip"]}
+{"head": "Skip saw Chip double dip.", "relation": "xEffect", "tails": [" none", " gets yelled at", " get a drink"]}
+{"head": "Skip saw Chip double dip.", "relation": "HinderedBy", "tails": [" They don't want to get in trouble.", " They don't want to get in a fight.", " They don't want to get caught."]}
+{"head": "Skip saw Chip double dip.", "relation": "oWant", "tails": [" none", " to have fun", " to have a drink"]}
+{"head": "Skip saw Chip double dip.", "relation": "xReact", "tails": [" happy", " none", " happy."]}
+{"head": "Skip saw Chip double dip.", "relation": "oEffect", "tails": [" none", " they get a drink of water", " they get a drink of water too"]}
+{"head": "Skip saw Chip double dip.", "relation": "xIntent", "tails": [" none", " to see if they can do it again", " to see if they can do it"]}
+{"head": "Skip saw Chip double dip.", "relation": "oReact", "tails": [" none", " annoyed", " happy"]}
+{"head": "Skip saw Chip double dip.", "relation": "isBefore", "tails": [" they go to the bathroom", " none", " they go to the bathroom together"]}
+{"head": "Skip saw Chip double dip.", "relation": "isAfter", "tails": [" none", " PersonX is watching PersonX.", " PersonX is in a wheelchair."]}
+{"head": "Skip saw Chip double dip.", "relation": "HasSubEvent", "tails": [" none", " see's what's going on", " see's what they did"]}
+{"head": "Skip saw Chip double dip.", "relation": "Causes", "tails": [" none", " they are in the same boat", " they are in the same room"]}
+{"head": "Skip saw Chip double dip.", "relation": "xReason", "tails": [" none", " they go to the bathroom", " they go to the bathroom together"]}
+{"head": "Skip had to flip at seeing the double dip.", "relation": "xAttr", "tails": [" excited", " surprised", " shocked"]}
+{"head": "Skip had to flip at seeing the double dip.", "relation": "xWant", "tails": [" to laugh at the double dip", " to see if it's a double dip", " to see if it's a double dip."]}
+{"head": "Skip had to flip at seeing the double dip.", "relation": "xNeed", "tails": [" none", " to see the double dip", " to see a double dip"]}
+{"head": "Skip had to flip at seeing the double dip.", "relation": "xEffect", "tails": [" none", " get a new job", " get a drink"]}
+{"head": "Skip had to flip at seeing the double dip.", "relation": "HinderedBy", "tails": [" They are too far away.", " They are too far away from them.", " The other person is too nice."]}
+{"head": "Skip had to flip at seeing the double dip.", "relation": "oWant", "tails": [" none", " to laugh at the double dip", " to laugh at him"]}
+{"head": "Skip had to flip at seeing the double dip.", "relation": "xReact", "tails": [" happy", " excited", " surprised"]}
+{"head": "Skip had to flip at seeing the double dip.", "relation": "oEffect", "tails": [" none", " they get a drink of water", " they get a new job"]}
+{"head": "Skip had to flip at seeing the double dip.", "relation": "xIntent", "tails": [" none", " to see the double dip", " to see the double dip."]}
+{"head": "Skip had to flip at seeing the double dip.", "relation": "oReact", "tails": [" none", " happy", " surprised"]}
+{"head": "Skip had to flip at seeing the double dip.", "relation": "isBefore", "tails": [" PersonY tells PersonY to stop.", " PersonY tells PersonY to stop being so silly.", " PersonY tells PersonY to stop being so flip."]}
+{"head": "Skip had to flip at seeing the double dip.", "relation": "isAfter", "tails": [" PersonX tells PersonX that it is a double dip.", " PersonX tells PersonX that it's a double dip.", " PersonX tells PersonX that it's not a double dip."]}
+{"head": "Skip had to flip at seeing the double dip.", "relation": "HasSubEvent", "tails": [" see's the double dip", " see's double dip", " none"]}
+{"head": "Skip had to flip at seeing the double dip.", "relation": "Causes", "tails": [" they get a double dip", " they get a new job", " they get a double dip too"]}
+{"head": "Skip had to flip at seeing the double dip.", "relation": "xReason", "tails": [" none", " they go to the bathroom", " they go to the store to buy more"]}
+{"head": "Skip", "relation": "ObjectUse", "tails": [" get to work on time", " get to the store on time", " get to the store"]}
+{"head": "Skip", "relation": "AtLocation", "tails": [" park", " car", " beach"]}
+{"head": "Skip", "relation": "CapableOf", "tails": [" get out of car", " get out of the car", " go to the bathroom"]}
+{"head": "Skip", "relation": "HasProperty", "tails": [" one of the two main characters in the movie", " one of the two main characters in the film", " one of the two main characters in the movie."]}
+{"head": "Skip", "relation": "MadeUpOf", "tails": [" skateboard", " skipboard", " skip"]}
+{"head": "Skip", "relation": "NotDesires", "tails": [" get in car accident", " get in accident", " get in trouble"]}
+{"head": "Skip", "relation": "Desires", "tails": [" get to work on time", " get out of the house", " get out of the car"]}
+{"head": "Chip then had to punch Skip on the lip.", "relation": "xAttr", "tails": [" angry", " violent", " mean"]}
+{"head": "Chip then had to punch Skip on the lip.", "relation": "xWant", "tails": [" to apologize to the other person", " to apologize to the other person.", " to apologize"]}
+{"head": "Chip then had to punch Skip on the lip.", "relation": "xNeed", "tails": [" to get close to the other person", " to get close to him", " none"]}
+{"head": "Chip then had to punch Skip on the lip.", "relation": "xEffect", "tails": [" gets punched back", " gets yelled at", " none"]}
+{"head": "Chip then had to punch Skip on the lip.", "relation": "HinderedBy", "tails": [" They are too far away from each other.", " They are too close to each other.", " They are too far away from them."]}
+{"head": "Chip then had to punch Skip on the lip.", "relation": "oWant", "tails": [" to get away from him", " to punch back", " to get away from the situation"]}
+{"head": "Chip then had to punch Skip on the lip.", "relation": "xReact", "tails": [" hurt", " angry", " sad"]}
+{"head": "Chip then had to punch Skip on the lip.", "relation": "oEffect", "tails": [" none", " they get punched back", " get punched back"]}
+{"head": "Chip then had to punch Skip on the lip.", "relation": "xIntent", "tails": [" none", " to hurt someone", " to be mean"]}
+{"head": "Chip then had to punch Skip on the lip.", "relation": "oReact", "tails": [" none", " hurt", " angry"]}
+{"head": "Chip then had to punch Skip on the lip.", "relation": "isBefore", "tails": [" PersonX gets punched back by PersonX.", " PersonX gets punched back.", " PersonX gets punched back by PersonX"]}
+{"head": "Chip then had to punch Skip on the lip.", "relation": "isAfter", "tails": [" PersonX punched PersonX in the face.", " PersonX punched PersonX back in the face.", " PersonX punched PersonX in the face"]}
+{"head": "Chip then had to punch Skip on the lip.", "relation": "HasSubEvent", "tails": [" get punched back", " none", " get slapped back"]}
+{"head": "Chip then had to punch Skip on the lip.", "relation": "Causes", "tails": [" they get punched back", " they get punched in the face", " they get punched in the face too"]}
+{"head": "Chip then had to punch Skip on the lip.", "relation": "xReason", "tails": [" none", " they get punched back", " they got punched back"]}
+{"head": "Chip loved dip.", "relation": "xAttr", "tails": [" hungry", " happy", " tasty"]}
+{"head": "Chip loved dip.", "relation": "xWant", "tails": [" to eat the dip", " to eat it", " to eat the dip."]}
+{"head": "Chip loved dip.", "relation": "xNeed", "tails": [" none", " to go to the store", " to go to the grocery store"]}
+{"head": "Chip loved dip.", "relation": "xEffect", "tails": [" gets a stomach ache", " eat the dip", " none"]}
+{"head": "Chip loved dip.", "relation": "HinderedBy", "tails": [" They are allergic to it.", " They are allergic to the dip.", " They are allergic to dip."]}
+{"head": "Chip loved dip.", "relation": "oWant", "tails": [" none", " to eat the dip", " to eat the dip."]}
+{"head": "Chip loved dip.", "relation": "xReact", "tails": [" happy", " good about themselves", " good for eating"]}
+{"head": "Chip loved dip.", "relation": "oEffect", "tails": [" none", " eat the dip", " eat the dip."]}
+{"head": "Chip loved dip.", "relation": "xIntent", "tails": [" none", " to eat", " to eat it"]}
+{"head": "Chip loved dip.", "relation": "oReact", "tails": [" none", " happy", " happy."]}
+{"head": "Chip loved dip.", "relation": "isBefore", "tails": [" PersonX eats the dip with PersonX.", " PersonX eats the dip.", " PersonY makes dip for PersonX."]}
+{"head": "Chip loved dip.", "relation": "isAfter", "tails": [" PersonX bought dip for PersonX's birthday.", " PersonX bought dip at the store.", " PersonX bought dip for PersonX."]}
+{"head": "Chip loved dip.", "relation": "HasSubEvent", "tails": [" eat the dip", " eat dip", " eat the dip."]}
+{"head": "Chip loved dip.", "relation": "Causes", "tails": [" he likes to eat it", " they like to eat it", " none"]}
+{"head": "Chip loved dip.", "relation": "xReason", "tails": [" none", " he liked to eat it", " they would eat the dip"]}
+{"head": "Chip double dip", "relation": "ObjectUse", "tails": [" use as a prop in a play", " use as a prop in a movie", " use as a weapon"]}
+{"head": "Chip double dip", "relation": "AtLocation", "tails": [" ice cream", " ice cream parlor", " ice cream parlour"]}
+{"head": "Chip double dip", "relation": "CapableOf", "tails": [" eat chips", " eat more chips", " get a drink"]}
+{"head": "Chip double dip", "relation": "HasProperty", "tails": [" good for eating", " chips", " chips and dip"]}
+{"head": "Chip double dip", "relation": "MadeUpOf", "tails": [" double dip", " chip", " chips"]}
+{"head": "Chip double dip", "relation": "NotDesires", "tails": [" eat chips", " get sick", " eat"]}
+{"head": "Chip double dip", "relation": "Desires", "tails": [" to have a good time", " to have a good time with friends", " to have a good time at the party"]}
+{"head": "Chip", "relation": "ObjectUse", "tails": [" chip in", " chip in computer", " chip in the computer"]}
+{"head": "Chip", "relation": "AtLocation", "tails": [" computer", " chip bag", " chip shop"]}
+{"head": "Chip", "relation": "CapableOf", "tails": [" chip in", " chip in computer", " chip into computer"]}
+{"head": "Chip", "relation": "HasProperty", "tails": [" found in computer", " chips", " found on computer"]}
+{"head": "Chip", "relation": "MadeUpOf", "tails": [" chip", " chiphead", " chips"]}
+{"head": "Chip", "relation": "NotDesires", "tails": [" chip in head", " chip break", " chip in computer"]}
+{"head": "Chip", "relation": "Desires", "tails": [" chip", " chip in computer", " have a good time"]}
+{"head": "At one party, he put his chip into the dip and double dipped.", "relation": "xAttr", "tails": [" greedy", " drunk", " hungry"]}
+{"head": "At one party, he put his chip into the dip and double dipped.", "relation": "xWant", "tails": [" to get a drink", " to eat the dip", " to have a drink"]}
+{"head": "At one party, he put his chip into the dip and double dipped.", "relation": "xNeed", "tails": [" to be at a party", " to be at the party", " to be at a party."]}
+{"head": "At one party, he put his chip into the dip and double dipped.", "relation": "xEffect", "tails": [" he gets a double dip.", " he gets a drink", " he gets a drink."]}
+{"head": "At one party, he put his chip into the dip and double dipped.", "relation": "HinderedBy", "tails": [" at the party", " at a party", " at one party"]}
+{"head": "At one party, he put his chip into the dip and double dipped.", "relation": "oWant", "tails": [" none", " to eat the chips", " to eat the dip"]}
+{"head": "At one party, he put his chip into the dip and double dipped.", "relation": "xReact", "tails": [" happy", " good about themselves", " good about themselves."]}
+{"head": "At one party, he put his chip into the dip and double dipped.", "relation": "oEffect", "tails": [" none", " eat the chips", " eat the dip"]}
+{"head": "At one party, he put his chip into the dip and double dipped.", "relation": "xIntent", "tails": [" to have a good time", " to have fun", " to have a good time."]}
+{"head": "At one party, he put his chip into the dip and double dipped.", "relation": "oReact", "tails": [" none", " happy", " happy."]}
+{"head": "At one party, he put his chip into the dip and double dipped.", "relation": "isBefore", "tails": [" at the party", " at a party", " at party"]}
+{"head": "At one party, he put his chip into the dip and double dipped.", "relation": "isAfter", "tails": [" at the party", " at a party", " at party"]}
+{"head": "At one party, he put his chip into the dip and double dipped.", "relation": "HasSubEvent", "tails": [" at the party", " eat the chips", " at the party."]}
+{"head": "At one party, he put his chip into the dip and double dipped.", "relation": "Causes", "tails": [" at a party", " at the party", " at a party."]}
+{"head": "At one party, he put his chip into the dip and double dipped.", "relation": "xReason", "tails": [" at the party", " at a party", " at party"]}

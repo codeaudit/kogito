@@ -1,0 +1,62 @@
+{"head": "to announce", "relation": "HinderedBy", "tails": [" to announce", " to announce ", " to announce something"]}
+{"head": "to announce", "relation": "isBefore", "tails": [" to announce", " to announce something", " to announce the news"]}
+{"head": "to announce", "relation": "isAfter", "tails": [" announcement", " announce something", " to announce something"]}
+{"head": "to announce", "relation": "HasSubEvent", "tails": [" to announce", " make announcement", " to announce something"]}
+{"head": "to announce", "relation": "Causes", "tails": [" to announce", " to announce something", " announce something"]}
+{"head": "to announce", "relation": "xReason", "tails": [" announce something", " to announce something", " to announce"]}
+{"head": "hiring", "relation": "ObjectUse", "tails": [" get a new job", " hire a new employee", " get a job"]}
+{"head": "hiring", "relation": "AtLocation", "tails": [" office building", " job posting", " office"]}
+{"head": "hiring", "relation": "CapableOf", "tails": [" hire new employee", " hire people", " hire employee"]}
+{"head": "hiring", "relation": "HasProperty", "tails": [" hired", " found in job ads", " found in office"]}
+{"head": "hiring", "relation": "MadeUpOf", "tails": [" hire person", " job", " job title"]}
+{"head": "hiring", "relation": "NotDesires", "tails": [" get fired", " hire people", " have to hire"]}
+{"head": "hiring", "relation": "Desires", "tails": [" hire people", " hire new employee", " hire new people"]}
+{"head": "announce hiring", "relation": "HinderedBy", "tails": [" hire new employee", " hire new employees", " hire people"]}
+{"head": "announce hiring", "relation": "isBefore", "tails": [" hire new employee", " announce new hire", " announce new job"]}
+{"head": "announce hiring", "relation": "isAfter", "tails": [" hire new employee", " announce job openings", " announce new hire"]}
+{"head": "announce hiring", "relation": "HasSubEvent", "tails": [" hire new employee", " announce hiring", " announce job"]}
+{"head": "announce hiring", "relation": "Causes", "tails": [" make announcement", " announce hiring", " announce job openings"]}
+{"head": "announce hiring", "relation": "xReason", "tails": [" make announcement", " announce job openings", " announce job opening"]}
+{"head": "Rocklin, CA - The Rocklin Swim Team (RST) is proud to announce the hiring of Megan Hylton", "relation": "xAttr", "tails": [" athletic", " proud", " skilled"]}
+{"head": "Rocklin, CA - The Rocklin Swim Team (RST) is proud to announce the hiring of Megan Hylton", "relation": "xWant", "tails": [" to train with the team", " to train with the swim team", " to train hard"]}
+{"head": "Rocklin, CA - The Rocklin Swim Team (RST) is proud to announce the hiring of Megan Hylton", "relation": "xNeed", "tails": [" to interview for the position", " to apply for the job", " to apply for the position"]}
+{"head": "Rocklin, CA - The Rocklin Swim Team (RST) is proud to announce the hiring of Megan Hylton", "relation": "xEffect", "tails": [" gets a new job", " gets a raise", " gets a promotion"]}
+{"head": "Rocklin, CA - The Rocklin Swim Team (RST) is proud to announce the hiring of Megan Hylton", "relation": "HinderedBy", "tails": [" The team is looking for a new coach.", " The team is looking for a new swimmer.", " The team is looking for a new swim coach."]}
+{"head": "Rocklin, CA - The Rocklin Swim Team (RST) is proud to announce the hiring of Megan Hylton", "relation": "oWant", "tails": [" to train with the team", " to train hard", " to get a job"]}
+{"head": "Rocklin, CA - The Rocklin Swim Team (RST) is proud to announce the hiring of Megan Hylton", "relation": "xReact", "tails": [" proud", " excited", " happy"]}
+{"head": "Rocklin, CA - The Rocklin Swim Team (RST) is proud to announce the hiring of Megan Hylton", "relation": "oEffect", "tails": [" get a new job", " none", " swimmer gets new job"]}
+{"head": "Rocklin, CA - The Rocklin Swim Team (RST) is proud to announce the hiring of Megan Hylton", "relation": "xIntent", "tails": [" to be a part of the team", " to be a part of a team", " to be a good swimmer"]}
+{"head": "Rocklin, CA - The Rocklin Swim Team (RST) is proud to announce the hiring of Megan Hylton", "relation": "oReact", "tails": [" none", " happy", " proud"]}
+{"head": "Rocklin, CA - The Rocklin Swim Team (RST) is proud to announce the hiring of Megan Hylton", "relation": "isBefore", "tails": [" PersonY asks PersonY if they want to join the team.", " PersonY asks PersonY if they want to join the swim team.", " PersonY asks PersonY if they want to join the team"]}
+{"head": "Rocklin, CA - The Rocklin Swim Team (RST) is proud to announce the hiring of Megan Hylton", "relation": "isAfter", "tails": [" PersonY asks PersonY if PersonY wants to join the team.", " PersonY asks PersonY if they want to join the team.", " PersonY asks PersonY if they want to join the swim team."]}
+{"head": "Rocklin, CA - The Rocklin Swim Team (RST) is proud to announce the hiring of Megan Hylton", "relation": "HasSubEvent", "tails": [" get a new job", " get a job", " get a new job."]}
+{"head": "Rocklin, CA - The Rocklin Swim Team (RST) is proud to announce the hiring of Megan Hylton", "relation": "Causes", "tails": [" proud", " excited", " happy"]}
+{"head": "Rocklin, CA - The Rocklin Swim Team (RST) is proud to announce the hiring of Megan Hylton", "relation": "xReason", "tails": [" PersonY hires PersonY.", " PersonY hires personY.", " PersonY hires PersonY"]}
+{"head": "Rocklin Swim Team", "relation": "ObjectUse", "tails": [" swim in the pool", " swim in the ocean", " swim in the lake"]}
+{"head": "Rocklin Swim Team", "relation": "AtLocation", "tails": [" swimming pool", " gymnasium", " gym"]}
+{"head": "Rocklin Swim Team", "relation": "CapableOf", "tails": [" swim in pool", " swim laps", " swim laps in pool"]}
+{"head": "Rocklin Swim Team", "relation": "HasProperty", "tails": [" swimsuit", " competitive", " athletic"]}
+{"head": "Rocklin Swim Team", "relation": "MadeUpOf", "tails": [" swimsuit", " swim suit", " swimming suit"]}
+{"head": "Rocklin Swim Team", "relation": "NotDesires", "tails": [" swim in pool", " swim in the pool", " get wet"]}
+{"head": "Rocklin Swim Team", "relation": "Desires", "tails": [" to be competitive", " to be a part of a team", " to be a part of something"]}
+{"head": "Rocklin", "relation": "ObjectUse", "tails": [" live in", " rock climbing", " rock bottom"]}
+{"head": "Rocklin", "relation": "AtLocation", "tails": [" town", " city", " rock"]}
+{"head": "Rocklin", "relation": "CapableOf", "tails": [" climb mountain", " rock climb", " rock mountain"]}
+{"head": "Rocklin", "relation": "HasProperty", "tails": [" one of many cities in the state", " one of California's most beautiful places", " one of California's largest cities"]}
+{"head": "Rocklin", "relation": "MadeUpOf", "tails": [" rock", " rock face", " rock formation"]}
+{"head": "Rocklin", "relation": "NotDesires", "tails": [" rock bottom", " live in", " rock"]}
+{"head": "Rocklin", "relation": "Desires", "tails": [" live in", " rock", " rockin'"]}
+{"head": "RST", "relation": "ObjectUse", "tails": [" use as a prop in a play", " use as a prop in a movie", " use as a weapon"]}
+{"head": "RST", "relation": "AtLocation", "tails": [" radio station", " medicine chest", " medicine cabinet"]}
+{"head": "RST", "relation": "CapableOf", "tails": [" use as a weapon", " use as a paperweight", " use as a door stop"]}
+{"head": "RST", "relation": "HasProperty", "tails": [" found in medicine chest", " RST", " found in medicine cabinet"]}
+{"head": "RST", "relation": "MadeUpOf", "tails": [" rheostat", " raster", " radio frequency"]}
+{"head": "RST", "relation": "NotDesires", "tails": [" RST", " get sick", " RSTs"]}
+{"head": "RST", "relation": "Desires", "tails": [" get a good grade", " have a good time", " get a good job"]}
+{"head": "Megan Hylton", "relation": "ObjectUse", "tails": [" meet new people", " get a job", " get a job as a waitress"]}
+{"head": "Megan Hylton", "relation": "AtLocation", "tails": [" mexico", " school", " movie theater"]}
+{"head": "Megan Hylton", "relation": "CapableOf", "tails": [" meet new people", " get a job", " meet new friends"]}
+{"head": "Megan Hylton", "relation": "HasProperty", "tails": [" none", " Megan Hylton", " Meghan Hylton"]}
+{"head": "Megan Hylton", "relation": "MadeUpOf", "tails": [" Megan Hylton", " Meghan Hylton", " Megan Hylton."]}
+{"head": "Megan Hylton", "relation": "NotDesires", "tails": [" none", " Megan Hylton", " Meghan Hylton"]}
+{"head": "Megan Hylton", "relation": "Desires", "tails": [" none", " to have fun", " to have a good time"]}

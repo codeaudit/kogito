@@ -1,0 +1,199 @@
+{"head": "to want", "relation": "HinderedBy", "tails": [" to want", " to want something", " to want "]}
+{"head": "to want", "relation": "isBefore", "tails": [" to want", " to want something", " to want to want"]}
+{"head": "to want", "relation": "isAfter", "tails": [" to want", " to want something", " to want to want"]}
+{"head": "to want", "relation": "HasSubEvent", "tails": [" to want", " to want something", " to want to want"]}
+{"head": "to want", "relation": "Causes", "tails": [" to want", " to want something", " to want to want"]}
+{"head": "to want", "relation": "xReason", "tails": [" to want", " to want something", " to want to want"]}
+{"head": "to surprise", "relation": "HinderedBy", "tails": [" to surprise", " to surprise someone", " to surprise them"]}
+{"head": "to surprise", "relation": "isBefore", "tails": [" to surprise", " to surprise someone", " to surprise them"]}
+{"head": "to surprise", "relation": "isAfter", "tails": [" to make someone happy", " to surprise someone", " to surprise"]}
+{"head": "to surprise", "relation": "HasSubEvent", "tails": [" to surprise", " to surprise someone", " to surprise others"]}
+{"head": "to surprise", "relation": "Causes", "tails": [" to surprise", " to surprise someone", " to surprise people"]}
+{"head": "to surprise", "relation": "xReason", "tails": [" to surprise someone", " to surprise", " to make someone happy"]}
+{"head": "to obsess", "relation": "HinderedBy", "tails": [" to obsess", " to obsess about something", " to obsess over something"]}
+{"head": "to obsess", "relation": "isBefore", "tails": [" to think about something", " to obsess about something", " to obsess"]}
+{"head": "to obsess", "relation": "isAfter", "tails": [" to think about something", " to think about things", " to think about it"]}
+{"head": "to obsess", "relation": "HasSubEvent", "tails": [" to obsess", " to think about something", " to think about it"]}
+{"head": "to obsess", "relation": "Causes", "tails": [" to obsess", " to obsess about something", " to obsess over something"]}
+{"head": "to obsess", "relation": "xReason", "tails": [" to think about something", " to think about things", " to think about"]}
+{"head": "to love", "relation": "HinderedBy", "tails": [" to love", " to love ", " to love someone"]}
+{"head": "to love", "relation": "isBefore", "tails": [" to love", " to be loved", " to love someone"]}
+{"head": "to love", "relation": "isAfter", "tails": [" to be loved", " to love", " to be happy"]}
+{"head": "to love", "relation": "HasSubEvent", "tails": [" to love", " to love others", " to love someone"]}
+{"head": "to love", "relation": "Causes", "tails": [" to love", " to be loved", " to love someone"]}
+{"head": "to love", "relation": "xReason", "tails": [" to love", " to be loved", " to love someone"]}
+{"head": "to fly", "relation": "HinderedBy", "tails": [" to fly", " to fly ", " to fly airplane"]}
+{"head": "to fly", "relation": "isBefore", "tails": [" to fly", " to fly in airplane", " to fly to another country"]}
+{"head": "to fly", "relation": "isAfter", "tails": [" to fly", " get on plane", " get in plane"]}
+{"head": "to fly", "relation": "HasSubEvent", "tails": [" to fly", " get in plane", " get on plane"]}
+{"head": "to fly", "relation": "Causes", "tails": [" have wings", " fly in airplane", " fly plane"]}
+{"head": "to fly", "relation": "xReason", "tails": [" to fly", " to fly in airplane", " fly in airplane"]}
+{"head": "to do", "relation": "HinderedBy", "tails": [" to do", " to do ", " to do  to do "]}
+{"head": "to do", "relation": "isBefore", "tails": [" to do", " have to do", " to do "]}
+{"head": "to do", "relation": "isAfter", "tails": [" to do", " have to do", " to do something"]}
+{"head": "to do", "relation": "HasSubEvent", "tails": [" to do", " to do ", " get out of bed"]}
+{"head": "to do", "relation": "Causes", "tails": [" to do", " have to do", " to do "]}
+{"head": "to do", "relation": "xReason", "tails": [" to do", " have to do", " to do "]}
+{"head": "surprise him", "relation": "HinderedBy", "tails": [" have a good time", " surprise someone", " surprise him"]}
+{"head": "surprise him", "relation": "isBefore", "tails": [" have a good time", " surprise him", " have a good time with him"]}
+{"head": "surprise him", "relation": "isAfter", "tails": [" surprise him", " surprise someone", " have a party"]}
+{"head": "surprise him", "relation": "HasSubEvent", "tails": [" have a good time", " surprise him", " have fun with him"]}
+{"head": "surprise him", "relation": "Causes", "tails": [" have a good time", " surprise him", " surprise someone"]}
+{"head": "surprise him", "relation": "xReason", "tails": [" have a good time", " surprise him", " surprise someone"]}
+{"head": "pilot", "relation": "ObjectUse", "tails": [" fly a plane", " fly the plane", " use as a weapon"]}
+{"head": "pilot", "relation": "AtLocation", "tails": [" airplane", " plane", " airfield"]}
+{"head": "pilot", "relation": "CapableOf", "tails": [" fly plane", " fly airplane", " land plane"]}
+{"head": "pilot", "relation": "HasProperty", "tails": [" flying plane", " flying airplane", " pilot"]}
+{"head": "pilot", "relation": "MadeUpOf", "tails": [" pilot's seat", " flight deck", " pilot seat"]}
+{"head": "pilot", "relation": "NotDesires", "tails": [" fly plane", " fly airplane", " flying airplane"]}
+{"head": "pilot", "relation": "Desires", "tails": [" fly plane", " fly airplane", " flying airplane"]}
+{"head": "parents", "relation": "ObjectUse", "tails": [" have a relationship with", " give birth to child", " have a child"]}
+{"head": "parents", "relation": "AtLocation", "tails": [" parents house", " parents home", " children"]}
+{"head": "parents", "relation": "CapableOf", "tails": [" parent children", " parents to children", " have children"]}
+{"head": "parents", "relation": "HasProperty", "tails": [" parents", " parents and children", " parents children"]}
+{"head": "parents", "relation": "MadeUpOf", "tails": [" parents", " parents and children", " children"]}
+{"head": "parents", "relation": "NotDesires", "tails": [" parents to go to jail", " parents to die", " parents to go to prison"]}
+{"head": "parents", "relation": "Desires", "tails": [" parents to raise children", " parents to be happy", " parents to raise"]}
+{"head": "minute", "relation": "ObjectUse", "tails": [" take a shower", " take a nap", " take a nap in"]}
+{"head": "minute", "relation": "AtLocation", "tails": [" clock", " room", " time"]}
+{"head": "minute", "relation": "CapableOf", "tails": [" watch tv", " wait for doctor", " watch movie"]}
+{"head": "minute", "relation": "HasProperty", "tails": [" one hour", " found in clock", " one second"]}
+{"head": "minute", "relation": "MadeUpOf", "tails": [" clock", " minute", " time"]}
+{"head": "minute", "relation": "NotDesires", "tails": [" short of time", " have to wait", " have to wait for"]}
+{"head": "minute", "relation": "Desires", "tails": [" have time to do something", " have time to do it", " have time to do something else"]}
+{"head": "love minute", "relation": "HinderedBy", "tails": [" love", " have a good time", " love minute"]}
+{"head": "love minute", "relation": "isBefore", "tails": [" love", " kiss", " feel good"]}
+{"head": "love minute", "relation": "isAfter", "tails": [" love", " kiss", " feel good"]}
+{"head": "love minute", "relation": "HasSubEvent", "tails": [" love", " kiss", " feel good"]}
+{"head": "love minute", "relation": "Causes", "tails": [" love", " love of other person", " love of other people"]}
+{"head": "love minute", "relation": "xReason", "tails": [" love", " love of other person", " love of other people"]}
+{"head": "lessons", "relation": "ObjectUse", "tails": [" learn from", " teach a child", " teach a class"]}
+{"head": "lessons", "relation": "AtLocation", "tails": [" classroom", " school", " book"]}
+{"head": "lessons", "relation": "CapableOf", "tails": [" learn from", " teach to others", " learn from experience"]}
+{"head": "lessons", "relation": "HasProperty", "tails": [" taught in school", " taught to students", " taught in class"]}
+{"head": "lessons", "relation": "MadeUpOf", "tails": [" lesson plan", " learn from", " lesson"]}
+{"head": "lessons", "relation": "NotDesires", "tails": [" learn from", " learn new things", " learn something new"]}
+{"head": "lessons", "relation": "Desires", "tails": [" learn from", " learn something new", " learn"]}
+{"head": "flying lessons", "relation": "ObjectUse", "tails": [" learn how to fly a plane", " learn how to fly", " learn to fly"]}
+{"head": "flying lessons", "relation": "AtLocation", "tails": [" airplane", " flying school", " plane"]}
+{"head": "flying lessons", "relation": "CapableOf", "tails": [" learn to fly", " fly plane", " fly airplane"]}
+{"head": "flying lessons", "relation": "HasProperty", "tails": [" learning to fly", " flying plane", " flying airplane"]}
+{"head": "flying lessons", "relation": "MadeUpOf", "tails": [" flying", " flying machine", " flying plane"]}
+{"head": "flying lessons", "relation": "NotDesires", "tails": [" learn how to fly", " learn to fly", " learn how to fly a plane"]}
+{"head": "flying lessons", "relation": "Desires", "tails": [" learn how to fly", " learn to fly", " learn how to fly a plane"]}
+{"head": "dream", "relation": "ObjectUse", "tails": [" wake up from", " wake up in", " wake up"]}
+{"head": "dream", "relation": "AtLocation", "tails": [" dream", " bed", " dreamland"]}
+{"head": "dream", "relation": "CapableOf", "tails": [" wake up", " wake up in morning", " wake up from"]}
+{"head": "dream", "relation": "HasProperty", "tails": [" dream", " dreaming", " awake"]}
+{"head": "dream", "relation": "MadeUpOf", "tails": [" wake up", " dream", " wake up from"]}
+{"head": "dream", "relation": "NotDesires", "tails": [" wake up", " wake up in the morning", " wake up in morning"]}
+{"head": "dream", "relation": "Desires", "tails": [" have good dreams", " have fun", " sleep"]}
+{"head": "do what", "relation": "HinderedBy", "tails": [" do what          do what         ", " do what          do what         do", " do what                    "]}
+{"head": "do what", "relation": "isBefore", "tails": [" do well", " do what", " have fun"]}
+{"head": "do what", "relation": "isAfter", "tails": [" do what they want to do", " do what you want to do", " do what they want"]}
+{"head": "do what", "relation": "HasSubEvent", "tails": [" get out of the way", " do what you want to do", " get out of way"]}
+{"head": "do what", "relation": "Causes", "tails": [" do what they want to do", " do what you want to do", " do what you want"]}
+{"head": "do what", "relation": "xReason", "tails": [" do what you want to do", " do what they want to do", " get what you want"]}
+{"head": "birthday", "relation": "ObjectUse", "tails": [" celebrate", " have a party", " celebrate with family"]}
+{"head": "birthday", "relation": "AtLocation", "tails": [" birthday party", " birthday cake", " birthday"]}
+{"head": "birthday", "relation": "CapableOf", "tails": [" celebrate", " celebrate with family", " have party"]}
+{"head": "birthday", "relation": "HasProperty", "tails": [" birthday", " birthdays", " happy birthday"]}
+{"head": "birthday", "relation": "MadeUpOf", "tails": [" birthday", " birthday cake", " birthdays"]}
+{"head": "birthday", "relation": "NotDesires", "tails": [" birthday", " birthday party", " have party"]}
+{"head": "birthday", "relation": "Desires", "tails": [" celebrate", " birthday", " have party"]}
+{"head": "airplanes", "relation": "ObjectUse", "tails": [" fly in", " fly", " flying"]}
+{"head": "airplanes", "relation": "AtLocation", "tails": [" airfield", " airplane", " airplane hangar"]}
+{"head": "airplanes", "relation": "CapableOf", "tails": [" fly in air", " land on runway", " fly in sky"]}
+{"head": "airplanes", "relation": "HasProperty", "tails": [" air travel", " flying", " air transport"]}
+{"head": "airplanes", "relation": "MadeUpOf", "tails": [" airfoils", " airfoil", " flight deck"]}
+{"head": "airplanes", "relation": "NotDesires", "tails": [" flying", " fly in air", " air turbulence"]}
+{"head": "airplanes", "relation": "Desires", "tails": [" air travel", " air conditioning", " travel"]}
+{"head": "Timmy was always obsessed with airplanes.", "relation": "xAttr", "tails": [" curious", " interested", " fascinated"]}
+{"head": "Timmy was always obsessed with airplanes.", "relation": "xWant", "tails": [" to learn how to fly", " to buy a plane", " to go to the airport"]}
+{"head": "Timmy was always obsessed with airplanes.", "relation": "xNeed", "tails": [" to learn about airplanes", " none", " to learn about planes"]}
+{"head": "Timmy was always obsessed with airplanes.", "relation": "xEffect", "tails": [" gets into trouble", " none", " gets excited about airplanes"]}
+{"head": "Timmy was always obsessed with airplanes.", "relation": "HinderedBy", "tails": [" Timmy's dad told him not to.", " Timmy is a pilot.", " Timmy's dad told him not to"]}
+{"head": "Timmy was always obsessed with airplanes.", "relation": "oWant", "tails": [" none", " to buy a plane", " to take pictures of them"]}
+{"head": "Timmy was always obsessed with airplanes.", "relation": "xReact", "tails": [" entertained", " happy", " excited"]}
+{"head": "Timmy was always obsessed with airplanes.", "relation": "oEffect", "tails": [" none", " they learn to fly a plane", " they learn to fly the airplane"]}
+{"head": "Timmy was always obsessed with airplanes.", "relation": "xIntent", "tails": [" none", " to be a pilot", " to be a pilot."]}
+{"head": "Timmy was always obsessed with airplanes.", "relation": "oReact", "tails": [" none", " interested", " happy"]}
+{"head": "Timmy was always obsessed with airplanes.", "relation": "isBefore", "tails": [" Timmy buys a plane.", " Timmy buys a plane", " Timmy buys a new plane"]}
+{"head": "Timmy was always obsessed with airplanes.", "relation": "isAfter", "tails": [" Timmy's dad bought him a plane.", " Timmy was born with a love for airplanes.", " Timmy's dad bought him an airplane."]}
+{"head": "Timmy was always obsessed with airplanes.", "relation": "HasSubEvent", "tails": [" watch movies about airplanes", " watch movies about planes", " get a plane ticket"]}
+{"head": "Timmy was always obsessed with airplanes.", "relation": "Causes", "tails": [" Timmy's dad taught him how to fly.", " Timmy's dad taught him to fly.", " Timmy's dad taught him to love airplanes."]}
+{"head": "Timmy was always obsessed with airplanes.", "relation": "xReason", "tails": [" Timmy's dad taught him how to fly.", " Timmy's dad taught him to fly.", " Timmy's dad bought him a plane."]}
+{"head": "Timmy", "relation": "ObjectUse", "tails": [" Timmy", " Timmy's friend", " Timmy's mom"]}
+{"head": "Timmy", "relation": "AtLocation", "tails": [" Timmy's house", " Timmy", " Timmy's room"]}
+{"head": "Timmy", "relation": "CapableOf", "tails": [" hang out with friends", " hang out with Timmy", " hang out with Tim"]}
+{"head": "Timmy", "relation": "HasProperty", "tails": [" Timmy", " Timmy's brother", " Timmy's brother."]}
+{"head": "Timmy", "relation": "MadeUpOf", "tails": [" Timmy", " Timmy's hand", " Timmy's hands"]}
+{"head": "Timmy", "relation": "NotDesires", "tails": [" Timmy", " none", " Timmy's mom"]}
+{"head": "Timmy", "relation": "Desires", "tails": [" Timmy", " none", " Timmy's mom"]}
+{"head": "His dream was to be a pilot.", "relation": "xAttr", "tails": [" ambitious", " talented", " skilled"]}
+{"head": "His dream was to be a pilot.", "relation": "xWant", "tails": [" to go to college", " to fly a plane", " to get a job"]}
+{"head": "His dream was to be a pilot.", "relation": "xNeed", "tails": [" get a pilot's license", " learn to fly", " learn to fly a plane"]}
+{"head": "His dream was to be a pilot.", "relation": "xEffect", "tails": [" get a pilot's license", " get a job as a pilot", " get a job as a pilot."]}
+{"head": "His dream was to be a pilot.", "relation": "HinderedBy", "tails": [" his parents won't let him.", " his parents will not let him.", " his parents won't let him"]}
+{"head": "His dream was to be a pilot.", "relation": "oWant", "tails": [" to go to college", " to be a pilot", " to go to school"]}
+{"head": "His dream was to be a pilot.", "relation": "xReact", "tails": [" proud", " accomplished", " excited"]}
+{"head": "His dream was to be a pilot.", "relation": "oEffect", "tails": [" learn how to fly a plane", " get a job as a pilot", " learn how to fly"]}
+{"head": "His dream was to be a pilot.", "relation": "xIntent", "tails": [" to be a pilot", " to fly a plane", " to be a pilot."]}
+{"head": "His dream was to be a pilot.", "relation": "oReact", "tails": [" none", " proud", " happy"]}
+{"head": "His dream was to be a pilot.", "relation": "isBefore", "tails": [" his dream to become a pilot", " his dream to be a pilot", " his dream was to fly a plane"]}
+{"head": "His dream was to be a pilot.", "relation": "isAfter", "tails": [" PersonX wants to be a pilot.", " PersonX wants to fly a plane.", " PersonX wants to be a pilot"]}
+{"head": "His dream was to be a pilot.", "relation": "HasSubEvent", "tails": [" get a job as a pilot", " learn how to fly a plane", " learn how to fly"]}
+{"head": "His dream was to be a pilot.", "relation": "Causes", "tails": [" his parents told him to go to college", " his parents told him to go to college.", " his parents told him he was not good enough"]}
+{"head": "His dream was to be a pilot.", "relation": "xReason", "tails": [" have a good job", " have a job", " have a good career"]}
+{"head": "He was sure that's what he wanted to do after that.", "relation": "xAttr", "tails": [" determined", " hopeful", " confident"]}
+{"head": "He was sure that's what he wanted to do after that.", "relation": "xWant", "tails": [" to go to the movies", " to get a job", " to go home"]}
+{"head": "He was sure that's what he wanted to do after that.", "relation": "xNeed", "tails": [" to think about what they want to do", " to think about what they want to do next", " to think about what they wanted to do"]}
+{"head": "He was sure that's what he wanted to do after that.", "relation": "xEffect", "tails": [" none", " he was going to go to the movies.", " he was going to go to the movies"]}
+{"head": "He was sure that's what he wanted to do after that.", "relation": "HinderedBy", "tails": [" he wanted to do it", " he wanted to be a doctor", " he wanted to do something else"]}
+{"head": "He was sure that's what he wanted to do after that.", "relation": "oWant", "tails": [" none", " to go out and have a good time", " to go out and have a good time."]}
+{"head": "He was sure that's what he wanted to do after that.", "relation": "xReact", "tails": [" happy", " satisfied", " excited"]}
+{"head": "He was sure that's what he wanted to do after that.", "relation": "oEffect", "tails": [" none", " get a new job", " get a job"]}
+{"head": "He was sure that's what he wanted to do after that.", "relation": "xIntent", "tails": [" to be a good person", " none", " to get a job"]}
+{"head": "He was sure that's what he wanted to do after that.", "relation": "oReact", "tails": [" none", " happy", " happy."]}
+{"head": "He was sure that's what he wanted to do after that.", "relation": "isBefore", "tails": [" he went to the movies", " he went to sleep", " he goes to the movies"]}
+{"head": "He was sure that's what he wanted to do after that.", "relation": "isAfter", "tails": [" he went to the movies", " he was going to do it", " he was going to go to college"]}
+{"head": "He was sure that's what he wanted to do after that.", "relation": "HasSubEvent", "tails": [" get a new job", " get a job", " get a new job."]}
+{"head": "He was sure that's what he wanted to do after that.", "relation": "Causes", "tails": [" he wanted to do it", " he wanted to do something else", " he wanted to be a doctor"]}
+{"head": "He was sure that's what he wanted to do after that.", "relation": "xReason", "tails": [" he was going to do it", " he wanted to do it", " he wanted to do something else"]}
+{"head": "He loved every minute of it.", "relation": "xAttr", "tails": [" happy", " loving", " fun"]}
+{"head": "He loved every minute of it.", "relation": "xWant", "tails": [" to tell everyone about it", " to tell everyone about it.", " to go home"]}
+{"head": "He loved every minute of it.", "relation": "xNeed", "tails": [" none", " to have fun", " to enjoy it"]}
+{"head": "He loved every minute of it.", "relation": "xEffect", "tails": [" none", " he gets to do it again", " he gets to do something he loves"]}
+{"head": "He loved every minute of it.", "relation": "HinderedBy", "tails": [" he had a good time", " he had a lot of fun", " he had a great time"]}
+{"head": "He loved every minute of it.", "relation": "oWant", "tails": [" none", " to have a good time", " to have fun with him"]}
+{"head": "He loved every minute of it.", "relation": "xReact", "tails": [" happy", " happy.", " satisfied"]}
+{"head": "He loved every minute of it.", "relation": "oEffect", "tails": [" none", " they get to see them again", " they get to go home and relax"]}
+{"head": "He loved every minute of it.", "relation": "xIntent", "tails": [" none", " to have a good time", " to have fun"]}
+{"head": "He loved every minute of it.", "relation": "oReact", "tails": [" none", " happy", " happy."]}
+{"head": "He loved every minute of it.", "relation": "isBefore", "tails": [" he went to sleep", " he went to the movies", " he went to bed"]}
+{"head": "He loved every minute of it.", "relation": "isAfter", "tails": [" he went to the movies", " he went to a concert", " he went to sleep"]}
+{"head": "He loved every minute of it.", "relation": "HasSubEvent", "tails": [" enjoy the moment", " enjoy the experience", " enjoy the event"]}
+{"head": "He loved every minute of it.", "relation": "Causes", "tails": [" he had a good time", " he had a lot of fun", " he had a great time"]}
+{"head": "He loved every minute of it.", "relation": "xReason", "tails": [" he had a good time", " he had a lot of fun", " he had a great time"]}
+{"head": "For his 16th birthday his parents surprised him with flying lessons.", "relation": "xAttr", "tails": [" excited", " happy", " proud"]}
+{"head": "For his 16th birthday his parents surprised him with flying lessons.", "relation": "xWant", "tails": [" to learn how to fly", " to learn how to fly a plane", " to learn how to fly a plane."]}
+{"head": "For his 16th birthday his parents surprised him with flying lessons.", "relation": "xNeed", "tails": [" to buy a plane", " buy a plane ticket", " to buy a plane ticket"]}
+{"head": "For his 16th birthday his parents surprised him with flying lessons.", "relation": "xEffect", "tails": [" for his birthday", " gets a new hobby", " gets a new job"]}
+{"head": "For his 16th birthday his parents surprised him with flying lessons.", "relation": "HinderedBy", "tails": [" for his 16th birthday", " for his birthday", " for their birthday"]}
+{"head": "For his 16th birthday his parents surprised him with flying lessons.", "relation": "oWant", "tails": [" to teach him how to fly", " to take him to the airport", " to teach him how to fly."]}
+{"head": "For his 16th birthday his parents surprised him with flying lessons.", "relation": "xReact", "tails": [" happy", " excited", " proud"]}
+{"head": "For his 16th birthday his parents surprised him with flying lessons.", "relation": "oEffect", "tails": [" get a new job", " none", " get a new hobby"]}
+{"head": "For his 16th birthday his parents surprised him with flying lessons.", "relation": "xIntent", "tails": [" to learn how to fly", " to be a pilot", " to learn to fly"]}
+{"head": "For his 16th birthday his parents surprised him with flying lessons.", "relation": "oReact", "tails": [" none", " happy", " excited"]}
+{"head": "For his 16th birthday his parents surprised him with flying lessons.", "relation": "isBefore", "tails": [" for his 16th birthday", " for his birthday", " for their birthday"]}
+{"head": "For his 16th birthday his parents surprised him with flying lessons.", "relation": "isAfter", "tails": [" for his 16th birthday", " for his birthday", " for their birthday"]}
+{"head": "For his 16th birthday his parents surprised him with flying lessons.", "relation": "HasSubEvent", "tails": [" learn how to fly a plane", " learn how to fly", " learn to fly a plane"]}
+{"head": "For his 16th birthday his parents surprised him with flying lessons.", "relation": "Causes", "tails": [" for his birthday", " for their birthday", " happy"]}
+{"head": "For his 16th birthday his parents surprised him with flying lessons.", "relation": "xReason", "tails": [" for his birthday", " for their birthday", " for his birthday."]}
+{"head": "16th birthday", "relation": "ObjectUse", "tails": [" celebrate", " have a party", " celebrate with family"]}
+{"head": "16th birthday", "relation": "AtLocation", "tails": [" birthday party", " birthday cake", " party"]}
+{"head": "16th birthday", "relation": "CapableOf", "tails": [" celebrate", " celebrate with family", " celebrate birthday"]}
+{"head": "16th birthday", "relation": "HasProperty", "tails": [" happy", " birthday", " birthday party"]}
+{"head": "16th birthday", "relation": "MadeUpOf", "tails": [" birthday cake", " birthday", " birthday party"]}
+{"head": "16th birthday", "relation": "NotDesires", "tails": [" birthday party", " have a good time", " have a party"]}
+{"head": "16th birthday", "relation": "Desires", "tails": [" to celebrate", " celebrate", " birthday party"]}

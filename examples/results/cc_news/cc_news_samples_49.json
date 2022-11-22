@@ -1,0 +1,111 @@
+{"head": "today", "relation": "ObjectUse", "tails": [" have a good time", " have a good day", " have a party"]}
+{"head": "today", "relation": "AtLocation", "tails": [" office building", " school", " home"]}
+{"head": "today", "relation": "CapableOf", "tails": [" get out of bed", " go to work", " get out of house"]}
+{"head": "today", "relation": "HasProperty", "tails": [" one day a week", " one day a year", " one day a month"]}
+{"head": "today", "relation": "MadeUpOf", "tails": [" day", " clock", " today"]}
+{"head": "today", "relation": "NotDesires", "tails": [" have to go to work", " have to go to the bathroom", " have to go to the store"]}
+{"head": "today", "relation": "Desires", "tails": [" have a good time", " have a good day", " have fun with friends"]}
+{"head": "to announce", "relation": "HinderedBy", "tails": [" to announce", " to announce ", " to announce something"]}
+{"head": "to announce", "relation": "isBefore", "tails": [" to announce", " to announce something", " to announce the news"]}
+{"head": "to announce", "relation": "isAfter", "tails": [" announcement", " announce something", " to announce something"]}
+{"head": "to announce", "relation": "HasSubEvent", "tails": [" to announce", " make announcement", " to announce something"]}
+{"head": "to announce", "relation": "Causes", "tails": [" to announce", " to announce something", " announce something"]}
+{"head": "to announce", "relation": "xReason", "tails": [" announce something", " to announce something", " to announce"]}
+{"head": "theatre centennial season production", "relation": "ObjectUse", "tails": [" play a role in a centennial production", " play a role in a centennial season production", " play a role in centennial production"]}
+{"head": "theatre centennial season production", "relation": "AtLocation", "tails": [" theatre", " theater", " theatre company"]}
+{"head": "theatre centennial season production", "relation": "CapableOf", "tails": [" play part in centennial production", " play part in centennial season production", " play part in centennial season"]}
+{"head": "theatre centennial season production", "relation": "HasProperty", "tails": [" the centennial season", " the centennial", " the centennial of america"]}
+{"head": "theatre centennial season production", "relation": "MadeUpOf", "tails": [" theatre", " show", " the play"]}
+{"head": "theatre centennial season production", "relation": "NotDesires", "tails": [" have a good time", " have a lot of fun", " have a good time at"]}
+{"head": "theatre centennial season production", "relation": "Desires", "tails": [" to celebrate the centennial", " have a good time", " to celebrate centennial"]}
+{"head": "theatre", "relation": "ObjectUse", "tails": [" theatre", " play in", " performing in"]}
+{"head": "theatre", "relation": "AtLocation", "tails": [" theatre", " theater", " movie"]}
+{"head": "theatre", "relation": "CapableOf", "tails": [" watch play", " see play", " play musical"]}
+{"head": "theatre", "relation": "HasProperty", "tails": [" theatre", " theater", " entertainment"]}
+{"head": "theatre", "relation": "MadeUpOf", "tails": [" theatre", " theater", " movie"]}
+{"head": "theatre", "relation": "NotDesires", "tails": [" theatre", " theater", " play"]}
+{"head": "theatre", "relation": "Desires", "tails": [" theatre", " entertainment", " play"]}
+{"head": "team", "relation": "ObjectUse", "tails": [" win the game", " play with", " play on"]}
+{"head": "team", "relation": "AtLocation", "tails": [" soccer game", " team", " team bus"]}
+{"head": "team", "relation": "CapableOf", "tails": [" win game", " play game", " team up with"]}
+{"head": "team", "relation": "HasProperty", "tails": [" team", " team spirit", " team of players"]}
+{"head": "team", "relation": "MadeUpOf", "tails": [" team name", " team", " team jersey"]}
+{"head": "team", "relation": "NotDesires", "tails": [" win the game", " win game", " team to win"]}
+{"head": "team", "relation": "Desires", "tails": [" win the game", " team spirit", " win game"]}
+{"head": "season", "relation": "ObjectUse", "tails": [" season", " play football", " play baseball"]}
+{"head": "season", "relation": "AtLocation", "tails": [" baseball game", " football game", " baseball"]}
+{"head": "season", "relation": "CapableOf", "tails": [" play game", " season", " play football"]}
+{"head": "season", "relation": "HasProperty", "tails": [" season", " seasons", " one season"]}
+{"head": "season", "relation": "MadeUpOf", "tails": [" season", " seasons", " game"]}
+{"head": "season", "relation": "NotDesires", "tails": [" season to end", " season ends", " season"]}
+{"head": "season", "relation": "Desires", "tails": [" season", " season to end", " have fun"]}
+{"head": "production", "relation": "ObjectUse", "tails": [" make money", " produce a product", " make a movie"]}
+{"head": "production", "relation": "AtLocation", "tails": [" movie", " movie studio", " film"]}
+{"head": "production", "relation": "CapableOf", "tails": [" film movie", " make movie", " film film"]}
+{"head": "production", "relation": "HasProperty", "tails": [" production process", " production", " production line"]}
+{"head": "production", "relation": "MadeUpOf", "tails": [" production line", " production process", " production plant"]}
+{"head": "production", "relation": "NotDesires", "tails": [" production problems", " production errors", " production line"]}
+{"head": "production", "relation": "Desires", "tails": [" production", " make money", " production line"]}
+{"head": "design", "relation": "ObjectUse", "tails": [" design a house", " create a new product", " create a design"]}
+{"head": "design", "relation": "AtLocation", "tails": [" design studio", " art gallery", " computer"]}
+{"head": "design", "relation": "CapableOf", "tails": [" design product", " use computer", " create art"]}
+{"head": "design", "relation": "HasProperty", "tails": [" found in art gallery", " design", " found in art books"]}
+{"head": "design", "relation": "MadeUpOf", "tails": [" design", " design process", " design language"]}
+{"head": "design", "relation": "NotDesires", "tails": [" design job", " design", " design team"]}
+{"head": "design", "relation": "Desires", "tails": [" create art", " design", " design for others"]}
+{"head": "centennial", "relation": "ObjectUse", "tails": [" celebrate", " celebrating", " celebrate the year"]}
+{"head": "centennial", "relation": "AtLocation", "tails": [" birthday party", " party", " museum"]}
+{"head": "centennial", "relation": "CapableOf", "tails": [" celebrate", " celebrate anniversary", " celebrate birthday"]}
+{"head": "centennial", "relation": "HasProperty", "tails": [" one of world's most important events", " one of the world's most important events", " one of the world's most important holidays"]}
+{"head": "centennial", "relation": "MadeUpOf", "tails": [" centennial", " birthday", " centenary"]}
+{"head": "centennial", "relation": "NotDesires", "tails": [" celebrate", " birthday", " celebrating"]}
+{"head": "centennial", "relation": "Desires", "tails": [" celebrate", " celebrating", " celebration of"]}
+{"head": "cast , design production team", "relation": "ObjectUse", "tails": [" make a movie", " use as a reference", " make a movie with"]}
+{"head": "cast , design production team", "relation": "AtLocation", "tails": [" film", " studio", " movie"]}
+{"head": "cast , design production team", "relation": "CapableOf", "tails": [" use as reference material", " make a movie", " use as a reference"]}
+{"head": "cast , design production team", "relation": "HasProperty", "tails": [" production team", " design team", " made by people"]}
+{"head": "cast , design production team", "relation": "MadeUpOf", "tails": [" production team", " design team", " film"]}
+{"head": "cast , design production team", "relation": "NotDesires", "tails": [" make a movie", " production team", " design team"]}
+{"head": "cast , design production team", "relation": "Desires", "tails": [" to make a good product", " make a good product", " make a movie"]}
+{"head": "cast", "relation": "ObjectUse", "tails": [" use as a paperweight", " use as a paper weight", " play a game"]}
+{"head": "cast", "relation": "AtLocation", "tails": [" tv show", " movie", " television"]}
+{"head": "cast", "relation": "CapableOf", "tails": [" use as paperweight", " use as a paperweight", " use as paper weight"]}
+{"head": "cast", "relation": "HasProperty", "tails": [" found in computer", " found in telescope", " found on computer"]}
+{"head": "cast", "relation": "MadeUpOf", "tails": [" antennae", " antenna", " cast"]}
+{"head": "cast", "relation": "NotDesires", "tails": [" watch tv", " hear sound", " see what happened"]}
+{"head": "cast", "relation": "Desires", "tails": [" listen to music", " listen to", " hear music"]}
+{"head": "announce team", "relation": "HinderedBy", "tails": [" announce team", " announce the team", " make announcement"]}
+{"head": "announce team", "relation": "isBefore", "tails": [" announce team", " announce winner", " announce the winner"]}
+{"head": "announce team", "relation": "isAfter", "tails": [" announce team", " announce team's name", " announce team to the crowd"]}
+{"head": "announce team", "relation": "HasSubEvent", "tails": [" announce team", " make announcement", " announce team name"]}
+{"head": "announce team", "relation": "Causes", "tails": [" announce team", " announce the team", " announce a team"]}
+{"head": "announce team", "relation": "xReason", "tails": [" announce team", " make announcement", " announce the team"]}
+{"head": "Wiz , \u00a0 June", "relation": "ObjectUse", "tails": [" get a new job", " get married", " have a party"]}
+{"head": "Wiz , \u00a0 June", "relation": "AtLocation", "tails": ["                      ", "                     ", "                    "]}
+{"head": "Wiz , \u00a0 June", "relation": "CapableOf", "tails": [" get a new job", " get married", " go to the beach"]}
+{"head": "Wiz , \u00a0 June", "relation": "HasProperty", "tails": [" none", " Wants to get married.", " Wants to go to the beach"]}
+{"head": "Wiz , \u00a0 June", "relation": "MadeUpOf", "tails": [" the day of the wedding", " Washing the dishes.", " the day of the week"]}
+{"head": "Wiz , \u00a0 June", "relation": "NotDesires", "tails": [" none", " get married", " have a party"]}
+{"head": "Wiz , \u00a0 June", "relation": "Desires", "tails": [" none", " to have fun", " to have a good time"]}
+{"head": "The Muny announced today its full cast, design and production team for the theatre's centennial season production of\u00a0The Wiz,\u00a0June 19 - 25.", "relation": "xAttr", "tails": [" creative", " talented", " artistic"]}
+{"head": "The Muny announced today its full cast, design and production team for the theatre's centennial season production of\u00a0The Wiz,\u00a0June 19 - 25.", "relation": "xWant", "tails": [" to celebrate the centennial of the theatre", " to announce the cast and crew", " to celebrate the centennial"]}
+{"head": "The Muny announced today its full cast, design and production team for the theatre's centennial season production of\u00a0The Wiz,\u00a0June 19 - 25.", "relation": "xNeed", "tails": [" to be hired for the production", " to be hired for the role", " to be hired for the job"]}
+{"head": "The Muny announced today its full cast, design and production team for the theatre's centennial season production of\u00a0The Wiz,\u00a0June 19 - 25.", "relation": "xEffect", "tails": [" the show to be a success", " the show to be successful", " the production to be successful"]}
+{"head": "The Muny announced today its full cast, design and production team for the theatre's centennial season production of\u00a0The Wiz,\u00a0June 19 - 25.", "relation": "HinderedBy", "tails": [" The Muny is celebrating its centennial season.", " The Muny is celebrating the centennial of the company.", " The Muny is celebrating its centennial."]}
+{"head": "The Muny announced today its full cast, design and production team for the theatre's centennial season production of\u00a0The Wiz,\u00a0June 19 - 25.", "relation": "oWant", "tails": [" to prepare for the show", " to get ready for the show", " to prepare for the production"]}
+{"head": "The Muny announced today its full cast, design and production team for the theatre's centennial season production of\u00a0The Wiz,\u00a0June 19 - 25.", "relation": "xReact", "tails": [" happy", " excited", " proud"]}
+{"head": "The Muny announced today its full cast, design and production team for the theatre's centennial season production of\u00a0The Wiz,\u00a0June 19 - 25.", "relation": "oEffect", "tails": [" the show to be a success", " the production to be successful", " the show to be successful"]}
+{"head": "The Muny announced today its full cast, design and production team for the theatre's centennial season production of\u00a0The Wiz,\u00a0June 19 - 25.", "relation": "xIntent", "tails": [" to celebrate the centennial of the theatre", " to celebrate the centennial", " to celebrate the centennial of the company"]}
+{"head": "The Muny announced today its full cast, design and production team for the theatre's centennial season production of\u00a0The Wiz,\u00a0June 19 - 25.", "relation": "oReact", "tails": [" none", " the show to be a success", " the show to be successful"]}
+{"head": "The Muny announced today its full cast, design and production team for the theatre's centennial season production of\u00a0The Wiz,\u00a0June 19 - 25.", "relation": "isBefore", "tails": [" the show to be a success", " the production to be successful", " the show to be successful"]}
+{"head": "The Muny announced today its full cast, design and production team for the theatre's centennial season production of\u00a0The Wiz,\u00a0June 19 - 25.", "relation": "isAfter", "tails": [" the show to be a success", " the production of the show", " the production of the play"]}
+{"head": "The Muny announced today its full cast, design and production team for the theatre's centennial season production of\u00a0The Wiz,\u00a0June 19 - 25.", "relation": "HasSubEvent", "tails": [" the production to be successful", " the show to be successful", " the cast and crew"]}
+{"head": "The Muny announced today its full cast, design and production team for the theatre's centennial season production of\u00a0The Wiz,\u00a0June 19 - 25.", "relation": "Causes", "tails": [" creative", " excited", " the cast"]}
+{"head": "The Muny announced today its full cast, design and production team for the theatre's centennial season production of\u00a0The Wiz,\u00a0June 19 - 25.", "relation": "xReason", "tails": [" the show to be a success", " the show to be successful", " the production to be successful"]}
+{"head": "Muny", "relation": "ObjectUse", "tails": [" have a party", " get a job", " get a job at"]}
+{"head": "Muny", "relation": "AtLocation", "tails": [" michigan", " city", " subway station"]}
+{"head": "Muny", "relation": "CapableOf", "tails": [" go to hospital", " go to church", " go to the movies"]}
+{"head": "Muny", "relation": "HasProperty", "tails": [" one of the world's largest cities", " one of the cities in the world", " one of the world's most famous cities"]}
+{"head": "Muny", "relation": "MadeUpOf", "tails": [" michigan", " bus stop", " subway station"]}
+{"head": "Muny", "relation": "NotDesires", "tails": [" michigan", " have to go to", " have to go to hospital"]}
+{"head": "Muny", "relation": "Desires", "tails": [" to have a place to live", " have a good time", " to have a good time"]}

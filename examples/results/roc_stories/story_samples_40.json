@@ -1,0 +1,240 @@
+{"head": "wife", "relation": "ObjectUse", "tails": [" have sex with", " have a relationship with", " marry"]}
+{"head": "wife", "relation": "AtLocation", "tails": [" wife", " wife's car", " wife's house"]}
+{"head": "wife", "relation": "CapableOf", "tails": [" marry husband", " marry", " marry man"]}
+{"head": "wife", "relation": "HasProperty", "tails": [" married", " married to", " married to husband"]}
+{"head": "wife", "relation": "MadeUpOf", "tails": [" wife", " wife's hand", " wife's name"]}
+{"head": "wife", "relation": "NotDesires", "tails": [" husband to die", " wife to die", " wife to be dead"]}
+{"head": "wife", "relation": "Desires", "tails": [" wife to be happy", " wife to love", " have a good time with"]}
+{"head": "voice", "relation": "ObjectUse", "tails": [" voice", " speaking", " sound like"]}
+{"head": "voice", "relation": "AtLocation", "tails": [" voice box", " voice", " music"]}
+{"head": "voice", "relation": "CapableOf", "tails": [" hear voice", " speak to others", " speak"]}
+{"head": "voice", "relation": "HasProperty", "tails": [" heard by others", " heard by many people", " heard by many"]}
+{"head": "voice", "relation": "MadeUpOf", "tails": [" voice box", " voice", " sound"]}
+{"head": "voice", "relation": "NotDesires", "tails": [" sound of voice", " voice", " hear voice"]}
+{"head": "voice", "relation": "Desires", "tails": [" sound of voice", " hear voice", " voice"]}
+{"head": "to walk", "relation": "HinderedBy", "tails": [" to walk", " to walk ", " to walk  to work"]}
+{"head": "to walk", "relation": "isBefore", "tails": [" to walk", " to get somewhere", " to get to destination"]}
+{"head": "to walk", "relation": "isAfter", "tails": [" to get somewhere", " to get to destination", " get up"]}
+{"head": "to walk", "relation": "HasSubEvent", "tails": [" to walk", " get up", " get out of car"]}
+{"head": "to walk", "relation": "Causes", "tails": [" to walk", " get exercise", " to walk "]}
+{"head": "to walk", "relation": "xReason", "tails": [" to walk", " get exercise", " to walk somewhere"]}
+{"head": "to tell", "relation": "HinderedBy", "tails": [" to tell", " to tell ", " to tell  to tell "]}
+{"head": "to tell", "relation": "isBefore", "tails": [" to tell", " to tell the truth", " to tell "]}
+{"head": "to tell", "relation": "isAfter", "tails": [" to tell the truth", " to tell", " to be heard"]}
+{"head": "to tell", "relation": "HasSubEvent", "tails": [" to tell", " to tell ", " to tell  tell "]}
+{"head": "to tell", "relation": "Causes", "tails": [" to tell", " to tell  to  tell ", " to tell  to  tell  "]}
+{"head": "to tell", "relation": "xReason", "tails": [" to tell", " to be honest", " none"]}
+{"head": "to sound", "relation": "HinderedBy", "tails": [" to sound", " to sound ", " to sound good"]}
+{"head": "to sound", "relation": "isBefore", "tails": [" to sound", " to be heard", " to sound "]}
+{"head": "to sound", "relation": "isAfter", "tails": [" to sound", " to be heard", " to make noise"]}
+{"head": "to sound", "relation": "HasSubEvent", "tails": [" to sound", " make noise", " to sound "]}
+{"head": "to sound", "relation": "Causes", "tails": [" to sound", " make noise", " to sound "]}
+{"head": "to sound", "relation": "xReason", "tails": [" to sound", " to be heard", " sound"]}
+{"head": "to hear", "relation": "HinderedBy", "tails": [" to hear", " to hear ", " to hear something"]}
+{"head": "to hear", "relation": "isBefore", "tails": [" to hear", " listen to", " to hear "]}
+{"head": "to hear", "relation": "isAfter", "tails": [" to hear what they are saying", " to hear what is being said", " to hear"]}
+{"head": "to hear", "relation": "HasSubEvent", "tails": [" to hear", " listen to", " listen to music"]}
+{"head": "to hear", "relation": "Causes", "tails": [" listen to", " listen to music", " hear"]}
+{"head": "to hear", "relation": "xReason", "tails": [" listen to", " listen to music", " hear music"]}
+{"head": "to find", "relation": "HinderedBy", "tails": [" to find ", " to find", " to find  to find "]}
+{"head": "to find", "relation": "isBefore", "tails": [" to find", " to find something", " to find "]}
+{"head": "to find", "relation": "isAfter", "tails": [" to find something", " to find something to eat", " to find"]}
+{"head": "to find", "relation": "HasSubEvent", "tails": [" to find", " to find ", " to look for it"]}
+{"head": "to find", "relation": "Causes", "tails": [" to find", " to find ", " to find something"]}
+{"head": "to find", "relation": "xReason", "tails": [" to find", " to find something", " to find "]}
+{"head": "to come", "relation": "HinderedBy", "tails": [" to come", " to come ", " to come  to"]}
+{"head": "to come", "relation": "isBefore", "tails": [" to come", " to come to the party", " to come back home"]}
+{"head": "to come", "relation": "isAfter", "tails": [" to go to the party", " to go to the concert", " to go to a concert"]}
+{"head": "to come", "relation": "HasSubEvent", "tails": [" to come", " get in car", " to come "]}
+{"head": "to come", "relation": "Causes", "tails": [" to come", " to come  to  come  to  come", " to come  to  come  to  come "]}
+{"head": "to come", "relation": "xReason", "tails": [" to come", " to come  to  come", " to come  to  come "]}
+{"head": "to call", "relation": "HinderedBy", "tails": [" to call ", " to call", " to call  "]}
+{"head": "to call", "relation": "isBefore", "tails": [" dial number", " to call someone", " to call"]}
+{"head": "to call", "relation": "isAfter", "tails": [" dial number", " dial phone number", " call for help"]}
+{"head": "to call", "relation": "HasSubEvent", "tails": [" dial number", " to call", " dial phone number"]}
+{"head": "to call", "relation": "Causes", "tails": [" dial number", " call for help", " to call"]}
+{"head": "to call", "relation": "xReason", "tails": [" call for help", " to call someone", " to call"]}
+{"head": "tell wife", "relation": "HinderedBy", "tails": [" talk to wife", " tell wife", " tell husband"]}
+{"head": "tell wife", "relation": "isBefore", "tails": [" tell husband what to do", " tell husband", " tell husband what to do next"]}
+{"head": "tell wife", "relation": "isAfter", "tails": [" wife gets mad at husband", " wife gets angry at husband", " wife gets angry with husband"]}
+{"head": "tell wife", "relation": "HasSubEvent", "tails": [" talk to wife", " talk to husband", " get married"]}
+{"head": "tell wife", "relation": "Causes", "tails": [" tell husband", " find out", " find out more"]}
+{"head": "tell wife", "relation": "xReason", "tails": [" tell husband", " get married", " find out"]}
+{"head": "steward", "relation": "ObjectUse", "tails": [" clean up the mess", " clean up after the party", " clean up the messes"]}
+{"head": "steward", "relation": "AtLocation", "tails": [" steward", " church", " steward's office"]}
+{"head": "steward", "relation": "CapableOf", "tails": [" board ship", " clean up mess", " clean up messes"]}
+{"head": "steward", "relation": "HasProperty", "tails": [" found in church", " steward", " found at church"]}
+{"head": "steward", "relation": "MadeUpOf", "tails": [" steward", " steward's office", " steward's chair"]}
+{"head": "steward", "relation": "NotDesires", "tails": [" steward", " steward's wife", " steward's office"]}
+{"head": "steward", "relation": "Desires", "tails": [" steward", " clean house", " clean up mess"]}
+{"head": "speaker", "relation": "ObjectUse", "tails": [" speak into", " listen to", " listen to music"]}
+{"head": "speaker", "relation": "AtLocation", "tails": [" radio station", " speaker system", " speakerphone"]}
+{"head": "speaker", "relation": "CapableOf", "tails": [" speak into microphone", " speak to audience", " talk to audience"]}
+{"head": "speaker", "relation": "HasProperty", "tails": [" heard by many people", " heard by others", " loud"]}
+{"head": "speaker", "relation": "MadeUpOf", "tails": [" speakerphone", " microphone", " speakers"]}
+{"head": "speaker", "relation": "NotDesires", "tails": [" listen to", " listen to speech", " listen to speaker"]}
+{"head": "speaker", "relation": "Desires", "tails": [" listen to", " listen to speech", " listen to music"]}
+{"head": "ship elevator", "relation": "ObjectUse", "tails": [" get to the top of the ship", " get to the top deck", " get to the top of the mountain"]}
+{"head": "ship elevator", "relation": "AtLocation", "tails": [" ship", " shipyard", " ship's cabin"]}
+{"head": "ship elevator", "relation": "CapableOf", "tails": [" move around ship", " ship", " ship to port"]}
+{"head": "ship elevator", "relation": "HasProperty", "tails": [" found in ship", " found on ship", " used in ship"]}
+{"head": "ship elevator", "relation": "MadeUpOf", "tails": [" elevator shaft", " ship", " ship's cabin"]}
+{"head": "ship elevator", "relation": "NotDesires", "tails": [" ship", " ship's engine room", " ship to dock"]}
+{"head": "ship elevator", "relation": "Desires", "tails": [" moving around ship", " ship", " ship to dock"]}
+{"head": "ship", "relation": "ObjectUse", "tails": [" ship to another country", " ship to other countries", " sail on"]}
+{"head": "ship", "relation": "AtLocation", "tails": [" shipyard", " sea", " ocean"]}
+{"head": "ship", "relation": "CapableOf", "tails": [" sail ship", " ship to destination", " ship to shore"]}
+{"head": "ship", "relation": "HasProperty", "tails": [" found in ocean", " shipboard", " found in sea"]}
+{"head": "ship", "relation": "MadeUpOf", "tails": [" shipboard", " ship's rudder", " ship's wheel"]}
+{"head": "ship", "relation": "NotDesires", "tails": [" ship to sink", " shipwreck", " shipboard"]}
+{"head": "ship", "relation": "Desires", "tails": [" sailboat", " shipboard", " ship"]}
+{"head": "pocket", "relation": "ObjectUse", "tails": [" put the money in", " put the wallet in", " put the money into"]}
+{"head": "pocket", "relation": "AtLocation", "tails": [" pocket", " wallet", " purse"]}
+{"head": "pocket", "relation": "CapableOf", "tails": [" put wallet in", " put money in", " hold wallet"]}
+{"head": "pocket", "relation": "HasProperty", "tails": [" found in purse", " found in pocket", " found in wallet"]}
+{"head": "pocket", "relation": "MadeUpOf", "tails": [" pocketknife", " pocket", " pocket knife"]}
+{"head": "pocket", "relation": "NotDesires", "tails": [" put wallet in", " put wallet into", " pocket knife"]}
+{"head": "pocket", "relation": "Desires", "tails": [" keep wallet in", " put the money in", " hold wallet"]}
+{"head": "phone", "relation": "ObjectUse", "tails": [" call for help", " call the police", " talk to the person"]}
+{"head": "phone", "relation": "AtLocation", "tails": [" phone book", " phone booth", " phonebook"]}
+{"head": "phone", "relation": "CapableOf", "tails": [" call for help", " dial number", " call friend"]}
+{"head": "phone", "relation": "HasProperty", "tails": [" found in car", " found in pocket", " found in phone case"]}
+{"head": "phone", "relation": "MadeUpOf", "tails": [" dialer", " phone number", " phone"]}
+{"head": "phone", "relation": "NotDesires", "tails": [" call for help", " call friend", " call person"]}
+{"head": "phone", "relation": "Desires", "tails": [" call for help", " call friend", " call person"]}
+{"head": "hear voice", "relation": "HinderedBy", "tails": [" listen to", " hear voice", " can't hear"]}
+{"head": "hear voice", "relation": "isBefore", "tails": [" listen to", " hear voice", " hear music"]}
+{"head": "hear voice", "relation": "isAfter", "tails": [" listen to", " hear voice", " hear music"]}
+{"head": "hear voice", "relation": "HasSubEvent", "tails": [" hear voice", " listen to", " listen to voice"]}
+{"head": "hear voice", "relation": "Causes", "tails": [" listen to", " hear voice", " hear music"]}
+{"head": "hear voice", "relation": "xReason", "tails": [" listen to", " hear voice", " hear music"]}
+{"head": "hallway", "relation": "ObjectUse", "tails": [" walk down", " walk through", " hallowed"]}
+{"head": "hallway", "relation": "AtLocation", "tails": [" school", " building", " hall"]}
+{"head": "hallway", "relation": "CapableOf", "tails": [" walk down", " enter building", " walk through"]}
+{"head": "hallway", "relation": "HasProperty", "tails": [" hallway", " hall", " hallowed"]}
+{"head": "hallway", "relation": "MadeUpOf", "tails": [" hallway", " hall", " door"]}
+{"head": "hallway", "relation": "NotDesires", "tails": [" hall", " walk through", " walk down"]}
+{"head": "hallway", "relation": "Desires", "tails": [" walk down", " walk through", " hallowed"]}
+{"head": "elevator", "relation": "ObjectUse", "tails": [" get to the top of the building", " get to the top of the mountain", " get to the top of the hill"]}
+{"head": "elevator", "relation": "AtLocation", "tails": [" office building", " elevator shaft", " elevator"]}
+{"head": "elevator", "relation": "CapableOf", "tails": [" get to top of building", " get to the top of the building", " get to the top of building"]}
+{"head": "elevator", "relation": "HasProperty", "tails": [" stairs", " elevator", " elevator shaft"]}
+{"head": "elevator", "relation": "MadeUpOf", "tails": [" elevator shaft", " elevator", " stairwell"]}
+{"head": "elevator", "relation": "NotDesires", "tails": [" elevator shaft", " ride up", " stairs"]}
+{"head": "elevator", "relation": "Desires", "tails": [" get to the top of the building", " get to the top of the mountain", " get to the top of the hill"]}
+{"head": "call steward", "relation": "HinderedBy", "tails": [" call steward", " call stewardess", " call airline"]}
+{"head": "call steward", "relation": "isBefore", "tails": [" board plane", " check in", " call for help"]}
+{"head": "call steward", "relation": "isAfter", "tails": [" board plane", " call for help", " check in"]}
+{"head": "call steward", "relation": "HasSubEvent", "tails": [" check in with stewardess", " call steward", " check in with steward"]}
+{"head": "call steward", "relation": "Causes", "tails": [" call steward", " call stewardess", " call for help"]}
+{"head": "call steward", "relation": "xReason", "tails": [" call steward", " call stewardess", " call for help"]}
+{"head": "cabin", "relation": "ObjectUse", "tails": [" hide from the police", " hide in", " sleep in"]}
+{"head": "cabin", "relation": "AtLocation", "tails": [" house", " home", " motel"]}
+{"head": "cabin", "relation": "CapableOf", "tails": [" sleep in", " store things in", " hide in"]}
+{"head": "cabin", "relation": "HasProperty", "tails": [" found in house", " found in many places", " found in many homes"]}
+{"head": "cabin", "relation": "MadeUpOf", "tails": [" house", " cabin", " room"]}
+{"head": "cabin", "relation": "NotDesires", "tails": [" sleep in", " have to sleep in", " have a place to sleep"]}
+{"head": "cabin", "relation": "Desires", "tails": [" have a place to sleep", " have a place to live", " have a place to sleep in"]}
+{"head": "book", "relation": "ObjectUse", "tails": [" reading", " learning about history", " learning about science"]}
+{"head": "book", "relation": "AtLocation", "tails": [" bookcase", " library", " bookbag"]}
+{"head": "book", "relation": "CapableOf", "tails": [" read", " read from", " learn about world"]}
+{"head": "book", "relation": "HasProperty", "tails": [" found in library", " found in book store", " found in bookstore"]}
+{"head": "book", "relation": "MadeUpOf", "tails": [" book cover", " bookcase", " booklet"]}
+{"head": "book", "relation": "NotDesires", "tails": [" read", " reading", " learning from"]}
+{"head": "book", "relation": "Desires", "tails": [" reading", " read", " learning"]}
+{"head": "audio book", "relation": "ObjectUse", "tails": [" listen to", " listening to", " listen to while driving"]}
+{"head": "audio book", "relation": "AtLocation", "tails": [" library", " audio bookshelf", " audio book store"]}
+{"head": "audio book", "relation": "CapableOf", "tails": [" listen to", " listen to while driving", " listen to audio book"]}
+{"head": "audio book", "relation": "HasProperty", "tails": [" audio book", " listening to", " listened to"]}
+{"head": "audio book", "relation": "MadeUpOf", "tails": [" audio book", " listening to", " audio file"]}
+{"head": "audio book", "relation": "NotDesires", "tails": [" listen to", " listening to", " listening to audio book"]}
+{"head": "audio book", "relation": "Desires", "tails": [" listen to", " listening to", " listen to music"]}
+{"head": "They were surprised to hear the voice in the hallway to their cabin.", "relation": "xAttr", "tails": [" startled", " surprised", " curious"]}
+{"head": "They were surprised to hear the voice in the hallway to their cabin.", "relation": "xWant", "tails": [" to see who it is", " to see who it is.", " to see who is in the room"]}
+{"head": "They were surprised to hear the voice in the hallway to their cabin.", "relation": "xNeed", "tails": [" none", " to be in the cabin", " to be in the woods"]}
+{"head": "They were surprised to hear the voice in the hallway to their cabin.", "relation": "xEffect", "tails": [" none", " they are startled", " they were startled"]}
+{"head": "They were surprised to hear the voice in the hallway to their cabin.", "relation": "HinderedBy", "tails": [" They are in the middle of the woods.", " They are in the middle of a meeting.", " They are in the woods."]}
+{"head": "They were surprised to hear the voice in the hallway to their cabin.", "relation": "oWant", "tails": [" none", " to ask who it is", " to get away from the person"]}
+{"head": "They were surprised to hear the voice in the hallway to their cabin.", "relation": "xReact", "tails": [" surprised", " startled", " scared"]}
+{"head": "They were surprised to hear the voice in the hallway to their cabin.", "relation": "oEffect", "tails": [" none", " they are startled", " they hear a voice"]}
+{"head": "They were surprised to hear the voice in the hallway to their cabin.", "relation": "xIntent", "tails": [" none", " they want to talk to them", " they want to talk to someone"]}
+{"head": "They were surprised to hear the voice in the hallway to their cabin.", "relation": "oReact", "tails": [" none", " surprised", " startled"]}
+{"head": "They were surprised to hear the voice in the hallway to their cabin.", "relation": "isBefore", "tails": [" they were startled", " none", " they heard a voice"]}
+{"head": "They were surprised to hear the voice in the hallway to their cabin.", "relation": "isAfter", "tails": [" they heard a noise in the hallway", " they heard a voice in the hallway", " they heard a voice in the hall"]}
+{"head": "They were surprised to hear the voice in the hallway to their cabin.", "relation": "HasSubEvent", "tails": [" none", " they were startled", " they are startled"]}
+{"head": "They were surprised to hear the voice in the hallway to their cabin.", "relation": "Causes", "tails": [" none", " they were startled", " they are startled"]}
+{"head": "They were surprised to hear the voice in the hallway to their cabin.", "relation": "xReason", "tails": [" none", " they were startled", " they heard a voice"]}
+{"head": "The voice could still be in their cabin, so they called the steward.", "relation": "xAttr", "tails": [" scared", " curious", " nervous"]}
+{"head": "The voice could still be in their cabin, so they called the steward.", "relation": "xWant", "tails": [" to ask the steward if the voice is still in the cabin", " to ask the steward if the voice is in the cabin", " to ask the steward if the voice is still in the cabin."]}
+{"head": "The voice could still be in their cabin, so they called the steward.", "relation": "xNeed", "tails": [" to be in the cabin", " to find the voice", " to be in a cabin"]}
+{"head": "The voice could still be in their cabin, so they called the steward.", "relation": "xEffect", "tails": [" none", " the voice to be gone", " the steward to come in"]}
+{"head": "The voice could still be in their cabin, so they called the steward.", "relation": "HinderedBy", "tails": [" the steward is not in the cabin", " the steward to come and get them", " the steward is not in the cabin."]}
+{"head": "The voice could still be in their cabin, so they called the steward.", "relation": "oWant", "tails": [" to make sure they are safe", " to make sure they are ok", " none"]}
+{"head": "The voice could still be in their cabin, so they called the steward.", "relation": "xReact", "tails": [" scared", " worried", " nervous"]}
+{"head": "The voice could still be in their cabin, so they called the steward.", "relation": "oEffect", "tails": [" none", " the steward to come to the cabin", " the steward to come and get them"]}
+{"head": "The voice could still be in their cabin, so they called the steward.", "relation": "xIntent", "tails": [" none", " the voice to be in the cabin", " the voice to be gone"]}
+{"head": "The voice could still be in their cabin, so they called the steward.", "relation": "oReact", "tails": [" none", " the ship to be safe", " the ship to be safe."]}
+{"head": "The voice could still be in their cabin, so they called the steward.", "relation": "isBefore", "tails": [" the steward to come and get them", " the steward to come to the cabin", " the steward to come and get them."]}
+{"head": "The voice could still be in their cabin, so they called the steward.", "relation": "isAfter", "tails": [" the steward to tell them to go back to their cabin", " the steward to tell them to go back to their cabin.", " the steward to tell them to go back to the cabin"]}
+{"head": "The voice could still be in their cabin, so they called the steward.", "relation": "HasSubEvent", "tails": [" the steward to come to the cabin", " the steward to come and get them", " the steward to come to the cabin."]}
+{"head": "The voice could still be in their cabin, so they called the steward.", "relation": "Causes", "tails": [" the steward to come and get them", " the steward to be in the cabin", " the steward to come and get them."]}
+{"head": "The voice could still be in their cabin, so they called the steward.", "relation": "xReason", "tails": [" the steward to come and get them", " the steward to come to the cabin", " the ship to be safe"]}
+{"head": "The steward found that the voice was coming from Bob's pocket phone.", "relation": "xAttr", "tails": [" curious", " rude", " nervous"]}
+{"head": "The steward found that the voice was coming from Bob's pocket phone.", "relation": "xWant", "tails": [" talk to the steward", " to make sure the phone is working", " to make sure the phone is working."]}
+{"head": "The steward found that the voice was coming from Bob's pocket phone.", "relation": "xNeed", "tails": [" none", " to have a phone", " to have the phone"]}
+{"head": "The steward found that the voice was coming from Bob's pocket phone.", "relation": "xEffect", "tails": [" the steward calls the police", " none", " the steward calls the police."]}
+{"head": "The steward found that the voice was coming from Bob's pocket phone.", "relation": "HinderedBy", "tails": [" The steward is in charge of the plane.", " The steward is in charge of the flight.", " The steward is not allowed to talk to the passengers."]}
+{"head": "The steward found that the voice was coming from Bob's pocket phone.", "relation": "oWant", "tails": [" to make sure the phone is working", " to ask what the problem is", " to make sure the phone is working."]}
+{"head": "The steward found that the voice was coming from Bob's pocket phone.", "relation": "xReact", "tails": [" relieved", " annoyed", " nervous"]}
+{"head": "The steward found that the voice was coming from Bob's pocket phone.", "relation": "oEffect", "tails": [" none", " the steward calls the police", " the steward calls the police."]}
+{"head": "The steward found that the voice was coming from Bob's pocket phone.", "relation": "xIntent", "tails": [" none", " the voice to be heard", " the voice to stop"]}
+{"head": "The steward found that the voice was coming from Bob's pocket phone.", "relation": "oReact", "tails": [" none", " annoyed", " relieved"]}
+{"head": "The steward found that the voice was coming from Bob's pocket phone.", "relation": "isBefore", "tails": [" the steward calls the police", " the steward tells the passengers to get off the plane", " the steward tells the passengers to get off the plane."]}
+{"head": "The steward found that the voice was coming from Bob's pocket phone.", "relation": "isAfter", "tails": [" the steward calls the police", " the steward asks if the phone is working", " the steward asks if the person is ok"]}
+{"head": "The steward found that the voice was coming from Bob's pocket phone.", "relation": "HasSubEvent", "tails": [" the steward to find out what the problem is", " the steward calls the police", " the steward to find out what the problem is."]}
+{"head": "The steward found that the voice was coming from Bob's pocket phone.", "relation": "Causes", "tails": [" the steward finds the phone and calls the police", " the steward finds the phone and calls the police.", " the steward finds out what the voice is"]}
+{"head": "The steward found that the voice was coming from Bob's pocket phone.", "relation": "xReason", "tails": [" the steward calls the police", " the steward asks if the phone is working", " the steward calls the police."]}
+{"head": "He told his wife the voice sounded the same as his audio book.", "relation": "xAttr", "tails": [" curious", " intelligent", " smart"]}
+{"head": "He told his wife the voice sounded the same as his audio book.", "relation": "xWant", "tails": [" to listen to the audio book again", " to listen to the audio book", " to listen to the book again"]}
+{"head": "He told his wife the voice sounded the same as his audio book.", "relation": "xNeed", "tails": [" to listen to the audio book", " to listen to the audio book.", " listen to the audio book"]}
+{"head": "He told his wife the voice sounded the same as his audio book.", "relation": "xEffect", "tails": [" he listens to the audio book again", " he listens to the audio book", " he listens to the book again"]}
+{"head": "He told his wife the voice sounded the same as his audio book.", "relation": "HinderedBy", "tails": [" he is not sure if it is the same as the audio book", " he is not sure if it is the same as the audio book.", " he is not sure if it is the same as his audio book"]}
+{"head": "He told his wife the voice sounded the same as his audio book.", "relation": "oWant", "tails": [" to listen to the audio book", " to listen to the audio book again", " to listen to the book"]}
+{"head": "He told his wife the voice sounded the same as his audio book.", "relation": "xReact", "tails": [" happy", " good about themselves", " good about himself"]}
+{"head": "He told his wife the voice sounded the same as his audio book.", "relation": "oEffect", "tails": [" none", " they listen to the audio book again", " they listen to the audio book"]}
+{"head": "He told his wife the voice sounded the same as his audio book.", "relation": "xIntent", "tails": [" none", " listen to the audio book", " listen to the audio book."]}
+{"head": "He told his wife the voice sounded the same as his audio book.", "relation": "oReact", "tails": [" none", " happy", " happy."]}
+{"head": "He told his wife the voice sounded the same as his audio book.", "relation": "isBefore", "tails": [" PersonX listens to the audio book.", " PersonX listens to the audio book", " PersonX listens to the audio book with PersonX"]}
+{"head": "He told his wife the voice sounded the same as his audio book.", "relation": "isAfter", "tails": [" he listens to the audio book", " he listened to the audio book", " he listens to the audio book again"]}
+{"head": "He told his wife the voice sounded the same as his audio book.", "relation": "HasSubEvent", "tails": [" listen to the audio book", " listen to the audio book again", " listen to audio book"]}
+{"head": "He told his wife the voice sounded the same as his audio book.", "relation": "Causes", "tails": [" none", " he was told he was wrong", " he was told he was wrong."]}
+{"head": "He told his wife the voice sounded the same as his audio book.", "relation": "xReason", "tails": [" he listens to the audio book", " he listens to the audio book again", " none"]}
+{"head": "Bob walked into the ship elevator and heard a voice on the speaker.", "relation": "xAttr", "tails": [" curious", " talkative", " excited"]}
+{"head": "Bob walked into the ship elevator and heard a voice on the speaker.", "relation": "xWant", "tails": [" to listen to the speaker", " to listen to what the speaker is saying", " to listen to what the speaker is saying."]}
+{"head": "Bob walked into the ship elevator and heard a voice on the speaker.", "relation": "xNeed", "tails": [" to walk up to the elevator", " to be on the ship", " none"]}
+{"head": "Bob walked into the ship elevator and heard a voice on the speaker.", "relation": "xEffect", "tails": [" none", " hears a voice", " gets yelled at"]}
+{"head": "Bob walked into the ship elevator and heard a voice on the speaker.", "relation": "HinderedBy", "tails": [" The elevator is broken.", " The ship is too far away.", " The ship is too far away from shore."]}
+{"head": "Bob walked into the ship elevator and heard a voice on the speaker.", "relation": "oWant", "tails": [" none", " to talk to someone", " to talk to them"]}
+{"head": "Bob walked into the ship elevator and heard a voice on the speaker.", "relation": "xReact", "tails": [" curious", " excited", " happy"]}
+{"head": "Bob walked into the ship elevator and heard a voice on the speaker.", "relation": "oEffect", "tails": [" none", " the speaker is turned off", " the speaker is turned off."]}
+{"head": "Bob walked into the ship elevator and heard a voice on the speaker.", "relation": "xIntent", "tails": [" none", " to hear what is being said", " to listen to the speaker"]}
+{"head": "Bob walked into the ship elevator and heard a voice on the speaker.", "relation": "oReact", "tails": [" none", " happy to see them", " happy to see them."]}
+{"head": "Bob walked into the ship elevator and heard a voice on the speaker.", "relation": "isBefore", "tails": [" PersonX turns off the speaker.", " PersonX turns off the speaker and walks away.", " PersonX turns off the speaker"]}
+{"head": "Bob walked into the ship elevator and heard a voice on the speaker.", "relation": "isAfter", "tails": [" ship", " the ship", " the elevator doors open"]}
+{"head": "Bob walked into the ship elevator and heard a voice on the speaker.", "relation": "HasSubEvent", "tails": [" get out of the elevator", " get in the elevator", " get out of elevator"]}
+{"head": "Bob walked into the ship elevator and heard a voice on the speaker.", "relation": "Causes", "tails": [" none", " they hear a voice on the speaker", " they hear a voice talking to them"]}
+{"head": "Bob walked into the ship elevator and heard a voice on the speaker.", "relation": "xReason", "tails": [" none", " hear a voice", " they hear a voice"]}
+{"head": "Bob pocket phone", "relation": "ObjectUse", "tails": [" use as a paperweight", " talk to someone", " use as a weapon"]}
+{"head": "Bob pocket phone", "relation": "AtLocation", "tails": [" phone booth", " phone book", " cell phone"]}
+{"head": "Bob pocket phone", "relation": "CapableOf", "tails": [" call friend", " talk on phone", " talk to someone"]}
+{"head": "Bob pocket phone", "relation": "HasProperty", "tails": [" used for phone calls", " used in car", " phone"]}
+{"head": "Bob pocket phone", "relation": "MadeUpOf", "tails": [" phone", " cell phone", " pocket"]}
+{"head": "Bob pocket phone", "relation": "NotDesires", "tails": [" call a friend", " none", " call friend"]}
+{"head": "Bob pocket phone", "relation": "Desires", "tails": [" to talk to someone", " to communicate with someone", " to communicate with others"]}
+{"head": "Bob", "relation": "ObjectUse", "tails": [" get a new job", " get a job", " Bob is a good friend"]}
+{"head": "Bob", "relation": "AtLocation", "tails": [" house", " car", " garage"]}
+{"head": "Bob", "relation": "CapableOf", "tails": [" get out of the car", " get out of car", " get out of bed"]}
+{"head": "Bob", "relation": "HasProperty", "tails": [" none", " one of two brothers", " one of the two"]}
+{"head": "Bob", "relation": "MadeUpOf", "tails": ["              ", "             ", "               "]}
+{"head": "Bob", "relation": "NotDesires", "tails": [" Bob's wife will not let him.", " Bob's wife will not let him go out.", " Bob's wife will not let him go."]}
+{"head": "Bob", "relation": "Desires", "tails": [" have a good time", " have a good life", " none"]}

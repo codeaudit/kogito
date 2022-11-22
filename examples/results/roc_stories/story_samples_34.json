@@ -1,0 +1,211 @@
+{"head": "to want", "relation": "HinderedBy", "tails": [" to want", " to want something", " to want "]}
+{"head": "to want", "relation": "isBefore", "tails": [" to want", " to want something", " to want to want"]}
+{"head": "to want", "relation": "isAfter", "tails": [" to want", " to want something", " to want to want"]}
+{"head": "to want", "relation": "HasSubEvent", "tails": [" to want", " to want something", " to want to want"]}
+{"head": "to want", "relation": "Causes", "tails": [" to want", " to want something", " to want to want"]}
+{"head": "to want", "relation": "xReason", "tails": [" to want", " to want something", " to want to want"]}
+{"head": "to summon", "relation": "HinderedBy", "tails": [" to summon", " to summon ", " to summon  to summon "]}
+{"head": "to summon", "relation": "isBefore", "tails": [" to summon", " to summon the king", " to summon the gods"]}
+{"head": "to summon", "relation": "isAfter", "tails": [" summon a ghost", " to summon the gods", " to summon the king"]}
+{"head": "to summon", "relation": "HasSubEvent", "tails": [" to summon", " to summon ", " to summon  summon "]}
+{"head": "to summon", "relation": "Causes", "tails": [" to summon", " summon animals", " to summon "]}
+{"head": "to summon", "relation": "xReason", "tails": [" to summon", " summon animals", " summon"]}
+{"head": "to invite", "relation": "HinderedBy", "tails": [" to invite", " to invite ", " to invite  to a party"]}
+{"head": "to invite", "relation": "isBefore", "tails": [" to invite", " to invite ", " to invite others"]}
+{"head": "to invite", "relation": "isAfter", "tails": [" to have a party", " to invite people to a party", " to invite people to the party"]}
+{"head": "to invite", "relation": "HasSubEvent", "tails": [" to invite", " to invite ", " to invite  people"]}
+{"head": "to invite", "relation": "Causes", "tails": [" invite someone to a party", " to invite people to a party", " to invite"]}
+{"head": "to invite", "relation": "xReason", "tails": [" to invite", " have a party", " to invite people"]}
+{"head": "to fear", "relation": "HinderedBy", "tails": [" to fear", " to fear ", " to fear something"]}
+{"head": "to fear", "relation": "isBefore", "tails": [" to fear", " to be afraid", " to be afraid of"]}
+{"head": "to fear", "relation": "isAfter", "tails": [" none", " to be afraid", " to be afraid of"]}
+{"head": "to fear", "relation": "HasSubEvent", "tails": [" to fear", " none", " to be afraid"]}
+{"head": "to fear", "relation": "Causes", "tails": [" to fear", " none", " fear"]}
+{"head": "to fear", "relation": "xReason", "tails": [" to fear", " none", " to be afraid"]}
+{"head": "to expect", "relation": "HinderedBy", "tails": [" to expect", " to know what to expect", " to expect "]}
+{"head": "to expect", "relation": "isBefore", "tails": [" to expect", " to expect something", " to expect the best"]}
+{"head": "to expect", "relation": "isAfter", "tails": [" to know what to expect", " to expect", " to know what to do"]}
+{"head": "to expect", "relation": "HasSubEvent", "tails": [" know what to expect", " to know what to expect", " to expect"]}
+{"head": "to expect", "relation": "Causes", "tails": [" to expect", " none", " to expect "]}
+{"head": "to expect", "relation": "xReason", "tails": [" to expect", " none", " to expect something"]}
+{"head": "to ask", "relation": "HinderedBy", "tails": [" to ask ", " to ask", " to ask  to ask "]}
+{"head": "to ask", "relation": "isBefore", "tails": [" to ask", " to ask for help", " to ask "]}
+{"head": "to ask", "relation": "isAfter", "tails": [" to know what to say", " to know the answer", " to know what to do"]}
+{"head": "to ask", "relation": "HasSubEvent", "tails": [" to ask", " to ask ", " to ask for help"]}
+{"head": "to ask", "relation": "Causes", "tails": [" to ask", " to ask ", " to ask for help"]}
+{"head": "to ask", "relation": "xReason", "tails": [" to know what to say", " to ask", " to know what to do"]}
+{"head": "to agree", "relation": "HinderedBy", "tails": [" to agree", " to agree ", " to agree to something"]}
+{"head": "to agree", "relation": "isBefore", "tails": [" to agree", " to agree to something", " agree to disagree"]}
+{"head": "to agree", "relation": "isAfter", "tails": [" agree to disagree", " to agree", " to agree to something"]}
+{"head": "to agree", "relation": "HasSubEvent", "tails": [" to agree", " agree to disagree", " to agree "]}
+{"head": "to agree", "relation": "Causes", "tails": [" to agree", " agree or disagree", " agree to disagree"]}
+{"head": "to agree", "relation": "xReason", "tails": [" to agree", " agree to disagree", " agree"]}
+{"head": "summon courage", "relation": "HinderedBy", "tails": [" make a decision", " make sure they are safe", " make sure they are okay"]}
+{"head": "summon courage", "relation": "isBefore", "tails": [" get out of bed", " get out of the way", " get out of trouble"]}
+{"head": "summon courage", "relation": "isAfter", "tails": [" get out of bed", " get out of the way", " get out of trouble"]}
+{"head": "summon courage", "relation": "HasSubEvent", "tails": [" get out of bed", " get out of the way", " get out of the car"]}
+{"head": "summon courage", "relation": "Causes", "tails": [" feel good about yourself", " feel good about themselves", " make a decision"]}
+{"head": "summon courage", "relation": "xReason", "tails": [" feel good about yourself", " make a decision", " feel good about self"]}
+{"head": "rejection", "relation": "ObjectUse", "tails": [" reject a job offer", " feel rejected", " reject a proposal"]}
+{"head": "rejection", "relation": "AtLocation", "tails": [" rejection letter", " rejections", " school"]}
+{"head": "rejection", "relation": "CapableOf", "tails": [" reject offer", " get rejected", " feel rejected"]}
+{"head": "rejection", "relation": "HasProperty", "tails": [" rejected", " hurtful", " rejection"]}
+{"head": "rejection", "relation": "MadeUpOf", "tails": [" rejection", " rejections", " rejection letter"]}
+{"head": "rejection", "relation": "NotDesires", "tails": [" rejections", " rejection", " rejection"]}
+{"head": "rejection", "relation": "Desires", "tails": [" rejections", " rejection", " feel rejected"]}
+{"head": "league", "relation": "ObjectUse", "tails": [" play in", " play games in", " play baseball in"]}
+{"head": "league", "relation": "AtLocation", "tails": [" baseball game", " soccer game", " baseball"]}
+{"head": "league", "relation": "CapableOf", "tails": [" play game", " play in", " play baseball game"]}
+{"head": "league", "relation": "HasProperty", "tails": [" found in sports", " played by teams", " played in"]}
+{"head": "league", "relation": "MadeUpOf", "tails": [" baseball", " baseball game", " soccer"]}
+{"head": "league", "relation": "NotDesires", "tails": [" win or lose", " play in", " play game"]}
+{"head": "league", "relation": "Desires", "tails": [" play game", " have fun", " play in"]}
+{"head": "joy", "relation": "ObjectUse", "tails": [" feel good", " have fun", " feel happy"]}
+{"head": "joy", "relation": "AtLocation", "tails": [" joy", " happiness", " joyous"]}
+{"head": "joy", "relation": "CapableOf", "tails": [" feel happy", " smile", " feel good"]}
+{"head": "joy", "relation": "HasProperty", "tails": [" happy", " joy", " joyous"]}
+{"head": "joy", "relation": "MadeUpOf", "tails": [" joy", " joyous", " happiness"]}
+{"head": "joy", "relation": "NotDesires", "tails": [" joy", " happiness", " happy"]}
+{"head": "joy", "relation": "Desires", "tails": [" happiness", " joy", " feel good"]}
+{"head": "invite crush", "relation": "HinderedBy", "tails": [" invite crush", " invite friends", " have a party"]}
+{"head": "invite crush", "relation": "isBefore", "tails": [" invite to party", " invite friends to party", " invite friends"]}
+{"head": "invite crush", "relation": "isAfter", "tails": [" invite crush to party", " invite friends to party", " invite crush to birthday party"]}
+{"head": "invite crush", "relation": "HasSubEvent", "tails": [" invite friends", " invite crush", " invite to party"]}
+{"head": "invite crush", "relation": "Causes", "tails": [" invite crush", " invite crush to party", " invite to party"]}
+{"head": "invite crush", "relation": "xReason", "tails": [" invite crush to party", " invite crush", " invite crush to birthday party"]}
+{"head": "expect rejection", "relation": "HinderedBy", "tails": [" hope for the best", " expect to be rejected", " hope for the best."]}
+{"head": "expect rejection", "relation": "isBefore", "tails": [" fail miserably", " get rejected", " get rejected by others"]}
+{"head": "expect rejection", "relation": "isAfter", "tails": [" get rejected", " get rejected by other people", " get rejected by others"]}
+{"head": "expect rejection", "relation": "HasSubEvent", "tails": [" get rejected", " lose job", " get rejected again"]}
+{"head": "expect rejection", "relation": "Causes", "tails": [" expect to be rejected", " expect to be ignored", " expect to get rejected"]}
+{"head": "expect rejection", "relation": "xReason", "tails": [" fail at something", " fail", " have to accept"]}
+{"head": "date", "relation": "ObjectUse", "tails": [" get to know someone", " go on a date", " have a good time"]}
+{"head": "date", "relation": "AtLocation", "tails": [" movie theater", " dating app", " dating site"]}
+{"head": "date", "relation": "CapableOf", "tails": [" go on date", " go to bar", " go on date with"]}
+{"head": "date", "relation": "HasProperty", "tails": [" found on dating site", " found on dating website", " found on dating app"]}
+{"head": "date", "relation": "MadeUpOf", "tails": [" date", " date's name", " date's phone number"]}
+{"head": "date", "relation": "NotDesires", "tails": [" have sex", " have sex with", " have sex with someone"]}
+{"head": "date", "relation": "Desires", "tails": [" get to know someone", " get to know person", " have good time"]}
+{"head": "dance", "relation": "ObjectUse", "tails": [" have fun", " dance to music", " have fun with friends"]}
+{"head": "dance", "relation": "AtLocation", "tails": [" dance", " dance to music", " dance party"]}
+{"head": "dance", "relation": "CapableOf", "tails": [" dance to music", " have fun", " dance"]}
+{"head": "dance", "relation": "HasProperty", "tails": [" dance to music", " dance", " dance with partner"]}
+{"head": "dance", "relation": "MadeUpOf", "tails": [" dance", " dance to music", " dance with partner"]}
+{"head": "dance", "relation": "NotDesires", "tails": [" dance to music", " dance", " have fun"]}
+{"head": "dance", "relation": "Desires", "tails": [" have fun", " dance to music", " dance"]}
+{"head": "crush", "relation": "ObjectUse", "tails": [" use as a weapon", " use as a prop in a play", " use as a prop in a movie"]}
+{"head": "crush", "relation": "AtLocation", "tails": [" box of chocolates", " crush", " box of chocolates."]}
+{"head": "crush", "relation": "CapableOf", "tails": [" crush", " throw at someone", " crush paper"]}
+{"head": "crush", "relation": "HasProperty", "tails": [" hard to break", " crush", " one of many emotions"]}
+{"head": "crush", "relation": "MadeUpOf", "tails": [" crumple", " crush", " crush paper"]}
+{"head": "crush", "relation": "NotDesires", "tails": [" crush", " crush on person", " crush on another person"]}
+{"head": "crush", "relation": "Desires", "tails": [" crush on", " crush", " crush on person"]}
+{"head": "courage", "relation": "ObjectUse", "tails": [" get a promotion", " get a job", " have a good time"]}
+{"head": "courage", "relation": "AtLocation", "tails": [" good sense of humor", " good sense of self", " good sense of self esteem"]}
+{"head": "courage", "relation": "CapableOf", "tails": [" get out of trouble", " get out of situation", " get out of bed"]}
+{"head": "courage", "relation": "HasProperty", "tails": [" good sense of self", " good sense of humor", " strong willed"]}
+{"head": "courage", "relation": "MadeUpOf", "tails": [" courage", " one of the four arms", " one of the three arms"]}
+{"head": "courage", "relation": "NotDesires", "tails": [" feel good about yourself", " feel good about themselves", " feel good about self"]}
+{"head": "courage", "relation": "Desires", "tails": [" feel good about yourself", " feel good about themselves", " feel good about self"]}
+{"head": "ask him", "relation": "HinderedBy", "tails": [" ask him a question", " find out the answer", " find out what he knows"]}
+{"head": "ask him", "relation": "isBefore", "tails": [" listen to him", " get answer", " listen to"]}
+{"head": "ask him", "relation": "isAfter", "tails": [" ask him a question", " get his opinion", " ask him what he wants"]}
+{"head": "ask him", "relation": "HasSubEvent", "tails": [" find out what he knows", " find out what he thinks", " find out what he said"]}
+{"head": "ask him", "relation": "Causes", "tails": [" find out what's going on", " find out what he knows", " find out what he thinks"]}
+{"head": "ask him", "relation": "xReason", "tails": [" find out what's going on", " find out what he knows", " find out what he thinks"]}
+{"head": "She summoned her courage and asked him, expecting a rejection.", "relation": "xAttr", "tails": [" brave", " nervous", " scared"]}
+{"head": "She summoned her courage and asked him, expecting a rejection.", "relation": "xWant", "tails": [" to ask him out on a date", " to ask him out", " to ask him out on a date."]}
+{"head": "She summoned her courage and asked him, expecting a rejection.", "relation": "xNeed", "tails": [" to think about what they want to say", " to think of what to say", " to think about what to say"]}
+{"head": "She summoned her courage and asked him, expecting a rejection.", "relation": "xEffect", "tails": [" gets rejected", " she gets rejected", " gets rejected by person"]}
+{"head": "She summoned her courage and asked him, expecting a rejection.", "relation": "HinderedBy", "tails": [" She is afraid of rejection.", " she is afraid of rejection", " She is afraid to ask."]}
+{"head": "She summoned her courage and asked him, expecting a rejection.", "relation": "oWant", "tails": [" to tell them they are not interested", " to tell them they are not good enough", " none"]}
+{"head": "She summoned her courage and asked him, expecting a rejection.", "relation": "xReact", "tails": [" nervous", " scared", " brave"]}
+{"head": "She summoned her courage and asked him, expecting a rejection.", "relation": "oEffect", "tails": [" none", " they get rejected", " they are rejected"]}
+{"head": "She summoned her courage and asked him, expecting a rejection.", "relation": "xIntent", "tails": [" to ask a question", " to ask someone out", " none"]}
+{"head": "She summoned her courage and asked him, expecting a rejection.", "relation": "oReact", "tails": [" none", " nervous", " scared"]}
+{"head": "She summoned her courage and asked him, expecting a rejection.", "relation": "isBefore", "tails": [" she goes on a date with him", " she goes on a date", " she goes on a date with the man"]}
+{"head": "She summoned her courage and asked him, expecting a rejection.", "relation": "isAfter", "tails": [" she goes on a date with him", " she goes on a date", " she goes on a date with him."]}
+{"head": "She summoned her courage and asked him, expecting a rejection.", "relation": "HasSubEvent", "tails": [" get rejected", " get a date", " get a response"]}
+{"head": "She summoned her courage and asked him, expecting a rejection.", "relation": "Causes", "tails": [" she is afraid of rejection", " she is afraid of rejection.", " nervous"]}
+{"head": "She summoned her courage and asked him, expecting a rejection.", "relation": "xReason", "tails": [" she goes to his house", " she was afraid of rejection", " she was afraid of rejection."]}
+{"head": "Sadie Hawkins dance", "relation": "ObjectUse", "tails": [" dance with a friend", " dance to music", " dance with friends"]}
+{"head": "Sadie Hawkins dance", "relation": "AtLocation", "tails": [" dance recital", " dance hall", " music video"]}
+{"head": "Sadie Hawkins dance", "relation": "CapableOf", "tails": [" dance to music", " dance with friends", " dance to song"]}
+{"head": "Sadie Hawkins dance", "relation": "HasProperty", "tails": [" sad", " none", " happy"]}
+{"head": "Sadie Hawkins dance", "relation": "MadeUpOf", "tails": [" choreography", " dance moves", " dance shoes"]}
+{"head": "Sadie Hawkins dance", "relation": "NotDesires", "tails": [" Sadie Hawkins dances", " Sadie Hawkins dances.", " Sadie Hawkins dance"]}
+{"head": "Sadie Hawkins dance", "relation": "Desires", "tails": [" to have fun", " to show off", " to have fun."]}
+{"head": "Peter", "relation": "ObjectUse", "tails": [" have a conversation with", " have a conversation with someone", " get a job at a restaurant"]}
+{"head": "Peter", "relation": "AtLocation", "tails": [" movie theater", " boat", " school"]}
+{"head": "Peter", "relation": "CapableOf", "tails": [" ask for help", " ask for a ride", " ask for a date"]}
+{"head": "Peter", "relation": "HasProperty", "tails": [" none", " one of three children", " one of the children"]}
+{"head": "Peter", "relation": "MadeUpOf", "tails": [" boat", " fish", " water"]}
+{"head": "Peter", "relation": "NotDesires", "tails": [" have to go to the bathroom", " have to go to work", " have to go to the doctor"]}
+{"head": "Peter", "relation": "Desires", "tails": [" have a good time", " none", " have a good life"]}
+{"head": "But to her joy, Peter happily agreed to be her date!", "relation": "xAttr", "tails": [" happy", " excited", " hopeful"]}
+{"head": "But to her joy, Peter happily agreed to be her date!", "relation": "xWant", "tails": [" to go on a date with him", " to go on a date", " to go on a date with him."]}
+{"head": "But to her joy, Peter happily agreed to be her date!", "relation": "xNeed", "tails": [" to ask him on a date", " to ask him out on a date", " to ask him out"]}
+{"head": "But to her joy, Peter happily agreed to be her date!", "relation": "xEffect", "tails": [" gets asked out", " none", " gets asked out again"]}
+{"head": "But to her joy, Peter happily agreed to be her date!", "relation": "HinderedBy", "tails": [" They are too far away from each other.", " They are too far away.", " They are not allowed to date."]}
+{"head": "But to her joy, Peter happily agreed to be her date!", "relation": "oWant", "tails": [" to go on a date with her", " to go on a date", " to go on a date with PersonY"]}
+{"head": "But to her joy, Peter happily agreed to be her date!", "relation": "xReact", "tails": [" happy", " excited", " happy."]}
+{"head": "But to her joy, Peter happily agreed to be her date!", "relation": "oEffect", "tails": [" none", " they go on a date with them", " they go on a date"]}
+{"head": "But to her joy, Peter happily agreed to be her date!", "relation": "xIntent", "tails": [" to go on a date", " to have a good time", " to have fun"]}
+{"head": "But to her joy, Peter happily agreed to be her date!", "relation": "oReact", "tails": [" happy", " none", " happy."]}
+{"head": "But to her joy, Peter happily agreed to be her date!", "relation": "isBefore", "tails": [" they go on a date", " they go on a date together", " they go to a movie together"]}
+{"head": "But to her joy, Peter happily agreed to be her date!", "relation": "isAfter", "tails": [" PersonX is afraid of being alone with PersonY.", " PersonX is nervous about the date.", " PersonX is afraid of being alone with PersonX."]}
+{"head": "But to her joy, Peter happily agreed to be her date!", "relation": "HasSubEvent", "tails": [" to have a good time", " to have a good time with him", " to have a good time."]}
+{"head": "But to her joy, Peter happily agreed to be her date!", "relation": "Causes", "tails": [" happy", " none", " excited"]}
+{"head": "But to her joy, Peter happily agreed to be her date!", "relation": "xReason", "tails": [" they go on a date", " they go on a date with each other", " they go on a date with them"]}
+{"head": "But Peter was very cute and popular.", "relation": "xAttr", "tails": [" popular", " attractive", " cute"]}
+{"head": "But Peter was very cute and popular.", "relation": "xWant", "tails": [" to be popular", " to go to a party", " to get a girlfriend"]}
+{"head": "But Peter was very cute and popular.", "relation": "xNeed", "tails": [" none", " to be popular", " have a good personality"]}
+{"head": "But Peter was very cute and popular.", "relation": "xEffect", "tails": [" none", " gets a lot of attention", " gets asked out"]}
+{"head": "But Peter was very cute and popular.", "relation": "HinderedBy", "tails": [" none", " They are too ugly.", " They were too ugly."]}
+{"head": "But Peter was very cute and popular.", "relation": "oWant", "tails": [" none", " to be friends with him", " to get to know him"]}
+{"head": "But Peter was very cute and popular.", "relation": "xReact", "tails": [" happy", " none", " popular"]}
+{"head": "But Peter was very cute and popular.", "relation": "oEffect", "tails": [" none", " they get to know them better", " they get a date with him"]}
+{"head": "But Peter was very cute and popular.", "relation": "xIntent", "tails": [" none", " to be popular", " to be liked"]}
+{"head": "But Peter was very cute and popular.", "relation": "oReact", "tails": [" none", " happy", " loved"]}
+{"head": "But Peter was very cute and popular.", "relation": "isBefore", "tails": [" none", " PersonX gets a date with PersonX.", " PersonX gets a date with PersonX"]}
+{"head": "But Peter was very cute and popular.", "relation": "isAfter", "tails": [" none", " PersonX had a crush on PersonX.", " PersonX had a crush on PersonY."]}
+{"head": "But Peter was very cute and popular.", "relation": "HasSubEvent", "tails": [" none", " have a good time", " get a date"]}
+{"head": "But Peter was very cute and popular.", "relation": "Causes", "tails": [" none", " They were too shy to go out with them.", " They were too shy to talk to anyone."]}
+{"head": "But Peter was very cute and popular.", "relation": "xReason", "tails": [" none", " they got a lot of attention", " They were too shy to go out."]}
+{"head": "Anna wanted to invite her crush Peter to the Sadie Hawkins dance.", "relation": "xAttr", "tails": [" excited", " social", " hopeful"]}
+{"head": "Anna wanted to invite her crush Peter to the Sadie Hawkins dance.", "relation": "xWant", "tails": [" to go to the dance", " to have a good time", " to have fun"]}
+{"head": "Anna wanted to invite her crush Peter to the Sadie Hawkins dance.", "relation": "xNeed", "tails": [" to find out where the dance is", " to have a crush on someone", " to have a crush on PersonY"]}
+{"head": "Anna wanted to invite her crush Peter to the Sadie Hawkins dance.", "relation": "xEffect", "tails": [" gets rejected", " none", " get a date"]}
+{"head": "Anna wanted to invite her crush Peter to the Sadie Hawkins dance.", "relation": "HinderedBy", "tails": [" PersonX is not allowed to go to the dance.", " PersonX is not interested in PersonX.", " PersonX is not allowed to go to dances with PersonX."]}
+{"head": "Anna wanted to invite her crush Peter to the Sadie Hawkins dance.", "relation": "oWant", "tails": [" to go to the dance", " to have a good time", " to have fun"]}
+{"head": "Anna wanted to invite her crush Peter to the Sadie Hawkins dance.", "relation": "xReact", "tails": [" excited", " happy", " happy."]}
+{"head": "Anna wanted to invite her crush Peter to the Sadie Hawkins dance.", "relation": "oEffect", "tails": [" none", " get a date", " gets rejected"]}
+{"head": "Anna wanted to invite her crush Peter to the Sadie Hawkins dance.", "relation": "xIntent", "tails": [" to have a good time", " to have fun", " to get to know him"]}
+{"head": "Anna wanted to invite her crush Peter to the Sadie Hawkins dance.", "relation": "oReact", "tails": [" none", " happy", " loved"]}
+{"head": "Anna wanted to invite her crush Peter to the Sadie Hawkins dance.", "relation": "isBefore", "tails": [" PersonX gets a date to the dance.", " PersonX is not interested in PersonX.", " PersonX is not interested in PersonX"]}
+{"head": "Anna wanted to invite her crush Peter to the Sadie Hawkins dance.", "relation": "isAfter", "tails": [" PersonX has a crush on PersonX.", " PersonX has a crush on PersonY.", " PersonX has a crush on PersonX"]}
+{"head": "Anna wanted to invite her crush Peter to the Sadie Hawkins dance.", "relation": "HasSubEvent", "tails": [" have a good time", " have a good time at the dance", " get a date"]}
+{"head": "Anna wanted to invite her crush Peter to the Sadie Hawkins dance.", "relation": "Causes", "tails": [" happy", " excited", " sad"]}
+{"head": "Anna wanted to invite her crush Peter to the Sadie Hawkins dance.", "relation": "xReason", "tails": [" they go to the dance together", " they go to the dance", " they go to the dance with them"]}
+{"head": "Anna feared her was far out of her league.", "relation": "xAttr", "tails": [" scared", " frightened", " afraid"]}
+{"head": "Anna feared her was far out of her league.", "relation": "xWant", "tails": [" to get away from her", " to get away from him", " to avoid her"]}
+{"head": "Anna feared her was far out of her league.", "relation": "xNeed", "tails": [" none", " to be in the same room as her", " to be in the same room as her."]}
+{"head": "Anna feared her was far out of her league.", "relation": "xEffect", "tails": [" none", " is afraid of her", " gets yelled at"]}
+{"head": "Anna feared her was far out of her league.", "relation": "HinderedBy", "tails": [" none", " She is too smart.", " She is too good."]}
+{"head": "Anna feared her was far out of her league.", "relation": "oWant", "tails": [" none", " to get away from her", " to get away from him"]}
+{"head": "Anna feared her was far out of her league.", "relation": "xReact", "tails": [" scared", " none", " afraid"]}
+{"head": "Anna feared her was far out of her league.", "relation": "oEffect", "tails": [" none", " they are afraid of them", " is afraid of her"]}
+{"head": "Anna feared her was far out of her league.", "relation": "xIntent", "tails": [" none", " to get away from her", " to get away from her."]}
+{"head": "Anna feared her was far out of her league.", "relation": "oReact", "tails": [" none", " scared", " scared."]}
+{"head": "Anna feared her was far out of her league.", "relation": "isBefore", "tails": [" none", " PersonY is a good friend of PersonY.", " PersonY is a good friend of PersonY's."]}
+{"head": "Anna feared her was far out of her league.", "relation": "isAfter", "tails": [" none", " PersonY is a good person.", " PersonY is very attractive to PersonY"]}
+{"head": "Anna feared her was far out of her league.", "relation": "HasSubEvent", "tails": [" none", " get a restraining order", " get in a fight"]}
+{"head": "Anna feared her was far out of her league.", "relation": "Causes", "tails": [" none", " they are afraid of her", " they are afraid of them"]}
+{"head": "Anna feared her was far out of her league.", "relation": "xReason", "tails": [" none", " she is a bad person", " she is too good for him"]}
+{"head": "Anna", "relation": "ObjectUse", "tails": [" have sex with", " have a relationship with", " have a relationship with someone"]}
+{"head": "Anna", "relation": "AtLocation", "tails": [" house", " car", " school"]}
+{"head": "Anna", "relation": "CapableOf", "tails": [" go to bed", " go to the bathroom", " go to sleep"]}
+{"head": "Anna", "relation": "HasProperty", "tails": [" one of two sisters", " one of two daughters", " none"]}
+{"head": "Anna", "relation": "MadeUpOf", "tails": ["              ", "               ", "             "]}
+{"head": "Anna", "relation": "NotDesires", "tails": [" have to go to the bathroom", " have to go to hospital", " have to go to the doctor"]}
+{"head": "Anna", "relation": "Desires", "tails": [" have a good time", " none", " have a good life"]}

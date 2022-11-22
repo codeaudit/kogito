@@ -1,0 +1,74 @@
+{"head": "winner", "relation": "ObjectUse", "tails": [" win the competition", " win the contest", " win the lottery"]}
+{"head": "winner", "relation": "AtLocation", "tails": [" winner's circle", " winner's trophy", " winnings"]}
+{"head": "winner", "relation": "CapableOf", "tails": [" win contest", " win prize", " win the competition"]}
+{"head": "winner", "relation": "HasProperty", "tails": [" win or lose", " winner", " winner of contest"]}
+{"head": "winner", "relation": "MadeUpOf", "tails": [" winner's circle", " winner's trophy", " winnings"]}
+{"head": "winner", "relation": "NotDesires", "tails": [" win or lose", " win the game", " win the lottery"]}
+{"head": "winner", "relation": "Desires", "tails": [" win the game", " win the competition", " win the lottery"]}
+{"head": "to discuss", "relation": "HinderedBy", "tails": [" to discuss", " to discuss ", " to discuss something"]}
+{"head": "to discuss", "relation": "isBefore", "tails": [" to discuss", " listen to", " have a meeting"]}
+{"head": "to discuss", "relation": "isAfter", "tails": [" meeting", " meeting with others", " meeting with people"]}
+{"head": "to discuss", "relation": "HasSubEvent", "tails": [" to discuss", " listen to", " talk to others"]}
+{"head": "to discuss", "relation": "Causes", "tails": [" to discuss", " listen to", " have a conversation"]}
+{"head": "to discuss", "relation": "xReason", "tails": [" to discuss", " listen to", " have a conversation"]}
+{"head": "to direct", "relation": "HinderedBy", "tails": [" to direct", " to direct ", " to direct  to direct "]}
+{"head": "to direct", "relation": "isBefore", "tails": [" to direct", " to direct people", " to direct "]}
+{"head": "to direct", "relation": "isAfter", "tails": [" to be in charge", " to be in control", " to make a decision"]}
+{"head": "to direct", "relation": "HasSubEvent", "tails": [" to direct", " to direct ", " to direct  direct "]}
+{"head": "to direct", "relation": "Causes", "tails": [" to direct", " to direct ", " to direct people"]}
+{"head": "to direct", "relation": "xReason", "tails": [" to be in charge", " to direct", " to be in control"]}
+{"head": "to '", "relation": "HinderedBy", "tails": [" to '", " to '                    ", " to '         to           "]}
+{"head": "to '", "relation": "isBefore", "tails": [" to '", " to ' ", " to '  to ' "]}
+{"head": "to '", "relation": "isAfter", "tails": [" to '                    ", " to '            to        ", " to '                   "]}
+{"head": "to '", "relation": "HasSubEvent", "tails": [" to '                    ", " to '                   ", " to '                  "]}
+{"head": "to '", "relation": "Causes", "tails": [" to '                    ", " to '                   ", " to '                  "]}
+{"head": "to '", "relation": "xReason", "tails": [" to '                    ", " to '                   ", " to '                  "]}
+{"head": "direct award", "relation": "HinderedBy", "tails": [" direct award", " receive award", " award ceremony"]}
+{"head": "direct award", "relation": "isBefore", "tails": [" award ceremony", " win award", " receive award"]}
+{"head": "direct award", "relation": "isAfter", "tails": [" award ceremony", " awards ceremony", " awards show"]}
+{"head": "direct award", "relation": "HasSubEvent", "tails": [" win award", " receive award", " win"]}
+{"head": "direct award", "relation": "Causes", "tails": [" award", " win", " good reputation"]}
+{"head": "direct award", "relation": "xReason", "tails": [" good reputation", " win", " win award"]}
+{"head": "award", "relation": "ObjectUse", "tails": [" give to the winner of the contest", " give to the winner of the competition", " give to the winner"]}
+{"head": "award", "relation": "AtLocation", "tails": [" award ceremony", " award show", " awards ceremony"]}
+{"head": "award", "relation": "CapableOf", "tails": [" give to winner", " award to winner", " give to person"]}
+{"head": "award", "relation": "HasProperty", "tails": [" award", " recognized", " good"]}
+{"head": "award", "relation": "MadeUpOf", "tails": [" award", " awards ceremony", " award ceremony"]}
+{"head": "award", "relation": "NotDesires", "tails": [" win or lose", " award", " win award"]}
+{"head": "award", "relation": "Desires", "tails": [" award", " win award", " win"]}
+{"head": "Sundance World Dramatic Competition", "relation": "ObjectUse", "tails": [" compete in", " to win the competition", " watch the show"]}
+{"head": "Sundance World Dramatic Competition", "relation": "AtLocation", "tails": [" theater", " movie", " film festival"]}
+{"head": "Sundance World Dramatic Competition", "relation": "CapableOf", "tails": [" win prize", " get a trophy", " watch the show"]}
+{"head": "Sundance World Dramatic Competition", "relation": "HasProperty", "tails": [" made up of actors and actresses", " made up of actors and actresses.", " made up of actors"]}
+{"head": "Sundance World Dramatic Competition", "relation": "MadeUpOf", "tails": [" competition", " film", " movie"]}
+{"head": "Sundance World Dramatic Competition", "relation": "NotDesires", "tails": [" have a good time", " compete in", " have a good time at"]}
+{"head": "Sundance World Dramatic Competition", "relation": "Desires", "tails": [" to win the competition", " to be the best", " to be a part of"]}
+{"head": "Iceland \u00cdsold Uggad\u00f3ttir", "relation": "ObjectUse", "tails": [" get married in", " ice cream", " get married"]}
+{"head": "Iceland \u00cdsold Uggad\u00f3ttir", "relation": "AtLocation", "tails": [" iceland", " ice", " Iceland"]}
+{"head": "Iceland \u00cdsold Uggad\u00f3ttir", "relation": "CapableOf", "tails": [" go to the beach", " get married", " go to sea"]}
+{"head": "Iceland \u00cdsold Uggad\u00f3ttir", "relation": "HasProperty", "tails": ["                      ", "                    ", "                     "]}
+{"head": "Iceland \u00cdsold Uggad\u00f3ttir", "relation": "MadeUpOf", "tails": ["                      ", "                    ", "                     "]}
+{"head": "Iceland \u00cdsold Uggad\u00f3ttir", "relation": "NotDesires", "tails": [" iceland", " none", " ice"]}
+{"head": "Iceland \u00cdsold Uggad\u00f3ttir", "relation": "Desires", "tails": [" none", " iceland", " to be a leader"]}
+{"head": "G\u00f6teborg: Iceland's \u00cdsold Uggad\u00f3ttir, winner of the Sundance World Dramatic Competition directing award discusses 'And Breathing Normally'", "relation": "xAttr", "tails": [" creative", " talented", " proud"]}
+{"head": "G\u00f6teborg: Iceland's \u00cdsold Uggad\u00f3ttir, winner of the Sundance World Dramatic Competition directing award discusses 'And Breathing Normally'", "relation": "xWant", "tails": [" to talk about the film", " to talk about their work", " to talk about the movie"]}
+{"head": "G\u00f6teborg: Iceland's \u00cdsold Uggad\u00f3ttir, winner of the Sundance World Dramatic Competition directing award discusses 'And Breathing Normally'", "relation": "xNeed", "tails": [" to make a film", " to be a director", " to make a movie"]}
+{"head": "G\u00f6teborg: Iceland's \u00cdsold Uggad\u00f3ttir, winner of the Sundance World Dramatic Competition directing award discusses 'And Breathing Normally'", "relation": "xEffect", "tails": [" Gives a speech", " Gives a speech.", " Gains respect"]}
+{"head": "G\u00f6teborg: Iceland's \u00cdsold Uggad\u00f3ttir, winner of the Sundance World Dramatic Competition directing award discusses 'And Breathing Normally'", "relation": "HinderedBy", "tails": [" Gossips", " Gossips.", " Gossips about the film"]}
+{"head": "G\u00f6teborg: Iceland's \u00cdsold Uggad\u00f3ttir, winner of the Sundance World Dramatic Competition directing award discusses 'And Breathing Normally'", "relation": "oWant", "tails": [" to talk about the film", " to talk about their work", " to talk about the movie"]}
+{"head": "G\u00f6teborg: Iceland's \u00cdsold Uggad\u00f3ttir, winner of the Sundance World Dramatic Competition directing award discusses 'And Breathing Normally'", "relation": "xReact", "tails": [" happy", " proud", " happy."]}
+{"head": "G\u00f6teborg: Iceland's \u00cdsold Uggad\u00f3ttir, winner of the Sundance World Dramatic Competition directing award discusses 'And Breathing Normally'", "relation": "oEffect", "tails": [" none", " Gives a speech", " Gives a speech."]}
+{"head": "G\u00f6teborg: Iceland's \u00cdsold Uggad\u00f3ttir, winner of the Sundance World Dramatic Competition directing award discusses 'And Breathing Normally'", "relation": "xIntent", "tails": [" to be a good actor", " to be a good director", " to make a good impression"]}
+{"head": "G\u00f6teborg: Iceland's \u00cdsold Uggad\u00f3ttir, winner of the Sundance World Dramatic Competition directing award discusses 'And Breathing Normally'", "relation": "oReact", "tails": [" none", " happy", " proud"]}
+{"head": "G\u00f6teborg: Iceland's \u00cdsold Uggad\u00f3ttir, winner of the Sundance World Dramatic Competition directing award discusses 'And Breathing Normally'", "relation": "isBefore", "tails": [" Gossips", " germany", " Gains respect"]}
+{"head": "G\u00f6teborg: Iceland's \u00cdsold Uggad\u00f3ttir, winner of the Sundance World Dramatic Competition directing award discusses 'And Breathing Normally'", "relation": "isAfter", "tails": [" germany", " Gossips", " Gossips."]}
+{"head": "G\u00f6teborg: Iceland's \u00cdsold Uggad\u00f3ttir, winner of the Sundance World Dramatic Competition directing award discusses 'And Breathing Normally'", "relation": "HasSubEvent", "tails": [" Gives a speech", " Gives a speech.", " Gains respect"]}
+{"head": "G\u00f6teborg: Iceland's \u00cdsold Uggad\u00f3ttir, winner of the Sundance World Dramatic Competition directing award discusses 'And Breathing Normally'", "relation": "Causes", "tails": [" proud", " good about themselves", " happy"]}
+{"head": "G\u00f6teborg: Iceland's \u00cdsold Uggad\u00f3ttir, winner of the Sundance World Dramatic Competition directing award discusses 'And Breathing Normally'", "relation": "xReason", "tails": [" Gains an award.", " Gains an award", " Gains an award for directing"]}
+{"head": "Breathing Normally", "relation": "ObjectUse", "tails": [" Breathing", " Breathe", " Breathing normally"]}
+{"head": "Breathing Normally", "relation": "AtLocation", "tails": [" air", " lungs", " airway"]}
+{"head": "Breathing Normally", "relation": "CapableOf", "tails": [" breathe slowly", " breath slowly", " breathe normally"]}
+{"head": "Breathing Normally", "relation": "HasProperty", "tails": [" Breathing", " Breathing normally", " healthy"]}
+{"head": "Breathing Normally", "relation": "MadeUpOf", "tails": [" Breathing", " lungs", " breath"]}
+{"head": "Breathing Normally", "relation": "NotDesires", "tails": [" Breathing", " Breathing normally", " breathe normally"]}
+{"head": "Breathing Normally", "relation": "Desires", "tails": [" to be healthy", " to be healthy.", " breathe normally"]}

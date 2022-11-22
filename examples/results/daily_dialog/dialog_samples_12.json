@@ -1,0 +1,152 @@
+{"head": "tomorrow", "relation": "ObjectUse", "tails": [" have a good time", " have a party", " sleep in"]}
+{"head": "tomorrow", "relation": "AtLocation", "tails": [" bed and breakfast", " house", " bed"]}
+{"head": "tomorrow", "relation": "CapableOf", "tails": [" go to sleep", " go to bed", " go to work"]}
+{"head": "tomorrow", "relation": "HasProperty", "tails": [" one day a week", " one day a month", " one day a year"]}
+{"head": "tomorrow", "relation": "MadeUpOf", "tails": [" day", " clock", " bed"]}
+{"head": "tomorrow", "relation": "NotDesires", "tails": [" have to go to work", " have to go to school", " sleep"]}
+{"head": "tomorrow", "relation": "Desires", "tails": [" have a good time", " have a good day", " sleep"]}
+{"head": "to write", "relation": "HinderedBy", "tails": [" to write", " to write a book", " to write a novel"]}
+{"head": "to write", "relation": "isBefore", "tails": [" to write a book", " learn how to write", " to write a novel"]}
+{"head": "to write", "relation": "isAfter", "tails": [" get a pen and paper", " to write a book", " to write a novel"]}
+{"head": "to write", "relation": "HasSubEvent", "tails": [" learn how to write", " learn to write", " learn how to read"]}
+{"head": "to write", "relation": "Causes", "tails": [" learn how to write", " learn to write", " learn how to read"]}
+{"head": "to write", "relation": "xReason", "tails": [" learn how to write", " learn to write", " learn to read"]}
+{"head": "to remember", "relation": "HinderedBy", "tails": [" to remember", " to remember something", " to remember things"]}
+{"head": "to remember", "relation": "isBefore", "tails": [" to remember", " to remember something", " to remember things"]}
+{"head": "to remember", "relation": "isAfter", "tails": [" to remember", " remember what happened", " remember"]}
+{"head": "to remember", "relation": "HasSubEvent", "tails": [" to remember", " remember what happened", " remember"]}
+{"head": "to remember", "relation": "Causes", "tails": [" to remember", " remember things", " remember"]}
+{"head": "to remember", "relation": "xReason", "tails": [" remember things", " to remember", " remember what happened"]}
+{"head": "to pick", "relation": "HinderedBy", "tails": [" to pick ", " to pick", " to pick  to pick "]}
+{"head": "to pick", "relation": "isBefore", "tails": [" to pick", " to pick ", " to pick up"]}
+{"head": "to pick", "relation": "isAfter", "tails": [" to pick the right one", " to pick the best one", " to pick"]}
+{"head": "to pick", "relation": "HasSubEvent", "tails": [" to pick  pick  pick  pick  pick  pick  pick  pick  pick", " to pick  pick  pick  pick  pick  pick  pick  pick  pick  pick", " to pick  pick  pick  pick  pick  pick  pick  pick"]}
+{"head": "to pick", "relation": "Causes", "tails": [" to pick  pick  pick  pick  pick  pick  pick  pick  pick  pick  pick", " to pick  pick  pick  pick  pick  pick  pick  pick  pick  pick ", " to pick  pick  pick  pick  pick  pick  pick  pick  pick  pick"]}
+{"head": "to pick", "relation": "xReason", "tails": [" to pick", " to pick something", " to pick the best"]}
+{"head": "to have", "relation": "HinderedBy", "tails": [" to have", " to have ", " to have  to have"]}
+{"head": "to have", "relation": "isBefore", "tails": [" to have", " to have ", " to have  a good time"]}
+{"head": "to have", "relation": "isAfter", "tails": [" to have something to eat", " to have", " to have something to drink"]}
+{"head": "to have", "relation": "HasSubEvent", "tails": [" to have", " to have ", " to have  have"]}
+{"head": "to have", "relation": "Causes", "tails": [" to have", " to have ", " to have  "]}
+{"head": "to have", "relation": "xReason", "tails": [" to have", " to have something to eat", " to have "]}
+{"head": "to get", "relation": "HinderedBy", "tails": [" to get ", " to get", " to get  to get "]}
+{"head": "to get", "relation": "isBefore", "tails": [" to get", " to get ", " to get  to get "]}
+{"head": "to get", "relation": "isAfter", "tails": [" to get", " to get something", " to get "]}
+{"head": "to get", "relation": "HasSubEvent", "tails": [" to get", " to get ", " to get  to get"]}
+{"head": "to get", "relation": "Causes", "tails": [" to get", " to get  to get ", " to get "]}
+{"head": "to get", "relation": "xReason", "tails": [" to get", " to get something", " to get "]}
+{"head": "report", "relation": "ObjectUse", "tails": [" give to the boss", " make a report", " report to the boss"]}
+{"head": "report", "relation": "AtLocation", "tails": [" report card", " report", " newspaper"]}
+{"head": "report", "relation": "CapableOf", "tails": [" report to boss", " write report", " report to supervisor"]}
+{"head": "report", "relation": "HasProperty", "tails": [" found in book", " found in newspaper", " found in report"]}
+{"head": "report", "relation": "MadeUpOf", "tails": [" report card", " report", " report number"]}
+{"head": "report", "relation": "NotDesires", "tails": [" get fired", " report to boss", " report to police"]}
+{"head": "report", "relation": "Desires", "tails": [" know what's going on", " know what to do next", " know what to do"]}
+{"head": "pick boss", "relation": "HinderedBy", "tails": [" pick boss", " get fired", " pick boss's wife"]}
+{"head": "pick boss", "relation": "isBefore", "tails": [" pick boss", " pick up", " boss"]}
+{"head": "pick boss", "relation": "isAfter", "tails": [" pick boss", " boss is in charge", " boss is in a meeting"]}
+{"head": "pick boss", "relation": "HasSubEvent", "tails": [" get fired", " pick boss", " get promoted"]}
+{"head": "pick boss", "relation": "Causes", "tails": [" get fired", " pick boss", " boss to hire"]}
+{"head": "pick boss", "relation": "xReason", "tails": [" work for boss", " get fired", " boss to hire"]}
+{"head": "morning", "relation": "ObjectUse", "tails": [" get out of bed", " wake up", " get out of bed in"]}
+{"head": "morning", "relation": "AtLocation", "tails": [" morning", " bed", " breakfast"]}
+{"head": "morning", "relation": "CapableOf", "tails": [" wake up", " get out of bed", " wake up early"]}
+{"head": "morning", "relation": "HasProperty", "tails": [" found in early morning", " found in morning", " morning"]}
+{"head": "morning", "relation": "MadeUpOf", "tails": [" morning", " wake up", " breakfast"]}
+{"head": "morning", "relation": "NotDesires", "tails": [" wake up", " morning sickness", " wake up early"]}
+{"head": "morning", "relation": "Desires", "tails": [" wake up", " wake up early", " wake up in"]}
+{"head": "get report", "relation": "HinderedBy", "tails": [" find out what happened", " get report", " find out what is wrong"]}
+{"head": "get report", "relation": "isBefore", "tails": [" report to boss", " report to supervisor", " report to editor"]}
+{"head": "get report", "relation": "isAfter", "tails": [" report card", " report", " report to boss"]}
+{"head": "get report", "relation": "HasSubEvent", "tails": [" report to boss", " write report", " report to supervisor"]}
+{"head": "get report", "relation": "Causes", "tails": [" find out what happened", " find out what is wrong", " report card"]}
+{"head": "get report", "relation": "xReason", "tails": [" read report", " read", " report to boss"]}
+{"head": "boss", "relation": "ObjectUse", "tails": [" get a raise", " work for", " get a promotion"]}
+{"head": "boss", "relation": "AtLocation", "tails": [" office", " boss's office", " office building"]}
+{"head": "boss", "relation": "CapableOf", "tails": [" boss people around", " work hard", " boss people"]}
+{"head": "boss", "relation": "HasProperty", "tails": [" boss", " boss of employees", " bossy"]}
+{"head": "boss", "relation": "MadeUpOf", "tails": [" boss's name", " head of department", " boss"]}
+{"head": "boss", "relation": "NotDesires", "tails": [" get fired", " boss to be fired", " boss to fire"]}
+{"head": "boss", "relation": "Desires", "tails": [" work hard", " boss to hire", " work for"]}
+{"head": "airport", "relation": "ObjectUse", "tails": [" travel to and from", " travel to", " air travel"]}
+{"head": "airport", "relation": "AtLocation", "tails": [" airport", " airfield", " airport terminal"]}
+{"head": "airport", "relation": "CapableOf", "tails": [" land plane", " land plane at airport", " travel to airport"]}
+{"head": "airport", "relation": "HasProperty", "tails": [" airport", " airfield", " air travel"]}
+{"head": "airport", "relation": "MadeUpOf", "tails": [" airport", " airfield", " airport terminal"]}
+{"head": "airport", "relation": "NotDesires", "tails": [" airport", " air traffic", " air travel"]}
+{"head": "airport", "relation": "Desires", "tails": [" travel", " airport", " air travel"]}
+{"head": "What's up ?", "relation": "xAttr", "tails": [" curious", " confused", " concerned"]}
+{"head": "What's up ?", "relation": "xWant", "tails": [" to talk to someone", " to ask for help", " to talk to the person"]}
+{"head": "What's up ?", "relation": "xNeed", "tails": [" none", " to have a conversation with someone", " to be in a meeting"]}
+{"head": "What's up ?", "relation": "xEffect", "tails": [" none", " gets yelled at", " gets asked questions"]}
+{"head": "What's up ?", "relation": "HinderedBy", "tails": [" what's up", " what's going on", " what's up ?"]}
+{"head": "What's up ?", "relation": "oWant", "tails": [" none", " to get to the bottom of it", " to get to the bottom of the matter"]}
+{"head": "What's up ?", "relation": "xReact", "tails": [" worried", " confused", " curious"]}
+{"head": "What's up ?", "relation": "oEffect", "tails": [" none", " they get a new job", " they are asked to do something"]}
+{"head": "What's up ?", "relation": "xIntent", "tails": [" none", " to know what's going on", " to know what is going on"]}
+{"head": "What's up ?", "relation": "oReact", "tails": [" none", " confused", " confused."]}
+{"head": "What's up ?", "relation": "isBefore", "tails": [" what's up", " what's going on", " what is up"]}
+{"head": "What's up ?", "relation": "isAfter", "tails": [" what's going on", " what's up", " what's up ?"]}
+{"head": "What's up ?", "relation": "HasSubEvent", "tails": [" ask for help", " none", " get a drink"]}
+{"head": "What's up ?", "relation": "Causes", "tails": [" what's going on", " what's up", " what's going on."]}
+{"head": "What's up ?", "relation": "xReason", "tails": [" what's going on", " what's up", " what's up what's up"]}
+{"head": "Someone has to pick up the boss at the airport .", "relation": "xAttr", "tails": [" responsible", " helpful", " busy"]}
+{"head": "Someone has to pick up the boss at the airport .", "relation": "xWant", "tails": [" to pick up the boss at the airport", " to pick up the boss", " to pick up the boss from the airport"]}
+{"head": "Someone has to pick up the boss at the airport .", "relation": "xNeed", "tails": [" to drive to the airport", " to get in the car", " to drive to the airport."]}
+{"head": "Someone has to pick up the boss at the airport .", "relation": "xEffect", "tails": [" gets yelled at", " none", " gets a thank you"]}
+{"head": "Someone has to pick up the boss at the airport .", "relation": "HinderedBy", "tails": [" Someone has to pick up the boss at the airport.", " Someone has to pick up the boss.", " Someone has to drive the boss to the airport."]}
+{"head": "Someone has to pick up the boss at the airport .", "relation": "oWant", "tails": [" to go to the airport", " to go home", " to get to the airport"]}
+{"head": "Someone has to pick up the boss at the airport .", "relation": "xReact", "tails": [" responsible", " helpful", " happy"]}
+{"head": "Someone has to pick up the boss at the airport .", "relation": "oEffect", "tails": [" none", " gets a ride to the airport", " gets a ride to the airport."]}
+{"head": "Someone has to pick up the boss at the airport .", "relation": "xIntent", "tails": [" to pick up the boss", " to get the boss to the airport", " none"]}
+{"head": "Someone has to pick up the boss at the airport .", "relation": "oReact", "tails": [" none", " happy", " annoyed"]}
+{"head": "Someone has to pick up the boss at the airport .", "relation": "isBefore", "tails": [" PersonY drives PersonY to the airport.", " PersonY drives PersonY to the airport", " PersonX drives to the airport."]}
+{"head": "Someone has to pick up the boss at the airport .", "relation": "isAfter", "tails": [" PersonY drives PersonY to the airport.", " PersonY drives PersonY to the airport", " PersonX drives to the airport."]}
+{"head": "Someone has to pick up the boss at the airport .", "relation": "HasSubEvent", "tails": [" none", " get a ride", " get a ride home"]}
+{"head": "Someone has to pick up the boss at the airport .", "relation": "Causes", "tails": [" PersonX has to pick up the boss at the airport.", " PersonX has to pick up the boss at the airport", " PersonX has to go to work."]}
+{"head": "Someone has to pick up the boss at the airport .", "relation": "xReason", "tails": [" PersonY is driving the boss to the airport.", " PersonY is driving PersonY to the airport.", " PersonY is driving the boss to the airport"]}
+{"head": "Oh , I just remembered I've got a report to write .", "relation": "xAttr", "tails": [" responsible", " nervous", " smart"]}
+{"head": "Oh , I just remembered I've got a report to write .", "relation": "xWant", "tails": [" to write the report", " to finish the report", " to write a report"]}
+{"head": "Oh , I just remembered I've got a report to write .", "relation": "xNeed", "tails": [" none", " to think about what to write", " to think about the report"]}
+{"head": "Oh , I just remembered I've got a report to write .", "relation": "xEffect", "tails": [" gets nervous", " none", " gets stressed out"]}
+{"head": "Oh , I just remembered I've got a report to write .", "relation": "HinderedBy", "tails": [" I don't have the time to write it.", " I don't have the time to do it.", " I don't have time to write it."]}
+{"head": "Oh , I just remembered I've got a report to write .", "relation": "oWant", "tails": [" none", " to read the report", " to get a good grade"]}
+{"head": "Oh , I just remembered I've got a report to write .", "relation": "xReact", "tails": [" nervous", " anxious", " stressed"]}
+{"head": "Oh , I just remembered I've got a report to write .", "relation": "oEffect", "tails": [" none", " get a good grade on the report", " get a good grade on the test"]}
+{"head": "Oh , I just remembered I've got a report to write .", "relation": "xIntent", "tails": [" none", " to get a good grade", " to get a good grade."]}
+{"head": "Oh , I just remembered I've got a report to write .", "relation": "oReact", "tails": [" none", " informed", " happy"]}
+{"head": "Oh , I just remembered I've got a report to write .", "relation": "isBefore", "tails": [" PersonX asks PersonX to write the report for them.", " PersonX asks PersonX to write the report.", " PersonX asks PersonX to write the report for them"]}
+{"head": "Oh , I just remembered I've got a report to write .", "relation": "isAfter", "tails": [" PersonX asks PersonX to write the report.", " PersonX asks PersonX to write a report.", " PersonX asks PersonX to write a report for them"]}
+{"head": "Oh , I just remembered I've got a report to write .", "relation": "HasSubEvent", "tails": [" write the report", " write a report", " write the report down"]}
+{"head": "Oh , I just remembered I've got a report to write .", "relation": "Causes", "tails": [" they have to write a report", " none", " they have to write a report."]}
+{"head": "Oh , I just remembered I've got a report to write .", "relation": "xReason", "tails": [" none", " I have to write a report.", " they have to write a report"]}
+{"head": "I'm free .", "relation": "xAttr", "tails": [" free", " free-spirited", " free spirited"]}
+{"head": "I'm free .", "relation": "xWant", "tails": [" to go out and have a good time", " to go out and have fun", " to go out and have a good time."]}
+{"head": "I'm free .", "relation": "xNeed", "tails": [" none", " to be free", " to have a job"]}
+{"head": "I'm free .", "relation": "xEffect", "tails": [" I can do anything I want to do.", " I can do anything I want to do", " I can do anything I want"]}
+{"head": "I'm free .", "relation": "HinderedBy", "tails": [" I have no one to depend on.", " I have no one to live with.", " I have no one to rely on."]}
+{"head": "I'm free .", "relation": "oWant", "tails": [" none", " to be free", " to be free too"]}
+{"head": "I'm free .", "relation": "xReact", "tails": [" free", " happy", " relieved"]}
+{"head": "I'm free .", "relation": "oEffect", "tails": [" none", " free to do what they want to do", " free to do what they want"]}
+{"head": "I'm free .", "relation": "xIntent", "tails": [" none", " to be free", " to be free."]}
+{"head": "I'm free .", "relation": "oReact", "tails": [" none", " free", " happy"]}
+{"head": "I'm free .", "relation": "isBefore", "tails": [" free", " I am free", " I'm free"]}
+{"head": "I'm free .", "relation": "isAfter", "tails": [" I have a new lease on life", " I have a new lease on life.", " I have a new job"]}
+{"head": "I'm free .", "relation": "HasSubEvent", "tails": [" get out of debt", " get out of jail", " get out of house"]}
+{"head": "I'm free .", "relation": "Causes", "tails": [" free", " I am free.", " I am no longer tied down"]}
+{"head": "I'm free .", "relation": "xReason", "tails": [" free", " I am free", " I'm free"]}
+{"head": "Are you busy tomorrow morning ?", "relation": "xAttr", "tails": [" busy", " responsible", " tired"]}
+{"head": "Are you busy tomorrow morning ?", "relation": "xWant", "tails": [" to go to work", " to get to work on time", " to get to work"]}
+{"head": "Are you busy tomorrow morning ?", "relation": "xNeed", "tails": [" none", " get ready for the day", " get ready for work"]}
+{"head": "Are you busy tomorrow morning ?", "relation": "xEffect", "tails": [" get ready for the day", " get ready for work", " are asked to do something else"]}
+{"head": "Are you busy tomorrow morning ?", "relation": "HinderedBy", "tails": [" Are you busy tomorrow morning.", " Are you busy tomorrow morning?", " Are you busy tomorrow morning"]}
+{"head": "Are you busy tomorrow morning ?", "relation": "oWant", "tails": [" none", " to have a good time", " to have a good day"]}
+{"head": "Are you busy tomorrow morning ?", "relation": "xReact", "tails": [" busy", " tired", " happy"]}
+{"head": "Are you busy tomorrow morning ?", "relation": "oEffect", "tails": [" none", " get ready for work", " are asked to do something"]}
+{"head": "Are you busy tomorrow morning ?", "relation": "xIntent", "tails": [" none", " to get things done", " to get things done."]}
+{"head": "Are you busy tomorrow morning ?", "relation": "oReact", "tails": [" none", " happy", " happy."]}
+{"head": "Are you busy tomorrow morning ?", "relation": "isBefore", "tails": [" get ready for work", " get ready for the day", " get ready for the next day"]}
+{"head": "Are you busy tomorrow morning ?", "relation": "isAfter", "tails": [" get ready for work", " get ready for the day", " get ready to go to work"]}
+{"head": "Are you busy tomorrow morning ?", "relation": "HasSubEvent", "tails": [" get ready for work", " get ready for the day", " are asked to do something else"]}
+{"head": "Are you busy tomorrow morning ?", "relation": "Causes", "tails": [" Are you busy tomorrow morning.", " Are you busy tomorrow morning", " Are you busy tomorrow morning?"]}
+{"head": "Are you busy tomorrow morning ?", "relation": "xReason", "tails": [" none", " are tired", " are busy"]}

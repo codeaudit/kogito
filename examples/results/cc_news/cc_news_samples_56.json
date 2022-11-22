@@ -1,0 +1,69 @@
+{"head": "triumphant return", "relation": "ObjectUse", "tails": [" make a good impression", " get a promotion", " get a promotion at work"]}
+{"head": "triumphant return", "relation": "AtLocation", "tails": [" bank teller's office", " bank teller's desk", " bank teller's hand"]}
+{"head": "triumphant return", "relation": "CapableOf", "tails": [" celebrate", " get a promotion", " celebrate with friends"]}
+{"head": "triumphant return", "relation": "HasProperty", "tails": [" triumphant", " happy", " good"]}
+{"head": "triumphant return", "relation": "MadeUpOf", "tails": [" triumphant", " victory", " happy"]}
+{"head": "triumphant return", "relation": "NotDesires", "tails": [" feel good about yourself", " win the lottery", " win the game"]}
+{"head": "triumphant return", "relation": "Desires", "tails": [" feel good about yourself", " to be successful", " feel good about themselves"]}
+{"head": "to celebrate", "relation": "HinderedBy", "tails": [" to celebrate", " to celebrate a birthday", " have a party"]}
+{"head": "to celebrate", "relation": "isBefore", "tails": [" have a party", " have a good time", " to celebrate"]}
+{"head": "to celebrate", "relation": "isAfter", "tails": [" have a party", " have a good time", " have party"]}
+{"head": "to celebrate", "relation": "HasSubEvent", "tails": [" to celebrate", " get drunk", " have fun"]}
+{"head": "to celebrate", "relation": "Causes", "tails": [" have a good time", " have a party", " have fun"]}
+{"head": "to celebrate", "relation": "xReason", "tails": [" have a good time", " have a party", " have fun"]}
+{"head": "return", "relation": "ObjectUse", "tails": [" return the item", " return the item to the store", " return item to store"]}
+{"head": "return", "relation": "AtLocation", "tails": [" store", " mail box", " return to store"]}
+{"head": "return", "relation": "CapableOf", "tails": [" return lost item", " return item", " return item to owner"]}
+{"head": "return", "relation": "HasProperty", "tails": [" found in store", " found in bank", " return to sender"]}
+{"head": "return", "relation": "MadeUpOf", "tails": [" return", " return receipt", " return ticket"]}
+{"head": "return", "relation": "NotDesires", "tails": [" have to go back home", " have to pay back", " have to go back"]}
+{"head": "return", "relation": "Desires", "tails": [" return item", " return something", " return to sender"]}
+{"head": "prominence", "relation": "ObjectUse", "tails": [" make a good impression", " make money", " show off your wealth"]}
+{"head": "prominence", "relation": "AtLocation", "tails": [" promenade", " prom", " good name"]}
+{"head": "prominence", "relation": "CapableOf", "tails": [" make money", " get a promotion", " get a job"]}
+{"head": "prominence", "relation": "HasProperty", "tails": [" important to society", " important in society", " good for business"]}
+{"head": "prominence", "relation": "MadeUpOf", "tails": [" promenade", " prominence", " prominentity"]}
+{"head": "prominence", "relation": "NotDesires", "tails": [" promiscuity", " promiscuousness", " promiscuous behavior"]}
+{"head": "prominence", "relation": "Desires", "tails": [" have a good reputation", " have a lot of money", " have a lot of followers"]}
+{"head": "celebrate return", "relation": "HinderedBy", "tails": [" celebrate return", " celebrate", " celebrate with family"]}
+{"head": "celebrate return", "relation": "isBefore", "tails": [" have party", " return home", " return to home"]}
+{"head": "celebrate return", "relation": "isAfter", "tails": [" return home", " have party", " return to country"]}
+{"head": "celebrate return", "relation": "HasSubEvent", "tails": [" have party", " get drunk", " have fun"]}
+{"head": "celebrate return", "relation": "Causes", "tails": [" celebrate", " celebrate return", " have fun"]}
+{"head": "celebrate return", "relation": "xReason", "tails": [" have party", " celebrate return", " celebrate"]}
+{"head": "band", "relation": "ObjectUse", "tails": [" wear on head", " wear as a costume", " wear as a necklace"]}
+{"head": "band", "relation": "AtLocation", "tails": [" music store", " bandstand", " music shop"]}
+{"head": "band", "relation": "CapableOf", "tails": [" wear on head", " wear around neck", " wear on wrist"]}
+{"head": "band", "relation": "HasProperty", "tails": [" worn on head", " worn on wrist", " worn on neck"]}
+{"head": "band", "relation": "MadeUpOf", "tails": [" bandage", " bandoette", " band"]}
+{"head": "band", "relation": "NotDesires", "tails": [" wear on head", " wear around neck", " wear on wrist"]}
+{"head": "band", "relation": "Desires", "tails": [" wear on head", " music", " wear on wrist"]}
+{"head": "The Rock and Roll Hall of Fame band celebrates a triumphant return to prominence.", "relation": "xAttr", "tails": [" proud", " talented", " successful"]}
+{"head": "The Rock and Roll Hall of Fame band celebrates a triumphant return to prominence.", "relation": "xWant", "tails": [" to celebrate", " to celebrate their success", " to celebrate with their fans"]}
+{"head": "The Rock and Roll Hall of Fame band celebrates a triumphant return to prominence.", "relation": "xNeed", "tails": [" to be in a band", " to be in the band", " to have been in the band"]}
+{"head": "The Rock and Roll Hall of Fame band celebrates a triumphant return to prominence.", "relation": "xEffect", "tails": [" the band gets a standing ovation", " the band gets a standing ovation from the crowd", " the band gets a standing ovation from the audience"]}
+{"head": "The Rock and Roll Hall of Fame band celebrates a triumphant return to prominence.", "relation": "HinderedBy", "tails": [" The Rolling Stones are celebrating their 50th anniversary.", " The Rolling Stones are getting a new album out.", " The Rolling Stones are getting a new album."]}
+{"head": "The Rock and Roll Hall of Fame band celebrates a triumphant return to prominence.", "relation": "oWant", "tails": [" to celebrate", " to celebrate with their fans", " to celebrate their success"]}
+{"head": "The Rock and Roll Hall of Fame band celebrates a triumphant return to prominence.", "relation": "xReact", "tails": [" proud", " happy", " excited"]}
+{"head": "The Rock and Roll Hall of Fame band celebrates a triumphant return to prominence.", "relation": "oEffect", "tails": [" the band gets a standing ovation", " the band gets a standing ovation from the crowd", " the band gets a standing ovation from the audience"]}
+{"head": "The Rock and Roll Hall of Fame band celebrates a triumphant return to prominence.", "relation": "xIntent", "tails": [" the band to be famous", " to be remembered", " the band to be successful"]}
+{"head": "The Rock and Roll Hall of Fame band celebrates a triumphant return to prominence.", "relation": "oReact", "tails": [" none", " happy", " proud"]}
+{"head": "The Rock and Roll Hall of Fame band celebrates a triumphant return to prominence.", "relation": "isBefore", "tails": [" The Rolling Stones perform at the concert.", " The Rolling Stones perform at the ceremony.", " the band performs at a concert"]}
+{"head": "The Rock and Roll Hall of Fame band celebrates a triumphant return to prominence.", "relation": "isAfter", "tails": [" the band performs at the concert", " the band performs at a concert", " the band performs at the ceremony"]}
+{"head": "The Rock and Roll Hall of Fame band celebrates a triumphant return to prominence.", "relation": "HasSubEvent", "tails": [" celebrate their success", " perform at the concert", " get a new job"]}
+{"head": "The Rock and Roll Hall of Fame band celebrates a triumphant return to prominence.", "relation": "Causes", "tails": [" the band to be famous", " the band is famous", " the band to be successful"]}
+{"head": "The Rock and Roll Hall of Fame band celebrates a triumphant return to prominence.", "relation": "xReason", "tails": [" the band gets a standing ovation", " the band gets a standing ovation from the crowd", " the band gets a standing ovation from the audience"]}
+{"head": "Rock Roll Hall", "relation": "ObjectUse", "tails": [" show off your music collection", " rock band", " show off your talent"]}
+{"head": "Rock Roll Hall", "relation": "AtLocation", "tails": [" museum", " rock band", " music museum"]}
+{"head": "Rock Roll Hall", "relation": "CapableOf", "tails": [" rock band", " make music", " get a plaque"]}
+{"head": "Rock Roll Hall", "relation": "HasProperty", "tails": [" rock and roll music", " rock and roll", " found in museum"]}
+{"head": "Rock Roll Hall", "relation": "MadeUpOf", "tails": [" rock band", " rock and roll", " rock and roll music"]}
+{"head": "Rock Roll Hall", "relation": "NotDesires", "tails": [" rock and roll", " rock and roll music", " rock band"]}
+{"head": "Rock Roll Hall", "relation": "Desires", "tails": [" rock and roll music", " rock and roll", " rock music"]}
+{"head": "Fame band", "relation": "ObjectUse", "tails": [" sing in", " make money", " make a movie"]}
+{"head": "Fame band", "relation": "AtLocation", "tails": [" music hall", " rock band", " music store"]}
+{"head": "Fame band", "relation": "CapableOf", "tails": [" make music", " play music", " sing in"]}
+{"head": "Fame band", "relation": "HasProperty", "tails": [" music", " famous", " popular"]}
+{"head": "Fame band", "relation": "MadeUpOf", "tails": [" band name", " music", " song"]}
+{"head": "Fame band", "relation": "NotDesires", "tails": [" get famous", " music", " sing in"]}
+{"head": "Fame band", "relation": "Desires", "tails": [" to be famous", " make money", " music"]}

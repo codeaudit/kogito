@@ -1,0 +1,178 @@
+{"head": "to want", "relation": "HinderedBy", "tails": [" to want", " to want something", " to want "]}
+{"head": "to want", "relation": "isBefore", "tails": [" to want", " to want something", " to want to want"]}
+{"head": "to want", "relation": "isAfter", "tails": [" to want", " to want something", " to want to want"]}
+{"head": "to want", "relation": "HasSubEvent", "tails": [" to want", " to want something", " to want to want"]}
+{"head": "to want", "relation": "Causes", "tails": [" to want", " to want something", " to want to want"]}
+{"head": "to want", "relation": "xReason", "tails": [" to want", " to want something", " to want to want"]}
+{"head": "to start", "relation": "HinderedBy", "tails": [" to start", " to start ", " to start something"]}
+{"head": "to start", "relation": "isBefore", "tails": [" to start", " to start ", " to start the game"]}
+{"head": "to start", "relation": "isAfter", "tails": [" to start", " to get started", " to start the game"]}
+{"head": "to start", "relation": "HasSubEvent", "tails": [" to start", " get ready", " to start "]}
+{"head": "to start", "relation": "Causes", "tails": [" to start", " to start ", " to start something"]}
+{"head": "to start", "relation": "xReason", "tails": [" to start", " to start something", " get started"]}
+{"head": "to meet", "relation": "HinderedBy", "tails": [" to meet", " to meet ", " to meet someone"]}
+{"head": "to meet", "relation": "isBefore", "tails": [" to meet someone", " to meet", " meet new people"]}
+{"head": "to meet", "relation": "isAfter", "tails": [" meet new people", " meet new person", " meet someone"]}
+{"head": "to meet", "relation": "HasSubEvent", "tails": [" to meet", " get ready for meeting", " to meet "]}
+{"head": "to meet", "relation": "Causes", "tails": [" meet new people", " to meet", " to meet someone"]}
+{"head": "to meet", "relation": "xReason", "tails": [" meet new people", " to meet someone", " meet new person"]}
+{"head": "to marry", "relation": "HinderedBy", "tails": [" to marry", " to marry ", " get married"]}
+{"head": "to marry", "relation": "isBefore", "tails": [" to marry", " have children", " get married"]}
+{"head": "to marry", "relation": "isAfter", "tails": [" get married", " have children", " get engaged"]}
+{"head": "to marry", "relation": "HasSubEvent", "tails": [" get married", " get engaged", " have children"]}
+{"head": "to marry", "relation": "Causes", "tails": [" to marry", " get married", " have children"]}
+{"head": "to marry", "relation": "xReason", "tails": [" get married", " have children", " to marry"]}
+{"head": "to get", "relation": "HinderedBy", "tails": [" to get ", " to get", " to get  to get "]}
+{"head": "to get", "relation": "isBefore", "tails": [" to get", " to get ", " to get  to get "]}
+{"head": "to get", "relation": "isAfter", "tails": [" to get", " to get something", " to get "]}
+{"head": "to get", "relation": "HasSubEvent", "tails": [" to get", " to get ", " to get  to get"]}
+{"head": "to get", "relation": "Causes", "tails": [" to get", " to get  to get ", " to get "]}
+{"head": "to get", "relation": "xReason", "tails": [" to get", " to get something", " to get "]}
+{"head": "to disapprove", "relation": "HinderedBy", "tails": [" to disapprove", " to disapprove ", " to disapprove of something"]}
+{"head": "to disapprove", "relation": "isBefore", "tails": [" to disapprove", " to approve", " to disapprove of"]}
+{"head": "to disapprove", "relation": "isAfter", "tails": [" to make a decision", " to be in charge", " to disapprove of something"]}
+{"head": "to disapprove", "relation": "HasSubEvent", "tails": [" to disapprove", " to disapprove ", " to disapprove of something"]}
+{"head": "to disapprove", "relation": "Causes", "tails": [" to disapprove", " to disapprove of something", " to disapprove of person"]}
+{"head": "to disapprove", "relation": "xReason", "tails": [" to disapprove", " none", " disapprove of something"]}
+{"head": "to date", "relation": "HinderedBy", "tails": [" to date", " to date someone", " to date "]}
+{"head": "to date", "relation": "isBefore", "tails": [" to date", " to date someone", " to date a girl"]}
+{"head": "to date", "relation": "isAfter", "tails": [" to date", " to date someone", " keep track of"]}
+{"head": "to date", "relation": "HasSubEvent", "tails": [" to date", " get married", " to date someone"]}
+{"head": "to date", "relation": "Causes", "tails": [" to date", " get married", " to date someone"]}
+{"head": "to date", "relation": "xReason", "tails": [" to date", " to date someone", " get married"]}
+{"head": "religion", "relation": "ObjectUse", "tails": [" religious beliefs", " religion", " worship god"]}
+{"head": "religion", "relation": "AtLocation", "tails": [" religion", " church", " religious beliefs"]}
+{"head": "religion", "relation": "CapableOf", "tails": [" believe in god", " learn about religion", " believe in God"]}
+{"head": "religion", "relation": "HasProperty", "tails": [" religious beliefs", " religious belief", " religion"]}
+{"head": "religion", "relation": "MadeUpOf", "tails": [" religion", " religious beliefs", " religious belief"]}
+{"head": "religion", "relation": "NotDesires", "tails": [" belief in god", " religious beliefs", " religion"]}
+{"head": "religion", "relation": "Desires", "tails": [" religious beliefs", " believe in god", " religion"]}
+{"head": "mom", "relation": "ObjectUse", "tails": [" have a conversation with", " have sex with", " give birth to baby"]}
+{"head": "mom", "relation": "AtLocation", "tails": [" mom's house", " mom's car", " mother's house"]}
+{"head": "mom", "relation": "CapableOf", "tails": [" mother daughter to grow up", " mother to child", " mother to son"]}
+{"head": "mom", "relation": "HasProperty", "tails": [" mother", " mom", " mom is"]}
+{"head": "mom", "relation": "MadeUpOf", "tails": [" mother", " mom", " mommy"]}
+{"head": "mom", "relation": "NotDesires", "tails": [" mother to die", " mom to die", " mom to be dead"]}
+{"head": "mom", "relation": "Desires", "tails": [" motherly love", " mother's love", " mom to be happy"]}
+{"head": "meet Ann", "relation": "HinderedBy", "tails": [" meet new people", " meet a new person", " meet someone new"]}
+{"head": "meet Ann", "relation": "isBefore", "tails": [" meet new people", " get to know person", " get to know them"]}
+{"head": "meet Ann", "relation": "isAfter", "tails": [" meet new people", " get to know person", " get to know them"]}
+{"head": "meet Ann", "relation": "HasSubEvent", "tails": [" get to know Ann", " meet new people", " get to know person"]}
+{"head": "meet Ann", "relation": "Causes", "tails": [" meet new people", " get to know person", " get to know them"]}
+{"head": "meet Ann", "relation": "xReason", "tails": [" meet new people", " get to know person", " get to know them"]}
+{"head": "marry Ann", "relation": "HinderedBy", "tails": [" marry someone else", " marry someone", " marry"]}
+{"head": "marry Ann", "relation": "isBefore", "tails": [" marry", " get married", " buy a house"]}
+{"head": "marry Ann", "relation": "isAfter", "tails": [" get married", " marry", " marry someone else"]}
+{"head": "marry Ann", "relation": "HasSubEvent", "tails": [" get married", " marry", " get engaged"]}
+{"head": "marry Ann", "relation": "Causes", "tails": [" marry", " love", " marry someone"]}
+{"head": "marry Ann", "relation": "xReason", "tails": [" marry", " get married", " have children"]}
+{"head": "They got along very well.", "relation": "xAttr", "tails": [" friendly", " social", " happy"]}
+{"head": "They got along very well.", "relation": "xWant", "tails": [" to have a good time", " to have fun", " to have a good time."]}
+{"head": "They got along very well.", "relation": "xNeed", "tails": [" none", " to be friends with someone", " to have a relationship with someone"]}
+{"head": "They got along very well.", "relation": "xEffect", "tails": [" they had a good time", " they got along with each other", " they got along well with each other"]}
+{"head": "They got along very well.", "relation": "HinderedBy", "tails": [" they had a lot of fun", " they had a lot of fun together", " they had a good time"]}
+{"head": "They got along very well.", "relation": "oWant", "tails": [" none", " to have a good time", " to be friends with each other"]}
+{"head": "They got along very well.", "relation": "xReact", "tails": [" happy", " good about themselves", " happy."]}
+{"head": "They got along very well.", "relation": "oEffect", "tails": [" none", " they had a good time", " they got along with each other"]}
+{"head": "They got along very well.", "relation": "xIntent", "tails": [" none", " to have a good time", " to have a good time."]}
+{"head": "They got along very well.", "relation": "oReact", "tails": [" none", " happy", " happy."]}
+{"head": "They got along very well.", "relation": "isBefore", "tails": [" they had a good time", " they went to the movies together", " they had a good time together"]}
+{"head": "They got along very well.", "relation": "isAfter", "tails": [" they got along well with each other", " they had a good time", " they got along with each other"]}
+{"head": "They got along very well.", "relation": "HasSubEvent", "tails": [" get to know each other", " get to know each other better", " get to know someone"]}
+{"head": "They got along very well.", "relation": "Causes", "tails": [" they had a good time", " they got along with each other", " they got along well with each other"]}
+{"head": "They got along very well.", "relation": "xReason", "tails": [" they had a good time", " they got along with each other", " they got along well with each other"]}
+{"head": "Lutheran", "relation": "ObjectUse", "tails": [" religious beliefs", " worship God", " make a sermon"]}
+{"head": "Lutheran", "relation": "AtLocation", "tails": [" church", " church building", " religious group"]}
+{"head": "Lutheran", "relation": "CapableOf", "tails": [" pray to God", " pray to god", " get married"]}
+{"head": "Lutheran", "relation": "HasProperty", "tails": [" found in church", " religious beliefs", " found in churches"]}
+{"head": "Lutheran", "relation": "MadeUpOf", "tails": [" religious beliefs", " church", " lutheran"]}
+{"head": "Lutheran", "relation": "NotDesires", "tails": [" religious beliefs", " worshiping god", " worshiping God"]}
+{"head": "Lutheran", "relation": "Desires", "tails": [" religious beliefs", " worship God", " to be religious"]}
+{"head": "But Bob was Lutheran and Ann was Catholic.", "relation": "xAttr", "tails": [" religious", " Religious", " religious."]}
+{"head": "But Bob was Lutheran and Ann was Catholic.", "relation": "xWant", "tails": [" to go to church", " to go to church with them", " to go to church together"]}
+{"head": "But Bob was Lutheran and Ann was Catholic.", "relation": "xNeed", "tails": [" none", " have a religion", " to have a religion"]}
+{"head": "But Bob was Lutheran and Ann was Catholic.", "relation": "xEffect", "tails": [" none", " they have a family", " they have different beliefs"]}
+{"head": "But Bob was Lutheran and Ann was Catholic.", "relation": "HinderedBy", "tails": [" They are both Christians.", " they are not religious", " they are both Christians"]}
+{"head": "But Bob was Lutheran and Ann was Catholic.", "relation": "oWant", "tails": [" to go to church with them", " to go to church", " to go to church together"]}
+{"head": "But Bob was Lutheran and Ann was Catholic.", "relation": "xReact", "tails": [" religious", " happy", " religious beliefs"]}
+{"head": "But Bob was Lutheran and Ann was Catholic.", "relation": "oEffect", "tails": [" none", " they get married", " they have a family"]}
+{"head": "But Bob was Lutheran and Ann was Catholic.", "relation": "xIntent", "tails": [" none", " they wanted to be a part of something", " they wanted to be a part of something."]}
+{"head": "But Bob was Lutheran and Ann was Catholic.", "relation": "oReact", "tails": [" none", " happy", " religious"]}
+{"head": "But Bob was Lutheran and Ann was Catholic.", "relation": "isBefore", "tails": [" they go to church together", " they went to church together", " they went to church with them"]}
+{"head": "But Bob was Lutheran and Ann was Catholic.", "relation": "isAfter", "tails": [" PersonX is a Christian.", " PersonX was born a Christian.", " PersonX is a priest."]}
+{"head": "But Bob was Lutheran and Ann was Catholic.", "relation": "HasSubEvent", "tails": [" none", " get married", " get divorced"]}
+{"head": "But Bob was Lutheran and Ann was Catholic.", "relation": "Causes", "tails": [" They are both Christians.", " none", " they are both Christians"]}
+{"head": "But Bob was Lutheran and Ann was Catholic.", "relation": "xReason", "tails": [" none", " they were both baptized in the same church", " they were both baptized in the same church."]}
+{"head": "Bob wants to marry Ann someday but is worried he can't.", "relation": "xAttr", "tails": [" nervous", " worried", " hopeful"]}
+{"head": "Bob wants to marry Ann someday but is worried he can't.", "relation": "xWant", "tails": [" to get married", " to have a family", " to get married."]}
+{"head": "Bob wants to marry Ann someday but is worried he can't.", "relation": "xNeed", "tails": [" none", " to be in love with someone", " to have a relationship with someone"]}
+{"head": "Bob wants to marry Ann someday but is worried he can't.", "relation": "xEffect", "tails": [" gets nervous", " none", " gets married"]}
+{"head": "Bob wants to marry Ann someday but is worried he can't.", "relation": "HinderedBy", "tails": [" they are too young to get married", " they are too young to get married.", " they are too young to have children"]}
+{"head": "Bob wants to marry Ann someday but is worried he can't.", "relation": "oWant", "tails": [" to get married", " to marry him", " to get married."]}
+{"head": "Bob wants to marry Ann someday but is worried he can't.", "relation": "xReact", "tails": [" sad", " nervous", " worried"]}
+{"head": "Bob wants to marry Ann someday but is worried he can't.", "relation": "oEffect", "tails": [" none", " get married", " they get married"]}
+{"head": "Bob wants to marry Ann someday but is worried he can't.", "relation": "xIntent", "tails": [" none", " to get married", " to have a family"]}
+{"head": "Bob wants to marry Ann someday but is worried he can't.", "relation": "oReact", "tails": [" none", " sad", " happy"]}
+{"head": "Bob wants to marry Ann someday but is worried he can't.", "relation": "isBefore", "tails": [" PersonX asks PersonX to marry them.", " PersonY asks PersonY to marry PersonY.", " PersonY asks PersonX to marry them."]}
+{"head": "Bob wants to marry Ann someday but is worried he can't.", "relation": "isAfter", "tails": [" PersonX asks PersonX to marry them.", " PersonX asks PersonX to marry him.", " PersonX asks PersonY to marry them."]}
+{"head": "Bob wants to marry Ann someday but is worried he can't.", "relation": "HasSubEvent", "tails": [" get married", " get a ring", " none"]}
+{"head": "Bob wants to marry Ann someday but is worried he can't.", "relation": "Causes", "tails": [" they want to have a family", " none", " they want to get married"]}
+{"head": "Bob wants to marry Ann someday but is worried he can't.", "relation": "xReason", "tails": [" none", " they have a child together", " they are in love"]}
+{"head": "Bob religion", "relation": "ObjectUse", "tails": [" religious beliefs", " religion", " get a job"]}
+{"head": "Bob religion", "relation": "AtLocation", "tails": [" religion", " religion book", " church"]}
+{"head": "Bob religion", "relation": "CapableOf", "tails": [" believe in god", " learn about religion", " believe in God"]}
+{"head": "Bob religion", "relation": "HasProperty", "tails": [" religious beliefs", " religious belief", " religion"]}
+{"head": "Bob religion", "relation": "MadeUpOf", "tails": [" religion", " religious beliefs", " religious belief"]}
+{"head": "Bob religion", "relation": "NotDesires", "tails": [" religious beliefs", " religion", " none"]}
+{"head": "Bob religion", "relation": "Desires", "tails": [" religious beliefs", " none", " religion"]}
+{"head": "Bob met Ann and they started dating.", "relation": "xAttr", "tails": [" loving", " romantic", " happy"]}
+{"head": "Bob met Ann and they started dating.", "relation": "xWant", "tails": [" to go on a date", " to go on a honeymoon", " to get married"]}
+{"head": "Bob met Ann and they started dating.", "relation": "xNeed", "tails": [" to meet someone", " to go to a bar", " to go to the bar"]}
+{"head": "Bob met Ann and they started dating.", "relation": "xEffect", "tails": [" gets married", " none", " they have sex"]}
+{"head": "Bob met Ann and they started dating.", "relation": "HinderedBy", "tails": [" PersonX is married to someone else.", " they have a child together", " PersonX is married."]}
+{"head": "Bob met Ann and they started dating.", "relation": "oWant", "tails": [" to go on a date", " to go on a honeymoon", " to get married"]}
+{"head": "Bob met Ann and they started dating.", "relation": "xReact", "tails": [" happy", " excited", " happy."]}
+{"head": "Bob met Ann and they started dating.", "relation": "oEffect", "tails": [" none", " get married", " they get married"]}
+{"head": "Bob met Ann and they started dating.", "relation": "xIntent", "tails": [" to be with someone", " to get married", " to have a family"]}
+{"head": "Bob met Ann and they started dating.", "relation": "oReact", "tails": [" happy", " none", " loved"]}
+{"head": "Bob met Ann and they started dating.", "relation": "isBefore", "tails": [" PersonX gets married to PersonX.", " PersonX gets married to PersonX", " PersonX gets married to PersonY."]}
+{"head": "Bob met Ann and they started dating.", "relation": "isAfter", "tails": [" PersonX asks PersonX out on a date.", " PersonX asks PersonY out on a date.", " PersonX asks PersonX out on a date"]}
+{"head": "Bob met Ann and they started dating.", "relation": "HasSubEvent", "tails": [" get married", " meet new people", " get a job"]}
+{"head": "Bob met Ann and they started dating.", "relation": "Causes", "tails": [" they have a child together", " they have a child", " they have a baby"]}
+{"head": "Bob met Ann and they started dating.", "relation": "xReason", "tails": [" they have a child together", " they have a baby", " they have a child"]}
+{"head": "Bob", "relation": "ObjectUse", "tails": [" get a new job", " get a job", " Bob is a good friend"]}
+{"head": "Bob", "relation": "AtLocation", "tails": [" house", " car", " garage"]}
+{"head": "Bob", "relation": "CapableOf", "tails": [" get out of the car", " get out of car", " get out of bed"]}
+{"head": "Bob", "relation": "HasProperty", "tails": [" none", " one of two brothers", " one of the two"]}
+{"head": "Bob", "relation": "MadeUpOf", "tails": ["              ", "             ", "               "]}
+{"head": "Bob", "relation": "NotDesires", "tails": [" Bob's wife will not let him.", " Bob's wife will not let him go out.", " Bob's wife will not let him go."]}
+{"head": "Bob", "relation": "Desires", "tails": [" have a good time", " have a good life", " none"]}
+{"head": "Ann's mom disapproved of Bob's religion.", "relation": "xAttr", "tails": [" religious", " intolerant", " intolerant."]}
+{"head": "Ann's mom disapproved of Bob's religion.", "relation": "xWant", "tails": [" to make sure they don't do it again", " to make sure they don't go to church", " to make sure they don't go to church."]}
+{"head": "Ann's mom disapproved of Bob's religion.", "relation": "xNeed", "tails": [" none", " to talk to their mom", " to talk to their mother"]}
+{"head": "Ann's mom disapproved of Bob's religion.", "relation": "xEffect", "tails": [" none", " gets yelled at", " gets in trouble"]}
+{"head": "Ann's mom disapproved of Bob's religion.", "relation": "HinderedBy", "tails": [" Ann's mom is not religious.", " Ann's mom is a religious person.", " Ann's mom doesn't like religion."]}
+{"head": "Ann's mom disapproved of Bob's religion.", "relation": "oWant", "tails": [" to make sure they don't do it again", " to make sure they don't go to church", " to make sure they don't go to church."]}
+{"head": "Ann's mom disapproved of Bob's religion.", "relation": "xReact", "tails": [" angry", " upset", " annoyed"]}
+{"head": "Ann's mom disapproved of Bob's religion.", "relation": "oEffect", "tails": [" none", " Ann's mom is a religious person.", " Ann's mom is very religious."]}
+{"head": "Ann's mom disapproved of Bob's religion.", "relation": "xIntent", "tails": [" none", " they don't like religion", " to be a good person"]}
+{"head": "Ann's mom disapproved of Bob's religion.", "relation": "oReact", "tails": [" none", " angry", " annoyed"]}
+{"head": "Ann's mom disapproved of Bob's religion.", "relation": "isBefore", "tails": [" Ann's mom told her to go to church.", " Ann's mom is very religious.", " Ann's mom told her to go to church instead."]}
+{"head": "Ann's mom disapproved of Bob's religion.", "relation": "isAfter", "tails": [" Ann's mom told her to go to church.", " Ann's mom is very religious.", " Ann's mom told her to go to church instead."]}
+{"head": "Ann's mom disapproved of Bob's religion.", "relation": "HasSubEvent", "tails": [" Ann's mom is a religious person.", " none", " Ann's mom gets mad at her."]}
+{"head": "Ann's mom disapproved of Bob's religion.", "relation": "Causes", "tails": [" Ann's mom is a religious person.", " Ann's mom is very religious.", " Ann's mom is not religious."]}
+{"head": "Ann's mom disapproved of Bob's religion.", "relation": "xReason", "tails": [" Ann's mom is a religious person.", " Ann's mom is very religious.", " Ann's mom told her to go away."]}
+{"head": "Ann mom", "relation": "ObjectUse", "tails": [" Ann's mom is a good person.", " get a new job", " Ann's mom to be a good mom"]}
+{"head": "Ann mom", "relation": "AtLocation", "tails": [" mom's house", " mother's house", " mother's home"]}
+{"head": "Ann mom", "relation": "CapableOf", "tails": [" call mom", " mother daughter", " mother to child"]}
+{"head": "Ann mom", "relation": "HasProperty", "tails": [" one of three children", " mother", " one of three daughters"]}
+{"head": "Ann mom", "relation": "MadeUpOf", "tails": [" mother's hand", " mother's hands", " mother's arms"]}
+{"head": "Ann mom", "relation": "NotDesires", "tails": [" mother to die", " Ann's mom is a bad influence on Ann.", " Ann's mom is a bad influence on her children."]}
+{"head": "Ann mom", "relation": "Desires", "tails": [" motherly love", " mother's love", " have a good time"]}
+{"head": "Ann", "relation": "ObjectUse", "tails": [" have a good time", " Ann is a good friend of mine.", " Ann is a good friend of mine"]}
+{"head": "Ann", "relation": "AtLocation", "tails": [" house", " home", " car"]}
+{"head": "Ann", "relation": "CapableOf", "tails": [" go to the store", " go to sleep", " go to bed"]}
+{"head": "Ann", "relation": "HasProperty", "tails": [" Ann", " none", " Ann's mother"]}
+{"head": "Ann", "relation": "MadeUpOf", "tails": ["                ", "               ", "                 "]}
+{"head": "Ann", "relation": "NotDesires", "tails": [" have to go to the doctor", " have to go to the bathroom", " have to go to doctor"]}
+{"head": "Ann", "relation": "Desires", "tails": [" have a good time", " have a good life", " have fun"]}

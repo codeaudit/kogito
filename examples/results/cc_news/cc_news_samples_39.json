@@ -1,0 +1,82 @@
+{"head": "to tell", "relation": "HinderedBy", "tails": [" to tell", " to tell ", " to tell  to tell "]}
+{"head": "to tell", "relation": "isBefore", "tails": [" to tell", " to tell the truth", " to tell "]}
+{"head": "to tell", "relation": "isAfter", "tails": [" to tell the truth", " to tell", " to be heard"]}
+{"head": "to tell", "relation": "HasSubEvent", "tails": [" to tell", " to tell ", " to tell  tell "]}
+{"head": "to tell", "relation": "Causes", "tails": [" to tell", " to tell  to  tell ", " to tell  to  tell  "]}
+{"head": "to tell", "relation": "xReason", "tails": [" to tell", " to be honest", " none"]}
+{"head": "to move", "relation": "HinderedBy", "tails": [" to move", " to move to a new place", " to move  to a new place"]}
+{"head": "to move", "relation": "isBefore", "tails": [" to move to a new place", " to move to new place", " to move"]}
+{"head": "to move", "relation": "isAfter", "tails": [" to move to new place", " move to new place", " to get a new job"]}
+{"head": "to move", "relation": "HasSubEvent", "tails": [" to move", " move furniture", " move to new place"]}
+{"head": "to move", "relation": "Causes", "tails": [" to move", " to move to new place", " move to new place"]}
+{"head": "to move", "relation": "xReason", "tails": [" to move to new place", " to move", " move to new place"]}
+{"head": "residents", "relation": "ObjectUse", "tails": [" live in the city", " live in city", " live in a city"]}
+{"head": "residents", "relation": "AtLocation", "tails": [" city", " apartment building", " apartment complex"]}
+{"head": "residents", "relation": "CapableOf", "tails": [" live in city", " live in neighborhood", " live in house"]}
+{"head": "residents", "relation": "HasProperty", "tails": [" live in city", " live in town", " live in neighborhood"]}
+{"head": "residents", "relation": "MadeUpOf", "tails": [" house", " water", " land"]}
+{"head": "residents", "relation": "NotDesires", "tails": [" live in city", " have to pay rent", " live in house"]}
+{"head": "residents", "relation": "Desires", "tails": [" live in city", " live in town", " live in country"]}
+{"head": "move Online", "relation": "HinderedBy", "tails": [" move to another country", " get a job", " move to another city"]}
+{"head": "move Online", "relation": "isBefore", "tails": [" get a new job", " get a job", " move to new city"]}
+{"head": "move Online", "relation": "isAfter", "tails": [" move to new city", " get a job", " move to new place"]}
+{"head": "move Online", "relation": "HasSubEvent", "tails": [" move to new location", " move to new place", " move to another location"]}
+{"head": "move Online", "relation": "Causes", "tails": [" move to new place", " get a job", " move to another country"]}
+{"head": "move Online", "relation": "xReason", "tails": [" move to new place", " move to new location", " move to another country"]}
+{"head": "mobile", "relation": "ObjectUse", "tails": [" get to the store", " drive to the store", " get to the doctor"]}
+{"head": "mobile", "relation": "AtLocation", "tails": [" car", " phone", " mobile home"]}
+{"head": "mobile", "relation": "CapableOf", "tails": [" drive to work", " drive to store", " call for help"]}
+{"head": "mobile", "relation": "HasProperty", "tails": [" found in car", " mobile phone", " used in car"]}
+{"head": "mobile", "relation": "MadeUpOf", "tails": [" mobile phone", " phone", " phone number"]}
+{"head": "mobile", "relation": "NotDesires", "tails": [" call for help", " get lost", " drive to work"]}
+{"head": "mobile", "relation": "Desires", "tails": [" get to work", " drive to work", " get to the store"]}
+{"head": "home", "relation": "ObjectUse", "tails": [" have a place to sleep", " have a place to live", " have a place to stay"]}
+{"head": "home", "relation": "AtLocation", "tails": [" home", " house", " apartment building"]}
+{"head": "home", "relation": "CapableOf", "tails": [" go to", " go to bed", " leave house"]}
+{"head": "home", "relation": "HasProperty", "tails": [" home", " found in", " homes"]}
+{"head": "home", "relation": "MadeUpOf", "tails": [" home", " house", " home address"]}
+{"head": "home", "relation": "NotDesires", "tails": [" home to die in", " home to die", " home"]}
+{"head": "home", "relation": "Desires", "tails": [" have place to live", " home", " have place to sleep"]}
+{"head": "community", "relation": "ObjectUse", "tails": [" live in", " live together in", " socialize"]}
+{"head": "community", "relation": "AtLocation", "tails": [" city", " town", " community"]}
+{"head": "community", "relation": "CapableOf", "tails": [" live in", " live together", " live in community"]}
+{"head": "community", "relation": "HasProperty", "tails": [" found in many places around the world", " found in many places", " found in many places around the world."]}
+{"head": "community", "relation": "MadeUpOf", "tails": [" community", " community building", " community center"]}
+{"head": "community", "relation": "NotDesires", "tails": [" live in", " people to live with", " people to live in"]}
+{"head": "community", "relation": "Desires", "tails": [" live in", " live together", " feel safe"]}
+{"head": "Watch Mississauga mobile home community residents told to move Video Online, on GlobalNews.ca", "relation": "xAttr", "tails": [" watch the video", " watch the video on youtube", " watch the video online"]}
+{"head": "Watch Mississauga mobile home community residents told to move Video Online, on GlobalNews.ca", "relation": "xWant", "tails": [" to get a new place to live", " watch the video", " to get rid of the mobile home"]}
+{"head": "Watch Mississauga mobile home community residents told to move Video Online, on GlobalNews.ca", "relation": "xNeed", "tails": [" find out what's going on", " find out what is going on", " find out what is happening"]}
+{"head": "Watch Mississauga mobile home community residents told to move Video Online, on GlobalNews.ca", "relation": "xEffect", "tails": [" get a new place to live", " watch the video", " get a new home"]}
+{"head": "Watch Mississauga mobile home community residents told to move Video Online, on GlobalNews.ca", "relation": "HinderedBy", "tails": [" watch the video", " watch the video online", " watch video"]}
+{"head": "Watch Mississauga mobile home community residents told to move Video Online, on GlobalNews.ca", "relation": "oWant", "tails": [" watch the video", " watch video", " move to new home"]}
+{"head": "Watch Mississauga mobile home community residents told to move Video Online, on GlobalNews.ca", "relation": "xReact", "tails": [" angry", " happy", " scared"]}
+{"head": "Watch Mississauga mobile home community residents told to move Video Online, on GlobalNews.ca", "relation": "oEffect", "tails": [" watch the video", " none", " get a new home"]}
+{"head": "Watch Mississauga mobile home community residents told to move Video Online, on GlobalNews.ca", "relation": "xIntent", "tails": [" watch the video", " watch video", " watch the news"]}
+{"head": "Watch Mississauga mobile home community residents told to move Video Online, on GlobalNews.ca", "relation": "oReact", "tails": [" none", " watch the video", " move to new place"]}
+{"head": "Watch Mississauga mobile home community residents told to move Video Online, on GlobalNews.ca", "relation": "isBefore", "tails": [" watch the video", " watch video", " watch video online"]}
+{"head": "Watch Mississauga mobile home community residents told to move Video Online, on GlobalNews.ca", "relation": "isAfter", "tails": [" watch the video", " watch video", " watch the video online"]}
+{"head": "Watch Mississauga mobile home community residents told to move Video Online, on GlobalNews.ca", "relation": "HasSubEvent", "tails": [" move to new home", " move to new place", " watch video"]}
+{"head": "Watch Mississauga mobile home community residents told to move Video Online, on GlobalNews.ca", "relation": "Causes", "tails": [" watch the video", " move to new place", " move to new home"]}
+{"head": "Watch Mississauga mobile home community residents told to move Video Online, on GlobalNews.ca", "relation": "xReason", "tails": [" watch the video", " watch video", " move to new place"]}
+{"head": "Watch Mississauga mobile home community residents", "relation": "ObjectUse", "tails": [" live in a mobile home community", " live in mobile home community", " live in a mobile home"]}
+{"head": "Watch Mississauga mobile home community residents", "relation": "AtLocation", "tails": [" house", " home", " watch people"]}
+{"head": "Watch Mississauga mobile home community residents", "relation": "CapableOf", "tails": [" live in mobile home community", " live in mobile homes", " live in a mobile home community"]}
+{"head": "Watch Mississauga mobile home community residents", "relation": "HasProperty", "tails": [" watched by police", " watched by others", " watched by neighbours"]}
+{"head": "Watch Mississauga mobile home community residents", "relation": "MadeUpOf", "tails": [" live in mobile home community", " live in a mobile home community", " live in mobile homes"]}
+{"head": "Watch Mississauga mobile home community residents", "relation": "NotDesires", "tails": [" live in mobile home community", " live in a mobile home community", " live in mobile homes"]}
+{"head": "Watch Mississauga mobile home community residents", "relation": "Desires", "tails": [" to see what's going on", " to see what is going on", " to see what they are doing"]}
+{"head": "Video Online", "relation": "ObjectUse", "tails": [" watch a movie", " watch on the internet", " watch on the computer"]}
+{"head": "Video Online", "relation": "AtLocation", "tails": [" video game", " video store", " movie"]}
+{"head": "Video Online", "relation": "CapableOf", "tails": [" learn new skills", " watch on tv", " learn new things"]}
+{"head": "Video Online", "relation": "HasProperty", "tails": [" found on internet", " found online", " found on youtube"]}
+{"head": "Video Online", "relation": "MadeUpOf", "tails": [" video", " video file", " video player"]}
+{"head": "Video Online", "relation": "NotDesires", "tails": [" find out what's going on", " find out what they want to know", " watch on tv"]}
+{"head": "Video Online", "relation": "Desires", "tails": [" watch", " watch on tv", " find out what happened"]}
+{"head": "GlobalNews.ca", "relation": "ObjectUse", "tails": [" watch the news", " learn about the world", " watch the news on"]}
+{"head": "GlobalNews.ca", "relation": "AtLocation", "tails": [" news", " news website", " television"]}
+{"head": "GlobalNews.ca", "relation": "CapableOf", "tails": [" watch the news", " watch news", " read news stories"]}
+{"head": "GlobalNews.ca", "relation": "HasProperty", "tails": [" news", " informative", " broadcast on"]}
+{"head": "GlobalNews.ca", "relation": "MadeUpOf", "tails": [" news", " information", " news stories"]}
+{"head": "GlobalNews.ca", "relation": "NotDesires", "tails": [" watch the news", " news", " get information from"]}
+{"head": "GlobalNews.ca", "relation": "Desires", "tails": [" to inform the public", " news", " to be informative"]}

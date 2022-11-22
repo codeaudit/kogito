@@ -1,0 +1,115 @@
+{"head": "to open", "relation": "HinderedBy", "tails": [" to open ", " to open", " to open  the door"]}
+{"head": "to open", "relation": "isBefore", "tails": [" to open", " to open ", " to open  door"]}
+{"head": "to open", "relation": "isAfter", "tails": [" to open", " to open the door", " to open the box"]}
+{"head": "to open", "relation": "HasSubEvent", "tails": [" to open", " to open ", " open door"]}
+{"head": "to open", "relation": "Causes", "tails": [" to open", " to open ", " to open  open "]}
+{"head": "to open", "relation": "xReason", "tails": [" to open", " to open ", " open door"]}
+{"head": "to gather", "relation": "HinderedBy", "tails": [" to gather", " to gather  to gather ", " to gather "]}
+{"head": "to gather", "relation": "isBefore", "tails": [" to gather", " to gather information", " to gather things together"]}
+{"head": "to gather", "relation": "isAfter", "tails": [" to gather", " to gather information", " to make a plan"]}
+{"head": "to gather", "relation": "HasSubEvent", "tails": [" to gather  gather  gather  gather  gather  gather  gather  gather  gather", " to gather  gather  gather  gather  gather  gather  gather  gather", " to gather  gather  gather  gather  gather  gather  gather"]}
+{"head": "to gather", "relation": "Causes", "tails": [" to gather  gather  gather  gather  gather  gather  gather  gather  gather  gather  gather", " to gather  gather  gather  gather  gather  gather  gather  gather  gather  gather", " to gather  gather  gather  gather  gather  gather  gather  gather  gather"]}
+{"head": "to gather", "relation": "xReason", "tails": [" to gather", " to gather things together", " to gather information"]}
+{"head": "to expect", "relation": "HinderedBy", "tails": [" to expect", " to know what to expect", " to expect "]}
+{"head": "to expect", "relation": "isBefore", "tails": [" to expect", " to expect something", " to expect the best"]}
+{"head": "to expect", "relation": "isAfter", "tails": [" to know what to expect", " to expect", " to know what to do"]}
+{"head": "to expect", "relation": "HasSubEvent", "tails": [" know what to expect", " to know what to expect", " to expect"]}
+{"head": "to expect", "relation": "Causes", "tails": [" to expect", " none", " to expect "]}
+{"head": "to expect", "relation": "xReason", "tails": [" to expect", " none", " to expect something"]}
+{"head": "to discuss", "relation": "HinderedBy", "tails": [" to discuss", " to discuss ", " to discuss something"]}
+{"head": "to discuss", "relation": "isBefore", "tails": [" to discuss", " listen to", " have a meeting"]}
+{"head": "to discuss", "relation": "isAfter", "tails": [" meeting", " meeting with others", " meeting with people"]}
+{"head": "to discuss", "relation": "HasSubEvent", "tails": [" to discuss", " listen to", " talk to others"]}
+{"head": "to discuss", "relation": "Causes", "tails": [" to discuss", " listen to", " have a conversation"]}
+{"head": "to discuss", "relation": "xReason", "tails": [" to discuss", " listen to", " have a conversation"]}
+{"head": "store", "relation": "ObjectUse", "tails": [" buying things", " buy things", " buying groceries"]}
+{"head": "store", "relation": "AtLocation", "tails": [" shopping mall", " shopping center", " mall"]}
+{"head": "store", "relation": "CapableOf", "tails": [" shop for goods", " buy things", " stock shelves"]}
+{"head": "store", "relation": "HasProperty", "tails": [" found in", " shopping mall", " found in mall"]}
+{"head": "store", "relation": "MadeUpOf", "tails": [" shopping mall", " shopping center", " shopping cart"]}
+{"head": "store", "relation": "NotDesires", "tails": [" buying things", " shopping", " shopping mall"]}
+{"head": "store", "relation": "Desires", "tails": [" buying things", " shopping", " buy things"]}
+{"head": "public meeting", "relation": "ObjectUse", "tails": [" have a meeting", " meeting of people", " have a discussion"]}
+{"head": "public meeting", "relation": "AtLocation", "tails": [" city hall", " meeting room", " public building"]}
+{"head": "public meeting", "relation": "CapableOf", "tails": [" talk to people", " hold meeting", " talk to others"]}
+{"head": "public meeting", "relation": "HasProperty", "tails": [" public meeting", " public meetings", " heard by public"]}
+{"head": "public meeting", "relation": "MadeUpOf", "tails": [" public meeting", " public hearing", " meeting room"]}
+{"head": "public meeting", "relation": "NotDesires", "tails": [" meeting to be held", " public meeting", " meeting to be cancelled"]}
+{"head": "public meeting", "relation": "Desires", "tails": [" public meeting", " meeting", " public meetings"]}
+{"head": "opening", "relation": "ObjectUse", "tails": [" open a door", " make a hole in the wall", " open the door"]}
+{"head": "opening", "relation": "AtLocation", "tails": [" house", " door", " store"]}
+{"head": "opening", "relation": "CapableOf", "tails": [" open door", " open box", " close door"]}
+{"head": "opening", "relation": "HasProperty", "tails": [" found in house", " found in door", " found on door"]}
+{"head": "opening", "relation": "MadeUpOf", "tails": [" opening mechanism", " opening", " door"]}
+{"head": "opening", "relation": "NotDesires", "tails": [" open door", " opening door", " opening of door"]}
+{"head": "opening", "relation": "Desires", "tails": [" open door", " opening door", " opening of door"]}
+{"head": "members", "relation": "ObjectUse", "tails": [" join a club", " have a place to sleep", " join a group"]}
+{"head": "members", "relation": "AtLocation", "tails": [" membership card", " membership club", " club"]}
+{"head": "members", "relation": "CapableOf", "tails": [" join club", " join group", " invite friends over"]}
+{"head": "members", "relation": "HasProperty", "tails": [" membership in club", " membership", " members of society"]}
+{"head": "members", "relation": "MadeUpOf", "tails": [" membership card", " membership", " membership"]}
+{"head": "members", "relation": "NotDesires", "tails": [" have to pay dues", " membership in club", " have to pay membership fee"]}
+{"head": "members", "relation": "Desires", "tails": [" have a good time", " membership in club", " have fun with friends"]}
+{"head": "meeting", "relation": "ObjectUse", "tails": [" meet with other people", " have a meeting", " meet with others"]}
+{"head": "meeting", "relation": "AtLocation", "tails": [" meeting room", " meeting hall", " office building"]}
+{"head": "meeting", "relation": "CapableOf", "tails": [" meet with other people", " talk to others", " meet with others"]}
+{"head": "meeting", "relation": "HasProperty", "tails": [" meeting", " meeting of people", " meeting of many people"]}
+{"head": "meeting", "relation": "MadeUpOf", "tails": [" meeting", " meeting room", " meeting hall"]}
+{"head": "meeting", "relation": "NotDesires", "tails": [" meeting", " have to leave", " have to leave early"]}
+{"head": "meeting", "relation": "Desires", "tails": [" meet new people", " meeting", " meet people"]}
+{"head": "grocery", "relation": "ObjectUse", "tails": [" buy food", " buy for the day", " buy for the week"]}
+{"head": "grocery", "relation": "AtLocation", "tails": [" grocery store", " supermarket", " store"]}
+{"head": "grocery", "relation": "CapableOf", "tails": [" get from store", " buy food", " put in cart"]}
+{"head": "grocery", "relation": "HasProperty", "tails": [" bought at grocery store", " bought at store", " bought from store"]}
+{"head": "grocery", "relation": "MadeUpOf", "tails": [" grocery store", " food", " grocery list"]}
+{"head": "grocery", "relation": "NotDesires", "tails": [" have to buy", " have to pay for", " have to go to store"]}
+{"head": "grocery", "relation": "Desires", "tails": [" have food to eat", " buy food", " get food for the day"]}
+{"head": "discuss concerns", "relation": "HinderedBy", "tails": [" listen to", " talk to someone", " listen to person"]}
+{"head": "discuss concerns", "relation": "isBefore", "tails": [" listen to", " talk to others", " listen to person"]}
+{"head": "discuss concerns", "relation": "isAfter", "tails": [" listen to", " talk to others", " listen to person"]}
+{"head": "discuss concerns", "relation": "HasSubEvent", "tails": [" talk to others", " listen to", " listen to others"]}
+{"head": "discuss concerns", "relation": "Causes", "tails": [" listen to", " talk to someone", " listen to person"]}
+{"head": "discuss concerns", "relation": "xReason", "tails": [" listen to", " listen to person", " talk to others"]}
+{"head": "concerns", "relation": "ObjectUse", "tails": [" worry about", " make sure they are safe", " make sure you are safe"]}
+{"head": "concerns", "relation": "AtLocation", "tails": ["                      ", "                     ", "                    "]}
+{"head": "concerns", "relation": "CapableOf", "tails": [" worry about", " think about", " worry about future"]}
+{"head": "concerns", "relation": "HasProperty", "tails": [" concerned", " none", " worry"]}
+{"head": "concerns", "relation": "MadeUpOf", "tails": [" worry", " concern", " fear"]}
+{"head": "concerns", "relation": "NotDesires", "tails": [" have to deal with", " have to worry about", " worry about"]}
+{"head": "concerns", "relation": "Desires", "tails": [" none", " worry about", " worry"]}
+{"head": "community", "relation": "ObjectUse", "tails": [" live in", " live together in", " socialize"]}
+{"head": "community", "relation": "AtLocation", "tails": [" city", " town", " community"]}
+{"head": "community", "relation": "CapableOf", "tails": [" live in", " live together", " live in community"]}
+{"head": "community", "relation": "HasProperty", "tails": [" found in many places around the world", " found in many places", " found in many places around the world."]}
+{"head": "community", "relation": "MadeUpOf", "tails": [" community", " community building", " community center"]}
+{"head": "community", "relation": "NotDesires", "tails": [" live in", " people to live with", " people to live in"]}
+{"head": "community", "relation": "Desires", "tails": [" live in", " live together", " feel safe"]}
+{"head": "Publix grocery store", "relation": "ObjectUse", "tails": [" buying groceries", " buying food", " buy groceries"]}
+{"head": "Publix grocery store", "relation": "AtLocation", "tails": [" grocery store", " shopping center", " shopping mall"]}
+{"head": "Publix grocery store", "relation": "CapableOf", "tails": [" buy groceries", " buy food", " go to store"]}
+{"head": "Publix grocery store", "relation": "HasProperty", "tails": [" grocery store", " shopping center", " shopping mall"]}
+{"head": "Publix grocery store", "relation": "MadeUpOf", "tails": [" grocery store", " shopping center", " shopping cart"]}
+{"head": "Publix grocery store", "relation": "NotDesires", "tails": [" grocery store", " buying groceries", " grocery shopping"]}
+{"head": "Publix grocery store", "relation": "Desires", "tails": [" to buy groceries", " buying groceries", " buy groceries"]}
+{"head": "Durham community members who are against the opening of a Publix grocery store, which is expected to open in 2018, gathered Tuesday at a public meeting to discuss their concerns.", "relation": "xAttr", "tails": [" worried", " angry", " concerned"]}
+{"head": "Durham community members who are against the opening of a Publix grocery store, which is expected to open in 2018, gathered Tuesday at a public meeting to discuss their concerns.", "relation": "xWant", "tails": [" to make sure the grocery store is safe", " to make sure the store is safe", " to make sure the grocery store is open"]}
+{"head": "Durham community members who are against the opening of a Publix grocery store, which is expected to open in 2018, gathered Tuesday at a public meeting to discuss their concerns.", "relation": "xNeed", "tails": [" to have a meeting", " have a meeting", " have a meeting with the community"]}
+{"head": "Durham community members who are against the opening of a Publix grocery store, which is expected to open in 2018, gathered Tuesday at a public meeting to discuss their concerns.", "relation": "xEffect", "tails": [" get information about the store", " get information about the new grocery store", " get information about the new store"]}
+{"head": "Durham community members who are against the opening of a Publix grocery store, which is expected to open in 2018, gathered Tuesday at a public meeting to discuss their concerns.", "relation": "HinderedBy", "tails": [" they want to make sure they have a place to live", " they want to make sure they have a place to eat", " they want to make sure they have a place to shop"]}
+{"head": "Durham community members who are against the opening of a Publix grocery store, which is expected to open in 2018, gathered Tuesday at a public meeting to discuss their concerns.", "relation": "oWant", "tails": [" to protest the opening of the grocery store", " to protest the opening of the store", " to protest the opening of the new grocery store"]}
+{"head": "Durham community members who are against the opening of a Publix grocery store, which is expected to open in 2018, gathered Tuesday at a public meeting to discuss their concerns.", "relation": "xReact", "tails": [" worried", " angry", " upset"]}
+{"head": "Durham community members who are against the opening of a Publix grocery store, which is expected to open in 2018, gathered Tuesday at a public meeting to discuss their concerns.", "relation": "oEffect", "tails": [" get information about the store", " get information about the new store", " get information about the grocery store"]}
+{"head": "Durham community members who are against the opening of a Publix grocery store, which is expected to open in 2018, gathered Tuesday at a public meeting to discuss their concerns.", "relation": "xIntent", "tails": [" people to know what is going on", " people to know what is going to happen", " people to know what they think about it"]}
+{"head": "Durham community members who are against the opening of a Publix grocery store, which is expected to open in 2018, gathered Tuesday at a public meeting to discuss their concerns.", "relation": "oReact", "tails": [" they want to make sure they have a place to live", " they want to make sure they have a place to eat", " they want to make sure they have a place to shop"]}
+{"head": "Durham community members who are against the opening of a Publix grocery store, which is expected to open in 2018, gathered Tuesday at a public meeting to discuss their concerns.", "relation": "isBefore", "tails": [" PersonY asks PersonY if they want to go to the grocery store.", " PersonY asks PersonY if they want to go to the meeting.", " PersonY asks PersonY if they want to go to the store."]}
+{"head": "Durham community members who are against the opening of a Publix grocery store, which is expected to open in 2018, gathered Tuesday at a public meeting to discuss their concerns.", "relation": "isAfter", "tails": [" a meeting to discuss the opening of a new grocery store", " a meeting to discuss the opening of a grocery store", " a meeting to discuss the opening of a new grocery store."]}
+{"head": "Durham community members who are against the opening of a Publix grocery store, which is expected to open in 2018, gathered Tuesday at a public meeting to discuss their concerns.", "relation": "HasSubEvent", "tails": [" have a meeting", " get information from others", " have a voice"]}
+{"head": "Durham community members who are against the opening of a Publix grocery store, which is expected to open in 2018, gathered Tuesday at a public meeting to discuss their concerns.", "relation": "Causes", "tails": [" people who want to eat at the new grocery store", " people who want to eat at the new grocery store.", " people who want to eat at the new store"]}
+{"head": "Durham community members who are against the opening of a Publix grocery store, which is expected to open in 2018, gathered Tuesday at a public meeting to discuss their concerns.", "relation": "xReason", "tails": [" they want to make sure they have a place to live", " they want to make sure they have a place to eat", " they want to make sure they have a place to shop"]}
+{"head": "Durham community members", "relation": "ObjectUse", "tails": [" meet new people", " meet new people and make new friends", " meet new people in the community"]}
+{"head": "Durham community members", "relation": "AtLocation", "tails": [" city", " town", " city hall"]}
+{"head": "Durham community members", "relation": "CapableOf", "tails": [" meet new people", " get a job", " meet new friends"]}
+{"head": "Durham community members", "relation": "HasProperty", "tails": [" people who live in the city", " people who live in the same area", " people who live in the area"]}
+{"head": "Durham community members", "relation": "MadeUpOf", "tails": [" community", " people", " community members"]}
+{"head": "Durham community members", "relation": "NotDesires", "tails": [" people to talk to", " have a good time", " have a good time with friends"]}
+{"head": "Durham community members", "relation": "Desires", "tails": [" to be a part of the community", " to be part of the community", " to be part of a community"]}

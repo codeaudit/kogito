@@ -1,0 +1,359 @@
+{"head": "veggies", "relation": "ObjectUse", "tails": [" eat for dinner", " feed to the animals", " feed to the homeless"]}
+{"head": "veggies", "relation": "AtLocation", "tails": [" salad", " vegetables", " lettuce"]}
+{"head": "veggies", "relation": "CapableOf", "tails": [" eat for dinner", " feed to animals", " eat"]}
+{"head": "veggies", "relation": "HasProperty", "tails": [" vegetables", " vegies", " vegables"]}
+{"head": "veggies", "relation": "MadeUpOf", "tails": [" vegies", " veg", " vegetables"]}
+{"head": "veggies", "relation": "NotDesires", "tails": [" have to eat", " eat for dinner", " eat for lunch"]}
+{"head": "veggies", "relation": "Desires", "tails": [" eat for health", " eat for dinner", " feed to animals"]}
+{"head": "vegetables", "relation": "ObjectUse", "tails": [" eat for dinner", " feed to the animals", " feed to animals"]}
+{"head": "vegetables", "relation": "AtLocation", "tails": [" vegetables", " salad", " food store"]}
+{"head": "vegetables", "relation": "CapableOf", "tails": [" grow in garden", " eat", " eat for dinner"]}
+{"head": "vegetables", "relation": "HasProperty", "tails": [" vegetables", " eaten by humans", " vegables"]}
+{"head": "vegetables", "relation": "MadeUpOf", "tails": [" vegatables", " vegetables", " vegables"]}
+{"head": "vegetables", "relation": "NotDesires", "tails": [" have to eat", " eat for dinner", " eat when hungry"]}
+{"head": "vegetables", "relation": "Desires", "tails": [" eat for health", " eat for dinner", " feed the animals"]}
+{"head": "try best", "relation": "HinderedBy", "tails": [" try harder", " try again", " try hard"]}
+{"head": "try best", "relation": "isBefore", "tails": [" try to be the best", " try to do best", " try harder"]}
+{"head": "try best", "relation": "isAfter", "tails": [" try to be the best", " try to do best", " try harder"]}
+{"head": "try best", "relation": "HasSubEvent", "tails": [" try to be the best", " try to do best", " try again"]}
+{"head": "try best", "relation": "Causes", "tails": [" try to be the best", " try to do best", " try hard"]}
+{"head": "try best", "relation": "xReason", "tails": [" try to be the best", " try to do best", " try hard"]}
+{"head": "to try", "relation": "HinderedBy", "tails": [" to try", " to try something new", " to try "]}
+{"head": "to try", "relation": "isBefore", "tails": [" to try something new", " to try", " to try new things"]}
+{"head": "to try", "relation": "isAfter", "tails": [" to try something new", " try something new", " to try"]}
+{"head": "to try", "relation": "HasSubEvent", "tails": [" to try", " to try something new", " try something new"]}
+{"head": "to try", "relation": "Causes", "tails": [" to try something new", " to try", " try something new"]}
+{"head": "to try", "relation": "xReason", "tails": [" to try something new", " try something new", " to try"]}
+{"head": "to stick", "relation": "HinderedBy", "tails": [" to stick", " to stick to", " to stick  to"]}
+{"head": "to stick", "relation": "isBefore", "tails": [" to stick", " to stick to", " to stick to something"]}
+{"head": "to stick", "relation": "isAfter", "tails": [" to stick to", " to stick", " to stick to something"]}
+{"head": "to stick", "relation": "HasSubEvent", "tails": [" to stick", " to stick to", " to stick to something"]}
+{"head": "to stick", "relation": "Causes", "tails": [" to stick", " to stick to", " stick to paper"]}
+{"head": "to stick", "relation": "xReason", "tails": [" to stick", " to stick to", " to stick to something"]}
+{"head": "to start", "relation": "HinderedBy", "tails": [" to start", " to start ", " to start something"]}
+{"head": "to start", "relation": "isBefore", "tails": [" to start", " to start ", " to start the game"]}
+{"head": "to start", "relation": "isAfter", "tails": [" to start", " to get started", " to start the game"]}
+{"head": "to start", "relation": "HasSubEvent", "tails": [" to start", " get ready", " to start "]}
+{"head": "to start", "relation": "Causes", "tails": [" to start", " to start ", " to start something"]}
+{"head": "to start", "relation": "xReason", "tails": [" to start", " to start something", " get started"]}
+{"head": "to sound", "relation": "HinderedBy", "tails": [" to sound", " to sound ", " to sound good"]}
+{"head": "to sound", "relation": "isBefore", "tails": [" to sound", " to be heard", " to sound "]}
+{"head": "to sound", "relation": "isAfter", "tails": [" to sound", " to be heard", " to make noise"]}
+{"head": "to sound", "relation": "HasSubEvent", "tails": [" to sound", " make noise", " to sound "]}
+{"head": "to sound", "relation": "Causes", "tails": [" to sound", " make noise", " to sound "]}
+{"head": "to sound", "relation": "xReason", "tails": [" to sound", " to be heard", " sound"]}
+{"head": "to need", "relation": "HinderedBy", "tails": [" to need", " to need  to need ", " to need  to need"]}
+{"head": "to need", "relation": "isBefore", "tails": [" to need", " to need something", " to need to need"]}
+{"head": "to need", "relation": "isAfter", "tails": [" to have", " to need", " to have money"]}
+{"head": "to need", "relation": "HasSubEvent", "tails": [" to need", " to need to need", " to need something"]}
+{"head": "to need", "relation": "Causes", "tails": [" to need", " to have", " need to buy"]}
+{"head": "to need", "relation": "xReason", "tails": [" to need", " to have", " need to buy"]}
+{"head": "to know", "relation": "HinderedBy", "tails": [" to know", " to know ", " to know  about "]}
+{"head": "to know", "relation": "isBefore", "tails": [" to know", " to know what to do", " to know what to do next"]}
+{"head": "to know", "relation": "isAfter", "tails": [" to know", " to know what is going on", " to know what to do"]}
+{"head": "to know", "relation": "HasSubEvent", "tails": [" to know", " to know ", " to know  about"]}
+{"head": "to know", "relation": "Causes", "tails": [" to know", " to know ", " to know  about"]}
+{"head": "to know", "relation": "xReason", "tails": [" to know", " to know about", " to know  about"]}
+{"head": "to have", "relation": "HinderedBy", "tails": [" to have", " to have ", " to have  to have"]}
+{"head": "to have", "relation": "isBefore", "tails": [" to have", " to have ", " to have  a good time"]}
+{"head": "to have", "relation": "isAfter", "tails": [" to have something to eat", " to have", " to have something to drink"]}
+{"head": "to have", "relation": "HasSubEvent", "tails": [" to have", " to have ", " to have  have"]}
+{"head": "to have", "relation": "Causes", "tails": [" to have", " to have ", " to have  "]}
+{"head": "to have", "relation": "xReason", "tails": [" to have", " to have something to eat", " to have "]}
+{"head": "to eat", "relation": "HinderedBy", "tails": [" to eat", " have something to eat", " to eat "]}
+{"head": "to eat", "relation": "isBefore", "tails": [" to eat", " have something to drink", " have something to eat"]}
+{"head": "to eat", "relation": "isAfter", "tails": [" have food to eat", " have to eat", " food"]}
+{"head": "to eat", "relation": "HasSubEvent", "tails": [" eat food", " get hungry", " eat"]}
+{"head": "to eat", "relation": "Causes", "tails": [" have food to eat", " have to eat", " have food to drink"]}
+{"head": "to eat", "relation": "xReason", "tails": [" have food to eat", " have to eat", " have food to drink"]}
+{"head": "to do", "relation": "HinderedBy", "tails": [" to do", " to do ", " to do  to do "]}
+{"head": "to do", "relation": "isBefore", "tails": [" to do", " have to do", " to do "]}
+{"head": "to do", "relation": "isAfter", "tails": [" to do", " have to do", " to do something"]}
+{"head": "to do", "relation": "HasSubEvent", "tails": [" to do", " to do ", " get out of bed"]}
+{"head": "to do", "relation": "Causes", "tails": [" to do", " have to do", " to do "]}
+{"head": "to do", "relation": "xReason", "tails": [" to do", " have to do", " to do "]}
+{"head": "to be", "relation": "HinderedBy", "tails": [" to be", " to be ", " to be a good person"]}
+{"head": "to be", "relation": "isBefore", "tails": [" to be", " to be a good person", " to be a good friend"]}
+{"head": "to be", "relation": "isAfter", "tails": [" to be", " to be good", " to be a leader"]}
+{"head": "to be", "relation": "HasSubEvent", "tails": [" to be", " to be ", " to be  happy"]}
+{"head": "to be", "relation": "Causes", "tails": [" to be", " to be a good person", " to be  good"]}
+{"head": "to be", "relation": "xReason", "tails": [" to be good at what they do", " to be", " to be a good person"]}
+{"head": "lot", "relation": "ObjectUse", "tails": [" park the car in", " parking lot", " park the car"]}
+{"head": "lot", "relation": "AtLocation", "tails": [" parking lot", " park", " parking space"]}
+{"head": "lot", "relation": "CapableOf", "tails": [" park car in", " park car", " park car on"]}
+{"head": "lot", "relation": "HasProperty", "tails": [" parking lot", " found in city", " found in many cities"]}
+{"head": "lot", "relation": "MadeUpOf", "tails": [" parking lot", " lotteries", " parking space"]}
+{"head": "lot", "relation": "NotDesires", "tails": [" parking lot", " parking spaces", " parking space"]}
+{"head": "lot", "relation": "Desires", "tails": [" parking lot", " parking spaces", " parking space"]}
+{"head": "kind", "relation": "ObjectUse", "tails": [" kind", " kind words", " give to others"]}
+{"head": "kind", "relation": "AtLocation", "tails": [" kind", " kind of people", " kind heart"]}
+{"head": "kind", "relation": "CapableOf", "tails": [" kind to others", " kind to one another", " kind to other people"]}
+{"head": "kind", "relation": "HasProperty", "tails": [" kind", " good", " kind heart"]}
+{"head": "kind", "relation": "MadeUpOf", "tails": [" kind", " kind heart", " kindness"]}
+{"head": "kind", "relation": "NotDesires", "tails": [" kind", " kindness", " kind of people"]}
+{"head": "kind", "relation": "Desires", "tails": [" kind", " kindness", " kind heart"]}
+{"head": "healthier", "relation": "ObjectUse", "tails": [" eat less junk food", " eat less meat", " eat more vegetables"]}
+{"head": "healthier", "relation": "AtLocation", "tails": [" healthy food", " food store", " health food"]}
+{"head": "healthier", "relation": "CapableOf", "tails": [" eat more vegetables", " eat less meat", " eat less sugar"]}
+{"head": "healthier", "relation": "HasProperty", "tails": [" healthy", " healthier", " healthy food"]}
+{"head": "healthier", "relation": "MadeUpOf", "tails": [" food", " healthy food", " healthful foods"]}
+{"head": "healthier", "relation": "NotDesires", "tails": [" lose weight", " eat more vegetables", " eat less meat"]}
+{"head": "healthier", "relation": "Desires", "tails": [" eat less junk food", " eat more vegetables", " eat less meat"]}
+{"head": "fruits", "relation": "ObjectUse", "tails": [" eat for breakfast", " make a fruit salad", " feed to the birds"]}
+{"head": "fruits", "relation": "AtLocation", "tails": [" fruit salad", " fruit bowl", " fruit basket"]}
+{"head": "fruits", "relation": "CapableOf", "tails": [" eat", " eat for breakfast", " make fruit salad"]}
+{"head": "fruits", "relation": "HasProperty", "tails": [" fruit juice", " fruits", " fruit salad"]}
+{"head": "fruits", "relation": "MadeUpOf", "tails": [" fruit juice", " fruit peel", " fruits"]}
+{"head": "fruits", "relation": "NotDesires", "tails": [" fruit juice", " fruit salad", " eat for breakfast"]}
+{"head": "fruits", "relation": "Desires", "tails": [" fruit juice", " eat for breakfast", " eat for nourishment"]}
+{"head": "foods", "relation": "ObjectUse", "tails": [" eat for breakfast", " eat for dinner", " feed to the animals"]}
+{"head": "foods", "relation": "AtLocation", "tails": [" grocery store", " food pantry", " food store"]}
+{"head": "foods", "relation": "CapableOf", "tails": [" serve to guests", " eat", " eat for breakfast"]}
+{"head": "foods", "relation": "HasProperty", "tails": [" food", " eaten", " cooked"]}
+{"head": "foods", "relation": "MadeUpOf", "tails": [" food", " bread", " food coloring"]}
+{"head": "foods", "relation": "NotDesires", "tails": [" food poisoning", " have to eat", " eat for dinner"]}
+{"head": "foods", "relation": "Desires", "tails": [" eat for nourishment", " food to eat", " eat for breakfast"]}
+{"head": "food", "relation": "ObjectUse", "tails": [" feed the animals", " eat for dinner", " give to the homeless"]}
+{"head": "food", "relation": "AtLocation", "tails": [" refrigerator", " fridge", " food store"]}
+{"head": "food", "relation": "CapableOf", "tails": [" serve to guests", " eat", " eat for dinner"]}
+{"head": "food", "relation": "HasProperty", "tails": [" eaten by humans", " eaten", " eaten by people"]}
+{"head": "food", "relation": "MadeUpOf", "tails": [" food", " meat", " food processor"]}
+{"head": "food", "relation": "NotDesires", "tails": [" food poisoning", " hunger", " eat for dinner"]}
+{"head": "food", "relation": "Desires", "tails": [" nourishment", " food to eat", " food to be eaten"]}
+{"head": "fat", "relation": "ObjectUse", "tails": [" make food tastier", " make food taste bad", " make food taste better"]}
+{"head": "fat", "relation": "AtLocation", "tails": [" food", " body", " fat food"]}
+{"head": "fat", "relation": "CapableOf", "tails": [" lose weight", " eat too much", " eat too much food"]}
+{"head": "fat", "relation": "HasProperty", "tails": [" fat", " fat cells", " unhealthy"]}
+{"head": "fat", "relation": "MadeUpOf", "tails": [" fat", " fat cells", " fatty acids"]}
+{"head": "fat", "relation": "NotDesires", "tails": [" lose weight", " fat lips", " fat body"]}
+{"head": "fat", "relation": "Desires", "tails": [" lose weight", " fat on body", " fat and cholesterol"]}
+{"head": "eat that", "relation": "HinderedBy", "tails": [" have a good night's sleep", " have a good night's rest", " eat the food"]}
+{"head": "eat that", "relation": "isBefore", "tails": [" drink water", " eat the food", " get full"]}
+{"head": "eat that", "relation": "isAfter", "tails": [" drink water", " eat the food", " eat food"]}
+{"head": "eat that", "relation": "HasSubEvent", "tails": [" get full", " get sick", " eat food"]}
+{"head": "eat that", "relation": "Causes", "tails": [" have to clean up", " have to clean up after", " get sick"]}
+{"head": "eat that", "relation": "xReason", "tails": [" get sick", " get fat", " have to eat"]}
+{"head": "eat kind", "relation": "HinderedBy", "tails": [" have a healthy diet", " have a good time", " eat the same thing twice"]}
+{"head": "eat kind", "relation": "isBefore", "tails": [" drink water", " eat food", " drink milk"]}
+{"head": "eat kind", "relation": "isAfter", "tails": [" drink water", " eat food", " food"]}
+{"head": "eat kind", "relation": "HasSubEvent", "tails": [" get sick", " get full", " eat food"]}
+{"head": "eat kind", "relation": "Causes", "tails": [" taste good", " have good taste", " eat food"]}
+{"head": "eat kind", "relation": "xReason", "tails": [" have good taste in food", " eat food that tastes good", " have good taste in mouth"]}
+{"head": "eat healthier", "relation": "HinderedBy", "tails": [" eat less junk food", " lose weight", " eat less sugar"]}
+{"head": "eat healthier", "relation": "isBefore", "tails": [" lose weight", " eat less junk food", " eat more vegetables"]}
+{"head": "eat healthier", "relation": "isAfter", "tails": [" lose weight", " eat less junk food", " eat less sugar"]}
+{"head": "eat healthier", "relation": "HasSubEvent", "tails": [" lose weight", " eat less junk food", " eat more vegetables"]}
+{"head": "eat healthier", "relation": "Causes", "tails": [" lose weight", " exercise more", " eat less sugar"]}
+{"head": "eat healthier", "relation": "xReason", "tails": [" lose weight", " exercise more", " eat less sugar"]}
+{"head": "eat fruits", "relation": "HinderedBy", "tails": [" eat fruit", " eat", " eat healthy"]}
+{"head": "eat fruits", "relation": "isBefore", "tails": [" drink water", " eat", " drink juice"]}
+{"head": "eat fruits", "relation": "isAfter", "tails": [" fruit salad", " drink water", " fruit juice"]}
+{"head": "eat fruits", "relation": "HasSubEvent", "tails": [" wash hands", " eat", " get full"]}
+{"head": "eat fruits", "relation": "Causes", "tails": [" fruit juice", " fruit salad", " eat for breakfast"]}
+{"head": "eat fruits", "relation": "xReason", "tails": [" eat for health", " eat for breakfast", " eat"]}
+{"head": "eat chicken", "relation": "HinderedBy", "tails": [" eat chicken", " eat", " chicken soup"]}
+{"head": "eat chicken", "relation": "isBefore", "tails": [" eat chicken", " chicken soup", " cook chicken"]}
+{"head": "eat chicken", "relation": "isAfter", "tails": [" chicken soup", " chicken", " eat chicken"]}
+{"head": "eat chicken", "relation": "HasSubEvent", "tails": [" eat chicken", " get full", " clean plate"]}
+{"head": "eat chicken", "relation": "Causes", "tails": [" chicken soup", " chicken", " eat chicken"]}
+{"head": "eat chicken", "relation": "xReason", "tails": [" chicken soup", " eat for dinner", " eat chicken"]}
+{"head": "chicken", "relation": "ObjectUse", "tails": [" eat for dinner", " feed to the chickens", " feed to the birds"]}
+{"head": "chicken", "relation": "AtLocation", "tails": [" chicken coop", " meatloaf", " chicken house"]}
+{"head": "chicken", "relation": "CapableOf", "tails": [" feed to chickens", " feed to dog", " cook for dinner"]}
+{"head": "chicken", "relation": "HasProperty", "tails": [" chicken soup", " meat", " cooked in oven"]}
+{"head": "chicken", "relation": "MadeUpOf", "tails": [" chicken egg", " chicken breast", " chicken"]}
+{"head": "chicken", "relation": "NotDesires", "tails": [" chicken soup", " chicken", " chicken salad"]}
+{"head": "chicken", "relation": "Desires", "tails": [" eat for dinner", " chicken soup", " feed to animals"]}
+{"head": "be lot", "relation": "HinderedBy", "tails": [" be in lot", " be a lot", " be in a lot"]}
+{"head": "be lot", "relation": "isBefore", "tails": [" be in lot", " be in car", " have to do"]}
+{"head": "be lot", "relation": "isAfter", "tails": [" be in car", " be in lot", " be in a movie"]}
+{"head": "be lot", "relation": "HasSubEvent", "tails": [" get into car accident", " have to do", " get into fight"]}
+{"head": "be lot", "relation": "Causes", "tails": [" have lot of things to do", " have lot of things to do at one time", " have lot of things to do at once"]}
+{"head": "be lot", "relation": "xReason", "tails": [" have lot of things to do", " have lot of things to do at one time", " have lot of things to do at once"]}
+{"head": "baked chicken", "relation": "ObjectUse", "tails": [" put in the oven", " make a meal", " put in the fridge"]}
+{"head": "baked chicken", "relation": "AtLocation", "tails": [" chicken noodle soup", " chicken pot pie", " oven"]}
+{"head": "baked chicken", "relation": "CapableOf", "tails": [" cook in oven", " cook in pan", " eat"]}
+{"head": "baked chicken", "relation": "HasProperty", "tails": [" cooked in oven", " cooked in pan", " cooked on stove"]}
+{"head": "baked chicken", "relation": "MadeUpOf", "tails": [" chicken breast", " chicken", " chicken broth"]}
+{"head": "baked chicken", "relation": "NotDesires", "tails": [" cooked in oven", " cooked in pan", " cooked for hours"]}
+{"head": "baked chicken", "relation": "Desires", "tails": [" eat for dinner", " cooked in oven", " cooked in pan"]}
+{"head": "Yeah , I know , but what about the chicken ?", "relation": "xAttr", "tails": [" hungry", " greedy", " aware"]}
+{"head": "Yeah , I know , but what about the chicken ?", "relation": "xWant", "tails": [" to eat the chicken", " to cook the chicken", " to eat the chicken."]}
+{"head": "Yeah , I know , but what about the chicken ?", "relation": "xNeed", "tails": [" none", " eat the chicken", " to have a chicken"]}
+{"head": "Yeah , I know , but what about the chicken ?", "relation": "xEffect", "tails": [" none", " gets yelled at", " get a new one"]}
+{"head": "Yeah , I know , but what about the chicken ?", "relation": "HinderedBy", "tails": [" they don't want to eat the chicken", " they don't want to eat it", " they don't want to eat the chicken."]}
+{"head": "Yeah , I know , but what about the chicken ?", "relation": "oWant", "tails": [" none", " to eat the chicken", " to eat the chicken."]}
+{"head": "Yeah , I know , but what about the chicken ?", "relation": "xReact", "tails": [" satisfied", " hungry", " happy"]}
+{"head": "Yeah , I know , but what about the chicken ?", "relation": "oEffect", "tails": [" none", " they eat the chicken", " they eat the chicken."]}
+{"head": "Yeah , I know , but what about the chicken ?", "relation": "xIntent", "tails": [" none", " to eat the chicken", " to eat the chicken."]}
+{"head": "Yeah , I know , but what about the chicken ?", "relation": "oReact", "tails": [" none", " hungry", " happy"]}
+{"head": "Yeah , I know , but what about the chicken ?", "relation": "isBefore", "tails": [" none", " they eat the chicken for dinner", " they eat the chicken"]}
+{"head": "Yeah , I know , but what about the chicken ?", "relation": "isAfter", "tails": [" none", " they eat the chicken", " they eat it for dinner"]}
+{"head": "Yeah , I know , but what about the chicken ?", "relation": "HasSubEvent", "tails": [" none", " eat the chicken", " eat the chicken."]}
+{"head": "Yeah , I know , but what about the chicken ?", "relation": "Causes", "tails": [" I don't want to eat chicken.", " I don't have a chicken.", " I don't have a chicken to eat."]}
+{"head": "Yeah , I know , but what about the chicken ?", "relation": "xReason", "tails": [" I don't want to eat chicken.", " none", " I don't want to eat it."]}
+{"head": "What kind of food do you usually eat ?", "relation": "xAttr", "tails": [" hungry", " healthy", " full"]}
+{"head": "What kind of food do you usually eat ?", "relation": "xWant", "tails": [" to eat a lot of food", " to eat a lot of food.", " to eat a lot of different foods"]}
+{"head": "What kind of food do you usually eat ?", "relation": "xNeed", "tails": [" to know what kind of food they like", " to know what kind of food to eat", " to know what they like to eat"]}
+{"head": "What kind of food do you usually eat ?", "relation": "xEffect", "tails": [" gets full", " gets fat", " gets hungry"]}
+{"head": "What kind of food do you usually eat ?", "relation": "HinderedBy", "tails": [" what kind of food do you usually eat", " what kind of food", " what kind of food to eat"]}
+{"head": "What kind of food do you usually eat ?", "relation": "oWant", "tails": [" none", " to eat", " to eat it"]}
+{"head": "What kind of food do you usually eat ?", "relation": "xReact", "tails": [" satisfied", " full", " hungry"]}
+{"head": "What kind of food do you usually eat ?", "relation": "oEffect", "tails": [" none", " eat a lot of food", " eat a lot of different foods"]}
+{"head": "What kind of food do you usually eat ?", "relation": "xIntent", "tails": [" to be healthy", " eat healthy", " to eat healthy"]}
+{"head": "What kind of food do you usually eat ?", "relation": "oReact", "tails": [" none", " hungry", " happy"]}
+{"head": "What kind of food do you usually eat ?", "relation": "isBefore", "tails": [" what kind of food do you usually eat", " what kind of food do you like to eat", " what kind of food do you like"]}
+{"head": "What kind of food do you usually eat ?", "relation": "isAfter", "tails": [" what kind of food do you like to eat", " what kind of food do you usually eat", " what kind of food do you like"]}
+{"head": "What kind of food do you usually eat ?", "relation": "HasSubEvent", "tails": [" eat food", " get full", " eat"]}
+{"head": "What kind of food do you usually eat ?", "relation": "Causes", "tails": [" what kind of food", " what kind of food to eat", " what kind of food do you like"]}
+{"head": "What kind of food do you usually eat ?", "relation": "xReason", "tails": [" what kind of food do you usually eat", " what kind of food do you like", " what kind of food do you like to eat"]}
+{"head": "That's basically it .", "relation": "xAttr", "tails": [" content", " smart", " simple"]}
+{"head": "That's basically it .", "relation": "xWant", "tails": [" to go home", " to go to sleep", " to go to bed"]}
+{"head": "That's basically it .", "relation": "xNeed", "tails": [" none", " to know how to do it", " to know what they want to do"]}
+{"head": "That's basically it .", "relation": "xEffect", "tails": [" that's the end of the story", " none", " that's the end of the story."]}
+{"head": "That's basically it .", "relation": "HinderedBy", "tails": [" that's all there is to it", " that's all there is to it.", " that's all there is to know"]}
+{"head": "That's basically it .", "relation": "oWant", "tails": [" none", " to go home", " to go to sleep"]}
+{"head": "That's basically it .", "relation": "xReact", "tails": [" happy", " satisfied", " good"]}
+{"head": "That's basically it .", "relation": "oEffect", "tails": [" none", " get a new job", " they get a new job"]}
+{"head": "That's basically it .", "relation": "xIntent", "tails": [" none", " to be done with it", " to be a good person"]}
+{"head": "That's basically it .", "relation": "oReact", "tails": [" none", " happy", " happy."]}
+{"head": "That's basically it .", "relation": "isBefore", "tails": [" that's all there is to it", " that's it", " that's the end of the story"]}
+{"head": "That's basically it .", "relation": "isAfter", "tails": [" that's all there is to it", " that's all there is to know", " that's it"]}
+{"head": "That's basically it .", "relation": "HasSubEvent", "tails": [" get out of the car", " get out of the way", " get out of the house"]}
+{"head": "That's basically it .", "relation": "Causes", "tails": [" that's all there is to it", " that's it", " that's all there is to know"]}
+{"head": "That's basically it .", "relation": "xReason", "tails": [" that's all there is to it", " that's all there is to know", " that's it"]}
+{"head": "That does sound pretty good .", "relation": "xAttr", "tails": [" hungry", " happy", " good"]}
+{"head": "That does sound pretty good .", "relation": "xWant", "tails": [" to eat it", " to eat the food", " to eat it."]}
+{"head": "That does sound pretty good .", "relation": "xNeed", "tails": [" none", " to think about what they want to eat", " to think about what they want to do"]}
+{"head": "That does sound pretty good .", "relation": "xEffect", "tails": [" none", " that sounds good", " that is good"]}
+{"head": "That does sound pretty good .", "relation": "HinderedBy", "tails": [" that sounds good", " that sounds good to me", " that sounds good."]}
+{"head": "That does sound pretty good .", "relation": "oWant", "tails": [" none", " to eat it", " to eat the food"]}
+{"head": "That does sound pretty good .", "relation": "xReact", "tails": [" satisfied", " happy", " good"]}
+{"head": "That does sound pretty good .", "relation": "oEffect", "tails": [" none", " they eat the food", " they eat it"]}
+{"head": "That does sound pretty good .", "relation": "xIntent", "tails": [" none", " to have a good time", " to have a good meal"]}
+{"head": "That does sound pretty good .", "relation": "oReact", "tails": [" none", " happy", " satisfied"]}
+{"head": "That does sound pretty good .", "relation": "isBefore", "tails": [" that sounds good", " that sounds good to me", " that is a good idea"]}
+{"head": "That does sound pretty good .", "relation": "isAfter", "tails": [" that sounds good", " that sounds good to me", " that is a good idea"]}
+{"head": "That does sound pretty good .", "relation": "HasSubEvent", "tails": [" get a drink", " none", " eat the food"]}
+{"head": "That does sound pretty good .", "relation": "Causes", "tails": [" that sounds good", " that sounds good to me", " that sounds good."]}
+{"head": "That does sound pretty good .", "relation": "xReason", "tails": [" that sounds good", " that sounds good to me", " that sounds good."]}
+{"head": "Is that really all that you eat ?", "relation": "xAttr", "tails": [" hungry", " starving", " healthy"]}
+{"head": "Is that really all that you eat ?", "relation": "xWant", "tails": [" to be healthy", " to eat more", " to eat something else"]}
+{"head": "Is that really all that you eat ?", "relation": "xNeed", "tails": [" none", " to have eaten a lot of food", " to have a lot of food"]}
+{"head": "Is that really all that you eat ?", "relation": "xEffect", "tails": [" is full", " gets fat", " gets sick"]}
+{"head": "Is that really all that you eat ?", "relation": "HinderedBy", "tails": [" is too much to eat", " is not healthy", " is too much for one person"]}
+{"head": "Is that really all that you eat ?", "relation": "oWant", "tails": [" none", " to eat something else", " to eat more"]}
+{"head": "Is that really all that you eat ?", "relation": "xReact", "tails": [" satisfied", " full", " hungry"]}
+{"head": "Is that really all that you eat ?", "relation": "oEffect", "tails": [" none", " is full", " is hungry"]}
+{"head": "Is that really all that you eat ?", "relation": "xIntent", "tails": [" none", " to be healthy", " to be full"]}
+{"head": "Is that really all that you eat ?", "relation": "oReact", "tails": [" none", " satisfied", " hungry"]}
+{"head": "Is that really all that you eat ?", "relation": "isBefore", "tails": [" is healthy", " is not healthy", " is it healthy"]}
+{"head": "Is that really all that you eat ?", "relation": "isAfter", "tails": [" is not healthy", " is healthy", " is it healthy"]}
+{"head": "Is that really all that you eat ?", "relation": "HasSubEvent", "tails": [" is full", " get fat", " get sick"]}
+{"head": "Is that really all that you eat ?", "relation": "Causes", "tails": [" is not healthy", " is too much to eat", " is too much for one person"]}
+{"head": "Is that really all that you eat ?", "relation": "xReason", "tails": [" is not healthy", " is healthy", " is it healthy"]}
+{"head": "I try my best to eat only fruits , vegetables , and chicken .", "relation": "xAttr", "tails": [" healthy", " health conscious", " health-conscious"]}
+{"head": "I try my best to eat only fruits , vegetables , and chicken .", "relation": "xWant", "tails": [" to be healthy", " to eat healthy", " to get healthy"]}
+{"head": "I try my best to eat only fruits , vegetables , and chicken .", "relation": "xNeed", "tails": [" to buy healthy food", " to be healthy", " to buy healthy foods"]}
+{"head": "I try my best to eat only fruits , vegetables , and chicken .", "relation": "xEffect", "tails": [" eat healthy", " eat more healthy foods", " eat more vegetables and fruits"]}
+{"head": "I try my best to eat only fruits , vegetables , and chicken .", "relation": "HinderedBy", "tails": [" I don't want to get sick.", " I don't have enough money.", " I don't have enough money to buy food."]}
+{"head": "I try my best to eat only fruits , vegetables , and chicken .", "relation": "oWant", "tails": [" to be healthy", " to eat healthy", " none"]}
+{"head": "I try my best to eat only fruits , vegetables , and chicken .", "relation": "xReact", "tails": [" healthy", " satisfied", " full"]}
+{"head": "I try my best to eat only fruits , vegetables , and chicken .", "relation": "oEffect", "tails": [" none", " eat healthy", " get healthy"]}
+{"head": "I try my best to eat only fruits , vegetables , and chicken .", "relation": "xIntent", "tails": [" to be healthy", " to be healthy.", " to eat healthy"]}
+{"head": "I try my best to eat only fruits , vegetables , and chicken .", "relation": "oReact", "tails": [" none", " healthy", " satisfied"]}
+{"head": "I try my best to eat only fruits , vegetables , and chicken .", "relation": "isBefore", "tails": [" I eat a lot of fruits and vegetables.", " I eat a lot of fruits and vegetables", " I eat a lot of vegetables."]}
+{"head": "I try my best to eat only fruits , vegetables , and chicken .", "relation": "isAfter", "tails": [" eat healthy", " eat healthy food", " eat healthy foods"]}
+{"head": "I try my best to eat only fruits , vegetables , and chicken .", "relation": "HasSubEvent", "tails": [" eat healthy", " get healthy", " eat more vegetables"]}
+{"head": "I try my best to eat only fruits , vegetables , and chicken .", "relation": "Causes", "tails": [" healthy", " eat healthy", " I have no appetite"]}
+{"head": "I try my best to eat only fruits , vegetables , and chicken .", "relation": "xReason", "tails": [" eat healthy", " I have no appetite.", " I have a low metabolism."]}
+{"head": "I really need to start eating healthier .", "relation": "xAttr", "tails": [" unhealthy", " healthy", " health conscious"]}
+{"head": "I really need to start eating healthier .", "relation": "xWant", "tails": [" to lose weight", " to eat healthier", " to lose weight."]}
+{"head": "I really need to start eating healthier .", "relation": "xNeed", "tails": [" to eat a lot of junk food", " to eat a lot of junk food.", " eat less junk food"]}
+{"head": "I really need to start eating healthier .", "relation": "xEffect", "tails": [" gets fat", " eat less", " eat more vegetables"]}
+{"head": "I really need to start eating healthier .", "relation": "HinderedBy", "tails": [" I don't have enough money to buy healthy food.", " I don't have the money to buy healthy food.", " I don't have enough money to eat healthy."]}
+{"head": "I really need to start eating healthier .", "relation": "oWant", "tails": [" none", " to help me lose weight", " to encourage me to eat healthier"]}
+{"head": "I really need to start eating healthier .", "relation": "xReact", "tails": [" healthy", " unhealthy", " healthier"]}
+{"head": "I really need to start eating healthier .", "relation": "oEffect", "tails": [" none", " eat less", " eat more healthy"]}
+{"head": "I really need to start eating healthier .", "relation": "xIntent", "tails": [" to lose weight", " to be healthy", " to be healthier"]}
+{"head": "I really need to start eating healthier .", "relation": "oReact", "tails": [" none", " healthy", " happy."]}
+{"head": "I really need to start eating healthier .", "relation": "isBefore", "tails": [" I have a lot of weight to lose", " eat less junk food", " I have a lot of weight to lose."]}
+{"head": "I really need to start eating healthier .", "relation": "isAfter", "tails": [" I have a stomach ache", " eat less junk food", " I have a stomach ache."]}
+{"head": "I really need to start eating healthier .", "relation": "HasSubEvent", "tails": [" lose weight", " eat less", " eat more vegetables"]}
+{"head": "I really need to start eating healthier .", "relation": "Causes", "tails": [" I don't have enough money to buy healthy food.", " I don't have enough money to eat healthy.", " I don't want to get fat."]}
+{"head": "I really need to start eating healthier .", "relation": "xReason", "tails": [" I eat too much junk food.", " I eat too much junk food", " I have a lot of weight to lose"]}
+{"head": "I mainly eat baked chicken , because there's not a lot of fat .", "relation": "xAttr", "tails": [" fat-free", " healthy", " fat free"]}
+{"head": "I mainly eat baked chicken , because there's not a lot of fat .", "relation": "xWant", "tails": [" to eat a lot of chicken", " to eat a lot of vegetables", " to eat healthy"]}
+{"head": "I mainly eat baked chicken , because there's not a lot of fat .", "relation": "xNeed", "tails": [" to cook the chicken", " to buy chicken", " to cook the chicken."]}
+{"head": "I mainly eat baked chicken , because there's not a lot of fat .", "relation": "xEffect", "tails": [" I eat a lot of chicken.", " I eat a lot of vegetables.", " I eat a lot of chicken"]}
+{"head": "I mainly eat baked chicken , because there's not a lot of fat .", "relation": "HinderedBy", "tails": [" I don't have the time to cook.", " I don't have the time to cook it.", " I don't like to cook."]}
+{"head": "I mainly eat baked chicken , because there's not a lot of fat .", "relation": "oWant", "tails": [" none", " to eat the chicken", " to eat it"]}
+{"head": "I mainly eat baked chicken , because there's not a lot of fat .", "relation": "xReact", "tails": [" satisfied", " healthy", " full"]}
+{"head": "I mainly eat baked chicken , because there's not a lot of fat .", "relation": "oEffect", "tails": [" none", " eat healthy", " eat more healthy"]}
+{"head": "I mainly eat baked chicken , because there's not a lot of fat .", "relation": "xIntent", "tails": [" to be healthy", " to eat healthy", " to be healthy."]}
+{"head": "I mainly eat baked chicken , because there's not a lot of fat .", "relation": "oReact", "tails": [" none", " satisfied", " healthy"]}
+{"head": "I mainly eat baked chicken , because there's not a lot of fat .", "relation": "isBefore", "tails": [" I like the taste of it", " I eat a lot of vegetables", " I like the taste of it."]}
+{"head": "I mainly eat baked chicken , because there's not a lot of fat .", "relation": "isAfter", "tails": [" I like the taste of it", " I like the taste of it.", " I eat a lot of vegetables"]}
+{"head": "I mainly eat baked chicken , because there's not a lot of fat .", "relation": "HasSubEvent", "tails": [" eat a lot of vegetables", " eat a lot of healthy foods", " eat a lot of healthy food"]}
+{"head": "I mainly eat baked chicken , because there's not a lot of fat .", "relation": "Causes", "tails": [" I like the taste of it.", " I like the taste of the chicken.", " I like the taste of chicken."]}
+{"head": "I mainly eat baked chicken , because there's not a lot of fat .", "relation": "xReason", "tails": [" I like the taste of it.", " I like the taste of the chicken.", " I like the taste of chicken."]}
+{"head": "I know it does , and that's because it is .", "relation": "xAttr", "tails": [" observant", " observant.", " understanding"]}
+{"head": "I know it does , and that's because it is .", "relation": "xWant", "tails": [" to make sure it's ok", " to make sure everything is ok", " to make sure everything is okay"]}
+{"head": "I know it does , and that's because it is .", "relation": "xNeed", "tails": [" none", " to know what is going on", " to know what it is"]}
+{"head": "I know it does , and that's because it is .", "relation": "xEffect", "tails": [" none", " I know it's true.", " I know it is true."]}
+{"head": "I know it does , and that's because it is .", "relation": "HinderedBy", "tails": [" none", " I know it does.", " I know it's true."]}
+{"head": "I know it does , and that's because it is .", "relation": "oWant", "tails": [" none", " to tell me it's ok", " to tell me that it's ok"]}
+{"head": "I know it does , and that's because it is .", "relation": "xReact", "tails": [" happy", " good", " none"]}
+{"head": "I know it does , and that's because it is .", "relation": "oEffect", "tails": [" none", " I know it's true.I know it's true.", " I know it is true.I know it does."]}
+{"head": "I know it does , and that's because it is .", "relation": "xIntent", "tails": [" none", " to know what is going on", " to know what is going to happen"]}
+{"head": "I know it does , and that's because it is .", "relation": "oReact", "tails": [" none", " like it's important to them", " happy to have a good friend."]}
+{"head": "I know it does , and that's because it is .", "relation": "isBefore", "tails": [" none", " I know it's true", " I know it is true"]}
+{"head": "I know it does , and that's because it is .", "relation": "isAfter", "tails": [" none", " I know it's true", " I know it is true"]}
+{"head": "I know it does , and that's because it is .", "relation": "HasSubEvent", "tails": [" none", " I know it's true.", " I know it's true"]}
+{"head": "I know it does , and that's because it is .", "relation": "Causes", "tails": [" none", " I know it's true.", " I know it is true."]}
+{"head": "I know it does , and that's because it is .", "relation": "xReason", "tails": [" none", " I know it's true.", " I know it's true"]}
+{"head": "I have to start eating better too .", "relation": "xAttr", "tails": [" healthy", " unhealthy", " hungry"]}
+{"head": "I have to start eating better too .", "relation": "xWant", "tails": [" to lose weight", " to lose weight.", " to eat healthier"]}
+{"head": "I have to start eating better too .", "relation": "xNeed", "tails": [" to eat less", " to eat healthy", " eat less"]}
+{"head": "I have to start eating better too .", "relation": "xEffect", "tails": [" eat less junk food", " eat more healthy foods", " eat more healthy food"]}
+{"head": "I have to start eating better too .", "relation": "HinderedBy", "tails": [" I don't have the willpower.", " I have no money.", " I don't have the willpower to change."]}
+{"head": "I have to start eating better too .", "relation": "oWant", "tails": [" none", " to be healthy", " to be healthier"]}
+{"head": "I have to start eating better too .", "relation": "xReact", "tails": [" healthy", " satisfied", " healthier"]}
+{"head": "I have to start eating better too .", "relation": "oEffect", "tails": [" none", " eat less", " eat more healthy"]}
+{"head": "I have to start eating better too .", "relation": "xIntent", "tails": [" to lose weight", " to be healthy", " to be healthier"]}
+{"head": "I have to start eating better too .", "relation": "oReact", "tails": [" none", " happy", " happy."]}
+{"head": "I have to start eating better too .", "relation": "isBefore", "tails": [" I have to lose weight", " I have to lose weight.", " I have to lose weight to be healthy"]}
+{"head": "I have to start eating better too .", "relation": "isAfter", "tails": [" PersonX eats a lot of junk food.", " PersonX eats a lot of junk food", " PersonX eats a lot of food."]}
+{"head": "I have to start eating better too .", "relation": "HasSubEvent", "tails": [" eat more healthy foods", " eat more healthy food", " eat less"]}
+{"head": "I have to start eating better too .", "relation": "Causes", "tails": [" I don't want to get fat.", " I don't have enough money.", " I don't have enough money to eat better."]}
+{"head": "I have to start eating better too .", "relation": "xReason", "tails": [" I need to lose weight.", " I need to lose weight", " I need to be healthy."]}
+{"head": "How do you stick to only those foods ?", "relation": "xAttr", "tails": [" healthy", " disciplined", " determined"]}
+{"head": "How do you stick to only those foods ?", "relation": "xWant", "tails": [" to be healthy", " to eat healthy", " to eat less"]}
+{"head": "How do you stick to only those foods ?", "relation": "xNeed", "tails": [" to eat a lot of food", " to eat a lot of foods", " to eat a lot of them"]}
+{"head": "How do you stick to only those foods ?", "relation": "xEffect", "tails": [" eat only what they want", " eat only certain foods", " eat only what they want to"]}
+{"head": "How do you stick to only those foods ?", "relation": "HinderedBy", "tails": [" how to stick to only those foods", " how to stick to it", " how to stick to a diet"]}
+{"head": "How do you stick to only those foods ?", "relation": "oWant", "tails": [" none", " to be healthy", " to eat healthy"]}
+{"head": "How do you stick to only those foods ?", "relation": "xReact", "tails": [" satisfied", " healthy", " happy"]}
+{"head": "How do you stick to only those foods ?", "relation": "oEffect", "tails": [" none", " eat only what they want", " eat only certain foods"]}
+{"head": "How do you stick to only those foods ?", "relation": "xIntent", "tails": [" to be healthy", " to eat healthy", " to be healthy."]}
+{"head": "How do you stick to only those foods ?", "relation": "oReact", "tails": [" none", " satisfied", " happy"]}
+{"head": "How do you stick to only those foods ?", "relation": "isBefore", "tails": [" eat only what they want", " eat only what they want to eat", " eat only the foods you want to eat"]}
+{"head": "How do you stick to only those foods ?", "relation": "isAfter", "tails": [" eat only certain foods", " how to stay healthy", " eat healthy"]}
+{"head": "How do you stick to only those foods ?", "relation": "HasSubEvent", "tails": [" lose weight", " eat only what they want", " eat only those foods"]}
+{"head": "How do you stick to only those foods ?", "relation": "Causes", "tails": [" how to stay healthy", " how to do it", " how to eat healthy"]}
+{"head": "How do you stick to only those foods ?", "relation": "xReason", "tails": [" how to stay healthy", " how to do it", " how to eat healthy"]}
+{"head": "Actually , fruits and veggies are really good for you .", "relation": "xAttr", "tails": [" healthy", " healthful", " health conscious"]}
+{"head": "Actually , fruits and veggies are really good for you .", "relation": "xWant", "tails": [" to be healthy", " to eat healthy", " to eat more of them"]}
+{"head": "Actually , fruits and veggies are really good for you .", "relation": "xNeed", "tails": [" to eat a lot of fruits and veggies", " to eat a lot of fruits and vegetables", " to eat a lot of fruits and veggies."]}
+{"head": "Actually , fruits and veggies are really good for you .", "relation": "xEffect", "tails": [" eat more fruits and vegetables", " eat more fruits and veggies", " eat more fruits and vegetables."]}
+{"head": "Actually , fruits and veggies are really good for you .", "relation": "HinderedBy", "tails": [" They are bad for you.", " They are bad for your health.", " They are too expensive."]}
+{"head": "Actually , fruits and veggies are really good for you .", "relation": "oWant", "tails": [" none", " to eat healthy", " to be healthy"]}
+{"head": "Actually , fruits and veggies are really good for you .", "relation": "xReact", "tails": [" healthy", " satisfied", " healthy."]}
+{"head": "Actually , fruits and veggies are really good for you .", "relation": "oEffect", "tails": [" none", " eat more fruits and vegetables", " eat more fruits and veggies"]}
+{"head": "Actually , fruits and veggies are really good for you .", "relation": "xIntent", "tails": [" to be healthy", " none", " to be healthy."]}
+{"head": "Actually , fruits and veggies are really good for you .", "relation": "oReact", "tails": [" none", " healthy", " healthy."]}
+{"head": "Actually , fruits and veggies are really good for you .", "relation": "isBefore", "tails": [" eat more fruits and vegetables", " eat more fruits and veggies", " eat more fruits and vegetables."]}
+{"head": "Actually , fruits and veggies are really good for you .", "relation": "isAfter", "tails": [" eat more fruits and vegetables", " eat more fruits and veggies", " eat more fruits and vegetables."]}
+{"head": "Actually , fruits and veggies are really good for you .", "relation": "HasSubEvent", "tails": [" eat a lot of fruits and vegetables", " eat a lot of fruits and veggies", " eat more fruits and vegetables"]}
+{"head": "Actually , fruits and veggies are really good for you .", "relation": "Causes", "tails": [" eat more fruits and vegetables", " eat more fruits and vegetables.", " eat more fruits and veggies"]}
+{"head": "Actually , fruits and veggies are really good for you .", "relation": "xReason", "tails": [" eat more fruits and vegetables", " eat more fruits and veggies", " eat more fruits and vegetables."]}

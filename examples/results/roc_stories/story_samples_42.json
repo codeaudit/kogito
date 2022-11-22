@@ -1,0 +1,245 @@
+{"head": "to start", "relation": "HinderedBy", "tails": [" to start", " to start ", " to start something"]}
+{"head": "to start", "relation": "isBefore", "tails": [" to start", " to start ", " to start the game"]}
+{"head": "to start", "relation": "isAfter", "tails": [" to start", " to get started", " to start the game"]}
+{"head": "to start", "relation": "HasSubEvent", "tails": [" to start", " get ready", " to start "]}
+{"head": "to start", "relation": "Causes", "tails": [" to start", " to start ", " to start something"]}
+{"head": "to start", "relation": "xReason", "tails": [" to start", " to start something", " get started"]}
+{"head": "to see", "relation": "HinderedBy", "tails": [" to see", " to see ", " to see something"]}
+{"head": "to see", "relation": "isBefore", "tails": [" to see", " to see what's going on", " to see what is going on"]}
+{"head": "to see", "relation": "isAfter", "tails": [" to see what's going on", " to see what they are looking at", " to see what is going on"]}
+{"head": "to see", "relation": "HasSubEvent", "tails": [" to see", " to see  see", " to see "]}
+{"head": "to see", "relation": "Causes", "tails": [" to see", " to see ", " to see something"]}
+{"head": "to see", "relation": "xReason", "tails": [" to see", " to see something", " look at"]}
+{"head": "to plan", "relation": "HinderedBy", "tails": [" to plan", " to plan  to plan ", " to plan "]}
+{"head": "to plan", "relation": "isBefore", "tails": [" to plan", " to plan for the future", " to plan for future events"]}
+{"head": "to plan", "relation": "isAfter", "tails": [" to plan for the future", " plan for future events", " to plan for future events"]}
+{"head": "to plan", "relation": "HasSubEvent", "tails": [" to plan", " to plan for", " to plan "]}
+{"head": "to plan", "relation": "Causes", "tails": [" to plan", " plan", " to plan for"]}
+{"head": "to plan", "relation": "xReason", "tails": [" plan ahead of time", " to plan", " to plan for the future"]}
+{"head": "to open", "relation": "HinderedBy", "tails": [" to open ", " to open", " to open  the door"]}
+{"head": "to open", "relation": "isBefore", "tails": [" to open", " to open ", " to open  door"]}
+{"head": "to open", "relation": "isAfter", "tails": [" to open", " to open the door", " to open the box"]}
+{"head": "to open", "relation": "HasSubEvent", "tails": [" to open", " to open ", " open door"]}
+{"head": "to open", "relation": "Causes", "tails": [" to open", " to open ", " to open  open "]}
+{"head": "to open", "relation": "xReason", "tails": [" to open", " to open ", " open door"]}
+{"head": "to melt", "relation": "HinderedBy", "tails": [" to melt", " to melt ", " to melt  ice"]}
+{"head": "to melt", "relation": "isBefore", "tails": [" to melt", " to melt ", " to melt ice"]}
+{"head": "to melt", "relation": "isAfter", "tails": [" to melt", " to melt ice", " ice cream"]}
+{"head": "to melt", "relation": "HasSubEvent", "tails": [" to melt", " to melt ", " melt"]}
+{"head": "to melt", "relation": "Causes", "tails": [" to melt", " to melt ", " heat"]}
+{"head": "to melt", "relation": "xReason", "tails": [" to melt", " to melt ", " heat"]}
+{"head": "to hide", "relation": "HinderedBy", "tails": [" to hide", " to hide ", " to hide in"]}
+{"head": "to hide", "relation": "isBefore", "tails": [" to hide", " to hide in", " hide from the police"]}
+{"head": "to hide", "relation": "isAfter", "tails": [" hide from the police", " hide in the closet", " hide"]}
+{"head": "to hide", "relation": "HasSubEvent", "tails": [" to hide", " hide", " hide from others"]}
+{"head": "to hide", "relation": "Causes", "tails": [" to hide", " hide", " hide from others"]}
+{"head": "to hide", "relation": "xReason", "tails": [" to hide", " hide", " hide from people"]}
+{"head": "to find", "relation": "HinderedBy", "tails": [" to find ", " to find", " to find  to find "]}
+{"head": "to find", "relation": "isBefore", "tails": [" to find", " to find something", " to find "]}
+{"head": "to find", "relation": "isAfter", "tails": [" to find something", " to find something to eat", " to find"]}
+{"head": "to find", "relation": "HasSubEvent", "tails": [" to find", " to find ", " to look for it"]}
+{"head": "to find", "relation": "Causes", "tails": [" to find", " to find ", " to find something"]}
+{"head": "to find", "relation": "xReason", "tails": [" to find", " to find something", " to find "]}
+{"head": "to fill", "relation": "HinderedBy", "tails": [" to fill", " to fill ", " to fill  with"]}
+{"head": "to fill", "relation": "isBefore", "tails": [" to fill", " to fill with water", " to fill up the container"]}
+{"head": "to fill", "relation": "isAfter", "tails": [" to fill with water", " to fill", " to fill up the container"]}
+{"head": "to fill", "relation": "HasSubEvent", "tails": [" to fill", " to fill ", " fill with water"]}
+{"head": "to fill", "relation": "Causes", "tails": [" to fill", " to fill with water", " to fill  with water"]}
+{"head": "to fill", "relation": "xReason", "tails": [" to fill", " to fill with water", " to fill up"]}
+{"head": "to burst", "relation": "HinderedBy", "tails": [" to burst", " to burst ", " to burst  to burst"]}
+{"head": "to burst", "relation": "isBefore", "tails": [" to burst", " to burst into tears", " to burst into flames"]}
+{"head": "to burst", "relation": "isAfter", "tails": [" to burst", " water in lungs", " to burst into flames"]}
+{"head": "to burst", "relation": "HasSubEvent", "tails": [" to burst", " to burst ", " to burst into tears"]}
+{"head": "to burst", "relation": "Causes", "tails": [" to burst", " burst balloon", " to burst "]}
+{"head": "to burst", "relation": "xReason", "tails": [" to burst", " burst balloon", " to burst "]}
+{"head": "tears", "relation": "ObjectUse", "tails": [" wipe away", " wipe away tears", " tear up"]}
+{"head": "tears", "relation": "AtLocation", "tails": [" tissue box", " tear duct", " tear ducts"]}
+{"head": "tears", "relation": "CapableOf", "tails": [" wipe away tears", " tear up", " wipe tears away"]}
+{"head": "tears", "relation": "HasProperty", "tails": [" made up of tears", " tear ducts", " made up of"]}
+{"head": "tears", "relation": "MadeUpOf", "tails": [" tear duct", " tears", " tear ducts"]}
+{"head": "tears", "relation": "NotDesires", "tails": [" tear up", " feel sad", " feel pain"]}
+{"head": "tears", "relation": "Desires", "tails": [" wipe away tears", " wipe away", " wipe tears away"]}
+{"head": "sun", "relation": "ObjectUse", "tails": [" sun", " light up sky", " light from"]}
+{"head": "sun", "relation": "AtLocation", "tails": [" solar system", " sun", " sky"]}
+{"head": "sun", "relation": "CapableOf", "tails": [" see stars", " light up sky", " light up night sky"]}
+{"head": "sun", "relation": "HasProperty", "tails": [" found in tropics", " found in sunspots", " sun"]}
+{"head": "sun", "relation": "MadeUpOf", "tails": [" solar system", " sun", " sunspot"]}
+{"head": "sun", "relation": "NotDesires", "tails": [" sun", " sunburn", " heat"]}
+{"head": "sun", "relation": "Desires", "tails": [" sun", " solar system", " light"]}
+{"head": "sky", "relation": "ObjectUse", "tails": [" look up at", " sky", " look at from above"]}
+{"head": "sky", "relation": "AtLocation", "tails": [" sky", " space", " earth"]}
+{"head": "sky", "relation": "CapableOf", "tails": [" see stars", " sky", " look up at"]}
+{"head": "sky", "relation": "HasProperty", "tails": [" sky", " dark", " very bright"]}
+{"head": "sky", "relation": "MadeUpOf", "tails": [" sky", " space shuttle", " moon"]}
+{"head": "sky", "relation": "NotDesires", "tails": [" sky", " space shuttle", " space"]}
+{"head": "sky", "relation": "Desires", "tails": [" sky", " look up at", " look at from above"]}
+{"head": "plan hunt", "relation": "HinderedBy", "tails": [" plan to hunt", " plan hunt", " plan to go hunting"]}
+{"head": "plan hunt", "relation": "isBefore", "tails": [" hunt deer", " plan to hunt", " plan to go hunting"]}
+{"head": "plan hunt", "relation": "isAfter", "tails": [" plan to hunt", " hunt for deer", " plan to go hunting"]}
+{"head": "plan hunt", "relation": "HasSubEvent", "tails": [" plan to hunt", " find prey", " plan to go hunting"]}
+{"head": "plan hunt", "relation": "Causes", "tails": [" plan to hunt", " plan to go to hunt", " plan to go hunting"]}
+{"head": "plan hunt", "relation": "xReason", "tails": [" plan to hunt", " hunt deer", " plan to go hunting"]}
+{"head": "open eggs", "relation": "HinderedBy", "tails": [" open eggs", " crack eggs", " open egg"]}
+{"head": "open eggs", "relation": "isBefore", "tails": [" crack eggs", " crack egg", " crack open egg"]}
+{"head": "open eggs", "relation": "isAfter", "tails": [" crack eggs", " crack egg", " crack and eat"]}
+{"head": "open eggs", "relation": "HasSubEvent", "tails": [" crack eggs", " put in fridge", " open egg"]}
+{"head": "open eggs", "relation": "Causes", "tails": [" crack eggs", " open eggs", " open egg"]}
+{"head": "open eggs", "relation": "xReason", "tails": [" open eggs", " eat", " open egg"]}
+{"head": "kids", "relation": "ObjectUse", "tails": [" play with", " have fun with", " have fun"]}
+{"head": "kids", "relation": "AtLocation", "tails": [" children's room", " children's bedroom", " children's home"]}
+{"head": "kids", "relation": "CapableOf", "tails": [" learn to read", " have fun", " have fun with friends"]}
+{"head": "kids", "relation": "HasProperty", "tails": [" kids", " children", " parents"]}
+{"head": "kids", "relation": "MadeUpOf", "tails": [" kids", " children", " parents"]}
+{"head": "kids", "relation": "NotDesires", "tails": [" kids to play with", " have to do chores", " kids to play with them"]}
+{"head": "kids", "relation": "Desires", "tails": [" have fun", " have fun with", " play with"]}
+{"head": "hunt", "relation": "ObjectUse", "tails": [" hunt deer", " kill a deer", " hunt for food"]}
+{"head": "hunt", "relation": "AtLocation", "tails": [" hunting grounds", " hunter's den", " hunting ground"]}
+{"head": "hunt", "relation": "CapableOf", "tails": [" hunt deer", " hunt animals", " kill animal"]}
+{"head": "hunt", "relation": "HasProperty", "tails": [" found in woods", " found in forest", " found in jungle"]}
+{"head": "hunt", "relation": "MadeUpOf", "tails": [" hunt deer", " hunt for deer", " hunt for food"]}
+{"head": "hunt", "relation": "NotDesires", "tails": [" hunt deer", " hunt for food", " hunt animals"]}
+{"head": "hunt", "relation": "Desires", "tails": [" hunt deer", " hunt for food", " hunt animals"]}
+{"head": "hide eggs", "relation": "HinderedBy", "tails": [" hide eggs", " hide in the woods", " find eggs"]}
+{"head": "hide eggs", "relation": "isBefore", "tails": [" hunt for eggs", " hide in the woods", " hunt for"]}
+{"head": "hide eggs", "relation": "isAfter", "tails": [" hunt for eggs", " hide in the woods", " hunt for"]}
+{"head": "hide eggs", "relation": "HasSubEvent", "tails": [" find eggs", " put in basket", " hide"]}
+{"head": "hide eggs", "relation": "Causes", "tails": [" have fun", " hide in the woods", " have fun with kids"]}
+{"head": "hide eggs", "relation": "xReason", "tails": [" have fun", " hide in the woods", " have fun with"]}
+{"head": "green grass", "relation": "ObjectUse", "tails": [" grow in the garden", " grow in the yard", " grow in a garden"]}
+{"head": "green grass", "relation": "AtLocation", "tails": [" grassy meadow", " grassy field", " grassy hill"]}
+{"head": "green grass", "relation": "CapableOf", "tails": [" grow in garden", " grow flowers", " grassy flowers"]}
+{"head": "green grass", "relation": "HasProperty", "tails": [" green", " green color", " green grass"]}
+{"head": "green grass", "relation": "MadeUpOf", "tails": [" grass seed", " grass", " grasses"]}
+{"head": "green grass", "relation": "NotDesires", "tails": [" green grass", " green color", " grassy weeds"]}
+{"head": "green grass", "relation": "Desires", "tails": [" green grass", " green color", " grassy flowers"]}
+{"head": "grass", "relation": "ObjectUse", "tails": [" grow in the garden", " grow in the yard", " grass seed"]}
+{"head": "grass", "relation": "AtLocation", "tails": [" grassy meadow", " grassy field", " grassland"]}
+{"head": "grass", "relation": "CapableOf", "tails": [" grow in garden", " grow in field", " grow on lawn"]}
+{"head": "grass", "relation": "HasProperty", "tails": [" grasses", " grass", " grass seed"]}
+{"head": "grass", "relation": "MadeUpOf", "tails": [" grass seed", " grasses", " grass"]}
+{"head": "grass", "relation": "NotDesires", "tails": [" grasshoppers", " grasshopper", " grass"]}
+{"head": "grass", "relation": "Desires", "tails": [" grasses", " grass seeds", " grassy soil"]}
+{"head": "eggs", "relation": "ObjectUse", "tails": [" feed to the chickens", " put in a bowl", " feed to the birds"]}
+{"head": "eggs", "relation": "AtLocation", "tails": [" egg carton", " eggs", " jar"]}
+{"head": "eggs", "relation": "CapableOf", "tails": [" put in bowl", " put in a bowl", " make eggs"]}
+{"head": "eggs", "relation": "HasProperty", "tails": [" eggs", " egg yolk", " boiled"]}
+{"head": "eggs", "relation": "MadeUpOf", "tails": [" egg yolk", " eggs", " eggshell"]}
+{"head": "eggs", "relation": "NotDesires", "tails": [" eggs", " eggs in water", " eggs to hatch"]}
+{"head": "eggs", "relation": "Desires", "tails": [" egg yolk", " eggs", " eggs to grow"]}
+{"head": "egg hunt", "relation": "ObjectUse", "tails": [" hunt for eggs", " hide in the woods", " find eggs"]}
+{"head": "egg hunt", "relation": "AtLocation", "tails": [" treasure hunt", " treasure chest", " school yard"]}
+{"head": "egg hunt", "relation": "CapableOf", "tails": [" hunt for eggs", " find eggs", " hide eggs"]}
+{"head": "egg hunt", "relation": "HasProperty", "tails": [" found in woods", " found in garden", " found in yard"]}
+{"head": "egg hunt", "relation": "MadeUpOf", "tails": [" eggs", " hunt for eggs", " eggshell"]}
+{"head": "egg hunt", "relation": "NotDesires", "tails": [" hunt for eggs", " find eggs", " hide eggs"]}
+{"head": "egg hunt", "relation": "Desires", "tails": [" hunt for eggs", " find eggs", " hunt for"]}
+{"head": "egg", "relation": "ObjectUse", "tails": [" egg yolk", " eggs", " make eggs"]}
+{"head": "egg", "relation": "AtLocation", "tails": [" eggs", " egg carton", " egg yolk"]}
+{"head": "egg", "relation": "CapableOf", "tails": [" eggs to hatch", " make eggs", " make eggshell"]}
+{"head": "egg", "relation": "HasProperty", "tails": [" eggs", " egg yolk", " found in egg carton"]}
+{"head": "egg", "relation": "MadeUpOf", "tails": [" egg yolk", " eggshell", " eggs"]}
+{"head": "egg", "relation": "NotDesires", "tails": [" eggs to hatch", " eggs", " eggs to be eaten"]}
+{"head": "egg", "relation": "Desires", "tails": [" eggs", " egg yolk", " eggs to hatch"]}
+{"head": "candy filled eggs", "relation": "ObjectUse", "tails": [" eat for breakfast", " make a cake", " use as a weapon"]}
+{"head": "candy filled eggs", "relation": "AtLocation", "tails": [" candy store", " candy shop", " candy bar"]}
+{"head": "candy filled eggs", "relation": "CapableOf", "tails": [" eat", " put in the fridge", " put on the table"]}
+{"head": "candy filled eggs", "relation": "HasProperty", "tails": [" made from sugar", " eaten with candy", " made with sugar"]}
+{"head": "candy filled eggs", "relation": "MadeUpOf", "tails": [" egg yolk", " eggs", " candy"]}
+{"head": "candy filled eggs", "relation": "NotDesires", "tails": [" eat for breakfast", " eat", " eat at breakfast"]}
+{"head": "candy filled eggs", "relation": "Desires", "tails": [" eat for breakfast", " to eat for breakfast", " to eat"]}
+{"head": "candy", "relation": "ObjectUse", "tails": [" give as a gift", " give as a treat", " candy"]}
+{"head": "candy", "relation": "AtLocation", "tails": [" candy bar", " candy store", " candy shop"]}
+{"head": "candy", "relation": "CapableOf", "tails": [" eat", " give to kids", " give to children"]}
+{"head": "candy", "relation": "HasProperty", "tails": [" candy", " candy bars", " candy bar"]}
+{"head": "candy", "relation": "MadeUpOf", "tails": [" candy", " candy bar", " candies"]}
+{"head": "candy", "relation": "NotDesires", "tails": [" candy", " candy bar", " candy bars"]}
+{"head": "candy", "relation": "Desires", "tails": [" candy", " candy bars", " candy bar"]}
+{"head": "The sun was high in the sky when the egg hunt started.", "relation": "xAttr", "tails": [" fun", " happy", " energetic"]}
+{"head": "The sun was high in the sky when the egg hunt started.", "relation": "xWant", "tails": [" to find the eggs", " to eat the eggs", " to find the eggs."]}
+{"head": "The sun was high in the sky when the egg hunt started.", "relation": "xNeed", "tails": [" to go to the park", " to have a good time", " to go outside"]}
+{"head": "The sun was high in the sky when the egg hunt started.", "relation": "xEffect", "tails": [" the kids run around the yard looking for the eggs", " the kids run around the yard looking for the eggs.", " the kids get to play with the eggs"]}
+{"head": "The sun was high in the sky when the egg hunt started.", "relation": "HinderedBy", "tails": [" the kids to have a good time", " the kids to have fun", " the kids to have a good time."]}
+{"head": "The sun was high in the sky when the egg hunt started.", "relation": "oWant", "tails": [" to find the eggs", " to have a good time", " to have fun"]}
+{"head": "The sun was high in the sky when the egg hunt started.", "relation": "xReact", "tails": [" happy", " excited", " happy."]}
+{"head": "The sun was high in the sky when the egg hunt started.", "relation": "oEffect", "tails": [" the kids to find the eggs", " the kids to find the eggs.", " the kids to have fun"]}
+{"head": "The sun was high in the sky when the egg hunt started.", "relation": "xIntent", "tails": [" the kids to have fun", " to have fun", " the kids to find the eggs"]}
+{"head": "The sun was high in the sky when the egg hunt started.", "relation": "oReact", "tails": [" none", " happy", " excited"]}
+{"head": "The sun was high in the sky when the egg hunt started.", "relation": "isBefore", "tails": [" the kids to find the eggs", " the kids to have fun", " the kids to find the eggs."]}
+{"head": "The sun was high in the sky when the egg hunt started.", "relation": "isAfter", "tails": [" the kids to find the eggs", " the kids to have a good time", " the kids to have fun"]}
+{"head": "The sun was high in the sky when the egg hunt started.", "relation": "HasSubEvent", "tails": [" the kids to have a good time", " the kids to find the eggs", " have fun"]}
+{"head": "The sun was high in the sky when the egg hunt started.", "relation": "Causes", "tails": [" the kids to have a good time", " the kids to have fun", " the kids to find the eggs"]}
+{"head": "The sun was high in the sky when the egg hunt started.", "relation": "xReason", "tails": [" the kids to have a good time", " the kids to find the eggs", " the kids to have fun"]}
+{"head": "Susan was excited to plan her first egg hunt in the South.", "relation": "xAttr", "tails": [" excited", " adventurous", " fun"]}
+{"head": "Susan was excited to plan her first egg hunt in the South.", "relation": "xWant", "tails": [" to have a good time", " to have fun", " to go to the park"]}
+{"head": "Susan was excited to plan her first egg hunt in the South.", "relation": "xNeed", "tails": [" to have a plan", " to get a map of the area", " to have a good time"]}
+{"head": "Susan was excited to plan her first egg hunt in the South.", "relation": "xEffect", "tails": [" they get to go to the park", " they get to see all the animals", " they get to go to the park."]}
+{"head": "Susan was excited to plan her first egg hunt in the South.", "relation": "HinderedBy", "tails": [" Susan's parents told her not to go.", " Susan's parents told her not to.", " Susan's parents told her not to worry."]}
+{"head": "Susan was excited to plan her first egg hunt in the South.", "relation": "oWant", "tails": [" to have a good time", " to have fun", " to go to the park"]}
+{"head": "Susan was excited to plan her first egg hunt in the South.", "relation": "xReact", "tails": [" excited", " happy", " excited."]}
+{"head": "Susan was excited to plan her first egg hunt in the South.", "relation": "oEffect", "tails": [" none", " they have fun with their friends", " they get to go to the park"]}
+{"head": "Susan was excited to plan her first egg hunt in the South.", "relation": "xIntent", "tails": [" to have fun", " to have a good time", " to be a part of something"]}
+{"head": "Susan was excited to plan her first egg hunt in the South.", "relation": "oReact", "tails": [" none", " excited", " happy"]}
+{"head": "Susan was excited to plan her first egg hunt in the South.", "relation": "isBefore", "tails": [" Susan buys a ticket to go to the egg hunt", " Susan buys a ticket to go to the egg hunt.", " Susan buys a ticket to the egg hunt"]}
+{"head": "Susan was excited to plan her first egg hunt in the South.", "relation": "isAfter", "tails": [" PersonX invites PersonX to go to the egg hunt.", " PersonX invites PersonX to go with them.", " PersonX invites PersonX to go to the egg hunt"]}
+{"head": "Susan was excited to plan her first egg hunt in the South.", "relation": "HasSubEvent", "tails": [" have a good time", " have fun", " have fun with friends"]}
+{"head": "Susan was excited to plan her first egg hunt in the South.", "relation": "Causes", "tails": [" they go to the park", " they go to the store to buy candy", " they go to the store to buy eggs"]}
+{"head": "Susan was excited to plan her first egg hunt in the South.", "relation": "xReason", "tails": [" have a good time", " have fun", " have fun with friends"]}
+{"head": "Susan saw that all the candy inside had melted in the sun.", "relation": "xAttr", "tails": [" careless", " sad", " curious"]}
+{"head": "Susan saw that all the candy inside had melted in the sun.", "relation": "xWant", "tails": [" to put the candy in the fridge", " to put the candy in the refrigerator", " to throw the candy away"]}
+{"head": "Susan saw that all the candy inside had melted in the sun.", "relation": "xNeed", "tails": [" to open the box", " to open the package", " to open the candy"]}
+{"head": "Susan saw that all the candy inside had melted in the sun.", "relation": "xEffect", "tails": [" gets sunburned", " gets a sunburn", " gets sunburn"]}
+{"head": "Susan saw that all the candy inside had melted in the sun.", "relation": "HinderedBy", "tails": [" The candy is too hot to melt in the sun.", " The candy is too hot to melt.", " The candy is too sweet."]}
+{"head": "Susan saw that all the candy inside had melted in the sun.", "relation": "oWant", "tails": [" none", " to eat the candy", " to eat the candy."]}
+{"head": "Susan saw that all the candy inside had melted in the sun.", "relation": "xReact", "tails": [" sad", " sad.", " happy"]}
+{"head": "Susan saw that all the candy inside had melted in the sun.", "relation": "oEffect", "tails": [" none", " the candy gets melted", " the candy is melted"]}
+{"head": "Susan saw that all the candy inside had melted in the sun.", "relation": "xIntent", "tails": [" none", " to eat the candy", " to eat the candy."]}
+{"head": "Susan saw that all the candy inside had melted in the sun.", "relation": "oReact", "tails": [" none", " sad", " happy"]}
+{"head": "Susan saw that all the candy inside had melted in the sun.", "relation": "isBefore", "tails": [" Susan puts the candy back in the box", " Susan puts the candy back in the bag", " Susan puts the candy back in the box."]}
+{"head": "Susan saw that all the candy inside had melted in the sun.", "relation": "isAfter", "tails": [" the candy to melt", " Susan opens the box of candy", " Susan opens the box of candies"]}
+{"head": "Susan saw that all the candy inside had melted in the sun.", "relation": "HasSubEvent", "tails": [" put the candy back in the box", " put the candy back in the bag", " eat the candy"]}
+{"head": "Susan saw that all the candy inside had melted in the sun.", "relation": "Causes", "tails": [" Susan eats a lot of candy.", " Susan eats a piece of candy.", " Susan eats a piece of candy"]}
+{"head": "Susan saw that all the candy inside had melted in the sun.", "relation": "xReason", "tails": [" none", " they put the candy in a bag", " they put the candy in the fridge"]}
+{"head": "Susan", "relation": "ObjectUse", "tails": [" Susan", " Susan's mother", " Susan's husband"]}
+{"head": "Susan", "relation": "AtLocation", "tails": [" house", " home", " apartment"]}
+{"head": "Susan", "relation": "CapableOf", "tails": [" take shower", " get married", " have a baby"]}
+{"head": "Susan", "relation": "HasProperty", "tails": [" Susan", " none", " Susan's mother"]}
+{"head": "Susan", "relation": "MadeUpOf", "tails": [" Susan", " Susan's hand", " Susan's hands"]}
+{"head": "Susan", "relation": "NotDesires", "tails": [" Susan's husband is cheating on her.", " Susan's husband is cheating on her", " Susan's husband is cheating on her with someone else"]}
+{"head": "Susan", "relation": "Desires", "tails": [" have a good time", " have a good life", " Susan"]}
+{"head": "South", "relation": "ObjectUse", "tails": [" south of the border", " south of the equator", " south of the river"]}
+{"head": "South", "relation": "AtLocation", "tails": [" south", " country", " north"]}
+{"head": "South", "relation": "CapableOf", "tails": [" travel to other countries", " travel by train", " travel to other places"]}
+{"head": "South", "relation": "HasProperty", "tails": [" south america", " one of two continents", " south"]}
+{"head": "South", "relation": "MadeUpOf", "tails": [" south", " north", " south pole"]}
+{"head": "South", "relation": "NotDesires", "tails": [" south", " travel to other country", " travel to other countries"]}
+{"head": "South", "relation": "Desires", "tails": [" south", " north", " travel to"]}
+{"head": "Soon, kids were opening eggs and bursting into tears.", "relation": "xAttr", "tails": [" sad", " upset", " emotional"]}
+{"head": "Soon, kids were opening eggs and bursting into tears.", "relation": "xWant", "tails": [" to cry", " to hide the eggs", " eat the eggs"]}
+{"head": "Soon, kids were opening eggs and bursting into tears.", "relation": "xNeed", "tails": [" to get the eggs out of the box", " to get the eggs out of the basket", " to get the eggs out of the box."]}
+{"head": "Soon, kids were opening eggs and bursting into tears.", "relation": "xEffect", "tails": [" none", " get hurt", " gets hurt"]}
+{"head": "Soon, kids were opening eggs and bursting into tears.", "relation": "HinderedBy", "tails": [" soon the kids were crying.", " soon the kids were crying", " soon the kids will be crying."]}
+{"head": "Soon, kids were opening eggs and bursting into tears.", "relation": "oWant", "tails": [" to cry", " to hide the eggs", " none"]}
+{"head": "Soon, kids were opening eggs and bursting into tears.", "relation": "xReact", "tails": [" sad", " happy", " sad."]}
+{"head": "Soon, kids were opening eggs and bursting into tears.", "relation": "oEffect", "tails": [" none", " they cry", " they are sad"]}
+{"head": "Soon, kids were opening eggs and bursting into tears.", "relation": "xIntent", "tails": [" none", " to be sad", " to be happy"]}
+{"head": "Soon, kids were opening eggs and bursting into tears.", "relation": "oReact", "tails": [" none", " sad", " happy"]}
+{"head": "Soon, kids were opening eggs and bursting into tears.", "relation": "isBefore", "tails": [" soon the kids were crying", " soon the kids were crying.", " soon they were crying"]}
+{"head": "Soon, kids were opening eggs and bursting into tears.", "relation": "isAfter", "tails": [" soon the kids were crying", " soon the kids were crying.", " soon the kids are crying"]}
+{"head": "Soon, kids were opening eggs and bursting into tears.", "relation": "HasSubEvent", "tails": [" eat the eggs", " eat the egg", " eat the eggs."]}
+{"head": "Soon, kids were opening eggs and bursting into tears.", "relation": "Causes", "tails": [" soon the kids were crying.", " soon the kids were crying", " soon the kids will be crying."]}
+{"head": "Soon, kids were opening eggs and bursting into tears.", "relation": "xReason", "tails": [" soon the kids were crying", " soon the kids were crying.", " soon the kids are crying"]}
+{"head": "She found it fun to hide the candy filled eggs in green grass.", "relation": "xAttr", "tails": [" fun", " playful", " fun loving"]}
+{"head": "She found it fun to hide the candy filled eggs in green grass.", "relation": "xWant", "tails": [" to eat the candy", " to hide more eggs", " to eat the candy."]}
+{"head": "She found it fun to hide the candy filled eggs in green grass.", "relation": "xNeed", "tails": [" to go to the park", " to find the eggs", " to go to the park."]}
+{"head": "She found it fun to hide the candy filled eggs in green grass.", "relation": "xEffect", "tails": [" she gets candy from the eggs.", " she gets candy from the eggs", " she gets candy from the grass"]}
+{"head": "She found it fun to hide the candy filled eggs in green grass.", "relation": "HinderedBy", "tails": [" she found the eggs in the grass.", " she found the eggs in the grass", " she found the eggs in the grass and hid them"]}
+{"head": "She found it fun to hide the candy filled eggs in green grass.", "relation": "oWant", "tails": [" to eat the candy", " to find the eggs", " to eat the candy."]}
+{"head": "She found it fun to hide the candy filled eggs in green grass.", "relation": "xReact", "tails": [" happy", " excited", " fun"]}
+{"head": "She found it fun to hide the candy filled eggs in green grass.", "relation": "oEffect", "tails": [" none", " get candy", " get candy from"]}
+{"head": "She found it fun to hide the candy filled eggs in green grass.", "relation": "xIntent", "tails": [" to have fun", " to have fun with her friends", " to have fun with her friends."]}
+{"head": "She found it fun to hide the candy filled eggs in green grass.", "relation": "oReact", "tails": [" none", " happy", " happy."]}
+{"head": "She found it fun to hide the candy filled eggs in green grass.", "relation": "isBefore", "tails": [" she gets candy from the grass", " she gets candy from the tree", " she gets candy from the candy machine"]}
+{"head": "She found it fun to hide the candy filled eggs in green grass.", "relation": "isAfter", "tails": [" she got candy for her dog", " she got candy for her dog.", " she got candy from her friend"]}
+{"head": "She found it fun to hide the candy filled eggs in green grass.", "relation": "HasSubEvent", "tails": [" hide the eggs", " hide the eggs in the grass", " hide the eggs in the grass."]}
+{"head": "She found it fun to hide the candy filled eggs in green grass.", "relation": "Causes", "tails": [" happy", " fun", " she got candy"]}
+{"head": "She found it fun to hide the candy filled eggs in green grass.", "relation": "xReason", "tails": [" hide the eggs in the grass", " hide the candy in the grass", " hide the eggs"]}

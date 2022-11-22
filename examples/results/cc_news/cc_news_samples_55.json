@@ -1,0 +1,83 @@
+{"head": "year", "relation": "ObjectUse", "tails": [" have a birthday", " get a promotion", " have a good time"]}
+{"head": "year", "relation": "AtLocation", "tails": [" year", " office building", " school"]}
+{"head": "year", "relation": "CapableOf", "tails": [" pay bills on time", " pay rent", " pay taxes"]}
+{"head": "year", "relation": "HasProperty", "tails": [" year", " one year", " many years"]}
+{"head": "year", "relation": "MadeUpOf", "tails": [" year", " number of years", " number of days"]}
+{"head": "year", "relation": "NotDesires", "tails": [" year", " year to end", " have to pay bills"]}
+{"head": "year", "relation": "Desires", "tails": [" year", " year of life", " year to live"]}
+{"head": "to show", "relation": "HinderedBy", "tails": [" to show", " to show ", " to show something"]}
+{"head": "to show", "relation": "isBefore", "tails": [" to show", " to show off", " to show "]}
+{"head": "to show", "relation": "isAfter", "tails": [" to show", " to show off", " to show to others"]}
+{"head": "to show", "relation": "HasSubEvent", "tails": [" to show", " to show ", " to show  to others"]}
+{"head": "to show", "relation": "Causes", "tails": [" to show", " to show off", " to show something"]}
+{"head": "to show", "relation": "xReason", "tails": [" to show", " to show off", " to show something"]}
+{"head": "show events", "relation": "HinderedBy", "tails": [" perform at", " show", " show people"]}
+{"head": "show events", "relation": "isBefore", "tails": [" have fun", " show", " show off"]}
+{"head": "show events", "relation": "isAfter", "tails": [" show", " entertainment", " show business"]}
+{"head": "show events", "relation": "HasSubEvent", "tails": [" have fun", " have fun with friends", " show off talent"]}
+{"head": "show events", "relation": "Causes", "tails": [" have a good time", " show", " have a good time at"]}
+{"head": "show events", "relation": "xReason", "tails": [" show", " have good time", " have fun with friends"]}
+{"head": "short film", "relation": "ObjectUse", "tails": [" make into a movie", " make a movie", " make into a book"]}
+{"head": "short film", "relation": "AtLocation", "tails": [" movie theater", " movie theatre", " movie"]}
+{"head": "short film", "relation": "CapableOf", "tails": [" make into a short film", " watch on tv", " make into a movie"]}
+{"head": "short film", "relation": "HasProperty", "tails": [" short", " found in movie theater", " short film"]}
+{"head": "short film", "relation": "MadeUpOf", "tails": [" short film", " short story", " short"]}
+{"head": "short film", "relation": "NotDesires", "tails": [" short film", " make a movie", " make money"]}
+{"head": "short film", "relation": "Desires", "tails": [" make a movie", " watch", " make money"]}
+{"head": "key events", "relation": "ObjectUse", "tails": [" have a good time", " have a good time at", " have a party"]}
+{"head": "key events", "relation": "AtLocation", "tails": [" theater", " movie", " event"]}
+{"head": "key events", "relation": "CapableOf", "tails": [" get married", " get excited about", " remember"]}
+{"head": "key events", "relation": "HasProperty", "tails": [" important", " important to history", " important to society"]}
+{"head": "key events", "relation": "MadeUpOf", "tails": [" key event", " key events", " key"]}
+{"head": "key events", "relation": "NotDesires", "tails": [" get arrested", " make a speech", " make a movie about"]}
+{"head": "key events", "relation": "Desires", "tails": [" have a good time", " have a good time at", " make a good impression"]}
+{"head": "film", "relation": "ObjectUse", "tails": [" make a collage", " film a movie", " make a movie"]}
+{"head": "film", "relation": "AtLocation", "tails": [" movie theater", " movie theatre", " movie"]}
+{"head": "film", "relation": "CapableOf", "tails": [" watch movie", " film movie", " see movie"]}
+{"head": "film", "relation": "HasProperty", "tails": [" found in movie theater", " found in museum", " found in movie"]}
+{"head": "film", "relation": "MadeUpOf", "tails": [" film", " filmstrip", " film projector"]}
+{"head": "film", "relation": "NotDesires", "tails": [" make into movie", " film", " make movie"]}
+{"head": "film", "relation": "Desires", "tails": [" watch on tv", " watch movie", " film"]}
+{"head": "events", "relation": "ObjectUse", "tails": [" have a good time", " have a good time at", " have a party"]}
+{"head": "events", "relation": "AtLocation", "tails": [" theater", " event", " meeting"]}
+{"head": "events", "relation": "CapableOf", "tails": [" have fun", " have fun with friends", " get drunk at"]}
+{"head": "events", "relation": "HasProperty", "tails": [" important to society", " many people", " events"]}
+{"head": "events", "relation": "MadeUpOf", "tails": [" events", " event", " event planner"]}
+{"head": "events", "relation": "NotDesires", "tails": [" have to go to", " have fun", " people to get hurt"]}
+{"head": "events", "relation": "Desires", "tails": [" have fun", " have a good time", " have fun with friends"]}
+{"head": "arrest", "relation": "ObjectUse", "tails": [" arrest a criminal", " arrest someone for a crime", " arrest a person for a crime"]}
+{"head": "arrest", "relation": "AtLocation", "tails": [" jail", " police station", " jail cell"]}
+{"head": "arrest", "relation": "CapableOf", "tails": [" arrest person", " arrest suspect", " arrest criminal"]}
+{"head": "arrest", "relation": "HasProperty", "tails": [" arrested", " arrested by police", " arrested for criminal activity"]}
+{"head": "arrest", "relation": "MadeUpOf", "tails": [" arrest warrant", " jail cell", " arrest"]}
+{"head": "arrest", "relation": "NotDesires", "tails": [" arrest", " jail time", " jail"]}
+{"head": "arrest", "relation": "Desires", "tails": [" arrest", " arrest person", " arrest for crime"]}
+{"head": "The short film by Lucozade Sport shows key events such as the 27-year-old's arrest in 2009", "relation": "xAttr", "tails": [" arrested", " criminal", " violent"]}
+{"head": "The short film by Lucozade Sport shows key events such as the 27-year-old's arrest in 2009", "relation": "xWant", "tails": [" to make a documentary about the arrest", " to make a documentary about the event", " to make a documentary about it"]}
+{"head": "The short film by Lucozade Sport shows key events such as the 27-year-old's arrest in 2009", "relation": "xNeed", "tails": [" to make a film about it", " to make a film about the arrest", " to make a movie about it"]}
+{"head": "The short film by Lucozade Sport shows key events such as the 27-year-old's arrest in 2009", "relation": "xEffect", "tails": [" the film is shown to the public", " the film is viewed by millions", " the film is shown to the audience"]}
+{"head": "The short film by Lucozade Sport shows key events such as the 27-year-old's arrest in 2009", "relation": "HinderedBy", "tails": [" The film is too long.", " The film is too long to be shown.", " The film is not good enough."]}
+{"head": "The short film by Lucozade Sport shows key events such as the 27-year-old's arrest in 2009", "relation": "oWant", "tails": [" to make a documentary about the event", " to make a documentary about the arrest", " to make a documentary about it"]}
+{"head": "The short film by Lucozade Sport shows key events such as the 27-year-old's arrest in 2009", "relation": "xReact", "tails": [" happy", " proud", " happy."]}
+{"head": "The short film by Lucozade Sport shows key events such as the 27-year-old's arrest in 2009", "relation": "oEffect", "tails": [" none", " get arrested", " get arrested again"]}
+{"head": "The short film by Lucozade Sport shows key events such as the 27-year-old's arrest in 2009", "relation": "xIntent", "tails": [" to be informative", " to make a documentary", " to make a point"]}
+{"head": "The short film by Lucozade Sport shows key events such as the 27-year-old's arrest in 2009", "relation": "oReact", "tails": [" none", " happy", " proud"]}
+{"head": "The short film by Lucozade Sport shows key events such as the 27-year-old's arrest in 2009", "relation": "isBefore", "tails": [" PersonX is arrested by the police.", " PersonX is arrested by the police", " the film is shown to the public"]}
+{"head": "The short film by Lucozade Sport shows key events such as the 27-year-old's arrest in 2009", "relation": "isAfter", "tails": [" the arrest of a criminal", " the police to arrest the person", " the arrest of the person"]}
+{"head": "The short film by Lucozade Sport shows key events such as the 27-year-old's arrest in 2009", "relation": "HasSubEvent", "tails": [" get arrested", " get arrested again", " get arrested for it"]}
+{"head": "The short film by Lucozade Sport shows key events such as the 27-year-old's arrest in 2009", "relation": "Causes", "tails": [" arrested", " the arrest of a criminal", " the arrest of the person"]}
+{"head": "The short film by Lucozade Sport shows key events such as the 27-year-old's arrest in 2009", "relation": "xReason", "tails": [" the film is shown to the public", " the film is shown to the audience", " the film is shown in a movie theater"]}
+{"head": "Lucozade Sport", "relation": "ObjectUse", "tails": [" drink on a hot day", " drink while running", " drink on a hot summer day"]}
+{"head": "Lucozade Sport", "relation": "AtLocation", "tails": [" sports drink", " beer", " water fountain"]}
+{"head": "Lucozade Sport", "relation": "CapableOf", "tails": [" drink", " drink while running", " drink while playing"]}
+{"head": "Lucozade Sport", "relation": "HasProperty", "tails": [" hydrated", " made from grapes", " made from grapeseed"]}
+{"head": "Lucozade Sport", "relation": "MadeUpOf", "tails": [" hydrated", " hydration", " water"]}
+{"head": "Lucozade Sport", "relation": "NotDesires", "tails": [" drink to stay hydrated", " hydrated", " drink to stay hydrated."]}
+{"head": "Lucozade Sport", "relation": "Desires", "tails": [" to hydrate", " hydrated", " to hydrate themselves"]}
+{"head": "27 year old arrest", "relation": "ObjectUse", "tails": [" arrest someone for a crime", " arrest a criminal", " arrest a criminal for a crime"]}
+{"head": "27 year old arrest", "relation": "AtLocation", "tails": [" jail", " jail cell", " police station"]}
+{"head": "27 year old arrest", "relation": "CapableOf", "tails": [" get arrested", " arrest person", " arrest criminal"]}
+{"head": "27 year old arrest", "relation": "HasProperty", "tails": [" arrested", " arrested by police", " arrested for a crime"]}
+{"head": "27 year old arrest", "relation": "MadeUpOf", "tails": [" arrested", " arrest warrant", " arrest"]}
+{"head": "27 year old arrest", "relation": "NotDesires", "tails": [" arrested", " arrest", " get arrested"]}
+{"head": "27 year old arrest", "relation": "Desires", "tails": [" none", " to be arrested", " arrest"]}

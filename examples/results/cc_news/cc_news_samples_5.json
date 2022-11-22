@@ -1,0 +1,103 @@
+{"head": "toda", "relation": "ObjectUse", "tails": [" use as a weapon", " use as a paperweight", " use as toilet paper"]}
+{"head": "toda", "relation": "AtLocation", "tails": [" tatami", " tatoo", " tatami mats"]}
+{"head": "toda", "relation": "CapableOf", "tails": [" use as a weapon", " use as toilet paper", " use toilet paper"]}
+{"head": "toda", "relation": "HasProperty", "tails": [" found in Japan", " one of the two sexes", " one of the four elements"]}
+{"head": "toda", "relation": "MadeUpOf", "tails": [" tatoo", " tibetan", " tatami"]}
+{"head": "toda", "relation": "NotDesires", "tails": [" have to go to the bathroom", " have to go to the doctor", " have to go to bathroom"]}
+{"head": "toda", "relation": "Desires", "tails": [" have a good time", " have a good life", " have a good time with"]}
+{"head": "to trade", "relation": "HinderedBy", "tails": [" to trade", " to trade ", " to trade  to trade "]}
+{"head": "to trade", "relation": "isBefore", "tails": [" to trade", " to trade for goods and services", " to trade with other people"]}
+{"head": "to trade", "relation": "isAfter", "tails": [" buy and sell", " buy and sell things", " to trade with other people"]}
+{"head": "to trade", "relation": "HasSubEvent", "tails": [" to trade", " to trade for goods", " trade goods for goods"]}
+{"head": "to trade", "relation": "Causes", "tails": [" to trade", " trade goods for goods", " to trade for money"]}
+{"head": "to trade", "relation": "xReason", "tails": [" to trade", " buy and sell", " to make money"]}
+{"head": "to announce", "relation": "HinderedBy", "tails": [" to announce", " to announce ", " to announce something"]}
+{"head": "to announce", "relation": "isBefore", "tails": [" to announce", " to announce something", " to announce the news"]}
+{"head": "to announce", "relation": "isAfter", "tails": [" announcement", " announce something", " to announce something"]}
+{"head": "to announce", "relation": "HasSubEvent", "tails": [" to announce", " make announcement", " to announce something"]}
+{"head": "to announce", "relation": "Causes", "tails": [" to announce", " to announce something", " announce something"]}
+{"head": "to announce", "relation": "xReason", "tails": [" announce something", " to announce something", " to announce"]}
+{"head": "publicly traded cannabis company", "relation": "ObjectUse", "tails": [" make a lot of money", " make money", " make a lot of money."]}
+{"head": "publicly traded cannabis company", "relation": "AtLocation", "tails": [" stock market", " stock exchange", " stock market index"]}
+{"head": "publicly traded cannabis company", "relation": "CapableOf", "tails": [" make money", " make money from cannabis", " sell to investors"]}
+{"head": "publicly traded cannabis company", "relation": "HasProperty", "tails": [" publically traded", " good for the environment", " good for business"]}
+{"head": "publicly traded cannabis company", "relation": "MadeUpOf", "tails": [" public company", " stock price", " stock market"]}
+{"head": "publicly traded cannabis company", "relation": "NotDesires", "tails": [" make money", " public company", " make money from cannabis"]}
+{"head": "publicly traded cannabis company", "relation": "Desires", "tails": [" make money", " to make money", " have a good reputation"]}
+{"head": "company", "relation": "ObjectUse", "tails": [" work for", " make money", " work at"]}
+{"head": "company", "relation": "AtLocation", "tails": [" office building", " company", " business"]}
+{"head": "company", "relation": "CapableOf", "tails": [" work for", " work in", " work at"]}
+{"head": "company", "relation": "HasProperty", "tails": [" company", " company name", " business"]}
+{"head": "company", "relation": "MadeUpOf", "tails": [" company name", " company logo", " stock market"]}
+{"head": "company", "relation": "NotDesires", "tails": [" company to go out of business", " company to go bankrupt", " company to fail"]}
+{"head": "company", "relation": "Desires", "tails": [" work for", " company", " business"]}
+{"head": "cannabis", "relation": "ObjectUse", "tails": [" use as medicine", " grow in the garden", " use as a weapon"]}
+{"head": "cannabis", "relation": "AtLocation", "tails": [" pot shop", " drugstore", " pot shops"]}
+{"head": "cannabis", "relation": "CapableOf", "tails": [" use to get high", " grow in garden", " smoke"]}
+{"head": "cannabis", "relation": "HasProperty", "tails": [" cannabis oil", " smoked", " marijuana"]}
+{"head": "cannabis", "relation": "MadeUpOf", "tails": [" cannabis oil", " marijuana plant", " marijuana leaf"]}
+{"head": "cannabis", "relation": "NotDesires", "tails": [" grow in garden", " grow in the garden", " smoke pot"]}
+{"head": "cannabis", "relation": "Desires", "tails": [" have a good time", " have a good night's sleep", " have a good night's rest"]}
+{"head": "announce toda", "relation": "HinderedBy", "tails": [" announce toda", " announce to the world", " announce to the people"]}
+{"head": "announce toda", "relation": "isBefore", "tails": [" announce toda", " announce to the people", " announce to the world"]}
+{"head": "announce toda", "relation": "isAfter", "tails": [" announce toda", " announce to the people", " announce to the public"]}
+{"head": "announce toda", "relation": "HasSubEvent", "tails": [" make announcement", " announce to the people", " announce to the public"]}
+{"head": "announce toda", "relation": "Causes", "tails": [" announce something", " announce to the people", " announce to the world"]}
+{"head": "announce toda", "relation": "xReason", "tails": [" make announcement", " announce to the people", " announce to the world"]}
+{"head": "United States", "relation": "ObjectUse", "tails": [" United States of America", " United States", " United States of America."]}
+{"head": "United States", "relation": "AtLocation", "tails": [" country", " United States of America", " United States"]}
+{"head": "United States", "relation": "CapableOf", "tails": [" travel around world", " travel to different countries", " travel to many places"]}
+{"head": "United States", "relation": "HasProperty", "tails": [" United States of America", " United States", " United States of America."]}
+{"head": "United States", "relation": "MadeUpOf", "tails": [" United States of America", " United States", " United States of America."]}
+{"head": "United States", "relation": "NotDesires", "tails": [" United States of America", " United States", " United States of America."]}
+{"head": "United States", "relation": "Desires", "tails": [" United States of America", " United States of America.", " United States"]}
+{"head": "SAN DIEGO, July 3, 2018 /PRNewswire/ --\u00a0Medical Marijuana, Inc. (OTC: MJNA), the first publicly traded cannabis company in the United States, announced toda...", "relation": "xAttr", "tails": [" responsible", " excited", " medical"]}
+{"head": "SAN DIEGO, July 3, 2018 /PRNewswire/ --\u00a0Medical Marijuana, Inc. (OTC: MJNA), the first publicly traded cannabis company in the United States, announced toda...", "relation": "xWant", "tails": [" to make money", " to start a business", " to start a new business"]}
+{"head": "SAN DIEGO, July 3, 2018 /PRNewswire/ --\u00a0Medical Marijuana, Inc. (OTC: MJNA), the first publicly traded cannabis company in the United States, announced toda...", "relation": "xNeed", "tails": [" to file a business plan", " to file a business plan with the SEC", " to have a business plan"]}
+{"head": "SAN DIEGO, July 3, 2018 /PRNewswire/ --\u00a0Medical Marijuana, Inc. (OTC: MJNA), the first publicly traded cannabis company in the United States, announced toda...", "relation": "xEffect", "tails": [" none", " get a job", " get a license"]}
+{"head": "SAN DIEGO, July 3, 2018 /PRNewswire/ --\u00a0Medical Marijuana, Inc. (OTC: MJNA), the first publicly traded cannabis company in the United States, announced toda...", "relation": "HinderedBy", "tails": [" TO BE HAPPY WITH THE ANNOUNCEMENT", " TO BE HAPPY", " TO BE HAPPY WITH THE NEW ANNOUNCEMENT"]}
+{"head": "SAN DIEGO, July 3, 2018 /PRNewswire/ --\u00a0Medical Marijuana, Inc. (OTC: MJNA), the first publicly traded cannabis company in the United States, announced toda...", "relation": "oWant", "tails": [" none", " to make money", " to make a profit"]}
+{"head": "SAN DIEGO, July 3, 2018 /PRNewswire/ --\u00a0Medical Marijuana, Inc. (OTC: MJNA), the first publicly traded cannabis company in the United States, announced toda...", "relation": "xReact", "tails": [" excited", " happy", " proud"]}
+{"head": "SAN DIEGO, July 3, 2018 /PRNewswire/ --\u00a0Medical Marijuana, Inc. (OTC: MJNA), the first publicly traded cannabis company in the United States, announced toda...", "relation": "oEffect", "tails": [" none", " get a job as a pharmacist", " get a job at the company"]}
+{"head": "SAN DIEGO, July 3, 2018 /PRNewswire/ --\u00a0Medical Marijuana, Inc. (OTC: MJNA), the first publicly traded cannabis company in the United States, announced toda...", "relation": "xIntent", "tails": [" to make money", " to make a profit", " to be a success"]}
+{"head": "SAN DIEGO, July 3, 2018 /PRNewswire/ --\u00a0Medical Marijuana, Inc. (OTC: MJNA), the first publicly traded cannabis company in the United States, announced toda...", "relation": "oReact", "tails": [" none", " happy", " excited"]}
+{"head": "SAN DIEGO, July 3, 2018 /PRNewswire/ --\u00a0Medical Marijuana, Inc. (OTC: MJNA), the first publicly traded cannabis company in the United States, announced toda...", "relation": "isBefore", "tails": [" get a job at the company", " to be a public company", " get a job at the company."]}
+{"head": "SAN DIEGO, July 3, 2018 /PRNewswire/ --\u00a0Medical Marijuana, Inc. (OTC: MJNA), the first publicly traded cannabis company in the United States, announced toda...", "relation": "isAfter", "tails": [" get a job at a cannabis company", " to be a public company", " get a job at a cannabis company."]}
+{"head": "SAN DIEGO, July 3, 2018 /PRNewswire/ --\u00a0Medical Marijuana, Inc. (OTC: MJNA), the first publicly traded cannabis company in the United States, announced toda...", "relation": "HasSubEvent", "tails": [" get a job", " none", " get a license"]}
+{"head": "SAN DIEGO, July 3, 2018 /PRNewswire/ --\u00a0Medical Marijuana, Inc. (OTC: MJNA), the first publicly traded cannabis company in the United States, announced toda...", "relation": "Causes", "tails": [" medical marijuana", " medical benefits", " none"]}
+{"head": "SAN DIEGO, July 3, 2018 /PRNewswire/ --\u00a0Medical Marijuana, Inc. (OTC: MJNA), the first publicly traded cannabis company in the United States, announced toda...", "relation": "xReason", "tails": [" none", " get a job", " get a license"]}
+{"head": "SAN DIEGO", "relation": "ObjectUse", "tails": [" live in", " travel to", " live in."]}
+{"head": "SAN DIEGO", "relation": "AtLocation", "tails": [" city", " beach", " park"]}
+{"head": "SAN DIEGO", "relation": "CapableOf", "tails": [" go to the beach", " go to beach", " go to the movies"]}
+{"head": "SAN DIEGO", "relation": "HasProperty", "tails": [" located in the state of California", " found in many places in the world", " found in many places around the world."]}
+{"head": "SAN DIEGO", "relation": "MadeUpOf", "tails": [" city", " beach", " downtown"]}
+{"head": "SAN DIEGO", "relation": "NotDesires", "tails": [" live in", " have a beach to surf in", " have to go to the beach"]}
+{"head": "SAN DIEGO", "relation": "Desires", "tails": [" to have a place to live", " to have fun", " to have a good time"]}
+{"head": "OTC", "relation": "ObjectUse", "tails": [" use as a prop in a play", " use as a weapon", " use as a prop in a movie"]}
+{"head": "OTC", "relation": "AtLocation", "tails": [" school", " college", " classroom"]}
+{"head": "OTC", "relation": "CapableOf", "tails": [" learn to play guitar", " learn to play the instrument", " learn to play the guitar"]}
+{"head": "OTC", "relation": "HasProperty", "tails": [" found in military bases", " found in military", " one of the three classes"]}
+{"head": "OTC", "relation": "MadeUpOf", "tails": [" car", " boat", " car engine"]}
+{"head": "OTC", "relation": "NotDesires", "tails": [" run out of gas", " run out of time", " run out of money"]}
+{"head": "OTC", "relation": "Desires", "tails": [" get a good grade", " have a good time", " get a good job"]}
+{"head": "Medical Marijuana", "relation": "ObjectUse", "tails": [" use for medical purposes", " use as medicine", " use as a painkiller"]}
+{"head": "Medical Marijuana", "relation": "AtLocation", "tails": [" medicine chest", " medical marijuana", " medical marijuana clinic"]}
+{"head": "Medical Marijuana", "relation": "CapableOf", "tails": [" get high", " use to get high", " use to relieve pain"]}
+{"head": "Medical Marijuana", "relation": "HasProperty", "tails": [" medical marijuana", " medical use", " medical benefits"]}
+{"head": "Medical Marijuana", "relation": "MadeUpOf", "tails": [" medical marijuana", " medicine", " medicine chest"]}
+{"head": "Medical Marijuana", "relation": "NotDesires", "tails": [" medical marijuana", " get high", " medical marijuana use"]}
+{"head": "Medical Marijuana", "relation": "Desires", "tails": [" medical benefits", " medical marijuana", " get high"]}
+{"head": "MJNA", "relation": "ObjectUse", "tails": [" use as a paperweight", " use as a weapon", " get a new job"]}
+{"head": "MJNA", "relation": "AtLocation", "tails": [" hospital", " pharmacy", " car dealership"]}
+{"head": "MJNA", "relation": "CapableOf", "tails": [" get a new job", " get a job", " get a job as a nurse"]}
+{"head": "MJNA", "relation": "HasProperty", "tails": [" one of the main ingredients of marijuana", " one of the main drugs in the drugstore", " one of the main drugs in the drug cabinet"]}
+{"head": "MJNA", "relation": "MadeUpOf", "tails": [" medicine chest", " medicine chest tube", " medicine"]}
+{"head": "MJNA", "relation": "NotDesires", "tails": [" go to jail", " have to pay for it", " have to pay for"]}
+{"head": "MJNA", "relation": "Desires", "tails": [" have a good job", " get a job", " have a good time"]}
+{"head": ", Inc.", "relation": "ObjectUse", "tails": [" sell to others", " sell to customers", " sell to people"]}
+{"head": ", Inc.", "relation": "AtLocation", "tails": [" company", " company name", " business"]}
+{"head": ", Inc.", "relation": "CapableOf", "tails": [" sell products", " sell products to customers", " sell to others"]}
+{"head": ", Inc.", "relation": "HasProperty", "tails": [", Inc.", ", Inc", ", Inc. "]}
+{"head": ", Inc.", "relation": "MadeUpOf", "tails": [", , , , , , , , , , , , , , , , , , , , , ,", ", , , , , , , , , , , , , , , , , , , , , and", ", , , , , , , , , , , , , , , , , , , , ,"]}
+{"head": ", Inc.", "relation": "NotDesires", "tails": [" make money", ", Inc.", " have to pay for"]}
+{"head": ", Inc.", "relation": "Desires", "tails": [" to make money", " make money", " to be successful"]}

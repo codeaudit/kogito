@@ -1,0 +1,156 @@
+{"head": "wind", "relation": "ObjectUse", "tails": [" windmills", " blowing", " windmill"]}
+{"head": "wind", "relation": "AtLocation", "tails": [" wind chime", " windmill", " air"]}
+{"head": "wind", "relation": "CapableOf", "tails": [" wind", " blow", " heat up"]}
+{"head": "wind", "relation": "HasProperty", "tails": [" windmills", " wind", " strong"]}
+{"head": "wind", "relation": "MadeUpOf", "tails": [" windshear", " wind chime", " windchime"]}
+{"head": "wind", "relation": "NotDesires", "tails": [" windmills", " wind chill", " cold"]}
+{"head": "wind", "relation": "Desires", "tails": [" windmills", " warm air", " windy day"]}
+{"head": "wildfire", "relation": "ObjectUse", "tails": [" burn down a house", " burn down buildings", " burn down house"]}
+{"head": "wildfire", "relation": "AtLocation", "tails": [" forest", " fire", " wildland"]}
+{"head": "wildfire", "relation": "CapableOf", "tails": [" burn forest", " heat up earth", " burn down buildings"]}
+{"head": "wildfire", "relation": "HasProperty", "tails": [" burned", " dangerous", " burned down"]}
+{"head": "wildfire", "relation": "MadeUpOf", "tails": [" wildland", " firewood", " fire"]}
+{"head": "wildfire", "relation": "NotDesires", "tails": [" smoke", " heat", " fire"]}
+{"head": "wildfire", "relation": "Desires", "tails": [" smoke and heat", " smoke", " burn forest"]}
+{"head": "vegetation", "relation": "ObjectUse", "tails": [" grow in the garden", " grow in a garden", " grow food"]}
+{"head": "vegetation", "relation": "AtLocation", "tails": [" plant nursery", " garden", " food"]}
+{"head": "vegetation", "relation": "CapableOf", "tails": [" plant in garden", " grow in garden", " plant seeds"]}
+{"head": "vegetation", "relation": "HasProperty", "tails": [" food", " plant life", " meat"]}
+{"head": "vegetation", "relation": "MadeUpOf", "tails": [" seedling", " food", " seedlings"]}
+{"head": "vegetation", "relation": "NotDesires", "tails": [" eat for nourishment", " food", " grow in garden"]}
+{"head": "vegetation", "relation": "Desires", "tails": [" grow food", " food", " plant life"]}
+{"head": "to threaten", "relation": "HinderedBy", "tails": [" to threaten", " to threaten someone", " to threaten "]}
+{"head": "to threaten", "relation": "isBefore", "tails": [" to threaten", " to threaten someone", " threaten to do something"]}
+{"head": "to threaten", "relation": "isAfter", "tails": [" use as a weapon", " threaten to do something", " threaten to do"]}
+{"head": "to threaten", "relation": "HasSubEvent", "tails": [" to threaten", " threaten to do something", " to threaten someone"]}
+{"head": "to threaten", "relation": "Causes", "tails": [" to threaten", " threaten someone", " threaten to do"]}
+{"head": "to threaten", "relation": "xReason", "tails": [" threaten to do something", " threaten to do something bad", " threaten to do"]}
+{"head": "to say", "relation": "HinderedBy", "tails": [" to say", " to say ", " to say something"]}
+{"head": "to say", "relation": "isBefore", "tails": [" to say", " to say something", " to say "]}
+{"head": "to say", "relation": "isAfter", "tails": [" to be heard", " to say", " to say something"]}
+{"head": "to say", "relation": "HasSubEvent", "tails": [" to say", " to say ", " to say  something"]}
+{"head": "to say", "relation": "Causes", "tails": [" to say", " have to say", " to say something"]}
+{"head": "to say", "relation": "xReason", "tails": [" to say", " have to say", " to say something"]}
+{"head": "to make", "relation": "HinderedBy", "tails": [" to make ", " to make", " to make  to make "]}
+{"head": "to make", "relation": "isBefore", "tails": [" to make", " to make a cake", " to make something"]}
+{"head": "to make", "relation": "isAfter", "tails": [" to make a cake", " to make", " to make something"]}
+{"head": "to make", "relation": "HasSubEvent", "tails": [" to make", " to make ", " to make something"]}
+{"head": "to make", "relation": "Causes", "tails": [" to make", " to make ", " to make something"]}
+{"head": "to make", "relation": "xReason", "tails": [" to make", " to make something", " to make  food"]}
+{"head": "to fuel", "relation": "HinderedBy", "tails": [" to fuel", " to fuel the car", " to fuel the vehicle"]}
+{"head": "to fuel", "relation": "isBefore", "tails": [" to fuel the car", " to fuel the vehicle", " to fuel vehicle"]}
+{"head": "to fuel", "relation": "isAfter", "tails": [" fuel", " fuel oil", " fuel cell"]}
+{"head": "to fuel", "relation": "HasSubEvent", "tails": [" to fuel", " to fuel the car", " to fuel vehicle"]}
+{"head": "to fuel", "relation": "Causes", "tails": [" fuel oil", " fuel", " fuel cell"]}
+{"head": "to fuel", "relation": "xReason", "tails": [" fuel", " to fuel the car", " to fuel vehicle"]}
+{"head": "threaten hundreds", "relation": "HinderedBy", "tails": [" threaten people", " threaten someone", " threaten people with"]}
+{"head": "threaten hundreds", "relation": "isBefore", "tails": [" threaten to kill", " threaten to kill people", " threaten to kill others"]}
+{"head": "threaten hundreds", "relation": "isAfter", "tails": [" threaten to kill", " threaten to kill people", " threaten to kill others"]}
+{"head": "threaten hundreds", "relation": "HasSubEvent", "tails": [" get arrested", " threaten to kill", " threaten to kill people"]}
+{"head": "threaten hundreds", "relation": "Causes", "tails": [" threaten people", " threaten others", " threaten people with"]}
+{"head": "threaten hundreds", "relation": "xReason", "tails": [" threaten to kill people", " threaten to kill", " threaten people"]}
+{"head": "progress", "relation": "ObjectUse", "tails": [" progress", " progress in life", " make a difference"]}
+{"head": "progress", "relation": "AtLocation", "tails": [" progress", " science fiction movie", " science fiction novel"]}
+{"head": "progress", "relation": "CapableOf", "tails": [" work hard", " work towards goal", " make progress"]}
+{"head": "progress", "relation": "HasProperty", "tails": [" progress", " good", " slow"]}
+{"head": "progress", "relation": "MadeUpOf", "tails": [" progress", " progressions", " work"]}
+{"head": "progress", "relation": "NotDesires", "tails": [" progress", " slow down", " progress is slow"]}
+{"head": "progress", "relation": "Desires", "tails": [" progress", " progress in life", " improve life"]}
+{"head": "make progress", "relation": "HinderedBy", "tails": [" make progress", " work hard", " make a plan"]}
+{"head": "make progress", "relation": "isBefore", "tails": [" work hard", " make progress", " get better"]}
+{"head": "make progress", "relation": "isAfter", "tails": [" work hard", " make progress", " get better"]}
+{"head": "make progress", "relation": "HasSubEvent", "tails": [" work hard", " make progress", " get better"]}
+{"head": "make progress", "relation": "Causes", "tails": [" work hard", " make progress", " get better"]}
+{"head": "make progress", "relation": "xReason", "tails": [" work hard", " make progress", " get better"]}
+{"head": "hundreds", "relation": "ObjectUse", "tails": [" pay for a car", " pay for the service", " pay for things"]}
+{"head": "hundreds", "relation": "AtLocation", "tails": [" house", " car", " school"]}
+{"head": "hundreds", "relation": "CapableOf", "tails": [" pay taxes", " pay rent", " pay for things"]}
+{"head": "hundreds", "relation": "HasProperty", "tails": [" hundreds of thousands of people", " hundreds of thousands of dollars", " hundreds of thousands"]}
+{"head": "hundreds", "relation": "MadeUpOf", "tails": [" one hundred and fifty thousand", " one hundred and fifty", " number of people"]}
+{"head": "hundreds", "relation": "NotDesires", "tails": [" have to go to the doctor", " have to go to the bathroom", " have to pay for"]}
+{"head": "hundreds", "relation": "Desires", "tails": [" have a lot of money", " have a lot of friends", " have a lot of fun"]}
+{"head": "fuel blaze", "relation": "HinderedBy", "tails": [" fuel for fire", " fuel fire", " fuel for a fire"]}
+{"head": "fuel blaze", "relation": "isBefore", "tails": [" heat", " burn down house", " burning things"]}
+{"head": "fuel blaze", "relation": "isAfter", "tails": [" heat", " fire", " firewood"]}
+{"head": "fuel blaze", "relation": "HasSubEvent", "tails": [" burn down house", " heat up", " burn down"]}
+{"head": "fuel blaze", "relation": "Causes", "tails": [" heat", " heat and smoke", " burn down house"]}
+{"head": "fuel blaze", "relation": "xReason", "tails": [" heat", " heat and smoke", " burn down house"]}
+{"head": "dry vegetation", "relation": "ObjectUse", "tails": [" dry out the soil", " dry out the ground", " dry out in the sun"]}
+{"head": "dry vegetation", "relation": "AtLocation", "tails": [" dry place", " dry area", " dry desert"]}
+{"head": "dry vegetation", "relation": "CapableOf", "tails": [" dry out", " dry out soil", " dry out in summer"]}
+{"head": "dry vegetation", "relation": "HasProperty", "tails": [" dry", " wet", " moist"]}
+{"head": "dry vegetation", "relation": "MadeUpOf", "tails": [" dry soil", " dry air", " water"]}
+{"head": "dry vegetation", "relation": "NotDesires", "tails": [" dry air", " dry out", " dry"]}
+{"head": "dry vegetation", "relation": "Desires", "tails": [" dry air", " dry out", " dry"]}
+{"head": "buildings", "relation": "ObjectUse", "tails": [" build a house", " build a home", " build a house in"]}
+{"head": "buildings", "relation": "AtLocation", "tails": [" city", " building", " town"]}
+{"head": "buildings", "relation": "CapableOf", "tails": [" build house", " use for storage", " use as storage space"]}
+{"head": "buildings", "relation": "HasProperty", "tails": [" built on land", " building materials", " built on hillside"]}
+{"head": "buildings", "relation": "MadeUpOf", "tails": [" building", " building materials", " building material"]}
+{"head": "buildings", "relation": "NotDesires", "tails": [" have to live in", " have to pay rent", " have to pay for"]}
+{"head": "buildings", "relation": "Desires", "tails": [" build a house", " build a home", " build house"]}
+{"head": "blaze", "relation": "ObjectUse", "tails": [" light a fire", " light up the room", " light up room"]}
+{"head": "blaze", "relation": "AtLocation", "tails": [" fire", " heat", " lightening"]}
+{"head": "blaze", "relation": "CapableOf", "tails": [" light fire", " burn down house", " heat up"]}
+{"head": "blaze", "relation": "HasProperty", "tails": [" heat", " light", " burned"]}
+{"head": "blaze", "relation": "MadeUpOf", "tails": [" flame", " heat", " light"]}
+{"head": "blaze", "relation": "NotDesires", "tails": [" heat", " burn", " burn clothes"]}
+{"head": "blaze", "relation": "Desires", "tails": [" heat", " light fire", " burn"]}
+{"head": "Northern California wildfire", "relation": "ObjectUse", "tails": [" burn down homes", " burn down buildings", " firefighting equipment"]}
+{"head": "Northern California wildfire", "relation": "AtLocation", "tails": [" fire", " forest", " ash"]}
+{"head": "Northern California wildfire", "relation": "CapableOf", "tails": [" burn down buildings", " burn down homes", " burn forest"]}
+{"head": "Northern California wildfire", "relation": "HasProperty", "tails": [" destroyed", " burned", " very dangerous"]}
+{"head": "Northern California wildfire", "relation": "MadeUpOf", "tails": [" fire", " ash", " smoke"]}
+{"head": "Northern California wildfire", "relation": "NotDesires", "tails": [" smoke", " fire", " burned down"]}
+{"head": "Northern California wildfire", "relation": "Desires", "tails": [" none", " smoke", " fire"]}
+{"head": "GUINDA, Calif. \u2014", "relation": "xAttr", "tails": [" adventurous", " friendly", " happy"]}
+{"head": "GUINDA, Calif. \u2014", "relation": "xWant", "tails": [" to go to the beach", " to go to the store", " to go to the movies"]}
+{"head": "GUINDA, Calif. \u2014", "relation": "xNeed", "tails": [" to go to the beach", " to go to the store", " to go to the store."]}
+{"head": "GUINDA, Calif. \u2014", "relation": "xEffect", "tails": [" get a new job", " none", " get a job"]}
+{"head": "GUINDA, Calif. \u2014", "relation": "HinderedBy", "tails": [" GUINDA, CALIFORNIA", "GUINDA, CALIFORNIA", " GUINDA"]}
+{"head": "GUINDA, Calif. \u2014", "relation": "oWant", "tails": [" to go to the beach", " none", " to go to the store"]}
+{"head": "GUINDA, Calif. \u2014", "relation": "xReact", "tails": [" happy", " happy to be there", " good about themselves"]}
+{"head": "GUINDA, Calif. \u2014", "relation": "oEffect", "tails": [" none", " have to pay for it", " have to pay for"]}
+{"head": "GUINDA, Calif. \u2014", "relation": "xIntent", "tails": [" to have a place to live", " to have a good time", " to have a place to live."]}
+{"head": "GUINDA, Calif. \u2014", "relation": "oReact", "tails": [" none", " happy", " sad"]}
+{"head": "GUINDA, Calif. \u2014", "relation": "isBefore", "tails": [" GUINDA, CALIFORNIA", " GUINDA", " GUINDA, CA"]}
+{"head": "GUINDA, Calif. \u2014", "relation": "isAfter", "tails": [" GUINDA, CALIFORNIA", " GUINDA", " GUINDA, CA"]}
+{"head": "GUINDA, Calif. \u2014", "relation": "HasSubEvent", "tails": [" have a good time", " have to pay for it", " have to pay for"]}
+{"head": "GUINDA, Calif. \u2014", "relation": "Causes", "tails": [" GUINDA", " GUINDA, CALIFORNIA", "GUINDA"]}
+{"head": "GUINDA, Calif. \u2014", "relation": "xReason", "tails": [" GUINDA", "GUINDA", " GUINDA, CA"]}
+{"head": "GUINDA", "relation": "ObjectUse", "tails": [" get a new job", " have a good time", " get a job"]}
+{"head": "GUINDA", "relation": "AtLocation", "tails": [" beach", " beach house", " jungle"]}
+{"head": "GUINDA", "relation": "CapableOf", "tails": [" learn how to swim", " learn how to play guitar", " learn to play guitar"]}
+{"head": "GUINDA", "relation": "HasProperty", "tails": [" GUINDA", " guinea pig", " GUINDA "]}
+{"head": "GUINDA", "relation": "MadeUpOf", "tails": [" GUINDA", " guinea pig", " GUINDA "]}
+{"head": "GUINDA", "relation": "NotDesires", "tails": [" GUINDA", " GUINDA ", " GUINEDA"]}
+{"head": "GUINDA", "relation": "Desires", "tails": [" have a good time", " none", " to be healthy"]}
+{"head": "Crews are making progress against a Northern California wildfire that threatens hundreds of buildings but say wind and dry vegetation could still fuel the blaze.", "relation": "xAttr", "tails": [" dangerous", " strong", " brave"]}
+{"head": "Crews are making progress against a Northern California wildfire that threatens hundreds of buildings but say wind and dry vegetation could still fuel the blaze.", "relation": "xWant", "tails": [" to keep the fire from spreading", " to get rid of the fire", " to make sure the fire is contained"]}
+{"head": "Crews are making progress against a Northern California wildfire that threatens hundreds of buildings but say wind and dry vegetation could still fuel the blaze.", "relation": "xNeed", "tails": [" to have a plan to fight the fire", " to have a plan to stop the fire", " to have a plan to fight the fire."]}
+{"head": "Crews are making progress against a Northern California wildfire that threatens hundreds of buildings but say wind and dry vegetation could still fuel the blaze.", "relation": "xEffect", "tails": [" get out of the way of the fire", " get out of the way", " get out of the way of the flames"]}
+{"head": "Crews are making progress against a Northern California wildfire that threatens hundreds of buildings but say wind and dry vegetation could still fuel the blaze.", "relation": "HinderedBy", "tails": [" fire officials say the fire is not out yet.", " fire officials say the fire is too small to be dangerous.", " fire officials are warning of the danger of the fire."]}
+{"head": "Crews are making progress against a Northern California wildfire that threatens hundreds of buildings but say wind and dry vegetation could still fuel the blaze.", "relation": "oWant", "tails": [" to keep the fire from spreading", " to make sure the fire is contained", " to keep the fire from spreading."]}
+{"head": "Crews are making progress against a Northern California wildfire that threatens hundreds of buildings but say wind and dry vegetation could still fuel the blaze.", "relation": "xReact", "tails": [" safe", " strong", " determined"]}
+{"head": "Crews are making progress against a Northern California wildfire that threatens hundreds of buildings but say wind and dry vegetation could still fuel the blaze.", "relation": "oEffect", "tails": [" get out of the way", " get out of way", " get out of the way."]}
+{"head": "Crews are making progress against a Northern California wildfire that threatens hundreds of buildings but say wind and dry vegetation could still fuel the blaze.", "relation": "xIntent", "tails": [" to keep the fire from spreading", " to keep the fire from spreading.", " to keep the fire under control"]}
+{"head": "Crews are making progress against a Northern California wildfire that threatens hundreds of buildings but say wind and dry vegetation could still fuel the blaze.", "relation": "oReact", "tails": [" none", " burn down", " firefighting equipment"]}
+{"head": "Crews are making progress against a Northern California wildfire that threatens hundreds of buildings but say wind and dry vegetation could still fuel the blaze.", "relation": "isBefore", "tails": [" fire officials say the fire is under control.", " fire officials say the fire is not out yet.", " fire officials say the fire is under control"]}
+{"head": "Crews are making progress against a Northern California wildfire that threatens hundreds of buildings but say wind and dry vegetation could still fuel the blaze.", "relation": "isAfter", "tails": [" fire fighters are working to extinguish the flames.", " fire fighters are trying to keep the fire from spreading.", " fire fighters are working to extinguish the flames"]}
+{"head": "Crews are making progress against a Northern California wildfire that threatens hundreds of buildings but say wind and dry vegetation could still fuel the blaze.", "relation": "HasSubEvent", "tails": [" get out of harm's way", " get out of the way", " get out of the way of fire"]}
+{"head": "Crews are making progress against a Northern California wildfire that threatens hundreds of buildings but say wind and dry vegetation could still fuel the blaze.", "relation": "Causes", "tails": [" firefighting equipment", " firefighting team", " firefighting"]}
+{"head": "Crews are making progress against a Northern California wildfire that threatens hundreds of buildings but say wind and dry vegetation could still fuel the blaze.", "relation": "xReason", "tails": [" fire officials say they will not let the fire burn for too long.", " fire officials say they will not let the fire burn out of control.", " fire officials say they will not let the fire burn for too long"]}
+{"head": "Crews", "relation": "ObjectUse", "tails": [" work in the field", " work on the farm", " work on a project"]}
+{"head": "Crews", "relation": "AtLocation", "tails": [" garage", " fire station", " work site"]}
+{"head": "Crews", "relation": "CapableOf", "tails": [" burn down house", " burn down building", " work on a project"]}
+{"head": "Crews", "relation": "HasProperty", "tails": [" one of the most dangerous jobs in the world", " one of the most important jobs in the world", " one of the most dangerous jobs in the country"]}
+{"head": "Crews", "relation": "MadeUpOf", "tails": [" crew", " fire engine", " crewhouse"]}
+{"head": "Crews", "relation": "NotDesires", "tails": [" work in dangerous conditions", " burn down house", " get injured"]}
+{"head": "Crews", "relation": "Desires", "tails": [" work hard", " work on a project", " work in field"]}
+{"head": "Calif.", "relation": "ObjectUse", "tails": [" live in", " get a new job", " get a job"]}
+{"head": "Calif.", "relation": "AtLocation", "tails": [" beach", " park", " beach town"]}
+{"head": "Calif.", "relation": "CapableOf", "tails": [" live in", " live in country", " live in mountain town"]}
+{"head": "Calif.", "relation": "HasProperty", "tails": [" California", " one of the states", " one of many states"]}
+{"head": "Calif.", "relation": "MadeUpOf", "tails": [" water", " California", " car"]}
+{"head": "Calif.", "relation": "NotDesires", "tails": [" live in", " live in desert", " live in the desert"]}
+{"head": "Calif.", "relation": "Desires", "tails": [" live in", " live in the country", " live in a beautiful place"]}

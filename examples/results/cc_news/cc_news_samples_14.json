@@ -1,0 +1,128 @@
+{"head": "turn", "relation": "ObjectUse", "tails": [" turn left", " turn right", " turn"]}
+{"head": "turn", "relation": "AtLocation", "tails": [" car", " turn left", " turn right"]}
+{"head": "turn", "relation": "CapableOf", "tails": [" turn left", " turn", " turn head"]}
+{"head": "turn", "relation": "HasProperty", "tails": [" turn", " turned", " turning"]}
+{"head": "turn", "relation": "MadeUpOf", "tails": [" turn", " turn handle", " turn knob"]}
+{"head": "turn", "relation": "NotDesires", "tails": [" turn left", " turn", " turn around"]}
+{"head": "turn", "relation": "Desires", "tails": [" turn", " turn left", " turn around"]}
+{"head": "topple statue", "relation": "HinderedBy", "tails": [" topple statue", " topple statue ", " topple"]}
+{"head": "topple statue", "relation": "isBefore", "tails": [" topple statue", " topple", " topple statue of"]}
+{"head": "topple statue", "relation": "isAfter", "tails": [" topple statue", " topple", " topple statue "]}
+{"head": "topple statue", "relation": "HasSubEvent", "tails": [" topple statue", " topple statue ", " topple"]}
+{"head": "topple statue", "relation": "Causes", "tails": [" topple statue", " topple", " topple statue "]}
+{"head": "topple statue", "relation": "xReason", "tails": [" topple statue", " topple", " topple statue "]}
+{"head": "to topple", "relation": "HinderedBy", "tails": [" to topple", " to topple ", " to topple  over"]}
+{"head": "to topple", "relation": "isBefore", "tails": [" to topple", " to topple ", " to topple  over"]}
+{"head": "to topple", "relation": "isAfter", "tails": [" to topple", " to topple over", " to topple  over"]}
+{"head": "to topple", "relation": "HasSubEvent", "tails": [" to topple", " to topple ", " to topple  topple"]}
+{"head": "to topple", "relation": "Causes", "tails": [" to topple", " to topple ", " to topple  over"]}
+{"head": "to topple", "relation": "xReason", "tails": [" to topple", " to topple over", " to topple  over"]}
+{"head": "to take", "relation": "HinderedBy", "tails": [" to take", " to take ", " to take  to take "]}
+{"head": "to take", "relation": "isBefore", "tails": [" to take", " to take a nap", " to take a picture"]}
+{"head": "to take", "relation": "isAfter", "tails": [" to take", " to take a nap", " to take a picture"]}
+{"head": "to take", "relation": "HasSubEvent", "tails": [" to take", " to take ", " to take  take "]}
+{"head": "to take", "relation": "Causes", "tails": [" to take", " to take  to take  to take  to take  take  to take  take  to take ", " to take  to take  to take  to take  take  to  take  take  to take"]}
+{"head": "to take", "relation": "xReason", "tails": [" to take", " to take a nap", " to take  to take "]}
+{"head": "to stand", "relation": "HinderedBy", "tails": [" to stand", " to stand ", " to stand up"]}
+{"head": "to stand", "relation": "isBefore", "tails": [" to stand", " to stand up", " stand up"]}
+{"head": "to stand", "relation": "isAfter", "tails": [" stand up", " get up", " stand up straight"]}
+{"head": "to stand", "relation": "HasSubEvent", "tails": [" to stand", " stand up", " get up"]}
+{"head": "to stand", "relation": "Causes", "tails": [" to stand", " stand up", " to stand up"]}
+{"head": "to stand", "relation": "xReason", "tails": [" to stand", " stand up", " to stand up"]}
+{"head": "to organize", "relation": "HinderedBy", "tails": [" to organize", " to organize  to organize ", " to organize "]}
+{"head": "to organize", "relation": "isBefore", "tails": [" to organize", " to organize things", " to organize the room"]}
+{"head": "to organize", "relation": "isAfter", "tails": [" to organize", " to organize things", " organize things"]}
+{"head": "to organize", "relation": "HasSubEvent", "tails": [" to organize", " get organized", " organize things"]}
+{"head": "to organize", "relation": "Causes", "tails": [" to organize", " organize things", " to organize things"]}
+{"head": "to organize", "relation": "xReason", "tails": [" organize things", " to organize", " to organize things"]}
+{"head": "take turn", "relation": "HinderedBy", "tails": [" take turn", " take a turn", " take a break"]}
+{"head": "take turn", "relation": "isBefore", "tails": [" take turn", " take rest", " have fun"]}
+{"head": "take turn", "relation": "isAfter", "tails": [" take turn", " turn around", " turn"]}
+{"head": "take turn", "relation": "HasSubEvent", "tails": [" take turn", " turn around", " turn"]}
+{"head": "take turn", "relation": "Causes", "tails": [" play game", " take turn", " turn"]}
+{"head": "take turn", "relation": "xReason", "tails": [" take turn", " have to wait", " have to do"]}
+{"head": "statue", "relation": "ObjectUse", "tails": [" display on pedestal", " display on wall", " display in museum"]}
+{"head": "statue", "relation": "AtLocation", "tails": [" museum", " building", " statue"]}
+{"head": "statue", "relation": "CapableOf", "tails": [" stand in front of", " display on pedestal", " display on wall"]}
+{"head": "statue", "relation": "HasProperty", "tails": [" found in museum", " found in church", " found at museum"]}
+{"head": "statue", "relation": "MadeUpOf", "tails": [" statue", " sculpture", " statue head"]}
+{"head": "statue", "relation": "NotDesires", "tails": [" statue to fall down", " display of art", " display of wealth and power"]}
+{"head": "statue", "relation": "Desires", "tails": [" display", " statue", " honor"]}
+{"head": "solidarity", "relation": "ObjectUse", "tails": [" support each other", " make a difference", " make a better world"]}
+{"head": "solidarity", "relation": "AtLocation", "tails": [" united states of america", " united states", " united states of american"]}
+{"head": "solidarity", "relation": "CapableOf", "tails": [" support other people", " help others", " support others"]}
+{"head": "solidarity", "relation": "HasProperty", "tails": [" supported by many people", " supported by others", " supported by many"]}
+{"head": "solidarity", "relation": "MadeUpOf", "tails": [" unity", " solidarity", " good"]}
+{"head": "solidarity", "relation": "NotDesires", "tails": [" solidarity", " support", " good"]}
+{"head": "solidarity", "relation": "Desires", "tails": [" feel good about yourself", " feel good about oneself", " feel good about yourself."]}
+{"head": "protesters", "relation": "ObjectUse", "tails": [" protest against the government", " protest the government", " protest against the president"]}
+{"head": "protesters", "relation": "AtLocation", "tails": [" protest", " protest march", " street corner"]}
+{"head": "protesters", "relation": "CapableOf", "tails": [" get arrested", " protest against government", " protest government policies"]}
+{"head": "protesters", "relation": "HasProperty", "tails": [" protest", " one of many protests", " protest against government"]}
+{"head": "protesters", "relation": "MadeUpOf", "tails": [" protest", " protest march", " protest in the street"]}
+{"head": "protesters", "relation": "NotDesires", "tails": [" get arrested", " protest in public", " protest in public place"]}
+{"head": "protesters", "relation": "Desires", "tails": [" protest injustice", " protest", " protest against injustice"]}
+{"head": "protest", "relation": "ObjectUse", "tails": [" protest the government", " make a statement", " make a point"]}
+{"head": "protest", "relation": "AtLocation", "tails": [" protest", " protest march", " march"]}
+{"head": "protest", "relation": "CapableOf", "tails": [" protest injustice", " protest", " protest against government"]}
+{"head": "protest", "relation": "HasProperty", "tails": [" protest", " found in protest rallies", " one of many protests"]}
+{"head": "protest", "relation": "MadeUpOf", "tails": [" protest", " protest march", " protest against injustice"]}
+{"head": "protest", "relation": "NotDesires", "tails": [" get arrested", " protest", " protest against injustice"]}
+{"head": "protest", "relation": "Desires", "tails": [" protest injustice", " protest", " protest against injustice"]}
+{"head": "peaceful protest", "relation": "ObjectUse", "tails": [" peaceful protest", " make a statement", " make a point"]}
+{"head": "peaceful protest", "relation": "AtLocation", "tails": [" peaceful protest", " peace march", " protest"]}
+{"head": "peaceful protest", "relation": "CapableOf", "tails": [" get arrested", " make noise", " protest injustice"]}
+{"head": "peaceful protest", "relation": "HasProperty", "tails": [" peaceful", " peaceful protest", " peace"]}
+{"head": "peaceful protest", "relation": "MadeUpOf", "tails": [" peaceful protest", " peaceful", " peace"]}
+{"head": "peaceful protest", "relation": "NotDesires", "tails": [" peaceful protest", " peace", " peaceful"]}
+{"head": "peaceful protest", "relation": "Desires", "tails": [" peaceful", " peaceful protest", " peace"]}
+{"head": "Virginia", "relation": "ObjectUse", "tails": [" live in", " travel to", " Virginia Beach"]}
+{"head": "Virginia", "relation": "AtLocation", "tails": [" state", " country", " state capital"]}
+{"head": "Virginia", "relation": "CapableOf", "tails": [" ride horse", " travel to new york", " travel to new york city"]}
+{"head": "Virginia", "relation": "HasProperty", "tails": [" one of two states", " one of four states", " one of the states"]}
+{"head": "Virginia", "relation": "MadeUpOf", "tails": [" boat", " water", " car"]}
+{"head": "Virginia", "relation": "NotDesires", "tails": [" live in", " state to be destroyed", " state to be invaded"]}
+{"head": "Virginia", "relation": "Desires", "tails": [" live in", " have a home to live in", " have a good time"]}
+{"head": "North Carolina", "relation": "ObjectUse", "tails": [" north america", " travel to", " north american"]}
+{"head": "North Carolina", "relation": "AtLocation", "tails": [" north america", " state", " north american state"]}
+{"head": "North Carolina", "relation": "CapableOf", "tails": [" travel to different places", " travel to different states", " go to beach"]}
+{"head": "North Carolina", "relation": "HasProperty", "tails": [" one of the most populated states in the country", " one of the most populated states in the world", " one of the four states of the union"]}
+{"head": "North Carolina", "relation": "MadeUpOf", "tails": [" north america", " state", " north"]}
+{"head": "North Carolina", "relation": "NotDesires", "tails": [" north america", " north american", " travel to"]}
+{"head": "North Carolina", "relation": "Desires", "tails": [" north america", " north american", " north american state"]}
+{"head": "Durham", "relation": "ObjectUse", "tails": [" downtown", " city", " downtown area"]}
+{"head": "Durham", "relation": "AtLocation", "tails": [" city", " town", " cities"]}
+{"head": "Durham", "relation": "CapableOf", "tails": [" go to church", " travel to", " go to the beach"]}
+{"head": "Durham", "relation": "HasProperty", "tails": [" one of four states", " one of the states", " one of two cities"]}
+{"head": "Durham", "relation": "MadeUpOf", "tails": [" water", " city", " sout"]}
+{"head": "Durham", "relation": "NotDesires", "tails": [" city", " rain", " cities"]}
+{"head": "Durham", "relation": "Desires", "tails": [" downtown", " city", " downtown area"]}
+{"head": "Confederate statue", "relation": "ObjectUse", "tails": [" display in a museum", " display on a wall", " display in a park"]}
+{"head": "Confederate statue", "relation": "AtLocation", "tails": [" museum", " state capitol", " state park"]}
+{"head": "Confederate statue", "relation": "CapableOf", "tails": [" stand in front of", " stand on", " stand in front"]}
+{"head": "Confederate statue", "relation": "HasProperty", "tails": [" confederate", " confederate flag", " confederate symbol"]}
+{"head": "Confederate statue", "relation": "MadeUpOf", "tails": [" confederate flag", " confederate symbol", " statue pedestal"]}
+{"head": "Confederate statue", "relation": "NotDesires", "tails": [" confederate", " confederate statue", " confederate flag"]}
+{"head": "Confederate statue", "relation": "Desires", "tails": [" to protest against slavery", " to protest against racism", " to protest"]}
+{"head": "Charlottesville", "relation": "ObjectUse", "tails": [" have a rally", " go to", " have a protest"]}
+{"head": "Charlottesville", "relation": "AtLocation", "tails": [" city", " town", " downtown"]}
+{"head": "Charlottesville", "relation": "CapableOf", "tails": [" go to protest", " stand up for freedom", " go to the rally"]}
+{"head": "Charlottesville", "relation": "HasProperty", "tails": [" one of many cities in the world", " one of many cities in the country", " one of many cities in the US"]}
+{"head": "Charlottesville", "relation": "MadeUpOf", "tails": [" city", " downtown", " town"]}
+{"head": "Charlottesville", "relation": "NotDesires", "tails": [" people to die", " people to be killed", " people get hurt"]}
+{"head": "Charlottesville", "relation": "Desires", "tails": [" have a good time", " live in", " people to come together"]}
+{"head": "A peaceful protest organized to stand in solidarity with Charlottesville, Virginia, took a turn Monday when protesters toppled a Confederate statue in Durham, North Carolina.", "relation": "xAttr", "tails": [" peaceful", " angry", " violent"]}
+{"head": "A peaceful protest organized to stand in solidarity with Charlottesville, Virginia, took a turn Monday when protesters toppled a Confederate statue in Durham, North Carolina.", "relation": "xWant", "tails": [" to make a statement", " to protest", " to protest against the statue"]}
+{"head": "A peaceful protest organized to stand in solidarity with Charlottesville, Virginia, took a turn Monday when protesters toppled a Confederate statue in Durham, North Carolina.", "relation": "xNeed", "tails": [" a place to protest", " a reason to protest", " a reason to do it"]}
+{"head": "A peaceful protest organized to stand in solidarity with Charlottesville, Virginia, took a turn Monday when protesters toppled a Confederate statue in Durham, North Carolina.", "relation": "xEffect", "tails": [" get arrested", " get arrested for rioting", " a protest"]}
+{"head": "A peaceful protest organized to stand in solidarity with Charlottesville, Virginia, took a turn Monday when protesters toppled a Confederate statue in Durham, North Carolina.", "relation": "HinderedBy", "tails": [" a peaceful protest", " a protest", " a peaceful protest."]}
+{"head": "A peaceful protest organized to stand in solidarity with Charlottesville, Virginia, took a turn Monday when protesters toppled a Confederate statue in Durham, North Carolina.", "relation": "oWant", "tails": [" to protest against the removal of the statue", " to protest the removal of the statue", " to protest against the removal of the statue."]}
+{"head": "A peaceful protest organized to stand in solidarity with Charlottesville, Virginia, took a turn Monday when protesters toppled a Confederate statue in Durham, North Carolina.", "relation": "xReact", "tails": [" angry", " peaceful", " angry."]}
+{"head": "A peaceful protest organized to stand in solidarity with Charlottesville, Virginia, took a turn Monday when protesters toppled a Confederate statue in Durham, North Carolina.", "relation": "oEffect", "tails": [" get arrested", " a protest", " protest"]}
+{"head": "A peaceful protest organized to stand in solidarity with Charlottesville, Virginia, took a turn Monday when protesters toppled a Confederate statue in Durham, North Carolina.", "relation": "xIntent", "tails": [" a peaceful protest", " to protest against racism", " to protest"]}
+{"head": "A peaceful protest organized to stand in solidarity with Charlottesville, Virginia, took a turn Monday when protesters toppled a Confederate statue in Durham, North Carolina.", "relation": "oReact", "tails": [" angry", " protest", " a protest"]}
+{"head": "A peaceful protest organized to stand in solidarity with Charlottesville, Virginia, took a turn Monday when protesters toppled a Confederate statue in Durham, North Carolina.", "relation": "isBefore", "tails": [" a protest", " a statue of a statue of a person", " a statue of a statue of a man"]}
+{"head": "A peaceful protest organized to stand in solidarity with Charlottesville, Virginia, took a turn Monday when protesters toppled a Confederate statue in Durham, North Carolina.", "relation": "isAfter", "tails": [" a statue of a slave", " a protest", " a statue"]}
+{"head": "A peaceful protest organized to stand in solidarity with Charlottesville, Virginia, took a turn Monday when protesters toppled a Confederate statue in Durham, North Carolina.", "relation": "HasSubEvent", "tails": [" get arrested", " a protest", " protest against racism"]}
+{"head": "A peaceful protest organized to stand in solidarity with Charlottesville, Virginia, took a turn Monday when protesters toppled a Confederate statue in Durham, North Carolina.", "relation": "Causes", "tails": [" angry", " a protest", " protest"]}
+{"head": "A peaceful protest organized to stand in solidarity with Charlottesville, Virginia, took a turn Monday when protesters toppled a Confederate statue in Durham, North Carolina.", "relation": "xReason", "tails": [" a protest", " protest", " a statue"]}

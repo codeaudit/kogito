@@ -1,0 +1,224 @@
+{"head": "water", "relation": "ObjectUse", "tails": [" water plants", " water plant", " drink"]}
+{"head": "water", "relation": "AtLocation", "tails": [" water fountain", " water cooler", " water bottle"]}
+{"head": "water", "relation": "CapableOf", "tails": [" water plants", " water plant", " drink"]}
+{"head": "water", "relation": "HasProperty", "tails": [" found in ocean", " water", " found in oceans"]}
+{"head": "water", "relation": "MadeUpOf", "tails": [" water", " watermelon", " water bottle"]}
+{"head": "water", "relation": "NotDesires", "tails": [" water", " water to drink", " water boils"]}
+{"head": "water", "relation": "Desires", "tails": [" water to drink", " water", " water plants"]}
+{"head": "to think", "relation": "HinderedBy", "tails": [" to think", " to think ", " to think about something"]}
+{"head": "to think", "relation": "isBefore", "tails": [" to think", " to think about something", " to think about things"]}
+{"head": "to think", "relation": "isAfter", "tails": [" take a break", " to think", " to think about something"]}
+{"head": "to think", "relation": "HasSubEvent", "tails": [" to think", " stop thinking", " think about things"]}
+{"head": "to think", "relation": "Causes", "tails": [" to think", " to think about", " to think about things"]}
+{"head": "to think", "relation": "xReason", "tails": [" to think", " to think about things", " to think about something"]}
+{"head": "to tell", "relation": "HinderedBy", "tails": [" to tell", " to tell ", " to tell  to tell "]}
+{"head": "to tell", "relation": "isBefore", "tails": [" to tell", " to tell the truth", " to tell "]}
+{"head": "to tell", "relation": "isAfter", "tails": [" to tell the truth", " to tell", " to be heard"]}
+{"head": "to tell", "relation": "HasSubEvent", "tails": [" to tell", " to tell ", " to tell  tell "]}
+{"head": "to tell", "relation": "Causes", "tails": [" to tell", " to tell  to  tell ", " to tell  to  tell  "]}
+{"head": "to tell", "relation": "xReason", "tails": [" to tell", " to be honest", " none"]}
+{"head": "to swam", "relation": "HinderedBy", "tails": [" to swam", " to swim", " to swim"]}
+{"head": "to swam", "relation": "isBefore", "tails": [" to swim in water", " to swim in the ocean", " get wet"]}
+{"head": "to swam", "relation": "isAfter", "tails": [" get in water", " swim in ocean", " to swim in water"]}
+{"head": "to swam", "relation": "HasSubEvent", "tails": [" get in water", " to swam", " get wet"]}
+{"head": "to swam", "relation": "Causes", "tails": [" to swim in the ocean", " to swim", " to swim in water"]}
+{"head": "to swam", "relation": "xReason", "tails": [" to swam", " to swim in water", " to swim"]}
+{"head": "to lose", "relation": "HinderedBy", "tails": [" to lose", " to lose ", " to lose  to lose "]}
+{"head": "to lose", "relation": "isBefore", "tails": [" to lose", " to lose the game", " to lose "]}
+{"head": "to lose", "relation": "isAfter", "tails": [" to lose", " to win", " to win or lose"]}
+{"head": "to lose", "relation": "HasSubEvent", "tails": [" to lose", " win or lose", " to lose "]}
+{"head": "to lose", "relation": "Causes", "tails": [" to lose", " win or lose", " lose money"]}
+{"head": "to lose", "relation": "xReason", "tails": [" to lose", " lose money", " have to lose"]}
+{"head": "to learn", "relation": "HinderedBy", "tails": [" to learn", " to learn ", " to learn  to learn "]}
+{"head": "to learn", "relation": "isBefore", "tails": [" to learn", " to learn something new", " learn new things"]}
+{"head": "to learn", "relation": "isAfter", "tails": [" learn new things", " learn new skills", " learn new skill"]}
+{"head": "to learn", "relation": "HasSubEvent", "tails": [" to learn", " learn new things", " learn new skill"]}
+{"head": "to learn", "relation": "Causes", "tails": [" learn new things", " to learn", " learn new skills"]}
+{"head": "to learn", "relation": "xReason", "tails": [" learn new things", " to learn", " learn new skill"]}
+{"head": "to help", "relation": "HinderedBy", "tails": [" to help", " to help ", " to help  to help"]}
+{"head": "to help", "relation": "isBefore", "tails": [" to help", " to help others", " to help them"]}
+{"head": "to help", "relation": "isAfter", "tails": [" to help", " to be helpful", " to help others"]}
+{"head": "to help", "relation": "HasSubEvent", "tails": [" to help", " to help  help", " to help "]}
+{"head": "to help", "relation": "Causes", "tails": [" to help", " to help others", " to help  to help"]}
+{"head": "to help", "relation": "xReason", "tails": [" to help", " to help others", " to be helpful"]}
+{"head": "to have", "relation": "HinderedBy", "tails": [" to have", " to have ", " to have  to have"]}
+{"head": "to have", "relation": "isBefore", "tails": [" to have", " to have ", " to have  a good time"]}
+{"head": "to have", "relation": "isAfter", "tails": [" to have something to eat", " to have", " to have something to drink"]}
+{"head": "to have", "relation": "HasSubEvent", "tails": [" to have", " to have ", " to have  have"]}
+{"head": "to have", "relation": "Causes", "tails": [" to have", " to have ", " to have  "]}
+{"head": "to have", "relation": "xReason", "tails": [" to have", " to have something to eat", " to have "]}
+{"head": "to go", "relation": "HinderedBy", "tails": [" to go", " to go ", " to go  to"]}
+{"head": "to go", "relation": "isBefore", "tails": [" to go", " get in car", " to go somewhere"]}
+{"head": "to go", "relation": "isAfter", "tails": [" get in the car", " get in car", " to go to the bathroom"]}
+{"head": "to go", "relation": "HasSubEvent", "tails": [" get in car", " to go", " to go  home"]}
+{"head": "to go", "relation": "Causes", "tails": [" to go", " get in car", " to go  home"]}
+{"head": "to go", "relation": "xReason", "tails": [" to go", " get in car", " to go somewhere"]}
+{"head": "tell anyone", "relation": "HinderedBy", "tails": [" tell someone else", " tell others", " none"]}
+{"head": "tell anyone", "relation": "isBefore", "tails": [" tell someone else", " tell everyone else", " tell others"]}
+{"head": "tell anyone", "relation": "isAfter", "tails": [" none", " tell someone else", " tell others"]}
+{"head": "tell anyone", "relation": "HasSubEvent", "tails": [" find out what is going on", " find out what they know", " find out what happened"]}
+{"head": "tell anyone", "relation": "Causes", "tails": [" none", " tell others", " tell someone else"]}
+{"head": "tell anyone", "relation": "xReason", "tails": [" none", " tell others", " tell someone else"]}
+{"head": "pool", "relation": "ObjectUse", "tails": [" swim in", " swimming in", " swimming"]}
+{"head": "pool", "relation": "AtLocation", "tails": [" swimming pool", " beach", " pool"]}
+{"head": "pool", "relation": "CapableOf", "tails": [" swim in", " have fun in", " get wet"]}
+{"head": "pool", "relation": "HasProperty", "tails": [" found at beach", " found in lake", " found in ocean"]}
+{"head": "pool", "relation": "MadeUpOf", "tails": [" swimming pool", " water", " pool"]}
+{"head": "pool", "relation": "NotDesires", "tails": [" swim in", " swimming in", " swimming pool"]}
+{"head": "pool", "relation": "Desires", "tails": [" swim in", " have fun", " have fun in"]}
+{"head": "lose footing", "relation": "HinderedBy", "tails": [" lose balance", " fall", " fall down"]}
+{"head": "lose footing", "relation": "isBefore", "tails": [" lose balance", " fall", " fall down"]}
+{"head": "lose footing", "relation": "isAfter", "tails": [" lose balance", " fall down", " fall"]}
+{"head": "lose footing", "relation": "HasSubEvent", "tails": [" lose balance", " fall down", " fall"]}
+{"head": "lose footing", "relation": "Causes", "tails": [" lose balance", " fall", " fall down"]}
+{"head": "lose footing", "relation": "xReason", "tails": [" lose balance", " fall", " fall down"]}
+{"head": "lifeguard", "relation": "ObjectUse", "tails": [" swim in the ocean", " swim in ocean", " swim in the water"]}
+{"head": "lifeguard", "relation": "AtLocation", "tails": [" swimming pool", " beach", " ocean"]}
+{"head": "lifeguard", "relation": "CapableOf", "tails": [" swim in ocean", " swim in water", " lifeguard"]}
+{"head": "lifeguard", "relation": "HasProperty", "tails": [" lifeguard", " swimming pool", " lifeguards"]}
+{"head": "lifeguard", "relation": "MadeUpOf", "tails": [" life jacket", " lifeguard", " swimsuit"]}
+{"head": "lifeguard", "relation": "NotDesires", "tails": [" swim in ocean", " lifeguard", " lifeguards"]}
+{"head": "lifeguard", "relation": "Desires", "tails": [" swim in ocean", " live in ocean", " live in water"]}
+{"head": "lesson", "relation": "ObjectUse", "tails": [" learn from", " learn something new", " learn about a subject"]}
+{"head": "lesson", "relation": "AtLocation", "tails": [" classroom", " school", " book"]}
+{"head": "lesson", "relation": "CapableOf", "tails": [" learn from", " learn something new", " learn from experience"]}
+{"head": "lesson", "relation": "HasProperty", "tails": [" learned from", " important to life", " learning"]}
+{"head": "lesson", "relation": "MadeUpOf", "tails": [" lesson plan", " lesson", " word"]}
+{"head": "lesson", "relation": "NotDesires", "tails": [" learn something new", " learn from", " learn new things"]}
+{"head": "lesson", "relation": "Desires", "tails": [" learn from", " learn something new", " learn something"]}
+{"head": "learn lesson", "relation": "HinderedBy", "tails": [" learn from mistakes", " learn new things", " learn from experience"]}
+{"head": "learn lesson", "relation": "isBefore", "tails": [" learn from mistakes", " learn new things", " learn something new"]}
+{"head": "learn lesson", "relation": "isAfter", "tails": [" learn from mistakes", " learn new things", " learn from experience"]}
+{"head": "learn lesson", "relation": "HasSubEvent", "tails": [" learn from mistakes", " learn from experience", " learn from mistake"]}
+{"head": "learn lesson", "relation": "Causes", "tails": [" learn from mistakes", " learn from experience", " learn new things"]}
+{"head": "learn lesson", "relation": "xReason", "tails": [" learn from mistakes", " learn new things", " learn from experience"]}
+{"head": "help her", "relation": "HinderedBy", "tails": [" help her", " help person", " help them"]}
+{"head": "help her", "relation": "isBefore", "tails": [" help her get out of trouble", " help her get out of the car", " help her get out of jail"]}
+{"head": "help her", "relation": "isAfter", "tails": [" hug her", " help her", " help her get home"]}
+{"head": "help her", "relation": "HasSubEvent", "tails": [" ask her if she needs anything else", " ask her if she needs anything", " ask her if she needs help"]}
+{"head": "help her", "relation": "Causes", "tails": [" help her get out of trouble", " help her", " help her get out of jail"]}
+{"head": "help her", "relation": "xReason", "tails": [" get her out of trouble", " help her get out of trouble", " get her out of the house"]}
+{"head": "footing", "relation": "ObjectUse", "tails": [" walk on", " run on", " put on a shoe"]}
+{"head": "footing", "relation": "AtLocation", "tails": [" foot", " feet", " footboard"]}
+{"head": "footing", "relation": "CapableOf", "tails": [" step on", " walk on", " walk across floor"]}
+{"head": "footing", "relation": "HasProperty", "tails": [" worn on feet", " feet", " worn on foot"]}
+{"head": "footing", "relation": "MadeUpOf", "tails": [" foot", " feet", " leg"]}
+{"head": "footing", "relation": "NotDesires", "tails": [" foot pain", " walk on", " feet to hurt"]}
+{"head": "footing", "relation": "Desires", "tails": [" walk on", " feet", " feet to move"]}
+{"head": "family", "relation": "ObjectUse", "tails": [" have a good time", " have fun with", " have a good time with"]}
+{"head": "family", "relation": "AtLocation", "tails": [" family home", " family room", " family tree"]}
+{"head": "family", "relation": "CapableOf", "tails": [" live together", " live in same house", " live in house"]}
+{"head": "family", "relation": "HasProperty", "tails": [" family", " social group", " family tree"]}
+{"head": "family", "relation": "MadeUpOf", "tails": [" family tree", " family name", " family"]}
+{"head": "family", "relation": "NotDesires", "tails": [" family problems", " family", " feel lonely"]}
+{"head": "family", "relation": "Desires", "tails": [" have fun", " have a good time", " have fun with"]}
+{"head": "end", "relation": "ObjectUse", "tails": [" get out of the car", " get out of the way", " get out of there"]}
+{"head": "end", "relation": "AtLocation", "tails": [" end of story", " end of line", " end of sentence"]}
+{"head": "end", "relation": "CapableOf", "tails": [" close book", " get out of car", " stop talking"]}
+{"head": "end", "relation": "HasProperty", "tails": [" end of story", " end of sentence", " found in book"]}
+{"head": "end", "relation": "MadeUpOf", "tails": [" end of sentence", " end of line", " end of story"]}
+{"head": "end", "relation": "NotDesires", "tails": [" end of story", " have to go home", " have to go back to"]}
+{"head": "end", "relation": "Desires", "tails": [" end of story", " have a good time", " get out of the way"]}
+{"head": "deeper end", "relation": "ObjectUse", "tails": [" get to the other side", " get out of the water", " get to the other end"]}
+{"head": "deeper end", "relation": "AtLocation", "tails": [" water", " boat", " underwater"]}
+{"head": "deeper end", "relation": "CapableOf", "tails": [" get to the end", " get out of water", " get to the bottom"]}
+{"head": "deeper end", "relation": "HasProperty", "tails": [" found in ocean", " found in sea", " found in water"]}
+{"head": "deeper end", "relation": "MadeUpOf", "tails": [" water", " underwater", " bottom"]}
+{"head": "deeper end", "relation": "NotDesires", "tails": [" find out what's going on", " find out what is going on", " find out what's down there"]}
+{"head": "deeper end", "relation": "Desires", "tails": [" get to the other side", " get to the other end", " get to the end"]}
+{"head": "community pool", "relation": "ObjectUse", "tails": [" swim in", " swimming pool", " swimming"]}
+{"head": "community pool", "relation": "AtLocation", "tails": [" swimming pool", " pool house", " community center"]}
+{"head": "community pool", "relation": "CapableOf", "tails": [" swim in", " have fun", " swim in pool"]}
+{"head": "community pool", "relation": "HasProperty", "tails": [" found in many cities", " swimming pool", " found in many places"]}
+{"head": "community pool", "relation": "MadeUpOf", "tails": [" swimming pool", " pool noodle", " pool float"]}
+{"head": "community pool", "relation": "NotDesires", "tails": [" swimming pool", " have fun", " swimming"]}
+{"head": "community pool", "relation": "Desires", "tails": [" have fun", " swimming pool", " swim in"]}
+{"head": "community", "relation": "ObjectUse", "tails": [" live in", " live together in", " socialize"]}
+{"head": "community", "relation": "AtLocation", "tails": [" city", " town", " community"]}
+{"head": "community", "relation": "CapableOf", "tails": [" live in", " live together", " live in community"]}
+{"head": "community", "relation": "HasProperty", "tails": [" found in many places around the world", " found in many places", " found in many places around the world."]}
+{"head": "community", "relation": "MadeUpOf", "tails": [" community", " community building", " community center"]}
+{"head": "community", "relation": "NotDesires", "tails": [" live in", " people to live with", " people to live in"]}
+{"head": "community", "relation": "Desires", "tails": [" live in", " live together", " feel safe"]}
+{"head": "Without telling anyone, she swam out farther, and lost her footing.", "relation": "xAttr", "tails": [" careless", " clumsy", " scared"]}
+{"head": "Without telling anyone, she swam out farther, and lost her footing.", "relation": "xWant", "tails": [" to get out of the water", " get out of the water", " to get out of the water."]}
+{"head": "Without telling anyone, she swam out farther, and lost her footing.", "relation": "xNeed", "tails": [" get in the water", " to get in the water", " none"]}
+{"head": "Without telling anyone, she swam out farther, and lost her footing.", "relation": "xEffect", "tails": [" get out of the water", " get out of water", " none"]}
+{"head": "Without telling anyone, she swam out farther, and lost her footing.", "relation": "HinderedBy", "tails": [" without telling anyone", " without telling anyone.", " without telling anyone else"]}
+{"head": "Without telling anyone, she swam out farther, and lost her footing.", "relation": "oWant", "tails": [" none", " get out of the water", " get out of the water."]}
+{"head": "Without telling anyone, she swam out farther, and lost her footing.", "relation": "xReact", "tails": [" scared", " lost", " lost balance"]}
+{"head": "Without telling anyone, she swam out farther, and lost her footing.", "relation": "oEffect", "tails": [" none", " swim to the shore", " swims out of water"]}
+{"head": "Without telling anyone, she swam out farther, and lost her footing.", "relation": "xIntent", "tails": [" none", " get out of the water", " get out of the water."]}
+{"head": "Without telling anyone, she swam out farther, and lost her footing.", "relation": "oReact", "tails": [" none", " scared", " lost"]}
+{"head": "Without telling anyone, she swam out farther, and lost her footing.", "relation": "isBefore", "tails": [" none", " without knowing why", " without a plan"]}
+{"head": "Without telling anyone, she swam out farther, and lost her footing.", "relation": "isAfter", "tails": [" swim in the ocean", " none", " swim to shore"]}
+{"head": "Without telling anyone, she swam out farther, and lost her footing.", "relation": "HasSubEvent", "tails": [" get out of the water", " get out of water", " lose balance"]}
+{"head": "Without telling anyone, she swam out farther, and lost her footing.", "relation": "Causes", "tails": [" lost balance", " lost their footing", " lost their balance"]}
+{"head": "Without telling anyone, she swam out farther, and lost her footing.", "relation": "xReason", "tails": [" none", " lost balance", " lost their balance"]}
+{"head": "The lifeguard had to help her out of the water.", "relation": "xAttr", "tails": [" helpful", " clumsy", " scared"]}
+{"head": "The lifeguard had to help her out of the water.", "relation": "xWant", "tails": [" to make sure she is okay", " to make sure she is ok", " to make sure she's okay"]}
+{"head": "The lifeguard had to help her out of the water.", "relation": "xNeed", "tails": [" get in the water", " to be in the water", " to be in the water."]}
+{"head": "The lifeguard had to help her out of the water.", "relation": "xEffect", "tails": [" the lifeguard has to help them out of the water", " the lifeguard has to help the person out of the water", " the lifeguard has to help the person out of the water."]}
+{"head": "The lifeguard had to help her out of the water.", "relation": "HinderedBy", "tails": [" the water is too cold", " the water is too deep", " the lifeguard to help them"]}
+{"head": "The lifeguard had to help her out of the water.", "relation": "oWant", "tails": [" to help her out of the water", " to help the person out of the water", " to help the person get out of the water"]}
+{"head": "The lifeguard had to help her out of the water.", "relation": "xReact", "tails": [" relieved", " scared", " safe"]}
+{"head": "The lifeguard had to help her out of the water.", "relation": "oEffect", "tails": [" get out of the water", " get out of water", " get out of the water."]}
+{"head": "The lifeguard had to help her out of the water.", "relation": "xIntent", "tails": [" the person to get out of the water", " the person to get out of the water.", " the person to be safe"]}
+{"head": "The lifeguard had to help her out of the water.", "relation": "oReact", "tails": [" none", " scared", " relieved"]}
+{"head": "The lifeguard had to help her out of the water.", "relation": "isBefore", "tails": [" the lifeguard to help her out of the water", " the lifeguard to help them out of the water", " the lifeguard to help the person out of the water"]}
+{"head": "The lifeguard had to help her out of the water.", "relation": "isAfter", "tails": [" PersonY falls into the water.", " PersonY falls into the water and drowns.", " PersonY falls into the water and drowns"]}
+{"head": "The lifeguard had to help her out of the water.", "relation": "HasSubEvent", "tails": [" get out of the water", " get out of water", " get out of the water."]}
+{"head": "The lifeguard had to help her out of the water.", "relation": "Causes", "tails": [" the person to get out of the water", " the person to get out of the water.", " the lifeguard to help them out of the water"]}
+{"head": "The lifeguard had to help her out of the water.", "relation": "xReason", "tails": [" the lifeguard to help them out of the water", " the water is too cold for the lifeguard to help", " the water is too cold for the lifeguard to help."]}
+{"head": "She thought she could go out to the deeper end by herself.", "relation": "xAttr", "tails": [" brave", " scared", " adventurous"]}
+{"head": "She thought she could go out to the deeper end by herself.", "relation": "xWant", "tails": [" to go to the beach", " to be alone", " to go swimming"]}
+{"head": "She thought she could go out to the deeper end by herself.", "relation": "xNeed", "tails": [" none", " to get in the water", " to get in the pool"]}
+{"head": "She thought she could go out to the deeper end by herself.", "relation": "xEffect", "tails": [" she goes into the water", " none", " she goes into the water."]}
+{"head": "She thought she could go out to the deeper end by herself.", "relation": "HinderedBy", "tails": [" She is afraid of the water.", " She is afraid of sharks.", " She is afraid of drowning."]}
+{"head": "She thought she could go out to the deeper end by herself.", "relation": "oWant", "tails": [" none", " to help her", " to help them"]}
+{"head": "She thought she could go out to the deeper end by herself.", "relation": "xReact", "tails": [" scared", " happy", " nervous"]}
+{"head": "She thought she could go out to the deeper end by herself.", "relation": "oEffect", "tails": [" none", " get out of the water", " get out of the water."]}
+{"head": "She thought she could go out to the deeper end by herself.", "relation": "xIntent", "tails": [" none", " to be alone", " to have fun"]}
+{"head": "She thought she could go out to the deeper end by herself.", "relation": "oReact", "tails": [" none", " scared", " sad"]}
+{"head": "She thought she could go out to the deeper end by herself.", "relation": "isBefore", "tails": [" she goes to the pool", " she goes to the beach", " she went to the beach"]}
+{"head": "She thought she could go out to the deeper end by herself.", "relation": "isAfter", "tails": [" swim in the ocean", " swim in the pool", " swim in the ocean."]}
+{"head": "She thought she could go out to the deeper end by herself.", "relation": "HasSubEvent", "tails": [" get out of the water", " get out of the pool", " get in the water"]}
+{"head": "She thought she could go out to the deeper end by herself.", "relation": "Causes", "tails": [" she wanted to be alone", " she wanted to be independent", " she wanted to be alone."]}
+{"head": "She thought she could go out to the deeper end by herself.", "relation": "xReason", "tails": [" none", " she wanted to be alone", " she wanted to be alone."]}
+{"head": "Jenna was at the community pool with her family.", "relation": "xAttr", "tails": [" fun", " social", " relaxed"]}
+{"head": "Jenna was at the community pool with her family.", "relation": "xWant", "tails": [" to swim in the pool", " to have fun", " to swim in the water"]}
+{"head": "Jenna was at the community pool with her family.", "relation": "xNeed", "tails": [" go to the pool", " to go to the pool", " to go to the community pool"]}
+{"head": "Jenna was at the community pool with her family.", "relation": "xEffect", "tails": [" gets sunburned", " swims in the pool", " gets sunburnt"]}
+{"head": "Jenna was at the community pool with her family.", "relation": "HinderedBy", "tails": [" The pool is closed.", " The pool is too crowded.", " The pool is closed for maintenance."]}
+{"head": "Jenna was at the community pool with her family.", "relation": "oWant", "tails": [" to swim in the pool", " to have fun", " to swim in the pool."]}
+{"head": "Jenna was at the community pool with her family.", "relation": "xReact", "tails": [" happy", " relaxed", " happy."]}
+{"head": "Jenna was at the community pool with her family.", "relation": "oEffect", "tails": [" none", " swims in the pool", " swim in the pool"]}
+{"head": "Jenna was at the community pool with her family.", "relation": "xIntent", "tails": [" to have fun", " to have a good time", " to have fun with their family"]}
+{"head": "Jenna was at the community pool with her family.", "relation": "oReact", "tails": [" none", " happy", " happy."]}
+{"head": "Jenna was at the community pool with her family.", "relation": "isBefore", "tails": [" Jumps in the water.", " Jumps in the water", " Jumps in the pool."]}
+{"head": "Jenna was at the community pool with her family.", "relation": "isAfter", "tails": [" swimming pool", " swimsuit", " swims"]}
+{"head": "Jenna was at the community pool with her family.", "relation": "HasSubEvent", "tails": [" swim in the pool", " have fun", " swim in pool"]}
+{"head": "Jenna was at the community pool with her family.", "relation": "Causes", "tails": [" Jumps in the water.", " Jumps in the pool.", " Jumps in the water"]}
+{"head": "Jenna was at the community pool with her family.", "relation": "xReason", "tails": [" Jumps in the water.", " Jumps in the pool.", " Jumps in the water"]}
+{"head": "Jenna had learned her lesson.", "relation": "xAttr", "tails": [" smart", " wise", " responsible"]}
+{"head": "Jenna had learned her lesson.", "relation": "xWant", "tails": [" to learn from their mistake", " to learn from it", " to learn from their mistakes"]}
+{"head": "Jenna had learned her lesson.", "relation": "xNeed", "tails": [" to have done something wrong", " to have done something bad", " to have learned a lesson"]}
+{"head": "Jenna had learned her lesson.", "relation": "xEffect", "tails": [" learns a lesson", " learns from mistakes", " learns from it"]}
+{"head": "Jenna had learned her lesson.", "relation": "HinderedBy", "tails": [" JENNA HAS NO IDEA WHAT THEY ARE TALKING ABOUT.", " JENNA HAS NO IDEA WHAT THEY ARE TALKING ABOUT", " JENNA HAS NO IDEA WHAT THEY ARE DOING."]}
+{"head": "Jenna had learned her lesson.", "relation": "oWant", "tails": [" none", " to help him", " to help them"]}
+{"head": "Jenna had learned her lesson.", "relation": "xReact", "tails": [" good about themselves", " good about themselves.", " relieved"]}
+{"head": "Jenna had learned her lesson.", "relation": "oEffect", "tails": [" none", " learn from their mistakes", " learn from mistakes"]}
+{"head": "Jenna had learned her lesson.", "relation": "xIntent", "tails": [" none", " to be a good person", " to be a better person"]}
+{"head": "Jenna had learned her lesson.", "relation": "oReact", "tails": [" none", " sad", " happy"]}
+{"head": "Jenna had learned her lesson.", "relation": "isBefore", "tails": [" PersonX tells PersonX to stop.", " PersonX tells PersonX to stop being a bully.", " PersonX tells PersonX to stop being so stupid."]}
+{"head": "Jenna had learned her lesson.", "relation": "isAfter", "tails": [" PersonX tells PersonX that PersonX is a good person.", " PersonX tells PersonX that PersonX is not a good person.", " PersonX tells PersonX to stop."]}
+{"head": "Jenna had learned her lesson.", "relation": "HasSubEvent", "tails": [" learn from mistakes", " learn from it", " learn from mistake"]}
+{"head": "Jenna had learned her lesson.", "relation": "Causes", "tails": [" they learned a lesson", " they learned a lesson from it", " they learned from it"]}
+{"head": "Jenna had learned her lesson.", "relation": "xReason", "tails": [" they are no longer in trouble", " none", " they are no longer a victim"]}
+{"head": "Jenna", "relation": "ObjectUse", "tails": [" get a new job", " get a job", " get married"]}
+{"head": "Jenna", "relation": "AtLocation", "tails": [" house", " school", " apartment"]}
+{"head": "Jenna", "relation": "CapableOf", "tails": [" take shower", " go to sleep", " get a job"]}
+{"head": "Jenna", "relation": "HasProperty", "tails": [" none", " found on beach", " found in bathroom"]}
+{"head": "Jenna", "relation": "MadeUpOf", "tails": [" jennifer", " jennal", " jennifers"]}
+{"head": "Jenna", "relation": "NotDesires", "tails": [" get in car accident", " have to go to the bathroom", " have to go to work"]}
+{"head": "Jenna", "relation": "Desires", "tails": [" get a new job", " get a job", " none"]}

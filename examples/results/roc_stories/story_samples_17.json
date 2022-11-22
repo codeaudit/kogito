@@ -1,0 +1,218 @@
+{"head": "young man", "relation": "ObjectUse", "tails": [" get a job", " young woman", " young woman to marry"]}
+{"head": "young man", "relation": "AtLocation", "tails": [" young man", " young woman", " young girl"]}
+{"head": "young man", "relation": "CapableOf", "tails": [" learn to play guitar", " learn to play piano", " learn to drive"]}
+{"head": "young man", "relation": "HasProperty", "tails": [" young", " young man", " very young"]}
+{"head": "young man", "relation": "MadeUpOf", "tails": [" young man", " young woman", " young girl"]}
+{"head": "young man", "relation": "NotDesires", "tails": [" young woman", " young man", " young girl"]}
+{"head": "young man", "relation": "Desires", "tails": [" young woman", " young wife", " young man"]}
+{"head": "winnings", "relation": "ObjectUse", "tails": [" win the lottery", " win a lottery", " buy a house"]}
+{"head": "winnings", "relation": "AtLocation", "tails": [" casino", " winnings", " money"]}
+{"head": "winnings", "relation": "CapableOf", "tails": [" win lottery", " buy a house", " win a lottery"]}
+{"head": "winnings", "relation": "HasProperty", "tails": [" winnings", " good luck", " good for business"]}
+{"head": "winnings", "relation": "MadeUpOf", "tails": [" winnings", " money", " prize money"]}
+{"head": "winnings", "relation": "NotDesires", "tails": [" win the lottery", " win money", " winnings"]}
+{"head": "winnings", "relation": "Desires", "tails": [" win the lottery", " have a good time", " win money"]}
+{"head": "win lottery", "relation": "HinderedBy", "tails": [" win lottery", " buy lottery ticket", " buy lottery tickets"]}
+{"head": "win lottery", "relation": "isBefore", "tails": [" buy lottery ticket", " win money", " buy lottery tickets"]}
+{"head": "win lottery", "relation": "isAfter", "tails": [" buy lottery ticket", " win money", " win lottery"]}
+{"head": "win lottery", "relation": "HasSubEvent", "tails": [" buy lottery ticket", " win money", " buy lottery tickets"]}
+{"head": "win lottery", "relation": "Causes", "tails": [" buy lottery ticket", " win money", " win lottery"]}
+{"head": "win lottery", "relation": "xReason", "tails": [" buy lottery ticket", " win money", " win lottery"]}
+{"head": "use drugs", "relation": "HinderedBy", "tails": [" get high", " use drugs to get high", " get addicted to drugs"]}
+{"head": "use drugs", "relation": "isBefore", "tails": [" get high", " get addicted to drugs", " get addicted to"]}
+{"head": "use drugs", "relation": "isAfter", "tails": [" get high", " get addicted to", " get addicted to drugs"]}
+{"head": "use drugs", "relation": "HasSubEvent", "tails": [" get high", " get addicted", " get addicted to"]}
+{"head": "use drugs", "relation": "Causes", "tails": [" get high", " get addicted to", " get addicted to drugs"]}
+{"head": "use drugs", "relation": "xReason", "tails": [" get high", " get addicted to", " get addicted to drugs"]}
+{"head": "to win", "relation": "HinderedBy", "tails": [" to win", " to win ", " to win the game"]}
+{"head": "to win", "relation": "isBefore", "tails": [" to win", " to win the game", " win the game"]}
+{"head": "to win", "relation": "isAfter", "tails": [" to win", " to win the game", " win the game"]}
+{"head": "to win", "relation": "HasSubEvent", "tails": [" to win", " win the game", " win"]}
+{"head": "to win", "relation": "Causes", "tails": [" to win", " win or lose", " win the game"]}
+{"head": "to win", "relation": "xReason", "tails": [" to win", " win or lose", " to win the game"]}
+{"head": "to use", "relation": "HinderedBy", "tails": [" to use ", " to use", " to use  to use "]}
+{"head": "to use", "relation": "isBefore", "tails": [" to use", " to use ", " to use  to use "]}
+{"head": "to use", "relation": "isAfter", "tails": [" to use  to use ", " to use", " to use "]}
+{"head": "to use", "relation": "HasSubEvent", "tails": [" to use", " to use ", " to use  use "]}
+{"head": "to use", "relation": "Causes", "tails": [" to use", " to use ", " have to use"]}
+{"head": "to use", "relation": "xReason", "tails": [" to use", " to use  to use ", " to use "]}
+{"head": "to ride", "relation": "HinderedBy", "tails": [" to ride", " to ride ", " to ride a bike"]}
+{"head": "to ride", "relation": "isBefore", "tails": [" to ride", " to ride the horse", " to ride the bike"]}
+{"head": "to ride", "relation": "isAfter", "tails": [" ride bike", " to ride a bike", " to ride a horse"]}
+{"head": "to ride", "relation": "HasSubEvent", "tails": [" to ride  ride  ride  ride  ride  ride  ride  ride  ride  ride  ride", " to ride  ride  ride  ride  ride  ride  ride  ride  ride  ride", " to ride  ride  ride  ride  ride  ride  ride  ride  ride"]}
+{"head": "to ride", "relation": "Causes", "tails": [" to ride", " ride bike", " ride horse"]}
+{"head": "to ride", "relation": "xReason", "tails": [" to ride", " have fun", " to ride horse"]}
+{"head": "to revoke", "relation": "HinderedBy", "tails": [" to revoke", " to revoke ", " to revoke the license"]}
+{"head": "to revoke", "relation": "isBefore", "tails": [" to revoke", " to get a new job", " to get rid of a person"]}
+{"head": "to revoke", "relation": "isAfter", "tails": [" to get rid of something", " to make a decision", " to get rid of a person"]}
+{"head": "to revoke", "relation": "HasSubEvent", "tails": [" to revoke", " make a decision", " to get rid of"]}
+{"head": "to revoke", "relation": "Causes", "tails": [" to revoke", " have power", " have to do"]}
+{"head": "to revoke", "relation": "xReason", "tails": [" to get rid of something", " to get rid of someone", " to get rid of a person"]}
+{"head": "to know", "relation": "HinderedBy", "tails": [" to know", " to know ", " to know  about "]}
+{"head": "to know", "relation": "isBefore", "tails": [" to know", " to know what to do", " to know what to do next"]}
+{"head": "to know", "relation": "isAfter", "tails": [" to know", " to know what is going on", " to know what to do"]}
+{"head": "to know", "relation": "HasSubEvent", "tails": [" to know", " to know ", " to know  about"]}
+{"head": "to know", "relation": "Causes", "tails": [" to know", " to know ", " to know  about"]}
+{"head": "to know", "relation": "xReason", "tails": [" to know", " to know about", " to know  about"]}
+{"head": "to go", "relation": "HinderedBy", "tails": [" to go", " to go ", " to go  to"]}
+{"head": "to go", "relation": "isBefore", "tails": [" to go", " get in car", " to go somewhere"]}
+{"head": "to go", "relation": "isAfter", "tails": [" get in the car", " get in car", " to go to the bathroom"]}
+{"head": "to go", "relation": "HasSubEvent", "tails": [" get in car", " to go", " to go  home"]}
+{"head": "to go", "relation": "Causes", "tails": [" to go", " get in car", " to go  home"]}
+{"head": "to go", "relation": "xReason", "tails": [" to go", " get in car", " to go somewhere"]}
+{"head": "to blow", "relation": "HinderedBy", "tails": [" to blow", " to blow ", " to blow  to blow"]}
+{"head": "to blow", "relation": "isBefore", "tails": [" to blow", " to blow in the wind", " to blow in air"]}
+{"head": "to blow", "relation": "isAfter", "tails": [" to get a drink of water", " to blow", " to blow in the air"]}
+{"head": "to blow", "relation": "HasSubEvent", "tails": [" to blow", " to blow ", " to blow  blow"]}
+{"head": "to blow", "relation": "Causes", "tails": [" to blow", " to blow in air", " to blow  in air"]}
+{"head": "to blow", "relation": "xReason", "tails": [" to blow", " to blow in air", " to blow in the wind"]}
+{"head": "ride mowers", "relation": "HinderedBy", "tails": [" ride mowers", " ride mower", " use as a weapon"]}
+{"head": "ride mowers", "relation": "isBefore", "tails": [" lawnmower", " ride on mower", " ride on"]}
+{"head": "ride mowers", "relation": "isAfter", "tails": [" lawnmower", " mower", " lawnmowers"]}
+{"head": "ride mowers", "relation": "HasSubEvent", "tails": [" cut grass", " ride mower", " ride on mower"]}
+{"head": "ride mowers", "relation": "Causes", "tails": [" lawnmower", " use as a prop in a movie", " use as a lawnmower"]}
+{"head": "ride mowers", "relation": "xReason", "tails": [" lawnmower", " ride mower", " lawnmowers"]}
+{"head": "mowers", "relation": "ObjectUse", "tails": [" cut the grass", " cut grass", " cut the lawn"]}
+{"head": "mowers", "relation": "AtLocation", "tails": [" lawnmower", " lawnmower shop", " lawn mower"]}
+{"head": "mowers", "relation": "CapableOf", "tails": [" cut grass", " mow lawn", " cut lawn"]}
+{"head": "mowers", "relation": "HasProperty", "tails": [" used in lawnmower", " used in lawn mower", " used in lawnmowers"]}
+{"head": "mowers", "relation": "MadeUpOf", "tails": [" lawnmower", " lawn mower", " mower"]}
+{"head": "mowers", "relation": "NotDesires", "tails": [" lawnmower", " cut grass", " lawnmowers"]}
+{"head": "mowers", "relation": "Desires", "tails": [" cut grass", " use as lawnmower", " use as lawn mower"]}
+{"head": "money", "relation": "ObjectUse", "tails": [" pay for the food", " pay for the item", " pay for the ticket"]}
+{"head": "money", "relation": "AtLocation", "tails": [" money bag", " wallet", " bank"]}
+{"head": "money", "relation": "CapableOf", "tails": [" pay for things", " pay for items", " buy things"]}
+{"head": "money", "relation": "HasProperty", "tails": [" bought with", " money", " bought with."]}
+{"head": "money", "relation": "MadeUpOf", "tails": [" money bag", " money", " money order"]}
+{"head": "money", "relation": "NotDesires", "tails": [" pay for things", " money to buy things", " pay bills"]}
+{"head": "money", "relation": "Desires", "tails": [" money to buy things", " money", " pay for things"]}
+{"head": "man", "relation": "ObjectUse", "tails": [" man of steel", " man's mouth", " man's place"]}
+{"head": "man", "relation": "AtLocation", "tails": [" mannequin", " man's house", " man's home"]}
+{"head": "man", "relation": "CapableOf", "tails": [" man of steel", " men to work", " men to be men"]}
+{"head": "man", "relation": "HasProperty", "tails": [" found in woods", " man", " man's body"]}
+{"head": "man", "relation": "MadeUpOf", "tails": [" man's mouth", " mannequin", " man's hand"]}
+{"head": "man", "relation": "NotDesires", "tails": [" man to die", " man to be dead", " man's body"]}
+{"head": "man", "relation": "Desires", "tails": [" man's best friend", " man's best interests at heart", " man's best interest at heart"]}
+{"head": "lottery", "relation": "ObjectUse", "tails": [" win money", " win a lot of money", " win the lottery"]}
+{"head": "lottery", "relation": "AtLocation", "tails": [" casino", " lottery machine", " lottery game"]}
+{"head": "lottery", "relation": "CapableOf", "tails": [" win money", " buy lottery ticket", " buy lottery tickets"]}
+{"head": "lottery", "relation": "HasProperty", "tails": [" lottery ticket", " lottery", " gambling"]}
+{"head": "lottery", "relation": "MadeUpOf", "tails": [" lottery ticket", " lotteries", " lottery machine"]}
+{"head": "lottery", "relation": "NotDesires", "tails": [" win money", " lose money", " lottery ticket"]}
+{"head": "lottery", "relation": "Desires", "tails": [" win money", " buy lottery ticket", " buy lottery tickets"]}
+{"head": "lot", "relation": "ObjectUse", "tails": [" park the car in", " parking lot", " park the car"]}
+{"head": "lot", "relation": "AtLocation", "tails": [" parking lot", " park", " parking space"]}
+{"head": "lot", "relation": "CapableOf", "tails": [" park car in", " park car", " park car on"]}
+{"head": "lot", "relation": "HasProperty", "tails": [" parking lot", " found in city", " found in many cities"]}
+{"head": "lot", "relation": "MadeUpOf", "tails": [" parking lot", " lotteries", " parking space"]}
+{"head": "lot", "relation": "NotDesires", "tails": [" parking lot", " parking spaces", " parking space"]}
+{"head": "lot", "relation": "Desires", "tails": [" parking lot", " parking spaces", " parking space"]}
+{"head": "lawn mowers", "relation": "ObjectUse", "tails": [" cut the grass", " cut grass", " use as a weapon"]}
+{"head": "lawn mowers", "relation": "AtLocation", "tails": [" lawnmower", " lawn mower", " lawnmower shop"]}
+{"head": "lawn mowers", "relation": "CapableOf", "tails": [" cut grass", " mow lawn", " mow lawns"]}
+{"head": "lawn mowers", "relation": "HasProperty", "tails": [" lawnmower", " lawn mower", " lawnmowers"]}
+{"head": "lawn mowers", "relation": "MadeUpOf", "tails": [" lawnmower", " lawn mower", " mower blade"]}
+{"head": "lawn mowers", "relation": "NotDesires", "tails": [" lawnmower", " lawn mower", " lawnmowers"]}
+{"head": "lawn mowers", "relation": "Desires", "tails": [" lawnmower", " lawnmowers", " lawn mower"]}
+{"head": "lawn", "relation": "ObjectUse", "tails": [" sit on", " walk on", " sit and relax"]}
+{"head": "lawn", "relation": "AtLocation", "tails": [" lawnmower", " park", " garden"]}
+{"head": "lawn", "relation": "CapableOf", "tails": [" sit on", " walk on", " walk around"]}
+{"head": "lawn", "relation": "HasProperty", "tails": [" grass", " grassy", " found in country"]}
+{"head": "lawn", "relation": "MadeUpOf", "tails": [" lawnmower", " grass", " lawn"]}
+{"head": "lawn", "relation": "NotDesires", "tails": [" lawnmower", " grass", " walk on"]}
+{"head": "lawn", "relation": "Desires", "tails": [" lawnmower", " grass", " lawnmowers"]}
+{"head": "dui", "relation": "ObjectUse", "tails": [" use as a weapon", " use as a door stop", " use as a doorstop"]}
+{"head": "dui", "relation": "AtLocation", "tails": [" airplane", " car", " bus"]}
+{"head": "dui", "relation": "CapableOf", "tails": [" use as a weapon", " drive car", " use as a door stop"]}
+{"head": "dui", "relation": "HasProperty", "tails": [" found in car", " one of two types of cars", " one of two types of computers"]}
+{"head": "dui", "relation": "MadeUpOf", "tails": [" car", " two wheels", " two legs"]}
+{"head": "dui", "relation": "NotDesires", "tails": [" ride on rollercoaster", " ride on rollercoasters", " have to go to bathroom"]}
+{"head": "dui", "relation": "Desires", "tails": [" use as a weapon", " use as a door stop", " use as a doorstop"]}
+{"head": "drugs", "relation": "ObjectUse", "tails": [" get high", " use as a weapon", " take to sleep"]}
+{"head": "drugs", "relation": "AtLocation", "tails": [" medicine chest", " drugstore", " medicine cabinet"]}
+{"head": "drugs", "relation": "CapableOf", "tails": [" get high", " use as a weapon", " use to get high"]}
+{"head": "drugs", "relation": "HasProperty", "tails": [" addictive", " drugs", " drug abuse"]}
+{"head": "drugs", "relation": "MadeUpOf", "tails": [" drugs", " medicine", " medicine chest"]}
+{"head": "drugs", "relation": "NotDesires", "tails": [" get addicted to", " get high", " pain"]}
+{"head": "drugs", "relation": "Desires", "tails": [" get high", " use to get high", " take to feel better"]}
+{"head": "blow lot", "relation": "HinderedBy", "tails": [" blow lot", " blow air", " blow in air"]}
+{"head": "blow lot", "relation": "isBefore", "tails": [" blow lot of smoke", " blow lot of air", " blow in air"]}
+{"head": "blow lot", "relation": "isAfter", "tails": [" blow lot of smoke", " blow lot of air", " blow in air"]}
+{"head": "blow lot", "relation": "HasSubEvent", "tails": [" blow air out of mouth", " blow lot of air", " blow air out of nose"]}
+{"head": "blow lot", "relation": "Causes", "tails": [" blow lot of smoke", " blow lot of air", " blow in air"]}
+{"head": "blow lot", "relation": "xReason", "tails": [" blow lot of smoke", " blow lot of air", " blow in air"]}
+{"head": "I knew of a young man who won the lottery.", "relation": "xAttr", "tails": [" lucky", " rich", " hopeful"]}
+{"head": "I knew of a young man who won the lottery.", "relation": "xWant", "tails": [" to buy a lottery ticket", " to buy a house", " to buy a new car"]}
+{"head": "I knew of a young man who won the lottery.", "relation": "xNeed", "tails": [" buy lottery ticket", " buy lottery tickets", " none"]}
+{"head": "I knew of a young man who won the lottery.", "relation": "xEffect", "tails": [" win the lottery", " winnings", " win money"]}
+{"head": "I knew of a young man who won the lottery.", "relation": "HinderedBy", "tails": [" I don't have a lottery ticket.", " I don't have any money.", " I have no money."]}
+{"head": "I knew of a young man who won the lottery.", "relation": "oWant", "tails": [" none", " to buy a new car", " to buy a house"]}
+{"head": "I knew of a young man who won the lottery.", "relation": "xReact", "tails": [" happy", " lucky", " excited"]}
+{"head": "I knew of a young man who won the lottery.", "relation": "oEffect", "tails": [" none", " win the lottery", " winnings"]}
+{"head": "I knew of a young man who won the lottery.", "relation": "xIntent", "tails": [" none", " to be rich", " to win money"]}
+{"head": "I knew of a young man who won the lottery.", "relation": "oReact", "tails": [" none", " happy", " lucky"]}
+{"head": "I knew of a young man who won the lottery.", "relation": "isBefore", "tails": [" I bought a lottery ticket.", " I bought a lottery ticket", " I bought a lottery ticket for him"]}
+{"head": "I knew of a young man who won the lottery.", "relation": "isAfter", "tails": [" I bought a lottery ticket.", " I bought a lottery ticket", " I bought a lottery ticket for him"]}
+{"head": "I knew of a young man who won the lottery.", "relation": "HasSubEvent", "tails": [" buy lottery ticket", " buy lottery tickets", " win money"]}
+{"head": "I knew of a young man who won the lottery.", "relation": "Causes", "tails": [" I have a friend who won the lottery.", " I have a friend who won a lot of money.", " I have a friend who won a lot of money"]}
+{"head": "I knew of a young man who won the lottery.", "relation": "xReason", "tails": [" I bought a lottery ticket.", " I bought a lottery ticket for him.", " I bought a lottery ticket"]}
+{"head": "He used to ride lawn mowers.", "relation": "xAttr", "tails": [" active", " skilled", " strong"]}
+{"head": "He used to ride lawn mowers.", "relation": "xWant", "tails": [" to buy a lawn mower", " to buy a lawnmower", " to buy a lawn mower."]}
+{"head": "He used to ride lawn mowers.", "relation": "xNeed", "tails": [" to learn how to ride a mower", " to learn how to ride a lawn mower", " get a lawn mower"]}
+{"head": "He used to ride lawn mowers.", "relation": "xEffect", "tails": [" get exercise", " gets exercise", " he gets exercise"]}
+{"head": "He used to ride lawn mowers.", "relation": "HinderedBy", "tails": [" he doesn't have a lawn mower", " he doesn't have a lawnmower", " he doesn't have a lawn mower."]}
+{"head": "He used to ride lawn mowers.", "relation": "oWant", "tails": [" to buy a lawn mower", " to buy a lawnmower", " to buy a new lawn mower"]}
+{"head": "He used to ride lawn mowers.", "relation": "xReact", "tails": [" happy", " tired", " happy to have a hobby"]}
+{"head": "He used to ride lawn mowers.", "relation": "oEffect", "tails": [" none", " get exercise", " get a haircut"]}
+{"head": "He used to ride lawn mowers.", "relation": "xIntent", "tails": [" to cut the grass", " to get exercise", " to cut the lawn"]}
+{"head": "He used to ride lawn mowers.", "relation": "oReact", "tails": [" none", " happy to have a lawn mower.", " happy to have a lawn mower"]}
+{"head": "He used to ride lawn mowers.", "relation": "isBefore", "tails": [" he has to mow the lawn", " he has a lawnmower", " he has a lawn mower"]}
+{"head": "He used to ride lawn mowers.", "relation": "isAfter", "tails": [" lawnmower", " PersonX has a lawn mower.", " PersonX has a lawnmower."]}
+{"head": "He used to ride lawn mowers.", "relation": "HasSubEvent", "tails": [" get exercise", " get tired", " get a haircut"]}
+{"head": "He used to ride lawn mowers.", "relation": "Causes", "tails": [" he has to mow the lawn", " he has a lawnmower", " he has to mow the lawn."]}
+{"head": "He used to ride lawn mowers.", "relation": "xReason", "tails": [" he has to mow the lawn", " he has a lawnmower", " he has a lawn mower"]}
+{"head": "He blew a lot of money.", "relation": "xAttr", "tails": [" irresponsible", " careless", " greedy"]}
+{"head": "He blew a lot of money.", "relation": "xWant", "tails": [" to buy a new car", " to buy a new house", " to get a new job"]}
+{"head": "He blew a lot of money.", "relation": "xNeed", "tails": [" buy a lot of things", " buy a new car", " buy a lot of stuff"]}
+{"head": "He blew a lot of money.", "relation": "xEffect", "tails": [" gets arrested", " he has to pay his bills", " he has to pay for it"]}
+{"head": "He blew a lot of money.", "relation": "HinderedBy", "tails": [" he has no money", " he has no more money", " he has no money to spend"]}
+{"head": "He blew a lot of money.", "relation": "oWant", "tails": [" none", " to get their money back", " to buy a new car"]}
+{"head": "He blew a lot of money.", "relation": "xReact", "tails": [" sad", " guilty", " bad"]}
+{"head": "He blew a lot of money.", "relation": "oEffect", "tails": [" none", " he has to pay his bills", " he has to pay for it"]}
+{"head": "He blew a lot of money.", "relation": "xIntent", "tails": [" none", " to buy a new car", " to buy a new house"]}
+{"head": "He blew a lot of money.", "relation": "oReact", "tails": [" none", " sad", " angry"]}
+{"head": "He blew a lot of money.", "relation": "isBefore", "tails": [" he goes to jail", " he goes to jail for a long time", " he goes to jail for fraud"]}
+{"head": "He blew a lot of money.", "relation": "isAfter", "tails": [" PersonX buys a lot of alcohol.", " PersonX buys a lot of drugs.", " PersonX has no money."]}
+{"head": "He blew a lot of money.", "relation": "HasSubEvent", "tails": [" buy a new car", " get a new job", " buy a new house"]}
+{"head": "He blew a lot of money.", "relation": "Causes", "tails": [" he has no money", " he lost his job", " he has no money."]}
+{"head": "He blew a lot of money.", "relation": "xReason", "tails": [" he lost his job", " he has no money", " he has to pay his bills"]}
+{"head": "Eventually his winnings were revoked after a dui.", "relation": "xAttr", "tails": [" greedy", " cheated", " angry"]}
+{"head": "Eventually his winnings were revoked after a dui.", "relation": "xWant", "tails": [" to get their money back", " to file a lawsuit", " to get their money back."]}
+{"head": "Eventually his winnings were revoked after a dui.", "relation": "xNeed", "tails": [" to have won a lot of money", " win a lot of money", " to have won a lot of money."]}
+{"head": "Eventually his winnings were revoked after a dui.", "relation": "xEffect", "tails": [" loses money", " get a new job", " get a new job."]}
+{"head": "Eventually his winnings were revoked after a dui.", "relation": "HinderedBy", "tails": [" eventually the winnings were returned to the rightful owner.", " eventually the money was returned to the rightful owner.", " eventually the winnings were returned to the rightful owner"]}
+{"head": "Eventually his winnings were revoked after a dui.", "relation": "oWant", "tails": [" to get their money back", " to file a lawsuit", " to get their money back."]}
+{"head": "Eventually his winnings were revoked after a dui.", "relation": "xReact", "tails": [" angry", " sad", " cheated"]}
+{"head": "Eventually his winnings were revoked after a dui.", "relation": "oEffect", "tails": [" none", " lose money", " winnings"]}
+{"head": "Eventually his winnings were revoked after a dui.", "relation": "xIntent", "tails": [" none", " win the lottery", " win money"]}
+{"head": "Eventually his winnings were revoked after a dui.", "relation": "oReact", "tails": [" none", " angry", " cheated"]}
+{"head": "Eventually his winnings were revoked after a dui.", "relation": "isBefore", "tails": [" PersonX loses the money.", " winnings", " PersonX loses the money"]}
+{"head": "Eventually his winnings were revoked after a dui.", "relation": "isAfter", "tails": [" PersonX wins a lot of money.", " PersonX won a lot of money.", " PersonX wins a lot of money"]}
+{"head": "Eventually his winnings were revoked after a dui.", "relation": "HasSubEvent", "tails": [" lose money", " win money", " get a refund"]}
+{"head": "Eventually his winnings were revoked after a dui.", "relation": "Causes", "tails": [" eventually the winnings were returned to the rightful owner.", " eventually the winnings were returned to the rightful owner", " eventually the winnings were returned to the owner."]}
+{"head": "Eventually his winnings were revoked after a dui.", "relation": "xReason", "tails": [" eventually the winnings were returned to the rightful owner.", " eventually the winnings were returned to the rightful owner", " eventually the winnings were returned to the owner."]}
+{"head": "After he won, he went on to using drugs.", "relation": "xAttr", "tails": [" addicted", " addicted to drugs", " drug addict"]}
+{"head": "After he won, he went on to using drugs.", "relation": "xWant", "tails": [" to get high", " to get high.", " win the competition"]}
+{"head": "After he won, he went on to using drugs.", "relation": "xNeed", "tails": [" win the lottery", " win the competition", " win the game"]}
+{"head": "After he won, he went on to using drugs.", "relation": "xEffect", "tails": [" win or lose", " gets arrested", " win the lottery"]}
+{"head": "After he won, he went on to using drugs.", "relation": "HinderedBy", "tails": [" after winning the game", " after winning", " after winning the competition"]}
+{"head": "After he won, he went on to using drugs.", "relation": "oWant", "tails": [" to get high", " none", " to get high."]}
+{"head": "After he won, he went on to using drugs.", "relation": "xReact", "tails": [" happy", " addicted", " sad"]}
+{"head": "After he won, he went on to using drugs.", "relation": "oEffect", "tails": [" win or lose", " none", " win the lottery"]}
+{"head": "After he won, he went on to using drugs.", "relation": "xIntent", "tails": [" to get high", " win the lottery", " win the game"]}
+{"head": "After he won, he went on to using drugs.", "relation": "oReact", "tails": [" none", " sad", " happy"]}
+{"head": "After he won, he went on to using drugs.", "relation": "isBefore", "tails": [" win or lose", " win the lottery", " after winning the game"]}
+{"head": "After he won, he went on to using drugs.", "relation": "isAfter", "tails": [" win or lose", " PersonX wins the lottery.", " win or lose the game"]}
+{"head": "After he won, he went on to using drugs.", "relation": "HasSubEvent", "tails": [" get high", " win the lottery", " win the competition"]}
+{"head": "After he won, he went on to using drugs.", "relation": "Causes", "tails": [" after winning the game", " after winning", " after losing the game"]}
+{"head": "After he won, he went on to using drugs.", "relation": "xReason", "tails": [" after winning the game", " after winning", " after winning the competition"]}

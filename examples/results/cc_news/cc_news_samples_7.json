@@ -1,0 +1,22 @@
+{"head": "Mylan NV:", "relation": "xAttr", "tails": [" hardworking", " hard-working", " hard working"]}
+{"head": "Mylan NV:", "relation": "xWant", "tails": [" to make money", " to sell the medicine", " to sell the product"]}
+{"head": "Mylan NV:", "relation": "xNeed", "tails": [" to get a prescription", " to buy the drug", " to have a prescription"]}
+{"head": "Mylan NV:", "relation": "xEffect", "tails": [" gets a prescription", " get a prescription", " get a prescription filled"]}
+{"head": "Mylan NV:", "relation": "HinderedBy", "tails": [" The pharmacy is out of stock.", " The drug is too expensive.", " The pharmacy is closed."]}
+{"head": "Mylan NV:", "relation": "oWant", "tails": [" none", " to get rid of it", " to get rid of the drug"]}
+{"head": "Mylan NV:", "relation": "xReact", "tails": [" happy", " satisfied", " good"]}
+{"head": "Mylan NV:", "relation": "oEffect", "tails": [" none", " they get a prescription for it", " they get a prescription for the medicine"]}
+{"head": "Mylan NV:", "relation": "xIntent", "tails": [" none", " to get rid of a disease", " to get rid of the pain"]}
+{"head": "Mylan NV:", "relation": "oReact", "tails": [" none", " happy", " happy."]}
+{"head": "Mylan NV:", "relation": "isBefore", "tails": [" drugstore", " drug company", " drug"]}
+{"head": "Mylan NV:", "relation": "isAfter", "tails": [" drugstore", " medicine", " drug store"]}
+{"head": "Mylan NV:", "relation": "HasSubEvent", "tails": [" get a prescription", " get a prescription filled", " get a prescription for it"]}
+{"head": "Mylan NV:", "relation": "Causes", "tails": [" the medicine is not working", " the drug is not working", " the medicine to be safe"]}
+{"head": "Mylan NV:", "relation": "xReason", "tails": [" have to pay for it", " have to pay for the medication", " have to pay for the medicine"]}
+{"head": "Mylan NV", "relation": "ObjectUse", "tails": [" make a pill", " make pills", " sell to customers"]}
+{"head": "Mylan NV", "relation": "AtLocation", "tails": [" medicine chest", " drugstore", " drug store"]}
+{"head": "Mylan NV", "relation": "CapableOf", "tails": [" sell to customers", " sell drugs", " sell to others"]}
+{"head": "Mylan NV", "relation": "HasProperty", "tails": [" sold in the United States", " sold in the US", " good for heart health"]}
+{"head": "Mylan NV", "relation": "MadeUpOf", "tails": [" drug", " medicine", " medicine chest"]}
+{"head": "Mylan NV", "relation": "NotDesires", "tails": [" have to pay for it", " have to pay for drugs", " have to pay for the product"]}
+{"head": "Mylan NV", "relation": "Desires", "tails": [" to be a drug company", " to be able to take medicine", " to be able to sell drugs"]}

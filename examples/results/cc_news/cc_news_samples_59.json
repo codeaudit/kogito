@@ -1,0 +1,90 @@
+{"head": "to pass", "relation": "HinderedBy", "tails": [" to pass", " to pass ", " to pass the test"]}
+{"head": "to pass", "relation": "isBefore", "tails": [" to pass", " to pass the test", " to pass the class"]}
+{"head": "to pass", "relation": "isAfter", "tails": [" to pass the test", " to pass", " to pass a test"]}
+{"head": "to pass", "relation": "HasSubEvent", "tails": [" to pass", " to pass ", " to pass the test"]}
+{"head": "to pass", "relation": "Causes", "tails": [" to pass", " to pass the test", " get a job"]}
+{"head": "to pass", "relation": "xReason", "tails": [" to pass", " to pass the test", " get a job"]}
+{"head": "to handle", "relation": "HinderedBy", "tails": [" to handle", " to handle ", " to handle  to handle"]}
+{"head": "to handle", "relation": "isBefore", "tails": [" to handle", " to handle ", " to handle the situation"]}
+{"head": "to handle", "relation": "isAfter", "tails": [" to handle", " to handle the situation", " to handle something"]}
+{"head": "to handle", "relation": "HasSubEvent", "tails": [" to handle", " to handle ", " to handle  handle"]}
+{"head": "to handle", "relation": "Causes", "tails": [" to handle", " to handle ", " to handle  to handle"]}
+{"head": "to handle", "relation": "xReason", "tails": [" to handle", " to handle ", " to handle something"]}
+{"head": "residence", "relation": "ObjectUse", "tails": [" live in", " have a place to live", " have a place to sleep"]}
+{"head": "residence", "relation": "AtLocation", "tails": [" apartment building", " house", " apartment"]}
+{"head": "residence", "relation": "CapableOf", "tails": [" live in", " have place to live", " have place to sleep"]}
+{"head": "residence", "relation": "HasProperty", "tails": [" living in", " found in many places", " found in many cities"]}
+{"head": "residence", "relation": "MadeUpOf", "tails": [" apartment", " house", " apartment building"]}
+{"head": "residence", "relation": "NotDesires", "tails": [" live in", " living in", " have to live in"]}
+{"head": "residence", "relation": "Desires", "tails": [" live in", " living in", " have privacy"]}
+{"head": "handle arrangements", "relation": "HinderedBy", "tails": [" make sure everything is in order", " make arrangements", " make sure everything goes smoothly"]}
+{"head": "handle arrangements", "relation": "isBefore", "tails": [" make sure everything is in order", " make sure everything is in place", " make sure everything goes smoothly"]}
+{"head": "handle arrangements", "relation": "isAfter", "tails": [" make arrangements", " arrange for guests to arrive", " make arrangements for guests"]}
+{"head": "handle arrangements", "relation": "HasSubEvent", "tails": [" put flowers in vase", " make sure everything is in order", " make sure everything is in place"]}
+{"head": "handle arrangements", "relation": "Causes", "tails": [" make sure everything is in order", " make sure everything goes smoothly", " make sure everything is in place"]}
+{"head": "handle arrangements", "relation": "xReason", "tails": [" make sure everything is in order", " make sure everything is in place", " make sure everything goes smoothly"]}
+{"head": "arrangements", "relation": "ObjectUse", "tails": [" plan a wedding", " arrange for a wedding", " arrange for a party"]}
+{"head": "arrangements", "relation": "AtLocation", "tails": [" office", " hotel room", " office building"]}
+{"head": "arrangements", "relation": "CapableOf", "tails": [" arrange for the event", " arrange for meeting", " arrange for a wedding"]}
+{"head": "arrangements", "relation": "HasProperty", "tails": [" made up of", " arranged", " made up of people"]}
+{"head": "arrangements", "relation": "MadeUpOf", "tails": [" make sure everything goes smoothly", " plan", " make sure everything is in order"]}
+{"head": "arrangements", "relation": "NotDesires", "tails": [" arrange for a wedding", " arrange for the event", " arrange for a meeting"]}
+{"head": "arrangements", "relation": "Desires", "tails": [" have a good time", " arrange for the event", " arrange for a wedding"]}
+{"head": "Sonora", "relation": "ObjectUse", "tails": [" live in", " sonora", " live in the desert"]}
+{"head": "Sonora", "relation": "AtLocation", "tails": [" state", " desert", " country"]}
+{"head": "Sonora", "relation": "CapableOf", "tails": [" play guitar", " get married", " play baseball"]}
+{"head": "Sonora", "relation": "HasProperty", "tails": [" one of the world's most beautiful places", " one of Mexico's most beautiful places", " one of Mexico's most beautiful states"]}
+{"head": "Sonora", "relation": "MadeUpOf", "tails": [" sonora", " water", " sonor"]}
+{"head": "Sonora", "relation": "NotDesires", "tails": [" sonora", " have to go to the doctor", " have to go to the bathroom"]}
+{"head": "Sonora", "relation": "Desires", "tails": [" sonora", " live in", " sonorada"]}
+{"head": "Kenneth Albert Caldwell passed away Friday, April 20th at his residence in Sonora, CA.", "relation": "xAttr", "tails": [" sad", " mournful", " mourned"]}
+{"head": "Kenneth Albert Caldwell passed away Friday, April 20th at his residence in Sonora, CA.", "relation": "xWant", "tails": [" to go to heaven", " to be cremated", " to rest in peace"]}
+{"head": "Kenneth Albert Caldwell passed away Friday, April 20th at his residence in Sonora, CA.", "relation": "xNeed", "tails": [" have a funeral", " to have died", " none"]}
+{"head": "Kenneth Albert Caldwell passed away Friday, April 20th at his residence in Sonora, CA.", "relation": "xEffect", "tails": [" mourns", " mourned", " dies"]}
+{"head": "Kenneth Albert Caldwell passed away Friday, April 20th at his residence in Sonora, CA.", "relation": "HinderedBy", "tails": [" mourned", " mourns", " mourns the loss"]}
+{"head": "Kenneth Albert Caldwell passed away Friday, April 20th at his residence in Sonora, CA.", "relation": "oWant", "tails": [" to go to heaven", " to be cremated", " none"]}
+{"head": "Kenneth Albert Caldwell passed away Friday, April 20th at his residence in Sonora, CA.", "relation": "xReact", "tails": [" sad", " mournful", " mourned"]}
+{"head": "Kenneth Albert Caldwell passed away Friday, April 20th at his residence in Sonora, CA.", "relation": "oEffect", "tails": [" none", " mourns", " mourned"]}
+{"head": "Kenneth Albert Caldwell passed away Friday, April 20th at his residence in Sonora, CA.", "relation": "xIntent", "tails": [" none", " mourned", " to be remembered"]}
+{"head": "Kenneth Albert Caldwell passed away Friday, April 20th at his residence in Sonora, CA.", "relation": "oReact", "tails": [" none", " dead", " sad"]}
+{"head": "Kenneth Albert Caldwell passed away Friday, April 20th at his residence in Sonora, CA.", "relation": "isBefore", "tails": [" mourns", " mourned", " funeral"]}
+{"head": "Kenneth Albert Caldwell passed away Friday, April 20th at his residence in Sonora, CA.", "relation": "isAfter", "tails": [" mourned", " mourns", " funeral"]}
+{"head": "Kenneth Albert Caldwell passed away Friday, April 20th at his residence in Sonora, CA.", "relation": "HasSubEvent", "tails": [" mourns", " mourned", " none"]}
+{"head": "Kenneth Albert Caldwell passed away Friday, April 20th at his residence in Sonora, CA.", "relation": "Causes", "tails": [" mourned", " sad", " mournful"]}
+{"head": "Kenneth Albert Caldwell passed away Friday, April 20th at his residence in Sonora, CA.", "relation": "xReason", "tails": [" mourned", " none", " mourns"]}
+{"head": "Kenneth Albert Caldwell", "relation": "ObjectUse", "tails": [" to be a doctor", " have a good time", " get a job"]}
+{"head": "Kenneth Albert Caldwell", "relation": "AtLocation", "tails": [" office building", " school", " house"]}
+{"head": "Kenneth Albert Caldwell", "relation": "CapableOf", "tails": [" get a job", " to be a doctor", " get a promotion"]}
+{"head": "Kenneth Albert Caldwell", "relation": "HasProperty", "tails": [" one of the most famous people in the world", " one of the most important people in the world", " one of the most influential people in the world"]}
+{"head": "Kenneth Albert Caldwell", "relation": "MadeUpOf", "tails": [" two legs", " two arms", " one of his arms"]}
+{"head": "Kenneth Albert Caldwell", "relation": "NotDesires", "tails": [" none", " have a good time", " have a funeral"]}
+{"head": "Kenneth Albert Caldwell", "relation": "Desires", "tails": [" none", " to be a leader", " to be a good person"]}
+{"head": "Heuton Memorial Chapel are handling the arrangements.", "relation": "xAttr", "tails": [" mournful", " Funeral", " funeral"]}
+{"head": "Heuton Memorial Chapel are handling the arrangements.", "relation": "xWant", "tails": [" to make arrangements for the funeral", " to make arrangements for funeral", " to make arrangements for the funeral."]}
+{"head": "Heuton Memorial Chapel are handling the arrangements.", "relation": "xNeed", "tails": [" to find a funeral home", " to find a funeral home.", " to have a funeral"]}
+{"head": "Heuton Memorial Chapel are handling the arrangements.", "relation": "xEffect", "tails": [" mourns", " he is cremated", " mourns the loss"]}
+{"head": "Heuton Memorial Chapel are handling the arrangements.", "relation": "HinderedBy", "tails": [" Heuton funeral home are handling the arrangements.", " Heuton is a funeral home.", " Heuton funeral home are handling the funeral."]}
+{"head": "Heuton Memorial Chapel are handling the arrangements.", "relation": "oWant", "tails": [" to make arrangements for the funeral", " to make arrangements for the funeral.", " to make arrangements for funeral"]}
+{"head": "Heuton Memorial Chapel are handling the arrangements.", "relation": "xReact", "tails": [" mournful", " mourned", " sad"]}
+{"head": "Heuton Memorial Chapel are handling the arrangements.", "relation": "oEffect", "tails": [" mourns", " funeral arrangements", " mourns person"]}
+{"head": "Heuton Memorial Chapel are handling the arrangements.", "relation": "xIntent", "tails": [" to make sure the funeral is a good one", " to make sure the funeral is a success", " to make sure the funeral is a good one."]}
+{"head": "Heuton Memorial Chapel are handling the arrangements.", "relation": "oReact", "tails": [" none", " sad", " happy"]}
+{"head": "Heuton Memorial Chapel are handling the arrangements.", "relation": "isBefore", "tails": [" funeral arrangements", " funeral", " funeral services"]}
+{"head": "Heuton Memorial Chapel are handling the arrangements.", "relation": "isAfter", "tails": [" heuton funeral home", " funeral home", " funeral"]}
+{"head": "Heuton Memorial Chapel are handling the arrangements.", "relation": "HasSubEvent", "tails": [" funeral arrangements", " mourns", " funeral services"]}
+{"head": "Heuton Memorial Chapel are handling the arrangements.", "relation": "Causes", "tails": [" Heuton is a funeral home.", " Heuton funeral home is handling the arrangements.", " Heuton is a funeral director."]}
+{"head": "Heuton Memorial Chapel are handling the arrangements.", "relation": "xReason", "tails": [" funeral", " funeral arrangements", " funeral home"]}
+{"head": "Heuton Memorial Chapel", "relation": "ObjectUse", "tails": [" Heuton's funeral was held at the church.", " Heuton's funeral was held in the church.", " Heuton's funeral was held in the chapel."]}
+{"head": "Heuton Memorial Chapel", "relation": "AtLocation", "tails": [" church", " funeral", " cemetery"]}
+{"head": "Heuton Memorial Chapel", "relation": "CapableOf", "tails": [" funeral", " mourn", " hear sermon"]}
+{"head": "Heuton Memorial Chapel", "relation": "HasProperty", "tails": [" found in Heuton", " found in church", " funeral"]}
+{"head": "Heuton Memorial Chapel", "relation": "MadeUpOf", "tails": [" funeral", " chapel", " heath"]}
+{"head": "Heuton Memorial Chapel", "relation": "NotDesires", "tails": [" funeral", " he is buried there", " he is buried in"]}
+{"head": "Heuton Memorial Chapel", "relation": "Desires", "tails": [" to have a place to worship", " to have a funeral", " to have a place to pray"]}
+{"head": "20th", "relation": "ObjectUse", "tails": [" have a party", " get married on", " have a birthday party"]}
+{"head": "20th", "relation": "AtLocation", "tails": [" office building", " movie theater", " house"]}
+{"head": "20th", "relation": "CapableOf", "tails": [" get married", " celebrate birthday", " get married on"]}
+{"head": "20th", "relation": "HasProperty", "tails": [" one day a year", " one day a month", " one day a week"]}
+{"head": "20th", "relation": "MadeUpOf", "tails": [" 21st century", " 20th", " 20th of July"]}
+{"head": "20th", "relation": "NotDesires", "tails": [" have to go to work", " have to go to the bathroom", " have to go to the doctor"]}
+{"head": "20th", "relation": "Desires", "tails": [" have a good time", " have a party", " have a good day"]}

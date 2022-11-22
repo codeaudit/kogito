@@ -1,0 +1,202 @@
+{"head": "young visiting priest", "relation": "ObjectUse", "tails": [" young priest", " have a good time", " have a conversation with"]}
+{"head": "young visiting priest", "relation": "AtLocation", "tails": [" church", " priest's house", " priestly house"]}
+{"head": "young visiting priest", "relation": "CapableOf", "tails": [" young priest", " get married", " young man"]}
+{"head": "young visiting priest", "relation": "HasProperty", "tails": [" young", " young priest", " very young"]}
+{"head": "young visiting priest", "relation": "MadeUpOf", "tails": [" young priest", " priestly robes", " priestly robe"]}
+{"head": "young visiting priest", "relation": "NotDesires", "tails": [" young priest", " priestly duties", " young priest in church"]}
+{"head": "young visiting priest", "relation": "Desires", "tails": [" young priest", " young", " young and attractive"]}
+{"head": "to visit", "relation": "HinderedBy", "tails": [" to visit", " to visit ", " to visit  to visit "]}
+{"head": "to visit", "relation": "isBefore", "tails": [" to visit", " to visit family", " to visit  family"]}
+{"head": "to visit", "relation": "isAfter", "tails": [" visit family", " to visit a friend", " to visit family"]}
+{"head": "to visit", "relation": "HasSubEvent", "tails": [" to visit", " get in car", " to visit "]}
+{"head": "to visit", "relation": "Causes", "tails": [" to visit", " to visit family", " visit family"]}
+{"head": "to visit", "relation": "xReason", "tails": [" to visit", " to visit family", " to visit a place"]}
+{"head": "to think", "relation": "HinderedBy", "tails": [" to think", " to think ", " to think about something"]}
+{"head": "to think", "relation": "isBefore", "tails": [" to think", " to think about something", " to think about things"]}
+{"head": "to think", "relation": "isAfter", "tails": [" take a break", " to think", " to think about something"]}
+{"head": "to think", "relation": "HasSubEvent", "tails": [" to think", " stop thinking", " think about things"]}
+{"head": "to think", "relation": "Causes", "tails": [" to think", " to think about", " to think about things"]}
+{"head": "to think", "relation": "xReason", "tails": [" to think", " to think about things", " to think about something"]}
+{"head": "to see", "relation": "HinderedBy", "tails": [" to see", " to see ", " to see something"]}
+{"head": "to see", "relation": "isBefore", "tails": [" to see", " to see what's going on", " to see what is going on"]}
+{"head": "to see", "relation": "isAfter", "tails": [" to see what's going on", " to see what they are looking at", " to see what is going on"]}
+{"head": "to see", "relation": "HasSubEvent", "tails": [" to see", " to see  see", " to see "]}
+{"head": "to see", "relation": "Causes", "tails": [" to see", " to see ", " to see something"]}
+{"head": "to see", "relation": "xReason", "tails": [" to see", " to see something", " look at"]}
+{"head": "to pull", "relation": "HinderedBy", "tails": [" to pull", " to pull ", " to pull  to pull "]}
+{"head": "to pull", "relation": "isBefore", "tails": [" to pull", " to pull ", " to pull  to pull "]}
+{"head": "to pull", "relation": "isAfter", "tails": [" to pull", " to pull on", " to pull out"]}
+{"head": "to pull", "relation": "HasSubEvent", "tails": [" to pull", " to pull  pull  pull  pull  pull", " to pull  pull  pull  pull"]}
+{"head": "to pull", "relation": "Causes", "tails": [" to pull", " to pull ", " to pull  to pull"]}
+{"head": "to pull", "relation": "xReason", "tails": [" to pull", " to pull ", " to pull on"]}
+{"head": "to leave", "relation": "HinderedBy", "tails": [" to leave", " to leave ", " to leave  to leave "]}
+{"head": "to leave", "relation": "isBefore", "tails": [" get in car", " to go home", " to leave"]}
+{"head": "to leave", "relation": "isAfter", "tails": [" get in car", " to go home", " to go to work"]}
+{"head": "to leave", "relation": "HasSubEvent", "tails": [" get in car", " to leave", " get ready to leave"]}
+{"head": "to leave", "relation": "Causes", "tails": [" get in car", " to leave", " to go home"]}
+{"head": "to leave", "relation": "xReason", "tails": [" get in car", " to leave", " to go somewhere else"]}
+{"head": "to kneel", "relation": "HinderedBy", "tails": [" to kneel", " to kneel ", " to kneel  in church"]}
+{"head": "to kneel", "relation": "isBefore", "tails": [" to kneel", " kneel down", " to kneel down"]}
+{"head": "to kneel", "relation": "isAfter", "tails": [" kneel down", " to kneel", " kneel"]}
+{"head": "to kneel", "relation": "HasSubEvent", "tails": [" to kneel", " kneel down", " to kneel "]}
+{"head": "to kneel", "relation": "Causes", "tails": [" to kneel", " kneel down", " kneel"]}
+{"head": "to kneel", "relation": "xReason", "tails": [" to kneel", " to kneel ", " to kneel down"]}
+{"head": "to feel", "relation": "HinderedBy", "tails": [" to feel", " to feel good", " to feel something"]}
+{"head": "to feel", "relation": "isBefore", "tails": [" to feel", " to feel good", " to feel something"]}
+{"head": "to feel", "relation": "isAfter", "tails": [" to feel good", " to feel", " to feel something"]}
+{"head": "to feel", "relation": "HasSubEvent", "tails": [" to feel", " to feel good", " to feel  good"]}
+{"head": "to feel", "relation": "Causes", "tails": [" to feel", " to feel good", " to feel something"]}
+{"head": "to feel", "relation": "xReason", "tails": [" to feel", " to feel good", " to feel something"]}
+{"head": "to fantasize", "relation": "HinderedBy", "tails": [" to fantasize", " to fantasize ", " to fantasize about"]}
+{"head": "to fantasize", "relation": "isBefore", "tails": [" to fantasize", " to have fun", " to fantasize about"]}
+{"head": "to fantasize", "relation": "isAfter", "tails": [" to have fun", " to be entertained", " to think about"]}
+{"head": "to fantasize", "relation": "HasSubEvent", "tails": [" to fantasize", " to fantasize ", " to fantasize about"]}
+{"head": "to fantasize", "relation": "Causes", "tails": [" to have fun", " to be entertained", " to think about"]}
+{"head": "to fantasize", "relation": "xReason", "tails": [" to fantasize", " to have fun", " to fantasize about"]}
+{"head": "to enter", "relation": "HinderedBy", "tails": [" to enter", " to enter ", " to enter the building"]}
+{"head": "to enter", "relation": "isBefore", "tails": [" to enter", " enter building", " to enter room"]}
+{"head": "to enter", "relation": "isAfter", "tails": [" to enter", " to enter the contest", " get in line"]}
+{"head": "to enter", "relation": "HasSubEvent", "tails": [" enter building", " to enter", " get in car"]}
+{"head": "to enter", "relation": "Causes", "tails": [" to enter", " enter building", " get in"]}
+{"head": "to enter", "relation": "xReason", "tails": [" to enter", " get in", " enter"]}
+{"head": "to confess", "relation": "HinderedBy", "tails": [" to confess", " to confess ", " to confess  to"]}
+{"head": "to confess", "relation": "isBefore", "tails": [" to confess", " to tell the truth", " to confess to something"]}
+{"head": "to confess", "relation": "isAfter", "tails": [" to tell the truth", " to confess", " to be honest"]}
+{"head": "to confess", "relation": "HasSubEvent", "tails": [" to confess", " to confess ", " to confess  to"]}
+{"head": "to confess", "relation": "Causes", "tails": [" to confess", " to confess to a crime", " to confess to something"]}
+{"head": "to confess", "relation": "xReason", "tails": [" to confess", " to be honest", " to confess to something"]}
+{"head": "relief", "relation": "ObjectUse", "tails": [" relieve stress", " feel better", " relief from pain"]}
+{"head": "relief", "relation": "AtLocation", "tails": [" relief station", " relief", " hospital"]}
+{"head": "relief", "relation": "CapableOf", "tails": [" feel relief", " feel better", " feel good"]}
+{"head": "relief", "relation": "HasProperty", "tails": [" relief", " relief from pain", " relieved"]}
+{"head": "relief", "relation": "MadeUpOf", "tails": [" relief", " relief from pain", " relief of pain"]}
+{"head": "relief", "relation": "NotDesires", "tails": [" relief", " relief from pain", " relief of pain"]}
+{"head": "relief", "relation": "Desires", "tails": [" relief from pain", " relief", " relief from stress"]}
+{"head": "priest", "relation": "ObjectUse", "tails": [" pray to", " worship", " pray with"]}
+{"head": "priest", "relation": "AtLocation", "tails": [" church", " priestly house", " religious building"]}
+{"head": "priest", "relation": "CapableOf", "tails": [" pray to god", " hear sermon", " pray to God"]}
+{"head": "priest", "relation": "HasProperty", "tails": [" religious ceremony", " religious beliefs", " religious service"]}
+{"head": "priest", "relation": "MadeUpOf", "tails": [" church", " priestly robes", " priestly robe"]}
+{"head": "priest", "relation": "NotDesires", "tails": [" church", " religious ceremony", " worship"]}
+{"head": "priest", "relation": "Desires", "tails": [" worship", " religious beliefs", " pray to god"]}
+{"head": "old parish priest", "relation": "ObjectUse", "tails": [" old people", " old priest", " old church"]}
+{"head": "old parish priest", "relation": "AtLocation", "tails": [" church", " priestly house", " priest's house"]}
+{"head": "old parish priest", "relation": "CapableOf", "tails": [" hear sermon", " hear confession", " old priest"]}
+{"head": "old parish priest", "relation": "HasProperty", "tails": [" old", " older than 90 years", " older than 80 years"]}
+{"head": "old parish priest", "relation": "MadeUpOf", "tails": [" church", " priestly collar", " priestly robes"]}
+{"head": "old parish priest", "relation": "NotDesires", "tails": [" priestly duties", " old priest", " old people"]}
+{"head": "old parish priest", "relation": "Desires", "tails": [" religious beliefs", " old church", " old people"]}
+{"head": "leave confessional", "relation": "HinderedBy", "tails": [" leave confessional", " leave church", " get out of church"]}
+{"head": "leave confessional", "relation": "isBefore", "tails": [" leave confessional", " get out of church", " leave church"]}
+{"head": "leave confessional", "relation": "isAfter", "tails": [" get out of church", " leave church", " get out of car"]}
+{"head": "leave confessional", "relation": "HasSubEvent", "tails": [" get out of church", " get out of car", " get out of way"]}
+{"head": "leave confessional", "relation": "Causes", "tails": [" get out of the confessional", " get out of there", " get out of the way"]}
+{"head": "leave confessional", "relation": "xReason", "tails": [" get out of church", " get out of way", " have to go to church"]}
+{"head": "feel relief", "relation": "HinderedBy", "tails": [" feel better", " relieve stress", " relieve pain"]}
+{"head": "feel relief", "relation": "isBefore", "tails": [" feel better", " feel relaxed", " relieve stress"]}
+{"head": "feel relief", "relation": "isAfter", "tails": [" feel better", " relieve stress", " feel relaxed"]}
+{"head": "feel relief", "relation": "HasSubEvent", "tails": [" feel better", " relax", " relieve stress"]}
+{"head": "feel relief", "relation": "Causes", "tails": [" feel better", " relieve stress", " feel relaxed"]}
+{"head": "feel relief", "relation": "xReason", "tails": [" feel better", " relieve stress", " feel relaxed"]}
+{"head": "enter confessional", "relation": "HinderedBy", "tails": [" enter confessional", " enter confessional room", " enter church"]}
+{"head": "enter confessional", "relation": "isBefore", "tails": [" enter confessional", " hear confession", " enter confessional room"]}
+{"head": "enter confessional", "relation": "isAfter", "tails": [" enter confessional", " hear confession", " enter confessional room"]}
+{"head": "enter confessional", "relation": "HasSubEvent", "tails": [" enter confessional", " enter confessional room", " get confession from priest"]}
+{"head": "enter confessional", "relation": "Causes", "tails": [" enter confessional", " get confession from priest", " enter church"]}
+{"head": "enter confessional", "relation": "xReason", "tails": [" enter confessional", " get confession from priest", " get confession"]}
+{"head": "confessional", "relation": "ObjectUse", "tails": [" confessional", " confiding in God", " confide in"]}
+{"head": "confessional", "relation": "AtLocation", "tails": [" church", " catholic church", " confessional room"]}
+{"head": "confessional", "relation": "CapableOf", "tails": [" talk to priest", " hear confession", " confide in"]}
+{"head": "confessional", "relation": "HasProperty", "tails": [" confessional", " confessional room", " confession"]}
+{"head": "confessional", "relation": "MadeUpOf", "tails": [" confessional", " confessional room", " church"]}
+{"head": "confessional", "relation": "NotDesires", "tails": [" confessional", " confession", " confessional room"]}
+{"head": "confessional", "relation": "Desires", "tails": [" confessional", " confession", " confessional room"]}
+{"head": "car", "relation": "ObjectUse", "tails": [" drive to the store", " get to the store", " drive to work"]}
+{"head": "car", "relation": "AtLocation", "tails": [" car show", " car wash", " car dealership"]}
+{"head": "car", "relation": "CapableOf", "tails": [" drive to destination", " drive to store", " drive to place"]}
+{"head": "car", "relation": "HasProperty", "tails": [" found in car showrooms", " found in car showroom", " found in car dealership"]}
+{"head": "car", "relation": "MadeUpOf", "tails": [" engine", " drivetrain", " car engine"]}
+{"head": "car", "relation": "NotDesires", "tails": [" get into accident", " drive to work", " drive to store"]}
+{"head": "car", "relation": "Desires", "tails": [" drive to work", " get to destination", " get to work"]}
+{"head": "Then she saw the old parish priest pull up in his car.", "relation": "xAttr", "tails": [" religious", " curious", " old"]}
+{"head": "Then she saw the old parish priest pull up in his car.", "relation": "xWant", "tails": [" to talk to the priest", " to say hello to the priest", " to talk to the priest."]}
+{"head": "Then she saw the old parish priest pull up in his car.", "relation": "xNeed", "tails": [" none", " to look out the window", " to be in church"]}
+{"head": "Then she saw the old parish priest pull up in his car.", "relation": "xEffect", "tails": [" none", " gets excited", " gets nervous"]}
+{"head": "Then she saw the old parish priest pull up in his car.", "relation": "HinderedBy", "tails": [" then the priest left the church.", " then the priest left the church", " then the priest's car pulls up."]}
+{"head": "Then she saw the old parish priest pull up in his car.", "relation": "oWant", "tails": [" to talk to the priest", " to talk to her", " to talk to them"]}
+{"head": "Then she saw the old parish priest pull up in his car.", "relation": "xReact", "tails": [" happy", " excited", " happy."]}
+{"head": "Then she saw the old parish priest pull up in his car.", "relation": "oEffect", "tails": [" none", " they say hello to the priest", " they get in the car"]}
+{"head": "Then she saw the old parish priest pull up in his car.", "relation": "xIntent", "tails": [" none", " to talk to the priest", " to talk to someone"]}
+{"head": "Then she saw the old parish priest pull up in his car.", "relation": "oReact", "tails": [" none", " happy to see the old priest.", " happy to see the old priest"]}
+{"head": "Then she saw the old parish priest pull up in his car.", "relation": "isBefore", "tails": [" then the priest left the church.", " then the priest leaves the church.", " then the priest leaves the church"]}
+{"head": "Then she saw the old parish priest pull up in his car.", "relation": "isAfter", "tails": [" none", " church", " the priest"]}
+{"head": "Then she saw the old parish priest pull up in his car.", "relation": "HasSubEvent", "tails": [" get out of the car", " get out of car", " get in the car"]}
+{"head": "Then she saw the old parish priest pull up in his car.", "relation": "Causes", "tails": [" none", " then the old priest left the church.", " then the priest left the church."]}
+{"head": "Then she saw the old parish priest pull up in his car.", "relation": "xReason", "tails": [" none", " then the priest left the church.", " then the priest leaves the church."]}
+{"head": "She thought she was confessing to the old parish priest.", "relation": "xAttr", "tails": [" repentant", " religious", " repentant."]}
+{"head": "She thought she was confessing to the old parish priest.", "relation": "xWant", "tails": [" to get away from the priest", " to get away from the old priest", " to get away from the situation"]}
+{"head": "She thought she was confessing to the old parish priest.", "relation": "xNeed", "tails": [" to go to church", " to go to the church", " to have gone to church"]}
+{"head": "She thought she was confessing to the old parish priest.", "relation": "xEffect", "tails": [" she was told to go to church by the priest.", " she was told to go to church by the priest", " she was told to go to church."]}
+{"head": "She thought she was confessing to the old parish priest.", "relation": "HinderedBy", "tails": [" she is not a priest.", " she is not a priest", " she is a priest."]}
+{"head": "She thought she was confessing to the old parish priest.", "relation": "oWant", "tails": [" to listen to what she has to say", " to listen to what they have to say", " to listen to the confession"]}
+{"head": "She thought she was confessing to the old parish priest.", "relation": "xReact", "tails": [" repentant", " ashamed", " repentant."]}
+{"head": "She thought she was confessing to the old parish priest.", "relation": "oEffect", "tails": [" none", " they are asked to leave the church", " they get to know them better"]}
+{"head": "She thought she was confessing to the old parish priest.", "relation": "xIntent", "tails": [" none", " to confess their sins", " to confess sins"]}
+{"head": "She thought she was confessing to the old parish priest.", "relation": "oReact", "tails": [" none", " sad", " relieved"]}
+{"head": "She thought she was confessing to the old parish priest.", "relation": "isBefore", "tails": [" she goes to church", " she goes to confession", " she goes to the church"]}
+{"head": "She thought she was confessing to the old parish priest.", "relation": "isAfter", "tails": [" PersonX goes to church every Sunday.", " PersonX goes to church.", " PersonX goes to church every week."]}
+{"head": "She thought she was confessing to the old parish priest.", "relation": "HasSubEvent", "tails": [" get a new priest", " get a priest's permission", " get a priest"]}
+{"head": "She thought she was confessing to the old parish priest.", "relation": "Causes", "tails": [" repentant", " she is in church", " repentant."]}
+{"head": "She thought she was confessing to the old parish priest.", "relation": "xReason", "tails": [" she went to church", " she went to confession", " she went to confession."]}
+{"head": "Joan felt relief as she left the confessional.", "relation": "xAttr", "tails": [" relieved", " repentant", " religious"]}
+{"head": "Joan felt relief as she left the confessional.", "relation": "xWant", "tails": [" to go home", " to go to bed", " to go to church"]}
+{"head": "Joan felt relief as she left the confessional.", "relation": "xNeed", "tails": [" to go to the confessional", " to have gone to confession", " to go to confession"]}
+{"head": "Joan felt relief as she left the confessional.", "relation": "xEffect", "tails": [" they go to bed", " they go to sleep", " they go home"]}
+{"head": "Joan felt relief as she left the confessional.", "relation": "HinderedBy", "tails": [" The priest told them to go home.", " The priest told them to leave.", " The priest told them to stay."]}
+{"head": "Joan felt relief as she left the confessional.", "relation": "oWant", "tails": [" none", " to go home", " to pray for them"]}
+{"head": "Joan felt relief as she left the confessional.", "relation": "xReact", "tails": [" relieved", " happy", " relief"]}
+{"head": "Joan felt relief as she left the confessional.", "relation": "oEffect", "tails": [" none", " they go home", " they go to sleep"]}
+{"head": "Joan felt relief as she left the confessional.", "relation": "xIntent", "tails": [" none", " to get away from the situation", " to get away from the situation."]}
+{"head": "Joan felt relief as she left the confessional.", "relation": "oReact", "tails": [" none", " relieved", " happy"]}
+{"head": "Joan felt relief as she left the confessional.", "relation": "isBefore", "tails": [" PersonX tells PersonX to go home.", " PersonX tells PersonX to leave.", " PersonX tells PersonX to go home"]}
+{"head": "Joan felt relief as she left the confessional.", "relation": "isAfter", "tails": [" PersonX is in jail.", " PersonX is in prison.", " PersonX is in the confessional"]}
+{"head": "Joan felt relief as she left the confessional.", "relation": "HasSubEvent", "tails": [" get out of the confessional", " get out of the confessional room", " get out of the way"]}
+{"head": "Joan felt relief as she left the confessional.", "relation": "Causes", "tails": [" Joans is a good person.", " Joins the church.", " Joans is in a coma."]}
+{"head": "Joan felt relief as she left the confessional.", "relation": "xReason", "tails": [" they go to bed", " they go to sleep", " they go home"]}
+{"head": "Joan entered the confessional and kneeled.", "relation": "xAttr", "tails": [" religious", " pious", " spiritual"]}
+{"head": "Joan entered the confessional and kneeled.", "relation": "xWant", "tails": [" to pray", " to go to confession", " to pray."]}
+{"head": "Joan entered the confessional and kneeled.", "relation": "xNeed", "tails": [" to go to the confessional", " to go to the church", " to go to the confessional."]}
+{"head": "Joan entered the confessional and kneeled.", "relation": "xEffect", "tails": [" gets chastised", " gets chastised by priest", " gets chastised by the priest"]}
+{"head": "Joan entered the confessional and kneeled.", "relation": "HinderedBy", "tails": [" The priest told them not to.", " The priest told them to leave.", " The priest told them not to go."]}
+{"head": "Joan entered the confessional and kneeled.", "relation": "oWant", "tails": [" none", " to pray with them", " to pray with her"]}
+{"head": "Joan entered the confessional and kneeled.", "relation": "xReact", "tails": [" happy", " religious", " good"]}
+{"head": "Joan entered the confessional and kneeled.", "relation": "oEffect", "tails": [" none", " the priest asks if they need anything else", " the priest asks if they need anything else."]}
+{"head": "Joan entered the confessional and kneeled.", "relation": "xIntent", "tails": [" to pray", " to pray.", " to confess sins"]}
+{"head": "Joan entered the confessional and kneeled.", "relation": "oReact", "tails": [" none", " happy", " happy."]}
+{"head": "Joan entered the confessional and kneeled.", "relation": "isBefore", "tails": [" PersonX asks PersonX to leave the confessional.", " PersonX asks PersonX to pray.", " PersonX asks PersonX to leave the confessional"]}
+{"head": "Joan entered the confessional and kneeled.", "relation": "isAfter", "tails": [" PersonX asks PersonX to kneel down.", " PersonX asks PersonX to kneel.", " PersonX asks PersonX to pray."]}
+{"head": "Joan entered the confessional and kneeled.", "relation": "HasSubEvent", "tails": [" get a confession from the priest", " get confession from priest", " get a confession from the priest."]}
+{"head": "Joan entered the confessional and kneeled.", "relation": "Causes", "tails": [" Joins the confessional.", " Joins the church.", " Joins the confessional"]}
+{"head": "Joan entered the confessional and kneeled.", "relation": "xReason", "tails": [" Joins the confessional", " Joins the confessional.", " Joins the church."]}
+{"head": "Joan confessed she had fantasized about the young visiting priest.", "relation": "xAttr", "tails": [" lustful", " horny", " sexy"]}
+{"head": "Joan confessed she had fantasized about the young visiting priest.", "relation": "xWant", "tails": [" to get away from the priest", " to get away from him", " to get away from the priest."]}
+{"head": "Joan confessed she had fantasized about the young visiting priest.", "relation": "xNeed", "tails": [" to have sex with the priest", " to talk to the priest", " to have sex with a priest"]}
+{"head": "Joan confessed she had fantasized about the young visiting priest.", "relation": "xEffect", "tails": [" none", " gets yelled at", " gets arrested"]}
+{"head": "Joan confessed she had fantasized about the young visiting priest.", "relation": "HinderedBy", "tails": [" The priest is not interested in her.", " The priest is not interested in the girl.", " The priest is not interested in them."]}
+{"head": "Joan confessed she had fantasized about the young visiting priest.", "relation": "oWant", "tails": [" none", " to make sure they are okay", " to tell them to stop"]}
+{"head": "Joan confessed she had fantasized about the young visiting priest.", "relation": "xReact", "tails": [" guilty", " happy", " aroused"]}
+{"head": "Joan confessed she had fantasized about the young visiting priest.", "relation": "oEffect", "tails": [" none", " the priest asks if they are okay", " the priest asks if they have any questions"]}
+{"head": "Joan confessed she had fantasized about the young visiting priest.", "relation": "xIntent", "tails": [" none", " to get away from him", " to get away from the priest"]}
+{"head": "Joan confessed she had fantasized about the young visiting priest.", "relation": "oReact", "tails": [" none", " happy", " aroused"]}
+{"head": "Joan confessed she had fantasized about the young visiting priest.", "relation": "isBefore", "tails": [" PersonX asks PersonX why they fantasized about the priest.", " PersonX asks PersonX why they fantasized about the visiting priest.", " PersonX asks PersonX why they fantasized about PersonX."]}
+{"head": "Joan confessed she had fantasized about the young visiting priest.", "relation": "isAfter", "tails": [" PersonX is a priest.", " PersonX asks PersonX if they have any other fantasies.", " PersonX asks PersonX if they had a good time."]}
+{"head": "Joan confessed she had fantasized about the young visiting priest.", "relation": "HasSubEvent", "tails": [" none", " get married", " get a priest"]}
+{"head": "Joan confessed she had fantasized about the young visiting priest.", "relation": "Causes", "tails": [" they have sex with the priest", " they have sex with the priest.", " they have to tell their parents"]}
+{"head": "Joan confessed she had fantasized about the young visiting priest.", "relation": "xReason", "tails": [" none", " they go to confession", " they go to church"]}
+{"head": "Joan", "relation": "ObjectUse", "tails": [" Joins the team.", " Joins the group.", " Joins the team"]}
+{"head": "Joan", "relation": "AtLocation", "tails": [" house", " car", " home"]}
+{"head": "Joan", "relation": "CapableOf", "tails": [" drink coffee", " drink water", " take shower"]}
+{"head": "Joan", "relation": "HasProperty", "tails": [" none", " Jo", " Joanna"]}
+{"head": "Joan", "relation": "MadeUpOf", "tails": ["              ", "             ", "               "]}
+{"head": "Joan", "relation": "NotDesires", "tails": [" have to go to the bathroom", " have to go to the doctor", " have to go to work"]}
+{"head": "Joan", "relation": "Desires", "tails": [" none", " to have a good time", " to have a good life"]}

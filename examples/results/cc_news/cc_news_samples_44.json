@@ -1,0 +1,91 @@
+{"head": "year", "relation": "ObjectUse", "tails": [" have a birthday", " get a promotion", " have a good time"]}
+{"head": "year", "relation": "AtLocation", "tails": [" year", " office building", " school"]}
+{"head": "year", "relation": "CapableOf", "tails": [" pay bills on time", " pay rent", " pay taxes"]}
+{"head": "year", "relation": "HasProperty", "tails": [" year", " one year", " many years"]}
+{"head": "year", "relation": "MadeUpOf", "tails": [" year", " number of years", " number of days"]}
+{"head": "year", "relation": "NotDesires", "tails": [" year", " year to end", " have to pay bills"]}
+{"head": "year", "relation": "Desires", "tails": [" year", " year of life", " year to live"]}
+{"head": "to rise", "relation": "HinderedBy", "tails": [" to rise", " to rise ", " to rise up"]}
+{"head": "to rise", "relation": "isBefore", "tails": [" to get out of bed", " to get up", " to rise"]}
+{"head": "to rise", "relation": "isAfter", "tails": [" get out of bed", " to get up", " get up"]}
+{"head": "to rise", "relation": "HasSubEvent", "tails": [" get out of bed", " get up", " to rise"]}
+{"head": "to rise", "relation": "Causes", "tails": [" to rise", " get up", " to rise up"]}
+{"head": "to rise", "relation": "xReason", "tails": [" get up", " to rise", " fall down"]}
+{"head": "percent", "relation": "ObjectUse", "tails": [" give to charity", " make money", " get a job"]}
+{"head": "percent", "relation": "AtLocation", "tails": [" bank account", " table", " money"]}
+{"head": "percent", "relation": "CapableOf", "tails": [" pay taxes", " make money", " pay for things"]}
+{"head": "percent", "relation": "HasProperty", "tails": [" one hundredth of one percent", " one hundredth of a percent", " one hundredth of a second"]}
+{"head": "percent", "relation": "MadeUpOf", "tails": [" percentile", " percent", " percentiles"]}
+{"head": "percent", "relation": "NotDesires", "tails": [" lose money", " lose weight", " make money"]}
+{"head": "percent", "relation": "Desires", "tails": [" make money", " have a good life", " make a good impression"]}
+{"head": "goods", "relation": "ObjectUse", "tails": [" sell on ebay", " sell on the black market", " sell on the street"]}
+{"head": "goods", "relation": "AtLocation", "tails": [" clothing store", " store", " shop"]}
+{"head": "goods", "relation": "CapableOf", "tails": [" sell for profit", " sell for money", " sell at auction"]}
+{"head": "goods", "relation": "HasProperty", "tails": [" good", " bought at store", " bought at market"]}
+{"head": "goods", "relation": "MadeUpOf", "tails": [" good", " goods", " money"]}
+{"head": "goods", "relation": "NotDesires", "tails": [" have to pay for", " have to buy", " make money"]}
+{"head": "goods", "relation": "Desires", "tails": [" make money", " make a good impression", " make a living"]}
+{"head": "capital goods", "relation": "ObjectUse", "tails": [" invest in", " make money", " invest in business"]}
+{"head": "capital goods", "relation": "AtLocation", "tails": [" store", " money", " factory"]}
+{"head": "capital goods", "relation": "CapableOf", "tails": [" sell for profit", " sell for money", " buy from store"]}
+{"head": "capital goods", "relation": "HasProperty", "tails": [" made from metal", " made of metal", " made from wood"]}
+{"head": "capital goods", "relation": "MadeUpOf", "tails": [" capital goods", " money", " capital"]}
+{"head": "capital goods", "relation": "NotDesires", "tails": [" money", " make money", " make a profit"]}
+{"head": "capital goods", "relation": "Desires", "tails": [" invest in", " make money", " invest in business"]}
+{"head": "capital", "relation": "ObjectUse", "tails": [" invest in stock market", " invest in a business", " invest in a company"]}
+{"head": "capital", "relation": "AtLocation", "tails": [" money", " bank account", " bank"]}
+{"head": "capital", "relation": "CapableOf", "tails": [" invest in stock market", " invest in business", " pay taxes"]}
+{"head": "capital", "relation": "HasProperty", "tails": [" invested in stock market", " invested in stocks and bonds", " invested in stocks"]}
+{"head": "capital", "relation": "MadeUpOf", "tails": [" money", " capital", " capitalization"]}
+{"head": "capital", "relation": "NotDesires", "tails": [" money", " invest in stock market", " invest in business"]}
+{"head": "capital", "relation": "Desires", "tails": [" invest in stock market", " money", " invest in business"]}
+{"head": "businesses", "relation": "ObjectUse", "tails": [" make money", " work for", " sell products"]}
+{"head": "businesses", "relation": "AtLocation", "tails": [" business district", " business park", " business districts"]}
+{"head": "businesses", "relation": "CapableOf", "tails": [" sell goods and services", " sell products", " sell products to customers"]}
+{"head": "businesses", "relation": "HasProperty", "tails": [" business", " business plan", " businesses"]}
+{"head": "businesses", "relation": "MadeUpOf", "tails": [" business plan", " business cards", " business"]}
+{"head": "businesses", "relation": "NotDesires", "tails": [" run out of money", " run out of gas", " run out of business"]}
+{"head": "businesses", "relation": "Desires", "tails": [" make money", " work hard", " make money from"]}
+{"head": "U.S. businesses", "relation": "ObjectUse", "tails": [" make money", " sell to customers", " sell products"]}
+{"head": "U.S. businesses", "relation": "AtLocation", "tails": [" U.S.", " U.S. government", " U.S. military base"]}
+{"head": "U.S. businesses", "relation": "CapableOf", "tails": [" make money", " sell products", " sell goods"]}
+{"head": "U.S. businesses", "relation": "HasProperty", "tails": [" U.S.", " U.S. businesses", " U.S. government"]}
+{"head": "U.S. businesses", "relation": "MadeUpOf", "tails": [" U.S.", " U.S. government", " U.S. businesses"]}
+{"head": "U.S. businesses", "relation": "NotDesires", "tails": [" make money", " get robbed", " buy from"]}
+{"head": "U.S. businesses", "relation": "Desires", "tails": [" to make money", " make money", " to make a profit"]}
+{"head": "March", "relation": "ObjectUse", "tails": [" march in", " get married in", " get married"]}
+{"head": "March", "relation": "AtLocation", "tails": [" march", " spring", " springtime"]}
+{"head": "March", "relation": "CapableOf", "tails": [" march in parade", " march", " march in march"]}
+{"head": "March", "relation": "HasProperty", "tails": [" one month of the year", " found in spring", " found in springtime"]}
+{"head": "March", "relation": "MadeUpOf", "tails": [" march", " spring", " springtime"]}
+{"head": "March", "relation": "NotDesires", "tails": [" march", " march in", " march to church"]}
+{"head": "March", "relation": "Desires", "tails": [" march", " march in", " march to church"]}
+{"head": "Borrowing", "relation": "ObjectUse", "tails": [" get a loan", " borrow money", " borrow money from someone"]}
+{"head": "Borrowing", "relation": "AtLocation", "tails": [" bank", " bank account", " store"]}
+{"head": "Borrowing", "relation": "CapableOf", "tails": [" borrow money", " borrow money from bank", " borrow money from someone"]}
+{"head": "Borrowing", "relation": "HasProperty", "tails": [" found in bank", " borrowed money", " borrowed from"]}
+{"head": "Borrowing", "relation": "MadeUpOf", "tails": [" credit card", " loan", " borrowing money"]}
+{"head": "Borrowing", "relation": "NotDesires", "tails": [" borrows money", " borrow money", " borrow money from someone"]}
+{"head": "Borrowing", "relation": "Desires", "tails": [" borrow money", " borrow money from someone", " to be able to pay"]}
+{"head": "April 24 (Reuters) - Borrowing by U.S. businesses for capital goods rose 2 percent in March from a year earlier, the Equipment Leasing and Finance...", "relation": "xAttr", "tails": [" responsible", " business", " finance"]}
+{"head": "April 24 (Reuters) - Borrowing by U.S. businesses for capital goods rose 2 percent in March from a year earlier, the Equipment Leasing and Finance...", "relation": "xWant", "tails": [" to get a loan", " to buy a new car", " to pay off debt"]}
+{"head": "April 24 (Reuters) - Borrowing by U.S. businesses for capital goods rose 2 percent in March from a year earlier, the Equipment Leasing and Finance...", "relation": "xNeed", "tails": [" get a loan", " buy a new car", " buy equipment"]}
+{"head": "April 24 (Reuters) - Borrowing by U.S. businesses for capital goods rose 2 percent in March from a year earlier, the Equipment Leasing and Finance...", "relation": "xEffect", "tails": [" get a loan", " buy a new car", " get a loan for it"]}
+{"head": "April 24 (Reuters) - Borrowing by U.S. businesses for capital goods rose 2 percent in March from a year earlier, the Equipment Leasing and Finance...", "relation": "HinderedBy", "tails": [" The economy is growing too fast.", " The economy is in a state of recession.", " The economy is in a recession."]}
+{"head": "April 24 (Reuters) - Borrowing by U.S. businesses for capital goods rose 2 percent in March from a year earlier, the Equipment Leasing and Finance...", "relation": "oWant", "tails": [" to get a loan", " buy a new car", " buy a car"]}
+{"head": "April 24 (Reuters) - Borrowing by U.S. businesses for capital goods rose 2 percent in March from a year earlier, the Equipment Leasing and Finance...", "relation": "xReact", "tails": [" happy", " responsible", " good"]}
+{"head": "April 24 (Reuters) - Borrowing by U.S. businesses for capital goods rose 2 percent in March from a year earlier, the Equipment Leasing and Finance...", "relation": "oEffect", "tails": [" get a loan", " buy new equipment", " get loan from bank"]}
+{"head": "April 24 (Reuters) - Borrowing by U.S. businesses for capital goods rose 2 percent in March from a year earlier, the Equipment Leasing and Finance...", "relation": "xIntent", "tails": [" to buy things", " buy new equipment", " to buy a car"]}
+{"head": "April 24 (Reuters) - Borrowing by U.S. businesses for capital goods rose 2 percent in March from a year earlier, the Equipment Leasing and Finance...", "relation": "oReact", "tails": [" none", " money", " buy goods"]}
+{"head": "April 24 (Reuters) - Borrowing by U.S. businesses for capital goods rose 2 percent in March from a year earlier, the Equipment Leasing and Finance...", "relation": "isBefore", "tails": [" buy new equipment", " purchase equipment", " get loan from bank"]}
+{"head": "April 24 (Reuters) - Borrowing by U.S. businesses for capital goods rose 2 percent in March from a year earlier, the Equipment Leasing and Finance...", "relation": "isAfter", "tails": [" buy a new car", " buy new equipment", " buy a car"]}
+{"head": "April 24 (Reuters) - Borrowing by U.S. businesses for capital goods rose 2 percent in March from a year earlier, the Equipment Leasing and Finance...", "relation": "HasSubEvent", "tails": [" get a loan", " buy new equipment", " get loan from bank"]}
+{"head": "April 24 (Reuters) - Borrowing by U.S. businesses for capital goods rose 2 percent in March from a year earlier, the Equipment Leasing and Finance...", "relation": "Causes", "tails": [" buy a new car", " buy a car", " buy new equipment"]}
+{"head": "April 24 (Reuters) - Borrowing by U.S. businesses for capital goods rose 2 percent in March from a year earlier, the Equipment Leasing and Finance...", "relation": "xReason", "tails": [" buy new equipment", " get loan from bank", " purchase equipment"]}
+{"head": "( Reuters", "relation": "ObjectUse", "tails": [" get a job", " take a picture of", " take a picture"]}
+{"head": "( Reuters", "relation": "AtLocation", "tails": [" photojournalist", " photojournalism", " newspaper"]}
+{"head": "( Reuters", "relation": "CapableOf", "tails": [" take picture", " take pictures", " take picture of"]}
+{"head": "( Reuters", "relation": "HasProperty", "tails": [" one of the world's most important news stories", " one of the world's most important news stories.", " one of the world's most important countries"]}
+{"head": "( Reuters", "relation": "MadeUpOf", "tails": [" photojournalism", " photojournalist", " photo"]}
+{"head": "( Reuters", "relation": "NotDesires", "tails": [" get into car accident", " get arrested", " get into trouble"]}
+{"head": "( Reuters", "relation": "Desires", "tails": [" get a new job", " get a job", " have a good time"]}

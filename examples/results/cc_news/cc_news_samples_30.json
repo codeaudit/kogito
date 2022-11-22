@@ -1,0 +1,150 @@
+{"head": "year", "relation": "ObjectUse", "tails": [" have a birthday", " get a promotion", " have a good time"]}
+{"head": "year", "relation": "AtLocation", "tails": [" year", " office building", " school"]}
+{"head": "year", "relation": "CapableOf", "tails": [" pay bills on time", " pay rent", " pay taxes"]}
+{"head": "year", "relation": "HasProperty", "tails": [" year", " one year", " many years"]}
+{"head": "year", "relation": "MadeUpOf", "tails": [" year", " number of years", " number of days"]}
+{"head": "year", "relation": "NotDesires", "tails": [" year", " year to end", " have to pay bills"]}
+{"head": "year", "relation": "Desires", "tails": [" year", " year of life", " year to live"]}
+{"head": "woman", "relation": "ObjectUse", "tails": [" woman to have sex with", " woman to be in relationship with", " woman to have sex"]}
+{"head": "woman", "relation": "AtLocation", "tails": [" woman's house", " woman's home", " woman's mouth"]}
+{"head": "woman", "relation": "CapableOf", "tails": [" marry man", " woman to marry man", " woman to have sex with"]}
+{"head": "woman", "relation": "HasProperty", "tails": [" married to man", " woman", " married to"]}
+{"head": "woman", "relation": "MadeUpOf", "tails": [" woman's hair", " woman's breasts", " women's breasts"]}
+{"head": "woman", "relation": "NotDesires", "tails": [" woman to die", " woman to be raped", " woman to be dead"]}
+{"head": "woman", "relation": "Desires", "tails": [" women to love", " women to love themself", " women to be in charge"]}
+{"head": "trafficking", "relation": "ObjectUse", "tails": [" make money", " make a living", " get rich"]}
+{"head": "trafficking", "relation": "AtLocation", "tails": [" prison", " jail", " criminal organization"]}
+{"head": "trafficking", "relation": "CapableOf", "tails": [" make money", " get rich", " sell human beings"]}
+{"head": "trafficking", "relation": "HasProperty", "tails": [" criminal activity", " illegal drugs", " illegal"]}
+{"head": "trafficking", "relation": "MadeUpOf", "tails": [" trafficked", " illegal drugs", " criminal activity"]}
+{"head": "trafficking", "relation": "NotDesires", "tails": [" get caught", " illegal drugs", " get arrested"]}
+{"head": "trafficking", "relation": "Desires", "tails": [" make money", " get rich", " criminal activity"]}
+{"head": "to interview", "relation": "HinderedBy", "tails": [" to interview", " to interview ", " get a job"]}
+{"head": "to interview", "relation": "isBefore", "tails": [" to interview for a job", " to interview", " to interview for a new job"]}
+{"head": "to interview", "relation": "isAfter", "tails": [" interviewers", " get job", " interview"]}
+{"head": "to interview", "relation": "HasSubEvent", "tails": [" to interview", " interview for job", " to interview for job"]}
+{"head": "to interview", "relation": "Causes", "tails": [" get job", " interviewers", " have to interview"]}
+{"head": "to interview", "relation": "xReason", "tails": [" interview for job", " get job", " interview for a job"]}
+{"head": "to face", "relation": "HinderedBy", "tails": [" to face", " face to face", " to face the enemy"]}
+{"head": "to face", "relation": "isBefore", "tails": [" face to face", " to face", " to face the enemy"]}
+{"head": "to face", "relation": "isAfter", "tails": [" face to face", " face to face with another person", " face to face with other person"]}
+{"head": "to face", "relation": "HasSubEvent", "tails": [" to face", " turn head", " turn around"]}
+{"head": "to face", "relation": "Causes", "tails": [" face to face", " to face", " to face to face"]}
+{"head": "to face", "relation": "xReason", "tails": [" face to face", " to face", " face to face with"]}
+{"head": "to attempt", "relation": "HinderedBy", "tails": [" to attempt", " to attempt ", " to attempt  to attempt"]}
+{"head": "to attempt", "relation": "isBefore", "tails": [" to attempt", " to attempt ", " to attempt something"]}
+{"head": "to attempt", "relation": "isAfter", "tails": [" to try something new", " to attempt", " to try to do something"]}
+{"head": "to attempt", "relation": "HasSubEvent", "tails": [" to attempt", " to attempt ", " to attempt  attempt"]}
+{"head": "to attempt", "relation": "Causes", "tails": [" to attempt  attempt  attempt  attempt  attempt  attempt  attempt  attempt  attempt  attempt  attempt", " to attempt  attempt  attempt  attempt  attempt  attempt  attempt  attempt  attempt  attempt", " to attempt  attempt  attempt  attempt  to attempt  attempt  attempt  attempt  attempt  attempt "]}
+{"head": "to attempt", "relation": "xReason", "tails": [" to attempt", " to try", " to attempt "]}
+{"head": "sex", "relation": "ObjectUse", "tails": [" have sex with another person", " have sex", " have sex with someone"]}
+{"head": "sex", "relation": "AtLocation", "tails": [" sex shop", " sex toy store", " sex toy"]}
+{"head": "sex", "relation": "CapableOf", "tails": [" have sex", " have sex with another person", " have sex with other person"]}
+{"head": "sex", "relation": "HasProperty", "tails": [" sexual pleasure", " sex", " sexual activity"]}
+{"head": "sex", "relation": "MadeUpOf", "tails": [" sex", " sex organ", " sexual pleasure"]}
+{"head": "sex", "relation": "NotDesires", "tails": [" have sex", " sex", " have sex with"]}
+{"head": "sex", "relation": "Desires", "tails": [" feel good", " have sex", " sex"]}
+{"head": "pornography", "relation": "ObjectUse", "tails": [" look at", " look at on the internet", " look at on the internet."]}
+{"head": "pornography", "relation": "AtLocation", "tails": [" porno", " porno store", " porno movie"]}
+{"head": "pornography", "relation": "CapableOf", "tails": [" get aroused", " watch porn", " get aroused by"]}
+{"head": "pornography", "relation": "HasProperty", "tails": [" found on internet", " pornographic", " found online"]}
+{"head": "pornography", "relation": "MadeUpOf", "tails": [" porn", " pornography", " porno"]}
+{"head": "pornography", "relation": "NotDesires", "tails": [" porn", " pornography", " sex"]}
+{"head": "pornography", "relation": "Desires", "tails": [" porn", " pornography", " porno"]}
+{"head": "man", "relation": "ObjectUse", "tails": [" man of steel", " man's mouth", " man's place"]}
+{"head": "man", "relation": "AtLocation", "tails": [" mannequin", " man's house", " man's home"]}
+{"head": "man", "relation": "CapableOf", "tails": [" man of steel", " men to work", " men to be men"]}
+{"head": "man", "relation": "HasProperty", "tails": [" found in woods", " man", " man's body"]}
+{"head": "man", "relation": "MadeUpOf", "tails": [" man's mouth", " mannequin", " man's hand"]}
+{"head": "man", "relation": "NotDesires", "tails": [" man to die", " man to be dead", " man's body"]}
+{"head": "man", "relation": "Desires", "tails": [" man's best friend", " man's best interests at heart", " man's best interest at heart"]}
+{"head": "investigation", "relation": "ObjectUse", "tails": [" investigate a crime", " find out who did it", " find out what happened"]}
+{"head": "investigation", "relation": "AtLocation", "tails": [" police station", " police department", " criminal case"]}
+{"head": "investigation", "relation": "CapableOf", "tails": [" find out who did it", " find out what happened", " investigate crime"]}
+{"head": "investigation", "relation": "HasProperty", "tails": [" found to be true", " found in crime scene", " found to be false"]}
+{"head": "investigation", "relation": "MadeUpOf", "tails": [" investigation", " investigate crime", " police report"]}
+{"head": "investigation", "relation": "NotDesires", "tails": [" find out who did it", " find out what happened", " find out what is going on"]}
+{"head": "investigation", "relation": "Desires", "tails": [" find out who did it", " find out what happened", " investigate crime"]}
+{"head": "interview man", "relation": "HinderedBy", "tails": [" interview woman", " find out what they know", " interview man"]}
+{"head": "interview man", "relation": "isBefore", "tails": [" interview woman", " interview man", " interview person"]}
+{"head": "interview man", "relation": "isAfter", "tails": [" interview woman", " interview person", " interview man"]}
+{"head": "interview man", "relation": "HasSubEvent", "tails": [" interview woman", " get job", " interview"]}
+{"head": "interview man", "relation": "Causes", "tails": [" talk to person", " talk to man", " talk to"]}
+{"head": "interview man", "relation": "xReason", "tails": [" interview woman", " interview person", " interview"]}
+{"head": "federal charge", "relation": "ObjectUse", "tails": [" get a job", " get a loan", " charge for a crime"]}
+{"head": "federal charge", "relation": "AtLocation", "tails": [" prison", " jail", " government building"]}
+{"head": "federal charge", "relation": "CapableOf", "tails": [" get arrested", " charge with", " charge for crime"]}
+{"head": "federal charge", "relation": "HasProperty", "tails": [" guilty", " illegal", " charged with"]}
+{"head": "federal charge", "relation": "MadeUpOf", "tails": [" criminal record", " charge card", " charge"]}
+{"head": "federal charge", "relation": "NotDesires", "tails": [" get arrested", " criminal record", " charge for crime"]}
+{"head": "federal charge", "relation": "Desires", "tails": [" have to pay", " have to pay for", " have to pay for it"]}
+{"head": "face charge", "relation": "HinderedBy", "tails": [" face charge", " face", " face to face"]}
+{"head": "face charge", "relation": "isBefore", "tails": [" face to face", " face slap", " face"]}
+{"head": "face charge", "relation": "isAfter", "tails": [" face", " face paint", " face slap"]}
+{"head": "face charge", "relation": "HasSubEvent", "tails": [" get slapped in the face", " get slapped in face", " get arrested"]}
+{"head": "face charge", "relation": "Causes", "tails": [" face slap", " face", " face paint"]}
+{"head": "face charge", "relation": "xReason", "tails": [" face", " face slap", " face to face"]}
+{"head": "child pornography investigation", "relation": "ObjectUse", "tails": [" make money off of", " make money from", " make money"]}
+{"head": "child pornography investigation", "relation": "AtLocation", "tails": [" police station", " child porn", " child pornography"]}
+{"head": "child pornography investigation", "relation": "CapableOf", "tails": [" find child porn", " search for child porn", " search for child pornography"]}
+{"head": "child pornography investigation", "relation": "HasProperty", "tails": [" found on internet", " investigated by police", " found on computer"]}
+{"head": "child pornography investigation", "relation": "MadeUpOf", "tails": [" child pornography", " child porn", " criminal case"]}
+{"head": "child pornography investigation", "relation": "NotDesires", "tails": [" find child porn", " child porn", " child pornography"]}
+{"head": "child pornography investigation", "relation": "Desires", "tails": [" find out who did it", " find out what is going on", " find out who is doing it"]}
+{"head": "child", "relation": "ObjectUse", "tails": [" play with", " play video games", " play video games with"]}
+{"head": "child", "relation": "AtLocation", "tails": [" child's bedroom", " child's mouth", " children's bedroom"]}
+{"head": "child", "relation": "CapableOf", "tails": [" learn to read", " learn how to read", " play with dog"]}
+{"head": "child", "relation": "HasProperty", "tails": [" very young", " children", " very small"]}
+{"head": "child", "relation": "MadeUpOf", "tails": [" child's hand", " child's mouth", " child's head"]}
+{"head": "child", "relation": "NotDesires", "tails": [" child to die", " child to cry", " child to be sick"]}
+{"head": "child", "relation": "Desires", "tails": [" have fun", " children to play with", " have fun with friends"]}
+{"head": "charge", "relation": "ObjectUse", "tails": [" pay for the service", " charge for service", " pay for the ticket"]}
+{"head": "charge", "relation": "AtLocation", "tails": [" charge card", " bank account", " car"]}
+{"head": "charge", "relation": "CapableOf", "tails": [" charge for service", " pay for service", " pay for ticket"]}
+{"head": "charge", "relation": "HasProperty", "tails": [" charge for service", " charged to customer", " charged to person"]}
+{"head": "charge", "relation": "MadeUpOf", "tails": [" charge", " charge card", " charge to car"]}
+{"head": "charge", "relation": "NotDesires", "tails": [" charge for service", " pay for service", " pay for the service"]}
+{"head": "charge", "relation": "Desires", "tails": [" charge for service", " pay for service", " pay for the service"]}
+{"head": "attempted sex trafficking", "relation": "ObjectUse", "tails": [" make money", " have sex with", " get a job"]}
+{"head": "attempted sex trafficking", "relation": "AtLocation", "tails": [" jail", " prison", " sex worker"]}
+{"head": "attempted sex trafficking", "relation": "CapableOf", "tails": [" get arrested", " make money", " have sex with"]}
+{"head": "attempted sex trafficking", "relation": "HasProperty", "tails": [" made into a sex slave", " made into a sex doll", " made into a sex worker"]}
+{"head": "attempted sex trafficking", "relation": "MadeUpOf", "tails": [" arrested", " criminal", " violated"]}
+{"head": "attempted sex trafficking", "relation": "NotDesires", "tails": [" get arrested", " have to pay for sex", " get arrested for prostitution"]}
+{"head": "attempted sex trafficking", "relation": "Desires", "tails": [" get a job", " have sex with", " have sex"]}
+{"head": "FBI", "relation": "ObjectUse", "tails": [" investigate a crime", " get a warrant", " investigate crimes"]}
+{"head": "FBI", "relation": "AtLocation", "tails": [" police station", " FBI building", " FBI office"]}
+{"head": "FBI", "relation": "CapableOf", "tails": [" investigate crime", " arrest suspect", " investigate crime scene"]}
+{"head": "FBI", "relation": "HasProperty", "tails": [" found at crime scene", " found at crime scenes", " found in crime scene"]}
+{"head": "FBI", "relation": "MadeUpOf", "tails": [" FBI", " FBI office", " police car"]}
+{"head": "FBI", "relation": "NotDesires", "tails": [" get arrested", " get caught", " FBI"]}
+{"head": "FBI", "relation": "Desires", "tails": [" get arrested", " FBI", " get caught"]}
+{"head": "Eugene man", "relation": "ObjectUse", "tails": [" get a new job", " get a job", " get married"]}
+{"head": "Eugene man", "relation": "AtLocation", "tails": [" city", " house", " manhattan"]}
+{"head": "Eugene man", "relation": "CapableOf", "tails": [" get drunk", " get married", " get a job"]}
+{"head": "Eugene man", "relation": "HasProperty", "tails": [" one of the most important people in the city", " one of the most famous people in the world", " one of the most important people in the world"]}
+{"head": "Eugene man", "relation": "MadeUpOf", "tails": [" mannequin", " men's hair", " men's underwear"]}
+{"head": "Eugene man", "relation": "NotDesires", "tails": [" none", " get drunk", " get arrested"]}
+{"head": "Eugene man", "relation": "Desires", "tails": [" none", " to have a good life", " to be a good person"]}
+{"head": "A 27-year-old woman faces a federal charge of attempted sex trafficking of a child after the FBI interviewed a Eugene man in a child pornography investigation.", "relation": "xAttr", "tails": [" criminal", " arrested", " guilty"]}
+{"head": "A 27-year-old woman faces a federal charge of attempted sex trafficking of a child after the FBI interviewed a Eugene man in a child pornography investigation.", "relation": "xWant", "tails": [" to plead guilty", " to plead guilty to the charge", " to plead guilty to the crime"]}
+{"head": "A 27-year-old woman faces a federal charge of attempted sex trafficking of a child after the FBI interviewed a Eugene man in a child pornography investigation.", "relation": "xNeed", "tails": [" to have sex with a child", " to have sex with a child.", " to have sex with someone"]}
+{"head": "A 27-year-old woman faces a federal charge of attempted sex trafficking of a child after the FBI interviewed a Eugene man in a child pornography investigation.", "relation": "xEffect", "tails": [" gets arrested", " get arrested", " a child"]}
+{"head": "A 27-year-old woman faces a federal charge of attempted sex trafficking of a child after the FBI interviewed a Eugene man in a child pornography investigation.", "relation": "HinderedBy", "tails": [" a woman is arrested for child sex trafficking", " a woman is charged with child sex trafficking", " a woman was arrested for child sex trafficking"]}
+{"head": "A 27-year-old woman faces a federal charge of attempted sex trafficking of a child after the FBI interviewed a Eugene man in a child pornography investigation.", "relation": "oWant", "tails": [" to get a lawyer", " to be arrested", " to get a lawyer."]}
+{"head": "A 27-year-old woman faces a federal charge of attempted sex trafficking of a child after the FBI interviewed a Eugene man in a child pornography investigation.", "relation": "xReact", "tails": [" guilty", " criminal", " arrested"]}
+{"head": "A 27-year-old woman faces a federal charge of attempted sex trafficking of a child after the FBI interviewed a Eugene man in a child pornography investigation.", "relation": "oEffect", "tails": [" get arrested", " get arrested for child sex trafficking", " a child to have sex with"]}
+{"head": "A 27-year-old woman faces a federal charge of attempted sex trafficking of a child after the FBI interviewed a Eugene man in a child pornography investigation.", "relation": "xIntent", "tails": [" to be a sex trafficker", " to get a job", " to be a sex worker"]}
+{"head": "A 27-year-old woman faces a federal charge of attempted sex trafficking of a child after the FBI interviewed a Eugene man in a child pornography investigation.", "relation": "oReact", "tails": [" arrested", " none", " a child"]}
+{"head": "A 27-year-old woman faces a federal charge of attempted sex trafficking of a child after the FBI interviewed a Eugene man in a child pornography investigation.", "relation": "isBefore", "tails": [" PersonX is arrested by the FBI.", " PersonX is arrested by the FBI", " PersonX is arrested by the police."]}
+{"head": "A 27-year-old woman faces a federal charge of attempted sex trafficking of a child after the FBI interviewed a Eugene man in a child pornography investigation.", "relation": "isAfter", "tails": [" a child", " PersonX is arrested.", " PersonX is arrested"]}
+{"head": "A 27-year-old woman faces a federal charge of attempted sex trafficking of a child after the FBI interviewed a Eugene man in a child pornography investigation.", "relation": "HasSubEvent", "tails": [" get arrested", " get arrested for child sex trafficking", " a child to have sex with"]}
+{"head": "A 27-year-old woman faces a federal charge of attempted sex trafficking of a child after the FBI interviewed a Eugene man in a child pornography investigation.", "relation": "Causes", "tails": [" a criminal", " arrested", " a child"]}
+{"head": "A 27-year-old woman faces a federal charge of attempted sex trafficking of a child after the FBI interviewed a Eugene man in a child pornography investigation.", "relation": "xReason", "tails": [" a child", " get arrested", " arrested"]}
+{"head": "27 year old woman", "relation": "ObjectUse", "tails": [" get married", " have a baby", " get a divorce"]}
+{"head": "27 year old woman", "relation": "AtLocation", "tails": [" car", " house", " woman"]}
+{"head": "27 year old woman", "relation": "CapableOf", "tails": [" get married", " get a job", " get a divorce"]}
+{"head": "27 year old woman", "relation": "HasProperty", "tails": [" young", " older than men", " older than man"]}
+{"head": "27 year old woman", "relation": "MadeUpOf", "tails": [" age", " body", " young"]}
+{"head": "27 year old woman", "relation": "NotDesires", "tails": [" get married", " have a baby", " have a heart attack"]}
+{"head": "27 year old woman", "relation": "Desires", "tails": [" none", " to have a good life", " to have a good career"]}

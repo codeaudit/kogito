@@ -1,0 +1,61 @@
+{"head": "to have", "relation": "HinderedBy", "tails": [" to have", " to have ", " to have  to have"]}
+{"head": "to have", "relation": "isBefore", "tails": [" to have", " to have ", " to have  a good time"]}
+{"head": "to have", "relation": "isAfter", "tails": [" to have something to eat", " to have", " to have something to drink"]}
+{"head": "to have", "relation": "HasSubEvent", "tails": [" to have", " to have ", " to have  have"]}
+{"head": "to have", "relation": "Causes", "tails": [" to have", " to have ", " to have  "]}
+{"head": "to have", "relation": "xReason", "tails": [" to have", " to have something to eat", " to have "]}
+{"head": "to conclude", "relation": "HinderedBy", "tails": [" to conclude", " to conclude the story", " to finish the story"]}
+{"head": "to conclude", "relation": "isBefore", "tails": [" to end", " to finish", " to be done"]}
+{"head": "to conclude", "relation": "isAfter", "tails": [" to end the story", " to be done with it", " to finish the story"]}
+{"head": "to conclude", "relation": "HasSubEvent", "tails": [" to conclude", " to finish", " to end"]}
+{"head": "to conclude", "relation": "Causes", "tails": [" to conclude", " to finish", " to end"]}
+{"head": "to conclude", "relation": "xReason", "tails": [" to finish", " to end", " to be done"]}
+{"head": "recently concluded Eastern Conference Finals", "relation": "ObjectUse", "tails": [" win a championship", " win the championship", " win the game"]}
+{"head": "recently concluded Eastern Conference Finals", "relation": "AtLocation", "tails": [" basketball game", " basketball games", " basketball"]}
+{"head": "recently concluded Eastern Conference Finals", "relation": "CapableOf", "tails": [" win a championship", " win the championship", " win championship"]}
+{"head": "recently concluded Eastern Conference Finals", "relation": "HasProperty", "tails": [" made up of many different teams", " made up of many teams", " made up of many different teams."]}
+{"head": "recently concluded Eastern Conference Finals", "relation": "MadeUpOf", "tails": [" basketball game", " win or lose", " win or loss"]}
+{"head": "recently concluded Eastern Conference Finals", "relation": "NotDesires", "tails": [" win the championship", " win the series", " win the game"]}
+{"head": "recently concluded Eastern Conference Finals", "relation": "Desires", "tails": [" to win the championship", " win the championship", " to win the game"]}
+{"head": "opportunity", "relation": "ObjectUse", "tails": [" get a job", " make money", " get a promotion"]}
+{"head": "opportunity", "relation": "AtLocation", "tails": [" business meeting", " opportunity", " business"]}
+{"head": "opportunity", "relation": "CapableOf", "tails": [" make the most of", " make the best use of", " make the best of"]}
+{"head": "opportunity", "relation": "HasProperty", "tails": [" opportunity", " good", " good for business"]}
+{"head": "opportunity", "relation": "MadeUpOf", "tails": [" opportunity", " chance", " opportunities"]}
+{"head": "opportunity", "relation": "NotDesires", "tails": [" opportunity", " have to work hard for", " have to work hard"]}
+{"head": "opportunity", "relation": "Desires", "tails": [" opportunity", " make money", " have a chance"]}
+{"head": "have opportunity", "relation": "HinderedBy", "tails": [" have to work hard", " have to work for", " have opportunity"]}
+{"head": "have opportunity", "relation": "isBefore", "tails": [" get job", " pay taxes", " have to do"]}
+{"head": "have opportunity", "relation": "isAfter", "tails": [" get job", " pay taxes", " have opportunity"]}
+{"head": "have opportunity", "relation": "HasSubEvent", "tails": [" get job", " have opportunity", " have to do"]}
+{"head": "have opportunity", "relation": "Causes", "tails": [" have opportunity", " get job", " have to do"]}
+{"head": "have opportunity", "relation": "xReason", "tails": [" get job", " have opportunity", " have to do"]}
+{"head": "golden opportunity", "relation": "ObjectUse", "tails": [" get a new job", " get a promotion", " get a job"]}
+{"head": "golden opportunity", "relation": "AtLocation", "tails": [" gold mine", " money", " goldmine"]}
+{"head": "golden opportunity", "relation": "CapableOf", "tails": [" get a new job", " get a job", " make money"]}
+{"head": "golden opportunity", "relation": "HasProperty", "tails": [" good for the future", " good for business", " good job"]}
+{"head": "golden opportunity", "relation": "MadeUpOf", "tails": [" gold", " golden ticket", " money"]}
+{"head": "golden opportunity", "relation": "NotDesires", "tails": [" have to work hard", " have to work hard for", " have to work hard to get"]}
+{"head": "golden opportunity", "relation": "Desires", "tails": [" have a good life", " have a good time", " have a good job"]}
+{"head": "The Boston Celtics had a golden opportunity in the recently concluded Eastern Conference Finals.", "relation": "xAttr", "tails": [" successful", " hopeful", " talented"]}
+{"head": "The Boston Celtics had a golden opportunity in the recently concluded Eastern Conference Finals.", "relation": "xWant", "tails": [" to win the championship", " to win the game", " to win a championship"]}
+{"head": "The Boston Celtics had a golden opportunity in the recently concluded Eastern Conference Finals.", "relation": "xNeed", "tails": [" win the championship", " win the series", " to win the series"]}
+{"head": "The Boston Celtics had a golden opportunity in the recently concluded Eastern Conference Finals.", "relation": "xEffect", "tails": [" win the championship", " win the game", " win the series"]}
+{"head": "The Boston Celtics had a golden opportunity in the recently concluded Eastern Conference Finals.", "relation": "HinderedBy", "tails": [" the team to win the championship", " the team to win the game", " the team to win"]}
+{"head": "The Boston Celtics had a golden opportunity in the recently concluded Eastern Conference Finals.", "relation": "oWant", "tails": [" to win the game", " to win the championship", " to win the series"]}
+{"head": "The Boston Celtics had a golden opportunity in the recently concluded Eastern Conference Finals.", "relation": "xReact", "tails": [" excited", " happy", " hopeful"]}
+{"head": "The Boston Celtics had a golden opportunity in the recently concluded Eastern Conference Finals.", "relation": "oEffect", "tails": [" none", " win the game", " win the championship"]}
+{"head": "The Boston Celtics had a golden opportunity in the recently concluded Eastern Conference Finals.", "relation": "xIntent", "tails": [" none", " to win the championship", " to win a championship"]}
+{"head": "The Boston Celtics had a golden opportunity in the recently concluded Eastern Conference Finals.", "relation": "oReact", "tails": [" none", " defeated", " happy"]}
+{"head": "The Boston Celtics had a golden opportunity in the recently concluded Eastern Conference Finals.", "relation": "isBefore", "tails": [" the team to win the championship", " the team to win the game", " the team to win"]}
+{"head": "The Boston Celtics had a golden opportunity in the recently concluded Eastern Conference Finals.", "relation": "isAfter", "tails": [" the team to win the championship", " the team to win the game", " win the championship"]}
+{"head": "The Boston Celtics had a golden opportunity in the recently concluded Eastern Conference Finals.", "relation": "HasSubEvent", "tails": [" win the championship", " win the game", " win the series"]}
+{"head": "The Boston Celtics had a golden opportunity in the recently concluded Eastern Conference Finals.", "relation": "Causes", "tails": [" the team to win", " win the championship", " the team to be successful"]}
+{"head": "The Boston Celtics had a golden opportunity in the recently concluded Eastern Conference Finals.", "relation": "xReason", "tails": [" win the championship", " the team to win", " win the series"]}
+{"head": "Boston Celtics", "relation": "ObjectUse", "tails": [" play basketball", " play in the NBA", " win the championship"]}
+{"head": "Boston Celtics", "relation": "AtLocation", "tails": [" basketball game", " basketball court", " sports bar"]}
+{"head": "Boston Celtics", "relation": "CapableOf", "tails": [" play basketball", " play basketball game", " play for team"]}
+{"head": "Boston Celtics", "relation": "HasProperty", "tails": [" one of the best teams in the league", " one of the best teams in the world", " one of the best teams in the NBA"]}
+{"head": "Boston Celtics", "relation": "MadeUpOf", "tails": [" basketball", " basketball game", " team name"]}
+{"head": "Boston Celtics", "relation": "NotDesires", "tails": [" play against each other", " basketball game", " play against other teams"]}
+{"head": "Boston Celtics", "relation": "Desires", "tails": [" win a championship", " win the championship", " win the game"]}

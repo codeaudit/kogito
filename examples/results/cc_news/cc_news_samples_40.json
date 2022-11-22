@@ -1,0 +1,151 @@
+{"head": "year", "relation": "ObjectUse", "tails": [" have a birthday", " get a promotion", " have a good time"]}
+{"head": "year", "relation": "AtLocation", "tails": [" year", " office building", " school"]}
+{"head": "year", "relation": "CapableOf", "tails": [" pay bills on time", " pay rent", " pay taxes"]}
+{"head": "year", "relation": "HasProperty", "tails": [" year", " one year", " many years"]}
+{"head": "year", "relation": "MadeUpOf", "tails": [" year", " number of years", " number of days"]}
+{"head": "year", "relation": "NotDesires", "tails": [" year", " year to end", " have to pay bills"]}
+{"head": "year", "relation": "Desires", "tails": [" year", " year of life", " year to live"]}
+{"head": "way", "relation": "ObjectUse", "tails": [" get to destination", " get to the store", " get to the destination"]}
+{"head": "way", "relation": "AtLocation", "tails": [" car", " road", " highway"]}
+{"head": "way", "relation": "CapableOf", "tails": [" get to destination", " drive car", " get to place"]}
+{"head": "way", "relation": "HasProperty", "tails": [" found in countryside", " found in mountains", " found in country"]}
+{"head": "way", "relation": "MadeUpOf", "tails": [" path", " car", " road"]}
+{"head": "way", "relation": "NotDesires", "tails": [" get lost", " get to destination", " get in accident"]}
+{"head": "way", "relation": "Desires", "tails": [" get to destination", " get to destination on time", " get to destination faster"]}
+{"head": "to select", "relation": "HinderedBy", "tails": [" to select ", " to select", " to select  to select "]}
+{"head": "to select", "relation": "isBefore", "tails": [" to select", " to select ", " to select the right one"]}
+{"head": "to select", "relation": "isAfter", "tails": [" to make a decision", " to make a choice", " to select the right one"]}
+{"head": "to select", "relation": "HasSubEvent", "tails": [" to select", " to select what to select", " to select what they want"]}
+{"head": "to select", "relation": "Causes", "tails": [" to select", " to select  to select ", " to select  to select  to select"]}
+{"head": "to select", "relation": "xReason", "tails": [" to select", " to select something", " to select "]}
+{"head": "to make", "relation": "HinderedBy", "tails": [" to make ", " to make", " to make  to make "]}
+{"head": "to make", "relation": "isBefore", "tails": [" to make", " to make a cake", " to make something"]}
+{"head": "to make", "relation": "isAfter", "tails": [" to make a cake", " to make", " to make something"]}
+{"head": "to make", "relation": "HasSubEvent", "tails": [" to make", " to make ", " to make something"]}
+{"head": "to make", "relation": "Causes", "tails": [" to make", " to make ", " to make something"]}
+{"head": "to make", "relation": "xReason", "tails": [" to make", " to make something", " to make  food"]}
+{"head": "to come", "relation": "HinderedBy", "tails": [" to come", " to come ", " to come  to"]}
+{"head": "to come", "relation": "isBefore", "tails": [" to come", " to come to the party", " to come back home"]}
+{"head": "to come", "relation": "isAfter", "tails": [" to go to the party", " to go to the concert", " to go to a concert"]}
+{"head": "to come", "relation": "HasSubEvent", "tails": [" to come", " get in car", " to come "]}
+{"head": "to come", "relation": "Causes", "tails": [" to come", " to come  to  come  to  come", " to come  to  come  to  come "]}
+{"head": "to come", "relation": "xReason", "tails": [" to come", " to come  to  come", " to come  to  come "]}
+{"head": "to base", "relation": "HinderedBy", "tails": [" to base", " to base ", " to base  to base "]}
+{"head": "to base", "relation": "isBefore", "tails": [" to base", " to base on", " to base "]}
+{"head": "to base", "relation": "isAfter", "tails": [" to base", " to base  to base ", " to base  to base"]}
+{"head": "to base", "relation": "HasSubEvent", "tails": [" to base", " to base ", " to base  base "]}
+{"head": "to base", "relation": "Causes", "tails": [" to base", " to base ", " to base  to base"]}
+{"head": "to base", "relation": "xReason", "tails": [" to base", " to base on", " to base  on"]}
+{"head": "television debut", "relation": "ObjectUse", "tails": [" make a good impression", " make money", " make a movie"]}
+{"head": "television debut", "relation": "AtLocation", "tails": [" tv show", " television show", " television studio"]}
+{"head": "television debut", "relation": "CapableOf", "tails": [" make a good impression", " make impression", " make money"]}
+{"head": "television debut", "relation": "HasProperty", "tails": [" television show", " made famous", " made in studio"]}
+{"head": "television debut", "relation": "MadeUpOf", "tails": [" television", " television set", " television screen"]}
+{"head": "television debut", "relation": "NotDesires", "tails": [" make a lot of money", " make a good impression", " make a lot of money."]}
+{"head": "television debut", "relation": "Desires", "tails": [" make a good impression", " make money", " have a good career"]}
+{"head": "television", "relation": "ObjectUse", "tails": [" turn on", " watch the news", " watch news"]}
+{"head": "television", "relation": "AtLocation", "tails": [" television set", " tv show", " television"]}
+{"head": "television", "relation": "CapableOf", "tails": [" turn on", " watch news", " watch news programs"]}
+{"head": "television", "relation": "HasProperty", "tails": [" televisions", " television", " found in home"]}
+{"head": "television", "relation": "MadeUpOf", "tails": [" television set", " televisions", " television"]}
+{"head": "television", "relation": "NotDesires", "tails": [" watch tv", " watch", " watch movie"]}
+{"head": "television", "relation": "Desires", "tails": [" watch tv", " watch news", " watch"]}
+{"head": "night", "relation": "ObjectUse", "tails": [" have a good night's sleep", " have a good time", " have a good night's rest"]}
+{"head": "night", "relation": "AtLocation", "tails": [" bed", " night", " night sky"]}
+{"head": "night", "relation": "CapableOf", "tails": [" wake up", " sleep all day", " wake up in morning"]}
+{"head": "night", "relation": "HasProperty", "tails": [" dark", " night", " light"]}
+{"head": "night", "relation": "MadeUpOf", "tails": [" night", " moon", " night sky"]}
+{"head": "night", "relation": "NotDesires", "tails": [" fall asleep", " sleep", " sleep during day"]}
+{"head": "night", "relation": "Desires", "tails": [" sleep", " sleep well", " have good sleep"]}
+{"head": "make debut", "relation": "HinderedBy", "tails": [" make a good impression", " make impression", " make money"]}
+{"head": "make debut", "relation": "isBefore", "tails": [" make impression", " make money", " make friends"]}
+{"head": "make debut", "relation": "isAfter", "tails": [" make first impression", " make impression", " make impression on audience"]}
+{"head": "make debut", "relation": "HasSubEvent", "tails": [" make impression", " make friends", " get nervous"]}
+{"head": "make debut", "relation": "Causes", "tails": [" make impression", " make money", " make friends"]}
+{"head": "make debut", "relation": "xReason", "tails": [" make impression", " make friends", " make money"]}
+{"head": "debut", "relation": "ObjectUse", "tails": [" make a name for yourself", " make a good impression", " make a name for oneself"]}
+{"head": "debut", "relation": "AtLocation", "tails": [" theater", " movie", " theatre"]}
+{"head": "debut", "relation": "CapableOf", "tails": [" make impression", " make a good impression", " make history"]}
+{"head": "debut", "relation": "HasProperty", "tails": [" made famous", " debuts", " made in movie"]}
+{"head": "debut", "relation": "MadeUpOf", "tails": [" make a good impression", " make a good impression on the audience", " make a good impression on the crowd"]}
+{"head": "debut", "relation": "NotDesires", "tails": [" make a lot of money", " make a good impression", " make a lot of noise"]}
+{"head": "debut", "relation": "Desires", "tails": [" make a good impression", " have a good time", " make impression"]}
+{"head": "Milwaukee", "relation": "ObjectUse", "tails": [" drinking beer", " travel to", " downtown"]}
+{"head": "Milwaukee", "relation": "AtLocation", "tails": [" city", " town", " downtown"]}
+{"head": "Milwaukee", "relation": "CapableOf", "tails": [" drink beer", " travel to", " get drunk"]}
+{"head": "Milwaukee", "relation": "HasProperty", "tails": [" city", " downtown", " downtown area"]}
+{"head": "Milwaukee", "relation": "MadeUpOf", "tails": [" city", " downtown", " downtown area"]}
+{"head": "Milwaukee", "relation": "NotDesires", "tails": [" get mugged", " city", " get mugged in"]}
+{"head": "Milwaukee", "relation": "Desires", "tails": [" live in", " downtown", " city"]}
+{"head": "Los Angeles", "relation": "ObjectUse", "tails": [" Los Angeles", " live in", " Los Angeles."]}
+{"head": "Los Angeles", "relation": "AtLocation", "tails": [" city", " suburbia", " cities"]}
+{"head": "Los Angeles", "relation": "CapableOf", "tails": [" live in", " move to", " travel to"]}
+{"head": "Los Angeles", "relation": "HasProperty", "tails": [" Los Angeles", " Los Angeles.", " Los Angeles, California"]}
+{"head": "Los Angeles", "relation": "MadeUpOf", "tails": [" Los Angeles", " Los Angeles, California", " Los Angeles."]}
+{"head": "Los Angeles", "relation": "NotDesires", "tails": [" Los Angeles", " Los Angeles.", " cities to be in"]}
+{"head": "Los Angeles", "relation": "Desires", "tails": [" Los Angeles", " live in", " Los Angeles."]}
+{"head": "Late Late", "relation": "ObjectUse", "tails": [" stay up late", " stay up all night", " stay up late at night"]}
+{"head": "Late Late", "relation": "AtLocation", "tails": [" late at night", " bed", " late night"]}
+{"head": "Late Late", "relation": "CapableOf", "tails": [" sleep late", " sleep in", " get in trouble"]}
+{"head": "Late Late", "relation": "HasProperty", "tails": [" late", " late to work", " late for work"]}
+{"head": "Late Late", "relation": "MadeUpOf", "tails": [" late", " late for work", " late to work"]}
+{"head": "Late Late", "relation": "NotDesires", "tails": [" late for work", " late to work", " late for dinner"]}
+{"head": "Late Late", "relation": "Desires", "tails": [" late for work", " late to work", " late"]}
+{"head": "Dave Stone", "relation": "ObjectUse", "tails": [" Dave", " Dave's son", " Dave's wife"]}
+{"head": "Dave Stone", "relation": "AtLocation", "tails": [" rock band", " Dave's house", " Dave's home"]}
+{"head": "Dave Stone", "relation": "CapableOf", "tails": [" play guitar", " get a job", " get into trouble"]}
+{"head": "Dave Stone", "relation": "HasProperty", "tails": [" Dave", " Dave Stone", " Dave's son"]}
+{"head": "Dave Stone", "relation": "MadeUpOf", "tails": [" Dave", " Dave's guitar", " Dave's hand"]}
+{"head": "Dave Stone", "relation": "NotDesires", "tails": [" Dave", " Dave Stone", " Dave's wife is pregnant"]}
+{"head": "Dave Stone", "relation": "Desires", "tails": [" Dave is a good friend of mine.", " Dave is a good friend of mine", " Dave is a good person."]}
+{"head": "Craig Ferguson", "relation": "ObjectUse", "tails": [" get a new job", " play football with", " play football"]}
+{"head": "Craig Ferguson", "relation": "AtLocation", "tails": [" soccer game", " soccer match", " football team"]}
+{"head": "Craig Ferguson", "relation": "CapableOf", "tails": [" play football", " play football game", " play football with"]}
+{"head": "Craig Ferguson", "relation": "HasProperty", "tails": [" one of the best managers in the world", " one of the best players in the world", " one of the best managers in world football"]}
+{"head": "Craig Ferguson", "relation": "MadeUpOf", "tails": [" head", " soccer ball", " football team"]}
+{"head": "Craig Ferguson", "relation": "NotDesires", "tails": [" get fired", " Craig Ferguson", " Craig"]}
+{"head": "Craig Ferguson", "relation": "Desires", "tails": [" have a good team", " have a good time", " get a new job"]}
+{"head": "Comedian Dave Stone is coming to Milwaukee for one night only!", "relation": "xAttr", "tails": [" funny", " entertaining", " entertained"]}
+{"head": "Comedian Dave Stone is coming to Milwaukee for one night only!", "relation": "xWant", "tails": [" to have a good time", " to have a good time.", " to have fun"]}
+{"head": "Comedian Dave Stone is coming to Milwaukee for one night only!", "relation": "xNeed", "tails": [" to book a show", " to book the show", " to book a show."]}
+{"head": "Comedian Dave Stone is coming to Milwaukee for one night only!", "relation": "xEffect", "tails": [" gets a standing ovation", " gets booed off stage", " gets booed off the stage"]}
+{"head": "Comedian Dave Stone is coming to Milwaukee for one night only!", "relation": "HinderedBy", "tails": [" The show is sold out.", " The show is sold out for the night.", " The show is sold out"]}
+{"head": "Comedian Dave Stone is coming to Milwaukee for one night only!", "relation": "oWant", "tails": [" to have a good time", " to see the show", " to have a good time."]}
+{"head": "Comedian Dave Stone is coming to Milwaukee for one night only!", "relation": "xReact", "tails": [" entertained", " happy", " excited"]}
+{"head": "Comedian Dave Stone is coming to Milwaukee for one night only!", "relation": "oEffect", "tails": [" none", " get a drink", " get a good laugh"]}
+{"head": "Comedian Dave Stone is coming to Milwaukee for one night only!", "relation": "xIntent", "tails": [" to have a good time", " to have fun", " to entertain people"]}
+{"head": "Comedian Dave Stone is coming to Milwaukee for one night only!", "relation": "oReact", "tails": [" none", " entertained", " happy"]}
+{"head": "Comedian Dave Stone is coming to Milwaukee for one night only!", "relation": "isBefore", "tails": [" PersonX buys a ticket to the show.", " PersonX buys tickets to the show.", " PersonX buys tickets for the show."]}
+{"head": "Comedian Dave Stone is coming to Milwaukee for one night only!", "relation": "isAfter", "tails": [" comedian Dave Stone is coming to Milwaukee for one night only", " comedian Dave Stone is coming to Milwaukee for one night only.", " comedian Dave Stone is coming to Milwaukee for one night only!"]}
+{"head": "Comedian Dave Stone is coming to Milwaukee for one night only!", "relation": "HasSubEvent", "tails": [" get ready for the show", " get a good night's sleep", " get a good night's rest"]}
+{"head": "Comedian Dave Stone is coming to Milwaukee for one night only!", "relation": "Causes", "tails": [" entertained", " excited", " happy"]}
+{"head": "Comedian Dave Stone is coming to Milwaukee for one night only!", "relation": "xReason", "tails": [" they get a standing ovation", " get a good seat for the show", " get a good seat for the show."]}
+{"head": "Comedian Dave Stone", "relation": "ObjectUse", "tails": [" perform stand-up comedy", " perform standup comedy", " perform stand up comedy"]}
+{"head": "Comedian Dave Stone", "relation": "AtLocation", "tails": [" comedy club", " comic book", " comedy show"]}
+{"head": "Comedian Dave Stone", "relation": "CapableOf", "tails": [" laugh", " laugh out loud", " laugh at themselves"]}
+{"head": "Comedian Dave Stone", "relation": "HasProperty", "tails": [" funny", " entertained", " comedy"]}
+{"head": "Comedian Dave Stone", "relation": "MadeUpOf", "tails": [" comic book", " comedy act", " comedy"]}
+{"head": "Comedian Dave Stone", "relation": "NotDesires", "tails": [" laugh out loud", " perform standup comedy", " laugh"]}
+{"head": "Comedian Dave Stone", "relation": "Desires", "tails": [" to be funny", " to make people laugh", " to entertain people"]}
+{"head": "Based in Los Angeles by way of Atlanta, Dave Stone made his television debut on \"The Late Late Show with Craig Ferguson\" in 2013 and in the same year was selected to the prestigious ...", "relation": "xAttr", "tails": [" talented", " creative", " successful"]}
+{"head": "Based in Los Angeles by way of Atlanta, Dave Stone made his television debut on \"The Late Late Show with Craig Ferguson\" in 2013 and in the same year was selected to the prestigious ...", "relation": "xWant", "tails": [" to be a part of the show", " to be on the show", " to be a part of a show"]}
+{"head": "Based in Los Angeles by way of Atlanta, Dave Stone made his television debut on \"The Late Late Show with Craig Ferguson\" in 2013 and in the same year was selected to the prestigious ...", "relation": "xNeed", "tails": [" to audition for the show", " to audition for the role", " to audition for a show"]}
+{"head": "Based in Los Angeles by way of Atlanta, Dave Stone made his television debut on \"The Late Late Show with Craig Ferguson\" in 2013 and in the same year was selected to the prestigious ...", "relation": "xEffect", "tails": [" get a job in the entertainment industry", " get a job as a news anchor", " get a job in the entertainment business"]}
+{"head": "Based in Los Angeles by way of Atlanta, Dave Stone made his television debut on \"The Late Late Show with Craig Ferguson\" in 2013 and in the same year was selected to the prestigious ...", "relation": "HinderedBy", "tails": [" based in Los Angeles", " based in Los Angeles by way of Atlanta", " based in Los Angeles."]}
+{"head": "Based in Los Angeles by way of Atlanta, Dave Stone made his television debut on \"The Late Late Show with Craig Ferguson\" in 2013 and in the same year was selected to the prestigious ...", "relation": "oWant", "tails": [" to be a part of the show", " to be on the show", " to be a part of a show"]}
+{"head": "Based in Los Angeles by way of Atlanta, Dave Stone made his television debut on \"The Late Late Show with Craig Ferguson\" in 2013 and in the same year was selected to the prestigious ...", "relation": "xReact", "tails": [" proud", " happy", " accomplished"]}
+{"head": "Based in Los Angeles by way of Atlanta, Dave Stone made his television debut on \"The Late Late Show with Craig Ferguson\" in 2013 and in the same year was selected to the prestigious ...", "relation": "oEffect", "tails": [" none", " get a new job", " get a job"]}
+{"head": "Based in Los Angeles by way of Atlanta, Dave Stone made his television debut on \"The Late Late Show with Craig Ferguson\" in 2013 and in the same year was selected to the prestigious ...", "relation": "xIntent", "tails": [" to be a part of the entertainment industry", " to be a part of the show", " to be famous"]}
+{"head": "Based in Los Angeles by way of Atlanta, Dave Stone made his television debut on \"The Late Late Show with Craig Ferguson\" in 2013 and in the same year was selected to the prestigious ...", "relation": "oReact", "tails": [" none", " entertained", " made famous"]}
+{"head": "Based in Los Angeles by way of Atlanta, Dave Stone made his television debut on \"The Late Late Show with Craig Ferguson\" in 2013 and in the same year was selected to the prestigious ...", "relation": "isBefore", "tails": [" based in Los Angeles", " based in LA", " based in Los Angeles."]}
+{"head": "Based in Los Angeles by way of Atlanta, Dave Stone made his television debut on \"The Late Late Show with Craig Ferguson\" in 2013 and in the same year was selected to the prestigious ...", "relation": "isAfter", "tails": [" based in Los Angeles", " based in Los Angeles by way of Atlanta", " based in Los Angeles by way of Atlanta,"]}
+{"head": "Based in Los Angeles by way of Atlanta, Dave Stone made his television debut on \"The Late Late Show with Craig Ferguson\" in 2013 and in the same year was selected to the prestigious ...", "relation": "HasSubEvent", "tails": [" get a job as a news anchor", " get a job in the entertainment industry", " get a job in the entertainment business"]}
+{"head": "Based in Los Angeles by way of Atlanta, Dave Stone made his television debut on \"The Late Late Show with Craig Ferguson\" in 2013 and in the same year was selected to the prestigious ...", "relation": "Causes", "tails": [" based in Los Angeles", " based in LA", " based in Los Angeles."]}
+{"head": "Based in Los Angeles by way of Atlanta, Dave Stone made his television debut on \"The Late Late Show with Craig Ferguson\" in 2013 and in the same year was selected to the prestigious ...", "relation": "xReason", "tails": [" based in Los Angeles", " based in LA", " based in Los Angeles."]}
+{"head": "Atlanta", "relation": "ObjectUse", "tails": [" live in", " travel to", " city"]}
+{"head": "Atlanta", "relation": "AtLocation", "tails": [" city", " town", " cities"]}
+{"head": "Atlanta", "relation": "CapableOf", "tails": [" travel to", " fly airplane", " travel to city"]}
+{"head": "Atlanta", "relation": "HasProperty", "tails": [" found in cities around the world", " found in many cities", " found in cities around the world."]}
+{"head": "Atlanta", "relation": "MadeUpOf", "tails": [" city", " airport", " car"]}
+{"head": "Atlanta", "relation": "NotDesires", "tails": [" city", " air conditioning", " air pollution"]}
+{"head": "Atlanta", "relation": "Desires", "tails": [" live in", " city", " live in."]}
