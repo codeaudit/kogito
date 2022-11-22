@@ -108,9 +108,9 @@ function App() {
     if (!_.isEmpty(textWords)) {
       let indices = []
 
-      for (let word in words) {
+      for (let word of words) {
         let index = _.indexOf(textWords, _.toLower(word))
-        if (index != -1) indices.push(index)
+        if (index !== -1) indices.push(index)
       }
 
       if (!_.isEmpty(indices)) return _.min(indices)
@@ -298,8 +298,8 @@ function App() {
   }
 
   const resultPanes = [
-    {menuItem: 'JSON', render: () => resultJSONPane},
-    {menuItem: 'Table', render: () => resultTablePane()},
+    {key:'JSON', menuItem: 'JSON', render: () => resultJSONPane},
+    {key: 'Table', menuItem: 'Table', render: () => resultTablePane()},
   ]
 
   return (
