@@ -18,6 +18,7 @@ from kogito.core.processors.relation import (
     GraphBasedRelationMatcher,
     KnowledgeRelationMatcher,
     SimpleRelationMatcher,
+    BaseRelationMatcher
 )
 from kogito.core.model import KnowledgeModel
 from kogito.core.linker import KnowledgeLinker
@@ -125,10 +126,14 @@ class CommonsenseInference:
         head_texts = set()
         model_args = model_args or {}
 
+        if relations is not None and not isinstance(relations, list):
+            raise ValueError("Relation subset should be a list")
+
         if heads:
             for head in heads:
-                head_texts.add(head)
-                kg_heads.append(KnowledgeHead(text=head))
+                if isinstance(head, str) and head.strip():
+                    head_texts.add(head)
+                    kg_heads.append(KnowledgeHead(text=head))
 
         if extract_heads:
             if text:
@@ -146,6 +151,8 @@ class CommonsenseInference:
                 head_texts.add(text)
                 kg_heads.append(KnowledgeHead(text=text))
 
+        base_relation_matcher = BaseRelationMatcher("base-relation-matcher")
+
         if match_relations:
             print("Matching knowledge heads with relations...")
             for relation_proc in self._relation_processors.values():
@@ -156,21 +163,12 @@ class CommonsenseInference:
                         )
                     )
                 )
-        elif relations:
-            if not isinstance(relations, list):
-                raise ValueError("Relation subset should be a list")
-
-            head_relations = head_relations.union(
-                set(list(product(kg_heads, relations)))
-            )
         else:
+            print("Pairing knowledge heads with all relations...")
             head_relations = head_relations.union(
                 set(
-                    list(
-                        product(
-                            kg_heads,
-                            PHYSICAL_RELATIONS + SOCIAL_RELATIONS + EVENT_RELATIONS,
-                        )
+                    base_relation_matcher.match(
+                        kg_heads, relations, sample_graph=sample_graph
                     )
                 )
             )

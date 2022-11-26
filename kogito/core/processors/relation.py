@@ -17,6 +17,7 @@ from kogito.core.relation import (
     PHYSICAL_RELATIONS,
     EVENT_RELATIONS,
     SOCIAL_RELATIONS,
+    CUSTOM_RELATIONS
 )
 
 from kogito.core.processors.models.swem import SWEMHeadDataset, SWEMClassifier
@@ -66,6 +67,29 @@ class KnowledgeRelationMatcher(ABC):
         raise NotImplementedError
 
 
+class BaseRelationMatcher(KnowledgeRelationMatcher):
+    """Matches all relations with all heads"""
+
+    def match(
+        self,
+        heads: List[KnowledgeHead],
+        relations: List[KnowledgeRelation] = None,
+        **kwargs
+    ) -> List[Tuple[KnowledgeHead, KnowledgeRelation]]:
+        head_relations = []
+
+        for head in heads:
+            rels_to_match = PHYSICAL_RELATIONS + SOCIAL_RELATIONS + EVENT_RELATIONS + CUSTOM_RELATIONS
+            if relations:
+                rels_to_match = set(rels_to_match).intersection(
+                    set(relations)
+                )
+            for relation in rels_to_match:
+                head_relations.append((head, relation))
+
+        return head_relations
+
+
 class SimpleRelationMatcher(KnowledgeRelationMatcher):
     """Matches relation based on simple heuristics"""
 
@@ -78,7 +102,7 @@ class SimpleRelationMatcher(KnowledgeRelationMatcher):
         head_relations = []
 
         for head in heads:
-            rels_to_match = HEAD_TO_RELATION_MAP[head.type]
+            rels_to_match = HEAD_TO_RELATION_MAP[head.type] + CUSTOM_RELATIONS
             if relations:
                 rels_to_match = set(HEAD_TO_RELATION_MAP[head.type]).intersection(
                     set(relations)

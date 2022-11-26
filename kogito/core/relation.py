@@ -1,4 +1,4 @@
-from typing import Callable, Optional
+from typing import Callable, Optional, Literal
 from enum import Enum
 from kogito.core.head import KnowledgeHeadType
 from kogito.core.utils import vp_present_participle, article, posessive
@@ -552,10 +552,30 @@ CONCEPTNET_TO_ATOMIC_MAP = {
     RECEIVES_ACTION: [MADE_UP_OF, AT_LOCATION, CAUSES, OBJECT_USE],
 }
 
+CUSTOM_RELATIONS = []
+RELATION_KIND = Literal["physical", "event", "social"]
 
-def register_relation(relation: KnowledgeRelation):
+def register_relation(relation: KnowledgeRelation, kind: Optional[RELATION_KIND] = None) -> None:
+    """Register a new relation based on its kind. By default, it registers the relation
+    as a custom relation without a kind, but optionally it can be registered to be a Physical,
+    Event or a Social relation.
+
+    Args:
+        relation (KnowledgeRelation): Knowledge relation to register.
+        kind (Optional[RELATION_KIND], optional): Relation kind. Available kinds: physical, event, social. 
+                                                Defaults to None.
+    """
     if relation not in KG_RELATIONS:
         KG_RELATIONS.append(relation)
+
+        if kind == "physical":
+            PHYSICAL_RELATIONS.append(relation)
+        elif kind == "event":
+            EVENT_RELATIONS.append(relation)
+        elif kind == "social":
+            SOCIAL_RELATIONS.append(relation)
+        else:
+            CUSTOM_RELATIONS.append(relation)
 
 
 RELATION_TO_NL = {

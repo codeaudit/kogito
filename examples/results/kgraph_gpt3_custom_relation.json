@@ -1,4 +1,4 @@
 {"head": "PersonX sees PersonY's point", "relation": "xNeed", "tails": [" to listen to PersonY"]}
+{"head": "PersonX sees PersonY's point", "relation": "xWishes", "tails": [" to apologize to PersonY"]}
 {"head": "PersonX makes a huge mistake", "relation": "xNeed", "tails": [""]}
-{"head": "PersonX sees PersonY's point", "relation": "xWishes", "tails": [" to have a discussion"]}
 {"head": "PersonX makes a huge mistake", "relation": "xWishes", "tails": [" to fix the mistake"]}

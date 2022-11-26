@@ -1,5 +1,5 @@
 import React, { useState } from 'react'
-import { Grid, Form, TextArea, Dropdown, Button, Container, Message, Label, Input, Icon, Radio, Tab, Table, Accordion, Popup, Segment } from 'semantic-ui-react'
+import { Grid, Form, TextArea, Dropdown, Button, Container, Message, Label, Input, Icon, Radio, Tab, Table, Accordion, Popup, Segment, Image } from 'semantic-ui-react'
 import api from './api'
 import RELATIONS from './relations'
 import _ from 'lodash'
@@ -56,21 +56,21 @@ function App() {
       text: 'Heuristic Matcher',
       value: 'simple_relation_matcher'
     },
-    {
-      key: 'swem_relation_matcher',
-      text: 'GloVe-based Matcher',
-      value: 'swem_relation_matcher'
-    },
+    // {
+    //   key: 'swem_relation_matcher',
+    //   text: 'GloVe-based Matcher',
+    //   value: 'swem_relation_matcher'
+    // },
     {
       key: 'distilbert_relation_matcher',
       text: 'DistilBERT-based Matcher',
       value: 'distilbert_relation_matcher'
     },
-    {
-      key: 'bert_relation_matcher',
-      text: 'BERT-based Matcher',
-      value: 'bert_relation_matcher'
-    },
+    // {
+    //   key: 'bert_relation_matcher',
+    //   text: 'BERT-based Matcher',
+    //   value: 'bert_relation_matcher'
+    // },
   ]
 
   const [text, setText] = useState('')
@@ -92,6 +92,8 @@ function App() {
   const [context, setContext] = useState('')
   const [threshold, setThreshold] = useState(0.5)
   const [textWords, setTextWords] = useState([])
+  const [inferenceFiltering, setInferenceFiltering] = useState(false)
+  const [resultWarningVisible, setResultWarningVisible] = useState(true)
 
   let resultMap = {}
 
@@ -132,18 +134,25 @@ function App() {
       }, 1000)
     }
 
+    let data = {
+      text: text,
+      model: model,
+      heads: _.filter(heads, h => !_.isEmpty(_.trim(h))),
+      relations: relations,
+      extractHeads: extractHeads,
+      matchRelations: matchRelations,
+      dryRun: dryRun,
+      headProcs: headProcs,
+      relProcs: relProcs,
+      threshold: threshold
+    }
+
+    if (inferenceFiltering) {
+      data[context] = context || text
+    }
+
     api.inference
-    .generate({text: text,
-               model: model,
-               heads: heads,
-               relations: relations,
-               extractHeads: extractHeads,
-               matchRelations: matchRelations,
-               dryRun: dryRun,
-               headProcs: headProcs,
-               relProcs: relProcs,
-               context: context,
-               threshold: threshold})
+    .generate(data)
     .then(response => {
       setResults(response.data.graph)
       setTextWords(response.data.text)
@@ -298,18 +307,196 @@ function App() {
   }
 
   const resultPanes = [
-    {key:'JSON', menuItem: 'JSON', render: () => resultJSONPane},
     {key: 'Table', menuItem: 'Table', render: () => resultTablePane()},
+    {key:'JSON', menuItem: 'JSON', render: () => resultJSONPane}
   ]
+
+  const textInput = (
+    <Form>
+      <div className='cntr-label'>
+        <Popup content='Main text input to extract heads from if enabled, otherwise used as is for knowledge generation' trigger={<Label color='teal'>Text</Label>}/>
+      </div>
+      <TextArea 
+        placeholder='PersonX becomes a great basketball player'
+        onChange={e => setText(e.target.value)}
+        value={text}
+        label='Text'
+        rows={2}
+      />
+    </Form>
+  )
+
+  const extractHeadsInput = (
+    <React.Fragment>
+      <div className='cntr-label'>
+        <Popup content='If enabled, knowledge heads will be extracted from given text using the head processors defined below' trigger={<Label color='teal'>Extract Heads</Label>}/>
+      </div>
+      <Radio toggle checked={extractHeads} onChange={(e, data) => setExtractHeads(data.checked)}/>
+    </React.Fragment>
+  )
+
+  const matchRelationsInput = (
+    <React.Fragment>
+      <div className='cntr-label'>
+        <Popup content='If enabled, (subset of) relations will be matched with extracted heads using the relation processors defined below, otherwise, heads will be matched to all relations given below' trigger={<Label color='teal'>Match Relations</Label>}/>
+      </div>
+      <Radio toggle checked={matchRelations} onChange={(e, data) => setMatchRelations(data.checked)}/>
+    </React.Fragment>
+  )
+
+  const dryRunInput = (
+    <React.Fragment>
+      <div className='cntr-label'>
+        <Popup content="If enabled, actual knowledge generation through a model won't be run and final input graph to the model will be returned as a result" trigger={<Label color='teal'>Dry Run</Label>}/>
+      </div>
+      <Radio toggle checked={dryRun} onChange={(e, data) => setDryRun(data.checked)}/>
+    </React.Fragment>
+  )
+
+  const inferenceFilteringInput = (
+    <React.Fragment>
+      <div className='cntr-label'>
+        <Popup content="If enabled, custom context can be provided which will be used to filter out irrelevant generations based on the relevancy threshold" trigger={<Label color='teal'>Inference Filtering</Label>}/>
+      </div>
+      <Radio toggle checked={inferenceFiltering} onChange={(e, data) => setInferenceFiltering(data.checked)}/>
+    </React.Fragment>
+  )
+
+  const modelInput = (
+    <React.Fragment>
+      <div className='cntr-label'>
+        <Popup content='Model to use for knowledge generation' trigger={<Label color='teal'>Model</Label>}/>
+      </div>
+      <Dropdown
+        placeholder='Select Model'
+        selection
+        options={modelOptions}
+        value={model}
+        onChange={(e, data) => setModel(data.value)}
+      />
+    </React.Fragment>
+  )
+
+  const contextInput = (
+    <Form>
+      <div className='cntr-label'>
+        <Popup content='Custom context to use for filtering out irrelevant knowledge generations. By default, given text will be used as context' trigger={<Label color='teal'>Context</Label>}/>
+      </div>
+      <TextArea 
+        placeholder={text || 'PersonX becomes a great basketball player'}
+        onChange={e => setContext(e.target.value)}
+        value={context}
+        label='Context'
+        rows={3}
+      />
+    </Form>
+  )
+
+  const thresholdInput = (
+    <React.Fragment>
+      <div className='cntr-label'>
+        <Popup content='Threshold value used for filtering out irrelevant knowledge generations' trigger={<Label color='teal'>Filtering threshold</Label>}/>
+      </div>
+      <NumberInput
+        value={threshold.toString()}
+        buttonPlacement="right"
+        minValue={0}
+        maxValue={1}
+        stepAmount={0.1}
+        valueType="decimal"
+        onChange={setThreshold}
+      />
+    </React.Fragment>
+  )
+
+  const headProcInput = (
+    <React.Fragment>
+      <div className='cntr-label'>
+        <Popup content='Strategies to use for extracting heads from given text if any' trigger={<Label color='teal'>Head Processors</Label>}/>
+      </div>
+      <Dropdown
+        placeholder='Add Processor'
+        selection
+        search
+        multiple
+        options={headProcOptions}
+        value={headProcs || []}
+        onChange={(e, data) => setHeadProcs(data.value)}
+      />
+    </React.Fragment>
+  )
+
+  const relProcInput = (
+    <React.Fragment>
+      <div className='cntr-label'>
+        <Popup content='Strategy to use for matching relations with extracted heads if any' trigger={<Label color='teal'>Relation Processors</Label>}/>
+      </div>
+      <Dropdown
+        placeholder='Select Processor'
+        selection
+        search
+        options={relProcOptions}
+        value={_.first(relProcs) || ''}
+        onChange={(e, data) => setRelProcs([data.value])}
+      />
+    </React.Fragment>
+  )
+
+  const headInput = (
+    <Form>
+      <div className='cntr-label'>
+        <Popup content='Custom head inputs that will be processed as is' trigger={<Label color='teal'>Heads</Label>}/>
+      </div>
+      <Button icon basic labelPosition='left' onClick={addHead}>
+        <Icon name='plus' />
+        Add Head
+      </Button>
+      {getHeadsJSX()}
+    </Form>
+  )
+
+  const relationInput = (
+    <React.Fragment>
+      <div className='cntr-label'>
+        <Popup content='Subset of relations to match from. By default, all relations are eligible to be matched' trigger={<Label color='teal'>Relations</Label>}/>
+      </div>
+      <Dropdown
+        placeholder='All'
+        selection
+        search
+        multiple
+        options={relationOptions}
+        value={relations || []}
+        onChange={(e, data) => setRelations(data.value)}
+      />
+    </React.Fragment>
+  )
 
   return (
     <Grid celled="internally" columns={2}>
 
-      <Grid.Column computer={8} mobile={16}>
+      <Grid.Column largeScreen={8} computer={10} mobile={16}>
         <Grid container>
           <Grid.Row>
-            <Grid.Column>
+            <Grid.Column width={12}>
               <p className='logo'><span className='logo-k'>K</span>ogito</p>
+              <Label.Group>
+                <Label as ='a' href='https://arxiv.org/abs/2211.08451' target='_blank' color='blue'>
+                  Paper &nbsp;
+                  <Icon name='external'/>
+                </Label>
+                <Label as ='a' href='https://github.com/epfl-nlp/kogito' target='_blank' color='red'>
+                  Code &nbsp;
+                  <Icon name='external'/>
+                </Label>
+                <Label as ='a' href='https://kogito.readthedocs.io' target='_blank' color='green'>
+                  Docs &nbsp;
+                  <Icon name='external'/>
+                </Label>
+              </Label.Group>
+            </Grid.Column>
+            <Grid.Column width={4}>
+              <Image as='a' src='/lab-logo.png' href='https://nlp.epfl.ch' target='_blank'/>
             </Grid.Column>
           </Grid.Row>
           
@@ -317,9 +504,8 @@ function App() {
             <Grid.Column>
               <Message color='grey'>
                 <Message.Header>A Commonsense Knowledge Inference Toolkit</Message.Header>
-                <p className='description'>This is an interactive playground for <b>kogito</b>, the Python library that provides an intuitive interface to generate knowledge from text. 
-                This app is meant to be used for demo purposes and does not support all available features of the library.
-                Please, refer to <a href='https://kogito.readthedocs.io/'>kogito docs</a> for more information on how to use the library. Code for the tool and the library can be found <a href='https://github.com/epfl-nlp/kogito'>here</a>
+                <p className='description'>This is an interactive playground for <b>kogito</b>, a Python library that provides an intuitive interface to generate commonsense knowledge from text. 
+                This app is meant to be used for demo purposes only and hence, does not support all available features of the library. Please, hover over the labels to get more information on what each input does and refer to the docs or the paper for additional details.
                 </p>
               </Message>
             </Grid.Column>
@@ -328,147 +514,75 @@ function App() {
           <Grid.Row>
             <Grid.Column>
               <div className='cntr'>
-                <Form>
-                  <div className='cntr-label'>
-                    <Popup content='Main text input to extract heads from if enabled, otherwise used as is for knowledge generation' trigger={<Label color='teal'>Text</Label>}/>
-                  </div>
-                  <TextArea 
-                    placeholder='PersonX becomes a great basketball player'
-                    onChange={e => setText(e.target.value)}
-                    value={text}
-                    label='Text'
-                    rows={2}
-                  />
-                </Form>
-              </div>
-              <div className='cntr'>
-                <Grid columns={2}>
-                  <Grid.Column largeScreen={12} computer={10} mobile={16}>
-                    <Form>
-                      <div className='cntr-label'>
-                        <Popup content='Context to use for filtering out irrelevant knowledge generations' trigger={<Label color='teal'>Context</Label>}/>
-                      </div>
-                      <TextArea 
-                        placeholder=''
-                        onChange={e => setContext(e.target.value)}
-                        value={context}
-                        label='Context'
-                        rows={3}
-                      />
-                    </Form>
-                  </Grid.Column>
-                  <Grid.Column largeScreen={4} computer={6} mobile={16}>
-                    <div className='cntr-label'>
-                      <Popup content='Threshold value used for filtering out irrelevant knowledge generations' trigger={<Label color='teal'>Relevancy threshold</Label>}/>
-                    </div>
-                    <NumberInput
-                      value={threshold.toString()}
-                      buttonPlacement="right"
-                      minValue={0}
-                      maxValue={1}
-                      stepAmount={0.1}
-                      valueType="decimal"
-                      onChange={setThreshold}
-                    />
-                  </Grid.Column>
-                </Grid>
+                {textInput}
               </div>
               <div className='cntr'>
                 <Grid columns={4}>
-                  <Grid.Column computer={3} mobile={16}>
-                    <div className='cntr-label'>
-                      <Popup content='If enabled, knowledge heads will be extracted from given text using the head processors defined below' trigger={<Label color='teal'>Extract Heads</Label>}/>
-                    </div>
-                    <Radio toggle checked={extractHeads} onChange={(e, data) => setExtractHeads(data.checked)}/>
+                  <Grid.Column computer={4} widescreen={3} tablet={5} mobile={8}>
+                    {extractHeadsInput}
                   </Grid.Column>
-                  <Grid.Column computer={3} mobile={16}>
-                    <div className='cntr-label'>
-                      <Popup content='If enabled, (subset of) relations will be matched with extracted heads using the relation processors defined below, otherwise, heads will be matched to all relations given below' trigger={<Label color='teal'>Match Relations</Label>}/>
-                    </div>
-                    <Radio toggle checked={matchRelations} onChange={(e, data) => setMatchRelations(data.checked)}/>
+                  <Grid.Column computer={4} widescreen={3} tablet={5} mobile={8}>
+                    {matchRelationsInput}
                   </Grid.Column>
-                  <Grid.Column computer={3} mobile={16}>
-                    <div className='cntr-label'>
-                      <Popup content="If enabled, actual knowledge generation through a model won't be run and final input graph to the model will be returned as a result" trigger={<Label color='teal'>Dry Run</Label>}/>
-                    </div>
-                    <Radio toggle checked={dryRun} onChange={(e, data) => setDryRun(data.checked)}/>
+                  <Grid.Column computer={4} widescreen={3} tablet={5} mobile={8}>
+                    {dryRunInput}
                   </Grid.Column>
-                  <Grid.Column computer={7} mobile={16}>
-                    <div className='cntr-label'>
-                      <Popup content='Model to use for knowledge generation' trigger={<Label color='teal'>Model</Label>}/>
-                    </div>
-                    <Dropdown
-                      placeholder='Select Model'
-                      selection
-                      options={modelOptions}
-                      value={model}
-                      onChange={(e, data) => setModel(data.value)}
-                    />
+                  <Grid.Column computer={4} widescreen={3} tablet={5} mobile={8}>
+                    {inferenceFilteringInput}
+                  </Grid.Column>
+                  <Grid.Column computer={6} widescreen={4} tablet={10} mobile={16}>
+                    {modelInput}
                   </Grid.Column>
                 </Grid>
               </div>
+              {inferenceFiltering ? 
+                <div className='cntr'>
+                  <Grid columns={2}>
+                    <Grid.Column largeScreen={10} computer={8} tablet={10} mobile={16}>
+                      {contextInput}
+                    </Grid.Column>
+                    <Grid.Column largeScreen={6} computer={8} tablet={6} mobile={16}>
+                      {thresholdInput}
+                    </Grid.Column>
+                  </Grid>
+                </div> : null
+              }
               <div className='cntr'>
-                <div className='cntr-label'>
-                  <Popup content='Strategies to use for extracting heads from given text if any' trigger={<Label color='teal'>Head Processors</Label>}/>
-                </div>
-                <Dropdown
-                  placeholder='Add Head Processor'
-                  selection
-                  search
-                  multiple
-                  options={headProcOptions}
-                  value={headProcs || []}
-                  onChange={(e, data) => setHeadProcs(data.value)}
-                />
+                <Grid columns={2}>
+                  {extractHeads ? 
+                      <Grid.Column mobile={16} computer={8} tablet={10} largeScreen={10}>
+                        {headProcInput}
+                      </Grid.Column> : null
+                  }
+                  {matchRelations ? 
+                      <Grid.Column mobile={16} computer={8} tablet={6} largeScreen={6}>
+                        {relProcInput}
+                      </Grid.Column> : null
+                  }
+                </Grid>
               </div>
               <div className='cntr'>
-                <div className='cntr-label'>
-                  <Popup content='Strategy to use for matching relations with extracted heads if any' trigger={<Label color='teal'>Relation Processors</Label>}/>
-                </div>
-                <Dropdown
-                  placeholder='Select Relation Processor'
-                  selection
-                  search
-                  multiple
-                  options={relProcOptions}
-                  value={relProcs || []}
-                  onChange={(e, data) => setRelProcs(data.value)}
-                />
-              </div>
-              <div className='cntr'>
-                <Form>
-                  <div className='cntr-label'>
-                    <Popup content='Custom head inputs that will be processed as is' trigger={<Label color='teal'>Heads</Label>}/>
-                  </div>
-                  <Button icon basic labelPosition='left' onClick={addHead}>
-                    <Icon name='plus' />
-                    Add Head
-                  </Button>
-                  {getHeadsJSX()}
-                </Form>
-              </div>
-              <div className='cntr'>
-                <div className='cntr-label'>
-                  <Popup content='Subset of relations to match from. By default, all relations are eligible to be matched' trigger={<Label color='teal'>Relations</Label>}/>
-                </div>
-                <Dropdown
-                  placeholder='All'
-                  selection
-                  search
-                  multiple
-                  options={relationOptions}
-                  value={relations || []}
-                  onChange={(e, data) => setRelations(data.value)}
-                />
+                <Grid columns={2}>
+                  <Grid.Column mobile={16} computer={10} tablet={10} widescreen={8}>
+                    {headInput}
+                  </Grid.Column>
+                  <Grid.Column mobile={16} computer={6} tablet={6} widescreen={8}>
+                    {relationInput}
+                  </Grid.Column>
+                </Grid>
               </div>
             </Grid.Column>
           </Grid.Row>
         </Grid>
       </Grid.Column>
 
-      <Grid.Column computer={8} mobile={16}>
+      <Grid.Column largeScreen={8} computer={6} mobile={16}>
         <Container className='cntr-label'>
           <Label color='black'>Results</Label>
+          <Message warning hidden={!resultWarningVisible} onDismiss={() => setResultWarningVisible(false)}>
+            <Message.Header>Warning</Message.Header>
+            <p className='description'>Please note that this tool might produce a biased or toxic output which can sometimes be mitigated using inference filtering. </p>
+          </Message>
         </Container>
         <Container className='cntr'>
           <Tab menu={{ secondary: true }} panes={resultPanes}/>
