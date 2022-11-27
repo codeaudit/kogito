@@ -164,6 +164,10 @@ class CommonsenseInference:
                 head_texts.add(text)
                 kg_heads.append(KnowledgeHead(text=text))
 
+        if not kg_heads:
+            warnings.warn("Skipping inference, no heads found.")
+            return None
+
         base_relation_matcher = BaseRelationMatcher("base-relation-matcher")
 
         if match_relations:
