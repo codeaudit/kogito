@@ -613,7 +613,7 @@ function App() {
             onClick={generate}
             className='kbtn'
             loading={generating}
-            disabled={generating || (_.isEmpty(text) && (_.isEmpty(heads) || _.every(heads, _.isEmpty)))}
+            disabled={generating || (_.isEmpty(_.trim(text)) && (_.isEmpty(heads) || _.every(heads, h => _.isEmpty(_.trim(h)))))}
           >
             Generate
           </Button>

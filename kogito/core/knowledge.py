@@ -319,3 +319,25 @@ class KnowledgeGraph:
             reverse=True,
         )
         return self
+
+    def clean(self) -> "KnowledgeGraph":
+        """Clean graph tails by removing empty generations.
+
+        Returns:
+            KnowledgeGraph: Cleaned graph.
+        """
+        clean_graph = []
+
+        for kg in self.graph:
+            if kg.tails:
+                clean_tails = []
+                for tail in kg.tails:
+                    clean_tail = tail.strip()
+                    if clean_tail:
+                        clean_tails.append(clean_tail)
+                if clean_tails:
+                    kg.tails = clean_tails
+                    clean_graph.append(kg)
+
+        self.graph = clean_graph
+        return self

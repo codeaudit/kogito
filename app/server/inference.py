@@ -19,9 +19,9 @@ LINKER_MAP = {
 }
 
 PROCESSOR_MAP = {
-    "swem_relation_matcher": SWEMRelationMatcher("swem_relation_matcher"),
+    # "swem_relation_matcher": SWEMRelationMatcher("swem_relation_matcher"),
     "distilbert_relation_matcher": DistilBERTRelationMatcher("distilbert_relation_matcher"),
-    "bert_relation_matcher": BERTRelationMatcher("bert_relation_matcher"),
+    # "bert_relation_matcher": BERTRelationMatcher("bert_relation_matcher"),
 }
 
 nlp = spacy.load("en_core_web_sm")
@@ -76,8 +76,11 @@ def infer(data):
 
     result = {
         "text": [],
-        "graph": [kg.to_json() for kg in output_graph]
+        "graph": []
     }
+
+    if output_graph:
+        result["graph"] = [kg.to_json() for kg in output_graph]
 
     if text:
         doc = nlp(text)

@@ -129,6 +129,19 @@ class CommonsenseInference:
         if relations is not None and not isinstance(relations, list):
             raise ValueError("Relation subset should be a list")
 
+        if text is not None:
+            if not isinstance(text, str):
+                raise ValueError("Text should be a string")
+            text = text.strip()
+
+        if heads is not None:
+            if not isinstance(heads, list):
+                raise ValueError("Heads should be a list")
+
+        if not text and not heads:
+            warnings.warn("Skipping inference, no text or head provided")
+            return None
+
         if heads:
             for head in heads:
                 if isinstance(head, str) and head.strip():
@@ -136,7 +149,7 @@ class CommonsenseInference:
                     kg_heads.append(KnowledgeHead(text=head))
 
         if extract_heads:
-            if text:
+            if text.strip():
                 print("Extracting knowledge heads...")
                 for head_proc in self._head_processors.values():
                     extracted_heads = head_proc.extract(text)
@@ -147,7 +160,7 @@ class CommonsenseInference:
                             kg_heads.append(head)
                             head_texts.add(head_text)
         else:
-            if text and text not in head_texts:
+            if text and text.strip() not in head_texts:
                 head_texts.add(text)
                 kg_heads.append(KnowledgeHead(text=text))
 
@@ -203,6 +216,7 @@ class CommonsenseInference:
             print("Filtering knowledge graph based on the context...")
             output_graph = linker.filter(output_graph, context, threshold=threshold)
 
+        output_graph.clean()
         output_graph.sort()
 
         return output_graph

@@ -1,3 +1,4 @@
+import string
 from abc import ABC, abstractmethod
 from typing import List, Optional
 
@@ -70,19 +71,23 @@ class NounPhraseHeadExtractor(KnowledgeHeadExtractor):
             doc = self.lang(text)
 
         heads = []
+        head_texts = set()
 
         for token in doc:
             if (
                 token.text.strip().lower() not in STOP_WORDS.union(IGNORE_WORDS)
                 and token.pos_ == "NOUN"
             ):
-                heads.append(
-                    KnowledgeHead(
-                        text=token.text,
-                        type=KnowledgeHeadType.NOUN_PHRASE,
-                        entity=token,
+                token_text = token.text.strip(string.punctuation+" ")
+                if token_text not in head_texts and len(token_text) > 1:
+                    head_texts.add(token_text)
+                    heads.append(
+                        KnowledgeHead(
+                            text=token.text.strip(),
+                            type=KnowledgeHeadType.NOUN_PHRASE,
+                            entity=token,
+                        )
                     )
-                )
 
         for phrase in doc.noun_chunks:
             clean_phrase = []
@@ -92,9 +97,10 @@ class NounPhraseHeadExtractor(KnowledgeHeadExtractor):
                 if token.text.strip().lower() not in STOP_WORDS.union(IGNORE_WORDS):
                     clean_phrase.append(token.text)
 
-            clean_text = " ".join(clean_phrase).strip()
+            clean_text = " ".join(clean_phrase).strip(string.punctuation+" ")
 
-            if clean_text:
+            if clean_text and clean_text not in head_texts and len(clean_text) > 1:
+                head_texts.add(clean_text)
                 heads.append(
                     KnowledgeHead(
                         text=clean_text,
@@ -114,25 +120,33 @@ class VerbPhraseHeadExtractor(KnowledgeHeadExtractor):
             doc = self.lang(text)
 
         heads = []
+        head_texts = set()
 
         for token in doc:
             if token.pos_ == "VERB":
-                heads.append(
-                    KnowledgeHead(
-                        text=f"to {token.lemma_}",
-                        type=KnowledgeHeadType.VERB_PHRASE,
-                        entity=token,
+                verb_text = f"to {token.lemma_}"
+
+                if verb_text not in head_texts:
+                    head_texts.add(verb_text)
+                    heads.append(
+                        KnowledgeHead(
+                            text=verb_text,
+                            type=KnowledgeHeadType.VERB_PHRASE,
+                            entity=token,
+                        )
                     )
-                )
 
                 for child in token.children:
                     if child.dep_ in ("attr", "dobj"):
-                        heads.append(
-                            KnowledgeHead(
-                                text=f"{token.lemma_} {child.text}",
-                                type=KnowledgeHeadType.VERB_PHRASE,
-                                entity=[token, child],
+                        child_text = f"{token.lemma_} {child.text}"
+                        if child_text not in head_texts:
+                            head_texts.add(child_text)
+                            heads.append(
+                                KnowledgeHead(
+                                    text=child_text,
+                                    type=KnowledgeHeadType.VERB_PHRASE,
+                                    entity=[token, child],
+                                )
                             )
-                        )
 
         return heads
