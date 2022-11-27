@@ -525,10 +525,10 @@ function App() {
                     {matchRelationsInput}
                   </Grid.Column>
                   <Grid.Column computer={4} widescreen={3} tablet={5} mobile={8}>
-                    {dryRunInput}
+                    {inferenceFilteringInput}
                   </Grid.Column>
                   <Grid.Column computer={4} widescreen={3} tablet={5} mobile={8}>
-                    {inferenceFilteringInput}
+                    {dryRunInput}
                   </Grid.Column>
                   <Grid.Column computer={6} widescreen={4} tablet={10} mobile={16}>
                     {modelInput}
@@ -581,7 +581,7 @@ function App() {
           <Label color='black'>Results</Label>
           <Message warning hidden={!resultWarningVisible} onDismiss={() => setResultWarningVisible(false)}>
             <Message.Header>Warning</Message.Header>
-            <p className='description'>Please note that this tool might produce a biased or toxic output which can sometimes be mitigated using inference filtering. </p>
+            <p className='description'>Please note that this tool might produce a biased or toxic output.</p>
           </Message>
         </Container>
         <Container className='cntr'>
