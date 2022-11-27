@@ -12,7 +12,6 @@ const RELATIONS = [
     'ObjectUse',
     'IsAfter',
     'IsBefore',
-    'IsFilledBy',
     'oEffect',
     'oReact',
     'oWant',

@@ -585,6 +585,16 @@ function App() {
           </Message>
         </Container>
         <Container className='cntr'>
+          <Button
+            onClick={generate}
+            className='kbtn'
+            loading={generating}
+            disabled={generating || (_.isEmpty(_.trim(text)) && (_.isEmpty(heads) || _.every(heads, h => _.isEmpty(_.trim(h)))))}
+          >
+            Generate
+          </Button>
+        </Container>
+        <Container className='cntr'>
           <Tab menu={{ secondary: true }} panes={resultPanes}/>
         </Container>
         {showError ? 
@@ -608,16 +618,6 @@ function App() {
           </Container> : null
 
         }
-        <Container className='cntr'>
-          <Button
-            onClick={generate}
-            className='kbtn'
-            loading={generating}
-            disabled={generating || (_.isEmpty(_.trim(text)) && (_.isEmpty(heads) || _.every(heads, h => _.isEmpty(_.trim(h)))))}
-          >
-            Generate
-          </Button>
-        </Container>
       </Grid.Column>
 
     </Grid>
