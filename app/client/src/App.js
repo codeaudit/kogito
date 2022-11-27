@@ -148,7 +148,7 @@ function App() {
     }
 
     if (inferenceFiltering) {
-      data[context] = context || text
+      data["context"] = context || text
     }
 
     api.inference
