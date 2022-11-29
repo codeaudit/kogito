@@ -581,7 +581,11 @@ function App() {
           <Label color='black'>Results</Label>
           <Message warning hidden={!resultWarningVisible} onDismiss={() => setResultWarningVisible(false)}>
             <Message.Header>Warning</Message.Header>
-            <p className='description'>Please note that this tool might produce a biased or toxic output.</p>
+            <p className='description'>
+              Please note that while our tool is trained on cleaned knowledge graphs and performs optional inference filtering based on contextual relevance,
+              it is still seeded with pretrained language models, which can produce toxic and biased outputs for certain inputs. 
+              We do not manually filter outputs and make this demo available for research purposes. Please use kogito responsibly.
+            </p>
           </Message>
         </Container>
         <Container className='cntr'>
