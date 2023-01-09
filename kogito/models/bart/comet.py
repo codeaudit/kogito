@@ -224,5 +224,10 @@ class COMETBART(KnowledgeModel):
         Args:
             save_path (str): Directory path to save model to
         """
-        self.model.save_pretrained(save_path)
-        self.tokenizer.save_pretrained(save_path)
+        if hasattr(self.model, "model"):
+            self.model.model.save_pretrained(save_path)
+            self.model.tokenizer.save_pretrained(save_path)
+        else:
+            self.model.save_pretrained(save_path)
+            self.tokenizer.save_pretrained(save_path)
+            
