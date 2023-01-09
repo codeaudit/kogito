@@ -120,11 +120,10 @@ class SortishSampler(Sampler):
             ck_idx[max_ck],
             ck_idx[0],
         )  # then make sure it goes first.
-        sort_idx = (
-            np.concatenate(np.random.permutation(ck_idx[1:]))
-            if len(ck_idx) > 1
-            else np.array([], dtype=np.int)
-        )
+        if len(ck_idx) < 3:
+            return iter(np.concatenate(ck_idx))
+
+        sort_idx = np.concatenate([np.concatenate(np.random.permutation(ck_idx[1:-1])), ck_idx[-1]]) 
         sort_idx = np.concatenate((ck_idx[0], sort_idx))
         return iter(sort_idx)
 
