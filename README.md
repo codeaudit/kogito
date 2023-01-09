@@ -108,5 +108,23 @@ If you want to learn more about the library design, models and data used for thi
 }
 ```
 
+If you work with knowledge models, consider citing the following papers:
+
+```
+@article{Hwang2020COMETATOMIC,
+ author = {Jena D. Hwang and Chandra Bhagavatula and Ronan Le Bras and Jeff Da and Keisuke Sakaguchi and Antoine Bosselut and Yejin Choi},
+ booktitle = {Proceedings of the 35th AAAI Conference on Artificial Intelligence (AAAI)},
+ title = {COMET-ATOMIC 2020: On Symbolic and Neural Commonsense Knowledge Graphs},
+ year = {2021}
+}
+
+@inproceedings{Bosselut2019COMETCT,
+ author = {Antoine Bosselut and Hannah Rashkin and Maarten Sap and Chaitanya Malaviya and Asli Çelikyilmaz and Yejin Choi},
+ booktitle = {Proceedings of the 57th Annual Meeting of the Association for Computational Linguistics (ACL)},
+ title = {COMET: Commonsense Transformers for Automatic Knowledge Graph Construction},
+ year = {2019}
+}
+```
+
 ## Acknowledgements
 Significant portion of the model training and evaluation code has been adapted from the original [codebase](https://github.com/allenai/comet-atomic-2020) for the paper [(Comet-) Atomic 2020: On Symbolic and Neural Commonsense Knowledge Graphs.](https://www.semanticscholar.org/paper/COMET-ATOMIC-2020%3A-On-Symbolic-and-Neural-Knowledge-Hwang-Bhagavatula/e39503e01ebb108c6773948a24ca798cd444eb62)
