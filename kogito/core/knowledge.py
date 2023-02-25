@@ -239,17 +239,45 @@ class KnowledgeGraph:
         Returns:
             KnowledgeGraph: An instance of KnowledgeGraph
         """
-        kg_list = []
         graph_df = pd.read_csv(
-            filepath, sep=sep, header=header, names=[head_col, relation_col, tails_col]
+            filepath, sep=sep, header=header, usecols=[head_col, relation_col, tails_col]
         )
+        return cls.from_dataframe(df=graph_df, head_col=head_col, relation_col=relation_col,
+                                  tails_col=tails_col, relation_type=relation_type)
 
-        for _, row in graph_df.iterrows():
-            head = row[head_col].strip()
+    @classmethod
+    def from_dataframe(
+        cls,
+        df: pd.DataFrame,
+        head_col: str = "head",
+        relation_col: str = "relation",
+        tails_col: str = "tails",
+        relation_type: KnowledgeRelationType = KnowledgeRelationType.ATOMIC,
+    ) -> "KnowledgeGraph":
+        """Initialize a knowledge graph from csv file.
+
+        Args:
+            df (pd.DataFrame): Graph dataframe.
+            head_col (str, optional): Head column name. Defaults to "head".
+            relation_col (str, optional): Relation column name. Defaults to "relation".
+            tails_col (str, optional): Tails column name. Defaults to "tails".
+            relation_type (KnowledgeRelationType, optional): Relation type to use.
+                                                            Defaults to KnowledgeRelationType.ATOMIC.
+
+        Returns:
+            KnowledgeGraph: An instance of KnowledgeGraph
+        """
+        kg_list = []
+        exists_head_col = head_col in df.columns
+        exists_relation_col = relation_col in df.columns
+        exists_tails_col = tails_col in df.columns
+
+        for _, row in df.iterrows():
+            head = row[head_col].strip() if exists_head_col else None
             relation = KnowledgeRelation.from_text(
                 row[relation_col].strip(), relation_type
-            )
-            tails = row[tails_col]
+            ) if exists_relation_col else None
+            tails = row[tails_col] if exists_tails_col else None
             kg_list.append(Knowledge(head=head, relation=relation, tails=tails))
 
         return cls(kg_list)
