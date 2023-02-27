@@ -1,0 +1,902 @@
+[
+  {
+    "text": "PersonX decides to move",
+    "context": "['shelly and mike wanted to buy a house by the ocean .', 'since they were going to retire they wanted to move .', 'they decided to move to california .', 'they met with a real estate agent to begin their hunt .', 'after a few months they found the perfect house and bought it .']",
+    "head": "PersonX decides to move",
+    "relation": "xReason",
+    "tail": "PersonX is tired of the same house",
+    "prediction": 1,
+    "label": 0
+  },
+  {
+    "text": "PersonX tells PersonY to tell",
+    "context": "['daniel was walking around a plaza .', 'he noticed someone familiar across the food court .', 'he tried to get closer by walking towards her .', 'he realized that it was his girlfriend , making out with a guy .', \"the girlfriend told him that there 's a good reason behind her actions .\"]",
+    "head": "tell PersonY",
+    "relation": "isBefore",
+    "tail": "PersonY listens to PersonY",
+    "prediction": 0,
+    "label": 0
+  },
+  {
+    "text": "PersonX gives PersonY a job",
+    "context": "[\"jack 's friend works as an insurance broker .\", 'his friend invited jack to come work for him .', \"jack was nervous because he did n't know anything about insurance .\", 'the cute secretary however taught jack everything he needed to know .', 'now jack loves working at the office !']",
+    "head": "PersonX gives PersonY a job",
+    "relation": "oEffect",
+    "tail": "PersonY is given a raise",
+    "prediction": 0,
+    "label": 0
+  },
+  {
+    "text": "PersonX invites PersonX's friend over",
+    "context": "['trip loves to go fishing but he hates going alone .', 'he met a fellow fisherman at the local bait shop .', 'they went fishing together and had a great time .', 'trip later asked his friend to meet up .', \"now they 're dating and trip could n't be happier .\"]",
+    "head": "invite friend",
+    "relation": "HasSubEvent",
+    "tail": "invite",
+    "prediction": 1,
+    "label": 1
+  },
+  {
+    "text": "store",
+    "context": "['mark wanted to buy a new laptop .', 'he went to the electronics store to check some out .', 'he tested different ones and found the one he liked .', 'then he went home and found the best deal online .', 'he got it within a couple of days and was really happy .']",
+    "head": "store",
+    "relation": "xAttr",
+    "tail": "shopping",
+    "prediction": 1,
+    "label": 1
+  },
+  {
+    "text": "PersonX is sitting at home",
+    "context": "['alex was trying to earn money for a foreign trip .', 'he set up a lemonade stand out front his house .', 'he put up a sign letting everyone know he was in business .', 'a cop stopped by and asked to see his vendor permit .', 'alex took down his stand and slumped back into his house .']",
+    "head": "PersonX is sitting at home",
+    "relation": "xReact",
+    "tail": "relaxed",
+    "prediction": 0,
+    "label": 0
+  },
+  {
+    "text": "PersonX invites PersonX's friend over",
+    "context": "['trip loves to go fishing but he hates going alone .', 'he met a fellow fisherman at the local bait shop .', 'they went fishing together and had a great time .', 'trip later asked his friend to meet up .', \"now they 're dating and trip could n't be happier .\"]",
+    "head": "PersonX invites PersonX's friend over",
+    "relation": "isAfter",
+    "tail": "PersonX calls PersonX's friend",
+    "prediction": 0,
+    "label": 0
+  },
+  {
+    "text": "PersonX asks PersonY to sit",
+    "context": "['lawrence was visiting summer camp for the first time .', \"he was nervous that he would n't make any friends .\", 'he was sitting in the mess hall his first morning eating breakfast .', 'to his delight , a group of boys invited him to sit with them .', 'soon he was close friends with all of them and loving it .']",
+    "head": "PersonX asks PersonY to sit",
+    "relation": "oWant",
+    "tail": "to sit down",
+    "prediction": 0,
+    "label": 1
+  },
+  {
+    "text": "PersonX is pulled over for speeding",
+    "context": "['bethany was listening to some music in the car .', 'she suddenly got pulled over by a police officer .', 'the police officer said that she was going 10 miles over the limit .', 'bethany apologized for not paying more attention .', 'the police officer wrote bethany a ticket for $ 50 .']",
+    "head": "to pull",
+    "relation": "isAfter",
+    "tail": "to pull",
+    "prediction": 1,
+    "label": 0
+  },
+  {
+    "text": "bathing cap",
+    "context": "['dustin loved to wear his baseball cap everywhere he went .', 'on vacation his family visited the windy city of chicago .', \"dustin 's baseball cap blew off his head and into the street .\", \"his dad waited until it was safe before getting dustin 's cap .\", 'he loved his baseball cap even though it was a little dirty .']",
+    "head": "bathing cap",
+    "relation": "xReact",
+    "tail": "clean",
+    "prediction": 0,
+    "label": 0
+  },
+  {
+    "text": "PersonX is sitting at home",
+    "context": "[\"jamie was sleeping at a friend 's house .\", \"it was her first time away at a friend 's house .\", 'jamie was scared and missed her home and family .', 'she called her mom to pick her up .', 'jamie went home to sleep in her own bed .']",
+    "head": "PersonX is sitting at home",
+    "relation": "HinderedBy",
+    "tail": "PersonX has to go to work.",
+    "prediction": 0,
+    "label": 0
+  },
+  {
+    "text": "PersonX wants to be a dancer",
+    "context": "['ben wanted to learn how to practice ballet .', 'he was embarrassed because he knew his friends would make fun of him .', 'so , he decided he was going to take a class a town over .', 'on his first day , ben walked into class and was shocked .', 'there in the studio was his best friend alex ready to start the class !']",
+    "head": "to want",
+    "relation": "isAfter",
+    "tail": "to want",
+    "prediction": 0,
+    "label": 0
+  },
+  {
+    "text": "PersonX tells PersonX's landlord",
+    "context": "['tom took his clothes out of his dryer .', 'he noticed the clothes did not dry because the heater broke .', 'he hung his clothes out to dry .', 'he told his landlord about the dryer breaking .', 'the landlord ordered a new dryer and it was delivered the next day .']",
+    "head": "tell landlord",
+    "relation": "Causes",
+    "tail": "rent",
+    "prediction": 0,
+    "label": 0
+  },
+  {
+    "text": "PersonX tells PersonX's landlord",
+    "context": "['tom took his clothes out of his dryer .', 'he noticed the clothes did not dry because the heater broke .', 'he hung his clothes out to dry .', 'he told his landlord about the dryer breaking .', 'the landlord ordered a new dryer and it was delivered the next day .']",
+    "head": "tell landlord",
+    "relation": "HinderedBy",
+    "tail": "tell landlord",
+    "prediction": 0,
+    "label": 0
+  },
+  {
+    "text": "PersonX buys a laptop",
+    "context": "['mark wanted to buy a new laptop .', 'he went to the electronics store to check some out .', 'he tested different ones and found the one he liked .', 'then he went home and found the best deal online .', 'he got it within a couple of days and was really happy .']",
+    "head": "PersonX buys a laptop",
+    "relation": "oReact",
+    "tail": "none",
+    "prediction": 0,
+    "label": 0
+  },
+  {
+    "text": "PersonX plays loud music",
+    "context": "[\"cob brought his tuba to the school 's band room .\", 'all the kids in his class looked at him expectantly .', 'cob began to play a swedish death metal song .', 'all the kids in the classroom covered their ears with their hands .', 'cob ignored them and kept playing the song he was passionate about .']",
+    "head": "to play",
+    "relation": "isAfter",
+    "tail": "get a band together",
+    "prediction": 0,
+    "label": 0
+  },
+  {
+    "text": "PersonX invites PersonY over",
+    "context": "['bradley bought a widescreen hd television .', 'he wanted to use it to watch nature documentaries .', 'he invited friends over to see it .', 'he told them that he wanted to watch a documentary .', 'they outvoted him and decided to watch a basketball game instead .']",
+    "head": "PersonX invites PersonY over",
+    "relation": "oEffect",
+    "tail": "PersonY is invited to PersonX's house",
+    "prediction": 1,
+    "label": 1
+  },
+  {
+    "text": "PersonX tells PersonY to tell",
+    "context": "['daniel was walking around a plaza .', 'he noticed someone familiar across the food court .', 'he tried to get closer by walking towards her .', 'he realized that it was his girlfriend , making out with a guy .', \"the girlfriend told him that there 's a good reason behind her actions .\"]",
+    "head": "to tell",
+    "relation": "isAfter",
+    "tail": "to tell",
+    "prediction": 0,
+    "label": 0
+  },
+  {
+    "text": "PersonX is pulled over for speeding",
+    "context": "['bethany was listening to some music in the car .', 'she suddenly got pulled over by a police officer .', 'the police officer said that she was going 10 miles over the limit .', 'bethany apologized for not paying more attention .', 'the police officer wrote bethany a ticket for $ 50 .']",
+    "head": "PersonX is pulled over for speeding",
+    "relation": "isBefore",
+    "tail": "PersonX gets a ticket",
+    "prediction": 1,
+    "label": 1
+  },
+  {
+    "text": "PersonX plays loud music",
+    "context": "[\"cob brought his tuba to the school 's band room .\", 'all the kids in his class looked at him expectantly .', 'cob began to play a swedish death metal song .', 'all the kids in the classroom covered their ears with their hands .', 'cob ignored them and kept playing the song he was passionate about .']",
+    "head": "PersonX plays loud music",
+    "relation": "oReact",
+    "tail": "none",
+    "prediction": 0,
+    "label": 0
+  },
+  {
+    "text": "practice",
+    "context": "['faith was learning to play the piano .', 'she had practiced for her lesson all week long .', 'her teacher was very excited to see how well faith was playing .', 'in the first song faith missed a couple of notes but not too many .', 'her teacher was pleased and this encouraged faith to keep practicing .']",
+    "head": "practice",
+    "relation": "oEffect",
+    "tail": "get better",
+    "prediction": 1,
+    "label": 1
+  },
+  {
+    "text": "uncle",
+    "context": "[\"johnny 's uncle , bob , came by the house and said something to johnny .\", 'bob told johnny that today was the day he would become a man .', 'bob then took johnny out to a firing range .', 'bob showed johnny how to fire a weapon and hit a target .', 'johnny felt awesome , like he had taken a step forward in life .']",
+    "head": "uncle",
+    "relation": "xIntent",
+    "tail": "uncle",
+    "prediction": 0,
+    "label": 0
+  },
+  {
+    "text": "PersonX decides to move",
+    "context": "['shelly and mike wanted to buy a house by the ocean .', 'since they were going to retire they wanted to move .', 'they decided to move to california .', 'they met with a real estate agent to begin their hunt .', 'after a few months they found the perfect house and bought it .']",
+    "head": "PersonX decides to move",
+    "relation": "Causes",
+    "tail": "PersonX is tired of the same place.",
+    "prediction": 1,
+    "label": 0
+  },
+  {
+    "text": "PersonX decides to move",
+    "context": "['shelly and mike wanted to buy a house by the ocean .', 'since they were going to retire they wanted to move .', 'they decided to move to california .', 'they met with a real estate agent to begin their hunt .', 'after a few months they found the perfect house and bought it .']",
+    "head": "PersonX decides to move",
+    "relation": "xWant",
+    "tail": "to pack up their things",
+    "prediction": 1,
+    "label": 1
+  },
+  {
+    "text": "practice",
+    "context": "['faith was learning to play the piano .', 'she had practiced for her lesson all week long .', 'her teacher was very excited to see how well faith was playing .', 'in the first song faith missed a couple of notes but not too many .', 'her teacher was pleased and this encouraged faith to keep practicing .']",
+    "head": "practice",
+    "relation": "oWant",
+    "tail": "practice",
+    "prediction": 1,
+    "label": 0
+  },
+  {
+    "text": "PersonX asks PersonY to meet",
+    "context": "['trip loves to go fishing but he hates going alone .', 'he met a fellow fisherman at the local bait shop .', 'they went fishing together and had a great time .', 'trip later asked his friend to meet up .', \"now they 're dating and trip could n't be happier .\"]",
+    "head": "PersonX asks PersonY to meet",
+    "relation": "xNeed",
+    "tail": "to call PersonY",
+    "prediction": 0,
+    "label": 0
+  },
+  {
+    "text": "PersonX finds one 's ___",
+    "context": "['i went to the local record store one day .', 'i saw a few very interesting looking albums .', 'i found one album that just came out and i bought it .', 'i found another record that seemed like a classic .', 'i brought the records home and listened to them whole .']",
+    "head": "PersonX finds one 's ___",
+    "relation": "oEffect",
+    "tail": "none",
+    "prediction": 0,
+    "label": 0
+  },
+  {
+    "text": "PersonX plays loud music",
+    "context": "[\"cob brought his tuba to the school 's band room .\", 'all the kids in his class looked at him expectantly .', 'cob began to play a swedish death metal song .', 'all the kids in the classroom covered their ears with their hands .', 'cob ignored them and kept playing the song he was passionate about .']",
+    "head": "PersonX plays loud music",
+    "relation": "oWant",
+    "tail": "none",
+    "prediction": 0,
+    "label": 0
+  },
+  {
+    "text": "PersonX wants to be a dancer",
+    "context": "['ben wanted to learn how to practice ballet .', 'he was embarrassed because he knew his friends would make fun of him .', 'so , he decided he was going to take a class a town over .', 'on his first day , ben walked into class and was shocked .', 'there in the studio was his best friend alex ready to start the class !']",
+    "head": "PersonX wants to be a dancer",
+    "relation": "xReason",
+    "tail": "PersonX wants to be a professional dancer",
+    "prediction": 0,
+    "label": 0
+  },
+  {
+    "text": "PersonX invites PersonX's friend over",
+    "context": "['trip loves to go fishing but he hates going alone .', 'he met a fellow fisherman at the local bait shop .', 'they went fishing together and had a great time .', 'trip later asked his friend to meet up .', \"now they 're dating and trip could n't be happier .\"]",
+    "head": "PersonX invites PersonX's friend over",
+    "relation": "xNeed",
+    "tail": "to call their friend",
+    "prediction": 0,
+    "label": 0
+  },
+  {
+    "text": "football",
+    "context": "['duke wanted to play football on his birthday .', 'ellen wanted duke to go to a movie with her .', 'ellen told duke he could play football after the movie .', 'duke told ellen they could see a movie after football .', 'duke and ellen decided to go see a movie about football .']",
+    "head": "football",
+    "relation": "xReact",
+    "tail": "happy",
+    "prediction": 1,
+    "label": 0
+  },
+  {
+    "text": "gift paper",
+    "context": "['hank had to wrap a lot of gifts for his family .', 'he ran out of wrapping paper with 4 gifts to go .', 'he went to the kitchen and found shopping bags .', 'he cut up the bags to make sheets of paper .', 'he used the paper to wrap the last of the gifts .']",
+    "head": "gift",
+    "relation": "AtLocation",
+    "tail": "gift",
+    "prediction": 1,
+    "label": 0
+  },
+  {
+    "text": "PersonX gives PersonY a job",
+    "context": "[\"jack 's friend works as an insurance broker .\", 'his friend invited jack to come work for him .', \"jack was nervous because he did n't know anything about insurance .\", 'the cute secretary however taught jack everything he needed to know .', 'now jack loves working at the office !']",
+    "head": "give job",
+    "relation": "HinderedBy",
+    "tail": "give job",
+    "prediction": 0,
+    "label": 0
+  },
+  {
+    "text": "PersonX buys a laptop",
+    "context": "['mark wanted to buy a new laptop .', 'he went to the electronics store to check some out .', 'he tested different ones and found the one he liked .', 'then he went home and found the best deal online .', 'he got it within a couple of days and was really happy .']",
+    "head": "laptop",
+    "relation": "Desires",
+    "tail": "use as a computer",
+    "prediction": 1,
+    "label": 1
+  },
+  {
+    "text": "PersonX loves one 's ___",
+    "context": "['lawrence was visiting summer camp for the first time .', \"he was nervous that he would n't make any friends .\", 'he was sitting in the mess hall his first morning eating breakfast .', 'to his delight , a group of boys invited him to sit with them .', 'soon he was close friends with all of them and loving it .']",
+    "head": "PersonX loves one 's ___",
+    "relation": "xReact",
+    "tail": "happy",
+    "prediction": 0,
+    "label": 1
+  },
+  {
+    "text": "PersonX finds one 's ___",
+    "context": "['mark wanted to buy a new laptop .', 'he went to the electronics store to check some out .', 'he tested different ones and found the one he liked .', 'then he went home and found the best deal online .', 'he got it within a couple of days and was really happy .']",
+    "head": "PersonX finds one 's ___",
+    "relation": "HasSubEvent",
+    "tail": "PersonX is relieved",
+    "prediction": 0,
+    "label": 0
+  },
+  {
+    "text": "PersonX is pulled over for speeding",
+    "context": "['bethany was listening to some music in the car .', 'she suddenly got pulled over by a police officer .', 'the police officer said that she was going 10 miles over the limit .', 'bethany apologized for not paying more attention .', 'the police officer wrote bethany a ticket for $ 50 .']",
+    "head": "PersonX is pulled over for speeding",
+    "relation": "oReact",
+    "tail": "none",
+    "prediction": 0,
+    "label": 0
+  },
+  {
+    "text": "PersonX starts PersonX's car",
+    "context": "['troy always wanted to travel across the country .', 'he decided to do research on places he wanted to go .', 'he asked a few friends if they wanted to come .', 'he rented a car with his friends and they started the trip .', 'they had a lot of fun traveling the country .']",
+    "head": "to start",
+    "relation": "HasSubEvent",
+    "tail": "get ready",
+    "prediction": 0,
+    "label": 1
+  },
+  {
+    "text": "store",
+    "context": "['mark wanted to buy a new laptop .', 'he went to the electronics store to check some out .', 'he tested different ones and found the one he liked .', 'then he went home and found the best deal online .', 'he got it within a couple of days and was really happy .']",
+    "head": "store",
+    "relation": "xEffect",
+    "tail": "buying things",
+    "prediction": 1,
+    "label": 1
+  },
+  {
+    "text": "PersonX decides to play",
+    "context": "['jordan decides he must find something to occupy his time .', 'he decides to try playing a game of solitaire .', 'he draws good cards initially , but quits the game before it is over .', 'jordan shuffles the cards and returns them to a drawer .', 'he is happy that he found something to take up a little time .']",
+    "head": "PersonX decides to play",
+    "relation": "xIntent",
+    "tail": "to have fun",
+    "prediction": 1,
+    "label": 1
+  },
+  {
+    "text": "sheets of paper",
+    "context": "['hank had to wrap a lot of gifts for his family .', 'he ran out of wrapping paper with 4 gifts to go .', 'he went to the kitchen and found shopping bags .', 'he cut up the bags to make sheets of paper .', 'he used the paper to wrap the last of the gifts .']",
+    "head": "sheets",
+    "relation": "CapableOf",
+    "tail": "fold into origami",
+    "prediction": 0,
+    "label": 0
+  },
+  {
+    "text": "PersonX finds one 's ___",
+    "context": "['mark wanted to buy a new laptop .', 'he went to the electronics store to check some out .', 'he tested different ones and found the one he liked .', 'then he went home and found the best deal online .', 'he got it within a couple of days and was really happy .']",
+    "head": "to find",
+    "relation": "isAfter",
+    "tail": "to find",
+    "prediction": 0,
+    "label": 0
+  },
+  {
+    "text": "PersonX plays loud music",
+    "context": "[\"cob brought his tuba to the school 's band room .\", 'all the kids in his class looked at him expectantly .', 'cob began to play a swedish death metal song .', 'all the kids in the classroom covered their ears with their hands .', 'cob ignored them and kept playing the song he was passionate about .']",
+    "head": "play music",
+    "relation": "Causes",
+    "tail": "listen to",
+    "prediction": 1,
+    "label": 1
+  },
+  {
+    "text": "PersonX decides to play",
+    "context": "['jordan decides he must find something to occupy his time .', 'he decides to try playing a game of solitaire .', 'he draws good cards initially , but quits the game before it is over .', 'jordan shuffles the cards and returns them to a drawer .', 'he is happy that he found something to take up a little time .']",
+    "head": "to decide",
+    "relation": "isBefore",
+    "tail": "to decide",
+    "prediction": 1,
+    "label": 0
+  },
+  {
+    "text": "PersonX plays loud music",
+    "context": "[\"cob brought his tuba to the school 's band room .\", 'all the kids in his class looked at him expectantly .', 'cob began to play a swedish death metal song .', 'all the kids in the classroom covered their ears with their hands .', 'cob ignored them and kept playing the song he was passionate about .']",
+    "head": "play music",
+    "relation": "isBefore",
+    "tail": "listen to",
+    "prediction": 1,
+    "label": 1
+  },
+  {
+    "text": "go to movie",
+    "context": "['duke wanted to play football on his birthday .', 'ellen wanted duke to go to a movie with her .', 'ellen told duke he could play football after the movie .', 'duke told ellen they could see a movie after football .', 'duke and ellen decided to go see a movie about football .']",
+    "head": "go to movie",
+    "relation": "isAfter",
+    "tail": "go to theater",
+    "prediction": 1,
+    "label": 1
+  },
+  {
+    "text": "sheets of paper",
+    "context": "['hank had to wrap a lot of gifts for his family .', 'he ran out of wrapping paper with 4 gifts to go .', 'he went to the kitchen and found shopping bags .', 'he cut up the bags to make sheets of paper .', 'he used the paper to wrap the last of the gifts .']",
+    "head": "sheets of paper",
+    "relation": "Causes",
+    "tail": "sheets of paper",
+    "prediction": 1,
+    "label": 0
+  },
+  {
+    "text": "play",
+    "context": "['angie took her kids to the park .', 'they played for a long time and then walked back home .', 'when she got home she realized she was locked out .', 'she went to her neighbors to call a locksmith .', 'the locksmith unlocked the door and charged her lots of money .']",
+    "head": "play",
+    "relation": "xAttr",
+    "tail": "playful",
+    "prediction": 0,
+    "label": 0
+  },
+  {
+    "text": "PersonX decides to play",
+    "context": "['jordan decides he must find something to occupy his time .', 'he decides to try playing a game of solitaire .', 'he draws good cards initially , but quits the game before it is over .', 'jordan shuffles the cards and returns them to a drawer .', 'he is happy that he found something to take up a little time .']",
+    "head": "PersonX decides to play",
+    "relation": "xIntent",
+    "tail": "to have fun",
+    "prediction": 1,
+    "label": 1
+  },
+  {
+    "text": "motorcycle",
+    "context": "['dan thought it would be cool to ride a motorcycle .', 'he took a motorcycle license course and passed .', 'he shopped for a bike and found a cool harley .', 'that night , the news showed a man killed on a motorcycle .', \"dan 's new motorcycle gathers dust in the garage .\"]",
+    "head": "motorcycle",
+    "relation": "Causes",
+    "tail": "ride",
+    "prediction": 1,
+    "label": 1
+  },
+  {
+    "text": "PersonX plays loud music",
+    "context": "[\"cob brought his tuba to the school 's band room .\", 'all the kids in his class looked at him expectantly .', 'cob began to play a swedish death metal song .', 'all the kids in the classroom covered their ears with their hands .', 'cob ignored them and kept playing the song he was passionate about .']",
+    "head": "PersonX plays loud music",
+    "relation": "Causes",
+    "tail": "PersonX is in a loud music club.",
+    "prediction": 0,
+    "label": 0
+  },
+  {
+    "text": "bathing cap",
+    "context": "['dustin loved to wear his baseball cap everywhere he went .', 'on vacation his family visited the windy city of chicago .', \"dustin 's baseball cap blew off his head and into the street .\", \"his dad waited until it was safe before getting dustin 's cap .\", 'he loved his baseball cap even though it was a little dirty .']",
+    "head": "bathing",
+    "relation": "CapableOf",
+    "tail": "wash body",
+    "prediction": 0,
+    "label": 0
+  },
+  {
+    "text": "PersonX starts PersonX's car",
+    "context": "['troy always wanted to travel across the country .', 'he decided to do research on places he wanted to go .', 'he asked a few friends if they wanted to come .', 'he rented a car with his friends and they started the trip .', 'they had a lot of fun traveling the country .']",
+    "head": "car",
+    "relation": "MadeUpOf",
+    "tail": "car",
+    "prediction": 1,
+    "label": 0
+  },
+  {
+    "text": "PersonX plays loud music",
+    "context": "[\"cob brought his tuba to the school 's band room .\", 'all the kids in his class looked at him expectantly .', 'cob began to play a swedish death metal song .', 'all the kids in the classroom covered their ears with their hands .', 'cob ignored them and kept playing the song he was passionate about .']",
+    "head": "loud music",
+    "relation": "CapableOf",
+    "tail": "listen to",
+    "prediction": 1,
+    "label": 1
+  },
+  {
+    "text": "football team",
+    "context": "['duke wanted to play football on his birthday .', 'ellen wanted duke to go to a movie with her .', 'ellen told duke he could play football after the movie .', 'duke told ellen they could see a movie after football .', 'duke and ellen decided to go see a movie about football .']",
+    "head": "football",
+    "relation": "MadeUpOf",
+    "tail": "football",
+    "prediction": 1,
+    "label": 0
+  },
+  {
+    "text": "PersonX buys a laptop",
+    "context": "['mark wanted to buy a new laptop .', 'he went to the electronics store to check some out .', 'he tested different ones and found the one he liked .', 'then he went home and found the best deal online .', 'he got it within a couple of days and was really happy .']",
+    "head": "PersonX buys a laptop",
+    "relation": "HasSubEvent",
+    "tail": "PersonX gets a laptop",
+    "prediction": 1,
+    "label": 1
+  },
+  {
+    "text": "PersonX earns PersonX's own money",
+    "context": "['alex was trying to earn money for a foreign trip .', 'he set up a lemonade stand out front his house .', 'he put up a sign letting everyone know he was in business .', 'a cop stopped by and asked to see his vendor permit .', 'alex took down his stand and slumped back into his house .']",
+    "head": "PersonX earns PersonX's own money",
+    "relation": "HinderedBy",
+    "tail": "PersonX's boss won't give them a raise.",
+    "prediction": 0,
+    "label": 0
+  },
+  {
+    "text": "PersonX tells PersonY to tell",
+    "context": "['daniel was walking around a plaza .', 'he noticed someone familiar across the food court .', 'he tried to get closer by walking towards her .', 'he realized that it was his girlfriend , making out with a guy .', \"the girlfriend told him that there 's a good reason behind her actions .\"]",
+    "head": "tell PersonY",
+    "relation": "isAfter",
+    "tail": "PersonY is a friend",
+    "prediction": 0,
+    "label": 0
+  },
+  {
+    "text": "gift paper",
+    "context": "['hank had to wrap a lot of gifts for his family .', 'he ran out of wrapping paper with 4 gifts to go .', 'he went to the kitchen and found shopping bags .', 'he cut up the bags to make sheets of paper .', 'he used the paper to wrap the last of the gifts .']",
+    "head": "gift paper",
+    "relation": "Causes",
+    "tail": "put on the gift",
+    "prediction": 1,
+    "label": 1
+  },
+  {
+    "text": "PersonX wraps gifts",
+    "context": "['hank had to wrap a lot of gifts for his family .', 'he ran out of wrapping paper with 4 gifts to go .', 'he went to the kitchen and found shopping bags .', 'he cut up the bags to make sheets of paper .', 'he used the paper to wrap the last of the gifts .']",
+    "head": "PersonX wraps gifts",
+    "relation": "xIntent",
+    "tail": "to be nice",
+    "prediction": 1,
+    "label": 1
+  },
+  {
+    "text": "shoe store",
+    "context": "['jeremy wants a new pair of shoes .', 'he goes to the shoe store and talks to the owner .', 'the owner tells him he makes all the shoes by hand .', 'jim orders a pair , the owner works hard but realizes he messed up .', 'the owner made a mistake and decided to make jim two pairs at no cost .']",
+    "head": "shoe store",
+    "relation": "HasSubEvent",
+    "tail": "buy shoes",
+    "prediction": 1,
+    "label": 1
+  },
+  {
+    "text": "go to movie",
+    "context": "['duke wanted to play football on his birthday .', 'ellen wanted duke to go to a movie with her .', 'ellen told duke he could play football after the movie .', 'duke told ellen they could see a movie after football .', 'duke and ellen decided to go see a movie about football .']",
+    "head": "movie",
+    "relation": "CapableOf",
+    "tail": "watch",
+    "prediction": 1,
+    "label": 1
+  },
+  {
+    "text": "PersonX sees a concert",
+    "context": "['brandon saw an ad where his favorite band was coming to town .', 'he instantly logged onto his computer and bought a ticket .', 'he bought a new outfit for the show .', 'he arrived early to the show to hear the cover band .', 'after the concert , he waited in line and got autographs .']",
+    "head": "to see",
+    "relation": "HasSubEvent",
+    "tail": "to see",
+    "prediction": 1,
+    "label": 0
+  },
+  {
+    "text": "PersonX sees a concert",
+    "context": "['brandon saw an ad where his favorite band was coming to town .', 'he instantly logged onto his computer and bought a ticket .', 'he bought a new outfit for the show .', 'he arrived early to the show to hear the cover band .', 'after the concert , he waited in line and got autographs .']",
+    "head": "PersonX sees a concert",
+    "relation": "HinderedBy",
+    "tail": "PersonX has to work.",
+    "prediction": 0,
+    "label": 0
+  },
+  {
+    "text": "PersonX meets PersonX's goals",
+    "context": "['morgan worked very hard in school .', 'she graduated high school and attended her dream school .', 'whole she was there , her aspirations grew to a double major .', 'but , she had to meet certain requirements to achieve this goal .', 'after much hard work and perseverance , she got accepted .']",
+    "head": "PersonX meets PersonX's goals",
+    "relation": "oEffect",
+    "tail": "none",
+    "prediction": 0,
+    "label": 0
+  },
+  {
+    "text": "gift paper",
+    "context": "['hank had to wrap a lot of gifts for his family .', 'he ran out of wrapping paper with 4 gifts to go .', 'he went to the kitchen and found shopping bags .', 'he cut up the bags to make sheets of paper .', 'he used the paper to wrap the last of the gifts .']",
+    "head": "paper",
+    "relation": "ObjectUse",
+    "tail": "writing",
+    "prediction": 0,
+    "label": 0
+  },
+  {
+    "text": "PersonX sees a concert",
+    "context": "['brandon saw an ad where his favorite band was coming to town .', 'he instantly logged onto his computer and bought a ticket .', 'he bought a new outfit for the show .', 'he arrived early to the show to hear the cover band .', 'after the concert , he waited in line and got autographs .']",
+    "head": "see concert",
+    "relation": "HasSubEvent",
+    "tail": "see band",
+    "prediction": 1,
+    "label": 1
+  },
+  {
+    "text": "PersonX is pulled over for speeding",
+    "context": "['bethany was listening to some music in the car .', 'she suddenly got pulled over by a police officer .', 'the police officer said that she was going 10 miles over the limit .', 'bethany apologized for not paying more attention .', 'the police officer wrote bethany a ticket for $ 50 .']",
+    "head": "PersonX is pulled over for speeding",
+    "relation": "xWant",
+    "tail": "to get a ticket",
+    "prediction": 1,
+    "label": 0
+  },
+  {
+    "text": "PersonX wants to be a dancer",
+    "context": "['ben wanted to learn how to practice ballet .', 'he was embarrassed because he knew his friends would make fun of him .', 'so , he decided he was going to take a class a town over .', 'on his first day , ben walked into class and was shocked .', 'there in the studio was his best friend alex ready to start the class !']",
+    "head": "PersonX wants to be a dancer",
+    "relation": "xReact",
+    "tail": "accomplished",
+    "prediction": 0,
+    "label": 0
+  },
+  {
+    "text": "broker",
+    "context": "[\"jack 's friend works as an insurance broker .\", 'his friend invited jack to come work for him .', \"jack was nervous because he did n't know anything about insurance .\", 'the cute secretary however taught jack everything he needed to know .', 'now jack loves working at the office !']",
+    "head": "broker",
+    "relation": "isBefore",
+    "tail": "broker",
+    "prediction": 0,
+    "label": 0
+  },
+  {
+    "text": "PersonX achieves one 's ___",
+    "context": "['morgan worked very hard in school .', 'she graduated high school and attended her dream school .', 'whole she was there , her aspirations grew to a double major .', 'but , she had to meet certain requirements to achieve this goal .', 'after much hard work and perseverance , she got accepted .']",
+    "head": "achieve _",
+    "relation": "xReason",
+    "tail": "get a promotion",
+    "prediction": 0,
+    "label": 0
+  },
+  {
+    "text": "PersonX plays loud music",
+    "context": "[\"cob brought his tuba to the school 's band room .\", 'all the kids in his class looked at him expectantly .', 'cob began to play a swedish death metal song .', 'all the kids in the classroom covered their ears with their hands .', 'cob ignored them and kept playing the song he was passionate about .']",
+    "head": "play music",
+    "relation": "Causes",
+    "tail": "listen to",
+    "prediction": 1,
+    "label": 1
+  },
+  {
+    "text": "PersonX buys a laptop",
+    "context": "['mark wanted to buy a new laptop .', 'he went to the electronics store to check some out .', 'he tested different ones and found the one he liked .', 'then he went home and found the best deal online .', 'he got it within a couple of days and was really happy .']",
+    "head": "PersonX buys a laptop",
+    "relation": "xEffect",
+    "tail": "PersonX gets a laptop",
+    "prediction": 1,
+    "label": 1
+  },
+  {
+    "text": "PersonX wraps gifts",
+    "context": "['hank had to wrap a lot of gifts for his family .', 'he ran out of wrapping paper with 4 gifts to go .', 'he went to the kitchen and found shopping bags .', 'he cut up the bags to make sheets of paper .', 'he used the paper to wrap the last of the gifts .']",
+    "head": "PersonX wraps gifts",
+    "relation": "Causes",
+    "tail": "PersonX is a gift wrap person.",
+    "prediction": 1,
+    "label": 0
+  },
+  {
+    "text": "PersonX tells PersonY to tell",
+    "context": "['daniel was walking around a plaza .', 'he noticed someone familiar across the food court .', 'he tried to get closer by walking towards her .', 'he realized that it was his girlfriend , making out with a guy .', \"the girlfriend told him that there 's a good reason behind her actions .\"]",
+    "head": "PersonX tells PersonY to tell",
+    "relation": "xReact",
+    "tail": "helpful",
+    "prediction": 0,
+    "label": 0
+  },
+  {
+    "text": "PersonX wraps gifts",
+    "context": "['hank had to wrap a lot of gifts for his family .', 'he ran out of wrapping paper with 4 gifts to go .', 'he went to the kitchen and found shopping bags .', 'he cut up the bags to make sheets of paper .', 'he used the paper to wrap the last of the gifts .']",
+    "head": "gifts",
+    "relation": "CapableOf",
+    "tail": "give to person",
+    "prediction": 1,
+    "label": 1
+  },
+  {
+    "text": "football team",
+    "context": "['duke wanted to play football on his birthday .', 'ellen wanted duke to go to a movie with her .', 'ellen told duke he could play football after the movie .', 'duke told ellen they could see a movie after football .', 'duke and ellen decided to go see a movie about football .']",
+    "head": "football",
+    "relation": "AtLocation",
+    "tail": "football game",
+    "prediction": 1,
+    "label": 1
+  },
+  {
+    "text": "PersonX asks PersonY to sit",
+    "context": "['lawrence was visiting summer camp for the first time .', \"he was nervous that he would n't make any friends .\", 'he was sitting in the mess hall his first morning eating breakfast .', 'to his delight , a group of boys invited him to sit with them .', 'soon he was close friends with all of them and loving it .']",
+    "head": "to sit",
+    "relation": "isAfter",
+    "tail": "sit down",
+    "prediction": 0,
+    "label": 0
+  },
+  {
+    "text": "PersonX sees a concert",
+    "context": "['brandon saw an ad where his favorite band was coming to town .', 'he instantly logged onto his computer and bought a ticket .', 'he bought a new outfit for the show .', 'he arrived early to the show to hear the cover band .', 'after the concert , he waited in line and got autographs .']",
+    "head": "concert",
+    "relation": "HasProperty",
+    "tail": "music",
+    "prediction": 1,
+    "label": 1
+  },
+  {
+    "text": "go to movie",
+    "context": "['duke wanted to play football on his birthday .', 'ellen wanted duke to go to a movie with her .', 'ellen told duke he could play football after the movie .', 'duke told ellen they could see a movie after football .', 'duke and ellen decided to go see a movie about football .']",
+    "head": "go to movie",
+    "relation": "xNeed",
+    "tail": "go to theater",
+    "prediction": 1,
+    "label": 1
+  },
+  {
+    "text": "PersonX wraps gifts",
+    "context": "['hank had to wrap a lot of gifts for his family .', 'he ran out of wrapping paper with 4 gifts to go .', 'he went to the kitchen and found shopping bags .', 'he cut up the bags to make sheets of paper .', 'he used the paper to wrap the last of the gifts .']",
+    "head": "wraps",
+    "relation": "AtLocation",
+    "tail": "store",
+    "prediction": 0,
+    "label": 0
+  },
+  {
+    "text": "PersonX tells PersonY to tell",
+    "context": "['daniel was walking around a plaza .', 'he noticed someone familiar across the food court .', 'he tried to get closer by walking towards her .', 'he realized that it was his girlfriend , making out with a guy .', \"the girlfriend told him that there 's a good reason behind her actions .\"]",
+    "head": "to tell",
+    "relation": "xReason",
+    "tail": "to tell",
+    "prediction": 1,
+    "label": 0
+  },
+  {
+    "text": "safety hat",
+    "context": "['dustin loved to wear his baseball cap everywhere he went .', 'on vacation his family visited the windy city of chicago .', \"dustin 's baseball cap blew off his head and into the street .\", \"his dad waited until it was safe before getting dustin 's cap .\", 'he loved his baseball cap even though it was a little dirty .']",
+    "head": "safety",
+    "relation": "AtLocation",
+    "tail": "car",
+    "prediction": 0,
+    "label": 0
+  },
+  {
+    "text": "store",
+    "context": "['mark wanted to buy a new laptop .', 'he went to the electronics store to check some out .', 'he tested different ones and found the one he liked .', 'then he went home and found the best deal online .', 'he got it within a couple of days and was really happy .']",
+    "head": "store",
+    "relation": "isAfter",
+    "tail": "shopping mall",
+    "prediction": 0,
+    "label": 0
+  },
+  {
+    "text": "bathing cap",
+    "context": "['dustin loved to wear his baseball cap everywhere he went .', 'on vacation his family visited the windy city of chicago .', \"dustin 's baseball cap blew off his head and into the street .\", \"his dad waited until it was safe before getting dustin 's cap .\", 'he loved his baseball cap even though it was a little dirty .']",
+    "head": "cap",
+    "relation": "AtLocation",
+    "tail": "cap",
+    "prediction": 1,
+    "label": 0
+  },
+  {
+    "text": "PersonX invites PersonX's friend over",
+    "context": "['trip loves to go fishing but he hates going alone .', 'he met a fellow fisherman at the local bait shop .', 'they went fishing together and had a great time .', 'trip later asked his friend to meet up .', \"now they 're dating and trip could n't be happier .\"]",
+    "head": "friend",
+    "relation": "Desires",
+    "tail": "have a good time",
+    "prediction": 1,
+    "label": 1
+  },
+  {
+    "text": "PersonX wants to be a dancer",
+    "context": "['ben wanted to learn how to practice ballet .', 'he was embarrassed because he knew his friends would make fun of him .', 'so , he decided he was going to take a class a town over .', 'on his first day , ben walked into class and was shocked .', 'there in the studio was his best friend alex ready to start the class !']",
+    "head": "to want",
+    "relation": "HasSubEvent",
+    "tail": "to want",
+    "prediction": 1,
+    "label": 0
+  },
+  {
+    "text": "pair of shoes",
+    "context": "['jeremy wants a new pair of shoes .', 'he goes to the shoe store and talks to the owner .', 'the owner tells him he makes all the shoes by hand .', 'jim orders a pair , the owner works hard but realizes he messed up .', 'the owner made a mistake and decided to make jim two pairs at no cost .']",
+    "head": "pair of shoes",
+    "relation": "HasSubEvent",
+    "tail": "wear",
+    "prediction": 1,
+    "label": 1
+  },
+  {
+    "text": "PersonX takes dance lessons",
+    "context": "['dan loved to watch dancing with the stars .', 'dan especially loved watching the women do salsa dancing .', 'in addition , dan loved hearing the commentary from the judges .', 'furthermore , dan learned a few moves from watching the show .', 'dan could not wait until next week to watch his favorite show .']",
+    "head": "to take",
+    "relation": "HinderedBy",
+    "tail": "to take",
+    "prediction": 0,
+    "label": 0
+  },
+  {
+    "text": "PersonX plays loud music",
+    "context": "[\"cob brought his tuba to the school 's band room .\", 'all the kids in his class looked at him expectantly .', 'cob began to play a swedish death metal song .', 'all the kids in the classroom covered their ears with their hands .', 'cob ignored them and kept playing the song he was passionate about .']",
+    "head": "PersonX plays loud music",
+    "relation": "xWant",
+    "tail": "to get a drink",
+    "prediction": 0,
+    "label": 0
+  },
+  {
+    "text": "pair of shoes",
+    "context": "['jeremy wants a new pair of shoes .', 'he goes to the shoe store and talks to the owner .', 'the owner tells him he makes all the shoes by hand .', 'jim orders a pair , the owner works hard but realizes he messed up .', 'the owner made a mistake and decided to make jim two pairs at no cost .']",
+    "head": "shoes",
+    "relation": "CapableOf",
+    "tail": "wear on feet",
+    "prediction": 1,
+    "label": 1
+  },
+  {
+    "text": "PersonX decides to play",
+    "context": "['jordan decides he must find something to occupy his time .', 'he decides to try playing a game of solitaire .', 'he draws good cards initially , but quits the game before it is over .', 'jordan shuffles the cards and returns them to a drawer .', 'he is happy that he found something to take up a little time .']",
+    "head": "PersonX decides to play",
+    "relation": "isAfter",
+    "tail": "PersonX is bored",
+    "prediction": 1,
+    "label": 1
+  },
+  {
+    "text": "PersonX finds one 's ___",
+    "context": "['mark wanted to buy a new laptop .', 'he went to the electronics store to check some out .', 'he tested different ones and found the one he liked .', 'then he went home and found the best deal online .', 'he got it within a couple of days and was really happy .']",
+    "head": "PersonX finds one 's ___",
+    "relation": "isBefore",
+    "tail": "PersonX finds the right place to live",
+    "prediction": 0,
+    "label": 0
+  },
+  {
+    "text": "gift paper",
+    "context": "['hank had to wrap a lot of gifts for his family .', 'he ran out of wrapping paper with 4 gifts to go .', 'he went to the kitchen and found shopping bags .', 'he cut up the bags to make sheets of paper .', 'he used the paper to wrap the last of the gifts .']",
+    "head": "paper",
+    "relation": "Desires",
+    "tail": "paper",
+    "prediction": 1,
+    "label": 0
+  },
+  {
+    "text": "bathing cap",
+    "context": "['dustin loved to wear his baseball cap everywhere he went .', 'on vacation his family visited the windy city of chicago .', \"dustin 's baseball cap blew off his head and into the street .\", \"his dad waited until it was safe before getting dustin 's cap .\", 'he loved his baseball cap even though it was a little dirty .']",
+    "head": "bathing cap",
+    "relation": "xAttr",
+    "tail": "protective",
+    "prediction": 0,
+    "label": 0
+  },
+  {
+    "text": "motorcycle",
+    "context": "['dan thought it would be cool to ride a motorcycle .', 'he took a motorcycle license course and passed .', 'he shopped for a bike and found a cool harley .', 'that night , the news showed a man killed on a motorcycle .', \"dan 's new motorcycle gathers dust in the garage .\"]",
+    "head": "motorcycle",
+    "relation": "xAttr",
+    "tail": "capable",
+    "prediction": 1,
+    "label": 0
+  },
+  {
+    "text": "PersonX buys a laptop",
+    "context": "['mark wanted to buy a new laptop .', 'he went to the electronics store to check some out .', 'he tested different ones and found the one he liked .', 'then he went home and found the best deal online .', 'he got it within a couple of days and was really happy .']",
+    "head": "buy laptop",
+    "relation": "Causes",
+    "tail": "buy laptop",
+    "prediction": 1,
+    "label": 0
+  },
+  {
+    "text": "PersonX meets PersonX's goals",
+    "context": "['morgan worked very hard in school .', 'she graduated high school and attended her dream school .', 'whole she was there , her aspirations grew to a double major .', 'but , she had to meet certain requirements to achieve this goal .', 'after much hard work and perseverance , she got accepted .']",
+    "head": "PersonX meets PersonX's goals",
+    "relation": "xReact",
+    "tail": "accomplished",
+    "prediction": 1,
+    "label": 1
+  },
+  {
+    "text": "pair of shoes",
+    "context": "['jeremy wants a new pair of shoes .', 'he goes to the shoe store and talks to the owner .', 'the owner tells him he makes all the shoes by hand .', 'jim orders a pair , the owner works hard but realizes he messed up .', 'the owner made a mistake and decided to make jim two pairs at no cost .']",
+    "head": "pair of shoes",
+    "relation": "HinderedBy",
+    "tail": "pair of shoes",
+    "prediction": 0,
+    "label": 0
+  },
+  {
+    "text": "PersonX asks PersonY to sit",
+    "context": "['lawrence was visiting summer camp for the first time .', \"he was nervous that he would n't make any friends .\", 'he was sitting in the mess hall his first morning eating breakfast .', 'to his delight , a group of boys invited him to sit with them .', 'soon he was close friends with all of them and loving it .']",
+    "head": "ask PersonY",
+    "relation": "Causes",
+    "tail": "person y is not answering",
+    "prediction": 0,
+    "label": 0
+  }
+]
