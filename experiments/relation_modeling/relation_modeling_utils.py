@@ -6,14 +6,18 @@ from datetime import datetime
 import ast
 
 import torch
-from tqdm import tqdm
 from torch import nn
 from torch.utils.data import Dataset
 import spacy
 from torch.nn.utils.rnn import pad_sequence
 import torchmetrics
 
-from kogito.core.relation import PHYSICAL_RELATIONS, SOCIAL_RELATIONS, EVENT_RELATIONS, KnowledgeRelation
+from kogito.core.relation import (
+    # PHYSICAL_RELATIONS,
+    SOCIAL_RELATIONS,
+    EVENT_RELATIONS,
+    KnowledgeRelation,
+)
 from spacy.lang.en.stop_words import STOP_WORDS
 
 IGNORE_WORDS = ["PersonX", "PersonY", "PersonZ", "_", "'", "-"]
@@ -24,6 +28,7 @@ SOCIAL_REL_LABEL = 2
 
 GLOBAL_DOCS = {}
 
+
 def load_data(datapath, multi_label=False):
     data = []
     head_label_map = defaultdict(set)
@@ -31,7 +36,7 @@ def load_data(datapath, multi_label=False):
     with open(datapath) as f:
         for line in f:
             try:
-                head, rel, _ = line.split('\t')
+                head, rel, _ = line.split("\t")
                 relation = KnowledgeRelation.from_text(rel)
                 label = PHYSICAL_REL_LABEL
 
@@ -41,9 +46,9 @@ def load_data(datapath, multi_label=False):
                     label = SOCIAL_REL_LABEL
 
                 head_label_map[head].add(label)
-            except:
+            except Exception:
                 pass
-    
+
     for head, labels in head_label_map.items():
         # final_label = list(labels)[0] if len(labels) == 1 else 2 + sum(labels)
         if multi_label:
@@ -58,25 +63,33 @@ def load_data(datapath, multi_label=False):
 
             data.append((head, final_label))
 
-    return pd.DataFrame(data, columns=['text', 'label'])
+    return pd.DataFrame(data, columns=["text", "label"])
 
 
 def create_emb_matrix(embedding_dim=100):
-    glove = pd.read_csv(f'data/glove/glove.6B.{embedding_dim}d.txt', sep=" ", quoting=3, header=None, index_col=0)
-    vocab = {'<pad>': 0, '<unk>': 1}
+    glove = pd.read_csv(
+        f"data/glove/glove.6B.{embedding_dim}d.txt",
+        sep=" ",
+        quoting=3,
+        header=None,
+        index_col=0,
+    )
+    vocab = {"<pad>": 0, "<unk>": 1}
     embeddings = np.zeros((len(glove) + 2, embedding_dim))
     embeddings[0] = np.zeros(embedding_dim)
     embeddings[1] = np.zeros(embedding_dim)
 
     for index, (key, val) in tqdm(enumerate(glove.T.items()), total=len(glove)):
         vocab[key] = index + 2
-        embeddings[index+2] = val.to_numpy()
+        embeddings[index + 2] = val.to_numpy()
 
     return vocab, embeddings
 
 
 class SWEMHeadDataset(Dataset):
-    def __init__(self, df, vocab, embedding_matrix=None, apply_pooling=False, pooling="avg"):
+    def __init__(
+        self, df, vocab, embedding_matrix=None, apply_pooling=False, pooling="avg"
+    ):
         nlp = spacy.load("en_core_web_sm")
         self.texts = []
 
@@ -85,20 +98,30 @@ class SWEMHeadDataset(Dataset):
             self.labels = []
             self.features = []
 
-            for index, text in enumerate(df['text']):
-                embedding = text_to_embedding(text, vocab=vocab, embedding_matrix=embedding_matrix, nlp=nlp)
+            for index, text in enumerate(df["text"]):
+                embedding = text_to_embedding(
+                    text, vocab=vocab, embedding_matrix=embedding_matrix, nlp=nlp
+                )
                 if embedding is not None:
                     self.features.append(embedding)
-                    self.labels.append(df['label'][index])
+                    self.labels.append(df["label"][index])
                     self.texts.append(text)
-            
+
             self.labels = np.asarray(self.labels)
         else:
             # Pad sequences
-            self.texts = df['text']
-            self.labels = np.asarray(df['label'].to_list())
-            self.features = pad_sequence([torch.tensor([vocab.get(token.text, 1) for token in nlp(text)], dtype=torch.int) for text in df['text']],
-                                    batch_first=True)
+            self.texts = df["text"]
+            self.labels = np.asarray(df["label"].to_list())
+            self.features = pad_sequence(
+                [
+                    torch.tensor(
+                        [vocab.get(token.text, 1) for token in nlp(text)],
+                        dtype=torch.int,
+                    )
+                    for text in df["text"]
+                ],
+                batch_first=True,
+            )
 
     def classes(self):
         return self.labels
@@ -124,13 +147,13 @@ class AvgPool(nn.Module):
 def text_to_embedding(text, vocab, embedding_matrix, pooling="max", nlp=None):
     if not nlp:
         nlp = spacy.load("en_core_web_sm")
-    
+
     doc = nlp(text)
     vectors = []
     for token in doc:
         if token.text in vocab:
             vectors.append(embedding_matrix[vocab[token.text]])
-    
+
     if vectors:
         if pooling == "max":
             return np.amax(np.array(vectors, dtype=np.float32), axis=0)
@@ -139,13 +162,13 @@ def text_to_embedding(text, vocab, embedding_matrix, pooling="max", nlp=None):
 
 def get_timestamp():
     now = datetime.now()
-    return now.strftime('%Y%m%dH%H%M')
+    return now.strftime("%Y%m%dH%H%M")
 
 
 def explode_labels(df):
-    df['label_0'] = df.label.apply(lambda l: l[0])
-    df['label_1'] = df.label.apply(lambda l: l[1])
-    df['label_2'] = df.label.apply(lambda l: l[2])
+    df["label_0"] = df.label.apply(lambda l: l[0])
+    df["label_1"] = df.label.apply(lambda l: l[1])
+    df["label_2"] = df.label.apply(lambda l: l[2])
     return df
 
 
@@ -162,9 +185,17 @@ def get_class_dist_report(df):
                     sub_df = df[(class_x == label_x)]
                     subsub_df = df[(class_x == label_x) & (class_y == label_y)]
                     report[(f"class_{class_x_idx}", label_x)] = len(sub_df) / len(df)
-                    report[(f"class_{class_x_idx}", f"class_{class_y_idx}", label_x, label_y)] = len(subsub_df) / len(df)
-    
+                    report[
+                        (
+                            f"class_{class_x_idx}",
+                            f"class_{class_y_idx}",
+                            label_x,
+                            label_y,
+                        )
+                    ] = len(subsub_df) / len(df)
+
     return report
+
 
 class HeuristicClassifier:
     def __init__(self):
@@ -181,13 +212,14 @@ class HeuristicClassifier:
                 if token.dep_ == "ROOT" and token.pos_ == "VERB":
                     is_sentence = True
                     break
-            
+
             if is_sentence:
                 preds.append([0, 1, 1])
             else:
                 preds.append([1, 0, 0])
-        
+
         return preds
+
 
 class BaseClassifier:
     def predict(self, data):
@@ -195,15 +227,20 @@ class BaseClassifier:
 
         for _ in tqdm(data.text):
             preds.append([1, 1, 1])
-        
+
         return preds
+
 
 def report_metrics(preds, y):
     accuracy = torchmetrics.Accuracy()
     precision = torchmetrics.Precision(num_classes=3, average="weighted")
     recall = torchmetrics.Recall(num_classes=3, average="weighted")
     f1 = torchmetrics.F1Score(num_classes=3, average="weighted")
-    print(f'Accuracy={accuracy(preds, y).item():.3f}, precision={precision(preds, y).item():.3f}, recall={recall(preds, y).item():.3f}, f1={f1(preds, y).item():.3f}')
+    print(
+        f"Accuracy={accuracy(preds, y).item():.3f}, precision={precision(preds, y).item():.3f},"
+        f"recall={recall(preds, y).item():.3f}, f1={f1(preds, y).item():.3f}"
+    )
+
 
 def create_vocab(data, include_stopwords=True):
     nlp = spacy.load("en_core_web_sm", exclude=["ner"])
@@ -212,10 +249,13 @@ def create_vocab(data, include_stopwords=True):
     for text in tqdm(data.text, total=len(data)):
         doc = get_doc(nlp, text)
         for token in doc:
-            if token.text not in IGNORE_WORDS and (include_stopwords or token.text not in STOP_WORDS):
+            if token.text not in IGNORE_WORDS and (
+                include_stopwords or token.text not in STOP_WORDS
+            ):
                 vocab[token.lemma_] += 1
-    
+
     return vocab
+
 
 def get_doc(nlp, text):
     doc = GLOBAL_DOCS.get(text)
@@ -225,9 +265,10 @@ def get_doc(nlp, text):
     GLOBAL_DOCS[text] = doc
     return doc
 
+
 def load_fdata(datapath):
     data = pd.read_csv(datapath)
-    data['label'] = data['label'].apply(ast.literal_eval)
+    data["label"] = data["label"].apply(ast.literal_eval)
     return data
 
 
@@ -235,63 +276,65 @@ class Evaluator:
     def __init__(self) -> None:
         super().__init__()
         self.metrics = dict(
-            train_accuracy = torchmetrics.Accuracy(),
+            train_accuracy=torchmetrics.Accuracy(),
             # (weighted)
-            train_precision = torchmetrics.Precision(num_classes=3, average='weighted'),
-            train_recall = torchmetrics.Recall(num_classes=3, average='weighted'),
-            train_f1 = torchmetrics.F1Score(num_classes=3, average='weighted'),
+            train_precision=torchmetrics.Precision(num_classes=3, average="weighted"),
+            train_recall=torchmetrics.Recall(num_classes=3, average="weighted"),
+            train_f1=torchmetrics.F1Score(num_classes=3, average="weighted"),
             # (micro)
-            train_precision_micro = torchmetrics.Precision(num_classes=3, average='micro'),
-            train_recall_micro = torchmetrics.Recall(num_classes=3, average='micro'),
-            train_f1_micro = torchmetrics.F1Score(num_classes=3, average='micro'),
+            train_precision_micro=torchmetrics.Precision(
+                num_classes=3, average="micro"
+            ),
+            train_recall_micro=torchmetrics.Recall(num_classes=3, average="micro"),
+            train_f1_micro=torchmetrics.F1Score(num_classes=3, average="micro"),
             # (macro)
-            train_precision_macro = torchmetrics.Precision(num_classes=3, average='macro'),
-            train_recall_macro = torchmetrics.Recall(num_classes=3, average='macro'),
-            train_f1_macro = torchmetrics.F1Score(num_classes=3, average='macro'),
+            train_precision_macro=torchmetrics.Precision(
+                num_classes=3, average="macro"
+            ),
+            train_recall_macro=torchmetrics.Recall(num_classes=3, average="macro"),
+            train_f1_macro=torchmetrics.F1Score(num_classes=3, average="macro"),
             # (per class)
-            train_precision_class = torchmetrics.Precision(num_classes=3, average='none'),
-            train_recall_class = torchmetrics.Recall(num_classes=3, average='none'),
-            train_f1_class = torchmetrics.F1Score(num_classes=3, average='none'),
-
+            train_precision_class=torchmetrics.Precision(num_classes=3, average="none"),
+            train_recall_class=torchmetrics.Recall(num_classes=3, average="none"),
+            train_f1_class=torchmetrics.F1Score(num_classes=3, average="none"),
             # Validation metrics
-            val_accuracy = torchmetrics.Accuracy(),
+            val_accuracy=torchmetrics.Accuracy(),
             # (weighted)
-            val_precision = torchmetrics.Precision(num_classes=3, average='weighted'),
-            val_recall = torchmetrics.Recall(num_classes=3, average='weighted'),
-            val_f1 = torchmetrics.F1Score(num_classes=3, average='weighted'),
+            val_precision=torchmetrics.Precision(num_classes=3, average="weighted"),
+            val_recall=torchmetrics.Recall(num_classes=3, average="weighted"),
+            val_f1=torchmetrics.F1Score(num_classes=3, average="weighted"),
             # (micro)
-            val_precision_micro = torchmetrics.Precision(num_classes=3, average='micro'),
-            val_recall_micro = torchmetrics.Recall(num_classes=3, average='micro'),
-            val_f1_micro = torchmetrics.F1Score(num_classes=3, average='micro'),
+            val_precision_micro=torchmetrics.Precision(num_classes=3, average="micro"),
+            val_recall_micro=torchmetrics.Recall(num_classes=3, average="micro"),
+            val_f1_micro=torchmetrics.F1Score(num_classes=3, average="micro"),
             # (macro)
-            val_precision_macro = torchmetrics.Precision(num_classes=3, average='macro'),
-            val_recall_macro = torchmetrics.Recall(num_classes=3, average='macro'),
-            val_f1_macro = torchmetrics.F1Score(num_classes=3, average='macro'),
+            val_precision_macro=torchmetrics.Precision(num_classes=3, average="macro"),
+            val_recall_macro=torchmetrics.Recall(num_classes=3, average="macro"),
+            val_f1_macro=torchmetrics.F1Score(num_classes=3, average="macro"),
             # (per class)
-            val_precision_class = torchmetrics.Precision(num_classes=3, average='none'),
-            val_recall_class = torchmetrics.Recall(num_classes=3, average='none'),
-            val_f1_class = torchmetrics.F1Score(num_classes=3, average='none'),
-
+            val_precision_class=torchmetrics.Precision(num_classes=3, average="none"),
+            val_recall_class=torchmetrics.Recall(num_classes=3, average="none"),
+            val_f1_class=torchmetrics.F1Score(num_classes=3, average="none"),
             # Test metrics
-            test_accuracy = torchmetrics.Accuracy(),
+            test_accuracy=torchmetrics.Accuracy(),
             # (weighted)
-            test_precision = torchmetrics.Precision(num_classes=3, average='weighted'),
-            test_recall = torchmetrics.Recall(num_classes=3, average='weighted'),
-            test_f1 = torchmetrics.F1Score(num_classes=3, average='weighted'),
+            test_precision=torchmetrics.Precision(num_classes=3, average="weighted"),
+            test_recall=torchmetrics.Recall(num_classes=3, average="weighted"),
+            test_f1=torchmetrics.F1Score(num_classes=3, average="weighted"),
             # (micro)
-            test_precision_micro = torchmetrics.Precision(num_classes=3, average='micro'),
-            test_recall_micro = torchmetrics.Recall(num_classes=3, average='micro'),
-            test_f1_micro = torchmetrics.F1Score(num_classes=3, average='micro'),
+            test_precision_micro=torchmetrics.Precision(num_classes=3, average="micro"),
+            test_recall_micro=torchmetrics.Recall(num_classes=3, average="micro"),
+            test_f1_micro=torchmetrics.F1Score(num_classes=3, average="micro"),
             # (macro)
-            test_precision_macro = torchmetrics.Precision(num_classes=3, average='macro'),
-            test_recall_macro = torchmetrics.Recall(num_classes=3, average='macro'),
-            test_f1_macro = torchmetrics.F1Score(num_classes=3, average='macro'),
+            test_precision_macro=torchmetrics.Precision(num_classes=3, average="macro"),
+            test_recall_macro=torchmetrics.Recall(num_classes=3, average="macro"),
+            test_f1_macro=torchmetrics.F1Score(num_classes=3, average="macro"),
             # (per class)
-            test_precision_class = torchmetrics.Precision(num_classes=3, average='none'),
-            test_recall_class = torchmetrics.Recall(num_classes=3, average='none'),
-            test_f1_class = torchmetrics.F1Score(num_classes=3, average='none')
+            test_precision_class=torchmetrics.Precision(num_classes=3, average="none"),
+            test_recall_class=torchmetrics.Recall(num_classes=3, average="none"),
+            test_f1_class=torchmetrics.F1Score(num_classes=3, average="none"),
         )
-    
+
     def log_metrics(self, preds, y, type):
         for metric_name, metric in self.metrics.items():
             if metric_name.startswith(type):
@@ -299,6 +342,8 @@ class Evaluator:
                 value = metric.compute()
                 if len(value.shape) > 0:
                     for idx, val in enumerate(value):
-                        self.log(f'{metric_name}_{idx}', val, on_epoch=True, on_step=False)
+                        self.log(
+                            f"{metric_name}_{idx}", val, on_epoch=True, on_step=False
+                        )
                 else:
                     self.log(metric_name, value, on_epoch=True, on_step=False)

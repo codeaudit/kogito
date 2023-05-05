@@ -33,34 +33,43 @@ class GPT2Zeroshot(KnowledgeModel):
         return cls(model_name_or_path)
 
     def generate(
-        self,
-        input_graph: KnowledgeGraph,
-        seed: int = 42,
-        top_k: int = 1,
-        top_p: float = 0.9,
-        num_sequences: int = 3,
-        num_beams: int = 3,
-        temperature: float = 0.7,
-        repetition_penalty: float = 1.2,
-        max_length: int = 32
+        self, input_graph: KnowledgeGraph, seed: int = 42, **kwargs
     ) -> KnowledgeGraph:
         """Generate inferences from GPT2 model
         Args:
             input_graph (KnowledgeGraph): Input dataset
             seed (int, optional): Random seed. Defaults to 42.
-            top_k (int, optional): GPT-2 top k parameter. Defaults to 1.
-            top_p (float, optional): GPT-2 top p parameter. Defaults to 0.9.
-            num_sequences (int, optional): GPT-2 num_return_sequences parameter. Defaults to 3.
-            num_beams (int, optional): GPT-2 num_beams parameter. Defaults to 3.
-            temperature (float, optional): GPT-2 temperature parameter. Defaults to 0.7.
-            repetition_penalty (float, optional): GPT-2 repetition_penalty parameter. Defaults to 1.2.
-            max_length (int, optional): Max length of generated tokens. Defaults to 32.
+            kwargs: Additional arguments to pass to the model.generate() function
         Returns:
             KnowledgeGraph: Completed knowledge graph
         """
         torch.manual_seed(seed)
         np.random.seed(seed)
         torch.backends.cudnn.deterministic = True
+
+        if "top_k" not in kwargs:
+            kwargs["top_k"] = 1
+
+        if "top_p" not in kwargs:
+            kwargs["top_p"] = 0.9
+
+        if "num_return_sequences" not in kwargs:
+            kwargs["num_return_sequences"] = 3
+
+        if "num_beams" not in kwargs:
+            kwargs["num_beams"] = 3
+
+        if "temperature" not in kwargs:
+            kwargs["temperature"] = 0.7
+
+        if "repetition_penalty" not in kwargs:
+            kwargs["repetition_penalty"] = 1.2
+
+        if "max_length" not in kwargs:
+            kwargs["max_length"] = 32
+
+        if "do_sample" not in kwargs:
+            kwargs["do_sample"] = True
 
         outputs = []
         for input_kg in input_graph:
@@ -71,15 +80,9 @@ class GPT2Zeroshot(KnowledgeModel):
             input_length = input_ids.size(1)
             generations = self.model.generate(
                 input_ids=input_ids.to(device),
-                max_length=input_length + max_length,
-                temperature=temperature,
-                top_k=top_k,
-                top_p=top_p,
+                max_length=input_length + kwargs["max_length"],
                 eos_token_id=198,
-                repetition_penalty=repetition_penalty,
-                do_sample=True,
-                num_return_sequences=num_sequences,
-                num_beams=num_beams,
+                **kwargs
             )
 
             if len(generations.shape) > 2:
@@ -88,7 +91,9 @@ class GPT2Zeroshot(KnowledgeModel):
             text_generations = []
             for gen in generations:
                 gen = gen.tolist()
-                text = self.tokenizer.decode(gen[input_length:], clean_up_tokenization_spaces=True)
+                text = self.tokenizer.decode(
+                    gen[input_length:], clean_up_tokenization_spaces=True
+                )
                 text_generations.append(text.strip())
 
             output_kg = input_kg.copy()

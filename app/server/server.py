@@ -8,9 +8,11 @@ from inference import infer
 app = Flask(__name__)
 CORS(app)
 
+
 @app.route("/")
 def heartbeat():
     return "Running"
+
 
 @app.route("/inference", methods=["POST"])
 def inference():
@@ -20,9 +22,11 @@ def inference():
         traceback.print_exc(e)
         return str(e), 500
 
+
 def main():
-    port = int(os.environ.get('PORT', 8080))
-    app.run(debug=os.environ.get('FLASK_DEBUG', False), host='0.0.0.0', port=port)
+    port = int(os.environ.get("PORT", 8080))
+    app.run(debug=os.environ.get("FLASK_DEBUG", False), host="0.0.0.0", port=port)
+
 
 if __name__ == "__main__":
     main()

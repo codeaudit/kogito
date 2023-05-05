@@ -1,12 +1,10 @@
 from typing import Union, List, Optional
-from itertools import product
 import warnings
 
 import spacy
 
 from kogito.core.knowledge import Knowledge, KnowledgeGraph
 from kogito.core.head import KnowledgeHead
-from kogito.core.relation import PHYSICAL_RELATIONS, SOCIAL_RELATIONS, EVENT_RELATIONS
 from kogito.core.processors.head import (
     KnowledgeHeadExtractor,
     SentenceHeadExtractor,
@@ -18,7 +16,7 @@ from kogito.core.processors.relation import (
     GraphBasedRelationMatcher,
     KnowledgeRelationMatcher,
     SimpleRelationMatcher,
-    BaseRelationMatcher
+    BaseRelationMatcher,
 )
 from kogito.core.model import KnowledgeModel
 from kogito.core.linker import KnowledgeLinker

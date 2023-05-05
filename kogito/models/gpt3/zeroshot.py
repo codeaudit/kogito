@@ -1,4 +1,3 @@
-from typing import Optional
 import openai
 
 from kogito.core.model import KnowledgeModel
@@ -33,34 +32,42 @@ class GPT3Zeroshot(KnowledgeModel):
         self,
         input_graph: KnowledgeGraph,
         num_samples: int = 10,
-        max_tokens: int = 16,
-        temperature: float = 0.9,
-        top_p: float = 1,
-        n: int = 1,
-        logprobs: Optional[int] = None,
-        stop: Optional[str] = None,
         include_task_prompt: bool = True,
         debug: bool = False,
+        **kwargs,
     ) -> KnowledgeGraph:
         """Generate inferences from GPT-3 model
 
         Args:
             input_graph (KnowledgeGraph): Input dataset
             num_samples (int, optional): Number of samples to use. Defaults to 10.
-            max_tokens (int, optional): Max number of tokens. Defaults to 16.
-            temperature (float, optional): GPT-3 temperature parameter. Defaults to 0.9.
-            top_p (float, optional): GPT-3 top_p parameter. Defaults to 1.
-            n (int, optional): Number of generations. Defaults to 1.
-            logprobs (Optional[int], optional): GPT-3 logprobs parameter. Defaults to None.
-            stop (Optional[str], optional): Stop token to use. Defaults to None.
             include_task_prompt (bool, optional): Whether to include task prompt. Defaults to True.
             debug (bool, optional): Whether to enable debug mode. Defaults to False.
+            kwargs: Additional arguments to pass to the OpenAI.Completion API
 
         Returns:
             KnowledgeGraph: Completed knowledge graph
         """
         rel_kg_map = {}
         outputs = []
+
+        if "max_tokens" not in kwargs:
+            kwargs["max_tokens"] = 16
+
+        if "temperature" not in kwargs:
+            kwargs["temperature"] = 0.9
+
+        if "top_p" not in kwargs:
+            kwargs["top_p"] = 0.9
+
+        if "n" not in kwargs:
+            kwargs["n"] = 1
+
+        if "logprobs" not in kwargs:
+            kwargs["logprobs"] = None
+
+        if "stop" not in kwargs:
+            kwargs["stop"] = None
 
         for input_kg in input_graph:
             if input_kg.relation not in rel_kg_map:
@@ -98,12 +105,12 @@ class GPT3Zeroshot(KnowledgeModel):
                     api_key=self.api_key,
                     model_name=self.model_name,
                     prompt=prompts,
-                    max_tokens=max_tokens,
-                    temperature=temperature,
-                    top_p=top_p,
-                    logprobs=logprobs,
-                    n=n,
-                    stop=stop,
+                    max_tokens=kwargs["max_tokens"],
+                    temperature=kwargs["temperature"],
+                    top_p=kwargs["top_p"],
+                    logprobs=kwargs["logprobs"],
+                    n=kwargs["n"],
+                    stop=kwargs["stop"],
                     debug=debug,
                 )
 
@@ -112,7 +119,7 @@ class GPT3Zeroshot(KnowledgeModel):
                     rel_outputs.append(target.copy())
 
                 for result in response.choices:
-                    output_kg = rel_outputs[result["index"] // n]
+                    output_kg = rel_outputs[result["index"] // kwargs["n"]]
                     output_kg.tails.append(result["text"])
 
                 outputs.extend(rel_outputs)

@@ -1,10 +1,10 @@
 import argparse
-import pandas as pd
 from tqdm import tqdm
 import pathlib
 
 from kogito.inference import CommonsenseInference
 from kogito.models.bart.comet import COMETBART
+
 
 def main():
     parser = argparse.ArgumentParser()
@@ -19,9 +19,14 @@ def main():
     csi = CommonsenseInference()
     model = COMETBART.from_pretrained()
 
-    for i, line in tqdm(enumerate(data), total=len(data), desc="Generating", position=0, leave=True):
+    for i, line in tqdm(
+        enumerate(data), total=len(data), desc="Generating", position=0, leave=True
+    ):
         kgraph = csi.infer(line, model)
-        kgraph.to_jsonl(f"{args.output_dir}/{pathlib.Path(args.datapath).stem}_{i+1}.json")
-    
+        kgraph.to_jsonl(
+            f"{args.output_dir}/{pathlib.Path(args.datapath).stem}_{i+1}.json"
+        )
+
+
 if __name__ == "__main__":
     main()

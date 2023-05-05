@@ -128,41 +128,49 @@ class COMETGPT2(KnowledgeModel):
         return self.model
 
     def generate(
-        self,
-        input_graph: KnowledgeGraph,
-        max_length: int = 34,
-        in_len: int = 16,
-        out_len: int = 34,
-        top_k: int = 1,
-        temperature: float = 0.7,
-        top_p: float = 0.9,
-        repetition_penalty: float = 1.2,
-        num_beams: int = 1,
-        num_return_sequences: int = 1,
+        self, input_graph: KnowledgeGraph, max_input_length: int = 16, **kwargs
     ) -> KnowledgeGraph:
         """Generate inferences from knowledge model
 
         Args:
             input_graph (KnowledgeGraph): Input dataset
-            max_length (int, optional): Maximum output length. Defaults to 34.
-            in_len (int, optional): Input length. Defaults to 16.
-            out_len (int, optional): Output length. Defaults to 34.
-            top_k (int, optional): Top k inferences to consider. Defaults to 1.
-            temperature (float, optional): GPT-2 temperature parameter. Defaults to 0.7.
-            top_p (float, optional): GPT-2 top_p parameter. Defaults to 0.9.
-            repetition_penalty (float, optional): GPT-2 repetition_penalty parameter. Defaults to 1.2.
-            num_beams (int, optional): GPT-2 num_beams parameter. Defaults to 1.
-            num_return_sequences (int, optional): GPT-2 num_return_sequences parameter. Defaults to 1.
+            max_input_length (int, optional): Maximum input length. Defaults to 16.
+            kwargs: Additional arguments to pass to the model.generate() function
 
         Returns:
             KnowledgeGraph: Completed knowledge graph
         """
         params = {"batch_size": 1, "shuffle": False, "num_workers": 0}
+
+        if "temperature" not in kwargs:
+            kwargs["temperature"] = 0.7
+
+        if "top_p" not in kwargs:
+            kwargs["top_p"] = 0.9
+
+        if "repetition_penalty" not in kwargs:
+            kwargs["repetition_penalty"] = 1.2
+
+        if "num_beams" not in kwargs:
+            kwargs["num_beams"] = 1
+
+        if "num_return_sequences" not in kwargs:
+            kwargs["num_return_sequences"] = 1
+
+        if "top_k" not in kwargs:
+            kwargs["top_k"] = 1
+
+        if "do_sample" not in kwargs:
+            kwargs["do_sample"] = False
+
+        if "max_length" not in kwargs:
+            kwargs["max_length"] = 34
+
         dataset = KnowledgeDataset(
             input_graph,
             tokenizer=self.tokenizer,
-            source_len=in_len,
-            target_len=out_len - in_len,
+            source_len=max_input_length,
+            target_len=kwargs["max_length"] - max_input_length,
             is_eval=True,
         )
         loader = DataLoader(dataset, **params, drop_last=False)
@@ -177,16 +185,7 @@ class COMETGPT2(KnowledgeModel):
                 mask = data["source_mask"].to(device)
 
                 generated_ids = self.model.generate(
-                    input_ids=ids,
-                    attention_mask=mask,
-                    temperature=temperature,
-                    do_sample=False,
-                    max_length=max_length,
-                    top_p=top_p,
-                    top_k=top_k,
-                    repetition_penalty=repetition_penalty,
-                    num_return_sequences=num_return_sequences,
-                    num_beams=num_beams,
+                    input_ids=ids, attention_mask=mask, **kwargs
                 )
 
                 generations = [

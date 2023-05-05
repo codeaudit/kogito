@@ -9,7 +9,7 @@ ENV KOGITO_DIR=${HOME}/kogito
 SHELL ["/bin/bash", "-cu"]
 
 # Install dependencies
-RUN apt-get update && apt-get install -y --allow-downgrades --allow-change-held-packages --no-install-recommends openssh-server vim wget unzip tmux
+RUN apt-get update && apt-get install -y --allow-downgrades --allow-change-held-packages --no-install-recommends openssh-server vim wget unzip tmux git
 
 # Set up SSH server
 RUN mkdir /var/run/sshd

@@ -78,7 +78,7 @@ class NounPhraseHeadExtractor(KnowledgeHeadExtractor):
                 token.text.strip().lower() not in STOP_WORDS.union(IGNORE_WORDS)
                 and token.pos_ == "NOUN"
             ):
-                token_text = token.text.strip(string.punctuation+" ")
+                token_text = token.text.strip(string.punctuation + " ")
                 if token_text not in head_texts and len(token_text) > 1:
                     head_texts.add(token_text)
                     heads.append(
@@ -97,7 +97,7 @@ class NounPhraseHeadExtractor(KnowledgeHeadExtractor):
                 if token.text.strip().lower() not in STOP_WORDS.union(IGNORE_WORDS):
                     clean_phrase.append(token.text)
 
-            clean_text = " ".join(clean_phrase).strip(string.punctuation+" ")
+            clean_text = " ".join(clean_phrase).strip(string.punctuation + " ")
 
             if clean_text and clean_text not in head_texts and len(clean_text) > 1:
                 head_texts.add(clean_text)

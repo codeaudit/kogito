@@ -134,23 +134,14 @@ class COMETBART(KnowledgeModel):
             trainer.test(self.model)
 
     def generate(
-        self,
-        input_graph: KnowledgeGraph,
-        decode_method: str = "greedy",
-        num_generate: int = 3,
-        batch_size: int = 64,
-        max_length: int = 24,
-        min_length: int = 1,
+        self, input_graph: KnowledgeGraph, batch_size: int = 64, **kwargs
     ) -> KnowledgeGraph:
         """Generate inferences from the model
 
         Args:
             input_graph (KnowledgeGraph): Input dataset
-            decode_method (str, optional): Decoding method. Accepts ["beam", "greedy"]. Defaults to "greedy".
-            num_generate (int, optional): Number of inferences to generate. Defaults to 3.
             batch_size (int, optional): Batch size to use. Defaults to 64.
-            max_length (int, optional): Maximum output length. Defaults to 24.
-            min_length (int, optional): Minimum output length. Defaults to 1.
+            kwargs: Additional arguments to pass to the model.generate() function
 
         Returns:
             KnowledgeGraph: Complete knowledge graph
@@ -160,7 +151,9 @@ class COMETBART(KnowledgeModel):
             for kg_batch in tqdm(list(chunks(input_graph, batch_size))):
                 queries = []
                 for kg_input in kg_batch:
-                    queries.append(kg_input.to_query(decode_method=decode_method))
+                    queries.append(
+                        "{} {} [GEN]".format(str(kg_input.head), str(kg_input.relation))
+                    )
                 batch = self.tokenizer(
                     queries, return_tensors="pt", truncation=True, padding="max_length"
                 ).to(device)
@@ -168,14 +161,23 @@ class COMETBART(KnowledgeModel):
                     **batch, pad_token_id=self.tokenizer.pad_token_id
                 )
 
+                if "num_beams" not in kwargs:
+                    kwargs["num_beams"] = 3
+
+                if "num_return_sequences" not in kwargs:
+                    kwargs["num_return_sequences"] = 3
+
+                if "max_length" not in kwargs:
+                    kwargs["max_length"] = 24
+
+                if "min_length" not in kwargs:
+                    kwargs["min_length"] = 1
+
                 summaries = self.model.generate(
                     input_ids=input_ids,
                     attention_mask=attention_mask,
                     decoder_start_token_id=self.config.decoder_start_token_id,
-                    num_beams=num_generate,
-                    num_return_sequences=num_generate,
-                    max_length=max_length,
-                    min_length=min_length,
+                    **kwargs,
                 )
 
                 output = self.tokenizer.batch_decode(
@@ -185,7 +187,7 @@ class COMETBART(KnowledgeModel):
                 )
 
                 for kg_input, generations in zip(
-                    kg_batch, list(chunks(output, num_generate))
+                    kg_batch, list(chunks(output, kwargs["num_return_sequences"]))
                 ):
                     output_kg = kg_input.copy()
                     output_kg.tails = generations
@@ -230,4 +232,3 @@ class COMETBART(KnowledgeModel):
         else:
             self.model.save_pretrained(save_path)
             self.tokenizer.save_pretrained(save_path)
-            

@@ -80,25 +80,6 @@ class Knowledge:
         tail = self.tails[0] if self.tails else None
         return relation.verbalize(str(head), tail, include_tail=include_tail, **kwargs)
 
-    def to_query(self, decode_method: str = "greedy") -> str:
-        """Convert knowledge to a query text
-
-        Args:
-            decode_method (str, optional): Decoding method. Defaults to "greedy".
-
-        Raises:
-            ValueError: When decode_method is not recognized.
-
-        Returns:
-            str: Query text for the knowledge
-        """
-        if decode_method == "greedy":
-            return "{} {}".format(str(self.head), str(self.relation))
-        elif decode_method == "beam":
-            return "{} {} [GEN]".format(str(self.head), str(self.relation))
-        else:
-            raise ValueError
-
     def copy(self) -> "Knowledge":
         """Copy itself.
 
@@ -240,10 +221,18 @@ class KnowledgeGraph:
             KnowledgeGraph: An instance of KnowledgeGraph
         """
         graph_df = pd.read_csv(
-            filepath, sep=sep, header=header, usecols=[head_col, relation_col, tails_col]
+            filepath,
+            sep=sep,
+            header=header,
+            usecols=[head_col, relation_col, tails_col],
         )
-        return cls.from_dataframe(df=graph_df, head_col=head_col, relation_col=relation_col,
-                                  tails_col=tails_col, relation_type=relation_type)
+        return cls.from_dataframe(
+            df=graph_df,
+            head_col=head_col,
+            relation_col=relation_col,
+            tails_col=tails_col,
+            relation_type=relation_type,
+        )
 
     @classmethod
     def from_dataframe(
@@ -274,9 +263,11 @@ class KnowledgeGraph:
 
         for _, row in df.iterrows():
             head = row[head_col].strip() if exists_head_col else None
-            relation = KnowledgeRelation.from_text(
-                row[relation_col].strip(), relation_type
-            ) if exists_relation_col else None
+            relation = (
+                KnowledgeRelation.from_text(row[relation_col].strip(), relation_type)
+                if exists_relation_col
+                else None
+            )
             tails = row[tails_col] if exists_tails_col else None
             kg_list.append(Knowledge(head=head, relation=relation, tails=tails))
 

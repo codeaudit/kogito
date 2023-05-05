@@ -17,7 +17,7 @@ from kogito.core.relation import (
     PHYSICAL_RELATIONS,
     EVENT_RELATIONS,
     SOCIAL_RELATIONS,
-    CUSTOM_RELATIONS
+    CUSTOM_RELATIONS,
 )
 
 from kogito.core.processors.models.swem import SWEMHeadDataset, SWEMClassifier
@@ -79,11 +79,14 @@ class BaseRelationMatcher(KnowledgeRelationMatcher):
         head_relations = []
 
         for head in heads:
-            rels_to_match = PHYSICAL_RELATIONS + SOCIAL_RELATIONS + EVENT_RELATIONS + CUSTOM_RELATIONS
+            rels_to_match = (
+                PHYSICAL_RELATIONS
+                + SOCIAL_RELATIONS
+                + EVENT_RELATIONS
+                + CUSTOM_RELATIONS
+            )
             if relations:
-                rels_to_match = set(rels_to_match).intersection(
-                    set(relations)
-                )
+                rels_to_match = set(rels_to_match).intersection(set(relations))
             for relation in rels_to_match:
                 head_relations.append((head, relation))
 

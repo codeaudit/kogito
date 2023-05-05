@@ -123,7 +123,9 @@ class SortishSampler(Sampler):
         if len(ck_idx) < 3:
             return iter(np.concatenate(ck_idx))
 
-        sort_idx = np.concatenate([np.concatenate(np.random.permutation(ck_idx[1:-1])), ck_idx[-1]]) 
+        sort_idx = np.concatenate(
+            [np.concatenate(np.random.permutation(ck_idx[1:-1])), ck_idx[-1]]
+        )
         sort_idx = np.concatenate((ck_idx[0], sort_idx))
         return iter(sort_idx)
 

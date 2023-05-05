@@ -555,14 +555,17 @@ CONCEPTNET_TO_ATOMIC_MAP = {
 CUSTOM_RELATIONS = []
 RELATION_KIND = Literal["physical", "event", "social"]
 
-def register_relation(relation: KnowledgeRelation, kind: Optional[RELATION_KIND] = None) -> None:
+
+def register_relation(
+    relation: KnowledgeRelation, kind: Optional[RELATION_KIND] = None
+) -> None:
     """Register a new relation based on its kind. By default, it registers the relation
     as a custom relation without a kind, but optionally it can be registered to be a Physical,
     Event or a Social relation.
 
     Args:
         relation (KnowledgeRelation): Knowledge relation to register.
-        kind (Optional[RELATION_KIND], optional): Relation kind. Available kinds: physical, event, social. 
+        kind (Optional[RELATION_KIND], optional): Relation kind. Available kinds: physical, event, social.
                                                 Defaults to None.
     """
     if relation not in KG_RELATIONS:
