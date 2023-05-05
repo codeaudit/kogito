@@ -1,5 +1,5 @@
 # kogito
-A Python NLP Commonsense Knowledge Inference Tool
+A Python NLP Commonsense Knowledge Inference Toolkit
 
 System Description available here: https://arxiv.org/abs/2211.08451
 
