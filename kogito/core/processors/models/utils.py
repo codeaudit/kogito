@@ -45,7 +45,7 @@ class Evaluator:
             train_recall_class=torchmetrics.Recall(task="multiclass", num_classes=3, average="none"),
             train_f1_class=torchmetrics.F1Score(task="multiclass", num_classes=3, average="none"),
             # Validation metrics
-            val_accuracy=torchmetrics.Accuracy(task="multiclass", task="multiclass", num_classes=3),
+            val_accuracy=torchmetrics.Accuracy(task="multiclass", num_classes=3),
             # (weighted)
             val_precision=torchmetrics.Precision(task="multiclass", num_classes=3, average="weighted"),
             val_recall=torchmetrics.Recall(task="multiclass", num_classes=3, average="weighted"),
@@ -63,7 +63,7 @@ class Evaluator:
             val_recall_class=torchmetrics.Recall(task="multiclass", num_classes=3, average="none"),
             val_f1_class=torchmetrics.F1Score(task="multiclass", num_classes=3, average="none"),
             # Test metrics
-            test_accuracy=torchmetrics.Accuracy(task="multiclass", task="multiclass", num_classes=3),
+            test_accuracy=torchmetrics.Accuracy(task="multiclass", num_classes=3),
             # (weighted)
             test_precision=torchmetrics.Precision(task="multiclass", num_classes=3, average="weighted"),
             test_recall=torchmetrics.Recall(task="multiclass", num_classes=3, average="weighted"),
