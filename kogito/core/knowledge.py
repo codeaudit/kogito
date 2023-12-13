@@ -224,7 +224,8 @@ class KnowledgeGraph:
             filepath,
             sep=sep,
             header=header,
-            usecols=[head_col, relation_col, tails_col],
+            names=[head_col, relation_col, tails_col] if header is None else None,
+            usecols=None if header is None else [head_col, relation_col, tails_col],
         )
         return cls.from_dataframe(
             df=graph_df,
